@@ -144,6 +144,15 @@ desktop.ini
 test_output/
 temp/
 tmp/
+data/output_test/
+data/output_yaml_test/
+data/yaml_output/
+data/parsed/
+*.yaml.tmp
+output.yaml
+
+# Modern Python Tooling
+.ruff_cache/
 
 # Unused code snippets
 *_dead_ends/

@@ -1,0 +1,172 @@
+
+--- PAGE 1 RAW ---
+1
+Capacity of All Nine Models of Channel
+Output Feedback for the Two-user Interference
+Channel
+Achaleshwar Sahai, Vaneet Aggarwal, Melda Yuksel and Ashutosh Sabharwal
+Abstract
+In this paper, we study the impact of different channel output feedback architectures on the capacity of the
+two-user interference channel. For a two-user interference channel, a feedback link can exist between receivers and
+transmitters in 9 canonical architectures (see Fig. 2), ranging from only one feedback link to four feedback links. We
+derive the exact capacity region for the symmetric deterministic interference channel and the constant-gap capacity
+region for the symmetric Gaussian interference channel for all of the 9 architectures. We show that for a linear
+deterministic symmetric interference channel, in the weak interference regime, all models of feedback, except the
+one, which has only one of the receivers feeding back to its own transmitter, have the identical capacity region. When
+only one of the receivers feeds back to its own transmitter, the capacity region is a strict subset of the capacity region
+of the rest of the feedback models in the weak interference regime. However, the sum-capacity of all feedback models
+is identical in the weak interference regime. Moreover, in the strong interference regime all models of feedback with
+at least one of the receivers feeding back to its own transmitter have the identical sum-capacity. For the Gaussian
+interference channel, the results of the linear deterministic model follow, where capacity is replaced with approximate
+capacity.
+I. INTRODUCTION
+The two-user interference channel has been studied in the literature since 1970’s to understand one of the
+main performance limits of multiuser communication networks [3–9]. Feedback in interference channels has been
+considered in order to achieve a possible improvement in data rates. A large body of work on interference channels
+[10–13] explores feedback strategies, where each receiver sends channel output feedback to its own transmitter.
+More generalized form of feedback in a two-user interference channel is considered in [14–17]. Recent work in [18,
+19] particularly analyzes the capacity region of two-user deterministic and Gaussian interference channels, where
+each of the receivers send channel output feedback to its own transmitter. The authors of [20] consider the case
+of rate limited channel output feedback and investigate its capacity region, where each user feeds back to its own
+transmitter.
+The conventional model of channel output feedback in a two-user interference channel has each receiver feeding
+back to its intended transmitter [18–20]. However, several different feedback architectures are possible based on
+the presence or absence of feedback links between both receivers and both transmitters. The feedback architecture
+can be asymmetric if feedback resources available to different transmitter-receiver pairs are different. Consider two
+mobile terminals in two neighboring cells, communicating with their corresponding base stations. If the mobile user
+in the ﬁrst cell is closer to its base-station, then its base-station can support a strong feedback link. At the same
+time, if the mobile station in the neighboring cell is farther away from its base-station, it will experience a poor or
+possibly no feedback channel. In such a case, we say only one direct-link feedback is available. In another scenario,
+suppose one of the receivers in the interference channel is capable of sending feedback to both the transmitters,
+whereas the other receiver does not send any feedback. Then it would be a case of single receiver broadcasting
+feedback. The conventional model of channel output feedback is insufﬁcient to understand the effect of feedback on
+the capacity region of the interference channel. We need to consider different feedback architectures, which forms
+the focus of our study.
+In this paper, we conduct a comprehensive study of the capacity region of all feedback architectures in two-user
+linear deterministic [21, 22] and Gaussian interference channels. The feedback architectures that we study are all
+A. Sahai and A. Sabharwal are with the department of ECE, Rice University, Houston, TX 77005, USA (email: {as27,ashu}@rice.edu). V.
+Aggarwal is with AT&T Labs-Research, Florham Park, NJ 07932, USA (email: vaneet@research.att.com). M. Yuksel is with TOBB University of
+Economics and Technology, Ankara, Turkey (email: yuksel@etu.edu.tr). The material in this paper was presented in part at the IEEE Information
+Theory Workshop, Taormina, Italy, 2009 [1] and at the IEEE International Symposium on Information Theory, Austin, Texas, 2010 [2]. A. Sahai
+and A. Sabharwal were partially supported by NSF grant CNS-1012921 and a grant from Texas Instruments.
+arXiv:1104.4805v3  [cs.IT]  25 Jan 2013
+
+--- PAGE 2 RAW ---
+2
+parametrized by the feedback links they support. In a two-user interference channel, there can be as many as 4
+possible feedback links, i.e., one feedback link from each receiver to each transmitter. Therefore, excluding the
+case of no feedback links, a total of 24 −1 = 15 feedback models are possible. Barring the symmetrical cases,
+9 canonical feedback models are possible, which are shown in Fig. 2. In this work, we study the capacity region
+of all the 9 feedback models shown in Fig. 2. In order to gain insights about good communication schemes that
+apply to the different feedback models, we ﬁrst analyze them under the symmetric linear deterministic model of
+interference. Then, we extend the results to the Gaussian interference channel, deriving the approximate capacity
+region by developing outer and inner bounds, which are within constant bits of one another.
+In this paper, the comprehensive study of capacity region of different feedback architectures leads to three main
+results. The ﬁrst main result of the paper is that for a linear symmetric deterministic interference channel, all 9
+canonical feedback models except one (with only one direct-link feedback, shown in Fig. 2(d)) have the identical
+capacity region in the weak interference regime. Moreover, the capacity region of single direct link feedback model
+is a strict subset of the capacity region of the rest of the feedback models. The ﬁrst main result extends to the
+Gaussian channel case where all models of feedback, except single direct-link feedback model, have the same
+approximate capacity region which is within constant bits from their respective outer-bounds.
+The second main result of the paper is that for a linear symmetric deterministic interference channel, all feedback
+models have the identical sum-capacity in the weak interference regime. This result is particularly interesting because
+if sum-capacity is the performance metric, any one feedback link is sufﬁcient to achieve the maximum feedback
+sum-capacity.
+The third main result of the paper is that to achieve maximum feedback sum-capacity, availability of one direct
+feedback link is sufﬁcient for all regimes of interference, i.e., the sum-capacity with single direct feedback link
+is identical to the sum-capacity with all four feedback links for all regimes of interference. The second and third
+main results also hold for the Gaussian interference channel, if the term sum-capacity is replaced with approximate
+sum-capacity.
+We show the above three results by deriving exact (deterministic)/approximate (Gaussian) capacity regions of all
+of the 9 canonical feedback models. We ﬁnd two new outer-bounds and propose two new achievability schemes.
+For the deterministic channel model, the achievability scheme attains all points on the outer bound, whereas in the
+Gaussian model, the inner bound is a constant number of bits away from the outer bound (2.59 bits/Hz for feedback
+models in Fig. 2(a), 2(b), and 2(c), 4.59 bits/Hz for Fig. 2(d) and Fig. 2(e)). The achievability for all the feedback
+models is derived in two steps. First, an achievable strategy is proposed for two atomic feedback models: one with
+single direct feedback link and another with single cross feedback link (where one of the receivers feeds back to its
+interfering transmitter). Then, using a combination of the achievable strategies for the two atomic feedback models,
+the achievable rate region of the rest of the feedback models is derived.
+The ﬁrst achievable strategy we propose for single direct feedback link is based on using a Han-Kobayashi type
+message splitting [23]. Our coding strategy is similar to the one employed in two-user interference channel without
+feedback in the sense that the coding scheme splits the message at each transmitter into two parts, private and
+common. However, the coding strategy differs in the transmission of the common message. The common message
+generated at the second transmitter is transmitted twice, once by the transmitter, where it is generated, and once
+from the other transmitter, where it is known via feedback. The purpose of the re-transmission of the common
+message depends on the regime of interference. In the strong interference regime, feedback offers gain, if it allows
+the common message to travel from its source to destination via an alternate independent path of higher capacity
+(than the direct link). In the weak interference regime, the ﬁrst transmitter can perform block-Markov encoding
+based on the common message of the second transmitter. Block-Markov encoding of messages based on the common
+message of the second transmitter, helps the ﬁrst receiver to resolve some of the past interference, without causing
+any apparent interference at the second receiver.
+The above achievable strategy turns out to be insufﬁcient to show the exact/approximate capacity region for
+deterministic/Gaussian interference channel with feedback models shown in Fig. 2(e). The second achievable
+strategy, for single cross-link feedback model, is based on block-Markov encoding of messages at the second
+transmitter and dirty paper encoding at the ﬁrst transmitter. Since the second transmitter performs block-Markov
+encoding, and cross-link feedback is available to the ﬁrst transmitter, the ﬁrst transmitter can learn about the
+“future” interference that its receiver will face. Based on the channel output feedback from the second receiver, the
+ﬁrst transmitter performs dirty paper encoding to protect its receiver from future interference. Using this second
+achievable strategy in combination with the ﬁrst achievable strategy, the capacity region for cross-link feedback is
+
+--- PAGE 3 RAW ---
+3
+proven.
+Relations to similar work: The coding strategy in [16, 18, 24] also employ a Han-Kobayashi type message
+splitting. In [18], the feedback model has each transmitter receiving feedback from its respective receiver, and
+while the message is split into only two parts, private and common, only a part of the common message of the
+other transmitter is re-transmitted in subsequent blocks. Our coding scheme for the single direct-link feedback
+re-transmits all the common message of only one of the transmitters. In [16, 24], the message is split into four
+parts: two common and two private and feedback induces source cooperation by making sources learn the common
+message of the other transmitter. In our coding scheme too, the purpose of re-transmitting the common message is
+to induce cooperation/allow routing.
+We would also like to remark that the work on generalized feedback in [14–17], as well as the work on source
+cooperation by two sources overhearing each other’s messages over a noisy channel in [24] are closely related
+to our work. The outer and inner bounds derived in [14, 16] and [24], concurrent to our work in [1, 2], can be
+particularized to obtain the sum-capacity result shown in Lemma 4.4. In this work, we comprehensively study
+the exact and approximate capacity regions for linear deterministic and Gaussian interference channel models
+respectively for all canonical feedback models.
+The rest of the paper is organized as follows. Section II introduces the Gaussian channel model and its deter-
+ministic approximation. Section II also presents all the different feedback models that will be studied in the paper.
+Section III is a preview of the main results and insights regarding them. Section IV and V present the capacity
+regions (exact and approximate respectively) for the linear deterministic and Gaussian interference channels for all
+models of feedback. Section VI concludes the paper with discussions.
+II. CHANNEL MODEL AND PRELIMINARIES
+In this section, we describe the two-user symmetric Gaussian and deterministic interference channel models and
+the 9 canonical feedback architectures that will be used throughout the paper.
+A. Channel Model
+A two-user interference channel consists of two transmitters, T1 and T2, and two receivers D1 and D2. Each
+receiver Du is interested in the message transmitted by transmitter Tu for u ∈{1, 2}, while the message from the
+other transmitter is interference.
+The two-user symmetric Gaussian interference channel, shown in Fig. 1(b) is a special case of the two-user inter-
+ference channel, where the noise at both the receivers have zero mean, unit variance complex Gaussian distribution.
+Let Wu denote the message Tu transmits in N successive transmissions, where Wu ∈Wu = {1, 2 . . . 2NRu},
+N ∈N and Ru ∈R. The function fuj : Wu 7→Xuj denotes the encoding that maps the message to the input
+over the channel, Xuj ∈C, j ∈[1, 2, . . . N]. Let XN
+u = [Xu1, Xu2, . . . XuN] and Y N
+u = [Yu1, Yu2, . . . YuN], where
+Xuj (Yuj) denotes the signal transmitted (received) at the jth time instant at Tu (Du). Then, when gij ∈C are the
+channel gains, the received signals at the two receivers are given by
+Y1j
+=
+g11X1j + g21X2j + Z1j
+Y2j
+=
+g22X2j + g12X1j + Z2j.
+The decoding function hu maps the output Y N
+u
+to a symbol c
+Wu ∈Wu (hu : Y N
+u 7→c
+Wu).
+In this paper, we will focus on the symmetric Gaussian channel, where the direct gains are equal, g11 = g22 = gd,
+the cross gains are equal, g12 = g21 = gc, and the noises Z1j and Z2j are both distributed as CN(0, 1). Moreover,
+the transmitted power is constrained such that E(|X1j|2) ≤P1, E(|X2j|2) ≤P2, and P1 = P2 = P, where the E(.)
+denotes the expected value of a random variable. We also deﬁne the signal to noise ratio (SNR) and the interference
+to noise ratio (INR) as
+SNR = |gd|2P, INR = |gc|2P.
+The regime of interference is weak, when SNR ≥INR and strong when SNR < INR. Moreover, the ratio of INR
+to SNR in dB scale will be denoted by
+α = log(INR)
+log(SNR).
+(1)
+The deterministic interference channel [21] is a good approximation of the Gaussian interference channel, when
+signal and interference powers are much larger compared to the noise. We will use the deterministic approximation

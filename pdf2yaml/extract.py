@@ -31,7 +31,11 @@ def extract_raw_page_blocks(pdf_path: str, options: Any) -> List[Dict[str, Any]]
     if not os.path.exists(pdf_path):
         raise FileNotFoundError(f"PDF file not found at: {pdf_path}")
 
-    doc = pymupdf.open(pdf_path)
+    try:
+        doc = pymupdf.open(pdf_path)
+    except Exception as e:
+        raise RuntimeError(f"Failed to open PDF file '{pdf_path}': {e}")
+
     try:
         total_pages = len(doc)
         limit = total_pages if not getattr(options, "preview_only", False) else min(3, total_pages)
@@ -68,23 +72,25 @@ def extract_raw_page_blocks(pdf_path: str, options: Any) -> List[Dict[str, Any]]
             native_tables = []
             if getattr(options, "detect_tables", True):
                 try:
-                    table_finder = page.find_tables()
-                    if hasattr(table_finder, "tables"):
-                        for tbl in table_finder.tables:
-                            extracted = tbl.extract()
-                            if extracted and len(extracted) > 0:
-                                # Clean cells
-                                clean_rows = []
-                                for row in extracted:
-                                    clean_row = [c.replace("\n", " ").strip() if c else "" for c in row]
-                                    if any(clean_row):
-                                        clean_rows.append(clean_row)
-                                if clean_rows:
-                                    native_tables.append({
-                                        "bbox": list(tbl.bbox),
-                                        "headers": clean_rows[0],
-                                        "rows": clean_rows[1:] if len(clean_rows) > 1 else [],
-                                    })
+                    drawings = page.get_drawings()
+                    if len(drawings) <= 300:
+                        table_finder = page.find_tables()
+                        if hasattr(table_finder, "tables"):
+                            for tbl in table_finder.tables:
+                                extracted = tbl.extract()
+                                if extracted and len(extracted) > 0:
+                                    # Clean cells
+                                    clean_rows = []
+                                    for row in extracted:
+                                        clean_row = [c.replace("\n", " ").strip() if c else "" for c in row]
+                                        if any(clean_row):
+                                            clean_rows.append(clean_row)
+                                    if clean_rows:
+                                        native_tables.append({
+                                            "bbox": list(tbl.bbox),
+                                            "headers": clean_rows[0],
+                                            "rows": clean_rows[1:] if len(clean_rows) > 1 else [],
+                                        })
                 except Exception:
                     pass
 

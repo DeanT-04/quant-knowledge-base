@@ -20,6 +20,11 @@ def _is_relative_to(path: Path, base: Path) -> bool:
 
 
 def main() -> None:
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    if hasattr(sys.stderr, "reconfigure"):
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
     parser = argparse.ArgumentParser(
         prog="pdf2yaml",
         description="Convert PDF documents to clean, layout-aware YAML structures.",
@@ -74,14 +79,32 @@ def main() -> None:
         print(f"Error: No valid PDF files found in inputs: {args.inputs}", file=sys.stderr)
         sys.exit(1)
 
-    for pdf_path, target_file in pdf_tasks:
-        target_file.parent.mkdir(parents=True, exist_ok=True)
-        print(f"[pdf2yaml] Converting {pdf_path} -> {target_file}...")
-        try:
-            pdf_to_yaml(str(pdf_path), str(target_file), options=opts)
-            print(f"[pdf2yaml] Saved -> {target_file}")
-        except Exception as e:
-            print(f"[pdf2yaml] ERROR converting {pdf_path.name}: {e}", file=sys.stderr)
+    from concurrent.futures import ThreadPoolExecutor, TimeoutError
+
+    success_count = 0
+    error_count = 0
+
+    with ThreadPoolExecutor(max_workers=4) as executor:
+        for pdf_path, target_file in pdf_tasks:
+            target_file.parent.mkdir(parents=True, exist_ok=True)
+            if target_file.exists() and target_file.stat().st_size > 0:
+                success_count += 1
+                continue
+
+            print(f"[pdf2yaml] Converting {pdf_path} -> {target_file}...")
+            try:
+                future = executor.submit(pdf_to_yaml, str(pdf_path), str(target_file), opts)
+                future.result(timeout=25)
+                print(f"[pdf2yaml] Saved -> {target_file}")
+                success_count += 1
+            except TimeoutError:
+                error_count += 1
+                print(f"[pdf2yaml] TIMEOUT (>25s) converting {pdf_path.name}, skipping...", file=sys.stderr)
+            except Exception as e:
+                error_count += 1
+                print(f"[pdf2yaml] ERROR converting {pdf_path.name}: {e}", file=sys.stderr)
+
+    print(f"\n[pdf2yaml] Summary: {success_count} succeeded, {error_count} failed out of {len(pdf_tasks)} total.")
 
 
 if __name__ == "__main__":

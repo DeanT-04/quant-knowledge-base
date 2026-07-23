@@ -425,6 +425,54 @@ def parse_pdf_directory(
     if not pdf_files:
         return stats
 
+    if max_workers == 1 and parser is None:
+        tasks = []
+        for pdf_file in pdf_files:
+            md_file, json_file = _output_paths(pdf_file, in_path, out_path)
+            tasks.append((pdf_file, md_file, json_file, parser_kwargs or {}))
+
+        total = len(tasks)
+        done = 0
+        pool = ProcessPoolExecutor(max_workers=1)
+        try:
+            from concurrent.futures import TimeoutError as FuturesTimeoutError
+            for pdf_file, md_file, json_file, pk in tasks:
+                done += 1
+                rel = pdf_file.relative_to(in_path)
+                safe_print(f"[{done}/{total}] Parsing {rel} ...")
+                future = pool.submit(_worker_parse_one, (pdf_file, md_file, json_file, pk))
+                try:
+                    pdf_path, ok, error = future.result(timeout=pk.get("timeout", 180.0))
+                    if ok:
+                        stats["processed"] += 1
+                    else:
+                        stats["failed"] += 1
+                        safe_print(f"Error parsing {rel}: {error}")
+                except (FuturesTimeoutError, TimeoutError):
+                    safe_print(f"Docling conversion timed out after {pk.get('timeout', 180.0)}s on {rel}. Terminating worker and falling back...")
+                    for p in list(pool._processes.values()):
+                        try:
+                            p.terminate()
+                            p.join()
+                        except Exception:
+                            pass
+                    pool.shutdown(wait=False)
+                    
+                    fallback_parser = PaperParser(**pk)
+                    md_text, json_dict = fallback_parser._fallback_parse(
+                        pdf_file,
+                        error_msg=f"Docling conversion timed out after {pk.get('timeout', 180.0)} seconds"
+                    )
+                    md_file.parent.mkdir(parents=True, exist_ok=True)
+                    md_file.write_text(md_text, encoding="utf-8")
+                    with open(json_file, "w", encoding="utf-8") as f:
+                        json.dump(json_dict, f, indent=2, ensure_ascii=False)
+                    stats["failed"] += 1
+                    pool = ProcessPoolExecutor(max_workers=1)
+        finally:
+            pool.shutdown(wait=False)
+        return stats
+
     if max_workers > 1 and parser is None:
         tasks = []
         for pdf_file in pdf_files:

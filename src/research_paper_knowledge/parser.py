@@ -42,6 +42,7 @@ def _subprocess_parse_pdf_worker(
     table_mode: str,
     num_threads: int,
     device: str,
+    timeout: float,
     queue: Any,
 ) -> None:
     try:
@@ -53,9 +54,14 @@ def _subprocess_parse_pdf_worker(
             table_mode=table_mode,
             num_threads=num_threads,
             device=device,
+            timeout=timeout,
             use_watchdog=False  # Prevent infinite subprocess recursion
         )
         result = parser.converter.convert(str(pdf_path))
+        if result.errors:
+            timeout_errors = [e for e in result.errors if "timeout" in str(e.error_message).lower() or e.category.name == 'TIMEOUT']
+            if timeout_errors:
+                raise TimeoutError(f"Docling conversion timed out: {timeout_errors[0].error_message}")
         md = result.document.export_to_markdown()
         js = result.document.export_to_dict()
         queue.put((True, md, js))
@@ -75,7 +81,7 @@ class PaperParser:
         num_threads: Optional[int] = None,
         device: Optional[str] = None,
         timeout: float = 180.0,
-        use_watchdog: bool = True,
+        use_watchdog: bool = False,
     ) -> None:
         """
         Args:
@@ -158,6 +164,7 @@ class PaperParser:
             options.do_picture_description = False
             options.generate_page_images = False
             options.generate_picture_images = False
+            options.document_timeout = self.timeout
 
             options.accelerator_options = AcceleratorOptions(
                 num_threads=self.num_threads,
@@ -182,6 +189,10 @@ class PaperParser:
         if self._converter is not None or not self.use_watchdog:
             try:
                 result = self.converter.convert(str(path))
+                if result.errors:
+                    timeout_errors = [e for e in result.errors if "timeout" in str(e.error_message).lower() or e.category.name == 'TIMEOUT']
+                    if timeout_errors:
+                        raise TimeoutError(f"Docling conversion timed out: {timeout_errors[0].error_message}")
                 markdown_text = result.document.export_to_markdown()
                 json_dict = result.document.export_to_dict()
                 return markdown_text, json_dict
@@ -199,12 +210,13 @@ class PaperParser:
                 self.table_mode,
                 self.num_threads,
                 self.device,
+                self.timeout,
                 queue
             )
         )
         try:
             p.start()
-            p.join(timeout=self.timeout)
+            p.join(timeout=self.timeout + 5.0)  # Add a small buffer for process startup
             if p.is_alive():
                 p.terminate()
                 p.join()

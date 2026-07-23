@@ -535,7 +535,7 @@ def test_safe_print_exception_fallback(capsys, monkeypatch):
 # ---------------------------------------------------------------------------
 
 
-def _mock_hanging_worker(pdf_path, do_table_structure, do_formula_enrichment, table_mode, num_threads, device, queue):
+def _mock_hanging_worker(pdf_path, do_table_structure, do_formula_enrichment, table_mode, num_threads, device, timeout, queue):
     import time
     time.sleep(5)
     queue.put((True, "# Late markdown", {"title": "late"}))

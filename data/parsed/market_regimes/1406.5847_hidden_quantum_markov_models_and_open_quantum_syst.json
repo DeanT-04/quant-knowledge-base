@@ -1,0 +1,3442 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1406.5847_hidden_quantum_markov_models_and_open_quantum_syst",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2781867028158997075,
+    "filename": "1406.5847_hidden_quantum_markov_models_and_open_quantum_syst.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/groups/1"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 590.86,
+            "r": 36.206559297218156,
+            "b": 247.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "arXiv:1406.5847v2  [quant-ph]  5 Jul 2014",
+      "text": "arXiv:1406.5847v2  [quant-ph]  5 Jul 2014",
+      "hyperlink": "http://arxiv.org/abs/1406.5847v2"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 172.8,
+            "t": 676.2536476,
+            "r": 442.52569731059486,
+            "b": 627.4992578285714,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "Hidden Quantum Markov Models and Open Quantum Systems with Instantaneous Feedback",
+      "text": "Hidden Quantum Markov Models and Open Quantum Systems with Instantaneous Feedback",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 153.60000000000002,
+            "t": 594.22271655,
+            "r": 461.40797065000004,
+            "b": 583.22944,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Lewis A. Clark 1 , Wei Huang 2 , Thomas M. Barlow 1 , and Almut Beige 1",
+      "text": "Lewis A. Clark 1 , Wei Huang 2 , Thomas M. Barlow 1 , and Almut Beige 1"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 134.75985000000003,
+            "t": 572.6553907,
+            "r": 480.6704688679242,
+            "b": 551.78874387744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "1 The School of Physics and Astronomy, University of Leeds, Leeds, LS2 9JT, United Kingdom",
+      "text": "1 The School of Physics and Astronomy, University of Leeds, Leeds, LS2 9JT, United Kingdom"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 155.63961999999998,
+            "t": 550.6952507,
+            "r": 459.6362958664655,
+            "b": 529.8290238774399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "2 20 Dover Drive Singapore, Singapore University of Technology & Design, Singapore, 138682, Singapore",
+      "text": "2 20 Dover Drive Singapore, Singapore University of Technology & Design, Singapore, 138682, Singapore"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 163.07997999999995,
+            "t": 492.54016807999994,
+            "r": 452.39522473644877,
+            "b": 374.42932387744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            703
+          ]
+        }
+      ],
+      "orig": "Abstract. Hidden Markov Models are widely used in classical computer science to model stochastic processes with a wide range of applications. This paper concerns the quantum analogues of these machines - socalled Hidden Quantum Markov Models (HQMMs). Using the properties of Quantum Physics, HQMMs are able to generate more complex random output sequences than their classical counterparts, even when using the same number of internal states. They are therefore expected to find applications as quantum simulators of stochastic processes. Here, we emphasise that open quantum systems with instantaneous feedback are examples of HQMMs, thereby identifying a novel application of quantum feedback control.",
+      "text": "Abstract. Hidden Markov Models are widely used in classical computer science to model stochastic processes with a wide range of applications. This paper concerns the quantum analogues of these machines - socalled Hidden Quantum Markov Models (HQMMs). Using the properties of Quantum Physics, HQMMs are able to generate more complex random output sequences than their classical counterparts, even when using the same number of internal states. They are therefore expected to find applications as quantum simulators of stochastic processes. Here, we emphasise that open quantum systems with instantaneous feedback are examples of HQMMs, thereby identifying a novel application of quantum feedback control."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 163.07998,
+            "t": 361.50056808,
+            "r": 457.6264943985227,
+            "b": 342.02932387744005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "Keywords: Stochastic Processes, Hidden Markov Models, Quantum Simulations, Quantum Feedback.",
+      "text": "Keywords: Stochastic Processes, Hidden Markov Models, Quantum Simulations, Quantum Feedback."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 134.76008000000002,
+            "t": 310.9851696,
+            "r": 228.99242304547843,
+            "b": 300.25623154285717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 134.75988,
+            "t": 278.0726199999999,
+            "r": 480.81057730190645,
+            "b": 160.47008000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            763
+          ]
+        }
+      ],
+      "orig": "In classical computer science, a Markov chain is a memoryless stochastic machine, which progresses from one state to another on a discrete time scale. Since their introduction in 1906 by Andrey Markov, the properties of Markov chains have been studied in great detail by mathematicians, computer scientists, and physicists alike [1]. In the meantime, more complex versions of stochastic machines, like Hidden Markov Models (HMMs), have been introduced. These progress randomly from one internal state to another, which remains unobserved (hidden), while producing a stochastic output sequence. HMMs are widely used for the simulation of stochastic processes [2,3,4]. Applications include speech recognition, image analysis and the modelling of biological systems.",
+      "text": "In classical computer science, a Markov chain is a memoryless stochastic machine, which progresses from one state to another on a discrete time scale. Since their introduction in 1906 by Andrey Markov, the properties of Markov chains have been studied in great detail by mathematicians, computer scientists, and physicists alike [1]. In the meantime, more complex versions of stochastic machines, like Hidden Markov Models (HMMs), have been introduced. These progress randomly from one internal state to another, which remains unobserved (hidden), while producing a stochastic output sequence. HMMs are widely used for the simulation of stochastic processes [2,3,4]. Applications include speech recognition, image analysis and the modelling of biological systems."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 134.75988,
+            "t": 148.47252000000003,
+            "r": 480.61879580701634,
+            "b": 126.62977999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 134.76,
+            "t": 673.71198,
+            "r": 480.72906980993525,
+            "b": 556.1094400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            148,
+            928
+          ]
+        }
+      ],
+      "orig": "Over recent years, several attempts have been made to extend the definition of HMMs into the quantum world and to utilise the properties of quantum systems to generate more complex stochastic output sequences [5,6,7,8,9]. For example, in 2011, Monras et al. [6] introduced so-called Hidden Quantum Markov Models (HQMMs). These are machines that progress from one quantum state to another, while generating classical output symbols. To produce an output symbol, a so-called generalised measurement or Kraus operation [10] is performed on the internal state of the machine. One way of implementing a Kraus operation is to use an auxiliary quantum system - a so-called ancilla. In every time step, the internal state of the HQMM interacts with its ancilla, which is then read out by a projective measurement. After every measurement, the ancilla is reset into its initial state, while the internal state of the HQMM remains hidden.",
+      "text": "Over recent years, several attempts have been made to extend the definition of HMMs into the quantum world and to utilise the properties of quantum systems to generate more complex stochastic output sequences [5,6,7,8,9]. For example, in 2011, Monras et al. [6] introduced so-called Hidden Quantum Markov Models (HQMMs). These are machines that progress from one quantum state to another, while generating classical output symbols. To produce an output symbol, a so-called generalised measurement or Kraus operation [10] is performed on the internal state of the machine. One way of implementing a Kraus operation is to use an auxiliary quantum system - a so-called ancilla. In every time step, the internal state of the HQMM interacts with its ancilla, which is then read out by a projective measurement. After every measurement, the ancilla is reset into its initial state, while the internal state of the HQMM remains hidden."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 134.75990000000007,
+            "t": 544.1122800000002,
+            "r": 480.83975674866997,
+            "b": 402.74914000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            872
+          ]
+        }
+      ],
+      "orig": "A Kraus operation is the most general operation that a quantum system can experience, which is why Kraus operations are a vital part of the definition of a HQMM given by Monras et al. [6]. In a previous attempt to introduce quantum analogues of HMMs, Wiesner and Crutchfield [5] defined so-called quantum finite-state generators, which only involved unitary operations and projective measurements. This is the most basic way in which a quantum system may be evolved and measured. The state evolves according to the given unitary operator and is then measured, collapsing the state onto the measurement outcome. In this way, they only obtained a subset of HQMMs, which are less powerful than their classical analogues. Different from quantum finite-state generators, HQMMs are able to produce more complex output sequences than HMMs with the same number of internal states.",
+      "text": "A Kraus operation is the most general operation that a quantum system can experience, which is why Kraus operations are a vital part of the definition of a HQMM given by Monras et al. [6]. In a previous attempt to introduce quantum analogues of HMMs, Wiesner and Crutchfield [5] defined so-called quantum finite-state generators, which only involved unitary operations and projective measurements. This is the most basic way in which a quantum system may be evolved and measured. The state evolves according to the given unitary operator and is then measured, collapsing the state onto the measurement outcome. In this way, they only obtained a subset of HQMMs, which are less powerful than their classical analogues. Different from quantum finite-state generators, HQMMs are able to produce more complex output sequences than HMMs with the same number of internal states."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 149.75990000000007,
+            "t": 390.75198000000006,
+            "r": 446.99788991429523,
+            "b": 380.7893400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "Several ways of implementing HQMMs have already been identified:",
+      "text": "Several ways of implementing HQMMs have already been identified:"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 138.95990000000006,
+            "t": 359.55198000000007,
+            "r": 480.71918401034253,
+            "b": 337.5893400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "1. As pointed out in Ref. [6], one way of implementing HQMMs is the successive, non-adaptive read-out of entangled many-body states.",
+      "text": "As pointed out in Ref. [6], one way of implementing HQMMs is the successive, non-adaptive read-out of entangled many-body states.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 138.96000000000004,
+            "t": 335.19178000000005,
+            "r": 480.6772853256466,
+            "b": 289.3494400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            286
+          ]
+        }
+      ],
+      "orig": "2. Another example of a HQMM is the time evolution of an open quantum system on a coarse grained time scale, ∆t , which produces a random sequence of classical output symbols. Indeed, in Ref. [9], Sweke, Sinayskiy, and Petruccione use the language of HMMs to model open quantum systems.",
+      "text": "Another example of a HQMM is the time evolution of an open quantum system on a coarse grained time scale, ∆t , which produces a random sequence of classical output symbols. Indeed, in Ref. [9], Sweke, Sinayskiy, and Petruccione use the language of HMMs to model open quantum systems.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 138.95999999999998,
+            "t": 286.83198000000004,
+            "r": 480.58189421925533,
+            "b": 252.9892400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "3. The purpose of this paper is to highlight the connection between HQMMs and open quantum systems with instantaneous feedback [11]. In this way, we identify a way of implementing an even wider set of HQMMs.",
+      "text": "The purpose of this paper is to highlight the connection between HQMMs and open quantum systems with instantaneous feedback [11]. In this way, we identify a way of implementing an even wider set of HQMMs.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 134.75977999999992,
+            "t": 232.23198000000002,
+            "r": 480.7187031916491,
+            "b": 126.62904000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            703
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 134.76,
+            "t": 673.71198,
+            "r": 480.6784631364582,
+            "b": 615.86964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            704,
+            1047
+          ]
+        }
+      ],
+      "orig": "Like HQMMs, open quantum systems evolve randomly in time. Taking this perspective, the open quantum system itself provides the internal states of a HQMM, while its surrounding bath plays the role of the ancilla, which is constantly reset into an environmentally preferred, or einselected , state [12]. By this, we mean the state that the environment would naturally evolve into if left alone. The continuous interaction between the internal states and the bath moves the bath away from its einselected state, thereby usually producing a measurable response that manifests itself as a random classical symbol. The effective dynamics of such a machine, when averaged over all possible trajectories, can be described by a Markovian master equation [13,14,15]. When describing an open quantum system in this way, its accompanying output sequence is ignored. Here we suggest not to do so and to use the output sequences of open quantum systems to simulate stochastic processes. Like HMMs, we expect HQMMs to find a wide range of applications [6,16,17].",
+      "text": "Like HQMMs, open quantum systems evolve randomly in time. Taking this perspective, the open quantum system itself provides the internal states of a HQMM, while its surrounding bath plays the role of the ancilla, which is constantly reset into an environmentally preferred, or einselected , state [12]. By this, we mean the state that the environment would naturally evolve into if left alone. The continuous interaction between the internal states and the bath moves the bath away from its einselected state, thereby usually producing a measurable response that manifests itself as a random classical symbol. The effective dynamics of such a machine, when averaged over all possible trajectories, can be described by a Markovian master equation [13,14,15]. When describing an open quantum system in this way, its accompanying output sequence is ignored. Here we suggest not to do so and to use the output sequences of open quantum systems to simulate stochastic processes. Like HMMs, we expect HQMMs to find a wide range of applications [6,16,17]."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 134.76,
+            "t": 603.9920800000001,
+            "r": 480.6901512731842,
+            "b": 510.26964000000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            573
+          ]
+        }
+      ],
+      "orig": "Quantum feedback is a process in which the classical output symbols produced by an open quantum system are used to change its internal dynamics. Applications of quantum feedback control can be found, for example, in Quantum Information Processing [11], where it is especially used to control state preparation [18] and quantum transport [19]. In these applications, the feedback is used to guide the internal dynamics of a quantum system. In contrast to this, this paper proposes to use quantum feedback to manipulate the classical output sequences of open quantum systems.",
+      "text": "Quantum feedback is a process in which the classical output symbols produced by an open quantum system are used to change its internal dynamics. Applications of quantum feedback control can be found, for example, in Quantum Information Processing [11], where it is especially used to control state preparation [18] and quantum transport [19]. In these applications, the feedback is used to guide the internal dynamics of a quantum system. In contrast to this, this paper proposes to use quantum feedback to manipulate the classical output sequences of open quantum systems."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 134.76,
+            "t": 498.27208000000013,
+            "r": 480.67786913976573,
+            "b": 440.5496400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            337
+          ]
+        }
+      ],
+      "orig": "There are five sections in this paper. Sect. 2 shortly reviews HQMMs. Afterwards, in Sect. 3, we review the master equations of Markovian open quantum systems with and without instantaneous feedback. Sect. 4 shows that open quantum systems with instantaneous feedback are examples of HQMMs. Finally, we summarise our findings in Sect. 5.",
+      "text": "There are five sections in this paper. Sect. 2 shortly reviews HQMMs. Afterwards, in Sect. 3, we review the master equations of Markovian open quantum systems with and without instantaneous feedback. Sect. 4 shows that open quantum systems with instantaneous feedback are examples of HQMMs. Finally, we summarise our findings in Sect. 5."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 134.76,
+            "t": 407.8248296000001,
+            "r": 353.6570749339394,
+            "b": 397.09589154285726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "2 Hidden Quantum Markov Models",
+      "text": "2 Hidden Quantum Markov Models",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 134.75847999999996,
+            "t": 371.4321800000001,
+            "r": 480.848932750356,
+            "b": 265.82924,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            689
+          ]
+        }
+      ],
+      "orig": "Hidden Markov Models (HMMs) are machines that evolve randomly from one internal state to another. In every time step, an output symbol is produced. Only the output symbol is detected externally, while the internal state of the machine remains hidden. Consequently, the time evolution of a HMM is characterised through a set of transition matrices T m , where m denotes the output symbol generated during the respective time step. For example, if the initial probability distribution of the internal states of the HMM is given by a vector p 0 , then the probability to obtain the outputs abc . . . def , where a is the first symbol produced and f is the last, is given by (see eg. Ref. [6])",
+      "text": "Hidden Markov Models (HMMs) are machines that evolve randomly from one internal state to another. In every time step, an output symbol is produced. Only the output symbol is detected externally, while the internal state of the machine remains hidden. Consequently, the time evolution of a HMM is characterised through a set of transition matrices T m , where m denotes the output symbol generated during the respective time step. For example, if the initial probability distribution of the internal states of the HMM is given by a vector p 0 , then the probability to obtain the outputs abc . . . def , where a is the first symbol produced and f is the last, is given by (see eg. Ref. [6])"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 221.63821999999996,
+            "t": 252.99188000000004,
+            "r": 480.6240129111503,
+            "b": 242.45239130539994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "p ( abc . . . def ) = η T f T e T d . . . T c T b T a p 0 . (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 134.7585299999999,
+            "t": 230.19187999999997,
+            "r": 377.3951966808316,
+            "b": 220.22924,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Here, η is a vector with all of its coefficients equal to 1.",
+      "text": "Here, η is a vector with all of its coefficients equal to 1."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 134.7579099999998,
+            "t": 208.23208,
+            "r": 480.7251428846055,
+            "b": 126.62914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            531
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.76,
+            "t": 673.71198,
+            "r": 480.56420699000216,
+            "b": 651.74934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            532,
+            624
+          ]
+        }
+      ],
+      "orig": "Analogously, a Hidden Quantum Markov Model (HQMM) with a certain probability distribution of its internal state populations can be described by a density matrix, ρ S . In every time step, the system evolves and produces an output symbol. Again, only the output symbol is detected externally, while the internal state of the machine remains hidden. In contrast to HMMs, the time evolution of a HQMM is governed by a set of Kraus operators K m , where the subscripts m coincide again with the output symbols of the machine. Using the same example as above, the probability of the output abc . . . def occurring is now given by",
+      "text": "Analogously, a Hidden Quantum Markov Model (HQMM) with a certain probability distribution of its internal state populations can be described by a density matrix, ρ S . In every time step, the system evolves and produces an output symbol. Again, only the output symbol is detected externally, while the internal state of the machine remains hidden. In contrast to HMMs, the time evolution of a HQMM is governed by a set of Kraus operators K m , where the subscripts m coincide again with the output symbols of the machine. Using the same example as above, the probability of the output abc . . . def occurring is now given by"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 150.48039999999992,
+            "t": 642.8787056000001,
+            "r": 480.6258699111506,
+            "b": 613.0007482399998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "p ( abc . . . def ) = Tr ( K f K e K d . . . K c K b K a ρ S K † a K † b K † c . . . K † d K † e K † f ) . (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.76030700000007,
+            "t": 615.6322799999997,
+            "r": 480.6056367330177,
+            "b": 593.6696399999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "If the output symbol is ignored, then the density matrix ρ S ( t ) of a HQMM evolves within a time step ( t, t + ∆t ) such that",
+      "text": "If the output symbol is ignored, then the density matrix ρ S ( t ) of a HQMM evolves within a time step ( t, t + ∆t ) such that"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 238.32016700000008,
+            "t": 585.2296903999996,
+            "r": 480.6258169111506,
+            "b": 547.8406482399997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "ρ S ( t + ∆t ) = ∞ ∑ m =0 K m ρ S ( t ) K † m . (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.7601540000002,
+            "t": 546.3920799999997,
+            "r": 480.56920409611735,
+            "b": 524.4294399999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "The above Kraus operators K m should form a complete set. This means they need to obey the condition",
+      "text": "The above Kraus operators K m should form a complete set. This means they need to obey the condition"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.75979200000017,
+            "t": 488.9123099999996,
+            "r": 480.60805719741285,
+            "b": 466.9496699999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "for the density matrix ρ S ( t + ∆t ) to be normalised. More details can be found in Ref. [6].",
+      "text": "for the density matrix ρ S ( t + ∆t ) to be normalised. More details can be found in Ref. [6]."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 273.9603940000001,
+            "t": 524.8699203999996,
+            "r": 480.6256736951505,
+            "b": 487.48087823999964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "∞ ∑ m =0 K † m K m = 1 (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.75979200000017,
+            "t": 437.2248595999996,
+            "r": 293.0566975032835,
+            "b": 426.49592154285676,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "3 Open quantum systems",
+      "text": "3 Open quantum systems",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.75979200000017,
+            "t": 403.7119099999996,
+            "r": 480.7184662767308,
+            "b": 286.22926999999953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            749
+          ]
+        }
+      ],
+      "orig": "In the following, we describe how master equations can be used to model the time evolution of open quantum systems with linear couplings between the quantum system and its surrounding bath. Adopting the ideas of Zurek and others [12,20], we assume that the bath possesses an environmentally preferred state, a socalled einselected or pointer state. While the internal states of the open quantum system evolve on a relatively slow time scale, the bath relaxes rapidly back into its preferred state whenever its state is perturbed by the system-bath interaction. The more microscopic approach to the derivation of master equations, which we review here, makes it easy to incorporate instantaneous feedback into the dynamics of the open quantum system.",
+      "text": "In the following, we describe how master equations can be used to model the time evolution of open quantum systems with linear couplings between the quantum system and its surrounding bath. Adopting the ideas of Zurek and others [12,20], we assume that the bath possesses an environmentally preferred state, a socalled einselected or pointer state. While the internal states of the open quantum system evolve on a relatively slow time scale, the bath relaxes rapidly back into its preferred state whenever its state is perturbed by the system-bath interaction. The more microscopic approach to the derivation of master equations, which we review here, makes it easy to incorporate instantaneous feedback into the dynamics of the open quantum system."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.75971200000018,
+            "t": 274.23210999999947,
+            "r": 480.6081297777366,
+            "b": 252.2694699999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "Our starting point is the Hamiltonian, H , for system and bath, which can be split into four parts,",
+      "text": "Our starting point is the Hamiltonian, H , for system and bath, which can be split into four parts,"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 243.7197120000002,
+            "t": 241.95200999999952,
+            "r": 480.6253749111505,
+            "b": 231.41252130539954,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "H = H S + H int + H B + H SB . (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.7598920000001,
+            "t": 221.55200999999954,
+            "r": 480.71900267809974,
+            "b": 163.25238130539947,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            395
+          ]
+        }
+      ],
+      "orig": "Here, H S describes the free energy of the system and H int allows for some internal system dynamics. Moreover, H B represents the free energy of the bath and H SB accounts for the system-bath interaction. When denoting the energy eigenstates of system and bath by | n 〉 S and | m 〉 B , respectively, and assuming a linear coupling between system and bath, H S , H B , and H SB can be written as",
+      "text": "Here, H S describes the free energy of the system and H int allows for some internal system dynamics. Moreover, H B represents the free energy of the bath and H SB accounts for the system-bath interaction. When denoting the energy eigenstates of system and bath by | n 〉 S and | m 〉 B , respectively, and assuming a linear coupling between system and bath, H S , H B , and H SB can be written as"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 197.160362,
+            "t": 154.13254504999952,
+            "r": 296.63955727999996,
+            "b": 116.68073823999953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "H S = N ∑ n =1 ¯ hω n | n 〉 SS 〈 n | ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 191.63945999999987,
+            "t": 677.0293903999999,
+            "r": 480.6246248235999,
+            "b": 604.84034824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "H B = ∞ ∑ m =0 ¯ hω m | m 〉 BB 〈 m | , H SB = ∞ ∑ m,m ′ =0 N ∑ n,n ′ =1 ¯ hg nm,n ′ m ′ | n ′ m ′ 〉 SBSB 〈 nm | +H.c. (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.7594699999998,
+            "t": 603.9917820000001,
+            "r": 480.6767278560338,
+            "b": 558.149042,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "without loss of generality. Because of being a bath, an infinite number of highly degenerate energy levels ¯ hω m may occur. Finally, the g 's are system-bath coupling constants. Here, we assume for simplicity that these are time independent, though this is not always the case.",
+      "text": "without loss of generality. Because of being a bath, an infinite number of highly degenerate energy levels ¯ hω m may occur. Finally, the g 's are system-bath coupling constants. Here, we assume for simplicity that these are time independent, though this is not always the case."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.7598299999998,
+            "t": 546.2714820000001,
+            "r": 480.71852126431367,
+            "b": 511.73199330540007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "Since we are interested in identifying the relatively slow, effective internal dynamics of the open quantum system, we now move into the interaction picture with respect to the free system H 0 = H B + H S , giving the interaction Hamiltonian",
+      "text": "Since we are interested in identifying the relatively slow, effective internal dynamics of the open quantum system, we now move into the interaction picture with respect to the free system H 0 = H B + H S , giving the interaction Hamiltonian"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 157.79962999999984,
+            "t": 504.89185705000006,
+            "r": 480.62546291115035,
+            "b": 458.69177730540014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "H I ( t ) = ∞ ∑ m,m ′ =0 N ∑ n,n ′ =1 ¯ hg nm,n ′ m ′ | n ′ m ′ 〉 SBSB 〈 nm | e -i( ω m -ω m ′ + ω n -ω n ′ ) t +H.c. + H int I ( t ) (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.75997999999993,
+            "t": 451.11175600000007,
+            "r": 480.725819641755,
+            "b": 405.2690160000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            279
+          ]
+        }
+      ],
+      "orig": "with H int I ( t ) describing the internal dynamics of the system in the interaction picture. The Hamiltonian H I no longer contains free energy terms. The time evolution of system and environment in the interaction picture is hence much slower than in the Schr¨ odinger picture.",
+      "text": "with H int I ( t ) describing the internal dynamics of the system in the interaction picture. The Hamiltonian H I no longer contains free energy terms. The time evolution of system and environment in the interaction picture is hence much slower than in the Schr¨ odinger picture."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.75991999999994,
+            "t": 393.39145600000006,
+            "r": 480.8241456647875,
+            "b": 299.09177730540006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            607
+          ]
+        }
+      ],
+      "orig": "Suppose the environment, which the bath couples to, thermalises very rapidly, thereby relaxing the bath into an environmentally preferred state - a so-called pointer state. This state minimises the entropy of the bath and does not evolve in time unless there is a very strong system-bath interaction. In the following, we denote the corresponding bath state by | 0 〉 B . Without restrictions, the above introduced notation can indeed be chosen such that the pointer state corresponds to m = 0. Moreover, we can choose the free energy of the pointer state such that ω 0 = 0, again without loss of generality.",
+      "text": "Suppose the environment, which the bath couples to, thermalises very rapidly, thereby relaxing the bath into an environmentally preferred state - a so-called pointer state. This state minimises the entropy of the bath and does not evolve in time unless there is a very strong system-bath interaction. In the following, we denote the corresponding bath state by | 0 〉 B . Without restrictions, the above introduced notation can indeed be chosen such that the pointer state corresponds to m = 0. Moreover, we can choose the free energy of the pointer state such that ω 0 = 0, again without loss of generality."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.75974999999988,
+            "t": 287.79145600000004,
+            "r": 480.5975330399999,
+            "b": 241.37187730540006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            276
+          ]
+        }
+      ],
+      "orig": "Next we assume that the initial state of the open quantum system at a time t is given by the density matrix ρ S ( t ), while the bath is in | 0 〉 B . Over a short time ∆t , the system and bath then evolve in the interaction picture into the density matrix ρ SB ( t + ∆t ) with",
+      "text": "Next we assume that the initial state of the open quantum system at a time t is given by the density matrix ρ S ( t ), while the bath is in | 0 〉 B . Over a short time ∆t , the system and bath then evolve in the interaction picture into the density matrix ρ SB ( t + ∆t ) with"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 184.79969999999994,
+            "t": 234.8290664000001,
+            "r": 480.62525291115014,
+            "b": 215.55534160000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "ρ SB ( t + ∆t ) = U I ( t + ∆t, t ) | 0 〉 B ρ S ( t ) B 〈 0 | U † I ( t + ∆t, t ) . (8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.75976999999972,
+            "t": 214.47155600000008,
+            "r": 480.66053536532337,
+            "b": 144.74911600000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            419
+          ]
+        }
+      ],
+      "orig": "Subsequently, on a time scale that is fast compared to ∆t , the surrounding bath thermalises again, which transforms it back into its pointer state. Due to locality, this process should only affect the bath and not the quantum system itself. All the expectation values of the system should remain the same during the relaxation process. Consequently, the time evolution of system and bath within ∆t can be summarised as",
+      "text": "Subsequently, on a time scale that is fast compared to ∆t , the surrounding bath thermalises again, which transforms it back into its pointer state. Due to locality, this process should only affect the bath and not the quantum system itself. All the expectation values of the system should remain the same during the relaxation process. Consequently, the time evolution of system and bath within ∆t can be summarised as"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 230.87976999999975,
+            "t": 136.5914560000001,
+            "r": 480.62528291115024,
+            "b": 119.55534160000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "ρ SB ( t + ∆t ) -→ | 0 〉 B ρ S ( t + ∆t ) B 〈 0 | (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 134.76,
+            "t": 673.71198,
+            "r": 154.08891661866602,
+            "b": 663.74934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "with",
+      "text": "with"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 236.04,
+            "t": 661.71198,
+            "r": 480.6255531347223,
+            "b": 651.1724913054001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "ρ S ( t + ∆t ) = Tr B ( ρ SB ( t + ∆t )) . (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 134.7600099999999,
+            "t": 644.9119800000001,
+            "r": 480.7129593196718,
+            "b": 598.4924013054001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        }
+      ],
+      "orig": "This equation describes an effective Markovian system dynamics within the time interval ( t, t + ∆t ). To summarise the effective time evolution of the open quantum system in a more compact form, i.e. in form of a master equation, we now calculate the time derivative of ρ S ( t ),",
+      "text": "This equation describes an effective Markovian system dynamics within the time interval ( t, t + ∆t ). To summarise the effective time evolution of the open quantum system in a more compact form, i.e. in form of a master equation, we now calculate the time derivative of ρ S ( t ),"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 228.36041999999992,
+            "t": 591.1522000000001,
+            "r": 480.6254931347223,
+            "b": 567.3960956000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "˙ ρ S = lim ∆t → 0 1 ∆t ( ρ S ( t + ∆t ) -ρ S ( t )) . (11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 134.75994999999995,
+            "t": 561.0322100000001,
+            "r": 480.67644044679065,
+            "b": 527.18947,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "Using the above mentioned time scale separation between the internal and external dynamics of the open quantum system allows us to evaluate equation (10) using second order perturbation theory, which implies",
+      "text": "Using the above mentioned time scale separation between the internal and external dynamics of the open quantum system allows us to evaluate equation (10) using second order perturbation theory, which implies"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 165.47984999999994,
+            "t": 518.93246505,
+            "r": 480.6253531347225,
+            "b": 487.00054824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "U I ( ∆t, 0) = 1 -i ¯ h ∫ ∆t 0 d t H I ( t ) -1 ¯ h 2 ∫ ∆t 0 d t ∫ t 0 d t ′ H I ( t ) H I ( t ′ ) . (12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 134.75981000000013,
+            "t": 484.71210999999994,
+            "r": 480.65488340855325,
+            "b": 462.86936999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "Substituting Eqs. (7), (10) and (12) into equation (11) eventually yields a master equation of the general form (see e.g. Refs. [13,14,15,20] for more details)",
+      "text": "Substituting Eqs. (7), (10) and (12) into equation (11) eventually yields a master equation of the general form (see e.g. Refs. [13,14,15,20] for more details)"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 164.51989000000012,
+            "t": 453.05225505,
+            "r": 480.62534913472234,
+            "b": 379.12042823999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "˙ ρ S = -i ¯ h [ H int I , ρ S ] -1 2 N ∑ n,n ′ ,n ′′ ,n ′′′ =1 ξ nn ′ ξ ∗ n ′′ n ′′′ [ L † n ′′ n ′′′ L nn ′ , ρ S ] + + N ∑ n,n ′ ,n ′′ ,n ′′′ =1 ξ nn ′ ξ ∗ n ′′ n ′′′ L nn ′ ρ S L † n ′′ n ′′′ . (13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 134.75980599999997,
+            "t": 376.47185199999996,
+            "r": 480.63920331545995,
+            "b": 330.62911199999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            298
+          ]
+        }
+      ],
+      "orig": "The L 's in this equation are operators that act on the internal states of the open quantum system and the ξ 's are constants. In addition, one can show that the above equation is of Lindblad form [21], which is the most general way of expressing the master equation for a Markovian quantum system.",
+      "text": "The L 's in this equation are operators that act on the internal states of the open quantum system and the ξ 's are constants. In addition, one can show that the above equation is of Lindblad form [21], which is the most general way of expressing the master equation for a Markovian quantum system."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 134.759366,
+            "t": 318.6319519999999,
+            "r": 480.7273843277449,
+            "b": 189.1493119999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            832
+          ]
+        }
+      ],
+      "orig": "Equation (13) describes open quantum systems without feedback. These are quantum systems, where the environment does nothing else but constantly resets the bath that surrounds the system back into its pointer state. However, this is not necessarily the case. Open quantum systems can be designed such that the population of a state | m 〉 B that is not environmentally preferred, triggers a back action, which changes the density matrix ρ S ( t ) by a certain unitary operation R m . Such a back action is known as feedback . If the feedback is so fast such that its time scale is short compared to the time scale on which ρ S ( t ) evolves, then we talk about instantaneous feedback. Using the same arguments as above, one can show that the open quantum system evolves in this case according to a master equation of the general form",
+      "text": "Equation (13) describes open quantum systems without feedback. These are quantum systems, where the environment does nothing else but constantly resets the bath that surrounds the system back into its pointer state. However, this is not necessarily the case. Open quantum systems can be designed such that the population of a state | m 〉 B that is not environmentally preferred, triggers a back action, which changes the density matrix ρ S ( t ) by a certain unitary operation R m . Such a back action is known as feedback . If the feedback is so fast such that its time scale is short compared to the time scale on which ρ S ( t ) evolves, then we talk about instantaneous feedback. Using the same arguments as above, one can show that the open quantum system evolves in this case according to a master equation of the general form"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 168.479326,
+            "t": 181.2529422399998,
+            "r": 444.7160194499999,
+            "b": 118.36084824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "˙ ρ S = -i ¯ h [ H int I , ρ S ] -1 2 ∞ ∑ m =1 N ∑ n,n ′ ,n ′′ ,n ′′′ =1 ξ nn ′ ,m ξ ∗ n ′′ n ′′′ ,m [ L † n ′′ n ′′′ ,m L nn ′ ,m , ρ S ] +",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 191.88,
+            "t": 675.41205505,
+            "r": 480.62517513472227,
+            "b": 637.96024824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "+ ∞ ∑ m =1 N ∑ n,n ′ ,n ′′ ,n ′′′ =1 ξ nn ′ ,m ξ ∗ n ′′ n ′′′ ,m L nn ′ ,m ρ S L † n ′′ n ′′′ ,m (14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 134.7596319999999,
+            "t": 632.6717800000001,
+            "r": 326.304866998634,
+            "b": 622.3372946000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "with the L nn ′ ,m operators defined such that",
+      "text": "with the L nn ′ ,m operators defined such that"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 265.9193519999999,
+            "t": 610.2319830000001,
+            "r": 480.62497513472226,
+            "b": 599.8971046,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "L nn ′ ,m = R m L nn ′ . (15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 134.7594319999999,
+            "t": 587.6717830000001,
+            "r": 480.67716636991895,
+            "b": 565.8290430000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "This equation is of exactly the same form as the master equation for open quantum systems with instantaneous feedback in Ref. [11].",
+      "text": "This equation is of exactly the same form as the master equation for open quantum systems with instantaneous feedback in Ref. [11]."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 134.7594319999999,
+            "t": 533.5843326000002,
+            "r": 365.29633192606724,
+            "b": 522.8553945428572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "4 Open quantum systems as HQMMs",
+      "text": "4 Open quantum systems as HQMMs",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 134.75898199999995,
+            "t": 497.67178300000006,
+            "r": 480.6087444330938,
+            "b": 439.94934300000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            390
+          ]
+        }
+      ],
+      "orig": "Comparing the above description of open quantum systems with the definition of the HQMM in Sect. 2, it becomes relatively straightforward to see that open quantum systems with instantaneous feedback are concrete examples of HQMMs. To illustrate this in more detail, we notice that ρ S ( t + ∆t ) in equation (10) is a statistical mixture of different subensembles and distinguish two cases.",
+      "text": "Comparing the above description of open quantum systems with the definition of the HQMM in Sect. 2, it becomes relatively straightforward to see that open quantum systems with instantaneous feedback are concrete examples of HQMMs. To illustrate this in more detail, we notice that ρ S ( t + ∆t ) in equation (10) is a statistical mixture of different subensembles and distinguish two cases."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 134.75898199999995,
+            "t": 408.34376308000003,
+            "r": 386.89288165549783,
+            "b": 399.4058944627429,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "4.1 Energy exchange with bath and environment",
+      "text": "4.1 Energy exchange with bath and environment",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 134.75865199999998,
+            "t": 377.791683,
+            "r": 480.68845187821876,
+            "b": 331.948943,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            314
+          ]
+        }
+      ],
+      "orig": "The first case is the one, where the bath has been reset into its pointer state, | 0 〉 B , within ( t, t + ∆t ) after having evolved into | m 〉 B and experiencing the feedback operation R m . The above equations and their given interpretation tell us that the density matrix of the corresponding subensemble equals",
+      "text": "The first case is the one, where the bath has been reset into its pointer state, | 0 〉 B , within ( t, t + ∆t ) after having evolved into | m 〉 B and experiencing the feedback operation R m . The above equations and their given interpretation tell us that the density matrix of the corresponding subensemble equals"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 235.07868199999996,
+            "t": 320.9894734,
+            "r": 480.6240231347224,
+            "b": 302.4356686,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "ρ S ( t + ∆t | m ≥ 1) = K m ρ S ( t ) K † m (16)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 134.75848000000002,
+            "t": 296.91198299999996,
+            "r": 325.64824700665525,
+            "b": 286.5771076,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "in this case, with the operator K m given by",
+      "text": "in this case, with the operator K m given by"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 241.91820000000004,
+            "t": 275.2123580499999,
+            "r": 480.6255431347224,
+            "b": 237.76055124000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "K m = N ∑ n,n ′ =1 ξ nn ′ ,m L nn ′ m √ ∆t (17)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 134.75932999999998,
+            "t": 232.59177999999997,
+            "r": 480.5822746752041,
+            "b": 210.62914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "for m ≥ 1. As we shall see below, K m is a Kraus operator, which acts on the internal state of the open quantum system.",
+      "text": "for m ≥ 1. As we shall see below, K m is a Kraus operator, which acts on the internal state of the open quantum system."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 134.75932999999998,
+            "t": 179.02396008000005,
+            "r": 421.8131735155139,
+            "b": 170.08609146274284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "4.2 No energy exchange between bath and environment",
+      "text": "4.2 No energy exchange between bath and environment",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 134.75913000000003,
+            "t": 148.47187999999994,
+            "r": 480.6085427112523,
+            "b": 126.62914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        },
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 134.75917000000004,
+            "t": 673.71198,
+            "r": 480.59882128000004,
+            "b": 651.1724913054001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            148,
+            277
+          ]
+        }
+      ],
+      "orig": "The remaining terms in the above master equation correspond to m = 0 and describe the time evolution of the open quantum system under the condition that the surrounding bath remains in its environmentally preferred state | 0 〉 B . In this case, ρ S ( t ) evolves within ∆t into",
+      "text": "The remaining terms in the above master equation correspond to m = 0 and describe the time evolution of the open quantum system under the condition that the surrounding bath remains in its environmentally preferred state | 0 〉 B . In this case, ρ S ( t ) evolves within ∆t into"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 235.67908000000006,
+            "t": 640.9097903999999,
+            "r": 480.6243311347224,
+            "b": 621.6360655999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "ρ S ( t + ∆t | m = 0) = K 0 ρ S ( t ) K † 0 . (18)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 134.75878800000004,
+            "t": 616.8323800000001,
+            "r": 452.8434199679338,
+            "b": 606.2925013054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Up to first order in ∆t , the corresponding operator K 0 can be written as",
+      "text": "Up to first order in ∆t , the corresponding operator K 0 can be written as"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 251.51859800000005,
+            "t": 596.5589056000001,
+            "r": 480.6254831347224,
+            "b": 566.68066824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "K 0 = exp ( -i ¯ h H cond ∆t ) (19)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 134.75994000000003,
+            "t": 562.2321000000001,
+            "r": 363.5692770066552,
+            "b": 551.6922213054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "with the non-Hermitian Hamiltonian H cond given by",
+      "text": "with the non-Hermitian Hamiltonian H cond given by"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 150.47943,
+            "t": 541.13229505,
+            "r": 480.62520513472225,
+            "b": 503.68048824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "H cond = H int I -i 2 ¯ h ∞ ∑ m =1 N ∑ n,n ′ ,n ′′ ,n ′′′ =1 ξ nn ′ ,m ξ ∗ n ′′ n ′′′ ,m L † n ′′ n ′′′ ,m L nn ′ ,m . (20)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 134.7596519999999,
+            "t": 498.51202,
+            "r": 480.6086979127199,
+            "b": 476.66928,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "The last term in this equation is crucial for the density matrix ρ S ( t + ∆t ) in equation (14) to remain normalised.",
+      "text": "The last term in this equation is crucial for the density matrix ρ S ( t + ∆t ) in equation (14) to remain normalised."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 134.7596519999999,
+            "t": 446.26370008000004,
+            "r": 319.03313804767606,
+            "b": 437.3258314627429,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "4.3 Comparison of Kraus operators",
+      "text": "4.3 Comparison of Kraus operators",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 134.7596519999999,
+            "t": 416.91162,
+            "r": 480.7029228741322,
+            "b": 335.18918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            519
+          ]
+        }
+      ],
+      "orig": "To show that open quantum systems with instantaneous feedback are examples of HQMMs, we now only need to identify the operators K m in Eqs. (17) and (19) with the Kraus operators in equation (3). Summing over all of the above described subensembles with their respective output symbols given by m = 0 , 1 , ... , we immediately see that equation (3) applies. Since a density matrix ρ S ( t ), which evolves according to the master equation of an open quantum system in Lindblad form remains normalised, we moreover have",
+      "text": "To show that open quantum systems with instantaneous feedback are examples of HQMMs, we now only need to identify the operators K m in Eqs. (17) and (19) with the Kraus operators in equation (3). Summing over all of the above described subensembles with their respective output symbols given by m = 0 , 1 , ... , we immediately see that equation (3) applies. Since a density matrix ρ S ( t ), which evolves according to the master equation of an open quantum system in Lindblad form remains normalised, we moreover have"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 193.68034199999983,
+            "t": 324.8784356,
+            "r": 480.62576113472215,
+            "b": 287.44029824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Tr S ( ∞ ∑ m =0 K m ρ S K † m ) = Tr S ( ∞ ∑ m =0 K † m K m ρ S ) = 1 . (21)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 134.76021799999978,
+            "t": 283.95190999999994,
+            "r": 480.6772776222743,
+            "b": 261.98927000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "This means, equation (4) too is satisfied. Open quantum systems with instantaneous feedback are indeed examples of HQMMs.",
+      "text": "This means, equation (4) too is satisfied. Open quantum systems with instantaneous feedback are indeed examples of HQMMs."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 134.76021799999978,
+            "t": 231.06445959999996,
+            "r": 224.41672497080293,
+            "b": 220.33552154285712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "5 Conclusions",
+      "text": "5 Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 134.76021799999978,
+            "t": 196.35190999999998,
+            "r": 480.71290014984726,
+            "b": 126.62906999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            453
+          ]
+        },
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 134.76,
+            "t": 673.71198,
+            "r": 480.70331267223315,
+            "b": 615.86964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            454,
+            773
+          ]
+        }
+      ],
+      "orig": "Motivated by the popularity of Hidden Markov Models (HMMs) in classical computer science, this paper has a closer look at the quantum analogues of these machines - so-called Hidden Quantum Markov Models (HQMMs) [6]. Sect. 2 defines HQMMs in terms of Kraus operators. Sect. 3 gives an overview of how to model open quantum systems with and without instantaneous feedback with the help of master equations in Lindblad form [11,13,14,15,21]. When comparing Sects. 2 and 3 in Sect. 4, it becomes obvious open quantum systems with random classical output sequences are examples of HQMMs. This paper proposes not to ignore the random classical output sequences of open quantum systems, since they could find interesting applications as quantum simulators of stochastic processes.",
+      "text": "Motivated by the popularity of Hidden Markov Models (HMMs) in classical computer science, this paper has a closer look at the quantum analogues of these machines - so-called Hidden Quantum Markov Models (HQMMs) [6]. Sect. 2 defines HQMMs in terms of Kraus operators. Sect. 3 gives an overview of how to model open quantum systems with and without instantaneous feedback with the help of master equations in Lindblad form [11,13,14,15,21]. When comparing Sects. 2 and 3 in Sect. 4, it becomes obvious open quantum systems with random classical output sequences are examples of HQMMs. This paper proposes not to ignore the random classical output sequences of open quantum systems, since they could find interesting applications as quantum simulators of stochastic processes."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 134.75945000000002,
+            "t": 603.9920800000001,
+            "r": 480.67738258262585,
+            "b": 498.3895400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            664
+          ]
+        }
+      ],
+      "orig": "Finally, it might be worth noting that the above analysis of open quantum systems with instantaneous feedback only allows for an environmental back action when the system-bath interaction changes the bath into a state that is different from its environmentally preferred state, | 0 〉 B . This need not be the case. Physically, it is possible to design open quantum systems, which experience feedback also, when no exchange of energy occurs between system and bath. In this case, the open quantum system can no longer be modelled by a master equation. However, the effective system dynamics would remain Markovian and could be described using the language of HQMMs.",
+      "text": "Finally, it might be worth noting that the above analysis of open quantum systems with instantaneous feedback only allows for an environmental back action when the system-bath interaction changes the bath into a state that is different from its environmentally preferred state, | 0 〉 B . This need not be the case. Physically, it is possible to design open quantum systems, which experience feedback also, when no exchange of energy occurs between system and bath. In this case, the open quantum system can no longer be modelled by a master equation. However, the effective system dynamics would remain Markovian and could be described using the language of HQMMs."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 134.75945000000002,
+            "t": 482.1919800000001,
+            "r": 480.654452379176,
+            "b": 448.34964000000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "Acknowledgement. T. B. acknowledges financial support from a White Rose Studentship Network on Optimising Quantum Processes and Quantum Devices for future Digital Economy.",
+      "text": "Acknowledgement. T. B. acknowledges financial support from a White Rose Studentship Network on Optimising Quantum Processes and Quantum Devices for future Digital Economy."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 134.75945000000002,
+            "t": 416.22482960000013,
+            "r": 197.655757080448,
+            "b": 405.4958915428573,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 164.39925000000002,
+            "t": 390.18012808000015,
+            "r": 437.6744704100792,
+            "b": 381.6287838774402,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "1. J. R. Norris, Markov chains , Cambridge University Press (1998).",
+      "text": "J. R. Norris, Markov chains , Cambridge University Press (1998).",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 164.39935000000003,
+            "t": 378.90002808000014,
+            "r": 480.51626322000004,
+            "b": 359.4287838774402,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "2. L. R. Rabiner, A tutorial on hidden Markov models and selected applications in speech recognition , Proc. IEEE 77 , 257 (1989).",
+      "text": "L. R. Rabiner, A tutorial on hidden Markov models and selected applications in speech recognition , Proc. IEEE 77 , 257 (1989).",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 164.39955000000003,
+            "t": 356.70002808000015,
+            "r": 480.550384241089,
+            "b": 326.3084838774402,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "3. H. Xue, Hidden Markov Models Combining Discrete Symbols and Continuous Attributes in Handwriting Recognition , IEEE Transactions on Pattern Analysis and Machine Intelligence 28 , 458 (2006).",
+      "text": "H. Xue, Hidden Markov Models Combining Discrete Symbols and Continuous Attributes in Handwriting Recognition , IEEE Transactions on Pattern Analysis and Machine Intelligence 28 , 458 (2006).",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 164.39955,
+            "t": 323.5801280800002,
+            "r": 480.5193607144195,
+            "b": 293.18858387744024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "4. B. Vanluyten, J. C. Willems, and B. D. Moor, Equivalence of State Representations for Hidden Markov Models , Systems and Control Letters 57 , 410 (2008).",
+      "text": "B. Vanluyten, J. C. Willems, and B. D. Moor, Equivalence of State Representations for Hidden Markov Models , Systems and Control Letters 57 , 410 (2008).",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 164.39985000000004,
+            "t": 290.4602280800002,
+            "r": 480.49813109796406,
+            "b": 270.9885838774403,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "5. K. Wiesner and C. P. Crutchfield, Computation in finitary stochastic and quantum processes , Physica D 237 , 1173 (2008).",
+      "text": "K. Wiesner and C. P. Crutchfield, Computation in finitary stochastic and quantum processes , Physica D 237 , 1173 (2008).",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 164.39975000000015,
+            "t": 268.26022808000016,
+            "r": 480.5115268122086,
+            "b": 237.86868387744016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "6. A. Monras, A. Beige, and K. Wiesner, Hidden Quantum Markov Models and non-adaptive read-out of many-body states , App. Math. and Comp. Sciences 3 , 93 (2011).",
+      "text": "A. Monras, A. Beige, and K. Wiesner, Hidden Quantum Markov Models and non-adaptive read-out of many-body states , App. Math. and Comp. Sciences 3 , 93 (2011).",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 164.39983000000018,
+            "t": 235.13992808000023,
+            "r": 480.4287139895374,
+            "b": 215.66868387744023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "7. P. Gmeiner, Equality conditions for internal entropies of certain classical and quantum models , arXiv:1108.5303 (2011).",
+      "text": "P. Gmeiner, Equality conditions for internal entropies of certain classical and quantum models , arXiv:1108.5303 (2011).",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 164.39963000000017,
+            "t": 212.9399280800002,
+            "r": 480.4423636618366,
+            "b": 193.46868387744018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "8. B. O'Neill, T. M. Barlow, D. Safranek, and A. Beige, Hidden Quantum Markov Models with one qubit , AIP Conf. Proc. 1479 , 667 (2012).",
+      "text": "B. O'Neill, T. M. Barlow, D. Safranek, and A. Beige, Hidden Quantum Markov Models with one qubit , AIP Conf. Proc. 1479 , 667 (2012).",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 164.39933000000022,
+            "t": 190.86022808000018,
+            "r": 480.49309230436756,
+            "b": 171.26868387744025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "9. R. Sweke, I. Sinayskiy, and F. Petruccione, Simulation of Single-Qubit Open Quantum Systems , arXiv:1405.6049 (2014).",
+      "text": "R. Sweke, I. Sinayskiy, and F. Petruccione, Simulation of Single-Qubit Open Quantum Systems , arXiv:1405.6049 (2014).",
+      "enumerated": true,
+      "marker": "9."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 159.71933000000018,
+            "t": 168.66022808000025,
+            "r": 480.4983892750078,
+            "b": 149.0686838774402,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "10. K. Kraus, States, Effects and Operations , Lecture Notes in Physics 190 (Springer-Verlag, Berlin, 1983).",
+      "text": "K. Kraus, States, Effects and Operations , Lecture Notes in Physics 190 (Springer-Verlag, Berlin, 1983).",
+      "enumerated": true,
+      "marker": "10."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 159.7192300000002,
+            "t": 146.4602280800002,
+            "r": 480.51564830000024,
+            "b": 126.98858387744019,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "11. H. M. Wiseman and G. J. Milburn, Quantum Measurement and Control , Cambridge University Press (2010).",
+      "text": "H. M. Wiseman and G. J. Milburn, Quantum Measurement and Control , Cambridge University Press (2010).",
+      "enumerated": true,
+      "marker": "11."
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 159.72,
+            "t": 672.65992808,
+            "r": 480.53055720362005,
+            "b": 653.06878387744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "12. W. H. Zurek, Decoherence, einselection, and the quantum origins of the classical , Rev. Mod. Phys. 75 , 715 (2003).",
+      "text": "W. H. Zurek, Decoherence, einselection, and the quantum origins of the classical , Rev. Mod. Phys. 75 , 715 (2003).",
+      "enumerated": true,
+      "marker": "12."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 159.72039999999998,
+            "t": 650.70022808,
+            "r": 480.5307926818541,
+            "b": 631.22898387744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "13. J. Dalibard, Y. Castin, and K. Molmer, Wave-function approach to dissipative processes in quantum optics Phys. Rev. Lett. 68 , 580 (1992).",
+      "text": "J. Dalibard, Y. Castin, and K. Molmer, Wave-function approach to dissipative processes in quantum optics Phys. Rev. Lett. 68 , 580 (1992).",
+      "enumerated": true,
+      "marker": "13."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 159.72080000000003,
+            "t": 628.74012808,
+            "r": 480.5180308323933,
+            "b": 609.26888387744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "14. G. C. Hegerfeldt, How to reset an atom after a photon detection. Applications to photon counting processes , Phys. Rev. A 47 , 449 (1993).",
+      "text": "G. C. Hegerfeldt, How to reset an atom after a photon detection. Applications to photon counting processes , Phys. Rev. A 47 , 449 (1993).",
+      "enumerated": true,
+      "marker": "14."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 159.7207,
+            "t": 606.90032808,
+            "r": 480.61817730805575,
+            "b": 587.30878387744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "15. H. Carmichael, An Open Systems Approach to Quantum Optics , Lecture Notes in Physics m18 (Springer-Verlag, Berlin, 1993).",
+      "text": "H. Carmichael, An Open Systems Approach to Quantum Optics , Lecture Notes in Physics m18 (Springer-Verlag, Berlin, 1993).",
+      "enumerated": true,
+      "marker": "15."
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 159.72049999999996,
+            "t": 584.94022808,
+            "r": 480.5313809363636,
+            "b": 565.46898387744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "16. N. Goldenfeld and C. Woese, Life is Physics: evolution as a collective phenomenon far from equilibrium , Ann. Rev. Cond. Matt. Phys. 2 , 375 (2011).",
+      "text": "N. Goldenfeld and C. Woese, Life is Physics: evolution as a collective phenomenon far from equilibrium , Ann. Rev. Cond. Matt. Phys. 2 , 375 (2011).",
+      "enumerated": true,
+      "marker": "16."
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 159.72057999999987,
+            "t": 562.98052808,
+            "r": 480.5316273127225,
+            "b": 532.58898387744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "17. M. Schuld, I. Sinayskiy, and F. Petruccione, Quantum walks on graphs representing the firing patterns of a quantum neural network , arXiv:1404.0159 (2014).",
+      "text": "M. Schuld, I. Sinayskiy, and F. Petruccione, Quantum walks on graphs representing the firing patterns of a quantum neural network , arXiv:1404.0159 (2014).",
+      "enumerated": true,
+      "marker": "17."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 159.7205799999998,
+            "t": 530.10052808,
+            "r": 480.3965289350888,
+            "b": 510.62928387744006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "18. G. Kiesslich, C. Emary, G. Schaller, and T. Brandes, Reverse quantum state engineering using electronic feedback loops , New. J. Phys. 14 , 123036 (2012).",
+      "text": "G. Kiesslich, C. Emary, G. Schaller, and T. Brandes, Reverse quantum state engineering using electronic feedback loops , New. J. Phys. 14 , 123036 (2012).",
+      "enumerated": true,
+      "marker": "18."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 159.72007999999977,
+            "t": 508.26072808000004,
+            "r": 480.6356181857543,
+            "b": 488.66918387744005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "19. C. Emary, Delayed feedback control in quantum transport , Phil. Trans. R. Soc. A 371 , 1999 (2013).",
+      "text": "C. Emary, Delayed feedback control in quantum transport , Phil. Trans. R. Soc. A 371 , 1999 (2013).",
+      "enumerated": true,
+      "marker": "19."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 159.7200799999998,
+            "t": 486.30062808,
+            "r": 480.5124497466628,
+            "b": 466.8293838774401,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "20. A. Stokes, A. Kurcz, T. P. Spiller, and A. Beige, Extending the validity range of quantum optical master equations , Phys. Rev. A 85 , 053805 (2012).",
+      "text": "A. Stokes, A. Kurcz, T. P. Spiller, and A. Beige, Extending the validity range of quantum optical master equations , Phys. Rev. A 85 , 053805 (2012).",
+      "enumerated": true,
+      "marker": "20."
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 159.71997999999982,
+            "t": 464.46082808000006,
+            "r": 480.5153407842288,
+            "b": 444.86928387744007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "21. G. Lindblad, On the generators of quantum dynamical semigroups , Comm. Math. Phys. 48 , 119 (1976).",
+      "text": "G. Lindblad, On the generators of quantum dynamical semigroups , Comm. Math. Phys. 48 , 119 (1976).",
+      "enumerated": true,
+      "marker": "21."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 10
+    }
+  }
+}

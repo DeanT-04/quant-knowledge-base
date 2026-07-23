@@ -1,0 +1,5516 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2103.08836_channel_estimation_for_intelligent_reflecting_surf",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13396539135745659927,
+    "filename": "2103.08836_channel_estimation_for_intelligent_reflecting_surf.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/texts/121"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/texts/141"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/texts/143"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/96"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        },
+        {
+          "$ref": "#/texts/161"
+        },
+        {
+          "$ref": "#/texts/162"
+        },
+        {
+          "$ref": "#/texts/163"
+        },
+        {
+          "$ref": "#/texts/164"
+        },
+        {
+          "$ref": "#/texts/165"
+        },
+        {
+          "$ref": "#/texts/166"
+        },
+        {
+          "$ref": "#/texts/167"
+        },
+        {
+          "$ref": "#/texts/168"
+        },
+        {
+          "$ref": "#/texts/169"
+        },
+        {
+          "$ref": "#/texts/170"
+        },
+        {
+          "$ref": "#/texts/171"
+        },
+        {
+          "$ref": "#/texts/172"
+        },
+        {
+          "$ref": "#/texts/173"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 595.28,
+            "r": 36.206559297218156,
+            "b": 252.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "arXiv:2103.08836v1  [cs.IT]  16 Mar 2021",
+      "text": "arXiv:2103.08836v1  [cs.IT]  16 Mar 2021",
+      "hyperlink": "http://arxiv.org/abs/2103.08836v1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 559.56,
+            "t": 765.5143225999999,
+            "r": 563.046925,
+            "b": 759.3062175482557,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 83.76022999999994,
+            "t": 731.3634304,
+            "r": 528.1961388765238,
+            "b": 682.2386479255814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "Channel Estimation for Intelligent Reflecting Surface Assisted Backscatter Communication",
+      "text": "Channel Estimation for Intelligent Reflecting Surface Assisted Backscatter Communication",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 116.40002999999993,
+            "t": 671.4883164,
+            "r": 495.7000549999999,
+            "b": 661.732729105814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Samith Abeywickrama, Changsheng You, Member, IEEE , Rui Zhang, Fellow, IEEE ,",
+      "text": "Samith Abeywickrama, Changsheng You, Member, IEEE , Rui Zhang, Fellow, IEEE ,"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 238.44032999999988,
+            "t": 648.0883164,
+            "r": 373.2960585637819,
+            "b": 638.332729105814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "and Chau Yuen, Fellow, IEEE",
+      "text": "and Chau Yuen, Fellow, IEEE"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.9604299999998,
+            "t": 602.24463496,
+            "r": 300.1857606391278,
+            "b": 434.8379287006341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1048
+          ]
+        }
+      ],
+      "orig": "Abstract -Intelligent reflecting surface (IRS) is a promising technology to improve the performance of backscatter communication systems by smartly reconfiguring the multi-reflection channel. To fully exploit the passive beamforming gain of IRS in backscatter communication, channel state information (CSI) is indispensable but more practically challenging to acquire than conventional IRS-assisted systems, since IRS passively reflects signals over both the forward and backward (backscattering) links between the reader and tag. To address this issue, we propose in this letter a new and efficient channel estimation scheme for the IRS-assisted backscatter communication system. To minimize the mean-square error (MSE) of channel estimation, we formulate and solve an optimization problem by designing the IRS training reflection matrix for channel estimation under the constraints of unit-modulus elements and full rank. Simulation results verify the effectiveness of the proposed channel estimation scheme as compared to other baseline schemes.",
+      "text": "Abstract -Intelligent reflecting surface (IRS) is a promising technology to improve the performance of backscatter communication systems by smartly reconfiguring the multi-reflection channel. To fully exploit the passive beamforming gain of IRS in backscatter communication, channel state information (CSI) is indispensable but more practically challenging to acquire than conventional IRS-assisted systems, since IRS passively reflects signals over both the forward and backward (backscattering) links between the reader and tag. To address this issue, we propose in this letter a new and efficient channel estimation scheme for the IRS-assisted backscatter communication system. To minimize the mean-square error (MSE) of channel estimation, we formulate and solve an optimization problem by designing the IRS training reflection matrix for channel estimation under the constraints of unit-modulus elements and full rank. Simulation results verify the effectiveness of the proposed channel estimation scheme as compared to other baseline schemes."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.960499999999854,
+            "t": 427.28441496000005,
+            "r": 299.98638856538213,
+            "b": 409.2777687006341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Index Terms -Intelligent reflecting surface, backscatter communication, channel estimation.",
+      "text": "Index Terms -Intelligent reflecting surface, backscatter communication, channel estimation."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 135.60029999999983,
+            "t": 389.41446464000006,
+            "r": 213.2336037632629,
+            "b": 380.54574568093034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "I. INTRODUCTION",
+      "text": "I. INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96042999999983,
+            "t": 374.17426464000005,
+            "r": 300.30175848590756,
+            "b": 257.6656456809303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            586
+          ]
+        }
+      ],
+      "orig": "Intelligent reflecting surface (IRS) has recently emerged as a promising technology to enhance the spectrum and energy efficiency of future wireless systems cost-effectively [1]. Specifically, IRS is able to engineer favourable wireless propagation environment via controlling signal reflection at its large number of passive reflecting elements. This thus has motivated active research recently in applying IRS to existing wireless systems, such as UAV communication, wireless power transfer, millimeter wave communication, mobile edge computing, and backscatter communication [1]-[6].",
+      "text": "Intelligent reflecting surface (IRS) has recently emerged as a promising technology to enhance the spectrum and energy efficiency of future wireless systems cost-effectively [1]. Specifically, IRS is able to engineer favourable wireless propagation environment via controlling signal reflection at its large number of passive reflecting elements. This thus has motivated active research recently in applying IRS to existing wireless systems, such as UAV communication, wireless power transfer, millimeter wave communication, mobile edge computing, and backscatter communication [1]-[6]."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.9601999999999,
+            "t": 254.53436464000004,
+            "r": 300.4215199999999,
+            "b": 126.14564568093022,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            661
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.0001999999999,
+            "t": 412.69464464,
+            "r": 563.2519590382942,
+            "b": 296.1856256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            662,
+            1279
+          ]
+        }
+      ],
+      "orig": "Particularly, for IRS-assisted backscatter communication systems, IRS can be properly deployed to enhance the channel gain over both the forward (transmission) and backward (backscattering) links between the reader and tag, where the reader transmits the carrier signal to the tag, while the tag appends its own information to the received signal and backscatters it to the reader. However, to achieve the enormous passive beamforming gain brought by IRS, channel state information (CSI) is crucial and needs to be acquired, which, however, is more practically challenging than conventional IRS-assisted systems. This is because both the IRS and tag can reflect signals only without sophisticated signal processing capability. Thus, only the composite channel, which is the product of the forward and backward channels, can be estimated at the reader based on the pilot signal sent by itself. In particular, each of the forward/backward channel is the superposition of the readertag direct channel and the reader-IRS-tag cascaded channel. This makes the conventional channel estimation schemes for backscatter communication systems without IRS [7] and IRSassisted communication systems without tag [8]-[12] inapplicable, thus motivating the current work to tackle this challenge.",
+      "text": "Particularly, for IRS-assisted backscatter communication systems, IRS can be properly deployed to enhance the channel gain over both the forward (transmission) and backward (backscattering) links between the reader and tag, where the reader transmits the carrier signal to the tag, while the tag appends its own information to the received signal and backscatters it to the reader. However, to achieve the enormous passive beamforming gain brought by IRS, channel state information (CSI) is crucial and needs to be acquired, which, however, is more practically challenging than conventional IRS-assisted systems. This is because both the IRS and tag can reflect signals only without sophisticated signal processing capability. Thus, only the composite channel, which is the product of the forward and backward channels, can be estimated at the reader based on the pilot signal sent by itself. In particular, each of the forward/backward channel is the superposition of the readertag direct channel and the reader-IRS-tag cascaded channel. This makes the conventional channel estimation schemes for backscatter communication systems without IRS [7] and IRSassisted communication systems without tag [8]-[12] inapplicable, thus motivating the current work to tackle this challenge."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96011999999993,
+            "t": 114.22761435999996,
+            "r": 300.01514165186404,
+            "b": 89.25256097313957,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "S. Abeywickrama is with the Department of Electrical and Computer Engineering, National University of Singapore, Singapore, and also with Singapore University of Technology and Design, Singapore (e-mail: samith@u.nus.edu).",
+      "text": "S. Abeywickrama is with the Department of Electrical and Computer Engineering, National University of Singapore, Singapore, and also with Singapore University of Technology and Design, Singapore (e-mail: samith@u.nus.edu)."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.960119999999904,
+            "t": 87.34753436000005,
+            "r": 300.014151774169,
+            "b": 62.08713250000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "C. You and R. Zhang are with the Department of Electrical and Computer Engineering, National University of Singapore, Singapore (e-mail: { eleyouc,elezhang } @nus.edu.sg).",
+      "text": "C. You and R. Zhang are with the Department of Electrical and Computer Engineering, National University of Singapore, Singapore (e-mail: { eleyouc,elezhang } @nus.edu.sg)."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96011999999993,
+            "t": 60.46745436000003,
+            "r": 299.8189956803215,
+            "b": 44.372480973139545,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "C. Yuen is with Singapore University of Technology and Design, Singapore (e-mail: yuenchau@sutd.edu.sg).",
+      "text": "C. Yuen is with Singapore University of Technology and Design, Singapore (e-mail: yuenchau@sutd.edu.sg)."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 346.44,
+            "t": 446.02779436,
+            "r": 528.5524620092818,
+            "b": 438.93282097313954,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Fig. 1: IRS-assisted backscatter communication system.",
+      "text": "Fig. 1: IRS-assisted backscatter communication system."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.0011999999997,
+            "t": 292.5746446399999,
+            "r": 563.2519935223602,
+            "b": 152.18552568093014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            715
+          ]
+        }
+      ],
+      "orig": "Specifically, we consider in this letter an IRS-assisted monostatic backscatter communication system as illustrated in Fig. 1, where an IRS is employed to assist the communication between a reader and a tag, both equipped with a single antenna. A novel channel estimation scheme is proposed to efficiently estimate both the reader-tag direct channel and reader-IRS-tag reflecting channel, by controlling the IRS training reflections over time. Moreover, the IRS training matrix is optimized to minimize the channel estimation error, for which the optimal solution is derived in closed form. Simulation results verify the effectiveness of the proposed channel estimation scheme as compared to other baseline schemes.",
+      "text": "Specifically, we consider in this letter an IRS-assisted monostatic backscatter communication system as illustrated in Fig. 1, where an IRS is employed to assist the communication between a reader and a tag, both equipped with a single antenna. A novel channel estimation scheme is proposed to efficiently estimate both the reader-tag direct channel and reader-IRS-tag reflecting channel, by controlling the IRS training reflections over time. Moreover, the IRS training matrix is optimized to minimize the channel estimation error, for which the optimal solution is derived in closed form. Simulation results verify the effectiveness of the proposed channel estimation scheme as compared to other baseline schemes."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.00110999999964,
+            "t": 148.45424463999996,
+            "r": 563.3844791079424,
+            "b": 43.94562568093022,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            576
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.9575999999999,
+            "t": 736.0697903999999,
+            "r": 300.3433842639277,
+            "b": 629.7859256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            577,
+            1116
+          ]
+        }
+      ],
+      "orig": "Notations: In this letter, vectors and matrices are denoted by bold-face lower-case and upper-case letters, respectively. For a complex-valued vector v , we denote by ‖ v ‖ , v T , v H , diag( v ) , and [ v ] a : b as its ℓ 2 -norm, transpose, conjugate transpose, a diagonal matrix with diagonal elements being the corresponding elements in v , and the elements from the a -th entry to the b -th entry of v , respectively. Scalar v i denotes the i -th element of a vector v . For a square matrix S , Tr( S ) and S -1 denote its trace and inverse, respectively. For any matrix A , we denote by A H , rank( A ) , and A n,k as its conjugate transpose, rank, and ( n, k ) th element, respectively. I denotes an identity matrix with appropriate dimensions. C x × y denotes the space of x × y complex-valued matrices.  denotes the imaginary unit, i.e.,  2 = -1 . For a complex-valued scalar v , we denote by | v | , arg(v) , and v † its absolute value, phase, and complex conjugate, respectively. | Ω | denotes the cardinality of the set Ω . E ( · ) denotes the statistical expectation. ⊗ denotes the Kronecker product.",
+      "text": "Notations: In this letter, vectors and matrices are denoted by bold-face lower-case and upper-case letters, respectively. For a complex-valued vector v , we denote by ‖ v ‖ , v T , v H , diag( v ) , and [ v ] a : b as its ℓ 2 -norm, transpose, conjugate transpose, a diagonal matrix with diagonal elements being the corresponding elements in v , and the elements from the a -th entry to the b -th entry of v , respectively. Scalar v i denotes the i -th element of a vector v . For a square matrix S , Tr( S ) and S -1 denote its trace and inverse, respectively. For any matrix A , we denote by A H , rank( A ) , and A n,k as its conjugate transpose, rank, and ( n, k ) th element, respectively. I denotes an identity matrix with appropriate dimensions. C x × y denotes the space of x × y complex-valued matrices.  denotes the imaginary unit, i.e.,  2 = -1 . For a complex-valued scalar v , we denote by | v | , arg(v) , and v † its absolute value, phase, and complex conjugate, respectively. | Ω | denotes the cardinality of the set Ω . E ( · ) denotes the statistical expectation. ⊗ denotes the Kronecker product."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 559.56,
+            "t": 765.5143225999999,
+            "r": 563.046925,
+            "b": 759.3062175482557,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 131.63753999999986,
+            "t": 614.53474464,
+            "r": 217.3865348608289,
+            "b": 605.6660256809301,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "II. SYSTEM MODEL",
+      "text": "II. SYSTEM MODEL",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95686999999984,
+            "t": 599.53474464,
+            "r": 300.41820617343706,
+            "b": 423.2659336809303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            920
+          ]
+        }
+      ],
+      "orig": "As shown in Fig. 1, we consider an IRS-assisted monostatic backscatter communication system, where an IRS composed of N subsurfaces is deployed to assist in the communication between a full-duplex (FD) single-antenna reader and a singleantenna tag. Let h d ∈ C , f ∈ C N × 1 , and h r ∈ C N × 1 denote the baseband equivalent channels from the reader to tag, reader to IRS, and IRS to tag, respectively, which are assumed to remain constant within each channel coherence interval. For the IRS, we denote by v = [ β 1 e θ 1 , . . . , β N e θ N ] H ∈ C N × 1 its reflection vector, where β n ∈ [0 , 1] and θ n ∈ [0 , 2 π ) , with n ∈ { 1 , . . . , N } , respectively denote the (common) reflection amplitude and phase shift of all reflecting elements in subsurface n . For simplicity, we set β n = 1 (or its maximum value), ∀ n , to maximize the IRS reflected signal power in both channel training and data transmission.",
+      "text": "As shown in Fig. 1, we consider an IRS-assisted monostatic backscatter communication system, where an IRS composed of N subsurfaces is deployed to assist in the communication between a full-duplex (FD) single-antenna reader and a singleantenna tag. Let h d ∈ C , f ∈ C N × 1 , and h r ∈ C N × 1 denote the baseband equivalent channels from the reader to tag, reader to IRS, and IRS to tag, respectively, which are assumed to remain constant within each channel coherence interval. For the IRS, we denote by v = [ β 1 e θ 1 , . . . , β N e θ N ] H ∈ C N × 1 its reflection vector, where β n ∈ [0 , 1] and θ n ∈ [0 , 2 π ) , with n ∈ { 1 , . . . , N } , respectively denote the (common) reflection amplitude and phase shift of all reflecting elements in subsurface n . For simplicity, we set β n = 1 (or its maximum value), ∀ n , to maximize the IRS reflected signal power in both channel training and data transmission."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95797999999982,
+            "t": 420.991788,
+            "r": 300.127583215575,
+            "b": 375.50573368093023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "Let s denote the signal sent by the reader with power P t . As no signal processing is performed at the tag and thus no noise added, the signal received at the tag over both the direct and IRS reflecting links is thus given by",
+      "text": "Let s denote the signal sent by the reader with power P t . As no signal processing is performed at the tag and thus no noise added, the signal received at the tag over both the direct and IRS reflecting links is thus given by"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 115.55797999999982,
+            "t": 370.76726976000003,
+            "r": 300.075531327407,
+            "b": 337.96029624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "y T = ( h d + v H diag( h r ) f ) s = ( h d + v H h c ) s, (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95788999999985,
+            "t": 334.3903955,
+            "r": 300.3289645255569,
+            "b": 275.6658336809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            301
+          ]
+        }
+      ],
+      "orig": "where h c = diag( h r ) f ∈ C N × 1 denotes the cascaded readerIRS-tag channel. Let α ∈ [0 , 1] denote the portion of signal reflected by the tag, which is simply set as α = 1 in the sequel without loss of generality. Then, based on channel reciprocity, the received signal at the reader is given by 1",
+      "text": "where h c = diag( h r ) f ∈ C N × 1 denotes the cascaded readerIRS-tag channel. Let α ∈ [0 , 1] denote the portion of signal reflected by the tag, which is simply set as α = 1 in the sequel without loss of generality. Then, based on channel reciprocity, the received signal at the reader is given by 1"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 115.43844999999982,
+            "t": 272.12746975999994,
+            "r": 300.076451327407,
+            "b": 216.4005962399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "y R = αy T ( h d + v H h c ) + z = ( h d + v H h c ) 2 s + z, (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95842999999985,
+            "t": 222.6321579999999,
+            "r": 300.32816999999983,
+            "b": 81.62610368093021,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            729
+          ]
+        }
+      ],
+      "orig": "where z denotes the additive white Gaussian (AWGN) noise at the reader with power σ 2 . For convenience, we normalize the noise power by P t and thereby assume s = 1 without loss of generality; thus the symbol s can be omitted in (2) in the sequel. We consider a two-phase data transmission protocol, where each channel coherence block of T symbols is divided into two phases. During the first channel training phase, the reader consecutively transmits T t pilot symbols, while the IRS properly sets its training reflections over time to facilitate the channel estimation at the reader. Based on the estimated channel, the reader designs the IRS passive beamforming for data transmission, denoted by v ∗ , and sends it to the IRS",
+      "text": "where z denotes the additive white Gaussian (AWGN) noise at the reader with power σ 2 . For convenience, we normalize the noise power by P t and thereby assume s = 1 without loss of generality; thus the symbol s can be omitted in (2) in the sequel. We consider a two-phase data transmission protocol, where each channel coherence block of T symbols is divided into two phases. During the first channel training phase, the reader consecutively transmits T t pilot symbols, while the IRS properly sets its training reflections over time to facilitate the channel estimation at the reader. Based on the estimated channel, the reader designs the IRS passive beamforming for data transmission, denoted by v ∗ , and sends it to the IRS"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.958239999999904,
+            "t": 70.88102207999998,
+            "r": 299.93717939553886,
+            "b": 44.37283897313944,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "1 In practice, a decoupler is usually integrated into the reader to enable the FD operation by suppressing the self-interference caused by the transmitted signal s [13].",
+      "text": "1 In practice, a decoupler is usually integrated into the reader to enable the FD operation by suppressing the self-interference caused by the transmitted signal s [13]."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9979599999999,
+            "t": 734.29476264,
+            "r": 563.4593014066359,
+            "b": 653.6658436809303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            378
+          ]
+        }
+      ],
+      "orig": "controller via a separate link for it to tune the IRS reflection accordingly for aiding the tag's backscatter communication over the remaining T -T t symbols in the second data transmission phase. From (2) and under the assumption of perfect CSI at the reader, the optimal IRS passive beamforming that maximizes the received signal-to-noise ratio (SNR) at the reader is given by",
+      "text": "controller via a separate link for it to tune the IRS reflection accordingly for aiding the tag's backscatter communication over the remaining T -T t symbols in the second data transmission phase. From (2) and under the assumption of perfect CSI at the reader, the optimal IRS passive beamforming that maximizes the received signal-to-noise ratio (SNR) at the reader is given by"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 399.71787,
+            "t": 649.76714376,
+            "r": 563.1154313274071,
+            "b": 616.9601662400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "v ∗ = e  arg ( h † d h c ) . (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 320.7578699999999,
+            "t": 615.01456664,
+            "r": 554.1501146544541,
+            "b": 594.1458476809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "III. PROPOSED CHANNEL ESTIMATION AND TRAINING DESIGN",
+      "text": "III. PROPOSED CHANNEL ESTIMATION AND TRAINING DESIGN",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9977499999999,
+            "t": 587.77436664,
+            "r": 563.4592069613702,
+            "b": 447.38560768093026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            697
+          ]
+        }
+      ],
+      "orig": "It is observed from (3) that the optimal IRS passive beamforming design for data transmission requires the CSI of both the reader-tag direct link and the cascaded IRS reflecting link, i.e., h d and h c , with totally N + 1 complex-valued channel coefficients. However, such CSI cannot be obtained by applying the existing IRS channel estimation methods (see e.g., [8]-[10]) for the linear channel model with N +1 training symbols only, since y R in (2) is a nonlinear function of h d and h c , leading to the issue of sign ambiguity . Specifically, for each training symbol k , the corresponding effective channel (assuming z = 0 for the purpose of illustration) from the reader to tag is given by",
+      "text": "It is observed from (3) that the optimal IRS passive beamforming design for data transmission requires the CSI of both the reader-tag direct link and the cascaded IRS reflecting link, i.e., h d and h c , with totally N + 1 complex-valued channel coefficients. However, such CSI cannot be obtained by applying the existing IRS channel estimation methods (see e.g., [8]-[10]) for the linear channel model with N +1 training symbols only, since y R in (2) is a nonlinear function of h d and h c , leading to the issue of sign ambiguity . Specifically, for each training symbol k , the corresponding effective channel (assuming z = 0 for the purpose of illustration) from the reader to tag is given by"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 381.11780999999996,
+            "t": 444.991582,
+            "r": 563.1176713274073,
+            "b": 421.2355476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "b k ≜ h d + v H k h c = ± √ y R , (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99965999999995,
+            "t": 419.55208,
+            "r": 563.2503690025305,
+            "b": 362.06602568093024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            282
+          ]
+        }
+      ],
+      "orig": "where v k denotes the IRS reflection vector for the k -th symbol. Due to the sign ambiguity in (4) for determining h d + v k h c , the conventional methods in [8]-[10] with time-varying v k 's cannot be applied to estimate h d and h c in the nonlinear channel model in (2) uniquely.",
+      "text": "where v k denotes the IRS reflection vector for the k -th symbol. Due to the sign ambiguity in (4) for determining h d + v k h c , the conventional methods in [8]-[10] with time-varying v k 's cannot be applied to estimate h d and h c in the nonlinear channel model in (2) uniquely."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99965999999995,
+            "t": 343.01524351999996,
+            "r": 481.18359311264334,
+            "b": 334.34322487754025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "A. Proposed Channel Estimation Scheme",
+      "text": "A. Proposed Channel Estimation Scheme",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 321.9598199999999,
+            "t": 327.97464463999995,
+            "r": 514.4104467878219,
+            "b": 319.1059256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "We first present two useful lemmas as follows.",
+      "text": "We first present two useful lemmas as follows."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99961999999994,
+            "t": 315.97464463999995,
+            "r": 563.1432363953485,
+            "b": 295.1059256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Lemma 1: The received signal at the reader in (2) can be equivalently rewritten as",
+      "text": "Lemma 1: The received signal at the reader in (2) can be equivalently rewritten as"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 405.59961999999996,
+            "t": 287.5092704,
+            "r": 563.1171613274072,
+            "b": 275.57340839999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "y R = a H g + z, (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 458.39998999999995,
+            "t": 267.1517799999999,
+            "r": 464.1384706399999,
+            "b": 257.18913999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "h",
+      "text": "h"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9996,
+            "t": 266.4145446399999,
+            "r": 336.4630121688154,
+            "b": 257.5458256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 331.9195500000001,
+            "t": 268.1893904,
+            "r": 472.1827023124278,
+            "b": 245.6657256809301,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "a = [1 , v , v ⊗ v ] T and g = [ Proof: By expanding (2), we have",
+      "text": "a = [1 , v , v ⊗ v ] T and g = [ Proof: By expanding (2), we have"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9995600000001,
+            "t": 216.25434463999989,
+            "r": 336.4629721688155,
+            "b": 207.38562568093016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 464.15975999999995,
+            "t": 268.51018750000003,
+            "r": 468.12788064999995,
+            "b": 261.53633749999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 464.15975999999995,
+            "t": 261.8292303999999,
+            "r": 468.30222689999994,
+            "b": 255.41328839999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "d",
+      "text": "d"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 468.83944999999994,
+            "t": 267.1517799999999,
+            "r": 471.59910127999996,
+            "b": 257.18913999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ",",
+      "text": ","
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 473.27928999999995,
+            "t": 267.1517799999999,
+            "r": 478.26060999999993,
+            "b": 257.18913999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 478.31913,
+            "t": 267.1517799999999,
+            "r": 484.05761063999995,
+            "b": 257.18913999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "h",
+      "text": "h"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 484.07968,
+            "t": 263.14955039999995,
+            "r": 488.2221469,
+            "b": 256.73360839999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "d",
+      "text": "d"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 488.51952,
+            "t": 266.6337227199999,
+            "r": 494.87568432,
+            "b": 257.6830307618285,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "h",
+      "text": "h"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 494.87968,
+            "t": 263.14955039999995,
+            "r": 498.4363435,
+            "b": 256.73360839999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "c",
+      "text": "c"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 498.95976,
+            "t": 267.1517799999999,
+            "r": 501.71941128000003,
+            "b": 257.18913999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ",",
+      "text": ","
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 503.3996,
+            "t": 266.6337227199999,
+            "r": 509.75576432,
+            "b": 257.6830307618285,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "h",
+      "text": "h"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 509.75976,
+            "t": 263.14955039999995,
+            "r": 513.3164235,
+            "b": 256.73360839999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "c",
+      "text": "c"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 516.11953,
+            "t": 267.1517799999999,
+            "r": 523.8605012800001,
+            "b": 250.11566559999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "⊗",
+      "text": "⊗"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 526.07969,
+            "t": 266.6337227199999,
+            "r": 532.43585432,
+            "b": 257.6830307618285,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "h",
+      "text": "h"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 532.43946,
+            "t": 263.14955039999995,
+            "r": 535.9961235000001,
+            "b": 256.73360839999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "c",
+      "text": "c"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 536.39962,
+            "t": 267.1517799999999,
+            "r": 539.15927128,
+            "b": 257.18913999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "]",
+      "text": "]"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 539.1597800000001,
+            "t": 268.1893904,
+            "r": 543.8601549000001,
+            "b": 261.7734484,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "T",
+      "text": "T"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 545.5195500000001,
+            "t": 266.4145446399999,
+            "r": 548.0102100000001,
+            "b": 257.5458256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 359.1597500000001,
+            "t": 239.72719175999998,
+            "r": 563.1171213274073,
+            "b": 206.92021823999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "y R = h 2 d +2 h d v H h c + ( v H h c ) 2 + z, (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 353.63936000000007,
+            "t": 202.1674217599999,
+            "r": 563.1172713274071,
+            "b": 120.27570559999981,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "( v H h c ) 2 = ( v H h c )( v H h c ) = [ v 1 v , . . . , v N v ] H    h c, 1 h c . . . h c,N h c    = ( v ⊗ v ) H ( h c ⊗ h c ) , (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9996199999998,
+            "t": 118.59151999999983,
+            "r": 563.0102799999999,
+            "b": 96.98556568093011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "with v n and h c,n being the n -th element of vectors v and h c , respectively. Thus, (6) can be equivalently expressed as",
+      "text": "with v n and h c,n being the n -th element of vectors v and h c , respectively. Thus, (6) can be equivalently expressed as"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 338.9996199999998,
+            "t": 89.71010749999982,
+            "r": 535.5123175999997,
+            "b": 62.42887999999982,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "y R = h 2 d +2 h d v H h c +( v ⊗ v ) H ( h c ⊗ h c ) + z = a H g + z.",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9995899999997,
+            "t": 52.81448463999982,
+            "r": 430.5307989267671,
+            "b": 43.945765680930094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "The proof is thus completed.",
+      "text": "The proof is thus completed."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 559.56,
+            "t": 765.5143225999999,
+            "r": 563.046925,
+            "b": 759.3062175482557,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.960639999999955,
+            "t": 734.5141227199999,
+            "r": 299.79799984,
+            "b": 712.6136183999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "Note that in (5), a depends on the IRS training reflection v only and g is determined by the CSI (i.e., h d and h c ) only.",
+      "text": "Note that in (5), a depends on the IRS training reflection v only and g is determined by the CSI (i.e., h d and h c ) only."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.96045999999999,
+            "t": 710.41484464,
+            "r": 300.10321807783663,
+            "b": 689.5461256809301,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "Lemma 2: The optimal IRS passive beamforming for data transmission in (3) can be equivalently rewritten as",
+      "text": "Lemma 2: The optimal IRS passive beamforming for data transmission in (3) can be equivalently rewritten as"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 81.12025999999999,
+            "t": 685.64743576,
+            "r": 300.0782073274072,
+            "b": 652.84044824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "v ∗ = e  arg ( ( h 2 d ) † (2 h d h c ) ) = e  arg ( g † 1 [ g ] 2: N +1 ) , (8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.95992600000011,
+            "t": 648.7906015,
+            "r": 300.06117748168003,
+            "b": 594.7738823999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            287
+          ]
+        }
+      ],
+      "orig": "Proof: First, we have arg( h † d h c ) = arg( | h d | h † d h c ) = arg( h d h † d h † d h c ) = arg ( ( h 2 d ) † h d h c ) = arg ( ( h 2 d ) † (2 h d h c ) ) . Second, it follows from (5) that g 1 = h 2 d and [ g ] 2: N +1 = 2 h d h c . Combining the above leads to the desired result.",
+      "text": "Proof: First, we have arg( h † d h c ) = arg( | h d | h † d h c ) = arg( h d h † d h † d h c ) = arg ( ( h 2 d ) † h d h c ) = arg ( ( h 2 d ) † (2 h d h c ) ) . Second, it follows from (5) that g 1 = h 2 d and [ g ] 2: N +1 = 2 h d h c . Combining the above leads to the desired result."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.960646000000025,
+            "t": 659.5096044,
+            "r": 181.05089600000002,
+            "b": 647.4565515,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "where [ g 1 , . . . , g N 2 + N +1 ] T = g .",
+      "text": "where [ g 1 , . . . , g N 2 + N +1 ] T = g ."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.95979,
+            "t": 592.4547446400001,
+            "r": 300.21035788849053,
+            "b": 534.7765075000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            292
+          ]
+        }
+      ],
+      "orig": "Lemma 2 shows that it is sufficient to acquire the CSI of the first N +1 elements of g (i.e., h 2 d and 2 h d h c ) for designing the optimal IRS passive beamforming for data transmission. Thus, we propose an efficient channel estimation scheme in the next to estimate g 1 and [ g ] 2: N +1 .",
+      "text": "Lemma 2 shows that it is sufficient to acquire the CSI of the first N +1 elements of g (i.e., h 2 d and 2 h d h c ) for designing the optimal IRS passive beamforming for data transmission. Thus, we propose an efficient channel estimation scheme in the next to estimate g 1 and [ g ] 2: N +1 ."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.959577999999965,
+            "t": 532.6949446400001,
+            "r": 300.3305940761852,
+            "b": 438.8695399999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            511
+          ]
+        }
+      ],
+      "orig": "Our key idea is by leveraging the phase-rotated IRS training reflections to resolve the sign ambiguity issue. Specifically, the proposed channel estimation scheme consists of K sub-blocks. In each sub-block k , the reader sends two pilot signals while the IRS sets its training reflections as v k = [ v k, 1 , . . . , v k,N ] T and its phase-rotated version e ϕ v k , with ϕ ∈ [0 , 2 π ) over the two symbols. Let y (1) k and y (2) k denote the two received pilot signals in sub-block k . Based on (6), we have",
+      "text": "Our key idea is by leveraging the phase-rotated IRS training reflections to resolve the sign ambiguity issue. Specifically, the proposed channel estimation scheme consists of K sub-blocks. In each sub-block k , the reader sends two pilot signals while the IRS sets its training reflections as v k = [ v k, 1 , . . . , v k,N ] T and its phase-rotated version e ϕ v k , with ϕ ∈ [0 , 2 π ) over the two symbols. Let y (1) k and y (2) k denote the two received pilot signals in sub-block k . Based on (6), we have"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 87.11929799999996,
+            "t": 432.4304574999999,
+            "r": 300.07712132740716,
+            "b": 417.5339483999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "y (1) k = h 2 d +2 h d v H k h c + w k + z k 1 , (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 87.11955999999998,
+            "t": 415.3906514999999,
+            "r": 300.19714032557516,
+            "b": 400.49375239999983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "y (2) k = h 2 d +2 e ϕ h d v H k h c + e 2 ϕ w k + z k 2 , (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.95932200000004,
+            "t": 395.1105954999999,
+            "r": 300.06029328000005,
+            "b": 364.71607359999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "where w k = ( v k ⊗ v k ) H ( h c ⊗ h c ) . Let t 1 = e 2 ϕ , t 2 = ( e 2 ϕ -1) , and t 3 = ( e 2 ϕ -e ϕ ) . It then follows that",
+      "text": "where w k = ( v k ⊗ v k ) H ( h c ⊗ h c ) . Let t 1 = e 2 ϕ , t 2 = ( e 2 ϕ -1) , and t 3 = ( e 2 ϕ -e ϕ ) . It then follows that"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.23894200000005,
+            "t": 365.11057549999987,
+            "r": 300.1972483255752,
+            "b": 345.03597359999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "t 1 y (1) k -y (2) k = t 2 h 2 d +2 t 3 h d v H k h c + z k , (11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.959700000000026,
+            "t": 343.35207999999994,
+            "r": 300.31801419071667,
+            "b": 296.0660856809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "where z k = ( t 1 z k 1 -z k 2 ) is the AWGN noise with (normalized) power 2 σ 2 /P t . For the received signals over the K subblocks, by defining y R = [ t 1 y (1) 1 -y (2) 1 , . . . , t 1 y (1) K -y (2) K ] T ∈ C K × 1 ,",
+      "text": "where z k = ( t 1 z k 1 -z k 2 ) is the AWGN noise with (normalized) power 2 σ 2 /P t . For the received signals over the K subblocks, by defining y R = [ t 1 y (1) 1 -y (2) 1 , . . . , t 1 y (1) K -y (2) K ] T ∈ C K × 1 ,"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.27985599999988,
+            "t": 292.64742176,
+            "r": 300.1973943255751,
+            "b": 235.95996823999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "A =    t 2 t 3 v H 1 . . . . . . t 2 t 3 v H K    ∈ C K × ( N +1) , (12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.95984599999994,
+            "t": 240.79038749999995,
+            "r": 300.03506824,
+            "b": 217.58574568093024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "g = [ h 2 d , 2 h d h c ] T ∈ C ( N +1) × 1 , and z = [ z 1 , . . . , z K ] T ∈ C K × 1 , we have",
+      "text": "g = [ h 2 d , 2 h d h c ] T ∈ C ( N +1) × 1 , and z = [ z 1 , . . . , z K ] T ∈ C K × 1 , we have"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 142.43963000000002,
+            "t": 208.35198000000003,
+            "r": 300.1972483255752,
+            "b": 195.05364840000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "y R = A g + z , (13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.959700000000026,
+            "t": 189.11402271999998,
+            "r": 300.1969355598598,
+            "b": 120.26602568093028,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            312
+          ]
+        }
+      ],
+      "orig": "where A is defined as the effective IRS training reflection matrix over K sub-blocks and g is the required CSI for the passive beamforming design. Next, by properly designing { v k } K k =1 and ϕ (or equivalently t 2 and t 3 ) such that rank( A ) = N +1 , the least-square (LS) estimation of g can be obtained as",
+      "text": "where A is defined as the effective IRS training reflection matrix over K sub-blocks and g is the required CSI for the passive beamforming design. Next, by properly designing { v k } K k =1 and ϕ (or equivalently t 2 and t 3 ) such that rank( A ) = N +1 , the least-square (LS) estimation of g can be obtained as"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 106.08092199999997,
+            "t": 115.04752176,
+            "r": 300.19721832557514,
+            "b": 82.24038824000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "ˆ g = ( A H A ) -1 A H y R = g + g e , (14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.95966999999999,
+            "t": 93.32752175999997,
+            "r": 300.18161166368,
+            "b": 43.94612568093021,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.0,
+            "t": 734.2948446400001,
+            "r": 563.2214371291299,
+            "b": 713.4261256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            248,
+            310
+          ]
+        }
+      ],
+      "orig": "where g e ≜ ( A H A ) -1 A H z denotes the channel estimation error in ˆ g . Note that to ensure rank( A ) = N + 1 , at least N + 1 sub-blocks and hence equivalently 2( N + 1) training symbols are required for estimating g . According to (14), the mean-square error (MSE) of the above LS estimation is given by",
+      "text": "where g e ≜ ( A H A ) -1 A H z denotes the channel estimation error in ˆ g . Note that to ensure rank( A ) = N + 1 , at least N + 1 sub-blocks and hence equivalently 2( N + 1) training symbols are required for estimating g . According to (14), the mean-square error (MSE) of the above LS estimation is given by"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.28008,
+            "t": 707.0077617599999,
+            "r": 563.2376927340431,
+            "b": 623.68054824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "MSE (ˆ g ) = E [ ‖ g -ˆ g ‖ 2 ] = E [ ‖ g e ‖ 2 ] = E [ Tr ( ( A H A ) -1 A H zz H A ( ( A H A ) -1 ) H )] = ( 2 σ 2 P t ) Tr ( ( A H A ) -1 ) . (15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.0001199999999,
+            "t": 615.77484352,
+            "r": 432.66142656922716,
+            "b": 607.1028248775402,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "B. Proposed Training Design",
+      "text": "B. Proposed Training Design",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.0,
+            "t": 598.69474464,
+            "r": 563.1438157248141,
+            "b": 541.1338084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        }
+      ],
+      "orig": "In this subsection, we aim to minimize the MSE in (15) by optimizing the effective IRS training reflection matrix A . Under the constraints on the unit-modulus elements in { v k } K k =1 and full rank of A , this optimization problem can be formulated as follows (by dropping the constant term 2 σ 2 /P t ).",
+      "text": "In this subsection, we aim to minimize the MSE in (15) by optimizing the effective IRS training reflection matrix A . Under the constraints on the unit-modulus elements in { v k } K k =1 and full rank of A , this optimization problem can be formulated as follows (by dropping the constant term 2 σ 2 /P t )."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 330.84008,
+            "t": 535.1679117599999,
+            "r": 563.2379027340431,
+            "b": 499.36054824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "(P1) : minimize ϕ, { v k } K k =1 Tr ( ( A H A ) -1 ) (16)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 410.7602199999999,
+            "t": 491.0721699999999,
+            "r": 563.2378727340431,
+            "b": 481.10934000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "rank( A ) = N +1 , (18)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 386.16033,
+            "t": 506.0721699999999,
+            "r": 563.2377927340431,
+            "b": 489.03605559999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "s . t . | v k,n | = 1 , ∀ k, n = 1 , . . . , N, (17)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.0002999999999,
+            "t": 469.19412272,
+            "r": 538.4110368321043,
+            "b": 460.10602568093026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "where the training reflection matrix A is given in (12).",
+      "text": "where the training reflection matrix A is given in (12)."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.99984,
+            "t": 456.49464464,
+            "r": 563.16845392,
+            "b": 387.8657256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            365
+          ]
+        }
+      ],
+      "orig": "Problem (P1) is a non-convex optimization problem due to the matrix inverse operation in the objective function and the non-convex constraints in (17) and (18), and thus is difficult to be optimally solved in general. To address this issue, we first derive a lower bound of the objective function and then obtain the optimal solution to problem (P1) in closed form.",
+      "text": "Problem (P1) is a non-convex optimization problem due to the matrix inverse operation in the objective function and the non-convex constraints in (17) and (18), and thus is difficult to be optimally solved in general. To address this issue, we first derive a lower bound of the objective function and then obtain the optimal solution to problem (P1) in closed form."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.9999,
+            "t": 384.1344446399999,
+            "r": 563.4613575545574,
+            "b": 363.2657256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Lemma 3: The objective function of (P1) is lower-bounded by",
+      "text": "Lemma 3: The objective function of (P1) is lower-bounded by"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 377.03970000000004,
+            "t": 354.08791176,
+            "r": 563.2376727340431,
+            "b": 318.28034823999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Tr ( ( A H A ) -1 ) ≥ ( N +1) φ , (20)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 331.91980000000007,
+            "t": 310.52752176,
+            "r": 562.9036879280716,
+            "b": 277.72038824000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Proof: Let B ≜ ( A H A ) -1 . According to [14], we have",
+      "text": "Proof: Let B ≜ ( A H A ) -1 . According to [14], we have"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.0001,
+            "t": 321.7095904,
+            "r": 548.7304600000001,
+            "b": 309.86934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "where the equality is achieved if and only if A H A = φ I .",
+      "text": "where the equality is achieved if and only if A H A = φ I ."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 352.56032999999996,
+            "t": 289.16791176,
+            "r": 563.2376127340432,
+            "b": 253.36054823999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Tr ( ( A H A ) -1 ) ≥ ( N +1) N +1 √ det( B ) , (21)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.99933,
+            "t": 259.07382271999995,
+            "r": 563.2210576987613,
+            "b": 174.8660256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            411
+          ]
+        }
+      ],
+      "orig": "where the equality is achieved when B is diagonal and all the diagonal elements B i,i , i = 1 , . . . , N +1 , are equal. Note that when B is diagonal and B i,i = 1 φ , ∀ i , with φ > 0 , the matrix A H A is also diagonal with all diagonal elements being φ . Then we have det( B ) = 1 det( A H A ) = 1 φ N +1 . Substituting det( B ) into (21) leads to the lower bound given in (20). The proof is thus completed.",
+      "text": "where the equality is achieved when B is diagonal and all the diagonal elements B i,i , i = 1 , . . . , N +1 , are equal. Note that when B is diagonal and B i,i = 1 φ , ∀ i , with φ > 0 , the matrix A H A is also diagonal with all diagonal elements being φ . Then we have det( B ) = 1 det( A H A ) = 1 φ N +1 . Substituting det( B ) into (21) leads to the lower bound given in (20). The proof is thus completed."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.99983999999995,
+            "t": 171.13474464,
+            "r": 563.1433781012413,
+            "b": 138.3859256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "Next, the optimal solution to problem (P1) is given in the following proposition, as it achieves the lower bound given in (20).",
+      "text": "Next, the optimal solution to problem (P1) is given in the following proposition, as it achieves the lower bound given in (20)."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.99979999999994,
+            "t": 134.65464464000001,
+            "r": 563.1182547508762,
+            "b": 113.90622568093022,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Proposition 1: The optimal solution to problem (P1) for minimizing the MSE in (15) should satisfy:",
+      "text": "Proposition 1: The optimal solution to problem (P1) for minimizing the MSE in (15) should satisfy:"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 321.9599599999999,
+            "t": 107.53474463999999,
+            "r": 563.1170335834476,
+            "b": 86.66602568093026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "1) The IRS training reflection vectors over different symbols are orthogonal, i.e.,",
+      "text": "The IRS training reflection vectors over different symbols are orthogonal, i.e.,",
+      "enumerated": true,
+      "marker": "1)"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 433.799541,
+            "t": 59.071879999999965,
+            "r": 433.799541,
+            "b": 42.03576559999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "̸",
+      "text": "̸"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 338.03965699999986,
+            "t": 79.40752176000001,
+            "r": 563.2375337340433,
+            "b": 39.040448240000046,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "K ∑ k =1 v † k,i v k,j = { K, i = j, 0 , i = j, ∀ i, j ∈ { 1 , . . . , N } , (22)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 559.56,
+            "t": 765.5143225999999,
+            "r": 563.046925,
+            "b": 759.3062175482557,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.599999999999966,
+            "t": 731.6077817600001,
+            "r": 563.2377307340435,
+            "b": 650.5605482400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            413
+          ]
+        }
+      ],
+      "orig": "A H A =       K | t 2 | 2 t † 2 t 3 ∑ K k =1 v † k, 1 t † 2 t 3 ∑ K k =1 v † k, 2 . . . t † 2 t 3 ∑ K k =1 v † k,N t 2 t † 3 ∑ K k =1 v k, 1 K | t 3 | 2 | t 3 | 2 ∑ K k =1 v k, 1 v † k, 2 . . . | t 3 | 2 ∑ K k =1 v k, 1 v † k,N . . . . . . . . . . . . . . . t 2 t † 3 ∑ K k =1 v k,N | t 3 | 2 ∑ K k =1 v k,N v † k, 1 | t 3 | 2 ∑ K k =1 v k,N v † k, 2 . . . K | t 3 | 2       ∈ C ( N +1) × ( N +1) (19)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 73.19999999999999,
+            "t": 625.4547446400001,
+            "r": 300.21014614334814,
+            "b": 592.34924,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "with each entry satisfying the unit-modulus constraint. Moreover, for each subsurface n , its sum of the phase shifts over K symbols is zero, i.e.,",
+      "text": "with each entry satisfying the unit-modulus constraint. Moreover, for each subsurface n , its sum of the phase shifts over K symbols is zero, i.e.,"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 129.83986,
+            "t": 585.8295904,
+            "r": 300.1974283255752,
+            "b": 548.4405482400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "K ∑ k =1 v k,n = 0 , n = 1 , . . . , N. (23)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.95983999999996,
+            "t": 536.3895904,
+            "r": 300.09064399990285,
+            "b": 476.42602568093025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            260
+          ]
+        }
+      ],
+      "orig": "Proof: With A in (12), A H A can be expressed as in (19) (shown at the top of this page), where | t 2 | 2 = 2 ( 1 -cos(2 ϕ ) ) and | t 3 | 2 = 2 ( 1 -cos( ϕ ) ) . Since all diagonal elements of A H A should take the same value φ (according to Lemma 3), we have",
+      "text": "Proof: With A in (12), A H A can be expressed as in (19) (shown at the top of this page), where | t 2 | 2 = 2 ( 1 -cos(2 ϕ ) ) and | t 3 | 2 = 2 ( 1 -cos( ϕ ) ) . Since all diagonal elements of A H A should take the same value φ (according to Lemma 3), we have"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 58.919880000000006,
+            "t": 550.2706475000001,
+            "r": 291.09082,
+            "b": 535.9765375000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "2) The optimal common rotated phase-shift is ϕ ∗ = 2 π 3 .",
+      "text": "2) The optimal common rotated phase-shift is ϕ ∗ = 2 π 3 ."
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 132.11991999999998,
+            "t": 469.9903675,
+            "r": 300.19736832557516,
+            "b": 451.1157656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "K | t 2 | 2 = K | t 3 | 2 = φ, (24)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.95953,
+            "t": 435.15187999999995,
+            "r": 300.12879782818,
+            "b": 401.30942,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "Combining (24) and (25) leads to ϕ 1 = 0 ( equivalently φ = 0) and ϕ 2 = 2 π 3 ( equivalently φ = 3 K ) . Since φ > 0 , the optimal ϕ is given by",
+      "text": "Combining (24) and (25) leads to ϕ 1 = 0 ( equivalently φ = 0) and ϕ 2 = 2 π 3 ( equivalently φ = 3 K ) . Since φ > 0 , the optimal ϕ is given by"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 86.27982,
+            "t": 457.04726176,
+            "r": 300.19707832557515,
+            "b": 424.24028824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "2 K ( 1 -cos(2 ϕ ) ) = 2 K ( 1 -cos( ϕ ) ) = φ. (25)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 150.48011999999997,
+            "t": 395.2304475,
+            "r": 300.1974083255751,
+            "b": 383.42932,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "ϕ ∗ = 2 π/ 3 . (26)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.95985999999996,
+            "t": 376.5495904,
+            "r": 300.1036081386282,
+            "b": 341.18602568093024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "Moreover, it is not difficult to observe from (19) that A H A becomes diagonal when the conditions in (23) and (22) are satisfied. The proof is thus completed.",
+      "text": "Moreover, it is not difficult to observe from (19) that A H A becomes diagonal when the conditions in (23) and (22) are satisfied. The proof is thus completed."
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.95953000000003,
+            "t": 338.29474464,
+            "r": 300.2749970473429,
+            "b": 214.35556559999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            600
+          ]
+        }
+      ],
+      "orig": "It is noted from Proposition 1 that we need to construct { v k } K k =1 to satisfy all the conditions in (22) and (23), which, however, is not a trivial task. Fortunately, we notice that the discrete Fourier transform (DFT) matrix has the perfect orthogonality and the summation of each column (except the first column with all-one elements) is 0 , and thus it can be used to design the optimal IRS training reflection vectors, { v k } K k =1 . For instance, we can construct { v k } K k =1 that satisfy all the conditions in (22) and (23), by selecting N ( < K ) columns from the K × K DFT matrix as",
+      "text": "It is noted from Proposition 1 that we need to construct { v k } K k =1 to satisfy all the conditions in (22) and (23), which, however, is not a trivial task. Fortunately, we notice that the discrete Fourier transform (DFT) matrix has the perfect orthogonality and the summation of each column (except the first column with all-one elements) is 0 , and thus it can be used to design the optimal IRS training reflection vectors, { v k } K k =1 . For instance, we can construct { v k } K k =1 that satisfy all the conditions in (22) and (23), by selecting N ( < K ) columns from the K × K DFT matrix as"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 57.83919000000004,
+            "t": 217.0959499999999,
+            "r": 300.19740832557517,
+            "b": 196.23578559999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "v k,n = e - 2 π ( k -1) n K , ∀ k ∈ { 1 , . . . , K } ; n = 1 , . . . , N. (27)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.959503999999924,
+            "t": 195.51210000000003,
+            "r": 300.10338351531345,
+            "b": 157.6134684000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "On the other hand, the optimal ϕ in Proposition 1 can be explained as follows. By substituting ϕ = 2 π/ 3 into y (1) k and y (2) k in (9) and (10), respectively, and stacking them, we have",
+      "text": "On the other hand, the optimal ϕ in Proposition 1 can be explained as follows. By substituting ϕ = 2 π/ 3 into y (1) k and y (2) k in (9) and (10), respectively, and stacking them, we have"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.55952799999993,
+            "t": 156.08743175999996,
+            "r": 278.3992292800001,
+            "b": 88.96054823999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "[ y (1) k y (2) k ] = [ 1 1 1 1 e  2 π 3 e  4 π 3 ] ︸ ︷︷ ︸ B   h 2 d 2 h d v H k h c w k   + [ z k 1 z k 2 ] ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.95947600000011,
+            "t": 103.06945839999992,
+            "r": 300.12893982851097,
+            "b": 43.94579368093025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "which satisfies BB H = 3 I . This implies that the two row vectors of B are orthogonal and hence the two received pilot signals in each sub-block k , i.e., y (1) k and y (2) k , can always be obtained with minimum correlation so as to minimize the channel estimation error.",
+      "text": "which satisfies BB H = 3 I . This implies that the two row vectors of B are orthogonal and hence the two received pilot signals in each sub-block k , i.e., y (1) k and y (2) k , can always be obtained with minimum correlation so as to minimize the channel estimation error."
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 380.7594760000001,
+            "t": 625.45451264,
+            "r": 494.2704724004469,
+            "b": 616.5857936809301,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "IV. SIMULATION RESULTS",
+      "text": "IV. SIMULATION RESULTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.9989960000001,
+            "t": 605.29471264,
+            "r": 563.4092459254308,
+            "b": 343.94616368093,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1365
+          ]
+        }
+      ],
+      "orig": "We consider an IRS-assisted backscatter communication system that operates at a carrier frequency of 915 MHz (EPC Gen 2 frequency), which corresponds to the reference path loss of 30 dB at the distance of 1 meter (m). A three-dimensional (3D) coordinate system is considered as shown in Fig. 1, where the center points of the reader, tag, and IRS are located at (2 , 0 , 0) , (2 , 13 , 0) , and (0 , 13 , 0 . 33) in m, respectively. The IRS with half-wavelength element spacing is divided into N subsurface, each consisting of 5 adjacent reflecting elements [9]. Rician fading channel model is assumed for all the channels involved with a Rician factor of 6 dB. The path loss exponents are set as 2 . 2 , 2 . 2 , and 3 . 5 for the reader-IRS, IRStag, and reader-tag channels, respectively, and we set the noise power as σ 2 = -90 dBm. We define the system reference SNR as 10 log 10 ( P t ∣ ∣ h 2 d ∣ ∣ 2 /σ 2 ) and the effective SNR for data transmission (with optimized IRS reflections applied) as 10 log 10 ( P t ∣ ∣ ( h d + v H h c ) 2 ∣ ∣ 2 /σ 2 ) , where v is designed based on the estimated channel by the proposed scheme or by other means (see the baseline schemes below). Simulation results are averaged over 500 fading channel realizations. We compare the performance of the proposed channel estimation scheme against the following three baseline schemes:",
+      "text": "We consider an IRS-assisted backscatter communication system that operates at a carrier frequency of 915 MHz (EPC Gen 2 frequency), which corresponds to the reference path loss of 30 dB at the distance of 1 meter (m). A three-dimensional (3D) coordinate system is considered as shown in Fig. 1, where the center points of the reader, tag, and IRS are located at (2 , 0 , 0) , (2 , 13 , 0) , and (0 , 13 , 0 . 33) in m, respectively. The IRS with half-wavelength element spacing is divided into N subsurface, each consisting of 5 adjacent reflecting elements [9]. Rician fading channel model is assumed for all the channels involved with a Rician factor of 6 dB. The path loss exponents are set as 2 . 2 , 2 . 2 , and 3 . 5 for the reader-IRS, IRStag, and reader-tag channels, respectively, and we set the noise power as σ 2 = -90 dBm. We define the system reference SNR as 10 log 10 ( P t ∣ ∣ h 2 d ∣ ∣ 2 /σ 2 ) and the effective SNR for data transmission (with optimized IRS reflections applied) as 10 log 10 ( P t ∣ ∣ ( h d + v H h c ) 2 ∣ ∣ 2 /σ 2 ) , where v is designed based on the estimated channel by the proposed scheme or by other means (see the baseline schemes below). Simulation results are averaged over 500 fading channel realizations. We compare the performance of the proposed channel estimation scheme against the following three baseline schemes:"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.15955200000053,
+            "t": 334.49418487999975,
+            "r": 563.3413465468161,
+            "b": 313.10937799999977,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "Baseline I: The channels are estimated by using the proposed scheme, while the common phase rotation ϕ is randomly set.",
+      "text": "Baseline I: The channels are estimated by using the proposed scheme, while the common phase rotation ϕ is randomly set."
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.99945200000053,
+            "t": 308.31221799999975,
+            "r": 563.1947500265403,
+            "b": 274.82616368093,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "Baseline II: Randomly generate Q training reflection vectors from a Q × Q DFT matrix, and select the one that results in the maximum received signal power at the reader.",
+      "text": "Baseline II: Randomly generate Q training reflection vectors from a Q × Q DFT matrix, and select the one that results in the maximum received signal power at the reader."
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.99951200000055,
+            "t": 269.6719179999998,
+            "r": 563.435697615318,
+            "b": 140.42606368092993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            657
+          ]
+        }
+      ],
+      "orig": "Baseline III: Divide Q (with Q > N +1 ) training symbols into two groups as follows. For the first group of N +1 symbols, denoted by the set Ω 1, we try all the 2 N +1 sign combinations for { b k } N +1 k =1 in (4) and obtain the corresponding candidate CSI by using the LS estimation method in [8]-[10]. Then, for the remaining Q -( N +1) training symbols, denoted by the set Ω 2, we first construct the received signals for each candidate CSI based on the prior known training reflections and then obtain their MSEs with the actual received signals. Last, the candidate CSI that yields the minimum testing MSE over the second group of symbols is selected.",
+      "text": "Baseline III: Divide Q (with Q > N +1 ) training symbols into two groups as follows. For the first group of N +1 symbols, denoted by the set Ω 1, we try all the 2 N +1 sign combinations for { b k } N +1 k =1 in (4) and obtain the corresponding candidate CSI by using the LS estimation method in [8]-[10]. Then, for the remaining Q -( N +1) training symbols, denoted by the set Ω 2, we first construct the received signals for each candidate CSI based on the prior known training reflections and then obtain their MSEs with the actual received signals. Last, the candidate CSI that yields the minimum testing MSE over the second group of symbols is selected."
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.9998920000005,
+            "t": 136.57488263999971,
+            "r": 563.341334778367,
+            "b": 36.5158035999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            478
+          ]
+        }
+      ],
+      "orig": "In Fig. 2, we plot the effective SNR versus reference SNR by varying the normalized noise power (i.e., σ 2 /P t ) from -120 dB to -160 dB with N = 10 . First, it is observed that given the same number of 2( N +1) training symbols, the proposed scheme achieves smaller MSE than the other baseline schemes and approaches close performance to the scheme with perfect CSI that yields an upper bound on the effective SNR. Second, in the high SNR regime, Baseline III with | Ω 2 | = 1",
+      "text": "In Fig. 2, we plot the effective SNR versus reference SNR by varying the normalized noise power (i.e., σ 2 /P t ) from -120 dB to -160 dB with N = 10 . First, it is observed that given the same number of 2( N +1) training symbols, the proposed scheme achieves smaller MSE than the other baseline schemes and approaches close performance to the scheme with perfect CSI that yields an upper bound on the effective SNR. Second, in the high SNR regime, Baseline III with | Ω 2 | = 1"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 559.56,
+            "t": 765.5143225999999,
+            "r": 563.046925,
+            "b": 759.3062175482557,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 100.92,
+            "t": 541.18779436,
+            "r": 247.9920977130283,
+            "b": 534.0928209731395,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Fig. 2: Effective SNR versus reference SNR.",
+      "text": "Fig. 2: Effective SNR versus reference SNR."
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 89.5738,
+            "t": 565.1671589,
+            "r": 97.37470474999999,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "-20",
+      "text": "-20"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.77574135699999,
+            "t": 565.1671589,
+            "r": 118.57664610699997,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "-15",
+      "text": "-15"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 131.97768271399997,
+            "t": 565.1671589,
+            "r": 139.77858746399997,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "-10",
+      "text": "-10"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 154.65229452549997,
+            "t": 565.1671589,
+            "r": 159.45160547549997,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "-5",
+      "text": "-5"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 176.73743866249998,
+            "t": 565.1671589,
+            "r": 179.73903246249998,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 197.9393800195,
+            "t": 565.1671589,
+            "r": 200.9409738195,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 217.6690288205,
+            "t": 565.1671589,
+            "r": 223.67221642049998,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 238.87097017749997,
+            "t": 565.1671589,
+            "r": 244.87415777749996,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 260.07291153449995,
+            "t": 565.1671589,
+            "r": 266.0760991345,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 83.5371,
+            "t": 570.6151589,
+            "r": 91.33800474999998,
+            "b": 565.6215001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "-20",
+      "text": "-20"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 83.5371,
+            "t": 594.2635589,
+            "r": 91.33800474999998,
+            "b": 589.2699001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "-10",
+      "text": "-10"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 88.24882,
+            "t": 617.9115589,
+            "r": 91.25041379999999,
+            "b": 612.9179001500002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 85.3039,
+            "t": 641.5599589000001,
+            "r": 91.30708759999999,
+            "b": 636.5663001500002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 85.3039,
+            "t": 665.2083589000001,
+            "r": 91.30708759999999,
+            "b": 660.2147001500002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 85.3039,
+            "t": 688.8567589000002,
+            "r": 91.30708759999999,
+            "b": 683.8631001500003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "30",
+      "text": "30"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 85.3039,
+            "t": 712.5051589000002,
+            "r": 91.30708759999999,
+            "b": 707.5115001500003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "40",
+      "text": "40"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.95981999999998,
+            "t": 511.6949446399999,
+            "r": 300.30120135707193,
+            "b": 407.1859256809301,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            507
+          ]
+        }
+      ],
+      "orig": "performs very close to the proposed method. This is due to the fact that at high SNR, it is very likely that only one candidate CSI achieves the minimum testing MSE. However, Baseline III in general requires exponentially increasing complexity due to the required exhaustive search of 2 N +1 sign combinations, and thus is computationally prohibitive in practice. In contrast, the proposed scheme achieves superior MSE performance in both the low and high SNR regimes and requires low complexity (see (14)).",
+      "text": "performs very close to the proposed method. This is due to the fact that at high SNR, it is very likely that only one candidate CSI achieves the minimum testing MSE. However, Baseline III in general requires exponentially increasing complexity due to the required exhaustive search of 2 N +1 sign combinations, and thus is computationally prohibitive in practice. In contrast, the proposed scheme achieves superior MSE performance in both the low and high SNR regimes and requires low complexity (see (14))."
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.959659999999985,
+            "t": 404.29484463999984,
+            "r": 300.39512695999997,
+            "b": 274.8564074999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            654
+          ]
+        }
+      ],
+      "orig": "Next, we plot in Fig. 3 the effective SNR versus the number of IRS subsurfaces with fixed reference SNR of 0 dB. It is observed that the proposed scheme significantly outperforms the other baseline schemes, and the performance gap between the perfect CSI case and our proposed scheme decreases with increasing N . It is also observed that the performance of Baseline III with | Ω 2 | = 1 deviates away from that of Baseline III with | Ω 2 | = N +1 as N increases. This is because a larger N requires more training symbols and hence more possible sign combinations that generally needs more training symbols in Ω 2 to determine the CSI with high accuracy.",
+      "text": "Next, we plot in Fig. 3 the effective SNR versus the number of IRS subsurfaces with fixed reference SNR of 0 dB. It is observed that the proposed scheme significantly outperforms the other baseline schemes, and the performance gap between the perfect CSI case and our proposed scheme decreases with increasing N . It is also observed that the performance of Baseline III with | Ω 2 | = 1 deviates away from that of Baseline III with | Ω 2 | = N +1 as N increases. This is because a larger N requires more training symbols and hence more possible sign combinations that generally needs more training symbols in Ω 2 to determine the CSI with high accuracy."
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 138.71954999999997,
+            "t": 262.81464463999976,
+            "r": 210.113431446354,
+            "b": 253.94592568093003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "V. CONCLUSION",
+      "text": "V. CONCLUSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.95987999999991,
+            "t": 247.93454463999979,
+            "r": 300.3012700345313,
+            "b": 95.54582568092997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            753
+          ]
+        }
+      ],
+      "orig": "In this letter, we considered an IRS-assisted monostatic backscatter communication system, where an IRS is deployed to assist in the communication between a full-duplex singleantenna reader and a single-antenna tag. We proposed an efficient channel estimation scheme to estimate both the reader-tag direct channel and reader-IRS-tag reflecting channel, and optimized the IRS training matrix for minimizing the channel estimation error. Simulation results verified the superior performance of our proposed scheme over the baseline schemes. In future work, it is worth studying more general system/channel setups, such as the bistatic backscatter system [6], multi-tag system, IRS with discrete phase shift levels [15] or practical phase shift model [16].",
+      "text": "In this letter, we considered an IRS-assisted monostatic backscatter communication system, where an IRS is deployed to assist in the communication between a full-duplex singleantenna reader and a single-antenna tag. We proposed an efficient channel estimation scheme to estimate both the reader-tag direct channel and reader-IRS-tag reflecting channel, and optimized the IRS training matrix for minimizing the channel estimation error. Simulation results verified the superior performance of our proposed scheme over the baseline schemes. In future work, it is worth studying more general system/channel setups, such as the bistatic backscatter system [6], multi-tag system, IRS with discrete phase shift levels [15] or practical phase shift model [16]."
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 146.6395799999999,
+            "t": 84.49464463999982,
+            "r": 202.43110572023795,
+            "b": 75.62592568092998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 52.91965999999992,
+            "t": 69.4675943599998,
+            "r": 300.0695173059222,
+            "b": 44.372620973139306,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "[1] Q. Wu, S. Zhang, B. Zheng, C. You, and R. Zhang, 'Intelligent reflecting surface aided wireless communications: A tutorial,' IEEE Trans. Commun., DOI:10.1109/TCOMM.2021.3051897 , Jan. 2021.",
+      "text": "Q. Wu, S. Zhang, B. Zheng, C. You, and R. Zhang, 'Intelligent reflecting surface aided wireless communications: A tutorial,' IEEE Trans. Commun., DOI:10.1109/TCOMM.2021.3051897 , Jan. 2021.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 343.44,
+            "t": 541.18779436,
+            "r": 531.3120799574397,
+            "b": 534.0928209731395,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Fig. 3: Effective SNR versus number of IRS subsurfaces.",
+      "text": "Fig. 3: Effective SNR versus number of IRS subsurfaces."
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 354.97,
+            "t": 565.1671589,
+            "r": 357.97159380000005,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 383.23950707500006,
+            "t": 565.1671589,
+            "r": 386.2411008750001,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 411.5086362515001,
+            "t": 565.1671589,
+            "r": 414.5102300515001,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 439.7781433265001,
+            "t": 565.1671589,
+            "r": 442.77973712650015,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 468.04727250300016,
+            "t": 565.1671589,
+            "r": 471.0488663030002,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 496.3167795780002,
+            "t": 565.1671589,
+            "r": 499.3183733780002,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 523.1136161985003,
+            "t": 565.1671589,
+            "r": 529.1168037985003,
+            "b": 560.1735001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 351.289,
+            "t": 570.6151589,
+            "r": 354.2905938,
+            "b": 565.6215001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 351.289,
+            "t": 601.3581589,
+            "r": 354.2905938,
+            "b": 596.3645001500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 348.34447,
+            "t": 632.1007589000001,
+            "r": 354.34765760000005,
+            "b": 627.1071001500002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 348.34447,
+            "t": 662.8437589000001,
+            "r": 354.34765760000005,
+            "b": 657.8501001500002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 348.34447,
+            "t": 693.5867589000002,
+            "r": 354.34765760000005,
+            "b": 688.5931001500003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 348.34447,
+            "t": 724.3297589000002,
+            "r": 354.34765760000005,
+            "b": 719.3361001500003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "25",
+      "text": "25"
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.9603,
+            "t": 508.0678943599999,
+            "r": 562.9929642124896,
+            "b": 474.09284097313946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "[2] C. Huang, A. Zappone, G. C. Alexandropoulos, M. Debbah, and C. Yuen, 'Reconfigurable intelligent surfaces for energy efficiency in wireless communication,' IEEE Trans. Wireless Commun. , vol. 18, no. 8, pp. 4157-4170, Aug. 2019.",
+      "text": "C. Huang, A. Zappone, G. C. Alexandropoulos, M. Debbah, and C. Yuen, 'Reconfigurable intelligent surfaces for energy efficiency in wireless communication,' IEEE Trans. Wireless Commun. , vol. 18, no. 8, pp. 4157-4170, Aug. 2019.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96060000000017,
+            "t": 472.1878143599999,
+            "r": 562.9929581879802,
+            "b": 438.21276097313944,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "[3] H. Lu, Y. Zeng, S. Jin, and R. Zhang, 'Aerial intelligent reflecting surface: Joint placement and passive beamforming design with 3D beam flattening,' IEEE Trans. Wireless Commun., DOI:10.1109/TWC.2021.3056154 , Feb. 2021.",
+      "text": "H. Lu, Y. Zeng, S. Jin, and R. Zhang, 'Aerial intelligent reflecting surface: Joint placement and passive beamforming design with 3D beam flattening,' IEEE Trans. Wireless Commun., DOI:10.1109/TWC.2021.3056154 , Feb. 2021.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.9606000000001,
+            "t": 436.30773435999987,
+            "r": 563.0546369377028,
+            "b": 411.33307097313946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "[4] F. Zhou, C. You, and R. Zhang, 'Delay-optimal scheduling for IRS-aided mobile edge computing,' IEEE Wireless Commun. Lett., DOI:10.1109/LWC.2020.3042189 , Dec. 2020.",
+      "text": "F. Zhou, C. You, and R. Zhang, 'Delay-optimal scheduling for IRS-aided mobile edge computing,' IEEE Wireless Commun. Lett., DOI:10.1109/LWC.2020.3042189 , Dec. 2020.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.95960000000014,
+            "t": 409.4280443599999,
+            "r": 562.9918879741697,
+            "b": 375.4533809731395,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "[5] W. Zhao, G. Wang, S. Atapattu, T. A. Tsiftsis, and X. Ma, 'Performance analysis of large intelligent surface aided backscatter communication systems,' IEEE Wireless Commun. Lett. , vol. 9, no. 7, pp. 962-966, Jul. 2020.",
+      "text": "W. Zhao, G. Wang, S. Atapattu, T. A. Tsiftsis, and X. Ma, 'Performance analysis of large intelligent surface aided backscatter communication systems,' IEEE Wireless Commun. Lett. , vol. 9, no. 7, pp. 962-966, Jul. 2020.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.9595000000001,
+            "t": 373.5483543599999,
+            "r": 562.813421296707,
+            "b": 348.57330097313945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            212
+          ]
+        }
+      ],
+      "orig": "[6] X. Jia, X. Zhou, D. Niyato, and J. Zhao, 'Intelligent reflecting surfaceassisted bistatic backscatter networks: Joint beamforming and reflection design,' [Online]. Available: https://arxiv.org/abs/2010.08947.",
+      "text": "X. Jia, X. Zhou, D. Niyato, and J. Zhao, 'Intelligent reflecting surfaceassisted bistatic backscatter networks: Joint beamforming and reflection design,' [Online]. Available: https://arxiv.org/abs/2010.08947.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.95950000000016,
+            "t": 346.6682743599999,
+            "r": 563.108132917386,
+            "b": 321.57330097313945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "[7] D. Mishra and E. G. Larsson, 'Optimal channel estimation for reciprocity-based backscattering with a full-duplex MIMO reader,' IEEE Trans. Signal Process. , vol. 67, no. 6, pp. 1662-1677, Mar. 2019.",
+      "text": "D. Mishra and E. G. Larsson, 'Optimal channel estimation for reciprocity-based backscattering with a full-duplex MIMO reader,' IEEE Trans. Signal Process. , vol. 67, no. 6, pp. 1662-1677, Mar. 2019.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.95870000000014,
+            "t": 319.78819435999986,
+            "r": 562.9907843249061,
+            "b": 285.8131409731394,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            237
+          ]
+        }
+      ],
+      "orig": "[8] C. You, B. Zheng, and R. Zhang, 'Channel estimation and passive beamforming for intelligent reflecting surface: Discrete phase shift and progressive refinement,' IEEE J. Sel. Areas Commun. , vol. 38, no. 11, pp. 2604-2620, Nov. 2020.",
+      "text": "C. You, B. Zheng, and R. Zhang, 'Channel estimation and passive beamforming for intelligent reflecting surface: Discrete phase shift and progressive refinement,' IEEE J. Sel. Areas Commun. , vol. 38, no. 11, pp. 2604-2620, Nov. 2020.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.9587000000002,
+            "t": 283.90811435999984,
+            "r": 563.1083529173861,
+            "b": 258.8131409731394,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "[9] B. Zheng, C. You, and R. Zhang, 'Intelligent reflecting surface assisted multi-user OFDMA: Channel estimation and training design,' IEEE Trans. Wireless Commun. , vol. 19, no. 12, pp. 8315-8329, Dec. 2020.",
+      "text": "B. Zheng, C. You, and R. Zhang, 'Intelligent reflecting surface assisted multi-user OFDMA: Channel estimation and training design,' IEEE Trans. Wireless Commun. , vol. 19, no. 12, pp. 8315-8329, Dec. 2020.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.99842000000035,
+            "t": 257.0284243599999,
+            "r": 562.9773224484192,
+            "b": 231.93345097313932,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "[10] T. L. Jensen and E. De Carvalho, 'An optimal channel estimation scheme for intelligent reflecting surfaces based on a minimum variance unbiased estimator,' in Proc. ICASSP , May 2020, pp. 5000-5004.",
+      "text": "T. L. Jensen and E. De Carvalho, 'An optimal channel estimation scheme for intelligent reflecting surfaces based on a minimum variance unbiased estimator,' in Proc. ICASSP , May 2020, pp. 5000-5004.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.99812000000037,
+            "t": 230.14834435999978,
+            "r": 562.9906273083135,
+            "b": 205.0533709731394,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "[11] C. You, B. Zheng, and R. Zhang, 'Fast beam training for IRS-assisted multiuser communications,' IEEE Wireless Commun. Lett. , vol. 9, no. 11, pp. 1845-1849, Nov. 2020.",
+      "text": "C. You, B. Zheng, and R. Zhang, 'Fast beam training for IRS-assisted multiuser communications,' IEEE Wireless Commun. Lett. , vol. 9, no. 11, pp. 1845-1849, Nov. 2020.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.9985200000003,
+            "t": 203.14834435999978,
+            "r": 563.0329273917031,
+            "b": 178.1732909731394,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "[12] L. Wei, C. Huang, G. C. Alexandropoulos, C. Yuen, Z. Zhang, and M. Debbah, 'Channel estimation for RIS-empowered multi-user MISO wireless communications,' to appear in IEEE Trans. Commun. , 2021.",
+      "text": "L. Wei, C. Huang, G. C. Alexandropoulos, C. Yuen, Z. Zhang, and M. Debbah, 'Channel estimation for RIS-empowered multi-user MISO wireless communications,' to appear in IEEE Trans. Commun. , 2021.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.9985200000003,
+            "t": 176.26826435999988,
+            "r": 563.1110475000004,
+            "b": 151.29321097313937,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "[13] D. P. Villame and J. S. Marciano, 'Carrier suppression locked loop mechanism for UHF RFID readers,' in Proc. IEEE Int. Conf. on RFID , 2010, pp. 141-145.",
+      "text": "D. P. Villame and J. S. Marciano, 'Carrier suppression locked loop mechanism for UHF RFID readers,' in Proc. IEEE Int. Conf. on RFID , 2010, pp. 141-145.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.99872000000033,
+            "t": 149.38818435999985,
+            "r": 562.870978433715,
+            "b": 124.41313097313946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "[14] T. L. Tung, K. Yao, and R. E. Hudson, 'Channel estimation and adaptive power allocation for performance and capacity improvement of multipleantenna OFDM systems,' in Proc. IEEE SPAWC , Mar. 2001, pp. 82-85.",
+      "text": "T. L. Tung, K. Yao, and R. E. Hudson, 'Channel estimation and adaptive power allocation for performance and capacity improvement of multipleantenna OFDM systems,' in Proc. IEEE SPAWC , Mar. 2001, pp. 82-85.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.9989200000002,
+            "t": 122.50810435999983,
+            "r": 563.1087529173861,
+            "b": 97.41313097313946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "[15] Q. Wu and R. Zhang, 'Beamforming optimization for wireless network aided by intelligent reflecting surface with discrete phase shifts,' IEEE Trans. Commun. , vol. 68, no. 3, pp. 1838-1851, Mar. 2020.",
+      "text": "Q. Wu and R. Zhang, 'Beamforming optimization for wireless network aided by intelligent reflecting surface with discrete phase shifts,' IEEE Trans. Commun. , vol. 68, no. 3, pp. 1838-1851, Mar. 2020.",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.99912000000035,
+            "t": 95.62841435999985,
+            "r": 562.7041436827304,
+            "b": 70.53344097313948,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "[16] S. Abeywickrama, R. Zhang, Q. Wu, and C. Yuen, 'Intelligent reflecting surface: Practical phase shift model and beamforming optimization,' IEEE Trans. Commun. , vol. 68, no. 9, pp. 5849-5863, Sep. 2020.",
+      "text": "S. Abeywickrama, R. Zhang, Q. Wu, and C. Yuen, 'Intelligent reflecting surface: Practical phase shift model and beamforming optimization,' IEEE Trans. Commun. , vol. 68, no. 9, pp. 5849-5863, Sep. 2020.",
+      "enumerated": true,
+      "marker": "[16]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 330.3000183105469,
+            "t": 607.745361328125,
+            "r": 544.505859375,
+            "b": 453.2729797363281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 73.45027923583984,
+            "t": 725.1374588012695,
+            "r": 266.2730407714844,
+            "b": 552.9099273681641,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/122"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        },
+        {
+          "$ref": "#/texts/154"
+        },
+        {
+          "$ref": "#/texts/155"
+        },
+        {
+          "$ref": "#/texts/156"
+        },
+        {
+          "$ref": "#/texts/157"
+        },
+        {
+          "$ref": "#/texts/158"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 338.2222595214844,
+            "t": 726.6041030883789,
+            "r": 529.9937744140625,
+            "b": 552.9125671386719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/145"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

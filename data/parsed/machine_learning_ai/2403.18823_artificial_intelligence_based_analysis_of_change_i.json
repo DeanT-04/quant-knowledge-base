@@ -1,0 +1,2824 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2403.18823_artificial_intelligence_based_analysis_of_change_i",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 17669377243354666622,
+    "filename": "2403.18823_artificial_intelligence_based_analysis_of_change_i.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/groups/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 591.3800000000001,
+            "r": 36.206559297218156,
+            "b": 217.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "arXiv:2403.18823v1  [q-fin.GN]  10 Dec 2023",
+      "text": "arXiv:2403.18823v1  [q-fin.GN]  10 Dec 2023"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64099999999996,
+            "t": 730.8056053,
+            "r": 555.3620374,
+            "b": 654.4900460991151,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "Artificial Intelligence-based Analysis of Change in Public Finance between US and International Markets",
+      "text": "Artificial Intelligence-based Analysis of Change in Public Finance between US and International Markets",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.801,
+            "t": 642.0202439000001,
+            "r": 393.2009346000002,
+            "b": 592.5631435362832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "Kapil Panda University of North Texas Denton, TX, United States of America kapilpanda@my.unt.edu",
+      "text": "Kapil Panda University of North Texas Denton, TX, United States of America kapilpanda@my.unt.edu"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.963999999999984,
+            "t": 554.4208160000001,
+            "r": 300.0233824000002,
+            "b": 297.2940223999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1578
+          ]
+        }
+      ],
+      "orig": "Abstract -Public finances are one of the fundamental mechanisms of economic governance that refer to the financial activities and decisions made by government entities to fund public services, projects, and operations through assets. In today's globalized landscape, even subtle shifts in one nation's public debt landscape can have significant impacts on that of international finances, necessitating a nuanced understanding of the correlations between international and national markets to help investors make informed investment decisions. Therefore, by leveraging the capabilities of artificial intelligence, this study utilizes neural networks to depict the correlations between US and International Public Finances and predict the changes in international public finances based on the changes in US public finances. With the neural network model achieving a commendable Mean Squared Error (MSE) value of 2.79, it is able to affirm a discernible correlation and also plot the effect of US market volatility on international markets. To further test the accuracy and significance of the model, an economic analysis was conducted that aimed to correlate the changes seen by the results of the model with historical stock market changes. This model demonstrates significant potential for investors to predict changes in international public finances based on signals from US markets, marking a significant stride in comprehending the intricacies of global public finances and the role of artificial intelligence in decoding its multifaceted patterns for practical forecasting.",
+      "text": "Abstract -Public finances are one of the fundamental mechanisms of economic governance that refer to the financial activities and decisions made by government entities to fund public services, projects, and operations through assets. In today's globalized landscape, even subtle shifts in one nation's public debt landscape can have significant impacts on that of international finances, necessitating a nuanced understanding of the correlations between international and national markets to help investors make informed investment decisions. Therefore, by leveraging the capabilities of artificial intelligence, this study utilizes neural networks to depict the correlations between US and International Public Finances and predict the changes in international public finances based on the changes in US public finances. With the neural network model achieving a commendable Mean Squared Error (MSE) value of 2.79, it is able to affirm a discernible correlation and also plot the effect of US market volatility on international markets. To further test the accuracy and significance of the model, an economic analysis was conducted that aimed to correlate the changes seen by the results of the model with historical stock market changes. This model demonstrates significant potential for investors to predict changes in international public finances based on signals from US markets, marking a significant stride in comprehending the intricacies of global public finances and the role of artificial intelligence in decoding its multifaceted patterns for practical forecasting."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.963999999999984,
+            "t": 289.4298159999999,
+            "r": 300.0232000000001,
+            "b": 271.40702239999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "Index Terms -computational finance, artificial intelligence, international markets, economics, spatiotemporal data analysis",
+      "text": "Index Terms -computational finance, artificial intelligence, international markets, economics, spatiotemporal data analysis"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 135.61899999999997,
+            "t": 238.03165259999992,
+            "r": 213.3718397999998,
+            "b": 229.47977439292026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "I. INTRODUCTION",
+      "text": "I. INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96399999999998,
+            "t": 220.39865259999988,
+            "r": 300.0219199999999,
+            "b": 140.11577439292023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            406
+          ]
+        }
+      ],
+      "orig": "From the United States Treasury to financial administrations in capital cities across the world, the machinery of governance is fueled by immense flows of public sector debt and assets [8]. Public finance encompasses these intricate governmental financial systems that enable vital public services, investments in national projects, and broader economic functions fundamental for societal stability [1][9].",
+      "text": "From the United States Treasury to financial administrations in capital cities across the world, the machinery of governance is fueled by immense flows of public sector debt and assets [8]. Public finance encompasses these intricate governmental financial systems that enable vital public services, investments in national projects, and broader economic functions fundamental for societal stability [1][9]."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96399999999998,
+            "t": 136.28865259999986,
+            "r": 300.02191999999997,
+            "b": 44.050774392920175,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            485
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.978,
+            "t": 554.7196525999998,
+            "r": 563.0355199999998,
+            "b": 438.5707743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            486,
+            1087
+          ]
+        }
+      ],
+      "orig": "At its core, public finance is the financial activities and decisions made by the government to run the country and provide services to its citizens [3]. Therefore, it represents a balancing act: governments must judiciously administer assets generated from tax revenues and manage liabilities in the form of bond issuances or deficits that fund public welfare projects [7]. Historically, public finances remained relatively siloed within the confines of each nation state [4]. Balance sheets tallying streams of tax revenues and towering liabilities from bond issuances mostly fluctuated from internal dynamics. However, in today's intensely integrated global economy, even minor changes in one country's public debt markets can trigger a butterfly effect that links to fiscal conditions across international bounds [2]. As the acceleration of globalization unravels traditional borders, understanding the emergence of these correlations in public finances becomes critical as it can help investors predict changes to the international markets based on changes in the US markets [5][6].",
+      "text": "At its core, public finance is the financial activities and decisions made by the government to run the country and provide services to its citizens [3]. Therefore, it represents a balancing act: governments must judiciously administer assets generated from tax revenues and manage liabilities in the form of bond issuances or deficits that fund public welfare projects [7]. Historically, public finances remained relatively siloed within the confines of each nation state [4]. Balance sheets tallying streams of tax revenues and towering liabilities from bond issuances mostly fluctuated from internal dynamics. However, in today's intensely integrated global economy, even minor changes in one country's public debt markets can trigger a butterfly effect that links to fiscal conditions across international bounds [2]. As the acceleration of globalization unravels traditional borders, understanding the emergence of these correlations in public finances becomes critical as it can help investors predict changes to the international markets based on changes in the US markets [5][6]."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.978,
+            "t": 434.95865259999977,
+            "r": 563.0355199999999,
+            "b": 282.94477439292024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            800
+          ]
+        }
+      ],
+      "orig": "The capabilities of artificial intelligence methods have grown enormously in recent years, now powering innovative analyses that are rippling across the finance industry [14]. Mathematical and statistical AI approaches can unpack complex patterns in vast financial data sets that evade traditional techniques [11]. In particular, neural networks have become a highly useful AI method for gleaning insights from complex, multidimensional financial data. Neural networks can detect intricate nonlinear relationships and temporal dynamics within and between equities, bonds, currencies, and other financial assets. Their flexible modeling of intricate real-world patterns in finance data serves neural networks as an invaluable addition to the AI toolkit revolutionizing 21st century financial analysis.",
+      "text": "The capabilities of artificial intelligence methods have grown enormously in recent years, now powering innovative analyses that are rippling across the finance industry [14]. Mathematical and statistical AI approaches can unpack complex patterns in vast financial data sets that evade traditional techniques [11]. In particular, neural networks have become a highly useful AI method for gleaning insights from complex, multidimensional financial data. Neural networks can detect intricate nonlinear relationships and temporal dynamics within and between equities, bonds, currencies, and other financial assets. Their flexible modeling of intricate real-world patterns in finance data serves neural networks as an invaluable addition to the AI toolkit revolutionizing 21st century financial analysis."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.978,
+            "t": 279.33265259999985,
+            "r": 563.0355199999999,
+            "b": 127.31777439292023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            762
+          ]
+        }
+      ],
+      "orig": "Therefore, in this research I utilize artificial intelligence to conduct an analysis of stock change between US and International Public Finances. By employing a neural network, I am able to depict the correlations between US and International Public Finances and predict the changes in international markets based on the changes in US public finances. The model achieved a Mean Squared Error (MSE) value of 2.79, proving a correlation between the two. Furthermore, through an economic analysis I am able to correlate the changes seen by the results of the model with historical stock market changes, overall demonstrating the significant potential of this model for investors to predict changes in international public finances based on signals from US markets.",
+      "text": "Therefore, in this research I utilize artificial intelligence to conduct an analysis of stock change between US and International Public Finances. By employing a neural network, I am able to depict the correlations between US and International Public Finances and predict the changes in international markets based on the changes in US public finances. The model achieved a Mean Squared Error (MSE) value of 2.79, proving a correlation between the two. Furthermore, through an economic analysis I am able to correlate the changes seen by the results of the model with historical stock market changes, overall demonstrating the significant potential of this model for investors to predict changes in international public finances based on signals from US markets."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 358.05600000000004,
+            "t": 108.68665259999977,
+            "r": 516.9644842000001,
+            "b": 100.13477439292024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "II. MATERIALS AND METHODOLOGY",
+      "text": "II. MATERIALS AND METHODOLOGY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 92.51797939999983,
+            "r": 364.28164999999984,
+            "b": 83.93021819999979,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "A. Materials",
+      "text": "A. Materials",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 76.5126525999998,
+            "r": 563.0355199999997,
+            "b": 44.050774392920175,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "In this study, I utilized credit rating history of US Public Finances and International Public Finances from S&P Global, since November 1, 2010. While the datasets consisted several",
+      "text": "In this study, I utilized credit rating history of US Public Finances and International Public Finances from S&P Global, since November 1, 2010. While the datasets consisted several"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 559.549,
+            "t": 765.3189437999999,
+            "r": 563.0359,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 765.3189437999999,
+            "r": 52.4509,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 734.0476526,
+            "r": 300.02152000000007,
+            "b": 701.5847743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "metrics, the data points utilized in the analysis were the initial credit ratings, change in credit ratings, and the date of change for the all entities examined.",
+      "text": "metrics, the data points utilized in the analysis were the initial credit ratings, change in credit ratings, and the date of change for the all entities examined."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 683.4059794,
+            "r": 142.67221560000004,
+            "b": 674.8182181999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "B. Data Preprocessing",
+      "text": "B. Data Preprocessing",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 668.1786526,
+            "r": 300.0219200000001,
+            "b": 587.8957743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            410
+          ]
+        }
+      ],
+      "orig": "To facilitate meaningful comparisons and analyses, a meticulous literature review was conducted for feature engineering. Recognizing the temporal dimension as a significant factor, the primary approach involved leveraging the credit rating change dates as the chronological anchor for the analysis. This strategic use of time allowed for seamless alignment of data points from the US and International markets.",
+      "text": "To facilitate meaningful comparisons and analyses, a meticulous literature review was conducted for feature engineering. Recognizing the temporal dimension as a significant factor, the primary approach involved leveraging the credit rating change dates as the chronological anchor for the analysis. This strategic use of time allowed for seamless alignment of data points from the US and International markets."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 584.5386525999998,
+            "r": 300.02191999999997,
+            "b": 528.16577439292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            264
+          ]
+        }
+      ],
+      "orig": "The datasets were then concatenated based on the timeline, ensuring the creation of a cohesive and comprehensive main dataset for subsequent analysis. This temporal alignment formed the foundation for understanding and comparing the dynamics of the credit ratings.",
+      "text": "The datasets were then concatenated based on the timeline, ensuring the creation of a cohesive and comprehensive main dataset for subsequent analysis. This temporal alignment formed the foundation for understanding and comparing the dynamics of the credit ratings."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 524.8086525999996,
+            "r": 300.0219200000001,
+            "b": 432.57077439292004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            448
+          ]
+        }
+      ],
+      "orig": "Moreover, during data preprocessing, missing values and outliers were addressed through careful imputation and normalization techniques. This ensured the integrity of the dataset and the robustness of subsequent analyses. Exploratory data analysis was also conducted to gain insights into the distribution and characteristics of the selected metrics, providing a crucial context for the subsequent application of artificial intelligence techniques.",
+      "text": "Moreover, during data preprocessing, missing values and outliers were addressed through careful imputation and normalization techniques. This ensured the integrity of the dataset and the robustness of subsequent analyses. Exploratory data analysis was also conducted to gain insights into the distribution and characteristics of the selected metrics, providing a crucial context for the subsequent application of artificial intelligence techniques."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 429.2136525999997,
+            "r": 300.02192,
+            "b": 372.8407743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            310
+          ]
+        }
+      ],
+      "orig": "By establishing a well-organized and temporally aligned dataset through rigorous data preprocessing, the subsequent artificial intelligence-based analysis was poised to effectively capture and interpret the intricate relationship between changes in US financial data and their impact on international finances.",
+      "text": "By establishing a well-organized and temporally aligned dataset through rigorous data preprocessing, the subsequent artificial intelligence-based analysis was poised to effectively capture and interpret the intricate relationship between changes in US financial data and their impact on international finances."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 354.66097939999975,
+            "r": 148.92872840000007,
+            "b": 346.07321819999976,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "C. Artificial Intelligence",
+      "text": "C. Artificial Intelligence",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 339.4346525999997,
+            "r": 300.0219200000001,
+            "b": 223.28577439292008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            603
+          ]
+        }
+      ],
+      "orig": "In the realm of artificial intelligence, the pivotal aim was to construct an algorithm that could intricately predict international public finance ratings based on US public finance ratings. The foundational element of this AI-based analysis was the integration of a Long Short-Term Memory (LSTM) based input layer [15]. This specialized layer was meticulously designed to assimilate and comprehend the nuanced intricacies embedded within the financial datasets. Notably, the LSTM played a crucial role in unearthing temporal correlations, allowing the model to discern evolving patterns over time [12].",
+      "text": "In the realm of artificial intelligence, the pivotal aim was to construct an algorithm that could intricately predict international public finance ratings based on US public finance ratings. The foundational element of this AI-based analysis was the integration of a Long Short-Term Memory (LSTM) based input layer [15]. This specialized layer was meticulously designed to assimilate and comprehend the nuanced intricacies embedded within the financial datasets. Notably, the LSTM played a crucial role in unearthing temporal correlations, allowing the model to discern evolving patterns over time [12]."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 219.92865259999985,
+            "r": 300.0219200000001,
+            "b": 103.78077439292008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            556
+          ]
+        }
+      ],
+      "orig": "The subsequent layer in the neural network architecture comprised a singular node within the output layer, responsible for predicting changes in international finances based on the fluctuations observed in US finances. The LSTM's significance extended to facilitating an understanding of correlations between input and output at specific temporal junctures [13]. This temporal awareness proved essential in capturing causal relationships across multiple time steps, enriching the model's ability to discern the intricate dynamics of financial changes [16].",
+      "text": "The subsequent layer in the neural network architecture comprised a singular node within the output layer, responsible for predicting changes in international finances based on the fluctuations observed in US finances. The LSTM's significance extended to facilitating an understanding of correlations between input and output at specific temporal junctures [13]. This temporal awareness proved essential in capturing causal relationships across multiple time steps, enriching the model's ability to discern the intricate dynamics of financial changes [16]."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 100.42265259999976,
+            "r": 300.0219200000001,
+            "b": 44.05077439292006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            301
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.978,
+            "t": 734.0466525999997,
+            "r": 563.0355199999997,
+            "b": 689.6297743929199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            302,
+            546
+          ]
+        }
+      ],
+      "orig": "To further augment the feature extraction process and enable intricate nonlinear mapping, a dense layer was strategically introduced [17]. This layer, adept at extracting key features from the data, engaged in complex nonlinear mappings between these extracted features and the target output [18]. The relationship between the LSTM and dense layers culminated in the creation of a sophisticated neural network architecture. This architecture exhibited a remarkable proficiency in comprehending the intricate relationships within time series data.",
+      "text": "To further augment the feature extraction process and enable intricate nonlinear mapping, a dense layer was strategically introduced [17]. This layer, adept at extracting key features from the data, engaged in complex nonlinear mappings between these extracted features and the target output [18]. The relationship between the LSTM and dense layers culminated in the creation of a sophisticated neural network architecture. This architecture exhibited a remarkable proficiency in comprehending the intricate relationships within time series data."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.978,
+            "t": 686.2266525999995,
+            "r": 563.0355199999999,
+            "b": 593.9877743929196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            481
+          ]
+        }
+      ],
+      "orig": "Through this strategic combination, the neural network not only effectively mapped changes in US financial data but also demonstrated a remarkable capacity to predict corresponding shifts in international finances. The model's prowess in capturing spatiotemporal correlations validated the efficacy of the chosen AI methodology, showcasing its potential to provide nuanced insights into the complex dynamics underlying the relationship between US and international public finances.",
+      "text": "Through this strategic combination, the neural network not only effectively mapped changes in US financial data but also demonstrated a remarkable capacity to predict corresponding shifts in international finances. The model's prowess in capturing spatiotemporal correlations validated the efficacy of the chosen AI methodology, showcasing its potential to provide nuanced insights into the complex dynamics underlying the relationship between US and international public finances."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 408.755,
+            "t": 577.1356525999993,
+            "r": 466.26289830000013,
+            "b": 568.5837743929196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "III. RESULTS",
+      "text": "III. RESULTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.978,
+            "t": 562.0416525999992,
+            "r": 563.0355199999999,
+            "b": 445.8937743929195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            565
+          ]
+        }
+      ],
+      "orig": "To measure the accuracy of the neural network one key metric was utilized: the Mean Squared Error(MSE). The MSE that the neural network was able to achieve was 2.79, indicating that the neural network was able to predict the change that was happening in the international stocks based on the US stocks with high accuracy. Furthermore, to see how well the neural network was learning the data it was important to look into the way the neural network was learning the data throughout the epochs. The neural network's ability to learn the data can be seen in Figure 1.",
+      "text": "To measure the accuracy of the neural network one key metric was utilized: the Mean Squared Error(MSE). The MSE that the neural network was able to achieve was 2.79, indicating that the neural network was able to predict the change that was happening in the international stocks based on the US stocks with high accuracy. Furthermore, to see how well the neural network was learning the data it was important to look into the way the neural network was learning the data throughout the epochs. The neural network's ability to learn the data can be seen in Figure 1."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 337.777,
+            "t": 232.73265260000005,
+            "r": 537.2382145999997,
+            "b": 224.1807743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Fig. 1: Loss Function as Neural Network Learns",
+      "text": "Fig. 1: Loss Function as Neural Network Learns"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.978,
+            "t": 209.18565260000003,
+            "r": 563.0355199999999,
+            "b": 45.21677439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            811
+          ]
+        }
+      ],
+      "orig": "The data graph was created through detailed statistical analysis which clearly showed major financial market changes over recent years. By examining the graphs and charts, I saw subtle indications in metrics and trends preceding these shifts. For example, small volatility upticks often foreshadowed larger spikes and turbulence. Similarly, gradual trading volumes and frequency pattern changes exposed developing momentum before rapid price rises or falls. Though major shifts seem sudden, analysis shows small tremors often presage them, representing building pressure within the system. Identifying those early signs allows one to predict and prepare for coming movements. So by creating data visualizations and analyses, I illuminated complex indicators preceding and prompting the most significant changes.",
+      "text": "The data graph was created through detailed statistical analysis which clearly showed major financial market changes over recent years. By examining the graphs and charts, I saw subtle indications in metrics and trends preceding these shifts. For example, small volatility upticks often foreshadowed larger spikes and turbulence. Similarly, gradual trading volumes and frequency pattern changes exposed developing momentum before rapid price rises or falls. Though major shifts seem sudden, analysis shows small tremors often presage them, representing building pressure within the system. Identifying those early signs allows one to predict and prepare for coming movements. So by creating data visualizations and analyses, I illuminated complex indicators preceding and prompting the most significant changes."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 559.549,
+            "t": 765.3189437999999,
+            "r": 563.0359,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 231.749,
+            "t": 467.92665259999995,
+            "r": 380.2515155999998,
+            "b": 459.3747743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Fig. 2: US vs. International Markets",
+      "text": "Fig. 2: US vs. International Markets"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 118.713,
+            "t": 433.85465259999995,
+            "r": 230.27973569999995,
+            "b": 425.3027743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "IV. ECONOMIC ANALYSIS",
+      "text": "IV. ECONOMIC ANALYSIS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.96399999999999,
+            "t": 412.3296526,
+            "r": 300.02191999999985,
+            "b": 284.2257743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            627
+          ]
+        }
+      ],
+      "orig": "Based on Figure 2, we are able to see the robust result of the model in terms of analyzing the correlation between the changes in public finances among US and International entities, and specifically how these international entities react to changes within the US. However, to verify this trend, we can compare the change in the US Public Finances to major stock events that occurred in the past 10 years, to check if the model indeed matches and see the correlating change the events have on international markets in terms of how much stocks changed and how long it took for the international markets to reflect those changes.",
+      "text": "Based on Figure 2, we are able to see the robust result of the model in terms of analyzing the correlation between the changes in public finances among US and International entities, and specifically how these international entities react to changes within the US. However, to verify this trend, we can compare the change in the US Public Finances to major stock events that occurred in the past 10 years, to check if the model indeed matches and see the correlating change the events have on international markets in terms of how much stocks changed and how long it took for the international markets to reflect those changes."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.978,
+            "t": 433.8546526,
+            "r": 563.0355199999997,
+            "b": 401.39177439292035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "by the change in the US Public Finances, with the change in International Public Finances following at the beginning of 2012.",
+      "text": "by the change in the US Public Finances, with the change in International Public Finances following at the beginning of 2012."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.96399999999999,
+            "t": 279.7506526000001,
+            "r": 300.0219200000001,
+            "b": 44.0507743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1219
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.978,
+            "t": 387.3476526,
+            "r": 563.0355199999999,
+            "b": 44.0507743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1220,
+            2951
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.964,
+            "t": 734.0476526,
+            "r": 300.02152000000007,
+            "b": 653.7647743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            2952,
+            3374
+          ]
+        }
+      ],
+      "orig": "Starting with the first major change we see in Figure 2, which takes place in 2011, can be credited to the stock market crash on August 8, 2011. In August 2011, the stock market plunged largely due to a cascading crisis of confidence among investors triggered by mounting debt fears in Europe and a stall in US economic growth recovery [19]. Specifically, the downgrade of the US credit rating, ongoing failure by US and European leaders to contain the Eurozone crisis, and skittish reactions from regulators created a panic. Investors frantically sold off stocks across global exchanges, withdrawing over $15 billion in assets within days and shifting capital to perceived safer investments like treasury bonds. The benchmark S&P 500 fell 10.7% between July 22 and August 8. Overall, trillions in equity value evaporated within weeks due to this macroeconomic uncertainty combined with political paralysis, uninspiring economic fundamentals, and unreliable growth projections from corporations. The plunging markets reflected overwhelmed central banks, credit contraction, recession fears, and loss of investor faith in the system to properly value assets and risks [10]. As seen in Figure 2, this crash is represented In 2013, we see a similar decline in the US public finances, which is likely a result of the 2013 federal government shutdown. The 2013 federal government shutdown was a political budget crisis that resulted from the failure of Congress to pass regular appropriations bills required to fund federal government operations [20]. The shutdown lasted 16 days in October 2013 due to an impasse between Republican and Democrat lawmakers on government spending. During the shutdown period, many routine governmental services halted, federal sites closed, hundreds of thousands of nonessential federal employees were furloughed, and spending on contracts to businesses deferred. This disruption significantly lowered income, corporate, payroll and other tax revenues flowing into public finances for funding governance. Additionally, the shutdown provoked fiscal uncertainty that introduced volatility in financial markets and dampened projections for economic growthalso limiting prediction reliability for cyclicallysensitive tax obligations. Overall the shutdown was estimated to curb GDP by $24 billion and substantially cut near-term tax inflows into public finances. Thus the ripple effects from the 2013 political crisis likely translated into a pronounced dip and deceleration in overall US public finances accumulation that year- both directly from the temporary suspension of taxation streams, and indirectly via market and economic impacts eroding revenue performance tied to the shutdown. This dip likely could have also been a result of the 2013 NASDAQ Flash Freeze. On August 22, 2013, an unprecedented threehour outage froze trading on the NASDAQ stock exchange, suspending all transactions and paralyzing the second-largest stock market in the US [21]. With over $25 billion worth of transactions affected and market confidence rattled, the technical glitch introduced enough fiscal and economic uncertainty that year to likely translate into a pronounced dip in income, capital gains, and investor sentiment-driven tax revenues for U.S. public finances. As seen by the international trend line, this crash was reflected at the beginning of 2014.",
+      "text": "Starting with the first major change we see in Figure 2, which takes place in 2011, can be credited to the stock market crash on August 8, 2011. In August 2011, the stock market plunged largely due to a cascading crisis of confidence among investors triggered by mounting debt fears in Europe and a stall in US economic growth recovery [19]. Specifically, the downgrade of the US credit rating, ongoing failure by US and European leaders to contain the Eurozone crisis, and skittish reactions from regulators created a panic. Investors frantically sold off stocks across global exchanges, withdrawing over $15 billion in assets within days and shifting capital to perceived safer investments like treasury bonds. The benchmark S&P 500 fell 10.7% between July 22 and August 8. Overall, trillions in equity value evaporated within weeks due to this macroeconomic uncertainty combined with political paralysis, uninspiring economic fundamentals, and unreliable growth projections from corporations. The plunging markets reflected overwhelmed central banks, credit contraction, recession fears, and loss of investor faith in the system to properly value assets and risks [10]. As seen in Figure 2, this crash is represented In 2013, we see a similar decline in the US public finances, which is likely a result of the 2013 federal government shutdown. The 2013 federal government shutdown was a political budget crisis that resulted from the failure of Congress to pass regular appropriations bills required to fund federal government operations [20]. The shutdown lasted 16 days in October 2013 due to an impasse between Republican and Democrat lawmakers on government spending. During the shutdown period, many routine governmental services halted, federal sites closed, hundreds of thousands of nonessential federal employees were furloughed, and spending on contracts to businesses deferred. This disruption significantly lowered income, corporate, payroll and other tax revenues flowing into public finances for funding governance. Additionally, the shutdown provoked fiscal uncertainty that introduced volatility in financial markets and dampened projections for economic growthalso limiting prediction reliability for cyclicallysensitive tax obligations. Overall the shutdown was estimated to curb GDP by $24 billion and substantially cut near-term tax inflows into public finances. Thus the ripple effects from the 2013 political crisis likely translated into a pronounced dip and deceleration in overall US public finances accumulation that year- both directly from the temporary suspension of taxation streams, and indirectly via market and economic impacts eroding revenue performance tied to the shutdown. This dip likely could have also been a result of the 2013 NASDAQ Flash Freeze. On August 22, 2013, an unprecedented threehour outage froze trading on the NASDAQ stock exchange, suspending all transactions and paralyzing the second-largest stock market in the US [21]. With over $25 billion worth of transactions affected and market confidence rattled, the technical glitch introduced enough fiscal and economic uncertainty that year to likely translate into a pronounced dip in income, capital gains, and investor sentiment-driven tax revenues for U.S. public finances. As seen by the international trend line, this crash was reflected at the beginning of 2014."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.964,
+            "t": 765.3189437999999,
+            "r": 52.4509,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.964,
+            "t": 650.3606525999998,
+            "r": 300.02191999999997,
+            "b": 414.6607743929198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1192
+          ]
+        }
+      ],
+      "orig": "In Figure 2, we also see another dip in the year of 2015-16, which was likely a result of the 2015-16 stock market selloff, a period of decline in the Dow Jones Industrial Average, S&P 500 Index, and NASDAQ Composite that lasted from August 18, 2015 until February 11, 2016 [22]. Triggered by fears of a slowdown in China and plunging oil prices, US stocks lost over 10% of value in just 6 days in August 2015, indicative of a market correction veering into bear market territory. While US economic fundamentals remained sound, the selloff eroded investor confidence and introduced volatility that persisted for months. With over $3 trillion in global equity value shed, this historic selloff likely stunted predicted profit levels, investment plans, and employment expansions upon which cyclical tax revenue projections for public finances rely. The bearish sentiment and selloff's ripple effects likely slowed multiple taxation income streams from Wall Street speculation cuts to Main Street economic impacts- translating into a pronounced dip or disruption in accumulating public funds during this 2015-2016 period. This crash was reflected almost immediately by the international markets.",
+      "text": "In Figure 2, we also see another dip in the year of 2015-16, which was likely a result of the 2015-16 stock market selloff, a period of decline in the Dow Jones Industrial Average, S&P 500 Index, and NASDAQ Composite that lasted from August 18, 2015 until February 11, 2016 [22]. Triggered by fears of a slowdown in China and plunging oil prices, US stocks lost over 10% of value in just 6 days in August 2015, indicative of a market correction veering into bear market territory. While US economic fundamentals remained sound, the selloff eroded investor confidence and introduced volatility that persisted for months. With over $3 trillion in global equity value shed, this historic selloff likely stunted predicted profit levels, investment plans, and employment expansions upon which cyclical tax revenue projections for public finances rely. The bearish sentiment and selloff's ripple effects likely slowed multiple taxation income streams from Wall Street speculation cuts to Main Street economic impacts- translating into a pronounced dip or disruption in accumulating public funds during this 2015-2016 period. This crash was reflected almost immediately by the international markets."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.964,
+            "t": 411.25765259999946,
+            "r": 300.02192,
+            "b": 175.5577743929199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1181
+          ]
+        }
+      ],
+      "orig": "The dip seen in 2018, is indicative of the 2018 cryptocurrency crash, which was a massive selloff in the cryptocurrency markets that accelerated in January 2018, as major digital assets like Bitcoin and Ethereum plunged over 60% from record highs set in late 2017 [23]. Catalyzed by new regulations, security breaches, and Facebook banning crypto ads, the crash wiped out over $300 billion in total cryptocurrency market capitalization by 2018's end. With cryptocurrency investment and trading subject to capital gains tax obligations, this extreme market correction likely depressed fiscal year tax payments from digital currency investors declaring losses or at least hugely reduced gains versus projections. Additionally, diminished investor appetite filters into sales, payroll, and corporate taxes if industry contraction or failures transpire. While still an emerging asset class, crypto's high growth suggested the 2018 crash introduced enough economic and fiscal uncertainty amid plunge warnings that a slight dip in certain US public finance revenue streams tied to cryptocurrency could have emerged. This crash was also reflected immediately by the international markets.",
+      "text": "The dip seen in 2018, is indicative of the 2018 cryptocurrency crash, which was a massive selloff in the cryptocurrency markets that accelerated in January 2018, as major digital assets like Bitcoin and Ethereum plunged over 60% from record highs set in late 2017 [23]. Catalyzed by new regulations, security breaches, and Facebook banning crypto ads, the crash wiped out over $300 billion in total cryptocurrency market capitalization by 2018's end. With cryptocurrency investment and trading subject to capital gains tax obligations, this extreme market correction likely depressed fiscal year tax payments from digital currency investors declaring losses or at least hugely reduced gains versus projections. Additionally, diminished investor appetite filters into sales, payroll, and corporate taxes if industry contraction or failures transpire. While still an emerging asset class, crypto's high growth suggested the 2018 crash introduced enough economic and fiscal uncertainty amid plunge warnings that a slight dip in certain US public finance revenue streams tied to cryptocurrency could have emerged. This crash was also reflected immediately by the international markets."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.964,
+            "t": 172.15365259999953,
+            "r": 300.0219200000001,
+            "b": 44.050774392919834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            641
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.978,
+            "t": 734.0466525999994,
+            "r": 563.0355199999998,
+            "b": 617.8987743929194,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            642,
+            1232
+          ]
+        }
+      ],
+      "orig": "Finally, the last dip seen in 2020 represents the fall as a result of the Coronavirus pandemic. The 2020 Coronavirus pandemic was a global viral disease outbreak caused by the highly contagious COVID-19 virus first identified in Wuhan, China in late 2019. As the World Health Organization declared a Public Health Emergency in January and pervasive spread prompted a worldwide economic shutdown by March 2020, US public finances were profoundly disrupted [24]. Mass business closures, supply chain failures, and over 20 million jobs lost within months slowed economic activity to Depression-era contraction levels and eviscerated tax revenue inputs from income to retail sales to hospitality and transportation. With interest rates slashed to zero, Congress approved over $3 trillion in emergency pandemic stimulus and bailouts by mid-2020 - massively bloating the Federal budget deficit towards unprecedented peacetime levels over 15% of GDP. This economic 'sudden stop' coupled with tremendous relief spending created largest shock to the accrual and outflows of US public finances since World War II, with multi-trillion dollar budget gaps persisting years later. This dip was also reflected immediately by international markets.",
+      "text": "Finally, the last dip seen in 2020 represents the fall as a result of the Coronavirus pandemic. The 2020 Coronavirus pandemic was a global viral disease outbreak caused by the highly contagious COVID-19 virus first identified in Wuhan, China in late 2019. As the World Health Organization declared a Public Health Emergency in January and pervasive spread prompted a worldwide economic shutdown by March 2020, US public finances were profoundly disrupted [24]. Mass business closures, supply chain failures, and over 20 million jobs lost within months slowed economic activity to Depression-era contraction levels and eviscerated tax revenue inputs from income to retail sales to hospitality and transportation. With interest rates slashed to zero, Congress approved over $3 trillion in emergency pandemic stimulus and bailouts by mid-2020 - massively bloating the Federal budget deficit towards unprecedented peacetime levels over 15% of GDP. This economic 'sudden stop' coupled with tremendous relief spending created largest shock to the accrual and outflows of US public finances since World War II, with multi-trillion dollar budget gaps persisting years later. This dip was also reflected immediately by international markets."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 399.60900000000004,
+            "t": 597.2736525999991,
+            "r": 475.4088828000001,
+            "b": 588.7217743929194,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "V. IMPLICATIONS",
+      "text": "V. IMPLICATIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 579.5176525999991,
+            "r": 563.0355199999998,
+            "b": 511.1897743929193,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            334
+          ]
+        }
+      ],
+      "orig": "The ability to model international public finance dynamics based on signals from US markets demonstrated by this neural network carries noteworthy practical implications. Investors and policymakers alike stand to benefit from the predictive insights and risk analysis enabled by the model's skill in mapping cross-border correlations.",
+      "text": "The ability to model international public finance dynamics based on signals from US markets demonstrated by this neural network carries noteworthy practical implications. Investors and policymakers alike stand to benefit from the predictive insights and risk analysis enabled by the model's skill in mapping cross-border correlations."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 507.3426525999989,
+            "r": 563.0355199999998,
+            "b": 391.19377439291935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            604
+          ]
+        }
+      ],
+      "orig": "Specifically, the model can assist investors in public finance instruments like government bonds in better diversifying systemic risks in these concentrated, overarching debt markets that shape broader asset valuations. If US fiscal or monetary policies portend turbulence that will propagate internationally, this intelligence allows tactical portfolio adjustments for international managers. The model may also have predictive power for relative currency and inflation effects. Policymakers can likewise employ these projections to make nuanced stimulus or austerity decisions factoring global impacts.",
+      "text": "Specifically, the model can assist investors in public finance instruments like government bonds in better diversifying systemic risks in these concentrated, overarching debt markets that shape broader asset valuations. If US fiscal or monetary policies portend turbulence that will propagate internationally, this intelligence allows tactical portfolio adjustments for international managers. The model may also have predictive power for relative currency and inflation effects. Policymakers can likewise employ these projections to make nuanced stimulus or austerity decisions factoring global impacts."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 387.346652599999,
+            "r": 563.0355200000001,
+            "b": 295.10877439291943,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            494
+          ]
+        }
+      ],
+      "orig": "More broadly, the realized interconnectivity surfaces policy vulnerabilities like the potential for financial contagions during crises. This understanding may promote productive cooperative forums between the US and particular foreign nations to coordinate interventions, regulations, or structural reforms that mitigate harmful spillovers. However, the throughline between once discrete public finance systems could also compound tensions between national and international economic interests.",
+      "text": "More broadly, the realized interconnectivity surfaces policy vulnerabilities like the potential for financial contagions during crises. This understanding may promote productive cooperative forums between the US and particular foreign nations to coordinate interventions, regulations, or structural reforms that mitigate harmful spillovers. However, the throughline between once discrete public finance systems could also compound tensions between national and international economic interests."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 291.2616525999991,
+            "r": 563.0355199999997,
+            "b": 234.88877439291946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            306
+          ]
+        }
+      ],
+      "orig": "This neural network's technical methods constitute an early stride in a burgeoning subfield of computational intelligence for fiscal and financial analyses. The promising proof of concept invites streamlining for real-time deployment and pairing with causal inference techniques to enrich interpretability.",
+      "text": "This neural network's technical methods constitute an early stride in a burgeoning subfield of computational intelligence for fiscal and financial analyses. The promising proof of concept invites streamlining for real-time deployment and pairing with causal inference techniques to enrich interpretability."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 399.21100000000007,
+            "t": 214.2636525999992,
+            "r": 475.81149710000005,
+            "b": 205.71177439291955,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "VI. CONCLUSION",
+      "text": "VI. CONCLUSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 196.50765259999912,
+            "r": 563.0355199999998,
+            "b": 128.1797743929194,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            351
+          ]
+        }
+      ],
+      "orig": "This study demonstrated the efficacy of using artificial intelligence, specifically LSTM neural networks, to model intricate correlations between shifts in US public finances and subsequent impacts on international markets. The model achieved robust predictive accuracy with a low MSE of 2.79, capturing discernible relationships in the temporal data.",
+      "text": "This study demonstrated the efficacy of using artificial intelligence, specifically LSTM neural networks, to model intricate correlations between shifts in US public finances and subsequent impacts on international markets. The model achieved robust predictive accuracy with a low MSE of 2.79, capturing discernible relationships in the temporal data."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 124.33265259999905,
+            "r": 563.03552,
+            "b": 44.04977439291952,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            407
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.964,
+            "t": 734.0476526,
+            "r": 300.02151999999995,
+            "b": 713.5397743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            408,
+            487
+          ]
+        }
+      ],
+      "orig": "The analysis of historical periods of volatility further validate the model's learned linkage between precipitous changes in US public debt instruments or tax revenues and ensuing global financial impacts. Periods like the 2011 Stock Market Crash, 2013 US Government Shutdown, 2015-16 Stock Selloff, 2018 Crypto Crash, and 2020 COVID Crisis exhibited pronounced co-movement between US fiscal disruptions and international finance, affirming the model's technical signal amidst the noise.",
+      "text": "The analysis of historical periods of volatility further validate the model's learned linkage between precipitous changes in US public debt instruments or tax revenues and ensuing global financial impacts. Periods like the 2011 Stock Market Crash, 2013 US Government Shutdown, 2015-16 Stock Selloff, 2018 Crypto Crash, and 2020 COVID Crisis exhibited pronounced co-movement between US fiscal disruptions and international finance, affirming the model's technical signal amidst the noise."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 559.549,
+            "t": 765.3189437999999,
+            "r": 563.0359,
+            "b": 759.3326462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.964,
+            "t": 710.0596525999999,
+            "r": 300.02191999999997,
+            "b": 629.7767743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            411
+          ]
+        }
+      ],
+      "orig": "The practical utility of this predictive capacity for both policymakers and investors is noteworthy. International debt and currency markets remain concentrated systemic risk points for global growth. This neural network's ability to foresee how US fiscal and monetary actions may propagate abroad grants a key instrument for scenario analysis, risk evaluation for international assets, and policy coordination.",
+      "text": "The practical utility of this predictive capacity for both policymakers and investors is noteworthy. International debt and currency markets remain concentrated systemic risk points for global growth. This neural network's ability to foresee how US fiscal and monetary actions may propagate abroad grants a key instrument for scenario analysis, risk evaluation for international assets, and policy coordination."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.964,
+            "t": 626.2966525999997,
+            "r": 300.0219200000001,
+            "b": 522.1037743929197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            543
+          ]
+        }
+      ],
+      "orig": "While this study marks an initial foray applying machine learning to decode integrated public finance systems, the promising proof of concept warrants significant future work. Scalability to many other national economies, streamlining for real-time automated outputs, deepening interpretability, and pairing predictive fiscal AI with policy decision support systems offer rich potential. As globalization compounds interconnectedness, computational intelligence in tracing financial reverberations across borders grows ever more indispensable.",
+      "text": "While this study marks an initial foray applying machine learning to decode integrated public finance systems, the promising proof of concept warrants significant future work. Scalability to many other national economies, streamlining for real-time automated outputs, deepening interpretability, and pairing predictive fiscal AI with policy decision support systems offer rich potential. As globalization compounds interconnectedness, computational intelligence in tracing financial reverberations across borders grows ever more indispensable."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 127.804,
+            "t": 504.5976525999994,
+            "r": 221.18872519999994,
+            "b": 496.0457743929197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "VII. FUTURE WORKS",
+      "text": "VII. FUTURE WORKS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96399999999999,
+            "t": 489.04265259999937,
+            "r": 300.02191999999997,
+            "b": 444.62577439291977,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "While this research pioneered an AI methodology tracing fiscal interconnectedness between the US and international markets, it remains an initial foray warranting extensive future efforts as follow-ons.",
+      "text": "While this research pioneered an AI methodology tracing fiscal interconnectedness between the US and international markets, it remains an initial foray warranting extensive future efforts as follow-ons."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96399999999999,
+            "t": 441.14565259999944,
+            "r": 300.0219200000001,
+            "b": 372.81777439291983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            350
+          ]
+        }
+      ],
+      "orig": "One natural progression involves expanding model coverage from the singular US economy to multiple other mature economies and fiscal union entities. Tailoring additional country-specific LSTM input layers would paint a more global portrait of public finance co-movements and enhance early warning systems for cross-border financial contagion threats.",
+      "text": "One natural progression involves expanding model coverage from the singular US economy to multiple other mature economies and fiscal union entities. Tailoring additional country-specific LSTM input layers would paint a more global portrait of public finance co-movements and enhance early warning systems for cross-border financial contagion threats."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96399999999999,
+            "t": 369.3376525999995,
+            "r": 300.02192000000014,
+            "b": 289.0547743929199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            381
+          ]
+        }
+      ],
+      "orig": "Another critical next step entails streamlining the model for real-time automated outputs leveraged in live fiscal monitoring systems. This could enable policymakers to gauge international market reactions to major domestic spending bills or tax policy shifts before enactment. High-frequency trading firms may also exploit these efficient predictions in their algorithmic systems.",
+      "text": "Another critical next step entails streamlining the model for real-time automated outputs leveraged in live fiscal monitoring systems. This could enable policymakers to gauge international market reactions to major domestic spending bills or tax policy shifts before enactment. High-frequency trading firms may also exploit these efficient predictions in their algorithmic systems."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96399999999999,
+            "t": 285.5746525999996,
+            "r": 300.02191999999997,
+            "b": 205.29177439291993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            410
+          ]
+        }
+      ],
+      "orig": "Further refinement of the neural network with supplementary techniques promises to improve result interpretation from correlation to precise causation tracing. Incorporating explainability approaches like SHAP values into model postprocessing can isolate the magnitude of importance of specific US policy actions on international outcomes. These enriched insights strengthen multi-lateral coordination efforts.",
+      "text": "Further refinement of the neural network with supplementary techniques promises to improve result interpretation from correlation to precise causation tracing. Incorporating explainability approaches like SHAP values into model postprocessing can isolate the magnitude of importance of specific US policy actions on international outcomes. These enriched insights strengthen multi-lateral coordination efforts."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96399999999999,
+            "t": 201.81165259999955,
+            "r": 300.0219200000001,
+            "b": 109.57377439291986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            484
+          ]
+        }
+      ],
+      "orig": "Lastly, integrating state-of-the-art predictive fiscal AI directly into policy decision support architectures could unlock tremendous upside. Beyond passive market estimations, optimizing stimulus and taxation levels to navigate global growth shockwaves through automated intelligence represents an intriguing continuation. The possibilities are as boundless as innovation at the intersection of machine learning and public financial administration in the 21st century global economy.",
+      "text": "Lastly, integrating state-of-the-art predictive fiscal AI directly into policy decision support architectures could unlock tremendous upside. Beyond passive market estimations, optimizing stimulus and taxation levels to navigate global growth shockwaves through automated intelligence represents an intriguing continuation. The possibilities are as boundless as innovation at the intersection of machine learning and public financial administration in the 21st century global economy."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 117.493,
+            "t": 92.06765259999952,
+            "r": 231.49850829999986,
+            "b": 83.51577439291987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "VIII. ACKNOWLEDGMENT",
+      "text": "VIII. ACKNOWLEDGMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96399999999999,
+            "t": 76.51265259999957,
+            "r": 300.02192,
+            "b": 44.05077439291995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "I would like to thank my professor Dr. Stephen Owen at the University of North Texas for his kind and thoughtful guidance and mentorship throughout this research study.",
+      "text": "I would like to thank my professor Dr. Stephen Owen at the University of North Texas for his kind and thoughtful guidance and mentorship throughout this research study."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 409.612,
+            "t": 734.0466525999994,
+            "r": 465.4124605000001,
+            "b": 725.4947743929198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96299999999997,
+            "t": 718.0989968999995,
+            "r": 563.0369656999998,
+            "b": 702.1480153663712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "[1] Rosen, H.S., Public Finance . The Encyclopedia of Public Choice, Springer US, Boston, MA, 2010.",
+      "text": "Rosen, H.S., Public Finance . The Encyclopedia of Public Choice, Springer US, Boston, MA, 2010.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96299999999997,
+            "t": 701.7605350999995,
+            "r": 563.0374280999999,
+            "b": 675.2352490999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "[2] Romero- ´ Avila, D., Strauch, R., Public finances and long-term growth in Europe: Evidence from a panel data analysis. European Journal of Political Economy 24 (1), 172-191 (2008).",
+      "text": "Romero- ´ Avila, D., Strauch, R., Public finances and long-term growth in Europe: Evidence from a panel data analysis. European Journal of Political Economy 24 (1), 172-191 (2008).",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96299999999997,
+            "t": 673.2669968999995,
+            "r": 563.0398227999999,
+            "b": 657.3160153663712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "[3] Kocherlakota, N.R., The New Dynamic Public Finance . Princeton University Press (2010).",
+      "text": "Kocherlakota, N.R., The New Dynamic Public Finance . Princeton University Press (2010).",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96299999999997,
+            "t": 655.1905350999995,
+            "r": 563.0360999999999,
+            "b": 630.4170153663712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "[4] Goldscheid, R., A Sociological Approach to Problems of Public Finance. In: Classics in the Theory of Public Finance . Palgrave Macmillan UK, London (1958).",
+      "text": "Goldscheid, R., A Sociological Approach to Problems of Public Finance. In: Classics in the Theory of Public Finance . Palgrave Macmillan UK, London (1958).",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96299999999997,
+            "t": 628.2915350999995,
+            "r": 563.0360999999997,
+            "b": 612.4712490999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "[5] Barro, R.J., Sala-I-Martin, X., Public Finance in Models of Economic Growth. The Review of Economic Studies 59 (4), 645 (1992).",
+      "text": "Barro, R.J., Sala-I-Martin, X., Public Finance in Models of Economic Growth. The Review of Economic Studies 59 (4), 645 (1992).",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96299999999997,
+            "t": 610.5019968999995,
+            "r": 563.0331323999999,
+            "b": 594.5382490999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "[6] Buchanan J.M., Public Finance and Public Choice. National Tax Journal 28 (4), 383-394 (1975).",
+      "text": "Buchanan J.M., Public Finance and Public Choice. National Tax Journal 28 (4), 383-394 (1975).",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96299999999997,
+            "t": 592.4265350999995,
+            "r": 563.0360999999997,
+            "b": 576.6180153663712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "[7] Persson, T., Tabellini G., Political Economics and Public Finance. In: Handbook of Public Economics (2002).",
+      "text": "Persson, T., Tabellini G., Political Economics and Public Finance. In: Handbook of Public Economics (2002).",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96299999999997,
+            "t": 574.6369968999995,
+            "r": 563.0369896999998,
+            "b": 558.6860153663712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "[8] Wagner A., Three Extracts on Public Finance. In: Classics in the Theory of Public Finance . Palgrave Macmillan UK, London (1958).",
+      "text": "Wagner A., Three Extracts on Public Finance. In: Classics in the Theory of Public Finance . Palgrave Macmillan UK, London (1958).",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96299999999997,
+            "t": 556.7039968999995,
+            "r": 563.0361499999999,
+            "b": 540.7402490999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "[9] Oates W.E., The Theory of Public Finance in a Federal System. The Canadian Journal of Economics 1 (1), 37 (1968).",
+      "text": "Oates W.E., The Theory of Public Finance in a Federal System. The Canadian Journal of Economics 1 (1), 37 (1968).",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.9779999999999,
+            "t": 538.6275350999995,
+            "r": 563.0361499999996,
+            "b": 522.8072490999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "[10] Persson, T., Roland G., Tabellini G., Comparative Politics and Public Finance. Journal of Political Economy 108 (6), 1121-1161 (2000).",
+      "text": "Persson, T., Roland G., Tabellini G., Comparative Politics and Public Finance. Journal of Political Economy 108 (6), 1121-1161 (2000).",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.97799999999984,
+            "t": 520.6955350999995,
+            "r": 563.0379485999999,
+            "b": 495.9210153663712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[11] Stiglitz, J.E., New perspectives on public finance: recent achievements and future challenges. Journal of Public Economics 86 (3), 341-360 (2002).",
+      "text": "Stiglitz, J.E., New perspectives on public finance: recent achievements and future challenges. Journal of Public Economics 86 (3), 341-360 (2002).",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.9779999999999,
+            "t": 493.7965350999995,
+            "r": 563.0361499999995,
+            "b": 477.97524909999953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "[12] Warner, B., Misra, M., Understanding Neural Networks as Statistical Tools. The American Statistician 50 (4), 284-293 (1996).",
+      "text": "Warner, B., Misra, M., Understanding Neural Networks as Statistical Tools. The American Statistician 50 (4), 284-293 (1996).",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.97799999999995,
+            "t": 476.0069968999995,
+            "r": 563.0369789999997,
+            "b": 460.0432490999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "[13] Bishop, C.M., Neural networks and their applications. Review of Scientific Instruments 65 (6), 1803-1832 (1994).",
+      "text": "Bishop, C.M., Neural networks and their applications. Review of Scientific Instruments 65 (6), 1803-1832 (1994).",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.97799999999995,
+            "t": 457.93053509999953,
+            "r": 563.0361499999998,
+            "b": 433.1560153663712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "[14] Ghoddusi, H. Creamer G.G., Rafizadeh N., Machine learning in energy economics and finance: A review. Energy Economics 81 , 709-727 (2019).",
+      "text": "Ghoddusi, H. Creamer G.G., Rafizadeh N., Machine learning in energy economics and finance: A review. Energy Economics 81 , 709-727 (2019).",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 431.03153509999953,
+            "r": 563.0361499999997,
+            "b": 415.2240153663712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "[15] Staudemeyer, R.C., Morris, E.R., Understanding LSTM - a tutorial into Long Short-Term Memory Recurrent Neural Networks (2019).",
+      "text": "Staudemeyer, R.C., Morris, E.R., Understanding LSTM - a tutorial into Long Short-Term Memory Recurrent Neural Networks (2019).",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 413.09853509999954,
+            "r": 563.03615,
+            "b": 388.3122490999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "[16] Sherstinsky A., Fundamentals of Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) network. Physica D: Nonlinear Phenomena 404 , 132306 (2020).",
+      "text": "Sherstinsky A., Fundamentals of Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) network. Physica D: Nonlinear Phenomena 404 , 132306 (2020).",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 386.19953509999954,
+            "r": 563.0361499999997,
+            "b": 370.3792490999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "[17] Gers F.A., Schmidhuber J., Cummins F., Learning to Forget: Continual Prediction with LSTM. Neural Computation 12 (10), 2451-2471 (2000).",
+      "text": "Gers F.A., Schmidhuber J., Cummins F., Learning to Forget: Continual Prediction with LSTM. Neural Computation 12 (10), 2451-2471 (2000).",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.9780000000002,
+            "t": 368.26653509999954,
+            "r": 563.0363863000002,
+            "b": 343.4802490999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "[18] Graves, A., Schmidhuber, J., Framewise phoneme classification with bidirectional LSTM and other neural network architectures. Neural Networks 18 (5-6), 602-610 (2005).",
+      "text": "Graves, A., Schmidhuber, J., Framewise phoneme classification with bidirectional LSTM and other neural network architectures. Neural Networks 18 (5-6), 602-610 (2005).",
+      "enumerated": true,
+      "marker": "[18]"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.9780000000002,
+            "t": 341.36753509999954,
+            "r": 563.0361499999998,
+            "b": 316.5812490999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "[19] Jayech S., The contagion channels of July-August-2011 stock market crash: A DAG-copula based approach. European Journal of Operational Research 249 (2), 631-646 (2016).",
+      "text": "Jayech S., The contagion channels of July-August-2011 stock market crash: A DAG-copula based approach. European Journal of Operational Research 249 (2), 631-646 (2016).",
+      "enumerated": true,
+      "marker": "[19]"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.9780000000002,
+            "t": 314.46853509999954,
+            "r": 563.0380428000001,
+            "b": 289.68124909999955,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "[20] Baker, S.R., Yannelis, C., Income changes and consumption: Evidence from the 2013 federal government shutdown. Review of Economic Dynamics 23 , 99-124 (2017).",
+      "text": "Baker, S.R., Yannelis, C., Income changes and consumption: Evidence from the 2013 federal government shutdown. Review of Economic Dynamics 23 , 99-124 (2017).",
+      "enumerated": true,
+      "marker": "[20]"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.9780000000002,
+            "t": 287.56953509999954,
+            "r": 563.03615,
+            "b": 262.7950153663712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "[21] Kern, S., Loiacono, G., High Frequency Trading and Circuit Breakers. In: Global Algorithmic Capital Markets: High Frequency Trading, Dark Pools, and Regulatory Challenges . Oxford University Press (2018).",
+      "text": "Kern, S., Loiacono, G., High Frequency Trading and Circuit Breakers. In: Global Algorithmic Capital Markets: High Frequency Trading, Dark Pools, and Regulatory Challenges . Oxford University Press (2018).",
+      "enumerated": true,
+      "marker": "[21]"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.9780000000002,
+            "t": 260.6705350999996,
+            "r": 563.0366616000002,
+            "b": 235.89601536637122,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "[22] So, M.K.P., Mak, A.S.W., Chu, A.M.Y., Assessing systemic risk in financial markets using dynamic topic networks. Scientific Reports 12 (1), 2668 (2022).",
+      "text": "So, M.K.P., Mak, A.S.W., Chu, A.M.Y., Assessing systemic risk in financial markets using dynamic topic networks. Scientific Reports 12 (1), 2668 (2022).",
+      "enumerated": true,
+      "marker": "[22]"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.9780000000002,
+            "t": 233.77153509999948,
+            "r": 563.0373696000003,
+            "b": 208.99701536637122,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "[23] Manahov, V., The great crypto crash in September 2018: why did the cryptocurrency market collapse? Annals of Operations Research , 1-38 (2023).",
+      "text": "Manahov, V., The great crypto crash in September 2018: why did the cryptocurrency market collapse? Annals of Operations Research , 1-38 (2023).",
+      "enumerated": true,
+      "marker": "[23]"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.9780000000002,
+            "t": 206.87253509999948,
+            "r": 563.0365250000002,
+            "b": 182.0980153663711,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "[24] Mazur, M., Dang, M., Vega M., COVID-19 and the march 2020 stock market crash. Evidence from S&P1500. Finance research letters 38 , 101690 (2021).",
+      "text": "Mazur, M., Dang, M., Vega M., COVID-19 and the march 2020 stock market crash. Evidence from S&P1500. Finance research letters 38 , 101690 (2021).",
+      "enumerated": true,
+      "marker": "[24]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 314.29248046875,
+            "t": 430.57086181640625,
+            "r": 560.5070190429688,
+            "b": 243.45452880859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 119.2509536743164,
+            "t": 734.7434844970703,
+            "r": 492.45758056640625,
+            "b": 479.3734436035156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

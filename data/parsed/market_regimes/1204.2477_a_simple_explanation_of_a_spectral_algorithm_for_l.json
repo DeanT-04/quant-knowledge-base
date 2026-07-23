@@ -1,0 +1,4055 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1204.2477_a_simple_explanation_of_a_spectral_algorithm_for_l",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7952446297083335500,
+    "filename": "1204.2477_a_simple_explanation_of_a_spectral_algorithm_for_l.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/texts/121"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 580.3000000000001,
+            "r": 36.206559297218156,
+            "b": 227.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "arXiv:1204.2477v1  [stat.ME]  11 Apr 2012",
+      "text": "arXiv:1204.2477v1  [stat.ME]  11 Apr 2012"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 172.073,
+            "t": 691.0364546000001,
+            "r": 439.92229247999995,
+            "b": 660.5659507314122,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Spectral Learning of Hidden Markov Model Predictive State Representations",
+      "text": "Spectral Learning of Hidden Markov Model Predictive State Representations",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 238.973,
+            "t": 658.82195,
+            "r": 373.02576056,
+            "b": 640.3633080832853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Matthew James Johnson, MIT Revised October 22, 2018",
+      "text": "Matthew James Johnson, MIT Revised October 22, 2018"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 144.0,
+            "t": 631.0799499999999,
+            "r": 468.00377719999983,
+            "b": 573.2973499999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            330
+          ]
+        }
+      ],
+      "orig": "This document is my summary explanation of the algorithm in 'A Spectral Algorithm for Learning Hidden Markov Models' (COLT 2009), though there may be some slight notational inconsistencies with the original paper. The exposition and the math here are quite different, so if you don't like this explanation, try the original paper!",
+      "text": "This document is my summary explanation of the algorithm in 'A Spectral Algorithm for Learning Hidden Markov Models' (COLT 2009), though there may be some slight notational inconsistencies with the original paper. The exposition and the math here are quite different, so if you don't like this explanation, try the original paper!"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 144.0,
+            "t": 571.3039499999998,
+            "r": 468.00467345999976,
+            "b": 441.79034999999965,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            791
+          ]
+        }
+      ],
+      "orig": "The idea is to maintain output predictions in a recursive inference algorithm, instead of the usual method of maintaining hidden state predictions, and to represent the HMM only in terms of the maps necessary to update output predictions given new data. This approach limits the inference computations the algorithm can perform (it can't answer any queries about the hidden states since it doesn't explicitly deal with them at all), but it also reduces the complexity of the model parameters that are learned and thus makes learning easier. The learning algorithm uses an SVD and matrix operations, so it avoids the local-optima problems of EM or any other algorithms based on maximizing data likelihood over the usual HMM parameterization. The COLT paper includes error bounds and analysis.",
+      "text": "The idea is to maintain output predictions in a recursive inference algorithm, instead of the usual method of maintaining hidden state predictions, and to represent the HMM only in terms of the maps necessary to update output predictions given new data. This approach limits the inference computations the algorithm can perform (it can't answer any queries about the hidden states since it doesn't explicitly deal with them at all), but it also reduces the complexity of the model parameters that are learned and thus makes learning easier. The learning algorithm uses an SVD and matrix operations, so it avoids the local-optima problems of EM or any other algorithms based on maximizing data likelihood over the usual HMM parameterization. The COLT paper includes error bounds and analysis."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 143.99999999999994,
+            "t": 436.4335919999997,
+            "r": 468.0044876599999,
+            "b": 340.3435499999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            612
+          ]
+        }
+      ],
+      "orig": "Notation. For a vector v in a subspace V ⊆ R k and a matrix C with linearly independent columns and range( C ) ⊇ V I will use [ v ] C to denote the coordinate vector of v relative to the ordered basis given by the columns of C , and [ v ] or simply v to denote the coordinate vector of v relative to the standard basis of R k . Similarly, for a linear map A : V → V I will use [ A ] C C to denote the matrix of A relative to domain and codomain bases given by the columns of C , and [ A ] to indicate its matrix relative to standard bases. For a matrix A I will also use [ A ] ij to denote the ( i, j ) th entry.",
+      "text": "Notation. For a vector v in a subspace V ⊆ R k and a matrix C with linearly independent columns and range( C ) ⊇ V I will use [ v ] C to denote the coordinate vector of v relative to the ordered basis given by the columns of C , and [ v ] or simply v to denote the coordinate vector of v relative to the standard basis of R k . Similarly, for a linear map A : V → V I will use [ A ] C C to denote the matrix of A relative to domain and codomain bases given by the columns of C , and [ A ] to indicate its matrix relative to standard bases. For a matrix A I will also use [ A ] ij to denote the ( i, j ) th entry."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 381.043039992,
+            "t": 298.94859071999997,
+            "r": 392.528016518064,
+            "b": 289.2073596235294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": ".  .  .",
+      "text": ".  .  ."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 222.04340523599996,
+            "t": 319.6299314044801,
+            "r": 228.55001594054778,
+            "b": 308.33373226463993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "h",
+      "text": "h"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 228.5537796168,
+            "t": 315.3940806636001,
+            "r": 233.05305702452637,
+            "b": 307.4867389980001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 262.20080523599995,
+            "t": 319.6299314044801,
+            "r": 268.7074159405478,
+            "b": 308.33373226463993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "h",
+      "text": "h"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 268.7111796168,
+            "t": 315.3940806636001,
+            "r": 273.21045702452636,
+            "b": 307.4867389980001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 302.830645236,
+            "t": 319.6299314044801,
+            "r": 309.33725594054783,
+            "b": 308.33373226463993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "h",
+      "text": "h"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.34101961680005,
+            "t": 315.3940806636001,
+            "r": 313.8402970245264,
+            "b": 307.4867389980001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 343.46048523599995,
+            "t": 319.6299314044801,
+            "r": 349.9670959405478,
+            "b": 308.33373226463993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "h",
+      "text": "h"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 349.9708596168,
+            "t": 315.3940806636001,
+            "r": 354.47013702452637,
+            "b": 307.4867389980001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 222.26299534799995,
+            "t": 273.89773940448003,
+            "r": 228.71312505684864,
+            "b": 262.6015402646399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "x",
+      "text": "x"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 228.7224595944,
+            "t": 269.66188866360005,
+            "r": 233.22173700212642,
+            "b": 261.754546998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 262.42039534799994,
+            "t": 273.89773940448003,
+            "r": 268.87052505684863,
+            "b": 262.6015402646399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "x",
+      "text": "x"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 268.8798595944,
+            "t": 269.66188866360005,
+            "r": 273.3791370021264,
+            "b": 261.754546998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.0502353479999,
+            "t": 273.70876340448,
+            "r": 309.50036505684864,
+            "b": 262.41256426463985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "x",
+      "text": "x"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.5096995944,
+            "t": 269.4729126636,
+            "r": 314.00897700212636,
+            "b": 261.565570998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 343.68007534799995,
+            "t": 273.89773940448003,
+            "r": 350.13020505684864,
+            "b": 262.6015402646399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "x",
+      "text": "x"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 350.1395395944,
+            "t": 269.66188866360005,
+            "r": 354.6388170021264,
+            "b": 261.754546998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 144.0,
+            "t": 238.53694999999993,
+            "r": 468.00061028,
+            "b": 173.67990399999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            393
+          ]
+        }
+      ],
+      "orig": "Definition 1 (Hidden Markov Model) . A time-homogeneous, discrete Hidden Markov Model (HMM) is a probability distribution on random variables { ( x t , h t ) } t ∈ N satisfying the conditional independences implied by the graphical model, where range( h t ) = [ m ] := { 1 , 2 , . . . , m } and range( x t ) = [ n ] where n ≥ m . The standard parameterization is the triple ( T, O, π ) , where",
+      "text": "Definition 1 (Hidden Markov Model) . A time-homogeneous, discrete Hidden Markov Model (HMM) is a probability distribution on random variables { ( x t , h t ) } t ∈ N satisfying the conditional independences implied by the graphical model, where range( h t ) = [ m ] := { 1 , 2 , . . . , m } and range( x t ) = [ n ] where n ≥ m . The standard parameterization is the triple ( T, O, π ) , where"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 217.27800000000008,
+            "t": 174.31034999999997,
+            "r": 394.72161027999994,
+            "b": 124.45690400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "T ∈ R m × m , [ T ] ij = Pr[ h t = i | h t -1 = j ] O ∈ R n × m , [ O ] ij = Pr[ x t = i | h t = j ] π ∈ R m , [ π ] j = Pr[ h 1 = j ] .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 143.99999999999977,
+            "t": 108.52101500000003,
+            "r": 462.6015294199998,
+            "b": 91.235904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "We will assume T and O to have full column rank and [ π ] j > 0 ∀ j ∈ [ m ] .",
+      "text": "We will assume T and O to have full column rank and [ π ] j > 0 ∀ j ∈ [ m ] ."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.5089999999998,
+            "t": 78.38394999999991,
+            "r": 308.49029999999976,
+            "b": 68.42134999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 144.0,
+            "t": 500.34095,
+            "r": 468.00282619999996,
+            "b": 451.54070800000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            306
+          ]
+        }
+      ],
+      "orig": "Figure 1: Wecan view O as (the matrix of) a map from hidden state beliefs to output predictions (with respect to the standard bases). Not shown is the fact that both ⃗ h t and ⃗ x t lie in the simplices of R m and R n , respectively, and that O maps the simplex in R m to (a subset of) the simplex in R n .",
+      "text": "Figure 1: Wecan view O as (the matrix of) a map from hidden state beliefs to output predictions (with respect to the standard bases). Not shown is the fact that both ⃗ h t and ⃗ x t lie in the simplices of R m and R n , respectively, and that O maps the simplex in R m to (a subset of) the simplex in R n ."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 263.805108709,
+            "t": 692.8241615823648,
+            "r": 270.9484741369437,
+            "b": 679.5663919515551,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "R",
+      "text": "R"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 270.94606480659996,
+            "t": 693.0005937267,
+            "r": 277.9618014792148,
+            "b": 686.0748911871,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "m",
+      "text": "m"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 263.461828525,
+            "t": 575.7215915823649,
+            "r": 270.60519395294364,
+            "b": 562.4638219515552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "R",
+      "text": "R"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 270.603181861,
+            "t": 575.8980237267001,
+            "r": 275.4927278539576,
+            "b": 568.9723211871001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "n",
+      "text": "n"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 328.70095302100003,
+            "t": 675.62796071208,
+            "r": 335.05237857226143,
+            "b": 663.1245444194399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "￿ h",
+      "text": "￿ h"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 335.05567501539997,
+            "t": 669.3085010739001,
+            "r": 338.0406528099676,
+            "b": 662.3827985343,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 340.29435572499995,
+            "t": 570.314598182016,
+            "r": 346.47801693339994,
+            "b": 553.1487546674975,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "U",
+      "text": "U"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 296.9705427249999,
+            "t": 547.3088017336802,
+            "r": 302.754492072889,
+            "b": 537.41494380024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "￿ x",
+      "text": "￿ x"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 302.762278597,
+            "t": 543.5988011451002,
+            "r": 305.7472563915676,
+            "b": 536.6730986055002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 325.738216621,
+            "t": 599.6946157336799,
+            "r": 333.2773363662813,
+            "b": 589.8007578002398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "O",
+      "text": "O"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 144.0,
+            "t": 429.7229500000001,
+            "r": 467.99889544000007,
+            "b": 400.73090400000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "Definition 2 (Observation Prediction) . An observation prediction for any time t is a vector ⃗ x t ∈ R n defined in the standard basis by",
+      "text": "Definition 2 (Observation Prediction) . An observation prediction for any time t is a vector ⃗ x t ∈ R n defined in the standard basis by"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 234.22899999999998,
+            "t": 396.09901500000007,
+            "r": 467.99988596,
+            "b": 378.81390400000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "[ ⃗ x t ] i := Pr[ x t = i | x 1: t -1 = ¯ x 1: t -1 ] (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 144.0,
+            "t": 373.93195000000003,
+            "r": 322.04252942000005,
+            "b": 363.22155000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "for some fixed (implicit) sequence ¯ x 1: t -1 .",
+      "text": "for some fixed (implicit) sequence ¯ x 1: t -1 ."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 144.0,
+            "t": 354.25501500000007,
+            "r": 473.29691028,
+            "b": 325.01490400000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "Claim 1. Every observation prediction ⃗ x t lies in a subspace U := range( O ) ⊆ R n with dim( U ) = m .",
+      "text": "Claim 1. Every observation prediction ⃗ x t lies in a subspace U := range( O ) ⊆ R n with dim( U ) = m ."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 143.99999999999994,
+            "t": 322.12595000000005,
+            "r": 460.75617943999987,
+            "b": 312.16335000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Proof. By the conditional independences of the HMM, for any t we have",
+      "text": "Proof. By the conditional independences of the HMM, for any t we have"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 187.33999999999992,
+            "t": 301.160504,
+            "r": 468.00489035999976,
+            "b": 254.26890400000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "Pr[ x t = i | x 1: t -1 = ¯ x 1: t -1 ] = ∑ j ∈ [ m ] Pr[ x t = i | h t = j ] · Pr[ h t = j | x 1: t -1 = ¯ x 1: t -1 ] (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 143.99999999999977,
+            "t": 249.38795000000005,
+            "r": 253.1771446199999,
+            "b": 239.42534999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "so therefore we can write",
+      "text": "so therefore we can write"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 204.60599999999977,
+            "t": 230.09895000000006,
+            "r": 468.0002102799997,
+            "b": 210.43390399999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "⃗ x t = O ⃗ h t , [ ⃗ h t ] j := Pr[ h t = j | x 1: t -1 = ¯ x 1: t -1 ] . (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 143.99999999999972,
+            "t": 205.80695000000003,
+            "r": 361.91539457999954,
+            "b": 192.46755000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Equivalently, we can say [ ⃗ x t ] O = ⃗ h t . See Figure 1.",
+      "text": "Equivalently, we can say [ ⃗ x t ] O = ⃗ h t . See Figure 1."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 144.0,
+            "t": 175.53101500000002,
+            "r": 468.00052942,
+            "b": 152.61754999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "Claim 2. The observation prediction subspace U satisfies U = range( P 2 , 1 ) , where [ P 2 , 1 ] ij := Pr[ x 2 = i, x 1 = j ]",
+      "text": "Claim 2. The observation prediction subspace U satisfies U = range( P 2 , 1 ) , where [ P 2 , 1 ] ij := Pr[ x 2 = i, x 1 = j ]"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.50899999999996,
+            "t": 78.38395000000003,
+            "r": 308.49029999999993,
+            "b": 68.42134999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 144.0,
+            "t": 688.70995,
+            "r": 396.92255038,
+            "b": 677.99955,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "Proof. We can write the joint distribution over ( x 1 , x 2 ) as",
+      "text": "Proof. We can write the joint distribution over ( x 1 , x 2 ) as"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 161.29700000000005,
+            "t": 668.3269500000001,
+            "r": 468.00473736,
+            "b": 584.4521223400577,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "Pr[ x 2 = i, x 1 = j ] = ∑ ¯ h 1 ∑ ¯ h 2 Pr[ x 2 = i, x 1 = j, h 1 = ¯ h 1 , h 2 = ¯ h 2 ] (4) = ∑ ¯ h 1 Pr[ h 1 = ¯ h 1 ] Pr[ x 1 = j | h 1 = ¯ h 1 ] · ∑ ¯ h 2 Pr[ h 2 = ¯ h 2 | h 1 = ¯ h 1 ] Pr [ x 2 = i | h 2 = ¯ h 2 ] (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 144.00000000000017,
+            "t": 574.3388172000001,
+            "r": 468.0010169200002,
+            "b": 532.4089040000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            234
+          ]
+        }
+      ],
+      "orig": "and we can write that sum as P 2 , 1 = OT diag*( π ) O T , where diag*( · ) maps a vector to a diagonal matrix in the usual way. By our rank and positivity assumptions, we see that P 2 , 1 satisfies range( P 2 , 1 ) = range( O ) = U .",
+      "text": "and we can write that sum as P 2 , 1 = OT diag*( π ) O T , where diag*( · ) maps a vector to a diagonal matrix in the usual way. By our rank and positivity assumptions, we see that P 2 , 1 satisfies range( P 2 , 1 ) = range( O ) = U ."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 143.99999999999997,
+            "t": 529.69895,
+            "r": 468.00104514000003,
+            "b": 483.87135,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "We can directly estimate P 2 , 1 with empirical statistics, and as a consequence of Claim 2 we can then get a basis for U by using an SVD of P 2 , 1 . Note that we aren't getting an estimate of O this way, but just its column space.",
+      "text": "We can directly estimate P 2 , 1 with empirical statistics, and as a consequence of Claim 2 we can then get a basis for U by using an SVD of P 2 , 1 . Note that we aren't getting an estimate of O this way, but just its column space."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 143.99999999999997,
+            "t": 474.87601500000005,
+            "r": 467.01129316000004,
+            "b": 453.29788987723344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Claim 3. Given an observation x t = ¯ x t , there is a linear map B ¯ x t : U → U such that",
+      "text": "Claim 3. Given an observation x t = ¯ x t , there is a linear map B ¯ x t : U → U such that"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 270.60100000000006,
+            "t": 441.90101500000003,
+            "r": 468.00021028000003,
+            "b": 424.615904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "B ¯ x t ( ⃗ x t ) = α⃗ x t +1 (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 144.00000000000006,
+            "t": 420.63295,
+            "r": 468.0019489000002,
+            "b": 397.96755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "for some α = α (¯ x t , ⃗ x t ) , a scalar normalization factor chosen to ensure 1 T ⃗ x t +1 = 1 .",
+      "text": "for some α = α (¯ x t , ⃗ x t ) , a scalar normalization factor chosen to ensure 1 T ⃗ x t +1 = 1 ."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 144.00000000000006,
+            "t": 389.47095,
+            "r": 467.99888132,
+            "b": 367.55335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Proof. Following the usual recursive update for HMM forward messages, we have",
+      "text": "Proof. Following the usual recursive update for HMM forward messages, we have"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 154.68500000000006,
+            "t": 358.88750400000004,
+            "r": 468.00021028,
+            "b": 283.55235,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "Pr[ h t +1 = i, x 1: t = ¯ x 1: t ] = ∑ j ∈ [ m ] Pr[ h t +1 = i | h t = j ] ︸ ︷︷ ︸ [ T ] ij . Pr[ x t = ¯ x t | h t = j ] ︸ ︷︷ ︸ [ O ] ¯ x t j · Pr[ h t = j, x 1: t -1 = ¯ x 1: t -1 ] ︸ ︷︷ ︸ ∝ [ ⃗ x t ] O j . (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 144.0,
+            "t": 273.19801500000005,
+            "r": 467.9967594599999,
+            "b": 243.95790399999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "Therefore we can write the map B ¯ x t as an m × m matrix relative to the basis for U given by the columns of O :",
+      "text": "Therefore we can write the map B ¯ x t as an m × m matrix relative to the basis for U given by the columns of O :"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 256.75299999999993,
+            "t": 241.84635000000003,
+            "r": 468.00116941999977,
+            "b": 222.937904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "[ B ¯ x t ] O O = T diag*( O ¯ x t : ) (8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 143.99999999999977,
+            "t": 218.95495000000005,
+            "r": 468.0037444399997,
+            "b": 194.822675,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "where O k : denotes the vector formed by the k th row of O . We require 1 T ⃗ x t +1 = 1, so we have α = O T ¯ x t : ⃗ x t .",
+      "text": "where O k : denotes the vector formed by the k th row of O . We require 1 T ⃗ x t +1 = 1, so we have α = O T ¯ x t : ⃗ x t ."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 158.94399999999973,
+            "t": 195.04395,
+            "r": 215.84538989999982,
+            "b": 185.08135000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "See Figure 2.",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 143.99999999999994,
+            "t": 168.04694999999992,
+            "r": 468.0037443999999,
+            "b": 98.89688987723343,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            440
+          ]
+        }
+      ],
+      "orig": "Note. Renormalization always works because T diag*( O ¯ x t : ) preserves the non-negative orthant of R m , and O maps the simplex in R m to (a subset of) the simplex in R n . The orthant preservation properties of these maps are an immediate consequence of the fact that the matrices (with respect to standard bases) are entry-wise non-negative. In fact, instead of tracking vectors, we should be tracking rays in the non-negative orthant.",
+      "text": "Note. Renormalization always works because T diag*( O ¯ x t : ) preserves the non-negative orthant of R m , and O maps the simplex in R m to (a subset of) the simplex in R n . The orthant preservation properties of these maps are an immediate consequence of the fact that the matrices (with respect to standard bases) are entry-wise non-negative. In fact, instead of tracking vectors, we should be tracking rays in the non-negative orthant."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.5089999999999,
+            "t": 78.38394999999991,
+            "r": 308.4902999999999,
+            "b": 68.42134999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 143.99999999999994,
+            "t": 224.09145580000018,
+            "r": 168.56976411999995,
+            "b": 215.3848898772336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 204.82199999999995,
+            "t": 203.2060150000002,
+            "r": 468.00051028,
+            "b": 185.92090400000018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "[ P 3 ,x, 1 ] ij := Pr[ x 3 = i, x 2 = x, x 1 = j ] ∀ x ∈ [ n ] . (11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 144.00000000000006,
+            "t": 161.32295000000022,
+            "r": 468.00360778,
+            "b": 132.33190400000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "Proof. We can express the matrix P 3 ,x, 1 in a form similar to that for the matrix [ B x ] in Equation (9):",
+      "text": "Proof. We can express the matrix P 3 ,x, 1 in a form similar to that for the matrix [ B x ] in Equation (9):"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 239.18200000000007,
+            "t": 128.9701054000002,
+            "r": 468.00051027999996,
+            "b": 101.29767500000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "P 3 ,x, 1 = OT diag*( O x : ) O † ︸ ︷︷ ︸ [ B x ] P 2 , 1 . (12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 143.99999999999991,
+            "t": 500.34095,
+            "r": 468.0043659399999,
+            "b": 447.43990400000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "Figure 2: The matrix T diag*( O ¯ x t : ) is the matrix (relative to standard bases) of a linear map that updates hidden state beliefs given an observation ¯ x t , up to renormalization which the figure does not show. The linear map B ¯ x t is the update for output predictions.",
+      "text": "Figure 2: The matrix T diag*( O ¯ x t : ) is the matrix (relative to standard bases) of a linear map that updates hidden state beliefs given an observation ¯ x t , up to renormalization which the figure does not show. The linear map B ¯ x t is the update for output predictions."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 189.32310870900002,
+            "t": 692.8241615823648,
+            "r": 196.46647413694367,
+            "b": 679.5663919515551,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "R",
+      "text": "R"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 196.46406480659996,
+            "t": 693.0005937267,
+            "r": 203.47980147921479,
+            "b": 686.0748911871,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "m",
+      "text": "m"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 188.979828525,
+            "t": 575.7215915823649,
+            "r": 196.12319395294364,
+            "b": 562.4638219515552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "R",
+      "text": "R"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 196.121181861,
+            "t": 575.8980237267001,
+            "r": 201.0107278539576,
+            "b": 568.9723211871001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "n",
+      "text": "n"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 254.218953021,
+            "t": 675.62796071208,
+            "r": 260.5703785722614,
+            "b": 663.1245444194399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "￿ h",
+      "text": "￿ h"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 260.5736750154,
+            "t": 669.3085010739001,
+            "r": 263.5586528099676,
+            "b": 662.3827985343,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 265.812355725,
+            "t": 570.314598182016,
+            "r": 271.9960169333999,
+            "b": 553.1487546674975,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "U",
+      "text": "U"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 222.48854272499992,
+            "t": 547.3088017336802,
+            "r": 228.27249207288898,
+            "b": 537.41494380024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "￿ x",
+      "text": "￿ x"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 228.28027859699998,
+            "t": 543.5988011451002,
+            "r": 231.2652563915676,
+            "b": 536.6730986055002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 251.256216621,
+            "t": 599.6946157336799,
+            "r": 258.7953363662813,
+            "b": 589.8007578002398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "O",
+      "text": "O"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 414.77675572499993,
+            "t": 570.314598182016,
+            "r": 420.9604169333999,
+            "b": 553.1487546674975,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "U",
+      "text": "U"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 400.220616621,
+            "t": 599.6946157336799,
+            "r": 407.7597363662813,
+            "b": 589.8007578002398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "O",
+      "text": "O"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 402.72090131699997,
+            "t": 676.0417507120799,
+            "r": 409.08116542266146,
+            "b": 663.5383344194399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "￿ h",
+      "text": "￿ h"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 409.08485910419995,
+            "t": 669.7222910738999,
+            "r": 412.06983689876756,
+            "b": 662.7965885342999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 412.0700063705999,
+            "t": 669.7222910738999,
+            "r": 422.0887276643854,
+            "b": 662.7965885342999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "+1",
+      "text": "+1"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 370.99942888500004,
+            "t": 545.2398517336801,
+            "r": 376.78337823288905,
+            "b": 535.34599380024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "￿ x",
+      "text": "￿ x"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 376.7912640666,
+            "t": 541.5298511451001,
+            "r": 379.7762418611676,
+            "b": 534.6041486055001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 379.7763120234,
+            "t": 541.5298511451001,
+            "r": 389.79503331718536,
+            "b": 534.6041486055001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "+1",
+      "text": "+1"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 284.685483141,
+            "t": 667.1423857336802,
+            "r": 290.463496174129,
+            "b": 657.24852780024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "T",
+      "text": "T"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 291.84471220499995,
+            "t": 667.1423857336802,
+            "r": 318.7757934998235,
+            "b": 657.24852780024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "diag*(",
+      "text": "diag*("
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.77429781779995,
+            "t": 667.1423857336802,
+            "r": 326.31341756308126,
+            "b": 657.24852780024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "O",
+      "text": "O"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 326.80089692819996,
+            "t": 663.4323851451002,
+            "r": 330.7416216732324,
+            "b": 656.5066826055001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "¯",
+      "text": "¯"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 326.31835158179996,
+            "t": 663.4323851451002,
+            "r": 330.79928112492115,
+            "b": 656.5066826055001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "x",
+      "text": "x"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 330.8047620714,
+            "t": 660.95640068064,
+            "r": 333.58988307966337,
+            "b": 656.00947171392,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 334.09399533299995,
+            "t": 663.4323851451002,
+            "r": 336.3309972532908,
+            "b": 656.5066826055001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ":",
+      "text": ":"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 336.8288824074,
+            "t": 667.1423857336802,
+            "r": 340.6676992855747,
+            "b": 657.24852780024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 305.130681525,
+            "t": 562.866378182016,
+            "r": 311.62105232933664,
+            "b": 545.7005346674975,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "B",
+      "text": "B"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.1114512378,
+            "t": 558.9090311451,
+            "r": 316.0521759828324,
+            "b": 551.9833286055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "¯",
+      "text": "¯"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.6289058914,
+            "t": 558.9090311451,
+            "r": 316.1098354345212,
+            "b": 551.9833286055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "x",
+      "text": "x"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 316.11531638099996,
+            "t": 556.43304668064,
+            "r": 318.9004373892634,
+            "b": 551.4861177139201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 143.99999999999983,
+            "t": 431.3430150000001,
+            "r": 468.0008106999998,
+            "b": 383.57170800000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            264
+          ]
+        }
+      ],
+      "orig": "For any new observation x , the map B x implements the 'belief update' on output predictions, up to a normalization factor which we can compute on the fly via 1 T ⃗ x t = 1. Note that we can also write B x as an n × n matrix relative to the standard basis of R n :",
+      "text": "For any new observation x , the map B x implements the 'belief update' on output predictions, up to a normalization factor which we can compute on the fly via 1 T ⃗ x t = 1. Note that we can also write B x as an n × n matrix relative to the standard basis of R n :"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 253.4939999999999,
+            "t": 374.83110540000007,
+            "r": 468.0002102799999,
+            "b": 356.3909040000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "[ B x ] = OT diag*( O x : ) O † (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 143.9999999999999,
+            "t": 350.6233500000001,
+            "r": 468.00074111999993,
+            "b": 325.3065500000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "where O † := ( O T O ) -1 O T is the pseudoinverse of O . Recall ⃗ x t = O ⃗ h t and hence ⃗ h t = O † ⃗ x t .",
+      "text": "where O † := ( O T O ) -1 O T is the pseudoinverse of O . Recall ⃗ x t = O ⃗ h t and hence ⃗ h t = O † ⃗ x t ."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 143.9999999999999,
+            "t": 324.31001500000013,
+            "r": 468.0012082599997,
+            "b": 302.1433500000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "We would like to write B x as a matrix without reference to the standard HMM parameters ( T, O, π ), since we want to avoid learning them at all.",
+      "text": "We would like to write B x as a matrix without reference to the standard HMM parameters ( T, O, π ), since we want to avoid learning them at all."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 143.99999999999983,
+            "t": 293.96659200000016,
+            "r": 468.0012963199998,
+            "b": 256.70670800000016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "Claim 4. Let U ∈ R n × m be a matrix whose columns form an orthonormal basis for U . We can write B x as a matrix relative to the standard basis of R n as",
+      "text": "Claim 4. Let U ∈ R n × m be a matrix whose columns form an orthonormal basis for U . We can write B x as a matrix relative to the standard basis of R n as"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 239.60799999999983,
+            "t": 248.43335000000025,
+            "r": 468.0005102799999,
+            "b": 229.52490400000022,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "[ B x ] = P 3 ,x, 1 U ( U T P 2 , 1 U ) -1 U T (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.509,
+            "t": 78.38395000000003,
+            "r": 308.4903,
+            "b": 68.42134999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 144.0,
+            "t": 688.70995,
+            "r": 468.0044376199999,
+            "b": 630.92635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            338
+          ]
+        }
+      ],
+      "orig": "Intuitively, we want to remove the P 2 , 1 on the right, since that would give us [ B x ] in terms of quantities we can readily estimate, but we cannot form the inverse of P 2 , 1 because it is n × n and has rank m ≤ n . However, P 2 , 1 has row and column space U (intuitively, its restriction to U is invertible), thus we can substitute",
+      "text": "Intuitively, we want to remove the P 2 , 1 on the right, since that would give us [ B x ] in terms of quantities we can readily estimate, but we cannot form the inverse of P 2 , 1 because it is n × n and has rank m ≤ n . However, P 2 , 1 has row and column space U (intuitively, its restriction to U is invertible), thus we can substitute"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 256.945,
+            "t": 620.4528171999999,
+            "r": 468.0005102800001,
+            "b": 608.2615499999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "P 2 , 1 = U ( U T P 2 , 1 U ) U T (13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 216.18600000000018,
+            "t": 576.6168171999999,
+            "r": 468.00051028,
+            "b": 564.4255499999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "P 3 ,x, 1 = OT diag*( O x : ) O † U ( U T P 2 , 1 U ) U T (14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 144.00000000000017,
+            "t": 597.0529499999999,
+            "r": 169.4564355200002,
+            "b": 587.09035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "to get",
+      "text": "to get"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 144.00000000000006,
+            "t": 553.2179499999999,
+            "r": 187.7218663600001,
+            "b": 543.2553499999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "and hence",
+      "text": "and hence"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 194.26500000000004,
+            "t": 533.17135,
+            "r": 468.00051027999996,
+            "b": 514.2639039999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "P 3 ,x, 1 U ( U T P 2 , 1 U ) -1 U T = OT diag*( O x : ) O † = [ B x ] . (15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 143.9999999999999,
+            "t": 489.45695,
+            "r": 468.0047712799996,
+            "b": 400.68990400000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            473
+          ]
+        }
+      ],
+      "orig": "Because we can estimate each P 3 ,x, 1 as well as P 2 , 1 from data by empirical statistics, and we can obtain a U using an SVD, we can now estimate a representation of B x from data using the expression in Claim 4. We can also directly estimate P 1 from empirical statistics, where [ P 1 ] i := Pr[ x 1 = i ], and hence we can use these estimated quantities to recursively compute Pr[ x t | x 1: t -1 ] and Pr[ x 1: t -1 ] given observations up to and including time t -1.",
+      "text": "Because we can estimate each P 3 ,x, 1 as well as P 2 , 1 from data by empirical statistics, and we can obtain a U using an SVD, we can now estimate a representation of B x from data using the expression in Claim 4. We can also directly estimate P 1 from empirical statistics, where [ P 1 ] i := Pr[ x 1 = i ], and hence we can use these estimated quantities to recursively compute Pr[ x t | x 1: t -1 ] and Pr[ x 1: t -1 ] given observations up to and including time t -1."
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 143.9999999999999,
+            "t": 406.0200150000001,
+            "r": 468.0038595199997,
+            "b": 370.20370800000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "Since dim( U ) = m ≤ n , we can use the columns of U as our basis for U to get a more economical coordinate representation of ⃗ x t and B x than in the standard basis of R n :",
+      "text": "Since dim( U ) = m ≤ n , we can use the columns of U as our basis for U to get a more economical coordinate representation of ⃗ x t and B x than in the standard basis of R n :"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 143.99999999999983,
+            "t": 363.6285920000001,
+            "r": 467.99914143999985,
+            "b": 332.9439040000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "Definition 3 (HMM PSR Representation) . For any fixed U ∈ R n × m with range( U ) = U and U T U = I m × m , we define the belief vector at time t by",
+      "text": "Definition 3 (HMM PSR Representation) . For any fixed U ∈ R n × m with range( U ) = U and U T U = I m × m , we define the belief vector at time t by"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 250.82299999999972,
+            "t": 329.4129500000001,
+            "r": 468.0005102799996,
+            "b": 309.74790400000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "⃗ b t := [ ⃗ x t ] U = U T ⃗ x t ∈ R m (16)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 143.99999999999966,
+            "t": 304.86595000000005,
+            "r": 296.60091995999954,
+            "b": 294.90335000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "and in particular for t = 1 we have",
+      "text": "and in particular for t = 1 we have"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 278.80299999999966,
+            "t": 285.57695000000007,
+            "r": 468.0005102799996,
+            "b": 272.23855000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "⃗ b 1 = U T Oπ. (17)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 143.99999999999966,
+            "t": 262.72359200000005,
+            "r": 468.0006345599996,
+            "b": 243.99390400000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "For each possible observation x ∈ [ n ] , we define the matrix B x ∈ R m × m by",
+      "text": "For each possible observation x ∈ [ n ] , we define the matrix B x ∈ R m × m by"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 209.9929999999996,
+            "t": 240.98434999999995,
+            "r": 468.00051027999956,
+            "b": 222.07590400000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "B x := [ B x ] U U = ( U T O ) T diag*( O x : )( U T O ) -1 . (18)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 143.9999999999996,
+            "t": 216.52745579999998,
+            "r": 468.0046734599995,
+            "b": 182.04335000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "Finally, for normalization purposes, it is convenient to maintain the appropriate mapping of the ones (co-)vector, noting 1 T O ⃗ h = 1 if and only if 1 T ⃗ h = 1 because 1 T O = 1 T :",
+      "text": "Finally, for normalization purposes, it is convenient to maintain the appropriate mapping of the ones (co-)vector, noting 1 T O ⃗ h = 1 if and only if 1 T ⃗ h = 1 because 1 T O = 1 T :"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 251.1929999999996,
+            "t": 172.71695,
+            "r": 468.00051027999973,
+            "b": 153.05190400000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "⃗ b ∞ := [1] U = U T 1 ∈ R m . (19)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 143.99999999999974,
+            "t": 148.16995000000009,
+            "r": 468.0006884199997,
+            "b": 114.29735000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "The box below summarizes the method for learning an HMM PSR representation from data and how to use an HMM PSR representation to perform some recursive inference computations.",
+      "text": "The box below summarizes the method for learning an HMM PSR representation from data and how to use an HMM PSR representation to perform some recursive inference computations."
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.50899999999973,
+            "t": 78.38395000000003,
+            "r": 308.4902999999997,
+            "b": 68.42135000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 153.365,
+            "t": 677.7663436,
+            "r": 197.43555736000002,
+            "b": 669.0215350743516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Learning",
+      "text": "Learning"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 153.3650000000002,
+            "t": 565.9203435999998,
+            "r": 199.50478938000015,
+            "b": 557.1755350743514,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Inference",
+      "text": "Inference"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 188.87200000000018,
+            "t": 547.2689499999998,
+            "r": 423.1287466800001,
+            "b": 483.404675,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "Pr[ x 1: t ] = ⃗ b T ∞ B x t :1 ⃗ b 1 sequence probability Pr[ x t | x 1: t -1 ] = ⃗ b T ∞ B x t ⃗ b t prediction ⃗ b t +1 = B x t ⃗ b t ⃗ b T ∞ B x t ⃗ b t recursive update",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 233.48500000000016,
+            "t": 644.53095,
+            "r": 377.88561028000015,
+            "b": 581.5224399999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "̂ U = ThinSVD( ̂ P 2 , 1 ) ̂ b 1 = ̂ U T ̂ P 1 ̂ B x = ̂ U T ̂ P 3 ,x, 1 ( ̂ U T ̂ P 2 , 1 ) † ∀ x ∈ [ n ] ̂ b ∞ = ̂ U T 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 303.509,
+            "t": 78.38395000000003,
+            "r": 308.4903,
+            "b": 68.42134999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 214.8101043701172,
+            "t": 326.2760925292969,
+            "r": 392.87884521484375,
+            "b": 255.5699462890625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 262.1725769042969,
+            "t": 692.3505249023438,
+            "r": 348.4017028808594,
+            "b": 511.6370544433594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 187.142822265625,
+            "t": 692.3148193359375,
+            "r": 423.0428161621094,
+            "b": 511.1518249511719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/68"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    }
+  }
+}

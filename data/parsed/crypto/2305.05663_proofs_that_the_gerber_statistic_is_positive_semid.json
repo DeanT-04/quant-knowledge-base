@@ -1,0 +1,2734 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2305.05663_proofs_that_the_gerber_statistic_is_positive_semid",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 17608063534615267366,
+    "filename": "2305.05663_proofs_that_the_gerber_statistic_is_positive_semid.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/87"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/86"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 611.86,
+            "r": 36.206559297218156,
+            "b": 243.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:2305.05663v1  [q-fin.PM]  9 May 2023",
+      "text": "arXiv:2305.05663v1  [q-fin.PM]  9 May 2023",
+      "hyperlink": "http://arxiv.org/abs/2305.05663v1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.3602,
+            "t": 674.2031574,
+            "r": 536.7497547189005,
+            "b": 659.4308112273504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Proofs that the Gerber Statistic is Positive Semidefinite",
+      "text": "Proofs that the Gerber Statistic is Positive Semidefinite",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 86.8801,
+            "t": 634.9993499999999,
+            "r": 525.2299382543898,
+            "b": 620.6388038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "S. Gerber, H. Markowitz, P.A. Ernst, Y. Miao, B. Javid, and P. Sargen",
+      "text": "S. Gerber, H. Markowitz, P.A. Ernst, Y. Miao, B. Javid, and P. Sargen"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 264.8401,
+            "t": 607.15955,
+            "r": 347.33541567116396,
+            "b": 592.7990038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "May 10, 2023",
+      "text": "May 10, 2023"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 282.0003,
+            "t": 560.8144517999999,
+            "r": 329.956732509115,
+            "b": 553.1344454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 101.28029999999998,
+            "t": 541.4510154999999,
+            "r": 510.74211982720215,
+            "b": 517.7562614999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "In this brief note, we prove that both forms of the Gerber statistic introduced in [1] are positive semi-definite.",
+      "text": "In this brief note, we prove that both forms of the Gerber statistic introduced in [1] are positive semi-definite."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0002,
+            "t": 492.53087999999997,
+            "r": 162.008603084392,
+            "b": 477.03702,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "1 Theory",
+      "text": "1 Theory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.99972000000002,
+            "t": 463.1664,
+            "r": 539.9824221387519,
+            "b": 407.45419756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            344
+          ]
+        }
+      ],
+      "orig": "We first recall the background theory of the Gerber statistic, as in [1]. Let r tk be the return of security k at time t, for k = 1 , . . . , K securities and t = 1 , . . . , T time periods. For every pair ( i, j ) of assets for each time t , we convert each return observation pair ( r ti , r tj ) to a joint observation m ij ( t ) defined as:",
+      "text": "We first recall the background theory of the Gerber statistic, as in [1]. Let r tk be the return of security k at time t, for k = 1 , . . . , K securities and t = 1 , . . . , T time periods. For every pair ( i, j ) of assets for each time t , we convert each return observation pair ( r ti , r tj ) to a joint observation m ij ( t ) defined as:"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 191.03968999999995,
+            "t": 395.75830800000006,
+            "r": 414.83946920000005,
+            "b": 281.06440319999984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "m ij ( t ) =                 +1 if r ti ≥ + H i and r tj ≥ + H j , +1 if r ti ≤ -H i and r tj ≤ -H j , -1 if r ti ≥ + H i and r tj ≤ -H j , -1 if r ti ≤ -H i and r tj ≥ + H j , 0 otherwise,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.99928000000017,
+            "t": 313.3180479999998,
+            "r": 540.0538452619778,
+            "b": 190.8540375599997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            630
+          ]
+        }
+      ],
+      "orig": " where H k is a threshold for security k. The joint observation m ij ( t ) is therefore set to +1 if the series i and j simultaneously pierce their thresholds in the same direction at time t, to -1 if they pierce their thresholds in opposite directions at time t , or to zero if at least one of the series does not pierce its threshold at time t . We refer to a pair for which both components pierce their thresholds while moving in the same direction as a concordant pair, and to one whose components pierce their thresholds while moving in opposite directions as a discordant pair. We set the threshold H k for security k to be",
+      "text": " where H k is a threshold for security k. The joint observation m ij ( t ) is therefore set to +1 if the series i and j simultaneously pierce their thresholds in the same direction at time t, to -1 if they pierce their thresholds in opposite directions at time t , or to zero if at least one of the series does not pierce its threshold at time t . We refer to a pair for which both components pierce their thresholds while moving in the same direction as a concordant pair, and to one whose components pierce their thresholds while moving in opposite directions as a discordant pair. We set the threshold H k for security k to be"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 282.35903000000025,
+            "t": 177.56623999999965,
+            "r": 328.88642083000025,
+            "b": 165.17393755999967,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "H k = cσ k",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.99895000000024,
+            "t": 151.88613999999973,
+            "r": 539.9738405188358,
+            "b": 125.51898479999966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "where c is some fraction (say 1 / 2) and σ k is the sample standard deviation of the return of security k.",
+      "text": "where c is some fraction (say 1 / 2) and σ k is the sample standard deviation of the return of security k."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.51897000000031,
+            "t": 123.08613999999966,
+            "r": 428.33316392701505,
+            "b": 111.11898479999968,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "The Gerber statistic for a pair of assets is then initially defined as",
+      "text": "The Gerber statistic for a pair of assets is then initially defined as"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 255.9589700000003,
+            "t": 99.77055853999968,
+            "r": 539.9831626369278,
+            "b": 37.82459319999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "g ij = ∑ T t =1 m ij ( t ) ∑ T t =1 ∣ ∣ m ij ( t ) ∣ ∣ . (1) 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 718.13049854,
+            "r": 540.0408858499839,
+            "b": 690.5992448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "Letting n c ij be the number of concordant pairs for series i and j , and letting n d ij be the number of discordant pairs, equation (1) is equivalent to",
+      "text": "Letting n c ij be the number of concordant pairs for series i and j , and letting n d ij be the number of discordant pairs, equation (1) is equivalent to"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 267.36029,
+            "t": 677.81061854,
+            "r": 344.64006919999997,
+            "b": 645.5341775599998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "g ij = n c ij -n d ij n c ij + n d ij .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99992999999995,
+            "t": 632.9304585399997,
+            "r": 540.0126625442558,
+            "b": 590.9992247999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "Let us define R ∈ R T × K to be the return matrix having r tk in its t -th row and k -th column. We may also define U as a matrix with the same size as R having entries u tj such that",
+      "text": "Let us define R ∈ R T × K to be the return matrix having r tk in its t -th row and k -th column. We may also define U as a matrix with the same size as R having entries u tj such that"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 237.96004999999994,
+            "t": 593.0383879999997,
+            "r": 367.91986919999994,
+            "b": 557.1847431999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "u tj = { 1 if r tj ≥ + H j , 0 otherwise.",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.00010999999989,
+            "t": 550.4065799999997,
+            "r": 539.8907467769087,
+            "b": 523.9191247999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "With this definition, the matrix of the number of samples that exceed the upper threshold is",
+      "text": "With this definition, the matrix of the number of samples that exceed the upper threshold is"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 270.0001099999999,
+            "t": 522.9714463399997,
+            "r": 341.8797491999999,
+            "b": 509.5191247999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "N UU = U ⊤ U .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99923999999993,
+            "t": 500.6065799999997,
+            "r": 539.9739220108798,
+            "b": 459.7191247999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "Specifically, we have the useful property that the ij element n UU ij of N UU is the number of samples for which both time series i exceeds the upper threshold and for which time series j simultaneously exceeds the upper threshold.",
+      "text": "Specifically, we have the useful property that the ij element n UU ij of N UU is the number of samples for which both time series i exceeds the upper threshold and for which time series j simultaneously exceeds the upper threshold."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.51924999999996,
+            "t": 457.1663799999997,
+            "r": 530.9823004515839,
+            "b": 444.7740775599997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Similarly, define D as the matrix with the same size as R having entries d tj such that",
+      "text": "Similarly, define D as the matrix with the same size as R having entries d tj such that"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 238.07917999999992,
+            "t": 431.9980879999997,
+            "r": 367.6787892,
+            "b": 396.1444431999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "d tj = { 1 if r tj ≤ -H j , 0 otherwise.",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99912999999998,
+            "t": 383.8463799999998,
+            "r": 539.890895724928,
+            "b": 357.35932479999974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "With this definition, the matrix of the number of samples that go below the lower threshold is",
+      "text": "With this definition, the matrix of the number of samples that go below the lower threshold is"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 269.27913,
+            "t": 356.4112563399998,
+            "r": 342.59867920000005,
+            "b": 342.95932479999976,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "N DD = D ⊤ D .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99869000000007,
+            "t": 334.0463799999998,
+            "r": 539.8616275610368,
+            "b": 278.6394247999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            297
+          ]
+        }
+      ],
+      "orig": "Again, we have the useful property that the ij element n DD ij of N DD is the number of samples for which both time series i goes below the lower threshold and for which time series j simultaneously goes below the lower threshold. The matrix containing the numbers of concordant pairs is therefore",
+      "text": "Again, we have the useful property that the ij element n DD ij of N DD is the number of samples for which both time series i goes below the lower threshold and for which time series j simultaneously goes below the lower threshold. The matrix containing the numbers of concordant pairs is therefore"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 203.87877000000003,
+            "t": 277.69135633999986,
+            "r": 407.99840919999997,
+            "b": 264.01751595999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "N CONC = N UU + N DD = U ⊤ U + D ⊤ D .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99854999999997,
+            "t": 255.32647999999972,
+            "r": 472.2531693556481,
+            "b": 243.35932479999974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "It can be shown that the matrix containing the numbers of discordant pairs is",
+      "text": "It can be shown that the matrix containing the numbers of discordant pairs is"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 245.03854999999996,
+            "t": 230.4112563399998,
+            "r": 366.95849919999995,
+            "b": 216.7374159599998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "N DISC = U ⊤ D + D ⊤ U .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99863999999985,
+            "t": 202.52647999999976,
+            "r": 540.0106240534527,
+            "b": 176.03942479999978,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "We can now write the Gerber matrix G (i.e., the matrix that contains g ij in its i -th row and j -th column) in the equivalent matrix form",
+      "text": "We can now write the Gerber matrix G (i.e., the matrix that contains g ij in its i -th row and j -th column) in the equivalent matrix form"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 199.43855999999985,
+            "t": 161.60657999999978,
+            "r": 412.5417959999999,
+            "b": 149.41751595999972,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "G = ( N CONC -N DISC ) ⊘ ( N CONC + N DISC )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99881999999991,
+            "t": 135.2065799999998,
+            "r": 428.0384303736835,
+            "b": 123.23942479999971,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "where the symbol ⊘ represents the Hadamard (elementwise) division.",
+      "text": "where the symbol ⊘ represents the Hadamard (elementwise) division."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.1185199999999,
+            "t": 51.08627999999976,
+            "r": 308.9646127999999,
+            "b": 39.11912479999978,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 718.04234,
+            "r": 288.80557664885896,
+            "b": 705.13076,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "1.1 A Graphical Relationship",
+      "text": "1.1 A Graphical Relationship",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 694.8863,
+            "r": 539.8621181657088,
+            "b": 668.3992448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "To simplify the description of various versions of the Gerber statistic, it is useful to consider the following graphical representation for the relationship between two securities:",
+      "text": "To simplify the description of various versions of the Gerber statistic, it is useful to consider the following graphical representation for the relationship between two securities:"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 263.160078,
+            "t": 658.1664,
+            "r": 347.55063091136003,
+            "b": 617.2913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "UD UN UU ND NN NU DD DN DU",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.99984399999997,
+            "t": 606.8063,
+            "r": 540.0414427281921,
+            "b": 522.5993448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            538
+          ]
+        }
+      ],
+      "orig": "Let the rows here represent categorizations of security i, and let the columns represent categorizations of security j. The boundaries between the rows and the columns are the chosen thresholds. The letter U represents the case in which a security's return lies above the upper threshold (i.e., is up). The letter N represents the case in which a security's return lies between the upper and lower thresholds (i.e., is neutral). The letter D represents the case in which a security's return lies below the lower threshold (i.e., is down).",
+      "text": "Let the rows here represent categorizations of security i, and let the columns represent categorizations of security j. The boundaries between the rows and the columns are the chosen thresholds. The letter U represents the case in which a security's return lies above the upper threshold (i.e., is up). The letter N represents the case in which a security's return lies between the upper and lower thresholds (i.e., is neutral). The letter D represents the case in which a security's return lies below the lower threshold (i.e., is down)."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.000924,
+            "t": 520.1665,
+            "r": 540.0347808,
+            "b": 435.95954480000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            542
+          ]
+        }
+      ],
+      "orig": "For example, if at time t, the return of security i is above the upper threshold, this observation lies in the top row. If, at the same time t, the return of security j lies between the two thresholds, this observation lies in the middle column. Therefore, this observation lies in the UN region. Over the history, t = 1 , . . . , T, there will be observations scattered over the nine regions. Let n pq ij be the number of observations for which the returns of securities i and j lie in regions p and q, respectively, for p, q ∈ { U, N, D } .",
+      "text": "For example, if at time t, the return of security i is above the upper threshold, this observation lies in the top row. If, at the same time t, the return of security j lies between the two thresholds, this observation lies in the middle column. Therefore, this observation lies in the UN region. Over the history, t = 1 , . . . , T, there will be observations scattered over the nine regions. Let n pq ij be the number of observations for which the returns of securities i and j lie in regions p and q, respectively, for p, q ∈ { U, N, D } ."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.00134400000002,
+            "t": 433.4068000000001,
+            "r": 539.9843860157442,
+            "b": 378.1193448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            312
+          ]
+        }
+      ],
+      "orig": "The covariance matrix constructed from the 'initial' Gerber statistic as defined in equation (1) was often not positive semidefinite (PSD). We therefore tested some alternative versions that were PSD. Two alternative versions are as follows. It is important to note that in [1], we employed 'Gerber Statistic 2.'",
+      "text": "The covariance matrix constructed from the 'initial' Gerber statistic as defined in equation (1) was often not positive semidefinite (PSD). We therefore tested some alternative versions that were PSD. Two alternative versions are as follows. It is important to note that in [1], we employed 'Gerber Statistic 2.'"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.00134400000002,
+            "t": 364.29770250000007,
+            "r": 540.0141506636288,
+            "b": 334.7994448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "Gerber Statistic 1 : Let the matrix G (1) be defined as containing g (1) ij in its i th row and j th column, with",
+      "text": "Gerber Statistic 1 : Let the matrix G (1) be defined as containing g (1) ij in its i th row and j th column, with"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.99973999999997,
+            "t": 290.0066800000001,
+            "r": 101.80031916613117,
+            "b": 278.0395248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 229.80195600000008,
+            "t": 335.0064200000001,
+            "r": 539.9827126369278,
+            "b": 281.9045632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "g (1) ij = n UU ij + n DD ij -n UD ij -n DU ij √ n (A) ij n (B) ij (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 195.11979999999988,
+            "t": 268.05768250000006,
+            "r": 416.8797091999998,
+            "b": 230.57407755999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "n ( A ) ij = n UU ij + n UN ij + n UD ij + n DU ij + n DN ij + n DD ij n ( B ) ij = n UU ij + n NU ij + n UD ij + n UD ij + n ND ij + n DD ij .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.99984999999981,
+            "t": 218.97758249999993,
+            "r": 540.0126566636286,
+            "b": 189.47932479999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "Gerber Statistic 2 : Let the matrix G (2) be defined as containing g (2) ij in its i th row and j th column, with Let us consider",
+      "text": "Gerber Statistic 2 : Let the matrix G (2) be defined as containing g (2) ij in its i th row and j th column, with Let us consider"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 256.68046199999986,
+            "t": 178.73089853999988,
+            "r": 355.3199292,
+            "b": 140.9046431999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "g (2) ij = ∑ T t =1 m ij ( t ) T -n NN ij .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.00007,
+            "t": 135.32629999999995,
+            "r": 405.8944565918723,
+            "b": 123.35914479999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "This can be written in terms of the above alternative notation as",
+      "text": "This can be written in terms of the above alternative notation as"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 228.12007,
+            "t": 96.92632000000003,
+            "r": 539.9831326369277,
+            "b": 65.93427755999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "g (2) ij = n UU ij + n DD ij -n UD ij -n DU ij T -n NN ij . (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.12015999999994,
+            "t": 51.08637999999996,
+            "r": 308.96625279999995,
+            "b": 39.119224799999984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99929999999995,
+            "t": 718.798108,
+            "r": 540.040649478605,
+            "b": 676.1992448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "Let H = N CONC -N DISC , and let h = √ diag( H ) be the vector of square roots of the diagonal elements of H (which are all positive). We now see that the first alternative version of the Gerber statistic can be written in the matrix form",
+      "text": "Let H = N CONC -N DISC , and let h = √ diag( H ) be the vector of square roots of the diagonal elements of H (which are all positive). We now see that the first alternative version of the Gerber statistic can be written in the matrix form"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 219.11929999999995,
+            "t": 668.8577025000002,
+            "r": 392.8795391999999,
+            "b": 654.7375359600002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "G (1) = ( N CONC -N DISC ) ⊘ ( hh ⊤ ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.9996799999999,
+            "t": 646.6914863400002,
+            "r": 540.0115425442558,
+            "b": 619.3192448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "Written differently, letting J = J ⊤ be the diagonal matrix with the inverse of the i -th element of h in its i -th diagonal position, we have",
+      "text": "Written differently, letting J = J ⊤ be the diagonal matrix with the inverse of the i -th element of h in its i -th diagonal position, we have"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 230.15996999999993,
+            "t": 612.0976225000003,
+            "r": 381.8401591999999,
+            "b": 597.8575359600003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "G (1) = J ⊤ ( N CONC -N DISC ) J .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00029999999992,
+            "t": 588.9267000000002,
+            "r": 539.9203758704125,
+            "b": 562.5595448000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "Portfolio optimizers require the covariance matrix of securities' returns to be positive semidefinite. We therefore prove that both matrices G (1) and G (2) are positive semidefinite.",
+      "text": "Portfolio optimizers require the covariance matrix of securities' returns to be positive semidefinite. We therefore prove that both matrices G (1) and G (2) are positive semidefinite."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00049999999993,
+            "t": 538.3708800000003,
+            "r": 253.39507959311396,
+            "b": 522.8770200000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "2 Gerber Statistic 1",
+      "text": "2 Gerber Statistic 1",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99999999999989,
+            "t": 510.33790250000027,
+            "r": 540.040772712704,
+            "b": 468.11934480000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            245
+          ]
+        }
+      ],
+      "orig": "First, it is useful to note that the numerator matrices of both G (1) and G (2) are positive semidefinite. We can see this as follows. From the definitions of N CONC and N DISC , the numerator matrix can be written in the following squared form:",
+      "text": "First, it is useful to note that the numerator matrices of both G (1) and G (2) are positive semidefinite. We can see this as follows. From the definitions of N CONC and N DISC , the numerator matrix can be written in the following squared form:"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 210.72024000000002,
+            "t": 458.9666000000003,
+            "r": 399.92484,
+            "b": 409.43974480000026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "H = N CONC -N DISC = U ⊤ U + D ⊤ D -U ⊤ D -D ⊤ U = ( U -D ) ⊤ ( U -D ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00037000000003,
+            "t": 400.1667000000003,
+            "r": 276.0001492,
+            "b": 388.19954480000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Therefore, for arbitrary but non-zero x ,",
+      "text": "Therefore, for arbitrary but non-zero x ,"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 187.08019000000002,
+            "t": 380.5315963400003,
+            "r": 424.9202292000001,
+            "b": 366.95974480000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "x ⊤ Hx = x ⊤ ( U -D ) ⊤ ( U -D ) x = u ⊤ u ≥ 0 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 89.52037000000007,
+            "t": 359.13809250000025,
+            "r": 393.59949140513305,
+            "b": 345.83944480000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "We now prove that the matrix G (1) is positive semidefinite.",
+      "text": "We now prove that the matrix G (1) is positive semidefinite."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00037000000006,
+            "t": 339.2178025000003,
+            "r": 366.7073390355205,
+            "b": 326.5292600000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Proposition 1. The matrix G (1) is positive semidefinite.",
+      "text": "Proposition 1. The matrix G (1) is positive semidefinite."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00047000000004,
+            "t": 317.8469000000003,
+            "r": 154.72067878515207,
+            "b": 305.87974480000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Proof. We write",
+      "text": "Proof. We write"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 170.16067000000004,
+            "t": 298.65810250000027,
+            "r": 438.56673280000007,
+            "b": 265.91964480000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "x ⊤ G (1) x = x ⊤ J ⊤ HJx = x ⊤ J ⊤ ( U -D ) ⊤ ( U -D ) Jx = u ⊤ u ≥ 0",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00072000000006,
+            "t": 256.7669000000003,
+            "r": 201.601072641613,
+            "b": 244.79974480000033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "This concludes the proof.",
+      "text": "This concludes the proof."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 220.61077999999998,
+            "r": 253.39457959311403,
+            "b": 205.11691999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "3 Gerber Statistic 2",
+      "text": "3 Gerber Statistic 2",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.9998,
+            "t": 192.57740250000006,
+            "r": 539.964315819469,
+            "b": 164.45399755999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "We now prove that the matrix G (2) is positive semidefinite. This will be eased by defining a new matrix F , with entires f tj such that",
+      "text": "We now prove that the matrix G (2) is positive semidefinite. This will be eased by defining a new matrix F , with entires f tj such that"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 234.47996,
+            "t": 155.60652000000005,
+            "r": 371.2795292000002,
+            "b": 83.78456319999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "f tj =     1 if r tj ≥ + T j , -1 if r tj ≤ -T j , 0 otherwise.",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99977000000018,
+            "t": 116.15812800000003,
+            "r": 540.010985651405,
+            "b": 68.99906480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": " Let 〈 F i , F j 〉 be the dot product of columns i and j of matrix F corresponding to assets i and j . This leads to the following proposition.",
+      "text": " Let 〈 F i , F j 〉 be the dot product of columns i and j of matrix F corresponding to assets i and j . This leads to the following proposition."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 438.6007200000001,
+            "t": 277.88680000000033,
+            "r": 441.8405792000001,
+            "b": 265.93160000000034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.1202000000003,
+            "t": 51.08612000000005,
+            "r": 308.9662928000003,
+            "b": 39.11896479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 718.4174225,
+            "r": 305.3866677363202,
+            "b": 705.60896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Proposition 2. G (2) is positive semidefinite.",
+      "text": "Proposition 2. G (2) is positive semidefinite."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99990000000001,
+            "t": 694.8975025000001,
+            "r": 539.9294594779648,
+            "b": 652.6793448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "Proof. We first note that the numerator of G (2) can be expressed as F T F . It is therefore positive semidefinite. We now consider the denominator of G (2) . Let us define the matrix X with entires",
+      "text": "Proof. We first note that the numerator of G (2) can be expressed as F T F . It is therefore positive semidefinite. We now consider the denominator of G (2) . Let us define the matrix X with entires"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 276.48060000000004,
+            "t": 655.28634,
+            "r": 335.5197592,
+            "b": 625.9312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "x i,j := n NN ij T .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99990000000003,
+            "t": 621.9378525,
+            "r": 539.9999777781248,
+            "b": 579.7193048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            259
+          ]
+        }
+      ],
+      "orig": "The entries g i,j in the denominator of the matrix G (2) become T (1 -x i,j ). Noting that all entries 0 ≤ x i,j < 1, (the case x i,j = 1 would correspond to the case where all observations fall into the NN region, which we exclude) we can rewrite the entires",
+      "text": "The entries g i,j in the denominator of the matrix G (2) become T (1 -x i,j ). Noting that all entries 0 ≤ x i,j < 1, (the case x i,j = 1 would correspond to the case where all observations fall into the NN region, which we exclude) we can rewrite the entires"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 167.16049999999998,
+            "t": 567.92669,
+            "r": 444.8403392000001,
+            "b": 539.21409756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "g i,j = 〈 F i , F j 〉 T (1 -x i,j ) = 〈 F i , F j 〉 T (1 + x i,j + x 2 i,j + x 3 i,j + ... ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.00048000000004,
+            "t": 528.2063899999999,
+            "r": 539.9826302857218,
+            "b": 501.2937875599999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "We now show that the matrix X is positive semidefinite. To see why, let us perform another transformation of returns. Consider the new matrix P with entires p i,j as",
+      "text": "We now show that the matrix X is positive semidefinite. To see why, let us perform another transformation of returns. Consider the new matrix P with entires p i,j as"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 267.4808600000001,
+            "t": 488.48608999999993,
+            "r": 344.6405692000002,
+            "b": 476.0937875599999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "p i,j = 1 -| f t,j | .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 248.64071000000018,
+            "t": 451.52631999999994,
+            "r": 363.3596592,
+            "b": 422.1712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "x i,j := n NN ij T = 〈 P i , P j 〉 T ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0007100000002,
+            "t": 463.1661899999999,
+            "r": 124.20068303467538,
+            "b": 451.1990347999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Therefore,",
+      "text": "Therefore,"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99920999999995,
+            "t": 418.16627000000005,
+            "r": 539.8138022587136,
+            "b": 391.79911480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "where 〈 P i , P j 〉 is the dot product of columns i and j of the matrix P corresponding to assets i and j . Hence,",
+      "text": "where 〈 P i , P j 〉 is the dot product of columns i and j of the matrix P corresponding to assets i and j . Hence,"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 275.27914999999996,
+            "t": 391.6104885400001,
+            "r": 336.71975920000006,
+            "b": 362.41119999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "X = P T P T ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99990000000003,
+            "t": 359.00626,
+            "r": 361.23985937722915,
+            "b": 347.03910479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "and is therefore positive semidefinite. We can thus write",
+      "text": "and is therefore positive semidefinite. We can thus write"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 104.76010000000002,
+            "t": 335.878408,
+            "r": 507.1593472,
+            "b": 300.02472320000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "g i,j = 〈 F i , F j 〉 T ( 1 + 〈 P i , P j 〉 T + 〈 P i , P j 〉 T 〈 P i , P j 〉 T + 〈 P i , P j 〉 T 〈 P i , P j 〉 T 〈 P i , P j 〉 T + ... )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.00031999999999,
+            "t": 295.4179525,
+            "r": 447.17484677529603,
+            "b": 282.1193048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Using the elementwise product ⊗ , we can now rewrite the matrix G (2) as",
+      "text": "Using the elementwise product ⊗ , we can now rewrite the matrix G (2) as"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 89.52015999999998,
+            "t": 259.1309885400001,
+            "r": 522.3990471999999,
+            "b": 222.50462319999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "G (2) = F T F T ⊗ ( 1 + P T P T + ( P T P T ) ⊗ P T P T + ( P T P T ⊗ P T P T ⊗ P T P T ) + ... )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99991999999997,
+            "t": 217.77760250000006,
+            "r": 539.3315702208798,
+            "b": 190.0793648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "By the Schur product lemma, since each of the terms of G (2) is positive semidefinite, G (2) must also be positive semidefinite. This finishes the proof.",
+      "text": "By the Schur product lemma, since each of the terms of G (2) is positive semidefinite, G (2) must also be positive semidefinite. This finishes the proof."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 150.89077999999995,
+            "r": 162.78622825426802,
+            "b": 135.39692000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 77.88008,
+            "t": 121.52629999999999,
+            "r": 540.1029158451197,
+            "b": 80.63924480000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "[1] Gerber, S., Markowitz, H.M., Ernst, P.A., Miao, Y , Javid, B., and Sargen, P. (2022) The Gerber statistic: a robust co-movement measure for portfolio optimization. The Journal of Portfolio Management , 48(3): 87-102",
+      "text": "Gerber, S., Markowitz, H.M., Ernst, P.A., Miao, Y , Javid, B., and Sargen, P. (2022) The Gerber statistic: a robust co-movement measure for portfolio optimization. The Journal of Portfolio Management , 48(3): 87-102",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.12008,
+            "t": 51.08609999999999,
+            "r": 308.9661728,
+            "b": 39.11894480000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

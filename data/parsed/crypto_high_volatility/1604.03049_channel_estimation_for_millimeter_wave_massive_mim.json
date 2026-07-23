@@ -1,0 +1,5487 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1604.03049_channel_estimation_for_millimeter_wave_massive_mim",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 145187207314476999,
+    "filename": "1604.03049_channel_estimation_for_millimeter_wave_massive_mim.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/160"
+      },
+      {
+        "$ref": "#/texts/161"
+      },
+      {
+        "$ref": "#/texts/162"
+      },
+      {
+        "$ref": "#/groups/2"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/96"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/163"
+        },
+        {
+          "$ref": "#/texts/164"
+        },
+        {
+          "$ref": "#/texts/165"
+        },
+        {
+          "$ref": "#/texts/166"
+        },
+        {
+          "$ref": "#/texts/167"
+        },
+        {
+          "$ref": "#/texts/168"
+        },
+        {
+          "$ref": "#/texts/169"
+        },
+        {
+          "$ref": "#/texts/170"
+        },
+        {
+          "$ref": "#/texts/171"
+        },
+        {
+          "$ref": "#/texts/172"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 590.84,
+            "r": 36.206559297218156,
+            "b": 252.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "arXiv:1604.03049v3  [cs.IT]  19 Oct 2023",
+      "text": "arXiv:1604.03049v3  [cs.IT]  19 Oct 2023",
+      "hyperlink": "http://arxiv.org/abs/1604.03049v3"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 566.04,
+            "t": 775.4743225999999,
+            "r": 569.526925,
+            "b": 769.2662175482558,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 61.91999999999996,
+            "t": 741.4090064000001,
+            "r": 550.1482,
+            "b": 706.4119625069768,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "Channel Estimation for Millimeter-Wave Massive MIMO with Hybrid Precoding over Frequency-Selective Fading Channels",
+      "text": "Channel Estimation for Millimeter-Wave Massive MIMO with Hybrid Precoding over Frequency-Selective Fading Channels",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 174.95999999999992,
+            "t": 694.1682164,
+            "r": 437.1193313669264,
+            "b": 684.412629105814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Zhen Gao, Linglong Dai, Chen Hu, and Zhaocheng Wang",
+      "text": "Zhen Gao, Linglong Dai, Chen Hu, and Zhaocheng Wang"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.48019999999991,
+            "t": 660.08463496,
+            "r": 300.1416771121966,
+            "b": 502.51892870063386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            983
+          ]
+        }
+      ],
+      "orig": "Abstract -Channel estimation for millimeter-wave (mmWave) massive MIMO with hybrid precoding is challenging, since the number of radio frequency (RF) chains is usually much smaller than that of antennas. To date, several channel estimation schemes have been proposed for mmWave massive MIMO over narrowband channels, while practical mmWave channels exhibit the frequency-selective fading (FSF). To this end, this letter proposes a multi-user uplink channel estimation scheme for mmWave massive MIMO over FSF channels. Specifically, by exploiting the angle-domain structured sparsity of mmWave FSF channels, a distributed compressive sensing (DCS)-based channel estimation scheme is proposed. Moreover, by using the grid matching pursuit strategy with adaptive measurement matrix, the proposed algorithm can solve the power leakage problem caused by the continuous angles of arrival or departure (AoA/AoD). Simulation results verify that the good performance of the proposed solution.",
+      "text": "Abstract -Channel estimation for millimeter-wave (mmWave) massive MIMO with hybrid precoding is challenging, since the number of radio frequency (RF) chains is usually much smaller than that of antennas. To date, several channel estimation schemes have been proposed for mmWave massive MIMO over narrowband channels, while practical mmWave channels exhibit the frequency-selective fading (FSF). To this end, this letter proposes a multi-user uplink channel estimation scheme for mmWave massive MIMO over FSF channels. Specifically, by exploiting the angle-domain structured sparsity of mmWave FSF channels, a distributed compressive sensing (DCS)-based channel estimation scheme is proposed. Moreover, by using the grid matching pursuit strategy with adaptive measurement matrix, the proposed algorithm can solve the power leakage problem caused by the continuous angles of arrival or departure (AoA/AoD). Simulation results verify that the good performance of the proposed solution."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.480399999999904,
+            "t": 490.52521495999986,
+            "r": 300.10591518396177,
+            "b": 472.5189587006339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "Index Terms -Millimeter-wave massive MIMO, frequencyselective fading, channel estimation, compressive sensing.",
+      "text": "Index Terms -Millimeter-wave massive MIMO, frequencyselective fading, channel estimation, compressive sensing."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 132.3603999999999,
+            "t": 461.41535463999986,
+            "r": 209.99370376326297,
+            "b": 452.54663568093014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "I. INTRODUCTION",
+      "text": "I. INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.48032999999992,
+            "t": 444.37555463999985,
+            "r": 300.3178654137431,
+            "b": 327.98643568093,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            572
+          ]
+        }
+      ],
+      "orig": "Millimeter-wave (mmWave) massive MIMO has been considered as a promising key technique for 5G since it can offer gigabit-per-second data rates [1]. For mmWave massive MIMO with the phase shifter network based hybrid precoding [1][3] or electromagnetic lens based beamspace MIMO [4], [5], the number of radio frequency (RF) chains is usually much smaller than that of antennas for reduced hardware cost and power consumption. However, such architectures will lead to the challenging channel estimation due to only a limited number of RF chains but hundreds of antennas [6].",
+      "text": "Millimeter-wave (mmWave) massive MIMO has been considered as a promising key technique for 5G since it can offer gigabit-per-second data rates [1]. For mmWave massive MIMO with the phase shifter network based hybrid precoding [1][3] or electromagnetic lens based beamspace MIMO [4], [5], the number of radio frequency (RF) chains is usually much smaller than that of antennas for reduced hardware cost and power consumption. However, such architectures will lead to the challenging channel estimation due to only a limited number of RF chains but hundreds of antennas [6]."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.480099999999936,
+            "t": 324.49535463999973,
+            "r": 300.33019911016635,
+            "b": 160.22653568092994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            833
+          ]
+        }
+      ],
+      "orig": "To date, several channel estimation schemes [6]-[8] have been proposed for mmWave massive MIMO with hybrid precoding. Specifically, the reference signal was designed in [6] for the estimation of angles of arrival or departure (AoA/AoD), but it assumes the discrete AoA/AoD. [7] proposed an adaptive channel estimation for mmWave massive MIMO, but it is limited to single-user scenario. [8] can directly estimate the singular subspace with Krylov subspace method, but multiple amplify-and-forward operations between the transmitter and receiver will introduce much noise. More importantly, existing schemes [6]-[8] only consider the narrow-band flat fading channel model, while the practical mmWave channels exhibit the broad-band frequency-selective fading (FSF) due to the very large bandwidth and different delays of multipath [9].",
+      "text": "To date, several channel estimation schemes [6]-[8] have been proposed for mmWave massive MIMO with hybrid precoding. Specifically, the reference signal was designed in [6] for the estimation of angles of arrival or departure (AoA/AoD), but it assumes the discrete AoA/AoD. [7] proposed an adaptive channel estimation for mmWave massive MIMO, but it is limited to single-user scenario. [8] can directly estimate the singular subspace with Krylov subspace method, but multiple amplify-and-forward operations between the transmitter and receiver will introduce much noise. More importantly, existing schemes [6]-[8] only consider the narrow-band flat fading channel model, while the practical mmWave channels exhibit the broad-band frequency-selective fading (FSF) due to the very large bandwidth and different delays of multipath [9]."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.48087000000001,
+            "t": 156.8550546399997,
+            "r": 300.24948392,
+            "b": 124.10663568092991,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.00091,
+            "t": 660.6151946399997,
+            "r": 569.8394805266361,
+            "b": 436.46627568093,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            180,
+            1303
+          ]
+        }
+      ],
+      "orig": "To this end, this letter proposes a multi-user uplink channel estimation scheme for mmWave massive MIMO systems, where the broad-band FSF channel is converted to multiple parallel narrow-band flat fading channels when OFDM is considered. Specifically, the mmWave channels exhibit the obviously angledomain sparsity due to the much higher path loss for nonline-of-sight (NLOS) paths than that for line-of-sight (LOS) paths [7]. Moreover, this sparsity is almost unchanged within the system bandwidth according to our derivation. By exploiting such angle-domain structured sparsity of mmWave FSF channels, we propose a distributed compressive sensing (DCS)-based channel estimation scheme, where both the transmit pilot signal and receive channel estimation algorithm are elaborated under the DCS theory for improved performance. By contrast, conventional scheme in [7] fails to leverage the structured sparsity of channels. Moreover, by using the grid matching pursuit strategy with adaptive measurement matrix, the proposed algorithm can solve the power leakage problem caused by the continuous AoA/AoD. Simulation results verify the good performance of the proposed scheme. To the best of our knowledge, this is the first paper to investigate the FSF channel estimation for mmWave massive MIMO systems.",
+      "text": "To this end, this letter proposes a multi-user uplink channel estimation scheme for mmWave massive MIMO systems, where the broad-band FSF channel is converted to multiple parallel narrow-band flat fading channels when OFDM is considered. Specifically, the mmWave channels exhibit the obviously angledomain sparsity due to the much higher path loss for nonline-of-sight (NLOS) paths than that for line-of-sight (LOS) paths [7]. Moreover, this sparsity is almost unchanged within the system bandwidth according to our derivation. By exploiting such angle-domain structured sparsity of mmWave FSF channels, we propose a distributed compressive sensing (DCS)-based channel estimation scheme, where both the transmit pilot signal and receive channel estimation algorithm are elaborated under the DCS theory for improved performance. By contrast, conventional scheme in [7] fails to leverage the structured sparsity of channels. Moreover, by using the grid matching pursuit strategy with adaptive measurement matrix, the proposed algorithm can solve the power leakage problem caused by the continuous AoA/AoD. Simulation results verify the good performance of the proposed scheme. To the best of our knowledge, this is the first paper to investigate the FSF channel estimation for mmWave massive MIMO systems."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.48086999999995,
+            "t": 110.62840435999976,
+            "r": 300.0150528274799,
+            "b": 76.65335097313925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            261
+          ]
+        }
+      ],
+      "orig": "This work was supported by the National Natural Science Foundation of China (Grant Nos. 61271266, 61571270, and 61302097), the Beijing Natural Science Foundation (Grant No. 4142027), and the Foundation of Shenzhen government. L. Dai is the corresponding author.",
+      "text": "This work was supported by the National Natural Science Foundation of China (Grant Nos. 61271266, 61571270, and 61302097), the Beijing Natural Science Foundation (Grant No. 4142027), and the Foundation of Shenzhen government. L. Dai is the corresponding author."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.48070999999999,
+            "t": 74.74832435999974,
+            "r": 300.01481447830724,
+            "b": 40.48792249999974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            284
+          ]
+        }
+      ],
+      "orig": "Z. Gao, L. Dai, C. Hu, and Z. Wang are with Tsinghua National Laboratory for Information Science and Technology (TNList), Department of Electronic Engineering, Tsinghua University, Beijing 100084, China (E-mails: gao-z11@mails.tsinghua.edu.cn; { daill,zcwang } @mail.tsinghua.edu.cn).",
+      "text": "Z. Gao, L. Dai, C. Hu, and Z. Wang are with Tsinghua National Laboratory for Information Science and Technology (TNList), Department of Electronic Engineering, Tsinghua University, Beijing 100084, China (E-mails: gao-z11@mails.tsinghua.edu.cn; { daill,zcwang } @mail.tsinghua.edu.cn)."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.0001299999999,
+            "t": 433.5751946399997,
+            "r": 569.8643112617352,
+            "b": 317.06657568092993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            620
+          ]
+        }
+      ],
+      "orig": "Notation : the boldface lower and upper-case symbols denote column vectors and matrices, respectively. The Moore-Penrose inversion, transpose, conjugate transpose, integer ceiling, and expectation operators are given by ( · ) † , ( · ) T , ( · ) ∗ , ⌈·⌉ , and E {·} , respectively. | Γ | is the cardinality of the set Γ . The support set of the vector a is denoted by supp { a } . ⊗ is the Kronecker product, and vect ( · ) is the vectorization operation according to the columns of the matrix. [ a ] i denotes the i th entry of the vector a , and [ A ] i,j denotes the i th-row and j th-column element of the matrix A .",
+      "text": "Notation : the boldface lower and upper-case symbols denote column vectors and matrices, respectively. The Moore-Penrose inversion, transpose, conjugate transpose, integer ceiling, and expectation operators are given by ( · ) † , ( · ) T , ( · ) ∗ , ⌈·⌉ , and E {·} , respectively. | Γ | is the cardinality of the set Γ . The support set of the vector a is denoted by supp { a } . ⊗ is the Kronecker product, and vect ( · ) is the vectorization operation according to the columns of the matrix. [ a ] i denotes the i th entry of the vector a , and [ A ] i,j denotes the i th-row and j th-column element of the matrix A ."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 397.92014999999975,
+            "t": 310.8153946399997,
+            "r": 483.5491970401686,
+            "b": 301.94667568092996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "II. SYSTEM MODEL",
+      "text": "II. SYSTEM MODEL",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.00016999999946,
+            "t": 295.8153946399997,
+            "r": 569.8222078103223,
+            "b": 179.4266656809299,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            601
+          ]
+        }
+      ],
+      "orig": "We consider a typical mmWave massive MIMO-OFDM system over FSF channels as shown in Fig. 1 [9], where the base station (BS) employs N BS a antennas but only N BS RF RF chains with N BS a ≫ N BS RF = K to support K user equipments (UEs), and each UE has N UE a antennas but only N UE RF RF chain with N UE a ≫ N UE RF = 1 . The hybrid analog-digital precoding at the BS can be used to realize the spatial multiplexing of multiple data streams with low hardware cost and energy consumption [9]. Particularly, the uplink FSF channel associated with the k th user in the delay domain can be modeled as [9]",
+      "text": "We consider a typical mmWave massive MIMO-OFDM system over FSF channels as shown in Fig. 1 [9], where the base station (BS) employs N BS a antennas but only N BS RF RF chains with N BS a ≫ N BS RF = K to support K user equipments (UEs), and each UE has N UE a antennas but only N UE RF RF chain with N UE a ≫ N UE RF = 1 . The hybrid analog-digital precoding at the BS can be used to realize the spatial multiplexing of multiple data streams with low hardware cost and energy consumption [9]. Particularly, the uplink FSF channel associated with the k th user in the delay domain can be modeled as [9]"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 367.56036999999947,
+            "t": 176.47106749999966,
+            "r": 569.5974813274066,
+            "b": 149.17865223999968,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "H d k ( τ ) = ∑ L k -1 l =0 H d l,k δ ( τ -τ l,k ) , (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.9999199999994,
+            "t": 154.47245999999973,
+            "r": 569.5035136244877,
+            "b": 129.65705749999972,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "where L k is the number of multipath, τ l,k is the delay of the l th path, H d l,k ∈ C N BS a × N UE a is given by",
+      "text": "where L k is the number of multipath, τ l,k is the delay of the l th path, H d l,k ∈ C N BS a × N UE a is given by"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 337.19992599999955,
+            "t": 127.03086749999977,
+            "r": 569.5970973274067,
+            "b": 113.45701749999978,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "H d l,k = α l,k a BS ( d sin( θ l,k ) /λ ) a ∗ UE ( d sin( ϕ l,k ) /λ ) , (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.9992059999993,
+            "t": 109.7126599999998,
+            "r": 569.7004152293,
+            "b": 39.98981999999978,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            373
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.48009999999999,
+            "t": 630.03218,
+            "r": 300.10375168751546,
+            "b": 596.5461256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            374,
+            515
+          ]
+        }
+      ],
+      "orig": "α l,k is the complex gain of the l th path, and θ l,k ∈ [0 , 2 π ] and ϕ l,k ∈ [0 , 2 π ] are azimuth AoA/AoD if we consider the typical uniform linear array (ULA). For path gains, we consider Rician fading channels consisting of one LOS path (the 0th path) and L k -1 NLOS paths (the l th path for 1 ≤ l ≤ L k -1 ), where path gains follow the mutually independent complex Gaussian distribution with zero means, and K factor denotes the ratio between the power of LOS path and the power of NLOS paths. In addition,",
+      "text": "α l,k is the complex gain of the l th path, and θ l,k ∈ [0 , 2 π ] and ϕ l,k ∈ [0 , 2 π ] are azimuth AoA/AoD if we consider the typical uniform linear array (ULA). For path gains, we consider Rician fading channels consisting of one LOS path (the 0th path) and L k -1 NLOS paths (the l th path for 1 ≤ l ≤ L k -1 ), where path gains follow the mutually independent complex Gaussian distribution with zero means, and K factor denotes the ratio between the power of LOS path and the power of NLOS paths. In addition,"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 566.04,
+            "t": 775.4743225999999,
+            "r": 569.526925,
+            "b": 769.2662175482558,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.4801,
+            "t": 645.7077943600001,
+            "r": 299.9526941505269,
+            "b": 638.6128209731396,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "Fig. 1. Illustration of a multi-user broad-band mmWave massive MIMO system.",
+      "text": "Fig. 1. Illustration of a multi-user broad-band mmWave massive MIMO system."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 222.55877410000002,
+            "t": 701.724,
+            "r": 231.07010378,
+            "b": 693.24658,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ă",
+      "text": "Ă"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 182.41687115,
+            "t": 721.18,
+            "r": 185.94907367,
+            "b": 717.6618699999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ă",
+      "text": "Ă"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 182.41687115,
+            "t": 663.915,
+            "r": 185.94907367,
+            "b": 660.3968699999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ă",
+      "text": "Ă"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 168.981,
+            "t": 739.67721334,
+            "r": 173.76226488,
+            "b": 732.1600016309798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "+",
+      "text": "+"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 168.854,
+            "t": 731.11521334,
+            "r": 173.63526488000002,
+            "b": 723.5980016309798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "+",
+      "text": "+"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 169.193,
+            "t": 659.99021334,
+            "r": 173.97426488000002,
+            "b": 652.4730016309798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "+",
+      "text": "+"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 159.3597741,
+            "t": 699.096,
+            "r": 167.87110378,
+            "b": 690.61858,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ă",
+      "text": "Ă"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.136,
+            "t": 704.96221334,
+            "r": 210.4869900944562,
+            "b": 697.4450016309797,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "RF",
+      "text": "RF"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 188.2676,
+            "t": 698.1805733399999,
+            "r": 224.51703498345697,
+            "b": 690.6633616309797,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "combining",
+      "text": "combining"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.67392633,
+            "t": 724.44313,
+            "r": 128.20612885,
+            "b": 720.925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ă",
+      "text": "Ă"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 134.59292633,
+            "t": 729.4881300000001,
+            "r": 138.12512885,
+            "b": 725.97,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ă",
+      "text": "Ă"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 92.8117741,
+            "t": 702.614,
+            "r": 101.32310378,
+            "b": 694.13658,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ă",
+      "text": "Ă"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 280.1627741,
+            "t": 699.13822,
+            "r": 288.67410378,
+            "b": 690.6608,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ă",
+      "text": "Ă"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 248.839,
+            "t": 729.50421334,
+            "r": 263.4252088385776,
+            "b": 721.9870016309798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "FFT",
+      "text": "FFT"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 220.948,
+            "t": 731.33340662,
+            "r": 242.1426610469643,
+            "b": 725.695502271902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Remove",
+      "text": "Remove"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 227.64488,
+            "t": 724.97520662,
+            "r": 235.41893191370824,
+            "b": 719.337302271902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "CP",
+      "text": "CP"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 199.45778,
+            "t": 732.8951733399999,
+            "r": 209.8087700944562,
+            "b": 725.3779616309797,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "RF",
+      "text": "RF"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 195.47340000000003,
+            "t": 726.11314334,
+            "r": 213.8439878327111,
+            "b": 718.5959316309797,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "chain",
+      "text": "chain"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 248.881,
+            "t": 670.92621334,
+            "r": 263.5096161148372,
+            "b": 663.4090016309798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "FFT",
+      "text": "FFT"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 221.075,
+            "t": 673.00940662,
+            "r": 242.26966104696425,
+            "b": 667.371502271902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Remove",
+      "text": "Remove"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 227.77227,
+            "t": 666.65120662,
+            "r": 235.54632191370823,
+            "b": 661.013302271902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "CP",
+      "text": "CP"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 199.45776999999998,
+            "t": 674.82585334,
+            "r": 209.80876009445618,
+            "b": 667.3086416309798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "RF",
+      "text": "RF"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 195.47339,
+            "t": 668.04382334,
+            "r": 213.84397783271106,
+            "b": 660.5266116309798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "chain",
+      "text": "chain"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 270.60878666,
+            "t": 728.2969326404823,
+            "r": 278.1259983690202,
+            "b": 663.576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Baseband precoder",
+      "text": "Baseband precoder"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.2066,
+            "t": 728.9962133399999,
+            "r": 74.62592771799432,
+            "b": 721.4790016309797,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "IFFT",
+      "text": "IFFT"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 100.611,
+            "t": 732.38721334,
+            "r": 111.00437295574622,
+            "b": 724.8700016309798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "RF",
+      "text": "RF"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 96.62662,
+            "t": 725.60518334,
+            "r": 114.98533037471945,
+            "b": 718.0879716309798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "chain",
+      "text": "chain"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 79.5445,
+            "t": 732.09640662,
+            "r": 90.52233345344659,
+            "b": 726.458502271902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Add",
+      "text": "Add"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 81.15544,
+            "t": 724.89093662,
+            "r": 88.92949191370826,
+            "b": 719.253032271902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "CP",
+      "text": "CP"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.67392633,
+            "t": 669.34013,
+            "r": 128.20612885,
+            "b": 665.822,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ă",
+      "text": "Ă"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 134.59292633,
+            "t": 674.42713,
+            "r": 138.12512885,
+            "b": 670.909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ă",
+      "text": "Ă"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 100.611,
+            "t": 677.32621334,
+            "r": 111.00437295574622,
+            "b": 669.8090016309798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "RF",
+      "text": "RF"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 96.62662,
+            "t": 670.54418334,
+            "r": 114.98533037471945,
+            "b": 663.0269716309798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "chain",
+      "text": "chain"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 79.5445,
+            "t": 677.03540662,
+            "r": 90.52233345344659,
+            "b": 671.397502271902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Add",
+      "text": "Add"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 81.15544,
+            "t": 669.82993662,
+            "r": 88.92949191370826,
+            "b": 664.192032271902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "CP",
+      "text": "CP"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.1641,
+            "t": 673.89321334,
+            "r": 74.58597898058846,
+            "b": 666.3760016309798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "IFFT",
+      "text": "IFFT"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.24008999999998,
+            "t": 590.04817632,
+            "r": 300.0778213274072,
+            "b": 547.3239648800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "a BS ( d sin( θ l,k ) λ ) = [ e j 2 πn BS d sin( θ l,k ) /λ ] T n BS ∈ [ 0 , 1 , ··· ,N BS a ] a UE ( d sin( ϕ l,k ) λ ) = [ e j 2 πn UE d sin( ϕ l,k ) /λ ] T n UE ∈ [ 0 , 1 , ··· ,N UE a ] (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.48018000000005,
+            "t": 541.3519300000002,
+            "r": 300.3304184186248,
+            "b": 519.3892900000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "are steering vectors at the BS and the k th user, respectively, where λ denotes the wavelength and d is the antenna spacing.",
+      "text": "are steering vectors at the BS and the k th user, respectively, where λ denotes the wavelength and d is the antenna spacing."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.31998000000004,
+            "t": 509.2947946400001,
+            "r": 278.10806524240894,
+            "b": 500.42607568093035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "III. DCS-BASED CHANNEL ESTIMATION SCHEME",
+      "text": "III. DCS-BASED CHANNEL ESTIMATION SCHEME",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.48039000000005,
+            "t": 494.1748946400001,
+            "r": 300.06134588742447,
+            "b": 473.42607568093035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "In this section, we propose a DCS-based channel estimation scheme to jointly estimate the FSF channels.",
+      "text": "In this section, we propose a DCS-based channel estimation scheme to jointly estimate the FSF channels."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.48039000000005,
+            "t": 460.6150935200001,
+            "r": 143.82162130539223,
+            "b": 451.94307487754037,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "A. Uplink Pilot Training",
+      "text": "A. Uplink Pilot Training",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.480050000000176,
+            "t": 445.5748946400001,
+            "r": 300.24973604245224,
+            "b": 353.0658456809304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            505
+          ]
+        }
+      ],
+      "orig": "We consider that the training sequences used for channel estimation adopt OFDM to combat the FSF channels, where lengths of cyclic prefix (CP) and discrete Fourier transform (DFT) are L CP > (max { τ l,k } L k -1 ,K l =0 ,k =1 -min { τ l,k } L k -1 ,K l =0 ,k =1 ) f s and P > L CP , respectively, where f s is the sampling rate. At the BS, after the CP removal and DFT operation, the received signal at the p th ( 1 ≤ p ≤ P ) subcarrier of the t th OFDM symbol in the frequency domain can be expressed as",
+      "text": "We consider that the training sequences used for channel estimation adopt OFDM to combat the FSF channels, where lengths of cyclic prefix (CP) and discrete Fourier transform (DFT) are L CP > (max { τ l,k } L k -1 ,K l =0 ,k =1 -min { τ l,k } L k -1 ,K l =0 ,k =1 ) f s and P > L CP , respectively, where f s is the sampling rate. At the BS, after the CP removal and DFT operation, the received signal at the p th ( 1 ≤ p ≤ P ) subcarrier of the t th OFDM symbol in the frequency domain can be expressed as"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.48019000000011,
+            "t": 346.3903675000002,
+            "r": 300.1044237441133,
+            "b": 262.9460556809306,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            470
+          ]
+        }
+      ],
+      "orig": "r ( t ) p = ( Z ( t ) RF Z ( t ) BB ,p ) ∗ ∑ K k =1 H f p,k F ( t ) RF ,k F ( t ) BB ,p,k s ( t ) p,k + v ( t ) p , (4) where r ( t ) p ∈ C N BS RF × 1 is the received signal dedicated to the p th pilot subcarrier in the t th OFDM symbol, Z ( t ) BB ,p ∈ C N BS RF × N BS RF is the digital combining matrix, Z ( t ) RF ∈ C N BS a × N BS RF is the RF combining matrix, Z ( t ) p = Z ( t ) RF Z ( t ) BB ,p ∈ C N BS a × N BS RF is the composite combining matrix at the BS,",
+      "text": "r ( t ) p = ( Z ( t ) RF Z ( t ) BB ,p ) ∗ ∑ K k =1 H f p,k F ( t ) RF ,k F ( t ) BB ,p,k s ( t ) p,k + v ( t ) p , (4) where r ( t ) p ∈ C N BS RF × 1 is the received signal dedicated to the p th pilot subcarrier in the t th OFDM symbol, Z ( t ) BB ,p ∈ C N BS RF × N BS RF is the digital combining matrix, Z ( t ) RF ∈ C N BS a × N BS RF is the RF combining matrix, Z ( t ) p = Z ( t ) RF Z ( t ) BB ,p ∈ C N BS a × N BS RF is the composite combining matrix at the BS,"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.281066000000195,
+            "t": 256.87054750000027,
+            "r": 300.0776733274072,
+            "b": 214.09810224000023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "H f p,k = ∑ L k -1 l =0 H d l,k e -j 2 πf s τ l,k p/P = ∑ L k -1 l =0 α l,k e -j 2 πfsτ l,k p P a BS ( d sin( θ l,k ) λ ) a ∗ UE ( d sin( ϕ l,k ) λ ) , (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.479397000000034,
+            "t": 211.69494464000002,
+            "r": 300.3428253485006,
+            "b": 88.2261256809303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            707
+          ]
+        }
+      ],
+      "orig": "denotes the frequency-domain channel matrix associated with the p th pilot subcarrier for the k th UE, F ( t ) RF ,k ∈ C N UE a × N UE RF , F ( t ) BB ,p,k ∈ C N UE RF × N UE RF , s ( t ) p,k ∈ C N UE RF × 1 are the RF precoding matrix, digital precoding matrix, and transmitted training sequence for the k th UE, respectively, f ( t ) p,k = F ( t ) RF ,k F ( t ) BB ,p,k s ( t ) p,k ∈ C N UE a × 1 is considered as the pilot signal transmitted by the k th user, and v ( t ) p is the additive white Gaussian noise (AWGN) at the BS. Note that RF precoding/combining is the same for all subcarriers, since the RF phase shifter network can provide constant phase shift response over a wide frequency range [9].",
+      "text": "denotes the frequency-domain channel matrix associated with the p th pilot subcarrier for the k th UE, F ( t ) RF ,k ∈ C N UE a × N UE RF , F ( t ) BB ,p,k ∈ C N UE RF × N UE RF , s ( t ) p,k ∈ C N UE RF × 1 are the RF precoding matrix, digital precoding matrix, and transmitted training sequence for the k th UE, respectively, f ( t ) p,k = F ( t ) RF ,k F ( t ) BB ,p,k s ( t ) p,k ∈ C N UE a × 1 is considered as the pilot signal transmitted by the k th user, and v ( t ) p is the additive white Gaussian noise (AWGN) at the BS. Note that RF precoding/combining is the same for all subcarriers, since the RF phase shifter network can provide constant phase shift response over a wide frequency range [9]."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.47963700000002,
+            "t": 85.09484464000002,
+            "r": 300.27464844944706,
+            "b": 39.29669750000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9993469999999,
+            "t": 744.99198,
+            "r": 569.5027169231931,
+            "b": 709.0167475000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            234,
+            401
+          ]
+        }
+      ],
+      "orig": "Since the path loss for NLOS paths is much larger than that for LOS paths in mmWave systems, the mmWave channels appear the obvious sparsity in the angular domain, which indicates small L k and large K factor in mmWave systems, e.g., L k = 4 and K factor = 20 dB [1]. Hence, we can transform the frequency-domain channel matrix H f p,k in (5) into the sparse angle-domain channel matrix H a p,k as [7]",
+      "text": "Since the path loss for NLOS paths is much larger than that for LOS paths in mmWave systems, the mmWave channels appear the obvious sparsity in the angular domain, which indicates small L k and large K factor in mmWave systems, e.g., L k = 4 and K factor = 20 dB [1]. Hence, we can transform the frequency-domain channel matrix H f p,k in (5) into the sparse angle-domain channel matrix H a p,k as [7]"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 392.6390469999999,
+            "t": 703.2702874999998,
+            "r": 569.5968783274071,
+            "b": 688.4964374999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "H a p,k = A ∗ BS H f p,k A UE , (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.999107,
+            "t": 682.3517305999999,
+            "r": 569.6098226287942,
+            "b": 631.4964374999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            255
+          ]
+        }
+      ],
+      "orig": "where A BS ∈ C N BS a × N BS a and A UE ∈ C N UE a × N UE a are the DFT matrices by quantizing the virtual angular domain with the resolutions of 2 π/N BS a at the BS and 2 π/N UE a at the user, respectively. By vectorizing H f p,k , we can further obtain",
+      "text": "where A BS ∈ C N BS a × N BS a and A UE ∈ C N UE a × N UE a are the DFT matrices by quantizing the virtual angular domain with the resolutions of 2 π/N BS a at the BS and 2 π/N UE a at the user, respectively. By vectorizing H f p,k , we can further obtain"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 320.99890700000003,
+            "t": 630.8786055999999,
+            "r": 569.5965183274074,
+            "b": 604.0981922399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "h f p,k =vect ( H f p,k ) =( A ∗ UE ) T ⊗ A BS vect ( H a p,k ) = Ah a p,k , (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99862699999994,
+            "t": 612.0384856000002,
+            "r": 569.6222556367147,
+            "b": 573.1463056809304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "where A = ( A ∗ UE ) T ⊗ A BS and h a p,k = vect ( H a p,k ) . Due to the sparsity of H a p,k , only a minority of elements of h a p,k dominate the majority of the channel energy, and thus we have",
+      "text": "where A = ( A ∗ UE ) T ⊗ A BS and h a p,k = vect ( H a p,k ) . Due to the sparsity of H a p,k , only a minority of elements of h a p,k dominate the majority of the channel energy, and thus we have"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 351.23842699999994,
+            "t": 566.1106675000002,
+            "r": 569.5961983274071,
+            "b": 535.6983322400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "| Θ p,k | = ∣ ∣ supp { h a p,k }∣ ∣ = S k ≪ N BS a N UE a , (8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9986369999999,
+            "t": 545.6722060000003,
+            "r": 569.700785342031,
+            "b": 499.1368235000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "where Θ p,k is the support set, and S k is the sparsity level in the angular domain. Note that if we consider the quantized AoA/AoD have the same resolutions as A UE and A BS , we have S k = L k [7].",
+      "text": "where Θ p,k is the support set, and S k is the sparsity level in the angular domain. Note that if we consider the quantized AoA/AoD have the same resolutions as A UE and A BS , we have S k = L k [7]."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 321.95884699999965,
+            "t": 497.17517064000026,
+            "r": 538.1143996877588,
+            "b": 488.30645168093054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "According to (6)-(8), (4) can be further expressed as",
+      "text": "According to (6)-(8), (4) can be further expressed as"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 330.47854699999925,
+            "t": 481.6305835000003,
+            "r": 569.5961123274063,
+            "b": 414.1767035000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "r ( t ) p = ( Z ( t ) p ) ∗ ∑ K k =1 A BS H a p,k A ∗ UE f ( t ) p,k + v ( t ) p = ( Z ( t ) p ) ∗ A BS ¯ H a p ¯ A ∗ UE ¯ f ( t ) p + v ( t ) p = ( ( ¯ A ∗ UE ¯ f ( t ) p ) T ⊗ ( Z ( t ) p ) ∗ A BS ) vect ( ¯ H a p ) + v ( t ) p = Ψ ( t ) p ¯ h a p + v ( t ) p , (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9985509999991,
+            "t": 407.8951106400002,
+            "r": 336.4619631688145,
+            "b": 399.0263916809305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 323.7584909999992,
+            "t": 400.2319566000003,
+            "r": 569.5954697340427,
+            "b": 330.5677183400005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            406
+          ]
+        }
+      ],
+      "orig": "¯ H a p = [ H a p, 1 , H a p, 2 , · · · , H a p,K ] ∈ C N BS a × KN UE a , ¯ A ∗ UE = diag { A ∗ UE , A ∗ UE , · · · , A ∗ UE } ∈ C KN UE a × KN UE a , ¯ f ( t ) p = [( f ( t ) p, 1 ) T , ( f ( t ) p, 2 ) T , · · · , ( f ( t ) p,K ) T ] T ∈ C KN UE a × 1 , ¯ h a p = vect ( ¯ H a p ) ∈ C KN BS a N UE a × 1 , Ψ ( t ) p = ( ¯ A ∗ UE ¯ f ( t ) p ) T ⊗ ( Z ( t ) p ) ∗ A BS ∈ C N BS RF × KN BS a N UE a . (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9977369999996,
+            "t": 329.6563086400005,
+            "r": 569.6474603452676,
+            "b": 284.5512040000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "Furthermore, we consider the mmWave channels remain unchanged in G successive OFDM symbols within the channel coherence time [7]. By jointly using the received pilot signals in G successive OFDM symbols, we can obtain",
+      "text": "Furthermore, we consider the mmWave channels remain unchanged in G successive OFDM symbols within the channel coherence time [7]. By jointly using the received pilot signals in G successive OFDM symbols, we can obtain"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 403.7978369999995,
+            "t": 284.1934840000005,
+            "r": 569.5952577340427,
+            "b": 269.93820150000056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "˜ r p = ˜ Ψ p ¯ h a p + ˜ v p , (11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9976849999995,
+            "t": 263.7120115000005,
+            "r": 569.4759869673393,
+            "b": 159.01859824000041,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            475
+          ]
+        }
+      ],
+      "orig": "where ˜ r p = [( r (1) p ) T , ( r (2) p ) T , · · · , ( r ( G ) p ) T ] T ∈ C GN BS RF × 1 is the aggregate received signal, ˜ Ψ p = [( Ψ (1) p ) T , ( Ψ (2) p ) T , · · · , ( Ψ ( G ) p ) T ] T ∈ C GN BS RF × KN BS a N UE a is the aggregate measurement matrix, and ˜ v p = [( v (1) p ) T , ( v (2) p ) T , · · · , ( v ( G ) p ) T ] T is aggregate AWGN. The system's SNR can be defined as SNR =E {∥ ∥ ∥ ˜ Ψ p ¯ h a p ∥ ∥ ∥ 2 2 }/ E {∥ ∥ ∥ ˜ v p ∥ ∥ ∥ 2 2 } according to (11).",
+      "text": "where ˜ r p = [( r (1) p ) T , ( r (2) p ) T , · · · , ( r ( G ) p ) T ] T ∈ C GN BS RF × 1 is the aggregate received signal, ˜ Ψ p = [( Ψ (1) p ) T , ( Ψ (2) p ) T , · · · , ( Ψ ( G ) p ) T ] T ∈ C GN BS RF × KN BS a N UE a is the aggregate measurement matrix, and ˜ v p = [( v (1) p ) T , ( v (2) p ) T , · · · , ( v ( G ) p ) T ] T is aggregate AWGN. The system's SNR can be defined as SNR =E {∥ ∥ ∥ ˜ Ψ p ¯ h a p ∥ ∥ ∥ 2 2 }/ E {∥ ∥ ∥ ˜ v p ∥ ∥ ∥ 2 2 } according to (11)."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9979509999993,
+            "t": 160.13570952000043,
+            "r": 456.05920351704515,
+            "b": 151.46369087754067,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "B. DCS-Based Channel Estimation",
+      "text": "B. DCS-Based Channel Estimation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99805899999933,
+            "t": 145.83274600000038,
+            "r": 569.8881746833596,
+            "b": 37.737193500000444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            575
+          ]
+        }
+      ],
+      "orig": "To accurately estimate channels from (11), G in conventional algorithms, such as the minimum mean square error (MMSE) algorithm, is heavily dependent on the dimension of ¯ h a p , i.e., KN UE a N BS a . Usually, GN BS RF ≥ KN UE a N BS a is required, which leads G to be much larger than the channel coherence time [7]. Fortunately, the sparsity of mmWave massive MIMO channels motivates us to leverage the CS theory to estimate channels with much reduced pilot overhead. Moreover, according to (5), it can be observed that { H f p,k } P p =1 share the same AoA/AoD, and thus",
+      "text": "To accurately estimate channels from (11), G in conventional algorithms, such as the minimum mean square error (MMSE) algorithm, is heavily dependent on the dimension of ¯ h a p , i.e., KN UE a N BS a . Usually, GN BS RF ≥ KN UE a N BS a is required, which leads G to be much larger than the channel coherence time [7]. Fortunately, the sparsity of mmWave massive MIMO channels motivates us to leverage the CS theory to estimate channels with much reduced pilot overhead. Moreover, according to (5), it can be observed that { H f p,k } P p =1 share the same AoA/AoD, and thus"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 566.04,
+            "t": 775.4743225999999,
+            "r": 569.526925,
+            "b": 769.2662175482558,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.48000000000002,
+            "t": 746.3501875000001,
+            "r": 300.06162412075906,
+            "b": 723.3858256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "{ h a p,k } P p =1 obtained after (6) and (7) have the structured sparsity within the system bandwidth, i.e.,",
+      "text": "{ h a p,k } P p =1 obtained after (6) and (7) have the structured sparsity within the system bandwidth, i.e.,"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.71986000000001,
+            "t": 716.1104475000002,
+            "r": 300.19739832557525,
+            "b": 691.3379022400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "supp { h a 1 ,k } =supp { h a 2 ,k } = · · · =supp { h a P,k } =Θ k . (12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.479850000000084,
+            "t": 694.5746346400002,
+            "r": 300.0906662134313,
+            "b": 625.9461356809304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            360
+          ]
+        }
+      ],
+      "orig": "Specifically, given (11) and the sparse constraints of (8) and (12), the channels can be estimated with standard DCS tool. However, due to the continuous AoA/AoD and the limited angle-domain resolution of A BS and A UE , the sparsity of ¯ h a p may be impaired due to the power leakage problem [7], which will result in the poor channel estimation performance.",
+      "text": "Specifically, given (11) and the sparse constraints of (8) and (12), the channels can be estimated with standard DCS tool. However, due to the continuous AoA/AoD and the limited angle-domain resolution of A BS and A UE , the sparsity of ¯ h a p may be impaired due to the power leakage problem [7], which will result in the poor channel estimation performance."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.47939100000028,
+            "t": 622.8148546400002,
+            "r": 300.3000563788333,
+            "b": 325.8457644833335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1572
+          ]
+        }
+      ],
+      "orig": "To this end, we propose a distributed grid matching pursuit (DGMP) algorithm as listed in Algorithm 1 including outer loop and inner loop. In each iteration of outer loop (steps 2.1-2.3 and 2.19-2.21), according to correlation operation (step 2.1), the UE index ˜ k (step 2.2) and adaptive measurement matrix ¯ Υ p (step 2.3) associated with the most possible path are acquired and input to inner loop; according to the output of inner loop, the ˜ k th UE's transmit/receive steering vectors are acquired (steps 2.192.20), and |K| UEs' LOS path gains and residue b p are updated (step 2.21). The iteration of outer loop stops when AoA/AoD and path gains of all K UEs' LOS paths are estimated. For inner loop (steps 2.4-2.18), the AoA/AoD estimation associated with the ˜ k th UE's LOS path is improved with the grid matching strategy. Specifically, according to the inputs ˜ k and ¯ Υ p from outer loop, AoA/AoD indices n BS and n UE of the most possible path are acquired (step 2.6), and the corresponding correlation value is recorded as β (step 2.5); we construct the local overcomplete measurement matrix ˜ Υ p (steps 2.7-2.11), where the local resolution of AoA associated with the index n BS and AoD associated with the index n UE is increased by (2 J -1) times; according to correlation operation (step 2.12), finer AoA/AoD indices m BS and m UE can be acquired (step 2.13); finally, ¯ Υ p is adaptively updated, where the grid of AoA/AoD candidates is adjusted according to m BS and m UE (step 2.14-2.18). The iteration of inner loop stops when | β last -β | < ε .",
+      "text": "To this end, we propose a distributed grid matching pursuit (DGMP) algorithm as listed in Algorithm 1 including outer loop and inner loop. In each iteration of outer loop (steps 2.1-2.3 and 2.19-2.21), according to correlation operation (step 2.1), the UE index ˜ k (step 2.2) and adaptive measurement matrix ¯ Υ p (step 2.3) associated with the most possible path are acquired and input to inner loop; according to the output of inner loop, the ˜ k th UE's transmit/receive steering vectors are acquired (steps 2.192.20), and |K| UEs' LOS path gains and residue b p are updated (step 2.21). The iteration of outer loop stops when AoA/AoD and path gains of all K UEs' LOS paths are estimated. For inner loop (steps 2.4-2.18), the AoA/AoD estimation associated with the ˜ k th UE's LOS path is improved with the grid matching strategy. Specifically, according to the inputs ˜ k and ¯ Υ p from outer loop, AoA/AoD indices n BS and n UE of the most possible path are acquired (step 2.6), and the corresponding correlation value is recorded as β (step 2.5); we construct the local overcomplete measurement matrix ˜ Υ p (steps 2.7-2.11), where the local resolution of AoA associated with the index n BS and AoD associated with the index n UE is increased by (2 J -1) times; according to correlation operation (step 2.12), finer AoA/AoD indices m BS and m UE can be acquired (step 2.13); finally, ¯ Υ p is adaptively updated, where the grid of AoA/AoD candidates is adjusted according to m BS and m UE (step 2.14-2.18). The iteration of inner loop stops when | β last -β | < ε ."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.47930100000016,
+            "t": 326.2936580000001,
+            "r": 300.30101029557545,
+            "b": 135.50563568093037,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            966
+          ]
+        }
+      ],
+      "orig": "With the joint process of ˜ Ψ p and b p for 1 ≤ p ≤ P , the DGMP algorithm exploits the structured sparsity for improved performance, which can be found in steps 2.1, 2.4, and 2.12. Moreover, the adaptive measurement matrix ¯ Υ p with grid matching pursuit strategy can achieve high resolution estimation of AoA/AoD. Additionally, the near-LOS mmWave channel property is exploited, where only K USs' LOS paths are estimated. Compared to the adaptive CS algorithm [7] estimating single sparse narrow-band channel from single received signal, the proposed DGMP algorithm jointly estimates multiple sparse subchannels from multiple received signals, whereby the angledomain structured sparsity of mmWave FSF channels is exploited for improved performance. Moreover, the grid matching pursuit strategy (steps 2.4-2.18) with adaptive ¯ Υ p can solve the problem of power leakage caused by the continuous AoA/AoD, which is different from the classical DCS algorithms [10].",
+      "text": "With the joint process of ˜ Ψ p and b p for 1 ≤ p ≤ P , the DGMP algorithm exploits the structured sparsity for improved performance, which can be found in steps 2.1, 2.4, and 2.12. Moreover, the adaptive measurement matrix ¯ Υ p with grid matching pursuit strategy can achieve high resolution estimation of AoA/AoD. Additionally, the near-LOS mmWave channel property is exploited, where only K USs' LOS paths are estimated. Compared to the adaptive CS algorithm [7] estimating single sparse narrow-band channel from single received signal, the proposed DGMP algorithm jointly estimates multiple sparse subchannels from multiple received signals, whereby the angledomain structured sparsity of mmWave FSF channels is exploited for improved performance. Moreover, the grid matching pursuit strategy (steps 2.4-2.18) with adaptive ¯ Υ p can solve the problem of power leakage caused by the continuous AoA/AoD, which is different from the classical DCS algorithms [10]."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.47938100000016,
+            "t": 127.61455352000007,
+            "r": 217.6628506105566,
+            "b": 118.94253487754042,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "C. Pilot Design According to DCS Theory",
+      "text": "C. Pilot Design According to DCS Theory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.47924100000009,
+            "t": 115.09315800000013,
+            "r": 300.2234983345236,
+            "b": 39.40536448333353,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            429
+          ]
+        }
+      ],
+      "orig": "The measurement matrices ˜ Ψ p , ∀ p in (11) are very important for guaranteeing the reliable channel estimation. Usually, we have GN BS RF ≪ KN UE a N BS a . Since ˜ Ψ p = [( Ψ (1) p ) T , ( Ψ (2) p ) T , · · · , ( Ψ ( G ) p ) T ] T , Ψ ( t ) p = ( ¯ A ∗ UE f ¯ ( t ) p ) T ⊗ ( Z ( t ) p ) ∗ A BS , ¯ A ∗ UE = diag { A ∗ UE , A ∗ UE , · · · , A ∗ UE } , and A UE , A BS are determined by the geometrical structure of the antenna",
+      "text": "The measurement matrices ˜ Ψ p , ∀ p in (11) are very important for guaranteeing the reliable channel estimation. Usually, we have GN BS RF ≪ KN UE a N BS a . Since ˜ Ψ p = [( Ψ (1) p ) T , ( Ψ (2) p ) T , · · · , ( Ψ ( G ) p ) T ] T , Ψ ( t ) p = ( ¯ A ∗ UE f ¯ ( t ) p ) T ⊗ ( Z ( t ) p ) ∗ A BS , ¯ A ∗ UE = diag { A ∗ UE , A ∗ UE , · · · , A ∗ UE } , and A UE , A BS are determined by the geometrical structure of the antenna"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.0,
+            "t": 746.69414688,
+            "r": 485.4909473720541,
+            "b": 737.6660256809301,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Algorithm 1 Proposed DGMP Algorithm.",
+      "text": "Algorithm 1 Proposed DGMP Algorithm.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.0,
+            "t": 733.356626,
+            "r": 569.6017049999999,
+            "b": 712.718635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "Input: Received signals ˜ r p and sensing matrices ˜ Ψ p in (11) ∀ p , AoA/AoD resolution factor J , and error threshold ε .",
+      "text": "Input: Received signals ˜ r p and sensing matrices ˜ Ψ p in (11) ∀ p , AoA/AoD resolution factor J , and error threshold ε ."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 339.3606400000002,
+            "t": 685.8434050000001,
+            "r": 343.3058428000002,
+            "b": 679.865825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "k",
+      "text": "k"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.00010999999995,
+            "t": 713.683255,
+            "r": 569.4212350900376,
+            "b": 681.8783950000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "Output: The steering vector estimation of k th UE's LOS path ˆ a k, LOS BS and ˆ a k, LOS UE , and the estimation set of path gains ˆ α ∈ C 1 × K , where [ ˆ α ] denotes the gain estimate of k th UE's LOS path.",
+      "text": "Output: The steering vector estimation of k th UE's LOS path ˆ a k, LOS BS and ˆ a k, LOS UE , and the estimation set of path gains ˆ α ∈ C 1 × K , where [ ˆ α ] denotes the gain estimate of k th UE's LOS path.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 320.2801700000002,
+            "t": 680.885005,
+            "r": 569.4813130000005,
+            "b": 642.4116124999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "· Step 1 ( Initialization ) The residue b p = ˜ r p , the iteration index k = 1 , [ ˜ Ψ p ] : ,j = [ ˜ Ψ p ] : ,j / ∥ ∥ ∥ ∥ [ ˜ Ψ p ] : ,j ∥ ∥ ∥ ∥ 2 for 1 ≤ j ≤ KN UE a N BS a , ∀ p , and the matrix Ξ p and set K are set to be empty.",
+      "text": "Step 1 ( Initialization ) The residue b p = ˜ r p , the iteration index k = 1 , [ ˜ Ψ p ] : ,j = [ ˜ Ψ p ] : ,j / ∥ ∥ ∥ ∥ [ ˜ Ψ p ] : ,j ∥ ∥ ∥ ∥ 2 for 1 ≤ j ≤ KN UE a N BS a , ∀ p , and the matrix Ξ p and set K are set to be empty.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 327.2398440000001,
+            "t": 630.9552796999998,
+            "r": 568.17289164,
+            "b": 298.038318700634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1688
+          ]
+        }
+      ],
+      "orig": "1. ρ =argmax ˜ ρ { ∑ P p =1 ∥ ∥ ∥ ∥ [( ˜ Ψ p ) ∗ b p ] ˜ ρ ∥ ∥ ∥ ∥ 2 2 , ⌈ ˜ ρ/ ( N UE a N BS a ) ⌉ / ∈ K } ; 2. ˜ k = ⌈ ρ/ ( N UE a N BS a ) ⌉ , K = K∪ ˜ k ; 3. ¯ Υ p = [ ˜ Ψ p ] ( ˜ k -1) N BS a N UE a +1: ˜ kN BS a N UE a , : ; repeat 4. ρ =argmax ˜ ρ { ∑ P p =1 ∥ ∥ ∥ ∥ [ ( ¯ Υ p ) ∗ b p ] ˜ ρ ∥ ∥ ∥ ∥ 2 2 } ; 5. β last = β , β = ∑ P p =1 ∥ ∥ ∥ ∥ [ ( ¯ Υ p ) ∗ b p ] ρ ∥ ∥ ∥ ∥ 2 2 ; 6. n UE = ⌈ ρ/N BS a ⌉ , n BS = ρ -( n UE -1) N BS a ; 7. ˜ A UE = [ a UE ( ( n UE + j UE 2 J ) /N UE a )] j UE ∈ [ -J, -J +1 , ··· ,J ] ; 8. ˜ A BS = [ a BS ( ( n BS + j BS 2 J ) /N BS a )] j BS ∈ [ -J, -J +1 , ··· ,J ] ; 9. ˜ Υ ( t ) p = ( ˜ A ∗ UE f ( t ) p, ˜ k ) T ⊗ ( Z ( t ) p ) ∗ ˜ A BS ; 10. ˜ Υ p = [( ˜ Υ (1) p ) T , ( ˜ Υ (2) p ) T , · · · , ( ˜ Υ ( G ) p ) T ] T ; 11. [ ˜ Υ p ] : ,j = [ ˜ Υ p ] : ,j / ∥ ∥ ∥ ∥ [ ˜ Υ p ] : ,j ∥ ∥ ∥ ∥ 2 , 1 ≤ j ≤ (2 J -1) 2 , ∀ p ; 12. η =argmax ˜ η { ∑ P p =1 ∥ ∥ ∥ ∥ [ ( ˜ Υ p ) ∗ b p ] ˜ η ∥ ∥ ∥ ∥ 2 2 } ; 13. m UE = ⌈ η/ (2 J -1) ⌉ , m BS = η -( m UE -1)(2 J -1) ; 14. ˜ A UE = [ a UE ( ( n UE + -J + m UE -1 2 J ) /N UE a )] n UE ∈ [ 0 , 1 , ··· ,N UE -1 ] ; 15. ˜ A BS = [ a BS ( ( n BS + -J + m BS -1 2 J ) /N BS a )] n BS ∈ [ 0 , 1 , ··· ,N BS -1 ] ; 16. Υ ( t ) p = ( ˜ A ∗ UE f ( t ) p, ˜ k ) T ⊗ ( Z ( t ) p ) ∗ ˜ A BS ; 17. Υ p = [( Υ (1) p ) T , ( Υ (2) p ) T , · · · , ( Υ ( G ) p ) T ] T ; 18. [ ¯ Υ p ] : ,j = [ Υ p ] : ,j / ∥ ∥ ∥ ∥ [ Υ p ] : ,j ∥ ∥ ∥ ∥ 2 , 1 ≤ j ≤ N UE a N BS a , ∀ p ; until | β last -β | < ε 19. ˆ a ˜ k, LOS BS = a BS (( n BS + -J + m BS -1 2 J ) /N BS a ) ; 20. ˆ a ˜ k, LOS UE = a UE (( n UE + -J + m UE -1 2 J ) /N UE a ) ; 21. Ξ p = [ Ξ p , [ Υ p ] : ,η ] , ˆ α K = ( Ξ p ) † ˜ r p , b p = ˜ r p -α K Ξ p ; end for",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 320.27977800000053,
+            "t": 644.6449049999998,
+            "r": 569.3859425400004,
+            "b": 625.7187549999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "· Step 2 ( Estimate steering vectors and gains of K UEs' LOS paths ) for k ≤ K do",
+      "text": "Step 2 ( Estimate steering vectors and gains of K UEs' LOS paths ) for k ≤ K do",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.0,
+            "t": 276.55015750000007,
+            "r": 569.5817303228264,
+            "b": 237.38573568093034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "arrays, both { f ( t ) p,k } P,K,G p =1 ,k =1 ,t =1 transmitted by the K users and { Z ( t ) p } P,G p =1 ,t =1 at the BS should be elaborated to guarantee the desired robust channel estimation.",
+      "text": "arrays, both { f ( t ) p,k } P,K,G p =1 ,k =1 ,t =1 transmitted by the K users and { Z ( t ) p } P,G p =1 ,t =1 at the BS should be elaborated to guarantee the desired robust channel estimation."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.00059000000005,
+            "t": 234.3747546400001,
+            "r": 569.6772562650513,
+            "b": 99.74583568093033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            754
+          ]
+        }
+      ],
+      "orig": "According to [10], a measurement matrix whose elements follow an independent identically distributed (i.i.d.) Gaussian distribution can achieve the good performance for sparse signal recovery. Furthermore, diversifying measurement matrices ˜ Ψ p , ∀ p can further improve the recovery performance of sparse signals according to DCS theory [10]. This enlightens us to appropriately design pilot signals for mmWave massive MIMO systems. Specifically, as discussed above, Z ( t ) p = Z ( t ) RF Z ( t ) BB ,p , f ( t ) p,k = F ( t ) RF ,k F ( t ) BB ,p,k s ( t ) p,k = F ( t ) RF ,k ˜ s ( t ) p,k if we define ˜ s ( t ) p,k = F ( t ) BB ,p,k s ( t ) p,k ( 1 ≤ k ≤ K , 1 ≤ t ≤ G , 1 ≤ p ≤ P ). Hence, we propose that each element of pilot signals is given by",
+      "text": "According to [10], a measurement matrix whose elements follow an independent identically distributed (i.i.d.) Gaussian distribution can achieve the good performance for sparse signal recovery. Furthermore, diversifying measurement matrices ˜ Ψ p , ∀ p can further improve the recovery performance of sparse signals according to DCS theory [10]. This enlightens us to appropriately design pilot signals for mmWave massive MIMO systems. Specifically, as discussed above, Z ( t ) p = Z ( t ) RF Z ( t ) BB ,p , f ( t ) p,k = F ( t ) RF ,k F ( t ) BB ,p,k s ( t ) p,k = F ( t ) RF ,k ˜ s ( t ) p,k if we define ˜ s ( t ) p,k = F ( t ) BB ,p,k s ( t ) p,k ( 1 ≤ k ≤ K , 1 ≤ t ≤ G , 1 ≤ p ≤ P ). Hence, we propose that each element of pilot signals is given by"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 329.2813800000001,
+            "t": 99.39169060000006,
+            "r": 543.0368463000004,
+            "b": 32.06941979999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            268
+          ]
+        }
+      ],
+      "orig": "[ Z ( t ) RF ] i 1 ,j 1 = e jφ 1 i 1 ,j 1 ,t , 1 ≤ i 1 ≤ N BS a , 1 ≤ j 1 ≤ N BS RF , [ F ( t ) RF ,k ] i 2 ,j 2 = e jφ 2 i 2 ,j 2 ,t,k , 1 ≤ i 2 ≤ N UE a , 1 ≤ j 2 ≤ N UE RF , [ Z ( t ) BB ,p ] i 4 ,j 4 = e jφ 4 i 4 ,j 4 ,p,t , 1 ≤ i 4 ≤ N BS RF , 1 ≤ j 4 ≤ N BS RF ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 566.04,
+            "t": 775.4743225999999,
+            "r": 569.526925,
+            "b": 769.2662175482558,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.48009999999999,
+            "t": 576.4677943600001,
+            "r": 299.8159476760546,
+            "b": 560.3728209731396,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "Fig. 2. Comparison of spectral efficiency performance of different channel estimation schemes against the training overhead G and SNR.",
+      "text": "Fig. 2. Comparison of spectral efficiency performance of different channel estimation schemes against the training overhead G and SNR."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 76.2766,
+            "t": 597.16289082,
+            "r": 82.96082088,
+            "b": 591.60272507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 97.966,
+            "t": 597.16289082,
+            "r": 104.65022087999999,
+            "b": 591.60272507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 119.706,
+            "t": 597.16289082,
+            "r": 126.39022088,
+            "b": 591.60272507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "30",
+      "text": "30"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 141.446,
+            "t": 597.16289082,
+            "r": 148.13022088,
+            "b": 591.60272507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "40",
+      "text": "40"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 163.185,
+            "t": 597.16289082,
+            "r": 169.86922088,
+            "b": 591.60272507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "50",
+      "text": "50"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 184.925,
+            "t": 597.16289082,
+            "r": 191.60922088,
+            "b": 591.60272507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "60",
+      "text": "60"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 206.665,
+            "t": 597.16289082,
+            "r": 213.34922088,
+            "b": 591.60272507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "70",
+      "text": "70"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 228.405,
+            "t": 597.16289082,
+            "r": 235.08922088,
+            "b": 591.60272507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "80",
+      "text": "80"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 250.144,
+            "t": 597.16289082,
+            "r": 256.82822088,
+            "b": 591.60272507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "90",
+      "text": "90"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 270.181,
+            "t": 597.16289082,
+            "r": 280.20733132,
+            "b": 591.60272507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 74.5234,
+            "t": 602.22189082,
+            "r": 77.86551044,
+            "b": 596.66172507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 74.5234,
+            "t": 619.1028908200001,
+            "r": 77.86551044,
+            "b": 613.5427250700001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 74.5234,
+            "t": 635.98389082,
+            "r": 77.86551044,
+            "b": 630.42372507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 74.5234,
+            "t": 652.8138908200001,
+            "r": 77.86551044,
+            "b": 647.2537250700001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 74.5234,
+            "t": 669.6948908200001,
+            "r": 77.86551044,
+            "b": 664.1347250700001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.1672,
+            "t": 686.5258908200001,
+            "r": 77.85142087999999,
+            "b": 680.9657250700001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.1672,
+            "t": 703.4068908200001,
+            "r": 77.85142087999999,
+            "b": 697.84672507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.1672,
+            "t": 720.2378908200001,
+            "r": 77.85142087999999,
+            "b": 714.6777250700001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "14",
+      "text": "14"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.1672,
+            "t": 737.11889082,
+            "r": 77.85142087999999,
+            "b": 731.55872507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "16",
+      "text": "16"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.1672,
+            "t": 753.9488908200001,
+            "r": 77.85142087999999,
+            "b": 748.3887250700001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "18",
+      "text": "18"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 136.637,
+            "t": 589.99989082,
+            "r": 212.47164984,
+            "b": 584.43972507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Required Training Overhead",
+      "text": "Required Training Overhead"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 211.2233,
+            "t": 589.99989082,
+            "r": 217.57090544,
+            "b": 584.43972507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "G",
+      "text": "G"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 62.743909179999996,
+            "t": 723.7556860500006,
+            "r": 68.30407493,
+            "b": 628.211,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Spectral Efficiency (bit/channel use)",
+      "text": "Spectral Efficiency (bit/channel use)"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 215.932,
+            "t": 628.5698908200001,
+            "r": 257.69635852000005,
+            "b": 623.0097250700001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Adaptive CS [7]",
+      "text": "Adaptive CS [7]"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 215.932,
+            "t": 620.10489082,
+            "r": 261.36306242,
+            "b": 614.54472507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Proposed DGMP",
+      "text": "Proposed DGMP"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 215.932,
+            "t": 611.6888908200001,
+            "r": 255.35808341,
+            "b": 606.1287250700001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Ideal AoA/AoD",
+      "text": "Ideal AoA/AoD"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 181.168,
+            "t": 726.1988908200001,
+            "r": 196.87471687000001,
+            "b": 720.6387250700001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "20 dB",
+      "text": "20 dB"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 185.777,
+            "t": 697.6458908200001,
+            "r": 201.48371687,
+            "b": 692.0857250700001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "10 dB",
+      "text": "10 dB"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 228.204,
+            "t": 665.08689082,
+            "r": 240.56860643000002,
+            "b": 659.52672507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0 dB",
+      "text": "0 dB"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.12026000000002,
+            "t": 555.1520205999999,
+            "r": 300.1977643255752,
+            "b": 535.8293397999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "[ ˜ s ( t ) p,k ] i 3 = e jφ 3 i 3 ,p,t,k , 1 ≤ i 3 ≤ N UE RF , (13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.48008599999997,
+            "t": 529.9025465499999,
+            "r": 300.2764159498591,
+            "b": 410.42605568093023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            640
+          ]
+        }
+      ],
+      "orig": "where φ 1 i 1 ,j 1 ,t , φ 2 i 2 ,j 2 ,t,k , φ 3 i 3 ,p,t,k , and φ 4 i 4 ,j 4 ,p,t follow the i.i.d. uniform distribution U [0 , 2 π ) . Note that elements of RF precoding/combining matrices should meet the constant modulus property, and different subcarriers share the same RF precoding/combining. It is readily seen that the designed pilot signals guarantee that the elements of ˜ Ψ p obey the i.i.d. complex Gaussian distribution with zero mean. Moreover, ˜ Ψ p with different p are diversified. Hence, the proposed pilot signal design is optimal in terms of the joint recovery of multi-user's sparse angle-domain channels in the uplink.",
+      "text": "where φ 1 i 1 ,j 1 ,t , φ 2 i 2 ,j 2 ,t,k , φ 3 i 3 ,p,t,k , and φ 4 i 4 ,j 4 ,p,t follow the i.i.d. uniform distribution U [0 , 2 π ) . Note that elements of RF precoding/combining matrices should meet the constant modulus property, and different subcarriers share the same RF precoding/combining. It is readily seen that the designed pilot signals guarantee that the elements of ˜ Ψ p obey the i.i.d. complex Gaussian distribution with zero mean. Moreover, ˜ Ψ p with different p are diversified. Hence, the proposed pilot signal design is optimal in terms of the joint recovery of multi-user's sparse angle-domain channels in the uplink."
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.4810159999999,
+            "t": 400.69477463999993,
+            "r": 228.11194826594195,
+            "b": 391.8260556809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "IV. SIMULATION RESULTS",
+      "text": "IV. SIMULATION RESULTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.48071599999997,
+            "t": 384.37447463999996,
+            "r": 300.3314206120346,
+            "b": 267.9857556809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            557
+          ]
+        }
+      ],
+      "orig": "In this section, we investigate the performance of the proposed DCS-based channel estimation. In simulations, carrier frequency f c = 30 GHz, f s = 0 . 25 GHz, the maximum delay spread τ max = 100 ns, L CP = τ max f s = 25 , P = 32 , N UE a = 32 , N UE RF = 1 , N BS a = 128 , N BS RF = 4 , d = λ/ 2 , K factor = 20 dB, J = 10 , ε = 10 -3 , K = 4 , L k = 4 for 1 ≤ k ≤ K . The case with the ideal AoD/AoD known at the BS is used as the performance benchmark for comparison. The adaptive CS-based channel estimation scheme [7] is also adopted for comparison.",
+      "text": "In this section, we investigate the performance of the proposed DCS-based channel estimation. In simulations, carrier frequency f c = 30 GHz, f s = 0 . 25 GHz, the maximum delay spread τ max = 100 ns, L CP = τ max f s = 25 , P = 32 , N UE a = 32 , N UE RF = 1 , N BS a = 128 , N BS RF = 4 , d = λ/ 2 , K factor = 20 dB, J = 10 , ε = 10 -3 , K = 4 , L k = 4 for 1 ≤ k ≤ K . The case with the ideal AoD/AoD known at the BS is used as the performance benchmark for comparison. The adaptive CS-based channel estimation scheme [7] is also adopted for comparison."
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.48091599999992,
+            "t": 264.61467464,
+            "r": 300.4645436169259,
+            "b": 64.46575568093022,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1025
+          ]
+        }
+      ],
+      "orig": "Fig. 2 investigates the downlink spectral efficiency (bit per channel use [bpcu]) by using the hybrid analog-digital precoding scheme in [3], where the channels were estimated by the adaptive CS scheme [7] and the proposed DGMP algorithm. The case with ideal AoA/AoD was adopted as the performance bound. From Fig. 2, it can be observed that the adaptive CS scheme performs poorly, since it does not exploit the structured sparsity of mmWave massive MIMO channels. In contrast, the proposed DGMP algorithm can approach the performance bound with ideal AoA/AoD when G ≥ 20 . This is because the proposed DCS-based channel estimation scheme can leverage the angledomain structured sparsity of mmWave FSF channels within the system bandwidth. By contrast, to approach the performance bound, the conventional adaptive CS algorithm requires larger G , e.g., G > 90 is required at SNR = 0 dB. Hence, the proposed scheme can substantially reduce the required training overhead for FSF channel estimation compared to its counterpart.",
+      "text": "Fig. 2 investigates the downlink spectral efficiency (bit per channel use [bpcu]) by using the hybrid analog-digital precoding scheme in [3], where the channels were estimated by the adaptive CS scheme [7] and the proposed DGMP algorithm. The case with ideal AoA/AoD was adopted as the performance bound. From Fig. 2, it can be observed that the adaptive CS scheme performs poorly, since it does not exploit the structured sparsity of mmWave massive MIMO channels. In contrast, the proposed DGMP algorithm can approach the performance bound with ideal AoA/AoD when G ≥ 20 . This is because the proposed DCS-based channel estimation scheme can leverage the angledomain structured sparsity of mmWave FSF channels within the system bandwidth. By contrast, to approach the performance bound, the conventional adaptive CS algorithm requires larger G , e.g., G > 90 is required at SNR = 0 dB. Hence, the proposed scheme can substantially reduce the required training overhead for FSF channel estimation compared to its counterpart."
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.48091599999995,
+            "t": 61.21457464000002,
+            "r": 300.07815120980234,
+            "b": 39.989169999999945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "Fig. 3 compares the downlink bit error rate (BER) performance, where 16-QAM is used, and G for adaptive CS",
+      "text": "Fig. 3 compares the downlink bit error rate (BER) performance, where 16-QAM is used, and G for adaptive CS"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.0,
+            "t": 580.06779436,
+            "r": 569.7300162919396,
+            "b": 509.5460256809303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "Fig. 3. BER performance comparison of different channel estimation schemes. algorithm and DGMP algorithm are 40, and 30, respectively. It can be observed that the proposed channel estimation scheme outperforms its counterpart with reduced training overhead, and its BER performance is very close to the performance bound with ideal AoA/AoD.",
+      "text": "Fig. 3. BER performance comparison of different channel estimation schemes. algorithm and DGMP algorithm are 40, and 30, respectively. It can be observed that the proposed channel estimation scheme outperforms its counterpart with reduced training overhead, and its BER performance is very close to the performance bound with ideal AoA/AoD."
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 351.882,
+            "t": 600.6159767,
+            "r": 355.1877814,
+            "b": 595.1162504499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 400.141,
+            "t": 600.6159767,
+            "r": 403.4467814,
+            "b": 595.1162504499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 446.765,
+            "t": 600.6159767,
+            "r": 453.3765628,
+            "b": 595.1162504499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 495.023,
+            "t": 600.6159767,
+            "r": 501.6345628,
+            "b": 595.1162504499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 543.282,
+            "t": 600.6159767,
+            "r": 549.8935628,
+            "b": 595.1162504499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 340.238,
+            "t": 605.6199767,
+            "r": 346.8495628,
+            "b": 600.12025045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 346.82784,
+            "t": 607.86378686,
+            "r": 350.35163153,
+            "b": 604.19729961,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "-4",
+      "text": "-4"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 340.238,
+            "t": 646.1989767,
+            "r": 346.8495628,
+            "b": 640.6992504499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 346.82784,
+            "t": 648.44239686,
+            "r": 350.35163153,
+            "b": 644.77590961,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "-3",
+      "text": "-3"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 340.238,
+            "t": 686.7779767000001,
+            "r": 346.8495628,
+            "b": 681.27825045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 346.82784,
+            "t": 689.02178686,
+            "r": 350.35163153,
+            "b": 685.35529961,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "-2",
+      "text": "-2"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 340.238,
+            "t": 727.3579767000001,
+            "r": 346.8495628,
+            "b": 721.85825045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 346.82784,
+            "t": 729.6013968600001,
+            "r": 350.35163153,
+            "b": 725.9349096100001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "-1",
+      "text": "-1"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 437.004,
+            "t": 593.5309767,
+            "r": 462.4394907,
+            "b": 588.0312504499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "SNR (dB)",
+      "text": "SNR (dB)"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 331.9070233,
+            "t": 684.6762563999998,
+            "r": 337.40674955,
+            "b": 672.452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "BER",
+      "text": "BER"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 477.583,
+            "t": 748.2169767,
+            "r": 520.5462668999999,
+            "b": 742.7172504499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Adaptive CS [7],",
+      "text": "Adaptive CS [7],"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 525.6435,
+            "t": 748.2169767,
+            "r": 531.9221064,
+            "b": 742.7172504499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "G",
+      "text": "G"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 531.88647,
+            "t": 748.2169767,
+            "r": 541.9702924000001,
+            "b": 742.7172504499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "=40",
+      "text": "=40"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 477.583,
+            "t": 740.8839767000001,
+            "r": 524.1731133999999,
+            "b": 735.38425045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Proposed DGMP,",
+      "text": "Proposed DGMP,"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 523.4139,
+            "t": 740.8839767000001,
+            "r": 529.6925064,
+            "b": 735.38425045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "G",
+      "text": "G"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 529.65687,
+            "t": 740.8839767000001,
+            "r": 539.7406924000001,
+            "b": 735.38425045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "=30",
+      "text": "=30"
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 477.583,
+            "t": 733.5509767000001,
+            "r": 516.5805183499999,
+            "b": 728.05125045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Ideal AoA/AoD",
+      "text": "Ideal AoA/AoD"
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 402.4801,
+            "t": 504.37494464,
+            "r": 478.79066738631974,
+            "b": 495.5062256809303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "V. CONCLUSIONS",
+      "text": "V. CONCLUSIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.00004,
+            "t": 489.25464464000004,
+            "r": 569.6107854986117,
+            "b": 336.8659256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            744
+          ]
+        }
+      ],
+      "orig": "In this paper, we have proposed a DCS-based uplink channel estimation scheme for the multi-user mmWave massive MIMO, which can effectively combat mmWave FSF channels. Specifically, we have designed an efficient pilot scheme and proposed a reliable DGMP algorithm under the framework of DCS theory, whereby the angle-domain structured sparsity of mmWave FSF channels is exploited for the reduced training overhead. Moreover, by using the grid matching pursuit strategy with adaptive measurement matrix, the proposed algorithm can effectively solve the power leakage problem. Simulation results have confirmed that our scheme can accurately estimate the FSF channels in mmWave massive MIMO with much lower pilot overhead than the existing scheme.",
+      "text": "In this paper, we have proposed a DCS-based uplink channel estimation scheme for the multi-user mmWave massive MIMO, which can effectively combat mmWave FSF channels. Specifically, we have designed an efficient pilot scheme and proposed a reliable DGMP algorithm under the framework of DCS theory, whereby the angle-domain structured sparsity of mmWave FSF channels is exploited for the reduced training overhead. Moreover, by using the grid matching pursuit strategy with adaptive measurement matrix, the proposed algorithm can effectively solve the power leakage problem. Simulation results have confirmed that our scheme can accurately estimate the FSF channels in mmWave massive MIMO with much lower pilot overhead than the existing scheme."
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 412.80004,
+            "t": 331.6948446399999,
+            "r": 468.59157767540285,
+            "b": 322.8261256809302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.96012,
+            "t": 315.58769435999994,
+            "r": 569.4253507861333,
+            "b": 290.4927209731395,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "[1] X. Gao, L. Dai, S. Han, C.-L. I, and R. Heath, 'Energy efficient hybrid analog and digital precoding for mmWave MIMO systems with large antenna arrays,' to appear in IEEE J. Sel. Areas Commun.",
+      "text": "X. Gao, L. Dai, S. Han, C.-L. I, and R. Heath, 'Energy efficient hybrid analog and digital precoding for mmWave MIMO systems with large antenna arrays,' to appear in IEEE J. Sel. Areas Commun.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.9593199999999,
+            "t": 288.7076143599999,
+            "r": 569.4590533373379,
+            "b": 263.6126409731395,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "[2] Z. Gao, L. Dai, D. Mi, Z. Wang, M. Imran, and M. Shakir, 'MmWave massive MIMO based wireless backhaul for 5G ultra-dense network,' IEEE Wireless Commun. , vol. 22, no. 5, pp. 13-21, Oct. 2015.",
+      "text": "Z. Gao, L. Dai, D. Mi, Z. Wang, M. Imran, and M. Shakir, 'MmWave massive MIMO based wireless backhaul for 5G ultra-dense network,' IEEE Wireless Commun. , vol. 22, no. 5, pp. 13-21, Oct. 2015.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.95961999999986,
+            "t": 261.82792436,
+            "r": 569.4246552652501,
+            "b": 236.7329509731395,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "[3] A. Alkhateeb, G. Leus, and R. W. Heath, 'Limited feedback hybrid precoding for multi-user millimeter wave systems,' IEEE Trans. Wireless Commun. , vol. 14, no. 11, pp. 1536-1276, Jul. 2015.",
+      "text": "A. Alkhateeb, G. Leus, and R. W. Heath, 'Limited feedback hybrid precoding for multi-user millimeter wave systems,' IEEE Trans. Wireless Commun. , vol. 14, no. 11, pp. 1536-1276, Jul. 2015.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.9595199999998,
+            "t": 234.82792436,
+            "r": 569.4713271720024,
+            "b": 200.8528709731395,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        }
+      ],
+      "orig": "[4] J. Brady, N. Behdad, and A. M. Sayeed, 'Beamspace MIMO for millimeter-wave communications: System architecture, modeling, analysis, and measurements,' IEEE Trans. Antennas Propag. , vol. 61, no. 7, pp. 3814-3827, Jul. 2013.",
+      "text": "J. Brady, N. Behdad, and A. M. Sayeed, 'Beamspace MIMO for millimeter-wave communications: System architecture, modeling, analysis, and measurements,' IEEE Trans. Antennas Propag. , vol. 61, no. 7, pp. 3814-3827, Jul. 2013.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.95941999999985,
+            "t": 199.06776435999996,
+            "r": 569.472218810647,
+            "b": 174.06639030693998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "[5] Y. Zeng and R. Zhang, 'Millimeter wave MIMO with lens antenna array: A new path division multiplexing paradigm,' to appear in IEEE Trans. Commun.",
+      "text": "Y. Zeng and R. Zhang, 'Millimeter wave MIMO with lens antenna array: A new path division multiplexing paradigm,' to appear in IEEE Trans. Commun.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.9597199999999,
+            "t": 172.06776435999996,
+            "r": 569.4711780832522,
+            "b": 147.09271097313945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "[6] S. Han, C.-L. I, Z. Xu, and S. Wang, 'Reference signals design for hybrid analog and digital beamforming,' IEEE Commun. Lett. , vol. 18, no. 7, pp. 1191-1193, Jul. 2014.",
+      "text": "S. Han, C.-L. I, Z. Xu, and S. Wang, 'Reference signals design for hybrid analog and digital beamforming,' IEEE Commun. Lett. , vol. 18, no. 7, pp. 1191-1193, Jul. 2014.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.9591199999999,
+            "t": 145.18768435999993,
+            "r": 569.3501461596877,
+            "b": 120.21263097313954,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "[7] A. Alkhateeb, O. E. Ayach, G. Leus, and R. W. Heath, 'Channel estimation and hybrid precoding for millimeter wave cellular systems,' IEEE J. Sel. Topics Signal Process. , vol. 8, no. 5, pp. 831-846, Oct. 2014.",
+      "text": "A. Alkhateeb, O. E. Ayach, G. Leus, and R. W. Heath, 'Channel estimation and hybrid precoding for millimeter wave cellular systems,' IEEE J. Sel. Topics Signal Process. , vol. 8, no. 5, pp. 831-846, Oct. 2014.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.9582599999999,
+            "t": 118.30760436000003,
+            "r": 569.5116801276922,
+            "b": 93.33294097313956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "[8] H. Ghauch, M. Bengtsson, T. Kim, and M. Skoglund, 'Subspace estimation and decomposition for hybrid analog-digital millimetre-wave MIMO systems,' in Proc. IEEE SPWAC'15, Sep. 2015, pp. 395-399.",
+      "text": "H. Ghauch, M. Bengtsson, T. Kim, and M. Skoglund, 'Subspace estimation and decomposition for hybrid analog-digital millimetre-wave MIMO systems,' in Proc. IEEE SPWAC'15, Sep. 2015, pp. 395-399.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.95795999999996,
+            "t": 91.42791435999993,
+            "r": 569.470444179177,
+            "b": 66.42654030693996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[9] A. Alkhateeb and R. W. Heath, 'Frequency selective hybrid precoding for limited feedback millimeter wave systems,' to appear in IEEE Trans. Commun.",
+      "text": "A. Alkhateeb and R. W. Heath, 'Frequency selective hybrid precoding for limited feedback millimeter wave systems,' to appear in IEEE Trans. Commun.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.99816,
+            "t": 64.54783436000002,
+            "r": 569.1116875,
+            "b": 48.452860973139536,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "[10] Y. Eldar and G. Kutyniok, Compressed Sensing: Theory and Applications , Cambridge University Press, May, 2012.",
+      "text": "Y. Eldar and G. Kutyniok, Compressed Sensing: Theory and Applications , Cambridge University Press, May, 2012.",
+      "enumerated": true,
+      "marker": "[10]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 50.106868743896484,
+            "t": 746.3777885437012,
+            "r": 290.1809997558594,
+            "b": 648.4205627441406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.90887451171875,
+            "t": 755.3503952026367,
+            "r": 280.6333923339844,
+            "b": 584.1615142822266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/101"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        },
+        {
+          "$ref": "#/texts/154"
+        },
+        {
+          "$ref": "#/texts/155"
+        },
+        {
+          "$ref": "#/texts/156"
+        },
+        {
+          "$ref": "#/texts/157"
+        },
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 329.04150390625,
+            "t": 755.8952484130859,
+            "r": 551.3482666015625,
+            "b": 587.5712738037109,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/137"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    }
+  }
+}

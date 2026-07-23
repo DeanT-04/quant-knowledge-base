@@ -1,0 +1,3903 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1907.10046_trading_via_image_classification",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 437323416191119828,
+    "filename": "1907.10046_trading_via_image_classification.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/groups/3"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 579.74,
+            "r": 36.206559297218156,
+            "b": 232.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "arXiv:1907.10046v3  [cs.CV]  26 Oct 2020",
+      "text": "arXiv:1907.10046v3  [cs.CV]  26 Oct 2020"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 179.277,
+            "t": 707.7715948,
+            "r": 432.2056567999998,
+            "b": 692.5103538556998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Trading via Image Classification",
+      "text": "Trading via Image Classification",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 82.752,
+            "t": 684.0149875000001,
+            "r": 201.94454639999998,
+            "b": 631.3856118,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "Naftali Cohen ∗ J. P. Morgan AI Research New York, NY naftali.cohen@jpmchase.com",
+      "text": "Naftali Cohen ∗ J. P. Morgan AI Research New York, NY naftali.cohen@jpmchase.com"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.79800000000006,
+            "t": 620.8119147999998,
+            "r": 111.94350300000005,
+            "b": 611.7445275647057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "ABSTRACT",
+      "text": "ABSTRACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.467,
+            "t": 610.3502000000001,
+            "r": 295.5628195839999,
+            "b": 389.7396352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1330
+          ]
+        }
+      ],
+      "orig": "The art of systematic financial trading evolved with an array of approaches, ranging from simple strategies to complex algorithms, all relying primarily on aspects of time-series analysis (e.g., Murphy, 1999; De Prado, 2018; Tsay, 2005). After visiting the trading floor of a leading financial institution, we noticed that traders always execute their trade orders while observing images of financial time-series on their screens. In this work, we build upon image recognition's success (e.g., Krizhevsky et al., 2012; Szegedy et al., 2015; Zeiler and Fergus, 2014; Wang et al., 2017; Koch et al., 2015; LeCun et al., 2015) and examine the value of transforming the traditional time-series analysis to that of image classification. We create a large sample of financial time-series images encoded as candlestick (Box and Whisker) charts and label the samples following three algebraically-defined binary trade strategies (Murphy, 1999). Using the images, we train over a dozen machine-learning classification models and find that the algorithms efficiently recover the complicated, multiscale label-generating rules when the data is visually represented. We suggest that the transformation of continuous numeric time-series classification problem to a vision problem is useful for recovering signals typical of technical analysis.",
+      "text": "The art of systematic financial trading evolved with an array of approaches, ranging from simple strategies to complex algorithms, all relying primarily on aspects of time-series analysis (e.g., Murphy, 1999; De Prado, 2018; Tsay, 2005). After visiting the trading floor of a leading financial institution, we noticed that traders always execute their trade orders while observing images of financial time-series on their screens. In this work, we build upon image recognition's success (e.g., Krizhevsky et al., 2012; Szegedy et al., 2015; Zeiler and Fergus, 2014; Wang et al., 2017; Koch et al., 2015; LeCun et al., 2015) and examine the value of transforming the traditional time-series analysis to that of image classification. We create a large sample of financial time-series images encoded as candlestick (Box and Whisker) charts and label the samples following three algebraically-defined binary trade strategies (Murphy, 1999). Using the images, we train over a dozen machine-learning classification models and find that the algorithms efficiently recover the complicated, multiscale label-generating rules when the data is visually represented. We suggest that the transformation of continuous numeric time-series classification problem to a vision problem is useful for recovering signals typical of technical analysis."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.798,
+            "t": 377.1659148,
+            "r": 115.6635061,
+            "b": 368.0985275647059,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "KEYWORDS",
+      "text": "KEYWORDS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.798,
+            "t": 366.7042,
+            "r": 203.42928320000004,
+            "b": 354.31263520000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "finance, images, supervised classification",
+      "text": "finance, images, supervised classification"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.503,
+            "t": 346.7502228,
+            "r": 140.4966415,
+            "b": 340.12566321176473,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "ACMReference Format:",
+      "text": "ACMReference Format:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.798,
+            "t": 340.7483625,
+            "r": 295.2686972540001,
+            "b": 299.8456843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "Naftali Cohen, Tucker Balch, and Manuela Veloso. 2020. Trading via Image Classification. In ACM International Conference on AI in Finance (ICAIF '20), October 15-16, 2020, New York, NY, USA. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3383455.3422544",
+      "text": "Naftali Cohen, Tucker Balch, and Manuela Veloso. 2020. Trading via Image Classification. In ACM International Conference on AI in Finance (ICAIF '20), October 15-16, 2020, New York, NY, USA. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3383455.3422544"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.798,
+            "t": 285.9749148,
+            "r": 156.5289947,
+            "b": 276.9075275647059,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 INTRODUCTION",
+      "text": "1 INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.529,
+            "t": 275.5122,
+            "r": 295.560111168,
+            "b": 208.32663520000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            409
+          ]
+        }
+      ],
+      "orig": "Traders in the financial markets execute buy and sell orders of financial instruments as stocks, mutual funds, bonds, and options daily. They execute orders while reading news reports and earning calls. Concurrently, they observe charts of time-series data that indicates the historical value of securities and leading financial indices (see Fig. 1 for a typical workstation of a professional trader 1 ). Many",
+      "text": "Traders in the financial markets execute buy and sell orders of financial instruments as stocks, mutual funds, bonds, and options daily. They execute orders while reading news reports and earning calls. Concurrently, they observe charts of time-series data that indicates the historical value of securities and leading financial indices (see Fig. 1 for a typical workstation of a professional trader 1 ). Many"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.672,
+            "t": 201.25643749999995,
+            "r": 294.1804927080001,
+            "b": 182.43873340000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "1 The photo was taken in a trading room at Rouen, Normandie, France, September 2015.",
+      "text": "1 The photo was taken in a trading room at Rouen, Normandie, France, September 2015."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.798,
+            "t": 173.79352500000005,
+            "r": 294.81043586,
+            "b": 116.3347334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            575
+          ]
+        }
+      ],
+      "orig": "Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for components of this work owned by others than ACM must be honored. Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from permissions@acm.org.",
+      "text": "Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for components of this work owned by others than ACM must be honored. Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from permissions@acm.org."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.798,
+            "t": 113.96270800000002,
+            "r": 194.43165079999986,
+            "b": 107.8125378275862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "ICAIF '20, October 15-16, 2020, New York, NY, USA",
+      "text": "ICAIF '20, October 15-16, 2020, New York, NY, USA"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.553999999999995,
+            "t": 100.468525,
+            "r": 180.4632124,
+            "b": 90.83073339999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "ACM ISBN 978-1-4503-7584-9/20/10...$15.00",
+      "text": "ACM ISBN 978-1-4503-7584-9/20/10...$15.00"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.317,
+            "t": 108.43852500000003,
+            "r": 185.52605939999987,
+            "b": 98.80073340000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "© 2020 Association for Computing Machinery.",
+      "text": "© 2020 Association for Computing Machinery."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.797999999999995,
+            "t": 92.49852499999997,
+            "r": 166.9409312,
+            "b": 82.86073339999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "https://doi.org/10.1145/3383455.3422544",
+      "text": "https://doi.org/10.1145/3383455.3422544",
+      "hyperlink": "https://doi.org/10.1145/3383455.3422544"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 248.64000000000001,
+            "t": 683.2616,
+            "r": 364.3555989999999,
+            "b": 631.3856117999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 406.02000000000004,
+            "t": 683.2615999999999,
+            "r": 535.2747724000001,
+            "b": 631.3856117999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            77,
+            157
+          ]
+        }
+      ],
+      "orig": "Tucker Balch J. P. Morgan AI Research New York, NY tucker.balch@jpmchase.com Manuela Veloso J. P. Morgan AI Research New York, NY manuela.veloso@jpmchase.com",
+      "text": "Tucker Balch J. P. Morgan AI Research New York, NY tucker.balch@jpmchase.com Manuela Veloso J. P. Morgan AI Research New York, NY manuela.veloso@jpmchase.com"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.686,
+            "t": 624.0482000000001,
+            "r": 559.7137119360001,
+            "b": 523.9856351999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            610
+          ]
+        }
+      ],
+      "orig": "algorithms have been developed to analyze continuous financial time-series data to improve a trader's decision-making ability to buy or sell a particular security (Murphy, 1999). Conventional algorithms process time-series data as a list of numerical data, aiming at detecting patterns as trends, cycles, correlations, etc. (e.g., De Prado, 2018; Tsay, 2005). If a pattern is identified, the analyst can then construct an algorithm that will use the detected pattern (e.g., Wilks, 2011) to predict the expected future values of the sequence at hand (i.e., forecasting using exponential smoothing models, etc.).",
+      "text": "algorithms have been developed to analyze continuous financial time-series data to improve a trader's decision-making ability to buy or sell a particular security (Murphy, 1999). Conventional algorithms process time-series data as a list of numerical data, aiming at detecting patterns as trends, cycles, correlations, etc. (e.g., De Prado, 2018; Tsay, 2005). If a pattern is identified, the analyst can then construct an algorithm that will use the detected pattern (e.g., Wilks, 2011) to predict the expected future values of the sequence at hand (i.e., forecasting using exponential smoothing models, etc.)."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.623,
+            "t": 525.4182000000001,
+            "r": 559.1917598592,
+            "b": 403.43763520000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            689
+          ]
+        }
+      ],
+      "orig": "Experienced traders, who observe financial time-series charts and execute buy and sell orders, start developing an intuition for market opportunities. The intuition they develop based on their chart observations nearly reflects the recommendations that their state-of-the-art model provides (personal communication with J.P. Morgan's financial experts Jason Hunter, Joshua Younger, Alix Floman, and Veronica Bustamante). In this perspective, financial time-series analysis can be thought of as a visual process. That is, when experienced traders look at a time-series data, they process and act upon the image instead of mentally exercising algebraic operations on the sequence of numbers.",
+      "text": "Experienced traders, who observe financial time-series charts and execute buy and sell orders, start developing an intuition for market opportunities. The intuition they develop based on their chart observations nearly reflects the recommendations that their state-of-the-art model provides (personal communication with J.P. Morgan's financial experts Jason Hunter, Joshua Younger, Alix Floman, and Veronica Bustamante). In this perspective, financial time-series analysis can be thought of as a visual process. That is, when experienced traders look at a time-series data, they process and act upon the image instead of mentally exercising algebraic operations on the sequence of numbers."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.955,
+            "t": 244.02989920000005,
+            "r": 559.7339760000002,
+            "b": 225.61823849411758,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "Figure 1: Typical workstation of a professional trader. Credit: Photoagriculture / Shutterstock.com.",
+      "text": "Figure 1: Typical workstation of a professional trader. Credit: Photoagriculture / Shutterstock.com."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.955,
+            "t": 215.28719999999998,
+            "r": 559.7131739519997,
+            "b": 82.34863519999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            793
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.574,
+            "t": 708.4382,
+            "r": 295.03133329919996,
+            "b": 674.1286352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            794,
+            935
+          ]
+        }
+      ],
+      "orig": "This paper is written under the assumption that, given public knowledge, markets are efficient (e.g., Pedersen, 2019). That is, future market movements have almost no predictability. However, the way professionals trade is systematic (e.g., consistent, backtested, and potentially profitable for a short duration) and can be characterized using a set of rules. We ask, can we build a system that identifies and replicates the way humans trade? For this, we create extensive financial time-series image data. We make use of three known label-generating rules following algebraically-defined binary trade strategies (Murphy, 1999) to replicate the way people trade. Using a supervised classification approach (e.g., Bishop, 2006; Goodfellow et al., 2016; Aggarwal, 2015), we evaluate predictions using over 15 different classifiers and show that the models are very efficient in identifying the complicated, sometimes multiscale, labels.",
+      "text": "This paper is written under the assumption that, given public knowledge, markets are efficient (e.g., Pedersen, 2019). That is, future market movements have almost no predictability. However, the way professionals trade is systematic (e.g., consistent, backtested, and potentially profitable for a short duration) and can be characterized using a set of rules. We ask, can we build a system that identifies and replicates the way humans trade? For this, we create extensive financial time-series image data. We make use of three known label-generating rules following algebraically-defined binary trade strategies (Murphy, 1999) to replicate the way people trade. Using a supervised classification approach (e.g., Bishop, 2006; Goodfellow et al., 2016; Aggarwal, 2015), we evaluate predictions using over 15 different classifiers and show that the models are very efficient in identifying the complicated, sometimes multiscale, labels."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.798,
+            "t": 729.2347866,
+            "r": 201.25202719999996,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "ICAIF '20, October 15-16, 2020, New York, NY, USA",
+      "text": "ICAIF '20, October 15-16, 2020, New York, NY, USA"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 513.764,
+            "t": 729.2347866,
+            "r": 558.2010536000001,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Cohen N., et al.",
+      "text": "Cohen N., et al."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.798,
+            "t": 659.5369148000001,
+            "r": 217.15086339999996,
+            "b": 637.5185275647059,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "2 RELATED WORK AND MAIN CONTRIBUTIONS",
+      "text": "2 RELATED WORK AND MAIN CONTRIBUTIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.529,
+            "t": 636.1232,
+            "r": 295.5615457919999,
+            "b": 514.1426352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            689
+          ]
+        }
+      ],
+      "orig": "The focus of this work is on the representation of financial timeseries data as images. Previous work on time-series classification suggests first transforming the data either locally using wavelets or globally using Fourier transforms and then compare the modes of variability in the transformed spaces (e.g., Wilks, 2011). Other methods apply similarity metrics such as Euclidean distance, k-nearest neighbors, dynamic time warping, or even Pearson correlations to separate the classes (e.g., Aggarwal, 2015). In addition to the above, other techniques focus on manual feature engineering to detect a frequently occurring pattern or shape in the time series (e.g., Bagnall et al., 2017).",
+      "text": "The focus of this work is on the representation of financial timeseries data as images. Previous work on time-series classification suggests first transforming the data either locally using wavelets or globally using Fourier transforms and then compare the modes of variability in the transformed spaces (e.g., Wilks, 2011). Other methods apply similarity metrics such as Euclidean distance, k-nearest neighbors, dynamic time warping, or even Pearson correlations to separate the classes (e.g., Aggarwal, 2015). In addition to the above, other techniques focus on manual feature engineering to detect a frequently occurring pattern or shape in the time series (e.g., Bagnall et al., 2017)."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.798,
+            "t": 405.9862,
+            "r": 295.56299995519987,
+            "b": 327.84163520000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            430
+          ]
+        }
+      ],
+      "orig": "In this paper, we examine the value of images alone for identifying trade opportunities typical for technical analysis. To the best of our knowledge, our work is the first that built upon the great success in image recognition and tries to systematically apply it to numeric time-series classification by taking a direct graphical approach and recency-biased label-generating rules. The contributions of this paper are as follows:",
+      "text": "In this paper, we examine the value of images alone for identifying trade opportunities typical for technical analysis. To the best of our knowledge, our work is the first that built upon the great success in image recognition and tries to systematically apply it to numeric time-series classification by taking a direct graphical approach and recency-biased label-generating rules. The contributions of this paper are as follows:"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.798,
+            "t": 515.5752,
+            "r": 295.5614487680001,
+            "b": 404.55363520000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            623
+          ]
+        }
+      ],
+      "orig": "More recently, it was suggested to approach time-series classification by first encoding the data as images and then utilize the power of computer vision algorithms for classification (Park et al., 2019). In an example, it was suggested to encode the time dependency, implicitly, as Gramian-Angular fields, Markov-Transition fields (Wang and Oates, 2015a; Wang and Oates, 2015b), or make use of recurrence plots (Souza et al., 2014; Silva et al., 2013; Hatami et al., 2018) as a graphical representation. Another work focused on transforming financial data into images to classify candlesticks patterns (Tsai et al., 2019).",
+      "text": "More recently, it was suggested to approach time-series classification by first encoding the data as images and then utilize the power of computer vision algorithms for classification (Park et al., 2019). In an example, it was suggested to encode the time dependency, implicitly, as Gramian-Angular fields, Markov-Transition fields (Wang and Oates, 2015a; Wang and Oates, 2015b), or make use of recurrence plots (Souza et al., 2014; Silva et al., 2013; Hatami et al., 2018) as a graphical representation. Another work focused on transforming financial data into images to classify candlesticks patterns (Tsai et al., 2019)."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.708,
+            "t": 324.8772,
+            "r": 295.56401299200013,
+            "b": 246.73163520000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            382
+          ]
+        }
+      ],
+      "orig": "(1) The first contribution is bridging the unrelated areas of quantitative finance and computer vision. The former involves a mixture of technical, quantitative analysis, and financial knowledge, while the second involves advanced algorithm design and computer science techniques. In this paper, we show how the two distinct areas can leverage expertise and methods from each other.",
+      "text": "The first contribution is bridging the unrelated areas of quantitative finance and computer vision. The former involves a mixture of technical, quantitative analysis, and financial knowledge, while the second involves advanced algorithm design and computer science techniques. In this paper, we show how the two distinct areas can leverage expertise and methods from each other.",
+      "enumerated": true,
+      "marker": "(1)"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.708,
+            "t": 127.61619999999994,
+            "r": 294.0494087040001,
+            "b": 82.34863519999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "(3) The third contribution is that we show that the concept of visual time-series classification is effective and works on real data. A large fraction of the artificial-intelligence research is conceptual and works only on synthetic data. As will be",
+      "text": "The third contribution is that we show that the concept of visual time-series classification is effective and works on real data. A large fraction of the artificial-intelligence research is conceptual and works only on synthetic data. As will be",
+      "enumerated": true,
+      "marker": "(3)"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.708,
+            "t": 248.16419999999994,
+            "r": 295.56437164799996,
+            "b": 126.18363520000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            662
+          ]
+        }
+      ],
+      "orig": "(2) The second contribution is our understanding that, in practice, there are financial domains in which investment decisions are made using visual representations alone (e.g., swap trade) - relying, in fact, on traders' intuition, experience, skill, and luck. Moreover, currently, numerous online platforms and smartphone applications (e.g., Robinhood) allow people to trade directly from their smartphones. In these platforms, the data is presented graphically, and in most cases, the user decides and executes his trade upon the visual representation alone. Therefore, it's reasonable to examine the usefulness of visual representations as input to the model.",
+      "text": "The second contribution is our understanding that, in practice, there are financial domains in which investment decisions are made using visual representations alone (e.g., swap trade) - relying, in fact, on traders' intuition, experience, skill, and luck. Moreover, currently, numerous online platforms and smartphone applications (e.g., Robinhood) allow people to trade directly from their smartphones. In these platforms, the data is presented graphically, and in most cases, the user decides and executes his trade upon the visual representation alone. Therefore, it's reasonable to examine the usefulness of visual representations as input to the model.",
+      "enumerated": true,
+      "marker": "(2)"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 342.364,
+            "t": 708.4382,
+            "r": 558.4318239999997,
+            "b": 663.1696352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "shown, the concepts introduced in this paper are not only effective on real data, but they can be leveraged to deploy immediately as either a marketing recommendation tool and/or as a forecasting tool.",
+      "text": "shown, the concepts introduced in this paper are not only effective on real data, but they can be leveraged to deploy immediately as either a marketing recommendation tool and/or as a forecasting tool."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.955,
+            "t": 650.3099148000001,
+            "r": 447.7514718000001,
+            "b": 641.2425275647059,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "3 DATA AND METHODS",
+      "text": "3 DATA AND METHODS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.955,
+            "t": 639.8472,
+            "r": 558.4307994239995,
+            "b": 572.6616352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            361
+          ]
+        }
+      ],
+      "orig": "In this study, we use Yahoo finance to analyze the daily values of all companies that contribute to the S&P 500 index for the period 2010-2018 (hereafter SP500 data). These are large-cap companies that are actively traded on the American stock exchanges, and their capitalization covers the vast majority of the American equity market (e.g., Berk et al., 2013).",
+      "text": "In this study, we use Yahoo finance to analyze the daily values of all companies that contribute to the S&P 500 index for the period 2010-2018 (hereafter SP500 data). These are large-cap companies that are actively traded on the American stock exchanges, and their capitalization covers the vast majority of the American equity market (e.g., Berk et al., 2013)."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 327.725,
+            "t": 368.9578992,
+            "r": 548.432936,
+            "b": 361.50523849411763,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Figure 2: Converting continuous time series to images.",
+      "text": "Figure 2: Converting continuous time series to images."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.623,
+            "t": 346.7942,
+            "r": 559.7173433280002,
+            "b": 115.22463519999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1359
+          ]
+        }
+      ],
+      "orig": "Trading is done continuously (during trade hours which usually span between 9:30 am to 4:00 pm, not including before- and aftermarket hours). However, we use a discrete form of the continuous data by accounting only for the start, max, min, and end values per stock per day. These values are denoted, as is common in finance, as the Open, High, Low, and Close (OHLC) values (e.g., Murphy, 1999). We visualize the data using a box-and-whisker (also called candlestick) diagram, where box edges mark the Open and Close price, while the whiskers mark the Low and High values (i.e., daily min and max). The color of each box reveals whether the Open price finalized higher or lower than the Close price for the same day; if Open > Close the box in filled in black indicating Bear's market, whereas if Open < Close the box is filled in white indicating Bull's market (e.g., Murphy, 1999). Figure 2 shows an example of this process by focusing attention on the AAPL ticker for Feb 19, 2019, and Feb 28, 2019. The left columns show the 1-minute continuous trading data during trading hours, while the right column detail the discretization process. Notice that the upper left time-series experiences a positive trend resulting in a white candlestick visualization, while the bottom left time-series data experiences a negative trend resulting in a black candlestick.",
+      "text": "Trading is done continuously (during trade hours which usually span between 9:30 am to 4:00 pm, not including before- and aftermarket hours). However, we use a discrete form of the continuous data by accounting only for the start, max, min, and end values per stock per day. These values are denoted, as is common in finance, as the Open, High, Low, and Close (OHLC) values (e.g., Murphy, 1999). We visualize the data using a box-and-whisker (also called candlestick) diagram, where box edges mark the Open and Close price, while the whiskers mark the Low and High values (i.e., daily min and max). The color of each box reveals whether the Open price finalized higher or lower than the Close price for the same day; if Open > Close the box in filled in black indicating Bear's market, whereas if Open < Close the box is filled in white indicating Bull's market (e.g., Murphy, 1999). Figure 2 shows an example of this process by focusing attention on the AAPL ticker for Feb 19, 2019, and Feb 28, 2019. The left columns show the 1-minute continuous trading data during trading hours, while the right column detail the discretization process. Notice that the upper left time-series experiences a positive trend resulting in a white candlestick visualization, while the bottom left time-series data experiences a negative trend resulting in a black candlestick."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.623,
+            "t": 116.65719999999999,
+            "r": 559.1849479679997,
+            "b": 82.34863519999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.798,
+            "t": 708.4382,
+            "r": 294.28064975360013,
+            "b": 663.1696352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            195,
+            418
+          ]
+        }
+      ],
+      "orig": "We compare three well-known binary indicators (Murphy, 1999), where each indicator is based on prescribed algebraic rules that depend solely on the Close values. Each indicator alerts the trader only for a buying opportunity. If a trader decides to follow (one of) the signals they may do so at any point no earlier than the day after the opportunity signal was created. The three \"buy\" signals are defined as follows:",
+      "text": "We compare three well-known binary indicators (Murphy, 1999), where each indicator is based on prescribed algebraic rules that depend solely on the Close values. Each indicator alerts the trader only for a buying opportunity. If a trader decides to follow (one of) the signals they may do so at any point no earlier than the day after the opportunity signal was created. The three \"buy\" signals are defined as follows:"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.61,
+            "t": 729.2347866,
+            "r": 146.05469279999994,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Trading via Image Classification",
+      "text": "Trading via Image Classification"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 410.747,
+            "t": 729.2347866,
+            "r": 558.2010272000002,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "ICAIF '20, October 15-16, 2020, New York, NY, USA",
+      "text": "ICAIF '20, October 15-16, 2020, New York, NY, USA"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 69.765,
+            "t": 662.0382000000001,
+            "r": 295.02934656,
+            "b": 529.0986352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            661
+          ]
+        }
+      ],
+      "orig": "· BB crossing: The Bollinger Bands (BB) of a given time-series consists of two symmetric bands of 20-days moving two standard deviations (Colby and Meyers, 1988). The bands envelop the inherent stock volatility while filtering the noise in the price action. Traders use the price bands as bounds for trade activity around the price trend (Murphy, 1999). Hence, when prices approach the lower band or go below, prices are considered to be in an oversold position and trigger a buying opportunity. Here, the bands are computed using the (adjusted) Close values, and hence a buy signal is defined to trigger when the daily Close value crosses above the lower band.",
+      "text": "BB crossing: The Bollinger Bands (BB) of a given time-series consists of two symmetric bands of 20-days moving two standard deviations (Colby and Meyers, 1988). The bands envelop the inherent stock volatility while filtering the noise in the price action. Traders use the price bands as bounds for trade activity around the price trend (Murphy, 1999). Hence, when prices approach the lower band or go below, prices are considered to be in an oversold position and trigger a buying opportunity. Here, the bands are computed using the (adjusted) Close values, and hence a buy signal is defined to trigger when the daily Close value crosses above the lower band.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 77.938,
+            "t": 530.5312,
+            "r": 295.42718572799987,
+            "b": 419.50963520000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            567
+          ]
+        }
+      ],
+      "orig": "Figure 3 shows an example of a Buy signal opportunities for the AAPL stock during 2018. In solid black, one can see the daily Close values for the ticker while the red line shows the 20-days moving average (inclusive) of the price line. The dashed black lines mark the two standard deviations above and below the moving average line. The BB crossing algorithm states that a Buy signal is initiated when the price line (in solid black) crosses above the lower dash black line. In this Figure, marked by the red triangles, one can identify eight such buy opportunities.",
+      "text": "Figure 3 shows an example of a Buy signal opportunities for the AAPL stock during 2018. In solid black, one can see the daily Close values for the ticker while the red line shows the 20-days moving average (inclusive) of the price line. The dashed black lines mark the two standard deviations above and below the moving average line. The BB crossing algorithm states that a Buy signal is initiated when the price line (in solid black) crosses above the lower dash black line. In this Figure, marked by the red triangles, one can identify eight such buy opportunities."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.798,
+            "t": 258.85089919999996,
+            "r": 294.23201600000004,
+            "b": 240.4392384941176,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "Figure 3: Labeling time series data according to the Bollinger Bands crossing rule.",
+      "text": "Figure 3: Labeling time series data according to the Bollinger Bands crossing rule."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 69.765,
+            "t": 226.24620000000004,
+            "r": 295.5643716479999,
+            "b": 82.34863519999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            731
+          ]
+        }
+      ],
+      "orig": "· MACD crossing: Moving Average Convergence Divergence (MACD) is a trend-following momentum indicator that compares the relationship between short and long exponential moving averages (EMA) of an asset (Colby and Meyers, 1988). As is common in finance (e.g., Murphy, 1999), we compute the MACD by subtracting the 26-days EMA from the 12days EMA. When MACD falls to negative values, it suggests negative momentum and conversely, when the MACD rises to positive values, it indicates upward momentum. Traders usually wait for consistent measures, thus smoothing the MACD line further by computing the 9-day EMA of the MACD, known as the signal line. Here, the MACD buy signal is defined to trigger when the signal line crosses above .",
+      "text": "MACD crossing: Moving Average Convergence Divergence (MACD) is a trend-following momentum indicator that compares the relationship between short and long exponential moving averages (EMA) of an asset (Colby and Meyers, 1988). As is common in finance (e.g., Murphy, 1999), we compute the MACD by subtracting the 26-days EMA from the 12days EMA. When MACD falls to negative values, it suggests negative momentum and conversely, when the MACD rises to positive values, it indicates upward momentum. Traders usually wait for consistent measures, thus smoothing the MACD line further by computing the 9-day EMA of the MACD, known as the signal line. Here, the MACD buy signal is defined to trigger when the signal line crosses above .",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 333.922,
+            "t": 708.4382,
+            "r": 559.7210129919998,
+            "b": 531.6636351999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            921
+          ]
+        }
+      ],
+      "orig": "· RSI crossing: The Relative Strength Index (RSI) is an oscillating indicator that summarizes the magnitude of recent price changes to evaluate the overbought or oversold conditions of an asset. As is common in finance (e.g., Colby and Meyers, 1988; Murphy, 1999), we compute RSI as the ratio 14-days EMAof the incremental increase to the incremental decrease in asset values. The ratio is then scaled to values that vary between 0 and 100: it rises as the number and size of daily gains increases and falls as the number and size of daily losses increases. Traders use RSI as an indication of either an overbought or an oversold state. An overbought state might trigger a sell order; an oversold state might trigger a buy order. The standard thresholds for oversold/overbought RSI are 30/70, respectively (Murphy, 1999). Here, the RSI buy signal is defined to trigger when the RSI line crosses above the value of RSI=30.",
+      "text": "RSI crossing: The Relative Strength Index (RSI) is an oscillating indicator that summarizes the magnitude of recent price changes to evaluate the overbought or oversold conditions of an asset. As is common in finance (e.g., Colby and Meyers, 1988; Murphy, 1999), we compute RSI as the ratio 14-days EMAof the incremental increase to the incremental decrease in asset values. The ratio is then scaled to values that vary between 0 and 100: it rises as the number and size of daily gains increases and falls as the number and size of daily losses increases. Traders use RSI as an indication of either an overbought or an oversold state. An overbought state might trigger a sell order; an oversold state might trigger a buy order. The standard thresholds for oversold/overbought RSI are 30/70, respectively (Murphy, 1999). Here, the RSI buy signal is defined to trigger when the RSI line crosses above the value of RSI=30.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.731,
+            "t": 522.3462000000001,
+            "r": 559.7143575168004,
+            "b": 422.28363520000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            570
+          ]
+        }
+      ],
+      "orig": "Figure 3 shows three positively-labeled images that correspond to the BB-crossing algorithm. These images are generated by enveloping 20 days of stock activity (the red rectangles) before and including the buy-signal day activity. It is also possible to create negatively-labeled images from this time-series by enveloping activity, in the same way, for days with no buy signal. Note also that these images tightly bind the trade activity and do not contain labels, tickers, or title, which is the essential input data standardization pre-process we apply in this study.",
+      "text": "Figure 3 shows three positively-labeled images that correspond to the BB-crossing algorithm. These images are generated by enveloping 20 days of stock activity (the red rectangles) before and including the buy-signal day activity. It is also possible to create negatively-labeled images from this time-series by enveloping activity, in the same way, for days with no buy signal. Note also that these images tightly bind the trade activity and do not contain labels, tickers, or title, which is the essential input data standardization pre-process we apply in this study."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.955,
+            "t": 401.0929148,
+            "r": 381.31505279999993,
+            "b": 392.0255275647059,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "4 RESULTS",
+      "text": "4 RESULTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.686,
+            "t": 390.6302,
+            "r": 558.2050434047999,
+            "b": 334.4026352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            328
+          ]
+        }
+      ],
+      "orig": "The objective of this study is to examine whether or not we can train a model to recover trade signals from algebraically-defined time-series data that is typical of technical analysis. We examine the supervised classification predictions of the time-series images that are labeled according to the BB, RSI, and MACD algorithms.",
+      "text": "The objective of this study is to examine whether or not we can train a model to recover trade signals from algebraically-defined time-series data that is typical of technical analysis. We examine the supervised classification predictions of the time-series images that are labeled according to the BB, RSI, and MACD algorithms."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.686,
+            "t": 259.1232,
+            "r": 559.7137119359998,
+            "b": 115.22463519999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            848
+          ]
+        }
+      ],
+      "orig": "A key difference between the three algorithms, besides their varying complexity, is the time-span each considers. While the BB algorithm takes into account 20 days of price action, RSI, which uses exponential-moving averaging considers (effectively) 27 days. MACD, which also uses exponential-moving averages, spans (effectively) over 26 days. For each of the triggers, we crop the images according to the number of effective trading days they consider. Thus, the BB images include information of 20 trade days, while RSI contains data for 27 days, and MACD, the most sophisticated algorithm that compares three time scales, contains 26 days of data. In other words, each sample has 80-108 features depending on the size of the window required to compute the label (i.e., 4x20 for the BB crossing, and 4x26, 4x27 for the MACD and RSI respectively).",
+      "text": "A key difference between the three algorithms, besides their varying complexity, is the time-span each considers. While the BB algorithm takes into account 20 days of price action, RSI, which uses exponential-moving averaging considers (effectively) 27 days. MACD, which also uses exponential-moving averages, spans (effectively) over 26 days. For each of the triggers, we crop the images according to the number of effective trading days they consider. Thus, the BB images include information of 20 trade days, while RSI contains data for 27 days, and MACD, the most sophisticated algorithm that compares three time scales, contains 26 days of data. In other words, each sample has 80-108 features depending on the size of the window required to compute the label (i.e., 4x20 for the BB crossing, and 4x26, 4x27 for the MACD and RSI respectively)."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.955,
+            "t": 335.8352,
+            "r": 558.3693911232001,
+            "b": 257.6906352000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            448
+          ]
+        }
+      ],
+      "orig": "The data set is balanced, containing 5,000 samples per class per indicator. That is, for each of the S&P500 tickers, we compute all buy triggers for the period between 2010 and the end of 2017. We then choose, at random, 10 buy triggers for each ticker and create corresponding images. In the same way, we choose, at random, 10 no-buy triggers per ticker and create similar images. This process results in 10,000 high-resolution images per trigger.",
+      "text": "The data set is balanced, containing 5,000 samples per class per indicator. That is, for each of the S&P500 tickers, we compute all buy triggers for the period between 2010 and the end of 2017. We then choose, at random, 10 buy triggers for each ticker and create corresponding images. In the same way, we choose, at random, 10 no-buy triggers per ticker and create similar images. This process results in 10,000 high-resolution images per trigger."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.623,
+            "t": 116.65719999999999,
+            "r": 558.2042442879998,
+            "b": 82.34863519999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.798,
+            "t": 489.2602,
+            "r": 294.04712883199994,
+            "b": 465.9096352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            200,
+            281
+          ]
+        }
+      ],
+      "orig": "Figure 4 depicts an example of the five different visual designs we use in this study. Panel 4a uses the OHLC data as in Fig. 2, while panel 4b uses only the Close values plotted as a line chart. The design of 4b serves as a reference performance level, as will be discussed later.",
+      "text": "Figure 4 depicts an example of the five different visual designs we use in this study. Panel 4a uses the OHLC data as in Fig. 2, while panel 4b uses only the Close values plotted as a line chart. The design of 4b serves as a reference performance level, as will be discussed later."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.798,
+            "t": 729.2347866,
+            "r": 201.25202719999996,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "ICAIF '20, October 15-16, 2020, New York, NY, USA",
+      "text": "ICAIF '20, October 15-16, 2020, New York, NY, USA"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 513.764,
+            "t": 729.2347866,
+            "r": 558.2010536000001,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Cohen N., et al.",
+      "text": "Cohen N., et al."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.798,
+            "t": 556.4928992,
+            "r": 295.6487072000001,
+            "b": 538.0812384941177,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Figure 4: Various visual representations of the same timeseries data.",
+      "text": "Figure 4: Various visual representations of the same timeseries data."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.467,
+            "t": 226.24620000000004,
+            "r": 295.56227443200004,
+            "b": 82.34863519999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            830
+          ]
+        }
+      ],
+      "orig": "Following the above process, we create high-resolution images based on the discrete form of the data. Another question we have to address is what resolution do we need to maintain for proper analysis. The problem is that the higher the resolution, the more we amplify the (pixelated) feature space introducing more noise to the models and possibly creating unwanted spurious correlations. We examine this point by varying the resolution of the input images in logarithmic scale and comparing the accuracy score of a hard voting classifier over the following 16 trained classifiers: Logistic Regression, Gaussian Naive-Bayes, Linear Discriminant Analysis, Quadratic Discriminant Analysis, Gaussian Process, KNearest Neighbors, Linear SVM, RBF SVM, Deep Neural Net, Decision Trees, Random Forest, Extra Randomized Forest, Ada Boost,",
+      "text": "Following the above process, we create high-resolution images based on the discrete form of the data. Another question we have to address is what resolution do we need to maintain for proper analysis. The problem is that the higher the resolution, the more we amplify the (pixelated) feature space introducing more noise to the models and possibly creating unwanted spurious correlations. We examine this point by varying the resolution of the input images in logarithmic scale and comparing the accuracy score of a hard voting classifier over the following 16 trained classifiers: Logistic Regression, Gaussian Naive-Bayes, Linear Discriminant Analysis, Quadratic Discriminant Analysis, Gaussian Process, KNearest Neighbors, Linear SVM, RBF SVM, Deep Neural Net, Decision Trees, Random Forest, Extra Randomized Forest, Ada Boost,"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.484,
+            "t": 467.3422,
+            "r": 295.56359813119997,
+            "b": 224.81363520000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1425
+          ]
+        }
+      ],
+      "orig": "In this study, a key element is how to express the direction and notion of time, or recency, in static images. A simple way of incorporating recency in the images is via the labels . Each image is labeled according to trade opportunities, which are defined by crossing above a threshold at the right part of the image. The labels are time-dependent and are tied to a specific region in the chart; thus, implicitly, they deliver the notion of time to the static images. Another way of incorporating recency in the images is to incorporate the notion of time directly in them. The designs at panels 4c and 4d aim at explicitly representing the direction of time by either linearly varying the width of the boxes towards the right (4c), or by overlaying the previous Close value as a horizontal line on each of the candlesticks (4d). Lastly, in panel 4e, we augment the OHLC data by incorporating the trade volume in the candlestick visualization by varying the width of each box according to the relative change of the trade volume within the considered time frame. Remember that all three label-generating rules consider only the Close value, but each Close value is influenced by its preceding daily activity, reflected in the candlestick's visualization. We expect a trained model to either filter out unnecessary information or discover new feature relationships in the encoded image and identify the label-generating rule.",
+      "text": "In this study, a key element is how to express the direction and notion of time, or recency, in static images. A simple way of incorporating recency in the images is via the labels . Each image is labeled according to trade opportunities, which are defined by crossing above a threshold at the right part of the image. The labels are time-dependent and are tied to a specific region in the chart; thus, implicitly, they deliver the notion of time to the static images. Another way of incorporating recency in the images is to incorporate the notion of time directly in them. The designs at panels 4c and 4d aim at explicitly representing the direction of time by either linearly varying the width of the boxes towards the right (4c), or by overlaying the previous Close value as a horizontal line on each of the candlesticks (4d). Lastly, in panel 4e, we augment the OHLC data by incorporating the trade volume in the candlestick visualization by varying the width of each box according to the relative change of the trade volume within the considered time frame. Remember that all three label-generating rules consider only the Close value, but each Close value is influenced by its preceding daily activity, reflected in the candlestick's visualization. We expect a trained model to either filter out unnecessary information or discover new feature relationships in the encoded image and identify the label-generating rule."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.623,
+            "t": 708.4382,
+            "r": 558.2041288319995,
+            "b": 674.1286352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "Bagging, Gradient Boosting, and Convolutional Neural Net 2 . The focus here is on comparing the models' aggregated performance while changing the representation of the input space.",
+      "text": "Bagging, Gradient Boosting, and Convolutional Neural Net 2 . The focus here is on comparing the models' aggregated performance while changing the representation of the input space."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.955,
+            "t": 531.7558992,
+            "r": 558.2007216000004,
+            "b": 502.38623849411766,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "Figure 5: The effect of varying the image resolution on the classification accuracy and precision scores for the three label-generating rules.",
+      "text": "Figure 5: The effect of varying the image resolution on the classification accuracy and precision scores for the three label-generating rules."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.623,
+            "t": 489.2112,
+            "r": 559.7140167935996,
+            "b": 345.31263520000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            845
+          ]
+        }
+      ],
+      "orig": "Figure 5 shows the results of the classification scores when we downscale the resolutions of the images that are labeled following the BB, RSI, and MACD algorithms. We use the Lanczos filter for downscaling, which uses sinc filters and efficiently reduces aliasing while preserving sharpness. To evaluate the models' performances, we use the 5-fold cross-validation technique. This allows us to infer not only the mean prediction of the voting classifier but also the variability about the mean. (The vertical black lines in Fig. 5 show one symmetric standard deviation about the mean accuracy). Figure 5 shows that regardless of the labeling rule, the average accuracy and precision scores increase with finer resolutions but matures around 30x30 pixel resolution. For this reason, the following analysis is done using a 30x30 pixel resolution.",
+      "text": "Figure 5 shows the results of the classification scores when we downscale the resolutions of the images that are labeled following the BB, RSI, and MACD algorithms. We use the Lanczos filter for downscaling, which uses sinc filters and efficiently reduces aliasing while preserving sharpness. To evaluate the models' performances, we use the 5-fold cross-validation technique. This allows us to infer not only the mean prediction of the voting classifier but also the variability about the mean. (The vertical black lines in Fig. 5 show one symmetric standard deviation about the mean accuracy). Figure 5 shows that regardless of the labeling rule, the average accuracy and precision scores increase with finer resolutions but matures around 30x30 pixel resolution. For this reason, the following analysis is done using a 30x30 pixel resolution."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.731,
+            "t": 248.11519999999996,
+            "r": 559.716068704,
+            "b": 148.05263519999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            571
+          ]
+        }
+      ],
+      "orig": "The best performing input data is the one that uses the Close values exclusively as line plots, while the various OHLC representations fall only a little behind. However, the line plot serves only as a point of reference - the Bayesian performance level. This is because the label-generating rule depends exclusively on the Close values 3 . The key point is the fact that the various visual OHLC representations manage to achieve performance comparable to the Bayesian level. Most importantly, this finding is robust for the BB and RSI, as well as for the MACD algorithm.",
+      "text": "The best performing input data is the one that uses the Close values exclusively as line plots, while the various OHLC representations fall only a little behind. However, the line plot serves only as a point of reference - the Bayesian performance level. This is because the label-generating rule depends exclusively on the Close values 3 . The key point is the fact that the various visual OHLC representations manage to achieve performance comparable to the Bayesian level. Most importantly, this finding is robust for the BB and RSI, as well as for the MACD algorithm."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.955,
+            "t": 346.7452,
+            "r": 559.7131739519995,
+            "b": 246.68263520000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            555
+          ]
+        }
+      ],
+      "orig": "Figure 6 compares the predictability skill in the various image representations of the same input data for the three label-generating rules. All input representations perform remarkably well, and the predictability skill stands at about 95% for the BB and RSI labelgenerating rules, while at approximately 80% for the MACD labeled data. We were not surprised to see that the classifiers perform less efficiently on the MACD labeled data as this labeling-rule is the most complex involving multiple time-scales and smooth operations, all acting in concert.",
+      "text": "Figure 6 compares the predictability skill in the various image representations of the same input data for the three label-generating rules. All input representations perform remarkably well, and the predictability skill stands at about 95% for the BB and RSI labelgenerating rules, while at approximately 80% for the MACD labeled data. We were not surprised to see that the classifiers perform less efficiently on the MACD labeled data as this labeling-rule is the most complex involving multiple time-scales and smooth operations, all acting in concert."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.697,
+            "t": 142.22143749999998,
+            "r": 558.2031819039998,
+            "b": 99.4937334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            379
+          ]
+        }
+      ],
+      "orig": "2 The Deep Neural Net uses 32x32x32 structure, while the Convolutional Neural Net (CNN) uses three layers of 32 3x3 filters with ReLU activations and Max Pooling of 2x2 in between the layers. The last layer incorporates Sigmoid activation. The CCN model is compiled with Adam optimizer, binary-cross entropy loss function and run with a batch size of 16 samples for 50 iterations",
+      "text": "2 The Deep Neural Net uses 32x32x32 structure, while the Convolutional Neural Net (CNN) uses three layers of 32 3x3 filters with ReLU activations and Max Pooling of 2x2 in between the layers. The last layer incorporates Sigmoid activation. The CCN model is compiled with Adam optimizer, binary-cross entropy loss function and run with a batch size of 16 samples for 50 iterations"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.955,
+            "t": 101.67843749999997,
+            "r": 558.1998830679998,
+            "b": 82.86073339999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "3 Using the Close value alone is comparable to using the actual numerical data that the labeling rules are based upon.",
+      "text": "3 Using the Close value alone is comparable to using the actual numerical data that the labeling rules are based upon."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 53.61,
+            "t": 729.2347866,
+            "r": 146.05469279999994,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Trading via Image Classification",
+      "text": "Trading via Image Classification"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 410.747,
+            "t": 729.2347866,
+            "r": 558.2010272000002,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "ICAIF '20, October 15-16, 2020, New York, NY, USA",
+      "text": "ICAIF '20, October 15-16, 2020, New York, NY, USA"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 53.798,
+            "t": 559.1868992000001,
+            "r": 294.6086048,
+            "b": 529.8162384941178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "Figure 6: The supervised classification accuracy (left panel) and precision (right panel) scores for the various triggers as a function of the different input representations.",
+      "text": "Figure 6: The supervised classification accuracy (left panel) and precision (right panel) scores for the various triggers as a function of the different input representations."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 53.574,
+            "t": 504.4752,
+            "r": 295.56081715199997,
+            "b": 415.3716352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            473
+          ]
+        }
+      ],
+      "orig": "Close examination of Fig. 6 shows that augmenting the OHLC input to include explicit time representation in the images by varying the bar widths linearly or by incorporating the previous Close values didn't add value. An exception to this is the MACD algorithm (a point we may explore further in a future study). On the other hand, encoding the irrelevant volume information in the candlestick images increased our uncertainty in predictions for all label-generating rules.",
+      "text": "Close examination of Fig. 6 shows that augmenting the OHLC input to include explicit time representation in the images by varying the bar widths linearly or by incorporating the previous Close values didn't add value. An exception to this is the MACD algorithm (a point we may explore further in a future study). On the other hand, encoding the irrelevant volume information in the candlestick images increased our uncertainty in predictions for all label-generating rules."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 53.798,
+            "t": 416.8042,
+            "r": 294.04712883200006,
+            "b": 382.4946352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "The precision score results are represented in the right panel of Fig. 6 and are almost identical to the accuracy scores on the left panel.",
+      "text": "The precision score results are represented in the right panel of Fig. 6 and are almost identical to the accuracy scores on the left panel."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 53.798,
+            "t": 368.21591479999995,
+            "r": 134.54715819999998,
+            "b": 359.14852756470583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "5 DISCUSSION",
+      "text": "5 DISCUSSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 53.529,
+            "t": 357.7532,
+            "r": 295.42813376000004,
+            "b": 246.73163520000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            646
+          ]
+        }
+      ],
+      "orig": "In this paper, we examine the supervised time-series classification task using large financial data sets and compare the results when the data is represented visually in various ways. We find that even at low resolutions (see Fig. 5), time-series classification can be achieved effectively by transforming the task into a computer vision task. This finding is in accordance with Cohen et al., 2019 who showed that classification of financial data using exclusive visual designs relates information spatially, aids in identifying new patterns and, in some cases, achieves better performance compared to using the raw tabular form of the same data.",
+      "text": "In this paper, we examine the supervised time-series classification task using large financial data sets and compare the results when the data is represented visually in various ways. We find that even at low resolutions (see Fig. 5), time-series classification can be achieved effectively by transforming the task into a computer vision task. This finding is in accordance with Cohen et al., 2019 who showed that classification of financial data using exclusive visual designs relates information spatially, aids in identifying new patterns and, in some cases, achieves better performance compared to using the raw tabular form of the same data."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 53.798,
+            "t": 149.53420000000006,
+            "r": 294.047128832,
+            "b": 82.34863519999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            407
+          ]
+        }
+      ],
+      "orig": "A key question in this study is whether time-dependent signals can be detected in static images. To be more explicit, if the time axis goes left to right, it means that data points to the right are more recent and therefore, more critical to the model than data points to the left. But how can we convey this kind of information without an independent ordinal variable (e.g., time axis)? We present two ways",
+      "text": "A key question in this study is whether time-dependent signals can be detected in static images. To be more explicit, if the time axis goes left to right, it means that data points to the right are more recent and therefore, more critical to the model than data points to the left. But how can we convey this kind of information without an independent ordinal variable (e.g., time axis)? We present two ways"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 53.798,
+            "t": 248.16419999999994,
+            "r": 295.55873834239986,
+            "b": 148.10163520000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            563
+          ]
+        }
+      ],
+      "orig": "Visualizing data and time-series data in particular, is an essential pre-processing step. Visualization by itself is not straightforward, especially for high-dimensional data, and it might take some time for the analyst to find the proper graphical design that will encapsulate the full complexity of the data. In this study, we essentially suggest considering the display as the input over the raw information. Our research indicates that even very complex multi-scale algebraic operations can be discovered by transferring the task to a computer vision problem.",
+      "text": "Visualizing data and time-series data in particular, is an essential pre-processing step. Visualization by itself is not straightforward, especially for high-dimensional data, and it might take some time for the analyst to find the proper graphical design that will encapsulate the full complexity of the data. In this study, we essentially suggest considering the display as the input over the raw information. Our research indicates that even very complex multi-scale algebraic operations can be discovered by transferring the task to a computer vision problem."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.623,
+            "t": 708.4382,
+            "r": 559.7134967424003,
+            "b": 520.7046352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1100
+          ]
+        }
+      ],
+      "orig": "to incorporate the time-dependency in the images: the first leverages labels to deliver the notion of time; the second augments the images with sequential features. Incorporating time-dependency via labeling is done throughout the paper. We label the candlestick images using three algorithms and each computes a time-dependent function. Thus, each image encapsulates implicitly, via its corresponding label, the notion of time. That is, the signal we seek to detect is located on the right-most side of the image; the crossabove trigger always occurs because of the last few data points. In an example, the BB crossing algorithm effectively yields images with suspected local minimum on the right-hand side of the image. Incorporating time dependency explicitly by image augmentation is considered in two ways, by varying the width of the boxed in the candlestick diagram linearly and by overlaying the previous Close value on each candlestick. It is noteworthy, however, that compared to the implicit label approach, we find the explicit augmentation to be less effective, as can be seen in Fig. 6.",
+      "text": "to incorporate the time-dependency in the images: the first leverages labels to deliver the notion of time; the second augments the images with sequential features. Incorporating time-dependency via labeling is done throughout the paper. We label the candlestick images using three algorithms and each computes a time-dependent function. Thus, each image encapsulates implicitly, via its corresponding label, the notion of time. That is, the signal we seek to detect is located on the right-most side of the image; the crossabove trigger always occurs because of the last few data points. In an example, the BB crossing algorithm effectively yields images with suspected local minimum on the right-hand side of the image. Incorporating time dependency explicitly by image augmentation is considered in two ways, by varying the width of the boxed in the candlestick diagram linearly and by overlaying the previous Close value on each candlestick. It is noteworthy, however, that compared to the implicit label approach, we find the explicit augmentation to be less effective, as can be seen in Fig. 6."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.955,
+            "t": 423.5072,
+            "r": 559.7186280959999,
+            "b": 356.3206352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            367
+          ]
+        }
+      ],
+      "orig": "We see no need to account for the overall positive market performance during the 2010-2018 period as the analysis is done on a short times scales (about a month or less). One can complement this study by similarly analyzing for sell signals. We have repeated this analysis for sell signals and found that the overall quantitative results are very similar (not shown).",
+      "text": "We see no need to account for the overall positive market performance during the 2010-2018 period as the analysis is done on a short times scales (about a month or less). One can complement this study by similarly analyzing for sell signals. We have repeated this analysis for sell signals and found that the overall quantitative results are very similar (not shown)."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.731,
+            "t": 522.1372,
+            "r": 558.5333750399996,
+            "b": 422.07463520000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            583
+          ]
+        }
+      ],
+      "orig": "In this study, we blended all S&P 500 stocks and did not cluster the data by season, category, or sector. We used specific window sizes that correspond to the total length of information required by each algorithm to compute its label. To isolate the effect of the various window sizes, we examined the classification results when all window sizes were set to include 30 days of information. We found that the performance decreased when the window size added unnecessary information. (In this instance, there was a decrease in accuracy scores by a few percentage points - not shown).",
+      "text": "In this study, we blended all S&P 500 stocks and did not cluster the data by season, category, or sector. We used specific window sizes that correspond to the total length of information required by each algorithm to compute its label. To isolate the effect of the various window sizes, we examined the classification results when all window sizes were set to include 30 days of information. We found that the performance decreased when the window size added unnecessary information. (In this instance, there was a decrease in accuracy scores by a few percentage points - not shown)."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.955,
+            "t": 194.31789920000006,
+            "r": 559.8057072000004,
+            "b": 175.9062384941176,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Figure 7: Time-series forecasting using a 20-days rolling window.",
+      "text": "Figure 7: Time-series forecasting using a 20-days rolling window."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.623,
+            "t": 160.4932,
+            "r": 559.7137119359999,
+            "b": 82.34863519999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            463
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 53.798,
+            "t": 708.4382,
+            "r": 295.03486745600003,
+            "b": 630.2936351999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            464,
+            896
+          ]
+        }
+      ],
+      "orig": "We end this paper by noting that the supervised classification task can be applied as a forecasting tool (e.g., Hyndman and Athanasopoulos, 2018). In Fig. 7, we take out-of-sample, daily trading data from 2018. (As noted, the previous training and evaluation were computed using data from the period between 2010 and the end of 2017.) We create 20 days of images for every day in the data. Next we feed these images to the voting classifier as a test set, and for each image, we predict what the label will be. Figure 7 corresponds to Fig. 3 but also includes blue triangles showing the predicted buy signal. Clearly, at least five buy signals were correctly classified, but even the missed ones are incredibly close in the sense that there is almost cross-above the lower BB. Finally, depending on the use case, one can modify the binary probability threshold to achieve higher precision scores.",
+      "text": "We end this paper by noting that the supervised classification task can be applied as a forecasting tool (e.g., Hyndman and Athanasopoulos, 2018). In Fig. 7, we take out-of-sample, daily trading data from 2018. (As noted, the previous training and evaluation were computed using data from the period between 2010 and the end of 2017.) We create 20 days of images for every day in the data. Next we feed these images to the voting classifier as a test set, and for each image, we predict what the label will be. Figure 7 corresponds to Fig. 3 but also includes blue triangles showing the predicted buy signal. Clearly, at least five buy signals were correctly classified, but even the missed ones are incredibly close in the sense that there is almost cross-above the lower BB. Finally, depending on the use case, one can modify the binary probability threshold to achieve higher precision scores."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 53.798,
+            "t": 729.2347866,
+            "r": 201.25202719999996,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "ICAIF '20, October 15-16, 2020, New York, NY, USA",
+      "text": "ICAIF '20, October 15-16, 2020, New York, NY, USA"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 513.764,
+            "t": 729.2347866,
+            "r": 558.2010536000001,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Cohen N., et al.",
+      "text": "Cohen N., et al."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 53.798,
+            "t": 616.7839148,
+            "r": 141.57261859999997,
+            "b": 607.7165275647059,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "6 CONCLUSION",
+      "text": "6 CONCLUSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 53.502,
+            "t": 606.3212000000001,
+            "r": 295.55947238399995,
+            "b": 473.3816352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            781
+          ]
+        }
+      ],
+      "orig": "Visual object recognition and object detection using machine learning and deep neural networks have shown great success in recent years (e.g., Krizhevsky et al., 2012; Zeiler and Fergus, 2014; Szegedy et al., 2015; Koch et al., 2015; LeCun et al., 2015; Wang et al., 2017). In this paper, we follow up on these studies and examine the value in transforming numerical time-series analysis to that of image classification. We focus on financial trading after noticing that human traders always execute their trade orders while observing images of financial time-series on their screens (see Fig. 1). Our study suggests that the transformation of time-series analysis to a computer vision task is beneficial for identifying trade decisions typical for humans using technical analysis.",
+      "text": "Visual object recognition and object detection using machine learning and deep neural networks have shown great success in recent years (e.g., Krizhevsky et al., 2012; Zeiler and Fergus, 2014; Szegedy et al., 2015; Koch et al., 2015; LeCun et al., 2015; Wang et al., 2017). In this paper, we follow up on these studies and examine the value in transforming numerical time-series analysis to that of image classification. We focus on financial trading after noticing that human traders always execute their trade orders while observing images of financial time-series on their screens (see Fig. 1). Our study suggests that the transformation of time-series analysis to a computer vision task is beneficial for identifying trade decisions typical for humans using technical analysis."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 53.538,
+            "t": 467.8402,
+            "r": 294.0489477120001,
+            "b": 422.57263520000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "Acknowledgments. We would like to thank Jason Hunter, Joshua Younger, Alix Floman, and Veronica Bustamante for providing with insightful comments and crucial suggestions that helped in bringing this manuscript to completion.",
+      "text": "Acknowledgments. We would like to thank Jason Hunter, Joshua Younger, Alix Floman, and Veronica Bustamante for providing with insightful comments and crucial suggestions that helped in bringing this manuscript to completion."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 53.798,
+            "t": 417.0312,
+            "r": 295.556711936,
+            "b": 262.17363520000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            872
+          ]
+        }
+      ],
+      "orig": "Disclaimer. This paper was prepared for information purposes by the Artificial Intelligence Research group of J. P. Morgan Chase & Co. and its affiliates ('J. P. Morgan'), and is not a product of the Research Department of J. P. Morgan. J. P. Morgan makes no representation and warranty whatsoever and disclaims all liability, for the completeness, accuracy or reliability of the information contained herein. This document is not intended as investment research or investment advice, or a recommendation, offer or solicitation for the purchase or sale of any security, financial instrument, financial product or service, or to be used in any way for evaluating the merits of participating in any transaction, and shall not constitute a solicitation under any jurisdiction or to any person, if such solicitation under such jurisdiction or to such person would be unlawful.",
+      "text": "Disclaimer. This paper was prepared for information purposes by the Artificial Intelligence Research group of J. P. Morgan Chase & Co. and its affiliates ('J. P. Morgan'), and is not a product of the Research Department of J. P. Morgan. J. P. Morgan makes no representation and warranty whatsoever and disclaims all liability, for the completeness, accuracy or reliability of the information contained herein. This document is not intended as investment research or investment advice, or a recommendation, offer or solicitation for the purchase or sale of any security, financial instrument, financial product or service, or to be used in any way for evaluating the merits of participating in any transaction, and shall not constitute a solicitation under any jurisdiction or to any person, if such solicitation under such jurisdiction or to such person would be unlawful."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 63.761,
+            "t": 263.60619999999994,
+            "r": 253.44554400000015,
+            "b": 251.21463519999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "©2020 J. P. Morgan Chase & Co. All rights reserved.",
+      "text": "©2020 J. P. Morgan Chase & Co. All rights reserved."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 53.79800000000001,
+            "t": 237.70491479999998,
+            "r": 123.21260330000001,
+            "b": 228.63752756470592,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 57.04100000000001,
+            "t": 227.98952499999996,
+            "r": 244.9186762,
+            "b": 218.35173340000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "[1] Charu C Aggarwal. 2015. Data mining: the textbook . Springer.",
+      "text": "Charu C Aggarwal. 2015. Data mining: the textbook . Springer.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 57.041,
+            "t": 188.13952500000005,
+            "r": 294.04225365600007,
+            "b": 170.5317334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "[3] Jonathon Berk, Peter DeMarzo, Jarrod Harford, Guy Ford, Vito Mollica, and Nigel Finch. 2013. Fundamentals of corporate finance . Pearson Higher Education AU.",
+      "text": "Jonathon Berk, Peter DeMarzo, Jarrod Harford, Guy Ford, Vito Mollica, and Nigel Finch. 2013. Fundamentals of corporate finance . Pearson Higher Education AU.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 57.041000000000025,
+            "t": 220.01952500000004,
+            "r": 295.1173904544,
+            "b": 186.47173339999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            260
+          ]
+        }
+      ],
+      "orig": "[2] Anthony Bagnall, Jason Lines, Aaron Bostrom, James Large, and Eamonn Keogh. 2017. The great time series classification bake off: a review and experimental evaluation of recent algorithmic advances. Data Mining and Knowledge Discovery 31, 3 (2017), 606-660.",
+      "text": "Anthony Bagnall, Jason Lines, Aaron Bostrom, James Large, and Eamonn Keogh. 2017. The great time series classification bake off: a review and experimental evaluation of recent algorithmic advances. Data Mining and Knowledge Discovery 31, 3 (2017), 606-660.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 57.041,
+            "t": 172.199525,
+            "r": 292.3079575502001,
+            "b": 162.56173339999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "[4] Christopher M Bishop. 2006. Pattern recognition and machine learning . springer.",
+      "text": "Christopher M Bishop. 2006. Pattern recognition and machine learning . springer.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 57.041,
+            "t": 148.28852500000005,
+            "r": 294.0475824920002,
+            "b": 130.6807334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "[6] Robert W Colby and Thomas A Meyers. 1988. The encyclopedia of technical market indicators . Dow Jones-Irwin Homewood, IL.",
+      "text": "Robert W Colby and Thomas A Meyers. 1988. The encyclopedia of technical market indicators . Dow Jones-Irwin Homewood, IL.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 57.041,
+            "t": 164.22952499999997,
+            "r": 294.04197470400015,
+            "b": 146.62073340000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[5] Naftali Cohen, Tucker Balch, and Manuela Veloso. 2019. The effect of visual design in image classification. arXiv preprint arXiv:1907.09567 (2019).",
+      "text": "Naftali Cohen, Tucker Balch, and Manuela Veloso. 2019. The effect of visual design in image classification. arXiv preprint arXiv:1907.09567 (2019).",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 57.041000000000004,
+            "t": 132.348525,
+            "r": 294.04680623199994,
+            "b": 114.74073339999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "[7] Marcos Lopez De Prado. 2018. Advances in financial machine learning . John Wiley & Sons.",
+      "text": "Marcos Lopez De Prado. 2018. Advances in financial machine learning . John Wiley & Sons.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 57.041,
+            "t": 100.468525,
+            "r": 295.22277852000013,
+            "b": 82.86073339999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "[9] Nima Hatami, Yann Gavet, and Johan Debayle. 2018. Classification of timeseries images using deep convolutional neural networks. In Tenth International",
+      "text": "Nima Hatami, Yann Gavet, and Johan Debayle. 2018. Classification of timeseries images using deep convolutional neural networks. In Tenth International",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 57.041000000000004,
+            "t": 116.40852500000005,
+            "r": 294.2515326972001,
+            "b": 98.80073340000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "[8] Ian Goodfellow, Yoshua Bengio, and Aaron Courville. 2016. Deep learning . MIT press.",
+      "text": "Ian Goodfellow, Yoshua Bengio, and Aaron Courville. 2016. Deep learning . MIT press.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 333.391,
+            "t": 706.196525,
+            "r": 558.3374053416002,
+            "b": 688.5887334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "Conference on Machine Vision (ICMV 2017) , Vol. 10696. International Society for Optics and Photonics, 106960Y.",
+      "text": "Conference on Machine Vision (ICMV 2017) , Vol. 10696. International Society for Optics and Photonics, 106960Y.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 674.316525,
+            "r": 558.2011923723999,
+            "b": 656.7087334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "[11] Gregory Koch, Richard Zemel, and Ruslan Salakhutdinov. 2015. Siamese neural networks for one-shot image recognition. In ICML deep learning workshop , Vol. 2.",
+      "text": "Gregory Koch, Richard Zemel, and Ruslan Salakhutdinov. 2015. Siamese neural networks for one-shot image recognition. In ICML deep learning workshop , Vol. 2.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 690.2565249999999,
+            "r": 558.2045226901998,
+            "b": 672.6487334000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "[10] Rob J Hyndman and George Athanasopoulos. 2018. Forecasting: principles and practice . OTexts.",
+      "text": "Rob J Hyndman and George Athanasopoulos. 2018. Forecasting: principles and practice . OTexts.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.955,
+            "t": 658.3755249999999,
+            "r": 559.3815917079996,
+            "b": 632.7977334000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "[12] Alex Krizhevsky, Ilya Sutskever, and Geoffrey E Hinton. 2012. Imagenet classification with deep convolutional neural networks. In Advances in neural information processing systems . 1097-1105.",
+      "text": "Alex Krizhevsky, Ilya Sutskever, and Geoffrey E Hinton. 2012. Imagenet classification with deep convolutional neural networks. In Advances in neural information processing systems . 1097-1105.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.955,
+            "t": 618.5255249999999,
+            "r": 558.2021370719999,
+            "b": 600.9177334000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "[14] John J Murphy. 1999. Technical analysis of the financial markets: A comprehensive guide to trading methods and applications . Penguin.",
+      "text": "John J Murphy. 1999. Technical analysis of the financial markets: A comprehensive guide to trading methods and applications . Penguin.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.955,
+            "t": 634.465525,
+            "r": 558.2013516,
+            "b": 616.8577334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "[13] Yann LeCun, Yoshua Bengio, and Geoffrey Hinton. 2015. Deep learning. nature 521, 7553 (2015), 436.",
+      "text": "Yann LeCun, Yoshua Bengio, and Geoffrey Hinton. 2015. Deep learning. nature 521, 7553 (2015), 436.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 602.585525,
+            "r": 558.1992536560001,
+            "b": 577.0067334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            230
+          ]
+        }
+      ],
+      "orig": "[15] Daniel S Park, William Chan, Yu Zhang, Chung-Cheng Chiu, Barret Zoph, Ekin D Cubuk, and Quoc V Le. 2019. Specaugment: A simple data augmentation method for automatic speech recognition. arXiv preprint arXiv:1904.08779 (2019).",
+      "text": "Daniel S Park, William Chan, Yu Zhang, Chung-Cheng Chiu, Barret Zoph, Ekin D Cubuk, and Quoc V Le. 2019. Specaugment: A simple data augmentation method for automatic speech recognition. arXiv preprint arXiv:1904.08779 (2019).",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 562.734525,
+            "r": 558.2021704687999,
+            "b": 537.1567334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "[17] Diego F Silva, Vinícius MA De Souza, and Gustavo EAPA Batista. 2013. Time series classification using compression distance of recurrence plots. In 2013 IEEE 13th International Conference on Data Mining . IEEE, 687-696.",
+      "text": "Diego F Silva, Vinícius MA De Souza, and Gustavo EAPA Batista. 2013. Time series classification using compression distance of recurrence plots. In 2013 IEEE 13th International Conference on Data Mining . IEEE, 687-696.",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 578.6745249999999,
+            "r": 558.2049985000002,
+            "b": 561.0667334000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "[16] Lasse Heje Pedersen. 2019. Efficiently inefficient: how smart money invests and market prices are determined . Princeton University Press.",
+      "text": "Lasse Heje Pedersen. 2019. Efficiently inefficient: how smart money invests and market prices are determined . Princeton University Press.",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 538.824525,
+            "r": 558.203292296,
+            "b": 513.2467334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "[18] Vinicius MA Souza, Diego F Silva, and Gustavo EAPA Batista. 2014. Extracting texture features for time series classification. In 2014 22nd International Conference on Pattern Recognition . IEEE, 1425-1430.",
+      "text": "Vinicius MA Souza, Diego F Silva, and Gustavo EAPA Batista. 2014. Extracting texture features for time series classification. In 2014 22nd International Conference on Pattern Recognition . IEEE, 1425-1430.",
+      "enumerated": true,
+      "marker": "[18]"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 483.033525,
+            "r": 559.3771145284,
+            "b": 457.4557334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "[20] Yun-Cheng Tsai, Jun-Hao Chen, and Chun-Chieh Wang. 2019. Encoding Candlesticks as Images for Patterns Classification Using Convolutional Neural Networks. arXiv preprint arXiv:1901.05237 (2019).",
+      "text": "Yun-Cheng Tsai, Jun-Hao Chen, and Chun-Chieh Wang. 2019. Encoding Candlesticks as Images for Patterns Classification Using Convolutional Neural Networks. arXiv preprint arXiv:1901.05237 (2019).",
+      "enumerated": true,
+      "marker": "[20]"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.955,
+            "t": 514.9135249999999,
+            "r": 559.2737900219996,
+            "b": 481.3657334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            277
+          ]
+        }
+      ],
+      "orig": "[19] Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich. 2015. Going deeper with convolutions. In Proceedings of the IEEE conference on computer vision and pattern recognition . 1-9.",
+      "text": "Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich. 2015. Going deeper with convolutions. In Proceedings of the IEEE conference on computer vision and pattern recognition . 1-9.",
+      "enumerated": true,
+      "marker": "[19]"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 459.12352500000003,
+            "r": 556.369994668,
+            "b": 449.48573339999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "[21] Ruey S Tsay. 2005. Analysis of financial time series . Vol. 543. John wiley & sons.",
+      "text": "Ruey S Tsay. 2005. Analysis of financial time series . Vol. 543. John wiley & sons.",
+      "enumerated": true,
+      "marker": "[21]"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.955,
+            "t": 419.27252500000003,
+            "r": 559.37977852,
+            "b": 393.6947334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "[23] Zhiguang Wang and Tim Oates. 2015. Encoding time series as images for visual inspection and classification using tiled convolutional neural networks. In Workshops at the Twenty-Ninth AAAI Conference on Artificial Intelligence .",
+      "text": "Zhiguang Wang and Tim Oates. 2015. Encoding time series as images for visual inspection and classification using tiled convolutional neural networks. In Workshops at the Twenty-Ninth AAAI Conference on Artificial Intelligence .",
+      "enumerated": true,
+      "marker": "[23]"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.955,
+            "t": 451.153525,
+            "r": 558.9687078789995,
+            "b": 417.6047334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "[22] Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, and Xiaoou Tang. 2017. Residual attention network for image classification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition . 3156-3164.",
+      "text": "Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, and Xiaoou Tang. 2017. Residual attention network for image classification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition . 3156-3164.",
+      "enumerated": true,
+      "marker": "[22]"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 395.362525,
+            "r": 559.3809919611998,
+            "b": 369.7847334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "[24] Zhiguang Wang and Tim Oates. 2015. Imaging time-series to improve classification and imputation. In Twenty-Fourth International Joint Conference on Artificial Intelligence .",
+      "text": "Zhiguang Wang and Tim Oates. 2015. Imaging time-series to improve classification and imputation. In Twenty-Fourth International Joint Conference on Artificial Intelligence .",
+      "enumerated": true,
+      "marker": "[24]"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.955,
+            "t": 355.511525,
+            "r": 559.3815917080002,
+            "b": 337.9037334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "[26] Matthew D Zeiler and Rob Fergus. 2014. Visualizing and understanding convolutional networks. In European conference on computer vision . Springer, 818-833.",
+      "text": "Matthew D Zeiler and Rob Fergus. 2014. Visualizing and understanding convolutional networks. In European conference on computer vision . Springer, 818-833.",
+      "enumerated": true,
+      "marker": "[26]"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 371.451525,
+            "r": 559.2779322719998,
+            "b": 353.8437334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "[25] Daniel S Wilks. 2011. Statistical methods in the atmospheric sciences . Vol. 100. Academic press.",
+      "text": "Daniel S Wilks. 2011. Statistical methods in the atmospheric sciences . Vol. 100. Academic press.",
+      "enumerated": true,
+      "marker": "[25]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 316.4266662597656,
+            "t": 394.6244812011719,
+            "r": 559.1832275390625,
+            "b": 257.97381591796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.9569091796875,
+            "t": 548.6658630371094,
+            "r": 557.896728515625,
+            "b": 385.766357421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.42002487182617,
+            "t": 404.5894470214844,
+            "r": 295.4917297363281,
+            "b": 274.597900390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.579734802246094,
+            "t": 707.9129791259766,
+            "r": 294.1347961425781,
+            "b": 570.2174835205078,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.5137023925781,
+            "t": 662.4579620361328,
+            "r": 558.901123046875,
+            "b": 544.9792022705078,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.96539306640625,
+            "t": 710.0553817749023,
+            "r": 168.15338134765625,
+            "b": 572.7011108398438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 180.43482971191406,
+            "t": 709.7642593383789,
+            "r": 295.4561767578125,
+            "b": 572.5229034423828,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/74"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.7713317871094,
+            "t": 342.2476501464844,
+            "r": 558.1885375976562,
+            "b": 208.44232177734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/74"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    }
+  }
+}

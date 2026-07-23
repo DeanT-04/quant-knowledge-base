@@ -1,0 +1,1241 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2311.10713_diversifying_an_index",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 1104676648335450852,
+    "filename": "2311.10713_diversifying_an_index.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 603.54,
+            "r": 36.206559297218156,
+            "b": 238.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "arXiv:2311.10713v1  [q-fin.PM]  16 Jul 2023",
+      "text": "arXiv:2311.10713v1  [q-fin.PM]  16 Jul 2023",
+      "hyperlink": "http://arxiv.org/abs/2311.10713v1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 222.48,
+            "t": 661.6145518,
+            "r": 389.63988075432997,
+            "b": 653.8799999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "DIVERSIFYING AN INDEX",
+      "text": "DIVERSIFYING AN INDEX",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 269.28,
+            "t": 630.844685,
+            "r": 342.8475227436251,
+            "b": 621.88727138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "JOHANNES RUF",
+      "text": "JOHANNES RUF",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.71999999999994,
+            "t": 602.164585,
+            "r": 503.41800373836213,
+            "b": 521.3274713800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            511
+          ]
+        }
+      ],
+      "orig": "Abstract. In July 2023, Nasdaq announced a 'Special Rebalance' of the Nasdaq-100 index to reduce the index weights of its large constituents. A rebalance as suggested currently by Nasdaq index methodology may have several undesirable effects. These effects can be avoided by a different, but simple rebalancing strategy. Such rebalancing is easily computable and guarantees (a) that the maximum overall index weight does not increase through the rebalancing and (b) that the order of index weights is preserved.",
+      "text": "Abstract. In July 2023, Nasdaq announced a 'Special Rebalance' of the Nasdaq-100 index to reduce the index weights of its large constituents. A rebalance as suggested currently by Nasdaq index methodology may have several undesirable effects. These effects can be avoided by a different, but simple rebalancing strategy. Such rebalancing is easily computable and guarantees (a) that the maximum overall index weight does not increase through the rebalancing and (b) that the order of index weights is preserved."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 264.8399999999999,
+            "t": 476.78172500000016,
+            "r": 347.36721200907584,
+            "b": 465.87262500000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "1. Background",
+      "text": "1. Background",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.83989999999994,
+            "t": 453.3817250000002,
+            "r": 539.2600941185389,
+            "b": 357.63292500000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            509
+          ]
+        }
+      ],
+      "orig": "As of July 2023, the top 6 constituents in the Nasdaq-100 index have an aggregate index weight of over 50%. Nasdaq 1 decided to address this overconcentration in the index by redistributing the index weights, in line with its official index methodology 2 . Although the rebalancing methodology is not explicitly laid out for the situation of a 'Special Rebalance', its standard weighting process indicates the following procedure: The sum of all index weights that are larger than 4.5% gets reweighted to 40%.",
+      "text": "As of July 2023, the top 6 constituents in the Nasdaq-100 index have an aggregate index weight of over 50%. Nasdaq 1 decided to address this overconcentration in the index by redistributing the index weights, in line with its official index methodology 2 . Although the rebalancing methodology is not explicitly laid out for the situation of a 'Special Rebalance', its standard weighting process indicates the following procedure: The sum of all index weights that are larger than 4.5% gets reweighted to 40%."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.84042999999991,
+            "t": 351.6150107000002,
+            "r": 539.1935467092333,
+            "b": 323.67282500000016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "Matt Levine in his excellent newsletter 3 described several undesirable effects that Nasdaq's procedure might cause:",
+      "text": "Matt Levine in his excellent newsletter 3 described several undesirable effects that Nasdaq's procedure might cause:"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 90.24042999999992,
+            "t": 313.9421250000002,
+            "r": 539.2702962542461,
+            "b": 286.1131250000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "(a) The ordering of index weights is not preserved. A constituent with a currently higher index weight might have a lower index weight after the rebalancing.",
+      "text": "(a) The ordering of index weights is not preserved. A constituent with a currently higher index weight might have a lower index weight after the rebalancing.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.64042999999992,
+            "t": 280.1019250000002,
+            "r": 539.0746421366541,
+            "b": 252.15302500000018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "(b) The largest index weight after the rebalancing might be larger than the largest index weight before the rebalancing.",
+      "text": "(b) The largest index weight after the rebalancing might be larger than the largest index weight before the rebalancing.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 233.76042999999993,
+            "t": 229.22232500000018,
+            "r": 378.5677180181868,
+            "b": 218.31322500000022,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "2. Proposed methodology",
+      "text": "2. Proposed methodology",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.8395099999999,
+            "t": 205.8223250000002,
+            "r": 539.2584457543729,
+            "b": 136.28776400000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            396
+          ]
+        }
+      ],
+      "orig": "Currently, each index weight is a relative market capitalization, i.e., constituent share price times their total shares outstanding divided by the aggregated market capitalization. Let us write µ 1 , µ 2 , . . . , µ 100 to denote these relative market capitalizations. By definition, they are all nonnegative and sum up to one: µ 1 + µ 2 + · · · + µ 100 = 1. Hence, they are valid index weights.",
+      "text": "Currently, each index weight is a relative market capitalization, i.e., constituent share price times their total shares outstanding divided by the aggregated market capitalization. Let us write µ 1 , µ 2 , . . . , µ 100 to denote these relative market capitalizations. By definition, they are all nonnegative and sum up to one: µ 1 + µ 2 + · · · + µ 100 = 1. Hence, they are valid index weights."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 84.7199,
+            "t": 124.44478500000002,
+            "r": 165.99573128845975,
+            "b": 115.48737138000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Date : July 13, 2023.",
+      "text": "Date : July 13, 2023."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 84.7199,
+            "t": 110.77519069999994,
+            "r": 607.2252526926288,
+            "b": 101.5201807131989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "1 https://www.nasdaq.com/press-release/the-nasdaq-100-index-special-rebalance-to-be-effective-july-24-2023-2023",
+      "text": "1 https://www.nasdaq.com/press-release/the-nasdaq-100-index-special-rebalance-to-be-effective-july-24-2023-2023",
+      "hyperlink": "https://www.nasdaq.com/press-release/the-nasdaq-100-index-special-rebalance-to-be-effective-july-24-2023-2023-07-07"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 84.71981999999997,
+            "t": 96.37521070000003,
+            "r": 327.74649748508756,
+            "b": 87.12020071319887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "2 https://indexes.nasdaq.com/docs/Methodology_NDX.pdf",
+      "text": "2 https://indexes.nasdaq.com/docs/Methodology_NDX.pdf",
+      "hyperlink": "https://indexes.nasdaq.com/docs/Methodology_NDX.pdf"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 84.71981999999997,
+            "t": 82.09513070000003,
+            "r": 558.2662623597183,
+            "b": 72.8405107131988,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "3 https://www.bloomberg.com/opinion/articles/2023-07-12/it-s-easy-to-make-oil-companies-esg#xj4y7vzkg",
+      "text": "3 https://www.bloomberg.com/opinion/articles/2023-07-12/it-s-easy-to-make-oil-companies-esg#xj4y7vzkg",
+      "hyperlink": "https://www.bloomberg.com/opinion/articles/2023-07-12/it-s-easy-to-make-oil-companies-esg#xj4y7vzkg"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.83933999999994,
+            "t": 67.97080854000001,
+            "r": 308.0714684099999,
+            "b": 62.11277769000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.8398,
+            "t": 715.4906585399999,
+            "r": 77.07192841,
+            "b": 709.6326276899999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 272.2798,
+            "t": 715.4906585399999,
+            "r": 339.7232965274854,
+            "b": 709.6326276899999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "JOHANNES RUF",
+      "text": "JOHANNES RUF"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.83997,
+            "t": 693.981825,
+            "r": 539.0737758727801,
+            "b": 666.152825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "Let us write η 1 , η 2 , . . . , η 100 for the new market weights. Nasdaq's standard reweighting might lead to the situation that",
+      "text": "Let us write η 1 , η 2 , . . . , η 100 for the new market weights. Nasdaq's standard reweighting might lead to the situation that"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 90.23997,
+            "t": 657.021725,
+            "r": 422.0618363179998,
+            "b": 645.1676824999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "(a) µ i < µ j but η i > η j for some numbers i and j between 1 and 100.",
+      "text": "(a) µ i < µ j but η i > η j for some numbers i and j between 1 and 100.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.64015999999995,
+            "t": 639.9819249999999,
+            "r": 414.7422267999999,
+            "b": 628.1274924999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "(b) The maximum of all η i 's is larger than the maximum of all µ i 's.",
+      "text": "(b) The maximum of all η i 's is larger than the maximum of all µ i 's.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.84039999999993,
+            "t": 619.9421249999999,
+            "r": 539.20378431786,
+            "b": 591.9928249999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "For the proposed reweighting, let us consider some number p between 0 and 1. We then set the new index weights equal to the original ones to the power of p and normalized to one, i.e.,",
+      "text": "For the proposed reweighting, let us consider some number p between 0 and 1. We then set the new index weights equal to the original ones to the power of p and normalized to one, i.e.,"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 244.08039999999997,
+            "t": 586.0578324999999,
+            "r": 367.94150069999995,
+            "b": 549.2072639999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "η i = µ p i µ p 1 + µ p 2 + · · · + µ p 100 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.83967999999999,
+            "t": 548.061805,
+            "r": 539.1281276600309,
+            "b": 520.1129050000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "For such choice of reweighting one always is guaranteed to preserve ordering and the maximum index weight is not increasing.",
+      "text": "For such choice of reweighting one always is guaranteed to preserve ordering and the maximum index weight is not increasing."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.83909999999992,
+            "t": 514.101705,
+            "r": 539.2013188359202,
+            "b": 452.31300500000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            334
+          ]
+        }
+      ],
+      "orig": "One is free to choose p between 0 and 1. If p = 1, one obtains the original weights. If p = 0, one obtains an equally-weighted index, where all constituents now have an index weight of 1 / 100. Thus, the smaller p is chosen, the more diversified is the index; and the larger p is chosen, the more capitalization-weighted is the index.",
+      "text": "One is free to choose p between 0 and 1. If p = 1, one obtains the original weights. If p = 0, one obtains an equally-weighted index, where all constituents now have an index weight of 1 / 100. Thus, the smaller p is chosen, the more diversified is the index; and the larger p is chosen, the more capitalization-weighted is the index."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.83913999999993,
+            "t": 436.46190500000006,
+            "r": 539.0607399997583,
+            "b": 408.63290500000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "Example 2.1 . Let us do a quick example, but with two instead of 100 stocks. Assume the original index weights are µ 1 = 0 . 7 and µ 2 = 0 . 3. Consider p = 1 / 2. Then the new index weights are",
+      "text": "Example 2.1 . Let us do a quick example, but with two instead of 100 stocks. Assume the original index weights are µ 1 = 0 . 7 and µ 2 = 0 . 3. Consider p = 1 / 2. Then the new index weights are"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 170.75983,
+            "t": 403.7891553,
+            "r": 441.02203069999996,
+            "b": 370.712725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "η 1 = √ 0 . 7 √ 0 . 7 + √ 0 . 3 ≈ 0 . 60; η 2 = √ 0 . 3 √ 0 . 7 + √ 0 . 3 ≈ 0 . 40 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.84020999999996,
+            "t": 362.901885,
+            "r": 283.11244778166,
+            "b": 351.99278499999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "If we had chosen p = 3 / 4 then we would get",
+      "text": "If we had chosen p = 3 / 4 then we would get"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 162.48032999999998,
+            "t": 342.81754249999994,
+            "r": 449.3017706999999,
+            "b": 314.79272499999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "η 1 = 0 . 7 3 / 4 0 . 7 3 / 4 +0 . 3 3 / 4 ≈ 0 . 65; η 2 = 0 . 3 3 / 4 0 . 7 3 / 4 +0 . 3 3 / 4 ≈ 0 . 35 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.83994999999993,
+            "t": 306.501845,
+            "r": 539.0948398056128,
+            "b": 261.63304500000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "These power weights and similar constructions have been studied in the literature of Stochastic Portfolio Theory; see for example, Fernholz (2002) or Karatzas and Ruf (2017). These weights also have the advantage to collect a 'diversity premium' Banner et al. (2019).",
+      "text": "These power weights and similar constructions have been studied in the literature of Stochastic Portfolio Theory; see for example, Fernholz (2002) or Karatzas and Ruf (2017). These weights also have the advantage to collect a 'diversity premium' Banner et al. (2019)."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.83994999999987,
+            "t": 255.62224500000002,
+            "r": 539.3347770001202,
+            "b": 176.79294500000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            471
+          ]
+        }
+      ],
+      "orig": "One might want to consider a slightly more involved transformation of the index weights in order to avoid overweighting small index components and also to reduce the necessary trading during rebalancing. Thus, instead of transforming the index weights by taking their power and normalizing these numbers, one could linearize the power transformation near zero; hence, in particular, only transforming the larger weights (while making sure that monotonicity is preserved).",
+      "text": "One might want to consider a slightly more involved transformation of the index weights in order to avoid overweighting small index components and also to reduce the necessary trading during rebalancing. Thus, instead of transforming the index weights by taking their power and normalizing these numbers, one could linearize the power transformation near zero; hence, in particular, only transforming the larger weights (while making sure that monotonicity is preserved)."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 274.2003499999999,
+            "t": 156.49133559999996,
+            "r": 338.1058728545579,
+            "b": 146.5749637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.84034999999989,
+            "t": 133.34234500000002,
+            "r": 538.9424204000861,
+            "b": 105.51334499999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "Banner, A., Fernholz, E. R. R., Papathanakos, V., Ruf, J., and Schofield, D. (2019). Diversification, volatility, and surprising alpha. Journal of Investment Consulting , 19:23-30.",
+      "text": "Banner, A., Fernholz, E. R. R., Papathanakos, V., Ruf, J., and Schofield, D. (2019). Diversification, volatility, and surprising alpha. Journal of Investment Consulting , 19:23-30."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.84134999999986,
+            "t": 99.38224500000001,
+            "r": 539.052499976302,
+            "b": 71.55324499999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "Fernholz, E. R. (2002). Stochastic Portfolio Theory , volume 48 of Applications of Mathematics (New York) . Springer-Verlag, New York. Stochastic Modelling and Applied Probability.",
+      "text": "Fernholz, E. R. (2002). Stochastic Portfolio Theory , volume 48 of Applications of Mathematics (New York) . Springer-Verlag, New York. Stochastic Modelling and Applied Probability."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 250.2,
+            "t": 715.4906585399999,
+            "r": 361.77609046916785,
+            "b": 709.6326276899999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "DIVERSIFYING AN INDEX",
+      "text": "DIVERSIFYING AN INDEX"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 534.96,
+            "t": 715.4906585399999,
+            "r": 539.19212841,
+            "b": 709.6326276899999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.84000000000003,
+            "t": 693.981825,
+            "r": 539.0955433981394,
+            "b": 666.152825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "Karatzas, I. and Ruf, J. (2017). Trading strategies generated by Lyapunov functions. Finance and Stochastics , 21(3):753-787.",
+      "text": "Karatzas, I. and Ruf, J. (2017). Trading strategies generated by Lyapunov functions. Finance and Stochastics , 21(3):753-787."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 84.72079999999994,
+            "t": 650.81992808,
+            "r": 529.5147634800949,
+            "b": 627.88727138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "Johannes Ruf, Department of Mathematics, London School of Economics and Political Science Email address : j.ruf@lse.ac.uk",
+      "text": "Johannes Ruf, Department of Mathematics, London School of Economics and Political Science Email address : j.ruf@lse.ac.uk"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    }
+  }
+}

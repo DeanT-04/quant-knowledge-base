@@ -1,0 +1,3565 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "0705.3958_photon_acceleration_at_shock_breakout_of_trans_rel",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 602880104033860350,
+    "filename": "0705.3958_photon_acceleration_at_shock_breakout_of_trans_rel.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/107"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 604.62,
+            "r": 36.206559297218156,
+            "b": 243.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:0705.3958v1  [astro-ph]  28 May 2007",
+      "text": "arXiv:0705.3958v1  [astro-ph]  28 May 2007",
+      "hyperlink": "http://arxiv.org/abs/0705.3958v1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 116.76,
+            "t": 704.21078,
+            "r": 461.66457558544005,
+            "b": 666.1828733333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Photon Acceleration at Shock Breakout of Trans-Relativistic Supernova",
+      "text": "Photon Acceleration at Shock Breakout of Trans-Relativistic Supernova",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.7197,
+            "t": 629.07174,
+            "r": 469.4489152,
+            "b": 612.8387038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Zhuo Li a Xiang-Yu Wang b , c Eli Waxman a Peter M´ esz´ aros b",
+      "text": "Zhuo Li a Xiang-Yu Wang b , c Eli Waxman a Peter M´ esz´ aros b"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 156.47965,
+            "t": 602.3234451299999,
+            "r": 419.42125767055444,
+            "b": 590.6833344999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "a Physics Faculty, Weizmann Institute of Science, Israel",
+      "text": "a Physics Faculty, Weizmann Institute of Science, Israel"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 92.27965,
+            "t": 584.8034851299999,
+            "r": 483.78629367093345,
+            "b": 573.1633744999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "b Department of Astronomy and Astrophysics, Pennsylvania State University, USA",
+      "text": "b Department of Astronomy and Astrophysics, Pennsylvania State University, USA"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 158.03973000000002,
+            "t": 567.1632251299999,
+            "r": 417.8945614818789,
+            "b": 555.5235044999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "c Department of Astronomy, Nanjing University, China",
+      "text": "c Department of Astronomy, Nanjing University, China"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 91.9199,
+            "t": 517.4945518,
+            "r": 139.87630360000003,
+            "b": 509.8145454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 91.91989999999998,
+            "t": 493.222025,
+            "r": 486.51277246336116,
+            "b": 360.3923249999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            787
+          ]
+        }
+      ],
+      "orig": "The predicted thermal flash from supernova (SN) shock breakout might have been detected for the first time by Swift in GRB 060218/SN 2006aj. The detected thermal X-ray emission in this event implies emergence of a trans-relativistic (TR) SN shock with kinetic energy of E k ≳ 10 49 erg. During TRSN shock breakout, the thermal photons could be 'accelerated' by the shock through repeated bulk Compton scattering, forming a nonthermal γ /X-ray component with dominant energy over thermal one. This mechanism of 'photon acceleration' at TRSN shock breakout might also account for gamma-rays in the other similar low-luminosity GRBs, implying that they are atypical GRBs with only TR outflows. TRSNe form a peculiar type of SNe with large kinetic energy, ≳ 10 49 erg, in TR ejecta, Γ β ≳ 2.",
+      "text": "The predicted thermal flash from supernova (SN) shock breakout might have been detected for the first time by Swift in GRB 060218/SN 2006aj. The detected thermal X-ray emission in this event implies emergence of a trans-relativistic (TR) SN shock with kinetic energy of E k ≳ 10 49 erg. During TRSN shock breakout, the thermal photons could be 'accelerated' by the shock through repeated bulk Compton scattering, forming a nonthermal γ /X-ray component with dominant energy over thermal one. This mechanism of 'photon acceleration' at TRSN shock breakout might also account for gamma-rays in the other similar low-luminosity GRBs, implying that they are atypical GRBs with only TR outflows. TRSNe form a peculiar type of SNe with large kinetic energy, ≳ 10 49 erg, in TR ejecta, Γ β ≳ 2."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 91.92017999999996,
+            "t": 339.01061559999994,
+            "r": 144.09849039098,
+            "b": 328.9633345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Key words:",
+      "text": "Key words:"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 151.44007999999997,
+            "t": 339.38152499999995,
+            "r": 327.4693706182259,
+            "b": 328.47242499999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "supernovae, shock waves, gamma-ray",
+      "text": "supernovae, shock waves, gamma-ray"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 91.9199,
+            "t": 299.12864,
+            "r": 277.2727104511744,
+            "b": 273.5704533333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "1 Thermal emission in GRB 060218/SN 2006aj",
+      "text": "1 Thermal emission in GRB 060218/SN 2006aj",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 91.9199,
+            "t": 242.24630000000002,
+            "r": 277.29511398190095,
+            "b": 70.6073725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            421
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.20047,
+            "t": 299.7263,
+            "r": 486.4928244148484,
+            "b": 143.27914479999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            422,
+            814
+          ]
+        }
+      ],
+      "orig": "ASNexplosion must result in a shock wave propagating inside the progenitor star and leading to ejection of the stellar envelope. The SN shock must be radiation-pressure dominated due to the huge optical depth trapping the radiation inside the star, and the shock should be mediated by Compton scattering of photons. The scattering optical depth within the shock width is τ sh ∼ c/v sh with v sh the shock velocity. As the shock makes its way outward, the pre-shock optical depth, τ , decreases. Once τ ∼ τ sh , the radiation start to diffuse faster than shock propagation and hence escapes. At this moment a thermal radiation flash arises, marking the SN emergence. Shock breakout flashes have been predicted for decades (1) but never been detected due to their transient nature and early occurrence in X-ray band.",
+      "text": "ASNexplosion must result in a shock wave propagating inside the progenitor star and leading to ejection of the stellar envelope. The SN shock must be radiation-pressure dominated due to the huge optical depth trapping the radiation inside the star, and the shock should be mediated by Compton scattering of photons. The scattering optical depth within the shock width is τ sh ∼ c/v sh with v sh the shock velocity. As the shock makes its way outward, the pre-shock optical depth, τ , decreases. Once τ ∼ τ sh , the radiation start to diffuse faster than shock propagation and hence escapes. At this moment a thermal radiation flash arises, marking the SN emergence. Shock breakout flashes have been predicted for decades (1) but never been detected due to their transient nature and early occurrence in X-ray band."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.20071,
+            "t": 126.6860999999999,
+            "r": 486.5672270521091,
+            "b": 71.39904479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 91.91987999999999,
+            "t": 719.8038951299999,
+            "r": 277.30552948287993,
+            "b": 114.71965480000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            139,
+            1658
+          ]
+        }
+      ],
+      "orig": "Recently, thanks to Swift a thermal X-ray component was detected in the prompt emission of GRB 060218 (2). The thermal emission showed to- tal energy E ∼ 10 49 erg, temperature T ≈ 0 . 2 keV and duration ∆ t ∼ 10 3 s. For a stellar-scale event, this amount of energy in keV temperature simply suggests a radiation-dominated emission region. Its size can be estimated to be R ∼ ( E/aT 4 ) 1 / 3 ∼ 10 13 cm, much larger than that of the compact progenitor for the observed associated type Ic SN. In the context of SN shock breakout, R should be the breakout radius, so there should be still substantial material outside of the stellar surface that would trap the radiation. The required amount of mass beyond the breakout radius R is only M = 4 πR 2 τ/κ ∼ 10 -6 τM ⊙ , which could be either a somewhat large stellar wind (of mass loss rate ˙ M = Mv wind /R ∼ 10 -4 τM ⊙ /yr and wind velocity v wind = 10 3 km/s) or just some mass shell that is ejected few days before the burst. Note, τ ∼ c/v sh in the above equations for optical depth at breakout radius R . The shock velocity can be derived from jump condition in the radiation dominated shock, aT 4 ∼ 3 ρv 2 sh , where ρ is the medium density at R ( ρ = ˙ M/ 4 πR 2 v wind for a ρ ∝ r -2 wind). It turns out to be a TR shock velocity, v sh /c ∼ few (more detailed calculation in (3) gives Γ β sh ∼ 2). In short, the observed large thermal energy E with high temperature T in GRB 060218 might imply that a TRSN shock breaks through from an optically thick stellar wind or preejected shell. Note, R/c ∼ 200s < ∆ t just means that this is an anisotropic explosion, where the flash duration is not simply R/c .",
+      "text": "Recently, thanks to Swift a thermal X-ray component was detected in the prompt emission of GRB 060218 (2). The thermal emission showed to- tal energy E ∼ 10 49 erg, temperature T ≈ 0 . 2 keV and duration ∆ t ∼ 10 3 s. For a stellar-scale event, this amount of energy in keV temperature simply suggests a radiation-dominated emission region. Its size can be estimated to be R ∼ ( E/aT 4 ) 1 / 3 ∼ 10 13 cm, much larger than that of the compact progenitor for the observed associated type Ic SN. In the context of SN shock breakout, R should be the breakout radius, so there should be still substantial material outside of the stellar surface that would trap the radiation. The required amount of mass beyond the breakout radius R is only M = 4 πR 2 τ/κ ∼ 10 -6 τM ⊙ , which could be either a somewhat large stellar wind (of mass loss rate ˙ M = Mv wind /R ∼ 10 -4 τM ⊙ /yr and wind velocity v wind = 10 3 km/s) or just some mass shell that is ejected few days before the burst. Note, τ ∼ c/v sh in the above equations for optical depth at breakout radius R . The shock velocity can be derived from jump condition in the radiation dominated shock, aT 4 ∼ 3 ρv 2 sh , where ρ is the medium density at R ( ρ = ˙ M/ 4 πR 2 v wind for a ρ ∝ r -2 wind). It turns out to be a TR shock velocity, v sh /c ∼ few (more detailed calculation in (3) gives Γ β sh ∼ 2). In short, the observed large thermal energy E with high temperature T in GRB 060218 might imply that a TRSN shock breaks through from an optically thick stellar wind or preejected shell. Note, R/c ∼ 200s < ∆ t just means that this is an anisotropic explosion, where the flash duration is not simply R/c ."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 95.40071,
+            "t": 42.37091559999999,
+            "r": 240.90658577843186,
+            "b": 32.31272539999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Preprint submitted to Elsevier",
+      "text": "Preprint submitted to Elsevier"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 411.48127337843187,
+            "t": 42.37091559999999,
+            "r": 485.45580324200375,
+            "b": 32.31272539999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "26 August 2021",
+      "text": "26 August 2021"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 301.2008419999999,
+            "t": 718.4090500000003,
+            "r": 490.2990049961726,
+            "b": 678.3305633333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "2 Nonthermalflash: photon acceleration in trans-relativistic SN shock",
+      "text": "2 Nonthermalflash: photon acceleration in trans-relativistic SN shock",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 301.2008419999999,
+            "t": 646.7666100000004,
+            "r": 486.52202020784677,
+            "b": 71.3997748000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1379
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 377.316,
+            "t": 607.0411285476499,
+            "r": 380.1444823405126,
+            "b": 593.4992958814624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1380,
+            1383
+          ]
+        }
+      ],
+      "orig": "The observed prompt emission in GRB 060218 is still dominated by nonthermal γ /X-rays, which constitute 80% flux in Swift XRT. In sense of dominant energy, the production of nonthermal component is still an important question. We showed in (4) that the nonthermal emission is naturally expected in the context of TRSN shock breakout. The reason is the following. During the TR shock breakout, the pre-shock optical depth τ ∼ 1 /β sh ∼ 1 is still substantial, thus some fraction of the outgoing photons could be backscattered (with a probability of ∼ τ ) and travel through the shock from upstream to downstream. These photons would encounter the downstream electrons, i.e., in the sweptup material or the SN ejecta, which are moving in a bulk Lorentz factor Γ ∼ few (Downstream electrons are practically cold since their thermal energy is much less than their bulk kinetic energy). The downstream electrons can Compton scatter photons back through the shock (from downstream to upstream) with energy increased by ∼ Γ 2 . Then photons might undergo multiple shock crossings, and the photon energy would be enhanced by a factor ∼ Γ 2 each shock crossing cycle, leading to a power-law like photon spectrum. This process of 'photon acceleration' (Fig. 1) mimics the Fermi acceleration of charged particles in collisionless shocks. The energy source for 'photon acceleration' would be s32",
+      "text": "The observed prompt emission in GRB 060218 is still dominated by nonthermal γ /X-rays, which constitute 80% flux in Swift XRT. In sense of dominant energy, the production of nonthermal component is still an important question. We showed in (4) that the nonthermal emission is naturally expected in the context of TRSN shock breakout. The reason is the following. During the TR shock breakout, the pre-shock optical depth τ ∼ 1 /β sh ∼ 1 is still substantial, thus some fraction of the outgoing photons could be backscattered (with a probability of ∼ τ ) and travel through the shock from upstream to downstream. These photons would encounter the downstream electrons, i.e., in the sweptup material or the SN ejecta, which are moving in a bulk Lorentz factor Γ ∼ few (Downstream electrons are practically cold since their thermal energy is much less than their bulk kinetic energy). The downstream electrons can Compton scatter photons back through the shock (from downstream to upstream) with energy increased by ∼ Γ 2 . Then photons might undergo multiple shock crossings, and the photon energy would be enhanced by a factor ∼ Γ 2 each shock crossing cycle, leading to a power-law like photon spectrum. This process of 'photon acceleration' (Fig. 1) mimics the Fermi acceleration of charged particles in collisionless shocks. The energy source for 'photon acceleration' would be s32"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 284.52166200000016,
+            "t": 43.52713000000051,
+            "r": 290.36775480000017,
+            "b": 31.559974800000532,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 91.91989999999998,
+            "t": 562.701825,
+            "r": 486.4141640177741,
+            "b": 524.672725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "Fig. 1. Schematic plot of 'shock acceleration' of photons at TRSN shock breakout. The observed photon energy is enhanced by a factor of ∼ Γ 2 each shock crossing cycle.",
+      "text": "Fig. 1. Schematic plot of 'shock acceleration' of photons at TRSN shock breakout. The observed photon energy is enhanced by a factor of ∼ Γ 2 each shock crossing cycle."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 334.412,
+            "t": 669.8775468287042,
+            "r": 339.6591110243205,
+            "b": 659.4133526014134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s69",
+      "text": "s69"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 339.634,
+            "t": 670.2557311772464,
+            "r": 348.4743326636105,
+            "b": 664.0123974597724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "s111s98s115s46",
+      "text": "s111s98s115s46"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 339.634,
+            "t": 664.1096411772464,
+            "r": 342.2443818170034,
+            "b": 657.8663074597724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s49",
+      "text": "s49"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 348.493,
+            "t": 669.8775468287042,
+            "r": 353.08710306375355,
+            "b": 659.4133526014134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "s126",
+      "text": "s126"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 357.351,
+            "t": 670.2557311772464,
+            "r": 359.96138181700337,
+            "b": 664.0123974597724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s50",
+      "text": "s50"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 359.929,
+            "t": 669.8775468287042,
+            "r": 365.1761110243205,
+            "b": 659.4133526014134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s69",
+      "text": "s69"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 365.152,
+            "t": 670.2557311772464,
+            "r": 373.99233266361045,
+            "b": 664.0123974597724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "s111s98s115s46",
+      "text": "s111s98s115s46"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 365.152,
+            "t": 664.1096411772464,
+            "r": 367.76238181700336,
+            "b": 657.8663074597724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s48",
+      "text": "s48"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 263.478,
+            "t": 626.9865468287043,
+            "r": 268.72511102432054,
+            "b": 616.5223526014134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s69",
+      "text": "s69"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 268.7,
+            "t": 627.3647311772464,
+            "r": 276.2032311958374,
+            "b": 621.1213974597724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "s111s98s115",
+      "text": "s111s98s115"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 268.7,
+            "t": 621.2186411772465,
+            "r": 271.31038181700336,
+            "b": 614.9753074597725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s48",
+      "text": "s48"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 276.236,
+            "t": 626.9865468287043,
+            "r": 289.5692766535355,
+            "b": 616.5223526014134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "s126s107s84",
+      "text": "s126s107s84"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 286.682,
+            "t": 709.2070964113831,
+            "r": 330.78013602432,
+            "b": 697.1600878089467,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "s115s104s111s99s107s32s102s114s111s110s116",
+      "text": "s115s104s111s99s107s32s102s114s111s110s116"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 216.673,
+            "t": 709.7350964113831,
+            "r": 240.74902687167864,
+            "b": 697.6880878089468,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "s112s105s115s116s111s110",
+      "text": "s112s105s115s116s111s110"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 315.505,
+            "t": 604.3821708270058,
+            "r": 377.31349360348236,
+            "b": 594.357648737884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "s112s114s101s45s115s104s111s99s107s32s109s101s100s105s117s109",
+      "text": "s112s114s101s45s115s104s111s99s107s32s109s101s100s105s117s109"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 240.34,
+            "t": 603.722115192532,
+            "r": 298.02746992653687,
+            "b": 593.5217322315369,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "s115s104s111s99s107s101s100s32s109s101s100s105s117s109",
+      "text": "s115s104s111s99s107s101s100s32s109s101s100s105s117s109"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 201.799,
+            "t": 652.3503920288729,
+            "r": 206.15446630607974,
+            "b": 644.8759656799998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "s101s106",
+      "text": "s101s106"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 206.161868468,
+            "t": 659.9071196251389,
+            "r": 222.39326123296303,
+            "b": 647.3325017957684,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "s62s62s49",
+      "text": "s62s62s49"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 91.92003,
+            "t": 512.3664,
+            "r": 277.21505444203535,
+            "b": 471.4793448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "the bulk kinetic energy of the SN ejecta, thus the process can be called bulk Comptonization.",
+      "text": "the bulk kinetic energy of the SN ejecta, thus the process can be called bulk Comptonization."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 91.92003,
+            "t": 444.56640000000004,
+            "r": 277.2863473524483,
+            "b": 71.39944480000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            926
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.20004,
+            "t": 512.3666000000001,
+            "r": 486.49162166722584,
+            "b": 341.51944480000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            927,
+            1349
+          ]
+        }
+      ],
+      "orig": "Since the shock propagation leads to that τ and hence the rate of photon backscattering are decreasing with time, it is not easy to solve the problem analytically. In order to find out if photons can be accelerated efficiently and a dominant nonthermal component arises at TRSN shock breakout, we carry out a monte-carlo (MC) calculation in this problem with some simple assumptions. We consider the SN ejecta as a piston with constant Γ and infinite optical depth moving in a stratified medium, ρ ∝ r -2 . The piston drives a shock into the medium, thus there are three regions in the picture: the piston, the shocked medium and the pre-shock medium. The thermal photons are generated downstream before breakout. During photons diffuse out they undergo scattering in these three regions, with energy gain in head-on collisions and energy lose in head-tail ones. In the MC calculation, we inject thermal photons in the shocked medium region at some point and follow the scattering history until it escapes out. Klein-Nishina effect is considered in scattering, and photons are taken as test particles. Two important assumptions are: first, we consider planar geometry and photons travelling in one dimension; secondly, we assume infinitesimal shock width, simply because the structure of radiation-dominated shock is not known for relativistic case.",
+      "text": "Since the shock propagation leads to that τ and hence the rate of photon backscattering are decreasing with time, it is not easy to solve the problem analytically. In order to find out if photons can be accelerated efficiently and a dominant nonthermal component arises at TRSN shock breakout, we carry out a monte-carlo (MC) calculation in this problem with some simple assumptions. We consider the SN ejecta as a piston with constant Γ and infinite optical depth moving in a stratified medium, ρ ∝ r -2 . The piston drives a shock into the medium, thus there are three regions in the picture: the piston, the shocked medium and the pre-shock medium. The thermal photons are generated downstream before breakout. During photons diffuse out they undergo scattering in these three regions, with energy gain in head-on collisions and energy lose in head-tail ones. In the MC calculation, we inject thermal photons in the shocked medium region at some point and follow the scattering history until it escapes out. Klein-Nishina effect is considered in scattering, and photons are taken as test particles. Two important assumptions are: first, we consider planar geometry and photons travelling in one dimension; secondly, we assume infinitesimal shock width, simply because the structure of radiation-dominated shock is not known for relativistic case."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.19985999999994,
+            "t": 314.4866000000002,
+            "r": 486.5031524021763,
+            "b": 71.39964480000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            605
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 294.065,
+            "t": 710.430932951758,
+            "r": 295.9917049130667,
+            "b": 701.2030604791655,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            606,
+            609
+          ]
+        }
+      ],
+      "orig": "The resulted spectra of calculation for single-time injection of thermal photons, corresponding to certain τ or r , are shown in Fig. 2 (from Fig. 1 of reference (4)). It can be seen that in the case of TR shocks, Γ = 1 . 5 -2, the final emergent nonthermal emission is dominant over the initial injected thermal one, and the peak energy is E peak ∼ a few keV, consistent with observed in GRB 060218. So the main spectral features of GRB 060218 is reproduced in general by the TRSN shocks. TR bulk motion is also required to upscatter photons efficiently, and to have low optical depth at breakout radius, s32",
+      "text": "The resulted spectra of calculation for single-time injection of thermal photons, corresponding to certain τ or r , are shown in Fig. 2 (from Fig. 1 of reference (4)). It can be seen that in the case of TR shocks, Γ = 1 . 5 -2, the final emergent nonthermal emission is dominant over the initial injected thermal one, and the peak energy is E peak ∼ a few keV, consistent with observed in GRB 060218. So the main spectral features of GRB 060218 is reproduced in general by the TRSN shocks. TR bulk motion is also required to upscatter photons efficiently, and to have low optical depth at breakout radius, s32"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 284.51979,
+            "t": 43.52700000000016,
+            "r": 290.3658828,
+            "b": 31.559844800000178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 219.433,
+            "t": 498.566227046591,
+            "r": 224.49989007149446,
+            "b": 490.98619369612476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "s45s49",
+      "text": "s45s49"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 256.9138262136,
+            "t": 498.566227046591,
+            "r": 260.0819066156147,
+            "b": 490.98619369612476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s48",
+      "text": "s48"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 293.4869196044,
+            "t": 498.566227046591,
+            "r": 296.6550000064147,
+            "b": 490.98619369612476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s49",
+      "text": "s49"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 329.9767191594,
+            "t": 498.566227046591,
+            "r": 333.1447995614147,
+            "b": 490.98619369612476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s50",
+      "text": "s50"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 366.46691868479996,
+            "t": 498.566227046591,
+            "r": 369.6349990868147,
+            "b": 490.98619369612476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s51",
+      "text": "s51"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 210.84743537879996,
+            "t": 503.933027046591,
+            "r": 217.1526636080448,
+            "b": 496.35299369612477,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "s49s48",
+      "text": "s49s48"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.12204102361997,
+            "t": 504.7452227683974,
+            "r": 219.00452648278704,
+            "b": 500.2411380383572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s50",
+      "text": "s50"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 210.84743537879996,
+            "t": 533.573227046591,
+            "r": 217.1526636080448,
+            "b": 525.9931936961248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "s49s48",
+      "text": "s49s48"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.12204102361997,
+            "t": 534.3854227683975,
+            "r": 219.00452648278704,
+            "b": 529.8813380383572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s51",
+      "text": "s51"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 210.84743537879996,
+            "t": 563.130627046591,
+            "r": 217.1526636080448,
+            "b": 555.5505936961248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "s49s48",
+      "text": "s49s48"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.12204102361997,
+            "t": 563.9428227683975,
+            "r": 219.00452648278704,
+            "b": 559.4387380383572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s52",
+      "text": "s52"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 210.84743537879996,
+            "t": 592.7708270465911,
+            "r": 217.1526636080448,
+            "b": 585.1907936961248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "s49s48",
+      "text": "s49s48"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.12204102361997,
+            "t": 593.5830227683975,
+            "r": 219.00452648278704,
+            "b": 589.0789380383573,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s53",
+      "text": "s53"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 210.847,
+            "t": 601.770227046591,
+            "r": 217.15222822924486,
+            "b": 594.1901936961248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "s49s48",
+      "text": "s49s48"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.12160564482002,
+            "t": 602.5824227683975,
+            "r": 219.0040911039871,
+            "b": 598.0783380383572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s50",
+      "text": "s50"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 210.847,
+            "t": 634.3827270465911,
+            "r": 217.15222822924486,
+            "b": 626.8026936961248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "s49s48",
+      "text": "s49s48"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.12160564482002,
+            "t": 635.1949227683975,
+            "r": 219.0040911039871,
+            "b": 630.6908380383572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s51",
+      "text": "s51"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 210.847,
+            "t": 666.9128270465911,
+            "r": 217.15222822924486,
+            "b": 659.3327936961249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "s49s48",
+      "text": "s49s48"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.12160564482002,
+            "t": 667.7246327683976,
+            "r": 219.0040911039871,
+            "b": 663.2205480383573,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s52",
+      "text": "s52"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 210.847,
+            "t": 699.5249370465912,
+            "r": 217.15222822924486,
+            "b": 691.9449036961249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "s49s48",
+      "text": "s49s48"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.12160564482002,
+            "t": 700.3371327683976,
+            "r": 219.0040911039871,
+            "b": 695.8330480383573,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s53",
+      "text": "s53"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 294.065,
+            "t": 612.5929329517579,
+            "r": 295.9917049130667,
+            "b": 603.3650604791654,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s32",
+      "text": "s32"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 268.8024695656,
+            "t": 486.43693295175797,
+            "r": 286.61142690331764,
+            "b": 477.20906047916543,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "s76s111s103s40s104",
+      "text": "s76s111s103s40s104"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 293.239,
+            "t": 486.436932951758,
+            "r": 308.67492191872265,
+            "b": 477.2090604791655,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "s75s101s86s41",
+      "text": "s75s101s86s41"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 236.605,
+            "t": 592.3582808126612,
+            "r": 243.12127925523902,
+            "b": 584.6683826502816,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "s61s50",
+      "text": "s61s50"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 336.004,
+            "t": 688.544227046591,
+            "r": 340.75044477768,
+            "b": 680.9641936961248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "s32 s40",
+      "text": "s32 s40"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 343.021,
+            "t": 683.9899227683975,
+            "r": 346.1671337469554,
+            "b": 679.4858380383572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "s105 s110 s106",
+      "text": "s105 s110 s106"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 346.24092170816,
+            "t": 688.5441370465911,
+            "r": 355.85881993102,
+            "b": 680.9641036961249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "s61s50 s41",
+      "text": "s61s50 s41"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 336.004,
+            "t": 679.297227046591,
+            "r": 340.75044477768,
+            "b": 671.7171936961248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "s32 s40",
+      "text": "s32 s40"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 343.021,
+            "t": 674.7429227683974,
+            "r": 346.1671337469554,
+            "b": 670.2388380383571,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "s105 s110 s106",
+      "text": "s105 s110 s106"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 346.24092170816,
+            "t": 679.297527046591,
+            "r": 356.84947660888764,
+            "b": 671.7174936961247,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "s61s99s47s118",
+      "text": "s61s99s47s118"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 356.89053357856,
+            "t": 674.7429227683974,
+            "r": 358.5829524637111,
+            "b": 670.2388380383571,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "s115",
+      "text": "s115"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 358.45928748218,
+            "t": 679.0058228124999,
+            "r": 361.63773225986,
+            "b": 672.6732962499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s41",
+      "text": "s41"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 336.004,
+            "t": 670.0502270465911,
+            "r": 340.75044477768,
+            "b": 662.4701936961249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "s32 s40",
+      "text": "s32 s40"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 343.021,
+            "t": 665.4959227683975,
+            "r": 346.1671337469554,
+            "b": 660.9918380383572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "s105 s110 s106",
+      "text": "s105 s110 s106"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 346.24092170816,
+            "t": 670.0501370465911,
+            "r": 360.56424170404,
+            "b": 662.4701036961249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "s61s48s46s53 s41",
+      "text": "s61s48s46s53 s41"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 336.004,
+            "t": 661.0502270465911,
+            "r": 339.4695411843985,
+            "b": 653.4701936961249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "s32s40",
+      "text": "s32s40"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 341.7,
+            "t": 656.4959227683975,
+            "r": 344.8461337469554,
+            "b": 651.9918380383572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "s105 s110 s106",
+      "text": "s105 s110 s106"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 344.91953173702,
+            "t": 661.050527046591,
+            "r": 357.9616268514745,
+            "b": 653.4704936961248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "s61s48s46s50s41",
+      "text": "s61s48s46s50s41"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 294.065,
+            "t": 594.5119329517579,
+            "r": 295.9917049130667,
+            "b": 585.2840604791654,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s32",
+      "text": "s32"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 197.09388730201638,
+            "t": 578.758695361474,
+            "r": 208.1884902641549,
+            "b": 573.665,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s70",
+      "text": "s70"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 197.09388730201638,
+            "t": 633.2458190765121,
+            "r": 208.1884902641549,
+            "b": 581.179,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "s40s97s114s98s105s116s114s97s114s121s32s117s110s105s116s41",
+      "text": "s40s97s114s98s105s116s114s97s114s121s32s117s110s105s116s41"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 233.22,
+            "t": 687.7182808126612,
+            "r": 244.44202323343364,
+            "b": 680.0283826502816,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "s61s49s46s53",
+      "text": "s61s49s46s53"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 371.9585800362606,
+            "t": 643.4588406749248,
+            "r": 381.18577392033336,
+            "b": 641.532,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s32",
+      "text": "s32"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 371.9585800362606,
+            "t": 545.6218406749248,
+            "r": 381.18577392033336,
+            "b": 543.695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "s32",
+      "text": "s32"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 91.91989999999998,
+            "t": 453.741825,
+            "r": 486.4585558548561,
+            "b": 429.272525,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "Fig. 2. MC results: the time-integrated energy distribution of the escaping photons (solid lines) for single-time injection of thermal photons (dotted lines).",
+      "text": "Fig. 2. MC results: the time-integrated energy distribution of the escaping photons (solid lines) for single-time injection of thermal photons (dotted lines)."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 91.91989999999998,
+            "t": 416.3662,
+            "r": 277.2579282553602,
+            "b": 288.83934480000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            317
+          ]
+        }
+      ],
+      "orig": "τ ∼ c/v sh < a few, so that photon absorption is unimportant. The photon arrival times in single-injection cases spread in much shorter periods as opposed to the observed 10 3 s duration, which is due to the anisotropic geometry. In our model, the nonthermal emission duration should be comparable to the thermal one.",
+      "text": "τ ∼ c/v sh < a few, so that photon absorption is unimportant. The photon arrival times in single-injection cases spread in much shorter periods as opposed to the observed 10 3 s duration, which is due to the anisotropic geometry. In our model, the nonthermal emission duration should be comparable to the thermal one."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 91.92007999999998,
+            "t": 240.80874000000006,
+            "r": 277.2439463500801,
+            "b": 200.85055333333344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "3 Low-luminosity GRB: transrelativistic SN shock breakout",
+      "text": "3 Low-luminosity GRB: transrelativistic SN shock breakout",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 91.92007999999998,
+            "t": 170.00650000000007,
+            "r": 277.44056743928314,
+            "b": 71.39914480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 301.20007999999996,
+            "t": 416.3663,
+            "r": 486.5322602528771,
+            "b": 72.11924480000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            237,
+            1086
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.9199,
+            "t": 719.0064,
+            "r": 277.2572729634306,
+            "b": 663.7193448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1087,
+            1234
+          ]
+        }
+      ],
+      "orig": "So far Type Ic SNe are spectroscopically observed to be associated with four GRBs, namely GRBs 980425, 030329, 031203 and 060218. Among them the luminous GRB 030329 appears to be typical, while the other three show much lower luminosity and lower redshifts ( z < 1). The three low-luminosity GRBs (LLGRBs) show similar gamma-ray emission properties: they all show low (isotropic) energy, E γ,iso < 10 50 erg (10 52 -54 erg for typical GRBs); the light curves are smooth without multiple peaks; the spectra could be fit with power law with some cutoff at few hundreds keV or lower. These properties are consistent with nonthermal flashes from TRSN shock breakout discussed above. Furthermore, their afterglows also show hints for mildly relativistic ejecta. In GRB 980425, the radio afterglow modelling implies the Lorentz factor and kinetic energy of the SN ejecta as Γ ≈ 1 . 5 and E k ≈ 5 × 10 49 , respectively (5); The relatively flat light curve of its X-ray afterglow up to ∼ 100 days after the burst is consistent with a long coasting phase (due to low medium density) of a mildly relativistic shell with energy of a few 10 49 erg (6). Similarly, the X-ray afterglow of GRB 031203 also had an early similar flat light curve (7).",
+      "text": "So far Type Ic SNe are spectroscopically observed to be associated with four GRBs, namely GRBs 980425, 030329, 031203 and 060218. Among them the luminous GRB 030329 appears to be typical, while the other three show much lower luminosity and lower redshifts ( z < 1). The three low-luminosity GRBs (LLGRBs) show similar gamma-ray emission properties: they all show low (isotropic) energy, E γ,iso < 10 50 erg (10 52 -54 erg for typical GRBs); the light curves are smooth without multiple peaks; the spectra could be fit with power law with some cutoff at few hundreds keV or lower. These properties are consistent with nonthermal flashes from TRSN shock breakout discussed above. Furthermore, their afterglows also show hints for mildly relativistic ejecta. In GRB 980425, the radio afterglow modelling implies the Lorentz factor and kinetic energy of the SN ejecta as Γ ≈ 1 . 5 and E k ≈ 5 × 10 49 , respectively (5); The relatively flat light curve of its X-ray afterglow up to ∼ 100 days after the burst is consistent with a long coasting phase (due to low medium density) of a mildly relativistic shell with energy of a few 10 49 erg (6). Similarly, the X-ray afterglow of GRB 031203 also had an early similar flat light curve (7)."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 284.5202500000001,
+            "t": 43.52660000000003,
+            "r": 290.3663428000001,
+            "b": 31.55944480000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.91998000000001,
+            "t": 649.2865,
+            "r": 277.28590330946577,
+            "b": 406.07964480000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            592
+          ]
+        }
+      ],
+      "orig": "There are also some diversities in LLGRBs. GRB 980425 shows only short duration, ∼ 30s, and very low energy, E γ,iso < 10 48 erg, in contrast with GRB 060218. GRB 031203 also has duration of tens of seconds. These can be interpreted as that GRBs 980425 and 031203 are produced by relevant TRSNe breakout at the progenitor stellar surface other than optically thick stellar winds. In this case the pre-shock medium density and hence the backscattering rate decreases sharply with time. Actually, the modelling of X-ray/radio afterglow of GRB 980425 indicates only a optically thin wind (5; 6).",
+      "text": "There are also some diversities in LLGRBs. GRB 980425 shows only short duration, ∼ 30s, and very low energy, E γ,iso < 10 48 erg, in contrast with GRB 060218. GRB 031203 also has duration of tens of seconds. These can be interpreted as that GRBs 980425 and 031203 are produced by relevant TRSNe breakout at the progenitor stellar surface other than optically thick stellar winds. In this case the pre-shock medium density and hence the backscattering rate decreases sharply with time. Actually, the modelling of X-ray/radio afterglow of GRB 980425 indicates only a optically thin wind (5; 6)."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.92020000000002,
+            "t": 391.6468000000002,
+            "r": 277.3035528310018,
+            "b": 307.4394448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "From the above lines of reasoning, we propose that these three LLGRBs come from photon acceleration at TRSN shock breakout, which are distinct from the typical GRBs in mechanism.",
+      "text": "From the above lines of reasoning, we propose that these three LLGRBs come from photon acceleration at TRSN shock breakout, which are distinct from the typical GRBs in mechanism."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.92020000000002,
+            "t": 270.5690400000002,
+            "r": 168.36991216921604,
+            "b": 259.41085333333353,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "4 Summary",
+      "text": "4 Summary",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.80027800000002,
+            "t": 242.2469000000002,
+            "r": 277.257976402125,
+            "b": 172.5598448000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "· Shock acceleration of thermal photons at TRSN shock breakout can produce gamma/X-ray flash. This mechanism requires only TR outflow.",
+      "text": "Shock acceleration of thermal photons at TRSN shock breakout can produce gamma/X-ray flash. This mechanism requires only TR outflow.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.80027800000002,
+            "t": 170.00710000000026,
+            "r": 277.4557922831105,
+            "b": 71.39974480000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "· Both nonthermal and thermal emission (as well as the early, < 1 day, UV/O emission and the late, > 10 4 s, power-law-decay Xray afterglow in GRB 060218/SN 2006aj (2; 3)) could be generated in the same context of TRSN",
+      "text": "Both nonthermal and thermal emission (as well as the early, < 1 day, UV/O emission and the late, > 10 4 s, power-law-decay Xray afterglow in GRB 060218/SN 2006aj (2; 3)) could be generated in the same context of TRSN",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 312.84035800000004,
+            "t": 719.0069000000002,
+            "r": 486.3726037651204,
+            "b": 663.7198448000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "shock breakout. This suggests GRB 060218 as the first detection of the thermal flash from SN shock breakout.",
+      "text": "shock breakout. This suggests GRB 060218 as the first detection of the thermal flash from SN shock breakout."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 300.960658,
+            "t": 661.1671000000002,
+            "r": 486.3759164702723,
+            "b": 605.8800448000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "· LLGRBs could be produced by SN shock breakout with TR ejecta, distinct from typical GRBs with ultra-relativistic outflows.",
+      "text": "LLGRBs could be produced by SN shock breakout with TR ejecta, distinct from typical GRBs with ultra-relativistic outflows.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 300.96105800000004,
+            "t": 603.4472000000003,
+            "r": 486.41035800563253,
+            "b": 475.91994480000034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        }
+      ],
+      "orig": "· TRSNe appear to be a new SN category. Large fraction of energy in TR ejecta is difficult to come from shock acceleration in stellar surface in the case of spherical SN explosion. TRSNe might always be related to anisotropic hypernovae, but what produces ≳ 10 49 erg in TR ejecta is still an open question.",
+      "text": "TRSNe appear to be a new SN category. Large fraction of energy in TR ejecta is difficult to come from shock acceleration in stellar surface in the case of spherical SN explosion. TRSNe might always be related to anisotropic hypernovae, but what produces ≳ 10 49 erg in TR ejecta is still an open question.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 301.20153800000014,
+            "t": 439.16944000000035,
+            "r": 364.0978208113923,
+            "b": 428.0112533333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 301.20153800000014,
+            "t": 410.96720000000033,
+            "r": 486.58481825958427,
+            "b": 341.1602448000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "[1] S. A. Colgate, ApJ , 187 (1974) 333; R. I. Klein, R. A. Chevalier, ApJ , 223 (1978) L109; L. Ensman, A. Burrows, ApJ , 393 (1992) 742.",
+      "text": "S. A. Colgate, ApJ , 187 (1974) 333; R. I. Klein, R. A. Chevalier, ApJ , 223 (1978) L109; L. Ensman, A. Burrows, ApJ , 393 (1992) 742.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 301.2018180000001,
+            "t": 338.7274000000004,
+            "r": 486.48039778819856,
+            "b": 312.23994480000033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "[2] S. Campana, et al. Nature , 442 (2006) 1008.",
+      "text": "S. Campana, et al. Nature , 442 (2006) 1008.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 301.20143800000005,
+            "t": 309.80750000000035,
+            "r": 486.253615640141,
+            "b": 268.92004480000037,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "[3] E. Waxman, P. Meszaros, S. Campana, ApJ submitted 2007, arXiv:astro-ph/0702450",
+      "text": "E. Waxman, P. Meszaros, S. Campana, ApJ submitted 2007, arXiv:astro-ph/0702450",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 301.20183799999995,
+            "t": 266.48720000000037,
+            "r": 486.3602959329025,
+            "b": 225.6001448000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "[4] X.-Y. Wang, Z. Li, E. Waxman, P. Meszaros, ApJ accepted 2006, arXiv:astro-ph/0608033",
+      "text": "X.-Y. Wang, Z. Li, E. Waxman, P. Meszaros, ApJ accepted 2006, arXiv:astro-ph/0608033",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 301.201738,
+            "t": 223.1673000000003,
+            "r": 486.48172215744023,
+            "b": 153.36034480000035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "[5] S. R. Kulkarni, et al. Nature , 395 (1998) 663; E. Waxman, A. Loeb, ApJ , 515 (1999) 721; Z.-Y. Li, R.A. Chevalier, ApJ , 526 (1999) 716.",
+      "text": "S. R. Kulkarni, et al. Nature , 395 (1998) 663; E. Waxman, A. Loeb, ApJ , 515 (1999) 721; Z.-Y. Li, R.A. Chevalier, ApJ , 526 (1999) 716.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 301.2006579999999,
+            "t": 150.92750000000024,
+            "r": 486.5838582595841,
+            "b": 124.44044480000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "[6] E. Waxman, ApJ , 605 (2004) L97.",
+      "text": "E. Waxman, ApJ , 605 (2004) L97.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 301.20079799999996,
+            "t": 122.00760000000025,
+            "r": 486.4796577881984,
+            "b": 95.6404448000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "[7] D. Watson, et al. ApJ , 605 (2004) L101.",
+      "text": "D. Watson, et al. ApJ , 605 (2004) L101.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 284.5205979999999,
+            "t": 43.52750000000026,
+            "r": 290.3666907999999,
+            "b": 31.56034480000028,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 196.51634216308594,
+            "t": 708.9503936767578,
+            "r": 378.2496643066406,
+            "b": 585.0189361572266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 197.3660430908203,
+            "t": 700.028938293457,
+            "r": 370.43292236328125,
+            "b": 477.2446594238281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

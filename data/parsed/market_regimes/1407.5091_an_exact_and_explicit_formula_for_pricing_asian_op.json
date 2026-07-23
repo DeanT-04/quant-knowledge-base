@@ -1,0 +1,5807 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1407.5091_an_exact_and_explicit_formula_for_pricing_asian_op",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 17670617500445327116,
+    "filename": "1407.5091_an_exact_and_explicit_formula_for_pricing_asian_op.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/texts/121"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/texts/141"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/154"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/167"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/181"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/155"
+        },
+        {
+          "$ref": "#/texts/156"
+        },
+        {
+          "$ref": "#/texts/157"
+        },
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        },
+        {
+          "$ref": "#/texts/161"
+        },
+        {
+          "$ref": "#/texts/162"
+        },
+        {
+          "$ref": "#/texts/163"
+        },
+        {
+          "$ref": "#/texts/164"
+        },
+        {
+          "$ref": "#/texts/165"
+        },
+        {
+          "$ref": "#/texts/166"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/168"
+        },
+        {
+          "$ref": "#/texts/169"
+        },
+        {
+          "$ref": "#/texts/170"
+        },
+        {
+          "$ref": "#/texts/171"
+        },
+        {
+          "$ref": "#/texts/172"
+        },
+        {
+          "$ref": "#/texts/173"
+        },
+        {
+          "$ref": "#/texts/174"
+        },
+        {
+          "$ref": "#/texts/175"
+        },
+        {
+          "$ref": "#/texts/176"
+        },
+        {
+          "$ref": "#/texts/177"
+        },
+        {
+          "$ref": "#/texts/178"
+        },
+        {
+          "$ref": "#/texts/179"
+        },
+        {
+          "$ref": "#/texts/180"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 594.1,
+            "r": 36.206559297218156,
+            "b": 243.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:1407.5091v1  [q-fin.PR]  18 Jul 2014",
+      "text": "arXiv:1407.5091v1  [q-fin.PR]  18 Jul 2014",
+      "hyperlink": "http://arxiv.org/abs/1407.5091v1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 130.32,
+            "t": 620.0084582,
+            "r": 522.2186672997871,
+            "b": 575.8649296,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "An exact and explicit formula for pricing Asian options with regime switching",
+      "text": "An exact and explicit formula for pricing Asian options with regime switching",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 212.7602,
+            "t": 548.9122600000001,
+            "r": 444.34384216,
+            "b": 531.8761456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Leunglung Chan ∗ and Song-Ping Zhu †",
+      "text": "Leunglung Chan ∗ and Song-Ping Zhu †"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 285.36043,
+            "t": 510.7999300000001,
+            "r": 367.37564687461514,
+            "b": 496.43938380000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "July 22, 2014",
+      "text": "July 22, 2014"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 302.28033,
+            "t": 442.61463180000004,
+            "r": 350.236762509115,
+            "b": 434.9346254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 140.16033,
+            "t": 415.3308956,
+            "r": 512.444294254762,
+            "b": 322.35280539999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            490
+          ]
+        }
+      ],
+      "orig": "This paper studies the pricing of European-style Asian options when the price dynamics of the underlying risky asset are assumed to follow a Markovmodulated geometric Brownian motion; that is, the appreciation rate and the volatility of the underlying risky asset depend on unobservable states of the economy described by a continuous-time hidden Markov process. We derive the exact, explicit and closed-form solutions for European-style Asian options in a two-state regime switching model.",
+      "text": "This paper studies the pricing of European-style Asian options when the price dynamics of the underlying risky asset are assumed to follow a Markovmodulated geometric Brownian motion; that is, the appreciation rate and the volatility of the underlying risky asset depend on unobservable states of the economy described by a continuous-time hidden Markov process. We derive the exact, explicit and closed-form solutions for European-style Asian options in a two-state regime switching model."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.88022999999998,
+            "t": 299.00668,
+            "r": 542.9209420000001,
+            "b": 272.27932480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "Key words: Option pricing; Markov-modulated geometric Brownian motion; Regime switching; Asian options.",
+      "text": "Key words: Option pricing; Markov-modulated geometric Brownian motion; Regime switching; Asian options."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.8804300000001,
+            "t": 238.97065999999995,
+            "r": 246.7996191270535,
+            "b": 223.45958459999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.8804300000001,
+            "t": 201.44648000000007,
+            "r": 541.7376624689408,
+            "b": 174.71912480000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 541.7659118271489,
+            "b": 415.43924479999964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            165,
+            1527
+          ]
+        }
+      ],
+      "orig": "The pricing, hedging and risk management of contingent claims has become a popular topic because contingent claims are now widely used to transfer risk in financial markets. The pioneering work of Black and Scholes (1973) and Merton (1973) laid the foundations of the field and stimulated important research in option pricing theory. The Black-Scholes-Merton formula has been widely adopted by traders, analysts and investors. The contingent claims traded in the market not only include vanilla European options but also exotic options such as Asian options. Asian options are path-dependent options whose payoff depends on an average of the stock prices over a certain time period. Asian options are used for hedging purpose. Traders may be interested to hedge against the average price of a commodity over a period. The use of Asian options may avoid price manipulation near the end of the period. Most Asian options are European style because an Asian option with the American early exercise feature may be redeemed as early as the beginning of the averaging period and thus lose hedging purpose from averaging. Since no general closed-form solution for the price of the Asian option based on arithmetic averaging is known, a variety of methods have been developed to study this problem. Many papers studied Asian options including Kemna and Vorst (1990), Turnbull and Wakeman (1991), Ritchken et al. (1993), Geman and Yor (1993), Curran (1994), Rogers and Shi (1995), Zhang (1995), Boyle et al. (1997) and Fu et al. (1999).",
+      "text": "The pricing, hedging and risk management of contingent claims has become a popular topic because contingent claims are now widely used to transfer risk in financial markets. The pioneering work of Black and Scholes (1973) and Merton (1973) laid the foundations of the field and stimulated important research in option pricing theory. The Black-Scholes-Merton formula has been widely adopted by traders, analysts and investors. The contingent claims traded in the market not only include vanilla European options but also exotic options such as Asian options. Asian options are path-dependent options whose payoff depends on an average of the stock prices over a certain time period. Asian options are used for hedging purpose. Traders may be interested to hedge against the average price of a commodity over a period. The use of Asian options may avoid price manipulation near the end of the period. Most Asian options are European style because an Asian option with the American early exercise feature may be redeemed as early as the beginning of the averaging period and thus lose hedging purpose from averaging. Since no general closed-form solution for the price of the Asian option based on arithmetic averaging is known, a variety of methods have been developed to study this problem. Many papers studied Asian options including Kemna and Vorst (1990), Turnbull and Wakeman (1991), Ritchken et al. (1993), Geman and Yor (1993), Curran (1994), Rogers and Shi (1995), Zhang (1995), Boyle et al. (1997) and Fu et al. (1999)."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.88015999999999,
+            "t": 164.7495904,
+            "r": 541.919034596812,
+            "b": 142.06739616000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "∗ School of Mathematics and Statistics, University of New South Wales, Sydney, NSW, 2052, Australia, Email: leung.chan@unsw.edu.au",
+      "text": "∗ School of Mathematics and Statistics, University of New South Wales, Sydney, NSW, 2052, Australia, Email: leung.chan@unsw.edu.au"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.87924000000004,
+            "t": 140.50937040000008,
+            "r": 541.7112139711759,
+            "b": 117.70767616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "† School of Mathematics and Applied Statistics, University of Wollongong, Wollongong, NSW 2522, Australia, Email: spz@uow.edu.au",
+      "text": "† School of Mathematics and Applied Statistics, University of Wollongong, Wollongong, NSW 2522, Australia, Email: spz@uow.edu.au"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 323.3992400000001,
+            "t": 98.84627999999998,
+            "r": 329.2453328000001,
+            "b": 86.8791248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.87980000000005,
+            "t": 404.7262999999997,
+            "r": 541.720371190477,
+            "b": 304.3187447999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            580
+          ]
+        }
+      ],
+      "orig": "Despite its popularity the Black-Scholes-Merton model fails in various ways, such as the fact that implied volatility is not constant. During the past few decades many extensions to the Black-Scholes-Merton model have been introduced in the literature to provide more realistic descriptions for asset price dynamics. In particular, many models have been introduced to explain the empirical behavior of the implied volatility smile and smirk. Such models include the stochastic volatility models, jumpdiffusion models, models driven by L´ evy processes and regime switching models.",
+      "text": "Despite its popularity the Black-Scholes-Merton model fails in various ways, such as the fact that implied volatility is not constant. During the past few decades many extensions to the Black-Scholes-Merton model have been introduced in the literature to provide more realistic descriptions for asset price dynamics. In particular, many models have been introduced to explain the empirical behavior of the implied volatility smile and smirk. Such models include the stochastic volatility models, jumpdiffusion models, models driven by L´ evy processes and regime switching models."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.88080000000002,
+            "t": 293.6061999999997,
+            "r": 541.7838030655488,
+            "b": 119.63884479999967,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            980
+          ]
+        }
+      ],
+      "orig": "Maybe the simplest way to introduce additional randomness into the standard Black-Scholes-Merton model is to let the volatility and rate of return be functions of a finite state Markov chain. There has been considerable interest in applications of regime switching models driven by a Markov chain to various financial problems. Many papers in a regime switching framework include Elliott and van der Hoek (1997), Guo (2001), Elliott et al. (2001), Buffington and Elliott (2002a,b), Elliott et al. (2003) and Elliott et al. (2005). In addition, Boyle and Draviam (2007) used the numerical method to solve the system of coupled partial differential equations for the price of exotic options under regime switching. Siu et al. (2008) priced credit default swaps under a Markov-modulated Merton structural model. Yuen and Yang (2009) proposed a recombined trinomial tree to price simple options and barrier options in a jump-diffusion model with regime switching. Yuen and Yang (2010)",
+      "text": "Maybe the simplest way to introduce additional randomness into the standard Black-Scholes-Merton model is to let the volatility and rate of return be functions of a finite state Markov chain. There has been considerable interest in applications of regime switching models driven by a Markov chain to various financial problems. Many papers in a regime switching framework include Elliott and van der Hoek (1997), Guo (2001), Elliott et al. (2001), Buffington and Elliott (2002a,b), Elliott et al. (2003) and Elliott et al. (2005). In addition, Boyle and Draviam (2007) used the numerical method to solve the system of coupled partial differential equations for the price of exotic options under regime switching. Siu et al. (2008) priced credit default swaps under a Markov-modulated Merton structural model. Yuen and Yang (2009) proposed a recombined trinomial tree to price simple options and barrier options in a jump-diffusion model with regime switching. Yuen and Yang (2010)"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 323.4008,
+            "t": 98.84579999999971,
+            "r": 329.2468928,
+            "b": 86.87864479999962,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 541.7034782640637,
+            "b": 607.0794447999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            305
+          ]
+        }
+      ],
+      "orig": "used a trinomial tree method to price Asian options and equity-indexed annuities with regime switching. Zhu et al. (2012) derived a closed-form solution for European options with a two-state regime switching model. However, there is no closed-form solution to Asian options under a regime switching model.",
+      "text": "used a trinomial tree method to price Asian options and equity-indexed annuities with regime switching. Zhu et al. (2012) derived a closed-form solution for European options with a two-state regime switching model. However, there is no closed-form solution to Asian options under a regime switching model."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.87980000000005,
+            "t": 596.2466,
+            "r": 541.7661780682238,
+            "b": 363.3592447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1276
+          ]
+        }
+      ],
+      "orig": "In this paper, we study the pricing of European-style Asian options when the price dynamics of the underlying risky asset are assumed to follow a Markov-modulated geometric Brownian motion. The Markov-modulated model provides a more realistic way to describe and explain the market environment. It has been mentioned in Yao et al. (2003) that it is of practical importance to allow the market parameters to respond to the movements of the general market levels since the trend of general market levels is a key factor which governs the price movements of individual risky assets. We derive an analytical solution for Asian option by means of the homotopy analysis method (HAM). HAM was initially suggested by Ortega and Rheinboldt (1970) and has been successfully used to solve a number of heat transfer problems, see Liao (1997), Liao and Zhu (1999), and fluid-flow problems, see Liao and Zhu (1996), Liao and Campo (2002). Zhu (2006) used HAM to obtain an analytic pricing formula for American options in the Black-Scholes model. Gounden and O'Hara (2010) extended the work of Zhu to pricing American-style Asian options of floating strike type in the Black-Scholes model. Leung (2013) used HAM to derive an analytic formula for lookback options under stochastic volatility.",
+      "text": "In this paper, we study the pricing of European-style Asian options when the price dynamics of the underlying risky asset are assumed to follow a Markov-modulated geometric Brownian motion. The Markov-modulated model provides a more realistic way to describe and explain the market environment. It has been mentioned in Yao et al. (2003) that it is of practical importance to allow the market parameters to respond to the movements of the general market levels since the trend of general market levels is a key factor which governs the price movements of individual risky assets. We derive an analytical solution for Asian option by means of the homotopy analysis method (HAM). HAM was initially suggested by Ortega and Rheinboldt (1970) and has been successfully used to solve a number of heat transfer problems, see Liao (1997), Liao and Zhu (1999), and fluid-flow problems, see Liao and Zhu (1996), Liao and Campo (2002). Zhu (2006) used HAM to obtain an analytic pricing formula for American options in the Black-Scholes model. Gounden and O'Hara (2010) extended the work of Zhu to pricing American-style Asian options of floating strike type in the Black-Scholes model. Leung (2013) used HAM to derive an analytic formula for lookback options under stochastic volatility."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.87960000000004,
+            "t": 352.5263999999998,
+            "r": 541.721134161664,
+            "b": 266.87904479999975,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            460
+          ]
+        }
+      ],
+      "orig": "This paper is organized as follows. Section 2 describes the asset price dynamics under the Markov-modulated geometric Brownian motion. Section 3 formulates the partial differential equation system for the price of a floating-strike Asian option. Section 4 derives an exact, closed-form solution for the floating-strike Asian option. Section 5 discusses a symmetry between fixed-strike and floating-strike Asian options. The final section contains a conclusion.",
+      "text": "This paper is organized as follows. Section 2 describes the asset price dynamics under the Markov-modulated geometric Brownian motion. Section 3 formulates the partial differential equation system for the price of a floating-strike Asian option. Section 4 derives an exact, closed-form solution for the floating-strike Asian option. Section 5 discusses a symmetry between fixed-strike and floating-strike Asian options. The final section contains a conclusion."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.87960000000004,
+            "t": 233.69037999999978,
+            "r": 325.9854766520656,
+            "b": 218.1793045999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "2 Asset Price Dynamics",
+      "text": "2 Asset Price Dynamics",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.87943999999999,
+            "t": 196.04619999999977,
+            "r": 541.7658937433599,
+            "b": 116.6828079999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            443
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87975000000006,
+            "t": 664.25893865,
+            "r": 541.6629963689727,
+            "b": 628.003208,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            444,
+            597
+          ]
+        }
+      ],
+      "orig": "Consider a complete probability space (Ω , F , P ), where P is a real-world probability measure. Let T denote the time index set [0 , T ] of the model. Write { W t } t ∈T for a standard Brownian motion on (Ω , F , P ). Suppose the states of an economy are modelled by a finite state continuous-time Markov chain { X t } t ∈T on (Ω , F , P ). Without loss of generality, we can identify the state space of { X t } t ∈T with a finite set of unit vectors X := { e 1 , e 2 , . . . , e N } , where e i = (0 , . . . , 1 , . . . , 0) ∈ R N . We suppose that { X t } t ∈T and { W t } t ∈T are independent.",
+      "text": "Consider a complete probability space (Ω , F , P ), where P is a real-world probability measure. Let T denote the time index set [0 , T ] of the model. Write { W t } t ∈T for a standard Brownian motion on (Ω , F , P ). Suppose the states of an economy are modelled by a finite state continuous-time Markov chain { X t } t ∈T on (Ω , F , P ). Without loss of generality, we can identify the state space of { X t } t ∈T with a finite set of unit vectors X := { e 1 , e 2 , . . . , e N } , where e i = (0 , . . . , 1 , . . . , 0) ∈ R N . We suppose that { X t } t ∈T and { W t } t ∈T are independent."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 323.39991000000003,
+            "t": 98.84609999999975,
+            "r": 329.24600280000004,
+            "b": 86.87894479999977,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87933000000012,
+            "t": 628.7665,
+            "r": 541.6788924345602,
+            "b": 590.5629079999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "Let ˜ A be the generator [ a ij ] i,j =1 , 2 ,...,N of the Markov chain. From Elliott et al. (1994), we have the following semimartingale representation theorem for { X t } t ∈T :",
+      "text": "Let ˜ A be the generator [ a ij ] i,j =1 , 2 ,...,N of the Markov chain. From Elliott et al. (1994), we have the following semimartingale representation theorem for { X t } t ∈T :"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 243.11887000000007,
+            "t": 586.9787086499999,
+            "r": 541.7820703089918,
+            "b": 549.0245631999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "X t = X 0 + ∫ t 0 ˜ AX s ds + M t , (2.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87908000000013,
+            "t": 544.6185286499999,
+            "r": 541.7198355105796,
+            "b": 508.3631879999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "where { M t } t ∈T is an R N -valued martingale increment process with respect to the filtration generated by { X t } t ∈T .",
+      "text": "where { M t } t ∈T is an R N -valued martingale increment process with respect to the filtration generated by { X t } t ∈T ."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87920000000014,
+            "t": 506.12647999999984,
+            "r": 541.6071670402561,
+            "b": 464.6393247999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        }
+      ],
+      "orig": "We consider a financial model with two primary traded assets, namely a money market account B and a risky asset or stock S . Suppose the market is frictionless; the borrowing and lending interest rates are the same; the investors are price-takers.",
+      "text": "We consider a financial model with two primary traded assets, namely a money market account B and a risky asset or stock S . Suppose the market is frictionless; the borrowing and lending interest rates are the same; the investors are price-takers."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87956000000014,
+            "t": 453.9263799999999,
+            "r": 541.571413736397,
+            "b": 427.19902479999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "The instantaneous market interest rate { r ( t, X t ) } t ∈T of the bank account is given by:",
+      "text": "The instantaneous market interest rate { r ( t, X t ) } t ∈T of the bank account is given by:"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 249.71956000000014,
+            "t": 412.5263799999999,
+            "r": 541.7824703089918,
+            "b": 400.04640634999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "r t := r ( t, X t ) = < r, X t > , (2.2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87961000000013,
+            "t": 385.7661799999999,
+            "r": 541.6148366971647,
+            "b": 359.1592247999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "where r := ( r 1 , r 2 , . . . , r N ) with r i > 0 for each i = 1 , 2 , . . . , N and < · , · > denotes the inner product in R N .",
+      "text": "where r := ( r 1 , r 2 , . . . , r N ) with r i > 0 for each i = 1 , 2 , . . . , N and < · , · > denotes the inner product in R N ."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87966000000023,
+            "t": 348.3263799999999,
+            "r": 541.720528609997,
+            "b": 321.7190247999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "In this case, the dynamics of the price process { B t } t ∈T for the bank account are described by:",
+      "text": "In this case, the dynamics of the price process { B t } t ∈T for the bank account are described by:"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 251.75966000000022,
+            "t": 306.92637999999994,
+            "r": 541.7822503089919,
+            "b": 294.1674524999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "dB t = r t B t dt , B 0 = 1 . (2.3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87899000000027,
+            "t": 280.28617999999994,
+            "r": 541.5708491257602,
+            "b": 245.0829879999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "Suppose the stock appreciation rate { µ t } t ∈T and the volatility { σ t } t ∈T of S depend on { X t } t ∈T and are described by:",
+      "text": "Suppose the stock appreciation rate { µ t } t ∈T and the volatility { σ t } t ∈T of S depend on { X t } t ∈T and are described by:"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 169.55907000000028,
+            "t": 238.88617999999997,
+            "r": 541.7817603089919,
+            "b": 226.40620634999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "µ t := µ ( t, X t ) = < µ, X t > , σ t := σ ( t, X t ) = < σ, X t > , (2.4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87890000000021,
+            "t": 212.12637999999993,
+            "r": 540.4915585760002,
+            "b": 176.92278799999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "where µ := ( µ 1 , µ 2 , . . . , µ N ), σ := ( σ 1 , σ 2 , . . . , σ N ) with σ i > 0 for each i = 1 , 2 , . . . , N and < · , · > denotes the inner product in R N .",
+      "text": "where µ := ( µ 1 , µ 2 , . . . , µ N ), σ := ( σ 1 , σ 2 , . . . , σ N ) with σ i > 0 for each i = 1 , 2 , . . . , N and < · , · > denotes the inner product in R N ."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87985000000037,
+            "t": 174.68607999999995,
+            "r": 541.5708455363845,
+            "b": 147.95912479999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "We assume that the price dynamics of the underlying risky asset S are governed by the Markov-modulated geometric Brownian motion :",
+      "text": "We assume that the price dynamics of the underlying risky asset S are governed by the Markov-modulated geometric Brownian motion :"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 225.11985000000038,
+            "t": 133.28607999999997,
+            "r": 541.7830003089922,
+            "b": 120.52715249999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "dS t = µ t S t dt + σ t S t dW t , S 0 = s 0 . (2.5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.40014000000053,
+            "t": 98.84627999999998,
+            "r": 329.24623280000054,
+            "b": 86.8791248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.88,
+            "t": 666.29078,
+            "r": 248.119058880576,
+            "b": 650.7797046000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "3 Asian option",
+      "text": "3 Asian option",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.88,
+            "t": 628.6466,
+            "r": 541.7204516316158,
+            "b": 587.2794448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "We now turn to the pricing of an Asian option of floating strike type in a regime switching model. We consider continuously sampled arithmetic average. The average from continuous sampling is given by",
+      "text": "We now turn to the pricing of an Asian option of floating strike type in a regime switching model. We consider continuously sampled arithmetic average. The average from continuous sampling is given by"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 286.56,
+            "t": 575.21841865,
+            "r": 347.399586745088,
+            "b": 537.2646632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "1 T ∫ T 0 S u du.",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.87969999999996,
+            "t": 533.3662899999999,
+            "r": 541.5712701173758,
+            "b": 506.6393347999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "The price of Asian options based on an arithmetic averaging is not known in closed form even in the Black-Scholes-Merton model.",
+      "text": "The price of Asian options based on an arithmetic averaging is not known in closed form even in the Black-Scholes-Merton model."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.87939999999995,
+            "t": 495.92638999999997,
+            "r": 541.6079181047298,
+            "b": 469.19903479999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "We assume that Q is a risk-neutral measure and the price dynamics of the risky stock under Q are governed by",
+      "text": "We assume that Q is a risk-neutral measure and the price dynamics of the risky stock under Q are governed by"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 226.07939999999994,
+            "t": 457.52630999999997,
+            "r": 541.7821603089915,
+            "b": 441.64746249999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "dS t = r t S t dt + σ t S t d ˜ W t , S 0 = s 0 . (3.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 279.2392999999998,
+            "t": 404.3382086499999,
+            "r": 541.7821603089915,
+            "b": 366.38445319999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "A t = ∫ t 0 S u du. (3.2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.87929999999977,
+            "t": 362.36617999999993,
+            "r": 481.4940663999998,
+            "b": 350.3990247999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "We consider a floating-strike Asian put option whose payoff at time T is",
+      "text": "We consider a floating-strike Asian put option whose payoff at time T is"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 253.67949999999976,
+            "t": 339.3378225,
+            "r": 541.7826303089918,
+            "b": 300.62434319999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "V ( T ) = ( 1 T A T -S T ) + . (3.3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.87961000000007,
+            "t": 295.5266400000001,
+            "r": 541.6167354768129,
+            "b": 268.7992848000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "The price at times t prior to the expiration time T of this put is given by the riskneutral pricing formula",
+      "text": "The price at times t prior to the expiration time T of this put is given by the riskneutral pricing formula"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 144.59951000000007,
+            "t": 256.6883363200001,
+            "r": 541.7831703089918,
+            "b": 199.10458319999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "V ( t, s, a, x ) = E Q [ e -∫ T t r u du V ( T ) | S t = s, A t = a, X t = x ] = E Q [ e -∫ T t r u du ( 1 T A T -S T ) + | S t = s, A t = a, X t = x ] . (3.4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.88001000000006,
+            "t": 193.28631999999993,
+            "r": 541.7203385487619,
+            "b": 166.5593647999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "Write V = ( V ( t, s, a, e 1 ) , ..., V ( t, s, a, e N )) . Applying the Feynman-Kac formula to the above equation, then V ( t, s, a, x ) satisfies the system of partial differential equations",
+      "text": "Write V = ( V ( t, s, a, e 1 ) , ..., V ( t, s, a, e N )) . Applying the Feynman-Kac formula to the above equation, then V ( t, s, a, x ) satisfies the system of partial differential equations"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 169.43951000000004,
+            "t": 154.53781249999997,
+            "r": 541.7831403089917,
+            "b": 114.02462319999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "∂V ∂t + r t s ∂V ∂s + s ∂V ∂a + 1 2 σ 2 t s 2 ∂ 2 V ∂s 2 -r t V + 〈 V , ˜ Ax 〉 = 0 , (3.5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.87929999999977,
+            "t": 427.76619,
+            "r": 217.8543487469823,
+            "b": 415.79903479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 258.4147849328899,
+            "b": 651.2392448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            21,
+            48
+          ]
+        }
+      ],
+      "orig": "Now define a process and the boundary conditions",
+      "text": "Now define a process and the boundary conditions"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 323.40028000000007,
+            "t": 98.84655999999995,
+            "r": 329.2463728000001,
+            "b": 86.87940479999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 247.68,
+            "t": 646.228218,
+            "r": 541.7826603089917,
+            "b": 603.8642332000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "V ( T, s, a, x ) = ( a T -S T ) + , (3.6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 275.3998,
+            "t": 604.1662500000001,
+            "r": 541.7834403089917,
+            "b": 592.1990948000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "V ( t, s, 0 , x ) = 0 . (3.7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.8792600000001,
+            "t": 581.2463500000001,
+            "r": 541.7819805780479,
+            "b": 466.19911879999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            664
+          ]
+        }
+      ],
+      "orig": "The price of an Asian option can be found by solving above system of partial differential equations (PDE) in two space dimensions. In the case of the Black-ScholesMerton model, Ingersoll (1987) observed that the three-dimensional PDE for a floating strike Asian option can be reduced to a two-dimensional PDE. However, by using S t A t as the state variable, and hence a nontraded variable as the num´ eraire, martingale pricing techniques cannot be exploited. On the other hand, we will adopt S t as the num´ eraire and by the change of measure reduce the three-dimensional problem (3.4) to a two-dimensional problem (for instance see Peskir and Shiryaev (2006)).",
+      "text": "The price of an Asian option can be found by solving above system of partial differential equations (PDE) in two space dimensions. In the case of the Black-ScholesMerton model, Ingersoll (1987) observed that the three-dimensional PDE for a floating strike Asian option can be reduced to a two-dimensional PDE. However, by using S t A t as the state variable, and hence a nontraded variable as the num´ eraire, martingale pricing techniques cannot be exploited. On the other hand, we will adopt S t as the num´ eraire and by the change of measure reduce the three-dimensional problem (3.4) to a two-dimensional problem (for instance see Peskir and Shiryaev (2006))."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87969000000004,
+            "t": 456.53871265,
+            "r": 541.7333491943428,
+            "b": 405.522782,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "Write {F X t } t ∈T and {F t W } t ∈T for the P -augmentation of the natural filtrations generated by { X t } t ∈T and { W t } t ∈T , respectively. For each t ∈ T , we define G t as the σ -algebra F X t ∨F t W . We introduce a second process",
+      "text": "Write {F X t } t ∈T and {F t W } t ∈T for the P -augmentation of the natural filtrations generated by { X t } t ∈T and { W t } t ∈T , respectively. For each t ∈ T , we define G t as the σ -algebra F X t ∨F t W . We introduce a second process"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 295.91961000000003,
+            "t": 405.26768200000004,
+            "r": 541.7828603089916,
+            "b": 377.00642634999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Y t = A t S t (3.8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 260.5199999999999,
+            "t": 354.0975625,
+            "r": 541.7828603089916,
+            "b": 323.8074725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "dQ ∗ dQ | G T = e -∫ T 0 r u du S T S 0 (3.9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87966999999998,
+            "t": 316.8587386499999,
+            "r": 539.1501603128436,
+            "b": 279.0245132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "so that W Q ∗ t = ˜ W t -∫ t 0 σ u du is a standard Brownian motion with respect to {G t } t ∈T under Q ∗ and using S t as the num´ eraire, the valuation problem (3.4) becomes",
+      "text": "so that W Q ∗ t = ˜ W t -∫ t 0 σ u du is a standard Brownian motion with respect to {G t } t ∈T under Q ∗ and using S t as the num´ eraire, the valuation problem (3.4) becomes"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87995999999993,
+            "t": 239.24633000000006,
+            "r": 134.56050251033594,
+            "b": 227.27917480000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Here",
+      "text": "Here"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87968000000001,
+            "t": 219.32641,
+            "r": 541.9028959999998,
+            "b": 150.35911480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "dY t = ( 1 -r t Y t ) dt + σ t Y t d ˆ W Q ∗ t , (3.11) where ˆ W Q ∗ t = -W Q ∗ t is a standard Brownian motion with respect to {G t } t ∈T under Q ∗ . Then via the Feynman-Kac formula, the price of the Asian option V ( t, y, x ) satisfies the following system of PDEs:",
+      "text": "dY t = ( 1 -r t Y t ) dt + σ t Y t d ˆ W Q ∗ t , (3.11) where ˆ W Q ∗ t = -W Q ∗ t is a standard Brownian motion with respect to {G t } t ∈T under Q ∗ . Then via the Feynman-Kac formula, the price of the Asian option V ( t, y, x ) satisfies the following system of PDEs:"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 189.71971999999985,
+            "t": 142.65742250000005,
+            "r": 541.7828198842876,
+            "b": 102.14425319999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "∂V ∂t +(1 -r t y ) ∂V ∂y + 1 2 σ 2 t y 2 ∂ 2 V ∂y 2 + 〈 V , ˜ Ax 〉 = 0 , (3.12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 191.51947999999996,
+            "t": 279.0974125,
+            "r": 541.7827998842876,
+            "b": 240.38459320000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "V ( t, y, x ) = E Q ∗ [( 1 T Y T -1 ) + | Y t = y, X t = x ] . (3.10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87999999999994,
+            "t": 370.16646,
+            "r": 163.3607363039232,
+            "b": 358.19930479999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        },
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 258.4147849328899,
+            "b": 651.2392448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            11,
+            38
+          ]
+        }
+      ],
+      "orig": "and define and the boundary conditions",
+      "text": "and define and the boundary conditions"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 323.3999799999999,
+            "t": 98.84628999999995,
+            "r": 329.2460727999999,
+            "b": 86.87913479999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 257.03999999999996,
+            "t": 643.5880080000001,
+            "r": 541.7831198842877,
+            "b": 601.2246432000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "V ( T, y, x ) = ( y T -1 ) + , (3.13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 280.80028000000004,
+            "t": 596.24658,
+            "r": 541.7838798842877,
+            "b": 584.2794248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "V ( t, 0 , x ) = 0 . (3.14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.8799899999998,
+            "t": 570.80678,
+            "r": 541.7203700447999,
+            "b": 544.0794248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "For each t ∈ T and i = 1 , 2 , ..., N, let V i = V ( t, y, e i ) and V := ( V 1 , V 2 , ..., V N ) . We have that V satisfies the system of coupled PDEs",
+      "text": "For each t ∈ T and i = 1 , 2 , ..., N, let V i = V ( t, y, e i ) and V := ( V 1 , V 2 , ..., V N ) . We have that V satisfies the system of coupled PDEs"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 187.79988999999978,
+            "t": 533.8574225,
+            "r": 541.7827798842876,
+            "b": 493.34423319999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "∂V i ∂t +(1 -r i y ) ∂V i ∂y + 1 2 σ 2 i y 2 ∂ 2 V i ∂y 2 + 〈 V , ˜ A e i 〉 = 0 , (3.15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.87993999999992,
+            "t": 493.88607000000013,
+            "r": 258.41472493288984,
+            "b": 481.9189148000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "and the boundary conditions",
+      "text": "and the boundary conditions"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 256.1999399999999,
+            "t": 474.26759800000013,
+            "r": 541.7828198842877,
+            "b": 431.9043532000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "V ( T, y, e i ) = ( y T -1 ) + , (3.16)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 279.9599800000001,
+            "t": 426.92656,
+            "r": 541.7829598842877,
+            "b": 414.44658634999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "V ( t, 0 , e i ) = 0 , (3.17)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88012000000009,
+            "t": 401.36636,
+            "r": 225.35962098432012,
+            "b": 389.39920479999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "for each i = 1 , 2 , ..., N.",
+      "text": "for each i = 1 , 2 , ..., N."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88020000000006,
+            "t": 356.3308399999999,
+            "r": 329.19891420837,
+            "b": 340.8197645999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "4 A closed-form formula",
+      "text": "4 A closed-form formula",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.87982999999997,
+            "t": 318.68625999999995,
+            "r": 541.7757990618879,
+            "b": 231.47912480000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            457
+          ]
+        }
+      ],
+      "orig": "In this section, we restrict ourselves to a special case with the number of regimes N being 2 in order to simplify our discussion. By means of the homotopy analysis method, we derive a closed-form solution for a floating strike Asian option under a regime switching model. To solve the system of PDEs effectively, we shall introduce the transformations z = -ln( y ) and τ i = ( T -t ) σ 2 i 2 , i = 1 , 2 . Then the system of equations (3.15)-(3.17) becomes",
+      "text": "In this section, we restrict ourselves to a special case with the number of regimes N being 2 in order to simplify our discussion. By means of the homotopy analysis method, we derive a closed-form solution for a floating strike Asian option under a regime switching model. To solve the system of PDEs effectively, we shall introduce the transformations z = -ln( y ) and τ i = ( T -t ) σ 2 i 2 , i = 1 , 2 . Then the system of equations (3.15)-(3.17) becomes"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88024999999999,
+            "t": 162.0863999999999,
+            "r": 140.6808230809344,
+            "b": 150.11924479999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 187.07982999999996,
+            "t": 221.16813632000003,
+            "r": 541.7831103089917,
+            "b": 150.26454319999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "   L 1 V 1 ( τ 1 , z ) = λ 1 ( V 1 ( τ 1 , z ) -V 2 ( τ 2 , z ) ) -2 e z σ 2 1 ∂V 1 ∂z V 1 (0 , z ) = 0 lim z →∞ V 1 ( τ 1 , z ) = 0 (4.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 239.16025,
+            "t": 142.1774325,
+            "r": 541.7828603089916,
+            "b": 111.76747250000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "L 1 = ∂ ∂τ 1 -∂ 2 ∂z 2 -(1 + γ 1 ) ∂ ∂z (4.2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 323.4,
+            "t": 98.84636999999998,
+            "r": 329.2460928,
+            "b": 86.8792148,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 129.7317057350912,
+            "b": 651.2392448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "and",
+      "text": "and"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 110.88024999999999,
+            "t": 586.2862999999999,
+            "r": 140.6808230809344,
+            "b": 574.3191447999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 187.07999999999998,
+            "t": 644.6482663200001,
+            "r": 541.7831103089917,
+            "b": 573.7446632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "   L 2 V 2 ( τ 2 , z ) = λ 2 ( V 2 ( τ 2 , z ) -V 1 ( τ 1 , z ) ) -2 e z σ 2 2 ∂V 2 ∂z V 2 (0 , z ) = 0 lim z →∞ V 2 ( τ 2 , z ) = 0 (4.3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 238.56025,
+            "t": 567.0974425000002,
+            "r": 541.7826603089917,
+            "b": 536.6874725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "L 2 = ∂ ∂τ 2 -∂ 2 ∂z 2 -(1 + γ 2 ) ∂ ∂z , (4.4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 110.87979999999999,
+            "t": 528.5774825000001,
+            "r": 541.737861203456,
+            "b": 468.23927480000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            317
+          ]
+        }
+      ],
+      "orig": "λ i = 2 a ii σ 2 i and γ i = 2 r i σ 2 i , i = 1 , 2 . The homotopy analysis method is adopted to solve V i , i = 1 , 2 from equations (4.1) and (4.3). Now we introduce an embedding parameter p ∈ [0 , 1] and construct unknown functions ¯ V i ( τ i , z, p ) , i = 1 , 2 that satisfy the following differential systems:",
+      "text": "λ i = 2 a ii σ 2 i and γ i = 2 r i σ 2 i , i = 1 , 2 . The homotopy analysis method is adopted to solve V i , i = 1 , 2 from equations (4.1) and (4.3). Now we introduce an embedding parameter p ∈ [0 , 1] and construct unknown functions ¯ V i ( τ i , z, p ) , i = 1 , 2 that satisfy the following differential systems:"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 131.88025600000003,
+            "t": 458.03813800000006,
+            "r": 541.7830863089916,
+            "b": 375.6243332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "       (1 -p ) L 1 [ ¯ V 1 ( τ 1 , z, p ) -¯ V 0 1 ( τ 1 , z )] = -p { A 1 [ ¯ V 1 ( τ 1 , z, p ) , ¯ V 2 ( τ 2 , z, p )] } ¯ V 1 (0 , z, p ) = (1 -p ) ¯ V 0 1 (0 , z ) lim z →∞ ¯ V 1 ( τ 1 , z, p ) = 0 (4.5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 110.88019599999978,
+            "t": 332.27787799999993,
+            "r": 373.97491249820155,
+            "b": 289.8424779999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": " Here L i , i = 1 , 2 is a differential operator defined as",
+      "text": " Here L i , i = 1 , 2 is a differential operator defined as"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 131.88022599999994,
+            "t": 378.957978,
+            "r": 541.7830563089915,
+            "b": 300.02423319999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "      (1 -p ) L 2 [ ¯ V 2 ( τ 2 , z, p ) -¯ V 0 2 ( τ 2 , z )] = -p { A 2 [ ¯ V 1 ( τ 1 , z, p ) , ¯ V 2 ( τ 2 , z, p )] } ¯ V 2 (0 , z, p ) = (1 -p ) ¯ V 0 2 (0 , z ) lim z →∞ ¯ V 2 ( τ 2 , z, p ) = 0 (4.6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 241.20012599999976,
+            "t": 288.93781249999995,
+            "r": 541.7828603089918,
+            "b": 258.80642635000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "L i = ∂ ∂τ i -∂ 2 ∂z 2 -(1 + γ i ) ∂ ∂z (4.7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 110.88000000000005,
+            "t": 250.16646000000003,
+            "r": 322.2549312555266,
+            "b": 229.723068,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "and A i , i = 1 , 2 are functionals defined as",
+      "text": "and A i , i = 1 , 2 are functionals defined as"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 158.76036000000008,
+            "t": 228.44655999999998,
+            "r": 541.7835203089917,
+            "b": 178.48747249999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "A 1 [ ¯ V 1 ( τ 1 , z, p ) , ¯ V 2 ( τ 2 , z, p )] = L 1 [ ¯ V 1 ( τ 1 , z, p )] -λ 1 ( ¯ V 1 ( τ 1 , z, p ) -¯ V 2 ( τ 2 , z, p )) + 2 e z σ 2 1 ∂ ¯ V 1 ∂z ( τ 1 , z, p ) , (4.8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 158.76026,
+            "t": 161.72645999999997,
+            "r": 541.7835203089917,
+            "b": 111.76747250000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "A 2 [ ¯ V 1 ( τ 1 , z, p ) , ¯ V 2 ( τ 2 , z, p )] = L 2 [ ¯ V 2 ( τ 2 , z, p )] -λ 2 ( ¯ V 2 ( τ 2 , z, p ) -¯ V 1 ( τ 1 , z, p )) + 2 e z σ 2 2 ∂ ¯ V 2 ∂z ( τ 2 , z, p ) . (4.9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 323.40066,
+            "t": 98.84636999999998,
+            "r": 329.2467528,
+            "b": 86.8792148,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 215.9203281480705,
+            "b": 651.2392448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "With p = 1, we have",
+      "text": "With p = 1, we have"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 147.47995,
+            "t": 640.4173025000001,
+            "r": 541.7834898842876,
+            "b": 568.9446631999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "   L 1 [ ¯ V 1 ( τ 1 , z, 1)] = λ 1 ( ¯ V 1 ( τ 1 , z, 1) -¯ V 2 ( τ 2 , z, 1)) -2 e z σ 2 1 ∂ ¯ V 1 ∂z ( τ 1 , z, 1) ¯ V 1 (0 , z, 1) = 0 lim z →∞ ¯ V 1 ( τ 1 , z, 1) = 0 (4.10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 147.48065000000003,
+            "t": 567.6973825000001,
+            "r": 541.7834898842876,
+            "b": 496.3443632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "   L 2 [ ¯ V 2 ( τ 2 , z, 1)] = λ 2 ( ¯ V 2 ( τ 2 , z, 1) -¯ V 1 ( τ 1 , z, 1)) -2 e z σ 2 2 ∂ ¯ V 2 ∂z ( τ 2 , z, 1) ¯ V 2 (0 , z, 1) = 0 lim z →∞ ¯ V 2 ( τ 2 , z, 1) = 0 (4.11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 110.88042000000007,
+            "t": 507.80657999999994,
+            "r": 541.7210152929279,
+            "b": 477.5664063499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "Comparing with equations (4.1) and (4.3), it is obvious that ¯ V i ( τ i , z, 1) , i = 1 , 2 are equal to our searched solutions V i ( τ i , z ) , i = 1 , 2.",
+      "text": "Comparing with equations (4.1) and (4.3), it is obvious that ¯ V i ( τ i , z, 1) , i = 1 , 2 are equal to our searched solutions V i ( τ i , z ) , i = 1 , 2."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 126.83983000000012,
+            "t": 467.36627999999996,
+            "r": 392.68070700613157,
+            "b": 455.3991247999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Now we set p = 0, equations (4.5) and (4.6) become",
+      "text": "Now we set p = 0, equations (4.5) and (4.6) become"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 229.56015000000014,
+            "t": 444.20649,
+            "r": 541.7827998842877,
+            "b": 374.30454319999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "   L 1 [ ¯ V 1 ( τ 1 , z, 0)] = L 1 [ ¯ V 0 1 ( τ 1 , z )] ¯ V 1 (0 , z, 0) = ¯ V 0 1 (0 , z ) lim z →∞ ¯ V 1 ( τ 1 , z, 0) = 0 (4.12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 110.87966999999992,
+            "t": 341.0381879999999,
+            "r": 541.7198148825603,
+            "b": 259.1988247999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            357
+          ]
+        }
+      ],
+      "orig": " Clearly ¯ V i ( τ i , z, 0) , i = 1 , 2 will be equal to ¯ V 0 i ( τ i , z ) as long as the initial guess satisfies the limiting condition lim z →∞ ¯ V 0 i ( τ i , z ) = 0. The limiting condition is the only requirement for ¯ V 0 i ( τ i , z ). However if in addition L i [ ¯ V 0 i ( τ i , z )] = 0 will speed up a convergence rate of the solution series.",
+      "text": " Clearly ¯ V i ( τ i , z, 0) , i = 1 , 2 will be equal to ¯ V 0 i ( τ i , z ) as long as the initial guess satisfies the limiting condition lim z →∞ ¯ V 0 i ( τ i , z ) = 0. The limiting condition is the only requirement for ¯ V 0 i ( τ i , z ). However if in addition L i [ ¯ V 0 i ( τ i , z )] = 0 will speed up a convergence rate of the solution series."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 229.55996,
+            "t": 375.0860999999999,
+            "r": 541.7826098842876,
+            "b": 326.6642431999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "  L 2 [ ¯ V 2 ( τ 2 , z, 0)] = L 2 [ ¯ V 0 2 ( τ 2 , z )] ¯ V 2 (0 , z, 0) = ¯ V 0 2 (0 , z ) lim z →∞ ¯ V 2 ( τ 2 , z, 0) = 0 (4.13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 110.88051999999999,
+            "t": 251.48587999999995,
+            "r": 541.691804552653,
+            "b": 207.11872479999988,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "For the choice of ¯ V 0 i ( τ i , z ) any continuous function satisfying the limiting condition can be used. We choose the corresponding European option value as the initial guess with two apparent merits given as in Zhu (2006):",
+      "text": "For the choice of ¯ V 0 i ( τ i , z ) any continuous function satisfying the limiting condition can be used. We choose the corresponding European option value as the initial guess with two apparent merits given as in Zhu (2006):"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 125.16062,
+            "t": 186.32607999999993,
+            "r": 448.9197363968515,
+            "b": 165.88268799999992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "1. the boundary condition as z →∞ is automatically satisfied;",
+      "text": "the boundary condition as z →∞ is automatically satisfied;",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 125.16016000000005,
+            "t": 149.96587999999997,
+            "r": 541.7749748,
+            "b": 120.23892479999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "2. L i [ ¯ V 0 i ( τ i , z )] will become 0; which we expect will foster a faster convergence of the series.",
+      "text": "L i [ ¯ V 0 i ( τ i , z )] will become 0; which we expect will foster a faster convergence of the series.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 323.40037,
+            "t": 98.84587999999985,
+            "r": 329.2464628,
+            "b": 86.87872479999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 541.405095975936,
+            "b": 636.4794448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "The closed-form solution of a European put option with a two-state regime switching is given in Zhu, et al. (2012):",
+      "text": "The closed-form solution of a European put option with a two-state regime switching is given in Zhu, et al. (2012):"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 120.8398899999998,
+            "t": 623.7378924999999,
+            "r": 560.5028798842876,
+            "b": 355.91912479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            944
+          ]
+        }
+      ],
+      "orig": "V 0 i ( t, S ) = Ke -r i ( T -t ) + 1 4 π √ 2 √ SKe -1 2 ( r i + a 21 + a 12 + σ 2 1 + σ 2 2 8 )( T -t ) ∫ ∞ 0 ( -1) i -1 2 ˆ f 1 ( ρ )( a 21 + a 12 ) M ( ρ )( ρ 4 + 1 16 )( σ 2 1 -σ 2 2 ) × { e X i ( ρ ) [ (2 ρ 2 -1 2 ) sin( ˆ f 2 ( ρ ) + θ ( ρ ) -ˆ Y i ( ρ )) -(2 ρ 2 + 1 2 ) cos( ˆ f 2 ( ρ ) + θ ( ρ ) -ˆ Y i ( ρ )) ] -e -X i ( ρ ) [ (2 ρ 2 -1 2 ) sin( ˆ f 2 ( ρ ) + θ ( ρ ) + ˆ Y i ( ρ )) -(2 ρ 2 + 1 2 ) cos( ˆ f 2 ( ρ ) + θ ( ρ ) + ˆ Y i ( ρ )) ]} + 2 ˆ f 1 ( ρ ) M ( ρ ) { e X i ( ρ ) [ sin( ˆ f 2 ( ρ ) + θ ( ρ ) -ˆ Y i ( ρ )) + cos( ˆ f 2 ( ρ ) + θ ( ρ ) -ˆ Y i ( ρ )) ] -e -X i ( ρ ) [ sin( ˆ f 2 ( ρ ) + θ ( ρ ) + ˆ Y i ( ρ )) + cos( ˆ f 2 ( ρ ) + θ ( ρ ) + ˆ Y i ( ρ )) ]} + ˆ f 1 ( ρ ) ρ 4 + 1 16 { e X i ( ρ ) [ (2 ρ 2 -1 2 ) sin( ˆ f 2 ( ρ ) -ˆ Y i ( ρ )) -(2 ρ 2 + 1 2 ) cos( ˆ f 2 ( ρ ) -ˆ Y i ( ρ )) ] + e -X i ( ρ ) [ (2 ρ 2 -1 2 ) sin( ˆ f 2 ( ρ ) + ˆ Y i ( ρ )) -(2 ρ 2 + 1 2 ) cos( ˆ f 2 ( ρ ) + ˆ Y i ( ρ )) ]} dρ, (4.14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.88004000000001,
+            "t": 341.24648,
+            "r": 202.36107308093446,
+            "b": 329.2793248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "for i = 1 , 2 , where",
+      "text": "for i = 1 , 2 , where"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 162.71989000000008,
+            "t": 317.7377125000001,
+            "r": 489.7034860000001,
+            "b": 173.563268,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "τ = σ 2 1 -σ 2 2 4 ( T -t ) , α = 2( a 12 -a 21 ) σ 2 1 -σ 2 2 , µ 2 = 4 a 12 a 21 ( σ 2 1 -σ 2 2 ) 2 , M ( ρ ) = { [ ( 1 4 + α ) 2 -ρ 4 + µ 2 ] 2 +4 ρ 4 ( 1 4 + α ) 2 } 1 4 , θ ( ρ ) = 1 2 tan -1 [ 2 ρ 2 ( 1 4 + α ) ( 1 4 + α ) 2 -ρ 4 + µ 2 ] , X i ( ρ ) = ( -1) i -1 M ( ρ ) τ cos θ ( ρ ) , ˆ Y i ( ρ ) = ( -1) i -1 M ( ρ ) τ sin θ ( ρ )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.88051000000013,
+            "t": 172.76645999999994,
+            "r": 129.73221573509133,
+            "b": 160.79930479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "and",
+      "text": "and"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 115.32036000000014,
+            "t": 151.77765250000004,
+            "r": 537.2401092,
+            "b": 120.83924479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "ˆ f 1 ( ρ ) = e -ρ √ 2 | ln( S K )+ r i ( T -t ) | , ˆ f 2 ( ρ ) = ρ 2 4 ( σ 2 1 + σ 2 2 )( T -t ) -ρ √ 2 | ln( S K ) + r i ( T -t ) | .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 320.40025,
+            "t": 98.84636999999998,
+            "r": 332.12637127206403,
+            "b": 86.8792148,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 110.88,
+            "t": 666.2064,
+            "r": 541.7667428168957,
+            "b": 636.4794448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "To find the values of ¯ V i ( τ i , z, 1) , i = 1 , 2, we can expand the functions ¯ V i ( τ i , z, p ) as a Taylor's series expansion of p",
+      "text": "To find the values of ¯ V i ( τ i , z, 1) , i = 1 , 2, we can expand the functions ¯ V i ( τ i , z, p ) as a Taylor's series expansion of p"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 110.88031999999998,
+            "t": 577.2865099999999,
+            "r": 140.6808930809344,
+            "b": 565.3193547999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 229.3205299999999,
+            "t": 625.5379225000001,
+            "r": 541.7831598842877,
+            "b": 567.7444832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "{ ¯ V 1 ( τ 1 , z, p ) = ∑ ∞ m =0 ¯ V m 1 ( τ 1 ,z ) m ! p m ¯ V 2 ( τ 2 , z, p ) = ∑ ∞ m =0 ¯ V m 2 ( τ 2 ,z ) m ! p m (4.15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 229.20031999999998,
+            "t": 555.9585179999999,
+            "r": 541.7824598842876,
+            "b": 516.283088,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "{ ¯ V m 1 ( τ 1 , z ) = ∂ m ∂p m ¯ V 1 ( τ 1 , z, p ) | p =0 ¯ V m 2 ( τ 2 , z ) = ∂ m ∂p m ¯ V 2 ( τ 2 , z, p ) | p =0 (4.16)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 110.87961999999999,
+            "t": 509.96630000000005,
+            "r": 541.7826944353283,
+            "b": 480.2393448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "To find ¯ V m 1 ( τ 1 , z ) and ¯ V m 2 ( τ 2 , z ) in equation (4.15), we put (4.15) into equations (4.5) and (4.6) respectively and obtain the following recursive relations:",
+      "text": "To find ¯ V m 1 ( τ 1 , z ) and ¯ V m 2 ( τ 2 , z ) in equation (4.15), we put (4.15) into equations (4.5) and (4.6) respectively and obtain the following recursive relations:"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 165.48001999999994,
+            "t": 468.478108,
+            "r": 541.7831098842877,
+            "b": 393.1443632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "     L 1 ( ¯ V m 1 ) = λ 1 ( ¯ V m -1 1 -¯ V m -1 2 ) -2 e z σ 2 1 ∂ ¯ V m -1 1 ∂z m = 1 , 2 , ..., ¯ V m 1 (0 , z ) = 0 lim z →∞ ¯ V m 1 ( τ 1 , z ) = 0 (4.17)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 110.88027,
+            "t": 355.07810799999993,
+            "r": 331.6803265664515,
+            "b": 319.22446319999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": " We introduce the following transformation:",
+      "text": " We introduce the following transformation:"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 165.48027000000002,
+            "t": 394.558208,
+            "r": 541.7831098842877,
+            "b": 322.82446319999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "    L 2 ( ¯ V m 2 ) = λ 2 ( ¯ V m -1 2 -¯ V m -1 1 ) -2 e z σ 2 2 ∂ ¯ V m -1 2 ∂z m = 1 , 2 , ..., ¯ V m 2 (0 , z ) = 0 lim z →∞ ¯ V m 2 ( τ 2 , z ) = 0 (4.18)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 212.16026999999997,
+            "t": 309.48824632,
+            "r": 541.7831498842877,
+            "b": 292.40630634999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "¯ V m i ( τ i , z ) = e -[(1+ γ i ) z 2 + 1 4 τ i (1+ γ i ) 2 ] ˆ V m i ( τ i , z ) . (4.19)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 110.88031000000001,
+            "t": 280.04660000000007,
+            "r": 541.6151934605568,
+            "b": 253.3192448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "We can rewrite equations (4.17) and (4.18) in the form of standard nonhomogeneous diffusion equations",
+      "text": "We can rewrite equations (4.17) and (4.18) in the form of standard nonhomogeneous diffusion equations"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 139.56041000000002,
+            "t": 242.13759249999998,
+            "r": 541.7831498842876,
+            "b": 165.86486320000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "     ∂ ˆ V m 1 ∂τ 1 -∂ 2 ˆ V m 1 ∂z 2 = e [(1+ γ 1 ) z 2 + 1 4 τ 1 (1+ γ 1 ) 2 ] [ λ 1 ( ¯ V m -1 1 -¯ V m -1 2 ) -2 e z σ 2 1 ∂ ¯ V m -1 1 ∂z ] ˆ V m 1 (0 , z ) = 0 lim z →∞ ˆ V m 1 ( τ 1 , z ) = 0 (4.20)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 140.52031,
+            "t": 166.41760250000004,
+            "r": 541.7831598842876,
+            "b": 90.14448319999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "     ∂ ˆ V m 2 ∂τ 2 -∂ 2 ˆ V m 2 ∂z 2 = e [(1+ γ 2 ) z 2 + 1 4 τ 2 (1+ γ 2 ) 2 ] [ λ 2 ( ¯ V m -1 2 -¯ V m -1 1 ) -2 e z σ 2 2 ∂ ¯ V m -1 2 ∂z ] ˆ V m 2 (0 , z ) = 0 lim z →∞ ˆ V m 2 ( τ 2 , z ) = 0 (4.21)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 320.40031999999997,
+            "t": 98.84640000000002,
+            "r": 332.12644127206397,
+            "b": 86.87924480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "11",
+      "text": "11"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 541.4960854773249,
+            "b": 636.4794448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "The system of PDEs (4.20) and (4.21) has a well-known closed-form solution respectively (see Carslaw and Jaeger (1959)):",
+      "text": "The system of PDEs (4.20) and (4.21) has a well-known closed-form solution respectively (see Carslaw and Jaeger (1959)):"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 148.91979999999998,
+            "t": 626.1378625000002,
+            "r": 541.7827898842877,
+            "b": 546.9595247999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "ˆ V m 1 ( τ 1 , z ) = ∫ τ 1 0 ∫ ∞ 0 e [(1+ γ 1 ) ξ 2 + 1 4 τ 1 (1+ γ 1 ) 2 ] × [ λ 1 ( ¯ V m -1 1 -¯ V m -1 2 ) -2 e ξ σ 2 1 ∂ ¯ V m -1 1 ∂ξ ] G 1 ( τ 1 -u, z, ξ ) dξdu, (4.22)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 148.91995000000009,
+            "t": 524.6179425,
+            "r": 541.7827898842877,
+            "b": 445.55942479999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "ˆ V m 2 ( τ 2 , z ) = ∫ τ 2 0 ∫ ∞ 0 e [(1+ γ 2 ) ξ 2 + 1 4 τ 2 (1+ γ 2 ) 2 ] × [ λ 2 ( ¯ V m -1 2 -¯ V m -1 1 ) -2 e ξ σ 2 2 ∂ ¯ V m -1 2 ∂ξ ] G 2 ( τ 2 -u, z, ξ ) dξdu, (4.23)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 163.31975000000006,
+            "t": 409.65792250000004,
+            "r": 541.7828798842877,
+            "b": 306.6243632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "G 1 ( τ 1 , z, ξ ) = 1 2 √ πτ 1 { exp [ -( z -ξ ) 2 4 τ 1 ] +exp [ -( z + ξ ) 2 4 τ 1 ] + (1 -γ 1 ) √ πτ 1 exp [ (1 -γ 1 ) 2 4 -(1 -γ 1 )( z + ξ ) 2 ] × erfc ( z + ξ 2 √ τ 1 -1 2 (1 -γ 1 ) √ τ 1 )} , (4.24)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 163.32004000000006,
+            "t": 289.0574325,
+            "r": 541.7828798842877,
+            "b": 186.02436319999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "G 2 ( τ 2 , z, ξ ) = 1 2 √ πτ 2 { exp [ -( z -ξ ) 2 4 τ 2 ] +exp [ -( z + ξ ) 2 4 τ 2 ] + (1 -γ 2 ) √ πτ 2 exp [ (1 -γ 2 ) 2 4 -(1 -γ 2 )( z + ξ ) 2 ] × erfc ( z + ξ 2 √ τ 2 -1 2 (1 -γ 2 ) √ τ 2 )} , (4.25)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88004000000006,
+            "t": 179.60659999999996,
+            "r": 386.6404966518533,
+            "b": 167.63944479999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "and erfc( . ) denotes the complementary error function.",
+      "text": "and erfc( . ) denotes the complementary error function."
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.87995000000006,
+            "t": 430.76637999999997,
+            "r": 140.68052308093448,
+            "b": 418.79922479999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 320.40008000000006,
+            "t": 98.8463999999999,
+            "r": 332.12620127206407,
+            "b": 86.87924479999992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 110.88,
+            "t": 666.29078,
+            "r": 541.894749971117,
+            "b": 628.4598046000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "5 A symmetry between fixed-strike and floatingstrike Asian options",
+      "text": "5 A symmetry between fixed-strike and floatingstrike Asian options",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 110.88,
+            "t": 606.3267000000001,
+            "r": 541.7825903564797,
+            "b": 520.6793447999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            496
+          ]
+        }
+      ],
+      "orig": "There are many known symmetry results in financial option pricing. Henderson and Wojakowski (2002) derived an equivalence of European floating strike Asian calls (or put) and fixed strike Asian puts (or call) in the Black-Scholes-Merton model. Eberlein and Papapantoleon (2005) established a symmetry relationship between floating strike and fixed strike Asian options for assets driven by general L´ evy processes using a change of num´ eraire and the characteristic triplet of the dual process.",
+      "text": "There are many known symmetry results in financial option pricing. Henderson and Wojakowski (2002) derived an equivalence of European floating strike Asian calls (or put) and fixed strike Asian puts (or call) in the Black-Scholes-Merton model. Eberlein and Papapantoleon (2005) established a symmetry relationship between floating strike and fixed strike Asian options for assets driven by general L´ evy processes using a change of num´ eraire and the characteristic triplet of the dual process."
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 110.87999999999994,
+            "t": 509.96639999999985,
+            "r": 541.7335536047614,
+            "b": 453.71904479999984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "We also have a symmetry between fixed-strike and floating-strike Asian options in the regime switching model. In the framework of the regime switching model, the symmetry results for Asian options with respect to G t are stated in the following proposition.",
+      "text": "We also have a symmetry between fixed-strike and floating-strike Asian options in the regime switching model. In the framework of the regime switching model, the symmetry results for Asian options with respect to G t are stated in the following proposition."
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 110.87983999999992,
+            "t": 443.00649999999985,
+            "r": 541.6916448808963,
+            "b": 401.6389447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            261
+          ]
+        }
+      ],
+      "orig": "Proposition 5.1: Let C f ( P f ) denote the floating-strike Asian call (put) option and C x ( P x ) the fixed strike Asian call (put) option; based on arithmetic averaging, written at time t = 0 with expiration date T . Then the following symmetry results hold:",
+      "text": "Proposition 5.1: Let C f ( P f ) denote the floating-strike Asian call (put) option and C x ( P x ) the fixed strike Asian call (put) option; based on arithmetic averaging, written at time t = 0 with expiration date T . Then the following symmetry results hold:"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 213.59992999999992,
+            "t": 386.84629999999987,
+            "r": 541.7833503089917,
+            "b": 374.08737249999984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "C f ( S 0 , 1 , r, 0 , 0 , T ) = P x ( S 0 , S 0 , 0 , r, 0 , T ) , (5.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 208.91948999999994,
+            "t": 370.9478079999999,
+            "r": 541.7832503089917,
+            "b": 342.2874725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "C x ( K,S 0 , r, 0 , 0 , T ) = P f ( S 0 , K S 0 , 0 , r, 0 , T ) . (5.2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 110.88038999999998,
+            "t": 332.00620000000004,
+            "r": 541.6920305646847,
+            "b": 305.2792448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "The proof of Proposition 5.1 is similar to the proof of Theorem 1 in Henderson and Wojakowski (2002). Hence, we do not repeat it here.",
+      "text": "The proof of Proposition 5.1 is similar to the proof of Theorem 1 in Henderson and Wojakowski (2002). Hence, we do not repeat it here."
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 110.88038999999998,
+            "t": 272.09058000000005,
+            "r": 232.879619839438,
+            "b": 256.57950460000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "6 Conclusion",
+      "text": "6 Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 110.88038999999998,
+            "t": 234.44640000000004,
+            "r": 541.6919121153277,
+            "b": 192.95924480000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "We consider the pricing of a floating-strike Asian option in a two-state regime switching model. A closed-form analytical pricing formula for the floating strike Asian option is derived by the means of the homotopy analysis method.",
+      "text": "We consider the pricing of a floating-strike Asian option in a two-state regime switching model. A closed-form analytical pricing formula for the floating strike Asian option is derived by the means of the homotopy analysis method."
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 320.40039,
+            "t": 98.84640000000002,
+            "r": 332.126511272064,
+            "b": 86.87924480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "13",
+      "text": "13"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 110.88,
+            "t": 666.29078,
+            "r": 201.66623445181202,
+            "b": 650.7797046000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 110.88,
+            "t": 631.6466,
+            "r": 541.6800294174205,
+            "b": 604.9192448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "[1] Black F. and Scholes M., The pricing of options and corporate liabilities, Journal of Political Economy, 81 , 1973, pp. 637-659.",
+      "text": "Black F. and Scholes M., The pricing of options and corporate liabilities, Journal of Political Economy, 81 , 1973, pp. 637-659.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 110.8802,
+            "t": 592.1664999999999,
+            "r": 541.6810826899965,
+            "b": 565.5595447999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "[2] Boyle P., Broadie M., Glasserman P., Monte Carlo methods for security pricing, Journal of Economic Dynamics and Control, 21 ,1997, pp. 1267-1321.",
+      "text": "Boyle P., Broadie M., Glasserman P., Monte Carlo methods for security pricing, Journal of Economic Dynamics and Control, 21 ,1997, pp. 1267-1321.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 110.88099999999997,
+            "t": 552.8067999999998,
+            "r": 541.4418746905598,
+            "b": 526.0794447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "[3] Boyle, P. P., and Draviam T., Pricing exotic options under regime switching, Insurance: Mathematics and Economics, 40 , 2007, pp. 267-282.",
+      "text": "Boyle, P. P., and Draviam T., Pricing exotic options under regime switching, Insurance: Mathematics and Economics, 40 , 2007, pp. 267-282.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 110.88079999999991,
+            "t": 513.3266999999997,
+            "r": 541.6805282951678,
+            "b": 471.9595447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "[4] Buffington J. and Elliott R. J., Regime switching and European options. In: Stochastic Theory and Control, Proceedings of a Workshop, Lawrence, K.S., pp.73-81. Berlin: Springer 2002a",
+      "text": "Buffington J. and Elliott R. J., Regime switching and European options. In: Stochastic Theory and Control, Proceedings of a Workshop, Lawrence, K.S., pp.73-81. Berlin: Springer 2002a",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 110.88099999999986,
+            "t": 459.2067999999998,
+            "r": 541.6184101214204,
+            "b": 432.4794447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "[5] Buffington J. and Elliott R.J., American options with regime switching, International Journal of Theoretical and Applied Finance, 5 , 2002b, pp. 497-514.",
+      "text": "Buffington J. and Elliott R.J., American options with regime switching, International Journal of Theoretical and Applied Finance, 5 , 2002b, pp. 497-514.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 110.88109999999989,
+            "t": 419.7266999999998,
+            "r": 541.5611640596477,
+            "b": 393.1193447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "[6] Carslaw H.S. and Jaeger J.C., Conduction of heat in solids, Clarendon Press: Oxford 1959.",
+      "text": "Carslaw H.S. and Jaeger J.C., Conduction of heat in solids, Clarendon Press: Oxford 1959.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 110.8812999999999,
+            "t": 380.36659999999983,
+            "r": 541.7210681087998,
+            "b": 353.6392447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "[7] Curran V., Valuing Asian options and portfolio options by conditioning on the geometric mean price, Management Science, 40 , 1994, pp.1705-1711.",
+      "text": "Curran V., Valuing Asian options and portfolio options by conditioning on the geometric mean price, Management Science, 40 , 1994, pp.1705-1711.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 110.88009999999997,
+            "t": 340.88649999999984,
+            "r": 541.8002090099196,
+            "b": 299.5193447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "[8] Eberlein E. and Papapantoleon A., Equivalence of floating and fixed strike Asian and lookback options, Stochastic Processes and their Applications, 115 , 2005, pp. 31-40.",
+      "text": "Eberlein E. and Papapantoleon A., Equivalence of floating and fixed strike Asian and lookback options, Stochastic Processes and their Applications, 115 , 2005, pp. 31-40.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 110.88049999999998,
+            "t": 286.76659999999987,
+            "r": 541.6919120055807,
+            "b": 260.0396447999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "[9] Elliott R. J., Aggoun L. and Moore J. B., Hidden Markov models: estimation and control. Berlin Heidelberg New York: Springer 1994",
+      "text": "Elliott R. J., Aggoun L. and Moore J. B., Hidden Markov models: estimation and control. Berlin Heidelberg New York: Springer 1994",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 110.88069999999999,
+            "t": 247.28649999999982,
+            "r": 541.7678197432317,
+            "b": 220.5595447999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "[10] Elliott R. J. and van der Hoek J., An application of hidden Markov models to asset allocation problems, Finance and Stochastics, 3 , 1997, pp. 229-238.",
+      "text": "Elliott R. J. and van der Hoek J., An application of hidden Markov models to asset allocation problems, Finance and Stochastics, 3 , 1997, pp. 229-238.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 110.88061999999996,
+            "t": 207.80679999999984,
+            "r": 541.5613940656125,
+            "b": 181.1994447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "[11] Elliott R. J., Hunter W. C. and Jamieson B. M., Financial signal processing, International Journal of Theoretical and Applied Finance, 4 , 2001, pp. 567-584.",
+      "text": "Elliott R. J., Hunter W. C. and Jamieson B. M., Financial signal processing, International Journal of Theoretical and Applied Finance, 4 , 2001, pp. 567-584.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 110.88053999999994,
+            "t": 168.44669999999985,
+            "r": 541.6151357293567,
+            "b": 126.95954479999989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "[12] Elliott R. J., Malcolm W. P. and Tsoi A. H., Robust parameter estimation for asset price models with Markov modulated volatilities, Journal of Economics Dynamics and Control, 27 (8), 2003, pp. 1391-1409.",
+      "text": "Elliott R. J., Malcolm W. P. and Tsoi A. H., Robust parameter estimation for asset price models with Markov modulated volatilities, Journal of Economics Dynamics and Control, 27 (8), 2003, pp. 1391-1409.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 320.4008399999999,
+            "t": 98.84659999999985,
+            "r": 332.1269612720639,
+            "b": 86.87944479999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "14",
+      "text": "14"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 541.7024830479359,
+            "b": 636.4794448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "[13] Elliott, R. J., Chan L. L., and Siu T. K., Option pricing and Esscher transform under regime switching, Annals of Finance, 1 (4), 2005, pp. 423-432.",
+      "text": "Elliott, R. J., Chan L. L., and Siu T. K., Option pricing and Esscher transform under regime switching, Annals of Finance, 1 (4), 2005, pp. 423-432.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.87992000000003,
+            "t": 623.7266999999999,
+            "r": 541.7745089287166,
+            "b": 582.3595447999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "[14] Fu M.C., Madan D.B., Wang T., Pricing continuous Asian options: A comparison of Monte Carlo and Laplace transform inversion methods, Journal of Computational Finance, 2 (2), 1999, pp. 49-74.",
+      "text": "Fu M.C., Madan D.B., Wang T., Pricing continuous Asian options: A comparison of Monte Carlo and Laplace transform inversion methods, Journal of Computational Finance, 2 (2), 1999, pp. 49-74.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.87984,
+            "t": 569.6063999999999,
+            "r": 541.6174316075518,
+            "b": 542.8794447999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "[15] Geman H., Yor M., Bessel processes, Asian options and perpetuities, Mathematical Finance, 3 , 1993, pp.349-375.",
+      "text": "Geman H., Yor M., Bessel processes, Asian options and perpetuities, Mathematical Finance, 3 , 1993, pp.349-375.",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.88015999999999,
+            "t": 530.1266999999998,
+            "r": 541.680179087411,
+            "b": 488.7595447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "[16] Gounden S. and O'Hara J.G., An analytic formula for the price of an Americanstyle Asian option of floating strike type, Applied Mathematics and Computation, 217 , 2010, pp. 2923-2936.",
+      "text": "Gounden S. and O'Hara J.G., An analytic formula for the price of an Americanstyle Asian option of floating strike type, Applied Mathematics and Computation, 217 , 2010, pp. 2923-2936.",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.88035999999997,
+            "t": 476.0067999999998,
+            "r": 541.6801983659007,
+            "b": 449.2794447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "[17] Guo X., Information and option pricings, Quantitative Finance, 1 , 2001, pp. 38-44.",
+      "text": "Guo X., Information and option pricings, Quantitative Finance, 1 , 2001, pp. 38-44.",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.87947999999994,
+            "t": 436.52669999999983,
+            "r": 541.4790752304636,
+            "b": 409.9193447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[18] Henderson V., Wojakowski R., On the equivalence of floating-and fixed-strike Asian options, Journal of Applied Probability, 39 , 2002, pp.391-394.",
+      "text": "Henderson V., Wojakowski R., On the equivalence of floating-and fixed-strike Asian options, Journal of Applied Probability, 39 , 2002, pp.391-394.",
+      "enumerated": true,
+      "marker": "[18]"
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.87947999999989,
+            "t": 397.16659999999985,
+            "r": 541.6000015787516,
+            "b": 370.4392447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "[19] Kemna A.G.Z., Vorst E.C.F., A pricing method for options based on average values, Journal of Banking and Finance, 14 , 1990, pp. 113-129.",
+      "text": "Kemna A.G.Z., Vorst E.C.F., A pricing method for options based on average values, Journal of Banking and Finance, 14 , 1990, pp. 113-129.",
+      "enumerated": true,
+      "marker": "[19]"
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.8790799999999,
+            "t": 357.68649999999985,
+            "r": 541.5998403653118,
+            "b": 330.95954479999983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "[20] Leung K. S., An analytic pricing formula for lookback options under stochastic volatility, Applied Mathematics Letters, 26 , 2013, pp. 145-149.",
+      "text": "Leung K. S., An analytic pricing formula for lookback options under stochastic volatility, Applied Mathematics Letters, 26 , 2013, pp. 145-149.",
+      "enumerated": true,
+      "marker": "[20]"
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.87927999999994,
+            "t": 318.32669999999985,
+            "r": 541.6137917342205,
+            "b": 291.5993447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "[21] Liao S.-J., Numerically solving non-linear problems by the homotopy analysis method, Comput. Mech., 20 , 1997, pp. 530-540.",
+      "text": "Liao S.-J., Numerically solving non-linear problems by the homotopy analysis method, Comput. Mech., 20 , 1997, pp. 530-540.",
+      "enumerated": true,
+      "marker": "[21]"
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.87887999999995,
+            "t": 278.84659999999985,
+            "r": 541.6901147401727,
+            "b": 252.11924479999982,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "[22] Liao S.-J. and Campo A., Analytic solutions of the temperature distribution in Blasius viscous flow problems, J. Fluid Mech., 453 , 2002, pp. 411-425.",
+      "text": "Liao S.-J. and Campo A., Analytic solutions of the temperature distribution in Blasius viscous flow problems, J. Fluid Mech., 453 , 2002, pp. 411-425.",
+      "enumerated": true,
+      "marker": "[22]"
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.87927999999994,
+            "t": 239.36649999999986,
+            "r": 541.6134726840319,
+            "b": 197.9993447999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "[23] Liao S.-J. and Zhu J.-M., A short note on higher-order streamfunction-vorticity formulations of 2D steady state Navier-Stokes equations, Int. J. Numer. Methods Fluids, 22 , 1996, pp. 1-9.",
+      "text": "Liao S.-J. and Zhu J.-M., A short note on higher-order streamfunction-vorticity formulations of 2D steady state Navier-Stokes equations, Int. J. Numer. Methods Fluids, 22 , 1996, pp. 1-9.",
+      "enumerated": true,
+      "marker": "[23]"
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.87937999999994,
+            "t": 185.24659999999983,
+            "r": 541.7357717175294,
+            "b": 143.75944479999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "[24] Liao S.-J. and Zhu S.-P., Solving the Liouville equation with the general boundary element method approach, Boundary Element Technology XIII, 1999, pp. 407-416.",
+      "text": "Liao S.-J. and Zhu S.-P., Solving the Liouville equation with the general boundary element method approach, Boundary Element Technology XIII, 1999, pp. 407-416.",
+      "enumerated": true,
+      "marker": "[24]"
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 320.3973799999999,
+            "t": 98.84649999999988,
+            "r": 332.1235012720639,
+            "b": 86.87934479999979,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 541.6916254911746,
+            "b": 636.4794448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "[25] Merton R., Theory of rational option pricing, Bell Journal of Economics and Management Science , 4 , 1973, pp. 141-183.",
+      "text": "Merton R., Theory of rational option pricing, Bell Journal of Economics and Management Science , 4 , 1973, pp. 141-183.",
+      "enumerated": true,
+      "marker": "[25]"
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.87975999999998,
+            "t": 624.5665,
+            "r": 541.6168725575678,
+            "b": 597.8391448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "[26] Ortega J.M., Rheinboldt W.C., Iterative solution of nonlinear equations in several variables, Academic Press, New York, 1970.",
+      "text": "Ortega J.M., Rheinboldt W.C., Iterative solution of nonlinear equations in several variables, Academic Press, New York, 1970.",
+      "enumerated": true,
+      "marker": "[26]"
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.87995999999993,
+            "t": 585.9266,
+            "r": 541.5597365212158,
+            "b": 559.3192448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "[27] Peskir G., Shiryaev A., Optimal stopping and free-boundary problems, Birkhuser-Verlag, 2006.",
+      "text": "Peskir G., Shiryaev A., Optimal stopping and free-boundary problems, Birkhuser-Verlag, 2006.",
+      "enumerated": true,
+      "marker": "[27]"
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.88015999999988,
+            "t": 547.2864,
+            "r": 541.6177683345919,
+            "b": 520.6794447999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "[28] Ritchken P., Sankarasubramanian L., Vijh A.M., The valuation of path dependent contracts on the average, Management Science, 39 , 1993, pp. 1202-1213.",
+      "text": "Ritchken P., Sankarasubramanian L., Vijh A.M., The valuation of path dependent contracts on the average, Management Science, 39 , 1993, pp. 1202-1213.",
+      "enumerated": true,
+      "marker": "[28]"
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.87995999999987,
+            "t": 508.76649999999995,
+            "r": 541.7997110323196,
+            "b": 482.03954479999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "[29] Rogers L.C.G., Shi Z., The value of an Asian option, J. Appl. Prob., 32 , 1995, pp.1077-1088.",
+      "text": "Rogers L.C.G., Shi Z., The value of an Asian option, J. Appl. Prob., 32 , 1995, pp.1077-1088.",
+      "enumerated": true,
+      "marker": "[29]"
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.88015999999982,
+            "t": 470.12659999999994,
+            "r": 541.7662918983166,
+            "b": 428.6394447999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "[30] Siu, T. K., Fair valuation of participating policies with surrender options and regime switching, Insurance: Mathematics and Economics, 37 (3), 2005, pp. 533552.",
+      "text": "Siu, T. K., Fair valuation of participating policies with surrender options and regime switching, Insurance: Mathematics and Economics, 37 (3), 2005, pp. 533552.",
+      "enumerated": true,
+      "marker": "[30]"
+    },
+    {
+      "self_ref": "#/texts/174",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.88055999999983,
+            "t": 416.7265,
+            "r": 541.7381300269566,
+            "b": 389.99914479999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "[31] Turnbull S., Wakeman L., A quick algorithm for pricing European average options, Journal of Financial and Quantitative Analysis, 26 , 1991, pp. 377-389.",
+      "text": "Turnbull S., Wakeman L., A quick algorithm for pricing European average options, Journal of Financial and Quantitative Analysis, 26 , 1991, pp. 377-389.",
+      "enumerated": true,
+      "marker": "[31]"
+    },
+    {
+      "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.88055999999989,
+            "t": 378.08619999999996,
+            "r": 541.6923580323838,
+            "b": 351.35924479999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "[32] Yao D.D., Zhang Q. and Zhou X.Y., A regime switching model for European options, Working paper, 2003, Columbia University, New York, USA.",
+      "text": "Yao D.D., Zhang Q. and Zhou X.Y., A regime switching model for European options, Working paper, 2003, Columbia University, New York, USA.",
+      "enumerated": true,
+      "marker": "[32]"
+    },
+    {
+      "self_ref": "#/texts/176",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.87975999999986,
+            "t": 339.44629999999995,
+            "r": 541.6181281981436,
+            "b": 312.7189447999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "[33] Yuen F. L. and Yang H., Option pricing in a jump-diffusion model with regimeswitching, ASTIN Bulletin, 39 (2), 2009, pp. 515-539.",
+      "text": "Yuen F. L. and Yang H., Option pricing in a jump-diffusion model with regimeswitching, ASTIN Bulletin, 39 (2), 2009, pp. 515-539.",
+      "enumerated": true,
+      "marker": "[33]"
+    },
+    {
+      "self_ref": "#/texts/177",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.88015999999985,
+            "t": 300.8059999999999,
+            "r": 541.6800705817085,
+            "b": 259.43924479999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "[34] Yuen F. L. and Yang H., Pricing Asian options and equity-indexed annuities with regime switching by the trinomial tree method, North American Actuarial Journal, 14 (2), 2010, pp. 256-277.",
+      "text": "Yuen F. L. and Yang H., Pricing Asian options and equity-indexed annuities with regime switching by the trinomial tree method, North American Actuarial Journal, 14 (2), 2010, pp. 256-277.",
+      "enumerated": true,
+      "marker": "[34]"
+    },
+    {
+      "self_ref": "#/texts/178",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.88035999999983,
+            "t": 247.5263,
+            "r": 541.6811391999997,
+            "b": 220.79894479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "[35] Zhang P. G., Flexible arithmetic Asian options, The Journal of Derivatives, 2 , 1995, pp. 53-63.",
+      "text": "Zhang P. G., Flexible arithmetic Asian options, The Journal of Derivatives, 2 , 1995, pp. 53-63.",
+      "enumerated": true,
+      "marker": "[35]"
+    },
+    {
+      "self_ref": "#/texts/179",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.88047999999975,
+            "t": 208.88599999999997,
+            "r": 541.6634765216766,
+            "b": 182.15904479999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "[36] Zhu S.-P., An exact and explicit solution for the valuation of American put options, Quantitative Finance, 6 (3), 2006, pp. 229-242.",
+      "text": "Zhu S.-P., An exact and explicit solution for the valuation of American put options, Quantitative Finance, 6 (3), 2006, pp. 229-242.",
+      "enumerated": true,
+      "marker": "[36]"
+    },
+    {
+      "self_ref": "#/texts/180",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.88049999999978,
+            "t": 170.24609999999996,
+            "r": 541.6922776076797,
+            "b": 128.75894479999988,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "[37] Zhu S.-P., Badran A. and Lu X., A new exact solution for pricing European options in a two-state regime-switching economy, Computers and Mathematics with Applications, 64 , 2012, pp. 2744-2755.",
+      "text": "Zhu S.-P., Badran A. and Lu X., A new exact solution for pricing European options in a two-state regime-switching economy, Computers and Mathematics with Applications, 64 , 2012, pp. 2744-2755.",
+      "enumerated": true,
+      "marker": "[37]"
+    },
+    {
+      "self_ref": "#/texts/181",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 320.4004999999998,
+            "t": 98.84599999999989,
+            "r": 332.1266212720638,
+            "b": 86.87884479999991,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "16",
+      "text": "16"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 12
+    },
+    "13": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 13
+    },
+    "14": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 14
+    },
+    "15": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 15
+    },
+    "16": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 16
+    }
+  }
+}

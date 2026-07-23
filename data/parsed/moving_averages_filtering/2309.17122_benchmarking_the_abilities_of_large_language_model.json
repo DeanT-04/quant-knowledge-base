@@ -1,0 +1,4454 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2309.17122_benchmarking_the_abilities_of_large_language_model",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 18159423568531474060,
+    "filename": "2309.17122_benchmarking_the_abilities_of_large_language_model.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/129"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_1_0_0",
+      "label": "unspecified"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/112"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 574.1800146484376,
+            "r": 36.206559297218156,
+            "b": 232.0000146484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "arXiv:2309.17122v1  [cs.AI]  29 Sep 2023",
+      "text": "arXiv:2309.17122v1  [cs.AI]  29 Sep 2023"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.291,
+            "t": 757.1503940484374,
+            "r": 486.57078579999995,
+            "b": 698.0762063381922,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "Benchmarking the Abilities of Large Language Models for RDF Knowledge Graph Creation and Comprehension: How Well Do LLMs Speak Turtle?",
+      "text": "Benchmarking the Abilities of Large Language Models for RDF Knowledge Graph Creation and Comprehension: How Well Do LLMs Speak Turtle?",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.1,
+            "t": 687.7672674484375,
+            "r": 477.1285759999999,
+            "b": 659.0234834484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "Johannes Frey 1,2,3 , * , † , Lars-Peter Meyer 1,2,3 , * , † , Natanael Arndt 2,4 , Felix Brei 1 and Kirill Bulert 1,2",
+      "text": "Johannes Frey 1,2,3 , * , † , Lars-Peter Meyer 1,2,3 , * , † , Natanael Arndt 2,4 , Felix Brei 1 and Kirill Bulert 1,2"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.29099999999988,
+            "t": 646.9062978484376,
+            "r": 414.70438240000016,
+            "b": 637.1634987776953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "1 Institute for Applied Informatics, Goerdelerring 9, 04109 Leipzig, Germany, https://infai.org",
+      "text": "1 Institute for Applied Informatics, Goerdelerring 9, 04109 Leipzig, Germany, https://infai.org"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.29099999999988,
+            "t": 633.9552978484376,
+            "r": 357.59738080000005,
+            "b": 624.2124987776953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "2 Agile Knowledge Engineering and Semantic Web (AKSW), https://aksw.org",
+      "text": "2 Agile Knowledge Engineering and Semantic Web (AKSW), https://aksw.org"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.29099999999988,
+            "t": 621.0032978484376,
+            "r": 381.25074400000017,
+            "b": 611.2604987776953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "3 Leipzig University, Institute for Informatics, Germany, https://www.uni-leipzig.de",
+      "text": "3 Leipzig University, Institute for Informatics, Germany, https://www.uni-leipzig.de"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.29099999999988,
+            "t": 608.0522978484375,
+            "r": 285.1459023999998,
+            "b": 598.3094987776952,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "4 eccenca GmbH, Leipzig, Germany, https://eccenca.com",
+      "text": "4 eccenca GmbH, Leipzig, Germany, https://eccenca.com"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 130.58099999999988,
+            "t": 577.4399297484375,
+            "r": 172.28648929999986,
+            "b": 567.7837548381923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 130.631,
+            "t": 567.5908338484375,
+            "r": 506.97059795199965,
+            "b": 414.5086162484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1385
+          ]
+        }
+      ],
+      "orig": "Large Language Models (LLMs) are advancing at a rapid pace, with significant improvements at natural language processing and coding tasks. Yet, their ability to work with formal languages representing data, specifically within the realm of knowledge graph engineering, remains under-investigated. To evaluate the proficiency of various LLMs, we created a set of five tasks that probe their ability to parse, understand, analyze, and create knowledge graphs serialized in Turtle syntax. These tasks, each embodying distinct degrees of complexity and being able to scale with the size of the problem, have been integrated into our automated evaluation system, the LLM-KG-Bench. The evaluation encompassed four commercially available LLMs - GPT-3.5, GPT-4, Claude 1.3, and Claude 2.0, as well as two freely accessible offline models, GPT4All Vicuna and GPT4All Falcon 13B. This analysis offers an in-depth understanding of the strengths and shortcomings of LLMs in relation to their application within RDF knowledge graph engineering workflows utilizing Turtle representation. While our findings show that the latest commercial models outperform their forerunners in terms of proficiency with the Turtle language, they also reveal an apparent weakness. These models fall short when it comes to adhering strictly to the output formatting constraints, a crucial requirement in this context.",
+      "text": "Large Language Models (LLMs) are advancing at a rapid pace, with significant improvements at natural language processing and coding tasks. Yet, their ability to work with formal languages representing data, specifically within the realm of knowledge graph engineering, remains under-investigated. To evaluate the proficiency of various LLMs, we created a set of five tasks that probe their ability to parse, understand, analyze, and create knowledge graphs serialized in Turtle syntax. These tasks, each embodying distinct degrees of complexity and being able to scale with the size of the problem, have been integrated into our automated evaluation system, the LLM-KG-Bench. The evaluation encompassed four commercially available LLMs - GPT-3.5, GPT-4, Claude 1.3, and Claude 2.0, as well as two freely accessible offline models, GPT4All Vicuna and GPT4All Falcon 13B. This analysis offers an in-depth understanding of the strengths and shortcomings of LLMs in relation to their application within RDF knowledge graph engineering workflows utilizing Turtle representation. While our findings show that the latest commercial models outperform their forerunners in terms of proficiency with the Turtle language, they also reveal an apparent weakness. These models fall short when it comes to adhering strictly to the output formatting constraints, a crucial requirement in this context."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 130.963,
+            "t": 405.4959297484375,
+            "r": 180.4794049,
+            "b": 395.83975483819216,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Keywords",
+      "text": "Keywords",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 130.963,
+            "t": 395.6468338484375,
+            "r": 464.4503152000001,
+            "b": 385.03061624843747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "Large Language Model, Knowledge Graph Engineering, Large Language Model Benchmark",
+      "text": "Large Language Model, Knowledge Graph Engineering, Large Language Model Benchmark"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.291,
+            "t": 347.4498528484375,
+            "r": 189.94393920000005,
+            "b": 334.7513335849454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.291,
+            "t": 323.7776594484376,
+            "r": 507.82678075,
+            "b": 283.76228504843755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "Large Language Models have gained significant attention in recent years, with GPT-4 being among the most prominent [1]. However, other models also demonstrate impressive performance in various tasks, as tracked in the LLMSYS Chatbot Arena Leaderboard 1 .",
+      "text": "Large Language Models have gained significant attention in recent years, with GPT-4 being among the most prominent [1]. However, other models also demonstrate impressive performance in various tasks, as tracked in the LLMSYS Chatbot Arena Leaderboard 1 ."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.789,
+            "t": 270.9829394484375,
+            "r": 473.38952480000006,
+            "b": 263.0854987776952,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "dl4kg2023 @ ISWC: Workshop Deep Learning for Knowledge Graphs, November 6th-7th, 2023, Athen, Greece",
+      "text": "dl4kg2023 @ ISWC: Workshop Deep Learning for Knowledge Graphs, November 6th-7th, 2023, Athen, Greece"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.291,
+            "t": 262.4538338484375,
+            "r": 176.48443520000004,
+            "b": 251.83761624843748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "* Corresponding author.",
+      "text": "* Corresponding author."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.291,
+            "t": 250.78824254843755,
+            "r": 220.29425760000004,
+            "b": 238.77261624843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "† These authors contributed equally.",
+      "text": "† These authors contributed equally."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.789,
+            "t": 238.25583384843753,
+            "r": 360.00043039999997,
+            "b": 227.6396162484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "envelope-open frey@informatik.uni-leipzig.de (J. Frey); lpmeyer@infai.org (L. Meyer)",
+      "text": "envelope-open frey@informatik.uni-leipzig.de (J. Frey); lpmeyer@infai.org (L. Meyer)"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.789,
+            "t": 227.29683384843747,
+            "r": 451.7894671999999,
+            "b": 205.7216162484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "orcid 0000-0003-3127-0815 (J. Frey); 0000-0001-5260-5181 (L. Meyer); 0000-0002-8130-8677 (N. Arndt); 0009-0008-5245-6655 (F. Brei); 0000-0002-1459-3754 (K. Bulert)",
+      "text": "orcid 0000-0003-3127-0815 (J. Frey); 0000-0001-5260-5181 (L. Meyer); 0000-0002-8130-8677 (N. Arndt); 0009-0008-5245-6655 (F. Brei); 0000-0002-1459-3754 (K. Bulert)"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.291,
+            "t": 184.44622744843753,
+            "r": 505.83122780799977,
+            "b": 172.79461624843748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "1 https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard/tree/a068e66fdd6f453812b307541e8c82f99472aabe",
+      "text": "1 https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard/tree/a068e66fdd6f453812b307541e8c82f99472aabe",
+      "hyperlink": "https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard/tree/a068e66fdd6f453812b307541e8c82f99472aabe"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.97,
+            "t": 203.40622744843756,
+            "r": 460.73693759999975,
+            "b": 183.9086162484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "© 2023 Copyright for this paper by its authors. Use permitted under Creative Commons License Attribution 4.0 International (CC BY 4.0). to appear in CEUR Workshop Proceedings (CEUR-WS.org)",
+      "text": "© 2023 Copyright for this paper by its authors. Use permitted under Creative Commons License Attribution 4.0 International (CC BY 4.0). to appear in CEUR Workshop Proceedings (CEUR-WS.org)"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 295.322,
+            "t": 129.43630744843745,
+            "r": 299.954609,
+            "b": 117.6405890484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 88.964,
+            "t": 756.8656594484374,
+            "r": 507.8294572950001,
+            "b": 662.6542850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            551
+          ]
+        }
+      ],
+      "orig": "In the field of Knowledge Graph Engineering (KGE) the overarching task is to structure knowledge and encode it in a machine processable format. Using machine learning techniques to create or process knowledge graphs is a well researched topic that receives new momentum. The report of the Dagstuhl Seminar 22372 [2] and the Knowledge Base Construction from Pretrained Language Models (LM-KBC) Challenge 2 emphasize the relevance of this topic. Pan et al. [3] outline the potential of connecting LLMs and KGs and in particular with 'LLM-augmented KGs'.",
+      "text": "In the field of Knowledge Graph Engineering (KGE) the overarching task is to structure knowledge and encode it in a machine processable format. Using machine learning techniques to create or process knowledge graphs is a well researched topic that receives new momentum. The report of the Dagstuhl Seminar 22372 [2] and the Knowledge Base Construction from Pretrained Language Models (LM-KBC) Challenge 2 emphasize the relevance of this topic. Pan et al. [3] outline the potential of connecting LLMs and KGs and in particular with 'LLM-augmented KGs'."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 88.768,
+            "t": 662.0216594484375,
+            "r": 507.66096318680025,
+            "b": 608.4572850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            326
+          ]
+        }
+      ],
+      "orig": "RDF - the Resource Description Framework - serves as a standard for representing Knowledge Graphs, while Turtle, a textual representation, is widely used to store and exchange RDF data. We have opted for Turtle given its strong resemblance to natural language, which aligns well with the primary mode of interaction with LLMs.",
+      "text": "RDF - the Resource Description Framework - serves as a standard for representing Knowledge Graphs, while Turtle, a textual representation, is widely used to store and exchange RDF data. We have opted for Turtle given its strong resemblance to natural language, which aligns well with the primary mode of interaction with LLMs."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.291,
+            "t": 607.8246594484375,
+            "r": 506.2721698379998,
+            "b": 581.3592850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "In previous works, we have conducted manual experiments [4] and introduced the framework LLM-KG-Bench [5] for automated benchmarking of LLM performance on KGE tasks.",
+      "text": "In previous works, we have conducted manual experiments [4] and introduced the framework LLM-KG-Bench [5] for automated benchmarking of LLM performance on KGE tasks."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.291,
+            "t": 580.7256594484375,
+            "r": 506.38603848800017,
+            "b": 472.9652850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            727
+          ]
+        }
+      ],
+      "orig": "In this paper, we expand upon that work by introducing two new tasks to the LLM-KG-Bench framework and evaluate the ability of various models to shed light on the question 'how well do LLMs speak Turtle', i.e. parse, comprehend, analyze, create and serialize RDF knowledge graphs using Turtle serialization. Besides Claude 1.3-100k, GPT-3.5 Turbo, and GPT-4, we also include Claude 2 in our evaluation and have extended the framework's capabilities to allow for benchmarking on a variety of freely available offline LLM models using GPT4All. We have selected GPT4All Vicuna as a non-commercially usable model and Falcon 13B as the top freely available commercially usable model (Apache 2.0 license) to be additionally included.",
+      "text": "In this paper, we expand upon that work by introducing two new tasks to the LLM-KG-Bench framework and evaluate the ability of various models to shed light on the question 'how well do LLMs speak Turtle', i.e. parse, comprehend, analyze, create and serialize RDF knowledge graphs using Turtle serialization. Besides Claude 1.3-100k, GPT-3.5 Turbo, and GPT-4, we also include Claude 2 in our evaluation and have extended the framework's capabilities to allow for benchmarking on a variety of freely available offline LLM models using GPT4All. We have selected GPT4All Vicuna as a non-commercially usable model and Falcon 13B as the top freely available commercially usable model (Apache 2.0 license) to be additionally included."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 88.888,
+            "t": 472.33265944843754,
+            "r": 505.9897199760003,
+            "b": 418.7682850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            358
+          ]
+        }
+      ],
+      "orig": "After describing related work in the next section, we introduce the benchmark tasks in section 3. In section 4, we explain the study setup, present the evaluation and discuss the strengths and weaknesses of the individual LLMs regarding their utilization for RDF KGE workflows using Turtle. We conclude with a discussion and outline future work in section 5.",
+      "text": "After describing related work in the next section, we introduce the benchmark tasks in section 3. In section 4, we explain the study setup, present the evaluation and discuss the strengths and weaknesses of the individual LLMs regarding their utilization for RDF KGE workflows using Turtle. We conclude with a discussion and outline future work in section 5."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.29100000000001,
+            "t": 396.7318528484375,
+            "r": 197.1313854,
+            "b": 384.0333335849454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "2. Related Work",
+      "text": "2. Related Work",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 88.964,
+            "t": 373.05865944843754,
+            "r": 507.6644866842001,
+            "b": 319.4952850484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            335
+          ]
+        }
+      ],
+      "orig": "There are several evaluations and articles discussing the utilization of LLMs for KG related tasks 3 , e.g. [6, 7, 8, 9, 4]. Some of them include references to code for reproducing the results. These works cover topics like, KG construction supported by LLMs, KG reasoning supported by LLMs or question answering based on KGs and LLMs.",
+      "text": "There are several evaluations and articles discussing the utilization of LLMs for KG related tasks 3 , e.g. [6, 7, 8, 9, 4]. Some of them include references to code for reproducing the results. These works cover topics like, KG construction supported by LLMs, KG reasoning supported by LLMs or question answering based on KGs and LLMs."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.291,
+            "t": 318.8626594484375,
+            "r": 506.6419659740004,
+            "b": 238.20028504843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            522
+          ]
+        }
+      ],
+      "orig": "In the field of generic LLM benchmarking, the BigBench framework [10] offers a robust structure and collects already a large list of automated benchmark tasks, but public code for integrating current LLMs like GPT or Claude is missing. The Large Model Systems (LMSys) leaderboard [11] is built mainly on manual testing and evaluation by the community. There is also the Language Model Evaluation Harness [12] which tests Open Source LLMs on a variety of reasoning and logic tasks, but none are related to knowledge graphs.",
+      "text": "In the field of generic LLM benchmarking, the BigBench framework [10] offers a robust structure and collects already a large list of automated benchmark tasks, but public code for integrating current LLMs like GPT or Claude is missing. The Large Model Systems (LMSys) leaderboard [11] is built mainly on manual testing and evaluation by the community. There is also the Language Model Evaluation Harness [12] which tests Open Source LLMs on a variety of reasoning and logic tasks, but none are related to knowledge graphs."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.291,
+            "t": 237.56665944843758,
+            "r": 505.98589270000025,
+            "b": 197.5522850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            274
+          ]
+        }
+      ],
+      "orig": "In the scope of this paper, we are focusing on the definition of automated evaluation tasks testing KGE related capabilities using turtle syntax for RDF-based KGs. We decided to use the KGE specific LLM-KG-Bench framework[5], which is compatible with BigBench , but adds KGE",
+      "text": "In the scope of this paper, we are focusing on the definition of automated evaluation tasks testing KGE related capabilities using turtle syntax for RDF-based KGs. We decided to use the KGE specific LLM-KG-Bench framework[5], which is compatible with BigBench , but adds KGE"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.291,
+            "t": 184.4522274484375,
+            "r": 270.1310064000001,
+            "b": 172.80061624843756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "2 Website: https://lm-kbc.github.io/challenge2023/",
+      "text": "2 Website: https://lm-kbc.github.io/challenge2023/",
+      "hyperlink": "https://lm-kbc.github.io/challenge2023/"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.291,
+            "t": 173.49322744843755,
+            "r": 293.66741920000004,
+            "b": 161.8416162484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "3 Repository: https://github.com/zjukg/KG-LLM-Papers/",
+      "text": "3 Repository: https://github.com/zjukg/KG-LLM-Papers/",
+      "hyperlink": "https://github.com/zjukg/KG-LLM-Papers/"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 295.321,
+            "t": 129.43630744843745,
+            "r": 299.95360900000003,
+            "b": 117.6405890484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 89.291,
+            "t": 756.8656594484374,
+            "r": 505.97968542210003,
+            "b": 730.4002850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "specific helpers, includes connectors for current LLMs like Claude and GPT, and supports tasks that can scale in problem sizes.",
+      "text": "specific helpers, includes connectors for current LLMs like Claude and GPT, and supports tasks that can scale in problem sizes."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 89.291,
+            "t": 708.3628528484375,
+            "r": 222.2946202,
+            "b": 695.6643335849454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "3. Benchmark Tasks",
+      "text": "3. Benchmark Tasks",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 88.964,
+            "t": 684.6906594484375,
+            "r": 507.1828939700003,
+            "b": 658.2252850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "To evaluate the capabilities of LLMs, we created five tasks with focus on the ability to parse, understand, analyze, and create knowledge graphs using the Turtle serialization format.",
+      "text": "To evaluate the capabilities of LLMs, we created five tasks with focus on the ability to parse, understand, analyze, and create knowledge graphs using the Turtle serialization format."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 88.931,
+            "t": 657.5916594484374,
+            "r": 505.9827549280001,
+            "b": 604.0282850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            317
+          ]
+        }
+      ],
+      "orig": "The tasks T2 TurtleErrorsStatic (section 3.2), T3 TurtleSampleGeneration (section 3.3), and T5 FactExtractStatic (section 3.5) are extended versions of the tasks described in [5], while the tasks T1 TurtleConnectionExplainStatic (section 3.1) and T4 TurtleFriendCount (section 3.4) are newly introduced in this paper.",
+      "text": "The tasks T2 TurtleErrorsStatic (section 3.2), T3 TurtleSampleGeneration (section 3.3), and T5 FactExtractStatic (section 3.5) are extended versions of the tasks described in [5], while the tasks T1 TurtleConnectionExplainStatic (section 3.1) and T4 TurtleFriendCount (section 3.4) are newly introduced in this paper."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 89.291,
+            "t": 603.3956594484375,
+            "r": 507.18458432600005,
+            "b": 536.2822850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            455
+          ]
+        }
+      ],
+      "orig": "The tasks are executed in two different manners, T1, T2, and T5 are executed as static tasks, i.e. with a fixed prompt size and fixed expected responses, while T3 and T4 are scalable in problem size (i.e. given prompt or expected response length) using an estimated byte limit parameter. The byte limit can be used by the scalable tasks to calculate a task specific problem size (number of persons in the case of T3 and T4) to approximate that byte limit.",
+      "text": "The tasks are executed in two different manners, T1, T2, and T5 are executed as static tasks, i.e. with a fixed prompt size and fixed expected responses, while T3 and T4 are scalable in problem size (i.e. given prompt or expected response length) using an estimated byte limit parameter. The byte limit can be used by the scalable tasks to calculate a task specific problem size (number of persons in the case of T3 and T4) to approximate that byte limit."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 88.888,
+            "t": 535.6496594484374,
+            "r": 506.2324492690999,
+            "b": 468.53628504843755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            424
+          ]
+        }
+      ],
+      "orig": "Task T1, T2 and T5 were executed 20 times per model. While the benchmark tasks report a variety of metrics and info or debug scores, we report the F1 measures for these tasks for a unified comparison in the scope of this work (shown in Figure 1). The scalable tasks T3 and T4 were executed 20 times per combination of size and model for 8 different sizes. Byte limit and resulting task problem sizes are depicted in table 1.",
+      "text": "Task T1, T2 and T5 were executed 20 times per model. While the benchmark tasks report a variety of metrics and info or debug scores, we report the F1 measures for these tasks for a unified comparison in the scope of this work (shown in Figure 1). The scalable tasks T3 and T4 were executed 20 times per combination of size and model for 8 different sizes. Byte limit and resulting task problem sizes are depicted in table 1."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 158.067,
+            "t": 447.47565944843757,
+            "r": 436.88177780000035,
+            "b": 434.5592850484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Table 1: Configured byte limit and resulting task problem sizes",
+      "text": "Table 1: Configured byte limit and resulting task problem sizes"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 171.075,
+            "t": 428.6316594484375,
+            "r": 217.8968572,
+            "b": 415.7152850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Byte Limit",
+      "text": "Byte Limit"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 229.8532308,
+            "t": 428.6316594484375,
+            "r": 321.05330680000003,
+            "b": 415.7152850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "No. Persons Task T3",
+      "text": "No. Persons Task T3"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 333.00968040000004,
+            "t": 428.6316594484375,
+            "r": 424.19884730000007,
+            "b": 415.7152850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "No. Persons Task T4",
+      "text": "No. Persons Task T4"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 184.341,
+            "t": 414.6846594484375,
+            "r": 204.63192600000002,
+            "b": 401.7682850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1000",
+      "text": "1000"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 270.3810717,
+            "t": 414.6846594484375,
+            "r": 280.52653469999996,
+            "b": 401.7682850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 376.0684325,
+            "t": 414.6846594484375,
+            "r": 381.14116399999995,
+            "b": 401.7682850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 184.341,
+            "t": 401.13565944843754,
+            "r": 204.63192600000002,
+            "b": 388.21928504843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2000",
+      "text": "2000"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 270.3810717,
+            "t": 401.13565944843754,
+            "r": 280.52653469999996,
+            "b": 388.21928504843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 373.52661219999993,
+            "t": 401.13565944843754,
+            "r": 383.6720751999999,
+            "b": 388.21928504843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "16",
+      "text": "16"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 193.286,
+            "t": 390.05665944843753,
+            "r": 195.686002,
+            "b": 377.14028504843753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 193.286,
+            "t": 386.0716594484375,
+            "r": 195.686002,
+            "b": 373.1552850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 193.286,
+            "t": 382.0866594484375,
+            "r": 195.686002,
+            "b": 369.1702850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 274.25,
+            "t": 390.05665944843753,
+            "r": 276.650002,
+            "b": 377.14028504843753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 274.25,
+            "t": 386.0716594484375,
+            "r": 276.650002,
+            "b": 373.1552850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 274.25,
+            "t": 382.0866594484375,
+            "r": 276.650002,
+            "b": 369.1702850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 377.402,
+            "t": 390.05665944843753,
+            "r": 379.80200199999996,
+            "b": 377.14028504843753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 377.402,
+            "t": 386.0716594484375,
+            "r": 379.80200199999996,
+            "b": 373.1552850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 377.402,
+            "t": 382.0866594484375,
+            "r": 379.80200199999996,
+            "b": 369.1702850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 184.34099999999998,
+            "t": 368.5376594484375,
+            "r": 204.631926,
+            "b": 355.6212850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "8000",
+      "text": "8000"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 270.3810717,
+            "t": 368.5376594484375,
+            "r": 280.52653469999996,
+            "b": 355.6212850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "80",
+      "text": "80"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 373.52661219999993,
+            "t": 368.5376594484375,
+            "r": 383.6720751999999,
+            "b": 355.6212850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "76",
+      "text": "76"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 89.29099999999998,
+            "t": 337.76040184843754,
+            "r": 358.1395376,
+            "b": 327.17827295723987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "3.1. Task T1: Find Connection in Small Turtle File",
+      "text": "3.1. Task T1: Find Connection in Small Turtle File",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 88.964,
+            "t": 319.4116594484376,
+            "r": 507.07880308579996,
+            "b": 292.9462850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "To check basic support for knowledge graphs and Turtle syntax, we implemented the TurtleConnectionExplainStatic task similar to the first manual experiment in our previous work [4].",
+      "text": "To check basic support for knowledge graphs and Turtle syntax, we implemented the TurtleConnectionExplainStatic task similar to the first manual experiment in our previous work [4]."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 98.85,
+            "t": 274.6986594484375,
+            "r": 496.02720370800034,
+            "b": 221.1342850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            351
+          ]
+        }
+      ],
+      "orig": "Prompt 1: For the following turtle find the shortest non trivial connection from Anne to Bob. Please summarize the connection with just a list of resource IRIs, one per line, starting with https://abc.def/ghi/anne and ending with https://abc.def/ghi/bob . Please leave out rdf:type infos, leave out explanatory text and answer with just the IRI lines.",
+      "text": "Prompt 1: For the following turtle find the shortest non trivial connection from Anne to Bob. Please summarize the connection with just a list of resource IRIs, one per line, starting with https://abc.def/ghi/anne and ending with https://abc.def/ghi/bob . Please leave out rdf:type infos, leave out explanatory text and answer with just the IRI lines."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.16300000000001,
+            "t": 220.50165944843752,
+            "r": 280.3885964,
+            "b": 207.58528504843753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "[. . . followed by the graph in listing 1]",
+      "text": "[. . . followed by the graph in listing 1]"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 89.291,
+            "t": 190.42965944843752,
+            "r": 505.985456336,
+            "b": 163.96428504843755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "In prompt 1, we provide a small organizational graph (see listing 1) and ask for the shortest non trivial connection (excluding the one via foaf:Person type statement) between the two",
+      "text": "In prompt 1, we provide a small organizational graph (see listing 1) and ask for the shortest non trivial connection (excluding the one via foaf:Person type statement) between the two"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 295.322,
+            "t": 129.43630744843745,
+            "r": 299.954609,
+            "b": 117.6405890484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/68"
+        }
+      ],
+      "content_layer": "body",
+      "label": "code",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.77699999999976,
+            "t": 757.6042274484375,
+            "r": 480.88175999999976,
+            "b": 498.3973050418693,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1166
+          ]
+        }
+      ],
+      "orig": "1 PREFIX : <https://abc.def/ghi/> 2 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 3 PREFIX owl: <http://www.w3.org/2002/07/owl#> 4 PREFIX foaf: <http://xmlns.com/foaf/0.1/> 5 PREFIX vcard: <http://www.w3.org/2006/vcard/ns#> 6 PREFIX org: <http://www.w3.org/ns/org#> 7 8 : anne a foaf : Person ; foaf : firstName \"Anne\" ; foaf : surname \"Miller\" ; 9 vcard : hasAddress [ a vcard : Home ; vcard : country-name \"UK\" ] . 10 : bob a foaf : Person ; foaf : firstName \"Bob\" ; foaf : surname \"Tanner\" ; 11 vcard : hasAddress [ a vcard : Home ; vcard : country-name \"US\" ] . 12 13 : wonderOrg a org : Organization . 14 : researchDep a org : OrganizationalUnit ; org : unitOf : wonderOrg ; 15 rdfs : label \"Research Department\" . 16 : marketingDep a org : OrganizationalUnit ; org : unitOf : wonderOrg ; 17 rdfs : label \"Marketing Department\" . 18 19 : chiefResearchOfficer a org : Role . : marketingManager a org : Role . 20 21 [ a org : Membership ; org : member : anne ; org : organization : researchDep ; 22 org : role : chiefResearchOfficer ] . 23 [ a org : Membership ; org : member : bob ; org : organization : marketingDep ; 24 org : role : marketingManager ] .",
+      "text": "1 PREFIX : <https://abc.def/ghi/> 2 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 3 PREFIX owl: <http://www.w3.org/2002/07/owl#> 4 PREFIX foaf: <http://xmlns.com/foaf/0.1/> 5 PREFIX vcard: <http://www.w3.org/2006/vcard/ns#> 6 PREFIX org: <http://www.w3.org/ns/org#> 7 8 : anne a foaf : Person ; foaf : firstName \"Anne\" ; foaf : surname \"Miller\" ; 9 vcard : hasAddress [ a vcard : Home ; vcard : country-name \"UK\" ] . 10 : bob a foaf : Person ; foaf : firstName \"Bob\" ; foaf : surname \"Tanner\" ; 11 vcard : hasAddress [ a vcard : Home ; vcard : country-name \"US\" ] . 12 13 : wonderOrg a org : Organization . 14 : researchDep a org : OrganizationalUnit ; org : unitOf : wonderOrg ; 15 rdfs : label \"Research Department\" . 16 : marketingDep a org : OrganizationalUnit ; org : unitOf : wonderOrg ; 17 rdfs : label \"Marketing Department\" . 18 19 : chiefResearchOfficer a org : Role . : marketingManager a org : Role . 20 21 [ a org : Membership ; org : member : anne ; org : organization : researchDep ; 22 org : role : chiefResearchOfficer ] . 23 [ a org : Membership ; org : member : bob ; org : organization : marketingDep ; 24 org : role : marketingManager ] .",
+      "captions": [
+        {
+          "$ref": "#/texts/68"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "code_language": "unknown"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/texts/67"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 89.29099999999974,
+            "t": 481.9056594484386,
+            "r": 505.9844307075998,
+            "b": 455.44028504843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "Listing 1: An organizational KG with two people working in different departments of the same organization. Graph taken from [4].",
+      "text": "Listing 1: An organizational KG with two people working in different departments of the same organization. Graph taken from [4]."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 88.888,
+            "t": 433.50765944843755,
+            "r": 507.1828889704996,
+            "b": 298.6482850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1027
+          ]
+        }
+      ],
+      "orig": "nodes :Anne and :Bob . By finding the connection 𝑎𝑛𝑛𝑒 𝑜𝑟𝑔 : 𝑚𝑒𝑚𝑏𝑒𝑟 ←--- - - - -𝑏𝑛𝑜𝑑𝑒 1 𝑜𝑟𝑔 : 𝑜𝑟𝑔𝑎𝑛𝑖𝑧𝑎𝑡𝑖𝑜𝑛 - - - - - - - - - - → 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ𝐷𝑒𝑝 𝑜𝑟𝑔 : 𝑢𝑛𝑖𝑡𝑂𝑓 - - - - - - - → 𝑤𝑜𝑛𝑑𝑒𝑟𝑂𝑟𝑔 𝑜𝑟𝑔 : 𝑢𝑛𝑖𝑡𝑂𝑓 ← - - - - - - -𝑚𝑎𝑟𝑘𝑒𝑡𝑖𝑛𝑔𝐷𝑒𝑝 𝑜𝑟𝑔 : 𝑜𝑟𝑔𝑎𝑛𝑖𝑧𝑎𝑡𝑖𝑜𝑛 ←--- - - - - - - -𝑏𝑛𝑜𝑑𝑒 2 𝑜𝑟𝑔 : 𝑚𝑒𝑚𝑏𝑒𝑟 - - - - - - - → 𝑏𝑜𝑏 between them, the LLM demonstrates basic graph handling capabilities. Note, that we ask the response output to be a list of resource/node IRIs without any other text, to support the automated evaluation of the answer. This also excludes both blank nodes and leads to the list 𝑎𝑛𝑛𝑒, 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ𝐷𝑒𝑝, 𝑤𝑜𝑛𝑑𝑒𝑟𝑂𝑟𝑔, 𝑚𝑎𝑟𝑘𝑒𝑡𝑖𝑛𝑔𝐷𝑒𝑝, 𝑏𝑜𝑏 . We use similar output requirements in most tasks and argue that a strict adherence to task details and output format instructions is a necessary capability for using LLMs as part of a tool chain in KGE tasks or workflows. The task computes recall, precision, and F1 measure for the list of IRIs mentioned in the model response with regard to the list of IRIs representing the nodes of the shortest path.",
+      "text": "nodes :Anne and :Bob . By finding the connection 𝑎𝑛𝑛𝑒 𝑜𝑟𝑔 : 𝑚𝑒𝑚𝑏𝑒𝑟 ←--- - - - -𝑏𝑛𝑜𝑑𝑒 1 𝑜𝑟𝑔 : 𝑜𝑟𝑔𝑎𝑛𝑖𝑧𝑎𝑡𝑖𝑜𝑛 - - - - - - - - - - → 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ𝐷𝑒𝑝 𝑜𝑟𝑔 : 𝑢𝑛𝑖𝑡𝑂𝑓 - - - - - - - → 𝑤𝑜𝑛𝑑𝑒𝑟𝑂𝑟𝑔 𝑜𝑟𝑔 : 𝑢𝑛𝑖𝑡𝑂𝑓 ← - - - - - - -𝑚𝑎𝑟𝑘𝑒𝑡𝑖𝑛𝑔𝐷𝑒𝑝 𝑜𝑟𝑔 : 𝑜𝑟𝑔𝑎𝑛𝑖𝑧𝑎𝑡𝑖𝑜𝑛 ←--- - - - - - - -𝑏𝑛𝑜𝑑𝑒 2 𝑜𝑟𝑔 : 𝑚𝑒𝑚𝑏𝑒𝑟 - - - - - - - → 𝑏𝑜𝑏 between them, the LLM demonstrates basic graph handling capabilities. Note, that we ask the response output to be a list of resource/node IRIs without any other text, to support the automated evaluation of the answer. This also excludes both blank nodes and leads to the list 𝑎𝑛𝑛𝑒, 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ𝐷𝑒𝑝, 𝑤𝑜𝑛𝑑𝑒𝑟𝑂𝑟𝑔, 𝑚𝑎𝑟𝑘𝑒𝑡𝑖𝑛𝑔𝐷𝑒𝑝, 𝑏𝑜𝑏 . We use similar output requirements in most tasks and argue that a strict adherence to task details and output format instructions is a necessary capability for using LLMs as part of a tool chain in KGE tasks or workflows. The task computes recall, precision, and F1 measure for the list of IRIs mentioned in the model response with regard to the list of IRIs representing the nodes of the shortest path."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 89.291,
+            "t": 280.20940184843744,
+            "r": 328.7656111999999,
+            "b": 269.6272729572397,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "3.2. Task T2: Find Errors in Small Turtle File",
+      "text": "3.2. Task T2: Find Errors in Small Turtle File",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.254,
+            "t": 244.36965944843746,
+            "r": 496.0248252100001,
+            "b": 204.3552850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "Prompt 2: Please check the following rdf turtle file for errors and answer with no text but just the corrected turtle. Try to stick to the original formatting. [... followed by the turtle document to check]",
+      "text": "Prompt 2: Please check the following rdf turtle file for errors and answer with no text but just the corrected turtle. Try to stick to the original formatting. [... followed by the turtle document to check]"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 88.964,
+            "t": 187.79965944843752,
+            "r": 505.9870272464,
+            "b": 161.33428504843755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 89.291,
+            "t": 756.8656594484374,
+            "r": 507.6693850119996,
+            "b": 649.1052850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            192,
+            914
+          ]
+        }
+      ],
+      "orig": "The TurtleErrorsStatic task involves identifying and correcting syntax errors in a small Turtle file, which is based on the same organizational graph (listing 1) with minor modifications. The turtle file has a period missing at the end of line 9 and the first semicolon in line 16 was removed. Correcting the errors demonstrates the LLM's knowledge of Turtle grammar while also showing its ability to transform it into a proper form without altering existing facts and adhering strictly to the task requirements. One of the scores calculated during evaluation is the F1 measure on parsable, normalized triples, comparing the LLM's answer with the perfect answer. In order to do so, the response is directly consumed by rdflib in combination with an iterative parsing failure heuristic. The heuristic removes invalid lines that are reported as source of a syntax error until the document is fully parsable or empty.",
+      "text": "The TurtleErrorsStatic task involves identifying and correcting syntax errors in a small Turtle file, which is based on the same organizational graph (listing 1) with minor modifications. The turtle file has a period missing at the end of line 9 and the first semicolon in line 16 was removed. Correcting the errors demonstrates the LLM's knowledge of Turtle grammar while also showing its ability to transform it into a proper form without altering existing facts and adhering strictly to the task requirements. One of the scores calculated during evaluation is the F1 measure on parsable, normalized triples, comparing the LLM's answer with the perfect answer. In order to do so, the response is directly consumed by rdflib in combination with an iterative parsing failure heuristic. The heuristic removes invalid lines that are reported as source of a syntax error until the document is fully parsable or empty."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 295.322,
+            "t": 129.43630744843745,
+            "r": 299.954609,
+            "b": 117.6405890484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 89.291,
+            "t": 630.8424018484376,
+            "r": 282.4033455999999,
+            "b": 620.2602729572399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "3.3. Task T3: Create Sample Graphs",
+      "text": "3.3. Task T3: Create Sample Graphs",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 88.768,
+            "t": 612.4946594484375,
+            "r": 506.26524037599995,
+            "b": 545.3812850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            434
+          ]
+        }
+      ],
+      "orig": "We created the task TurtleSampleGeneration to see if LLMs can understand and honor the requirements that we postulate for creating a simple knowledge graph, i.e. the number of resources in the graph as well as its structure. The task makes use of the popular FOAF vocabulary because we assume that members of it are very prevalent in the training data, since they are frequently used in example snippets in online forums and datasets.",
+      "text": "We created the task TurtleSampleGeneration to see if LLMs can understand and honor the requirements that we postulate for creating a simple knowledge graph, i.e. the number of resources in the graph as well as its structure. The task makes use of the popular FOAF vocabulary because we assume that members of it are very prevalent in the training data, since they are frequently used in example snippets in online forums and datasets."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.254,
+            "t": 528.1996594484375,
+            "r": 496.22905690399983,
+            "b": 488.1842850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "Prompt 3: Create a knowledge graph in turtle format that consists of 𝑛 different objects of type foaf:person . Each should have at least 2 and at most 𝑛 -1 connections to other persons via foaf:knows . Give no extra text.",
+      "text": "Prompt 3: Create a knowledge graph in turtle format that consists of 𝑛 different objects of type foaf:person . Each should have at least 2 and at most 𝑛 -1 connections to other persons via foaf:knows . Give no extra text."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 89.291,
+            "t": 472.0956594484375,
+            "r": 507.66765657599996,
+            "b": 323.6872850484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1036
+          ]
+        }
+      ],
+      "orig": "In prompt 3 we instruct the LLM to generate a knowledge graph with a certain number of persons who each have between two and 𝑛 -1 friends (both inclusive). The number of persons 𝑛 can be varied to get different answer sizes. The task is motivated by the idea of using LLMs to generate test, training, or example data of various sizes. Furthermore, it allows to study the capacity of the models to generate content of increasing sizes while maintaining the integrity of the graph and serialization. This task checks first if the generated answer is parsable. If so, the structure of the graph is evaluated. We count the number of resources in the graph and if they are all correctly declared as rdf:type foaf:Person . The persons_relative_error scores measures the difference between the actual number of person objects generated and the number asked for. This value is normalized to be = 0 if they match, > 0 if there are more persons than asked for and < 0 if there are less persons, with the special case of -1 meaning an empty graph.",
+      "text": "In prompt 3 we instruct the LLM to generate a knowledge graph with a certain number of persons who each have between two and 𝑛 -1 friends (both inclusive). The number of persons 𝑛 can be varied to get different answer sizes. The task is motivated by the idea of using LLMs to generate test, training, or example data of various sizes. Furthermore, it allows to study the capacity of the models to generate content of increasing sizes while maintaining the integrity of the graph and serialization. This task checks first if the generated answer is parsable. If so, the structure of the graph is evaluated. We count the number of resources in the graph and if they are all correctly declared as rdf:type foaf:Person . The persons_relative_error scores measures the difference between the actual number of person objects generated and the number asked for. This value is normalized to be = 0 if they match, > 0 if there are more persons than asked for and < 0 if there are less persons, with the special case of -1 meaning an empty graph."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 89.291,
+            "t": 305.4244018484376,
+            "r": 319.1177647999999,
+            "b": 294.84227295723986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "3.4. Task T4: Count Links in Person Graph",
+      "text": "3.4. Task T4: Count Links in Person Graph",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.254,
+            "t": 270.5276594484376,
+            "r": 496.02473064200024,
+            "b": 216.96328504843746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "Prompt 4: Please name the person which is known by the most persons according to the following RDF graph in turtle syntax. Give just the IRI of this person with most incoming links as answer, without abbreviation or explanation. [... followed by the graph serialization]",
+      "text": "Prompt 4: Please name the person which is known by the most persons according to the following RDF graph in turtle syntax. Give just the IRI of this person with most incoming links as answer, without abbreviation or explanation. [... followed by the graph serialization]"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 88.964,
+            "t": 201.3486594484375,
+            "r": 505.9867721640001,
+            "b": 161.33428504843755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 89.291,
+            "t": 756.8656594484374,
+            "r": 505.986863954,
+            "b": 676.2032850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            268,
+            793
+          ]
+        }
+      ],
+      "orig": "The task TurtleFriendCount requires finding the resource with the most incoming links in a simple generated KG. The structure of the KG is similar to the previous tasks, consisting of a variable number of foaf:Person resources connected by foaf:knows properties. Each person is known by two other persons, but one designated foaf:Person is known by two additional persons (one for small sizes), resulting in three to four incoming links instead of two. This task tests basic RDF and turtle knowledge as well as graph comprehension and processing skills by aggregating link counts for various KG sizes. The number of foaf:Person resources in the prompt has a linear correlation with the prompt length. The task computes recall, precision, and f1 measure with respect to the expected person IRI.",
+      "text": "The task TurtleFriendCount requires finding the resource with the most incoming links in a simple generated KG. The structure of the KG is similar to the previous tasks, consisting of a variable number of foaf:Person resources connected by foaf:knows properties. Each person is known by two other persons, but one designated foaf:Person is known by two additional persons (one for small sizes), resulting in three to four incoming links instead of two. This task tests basic RDF and turtle knowledge as well as graph comprehension and processing skills by aggregating link counts for various KG sizes. The number of foaf:Person resources in the prompt has a linear correlation with the prompt length. The task computes recall, precision, and f1 measure with respect to the expected person IRI."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 295.322,
+            "t": 129.43630744843745,
+            "r": 299.954609,
+            "b": 117.6405890484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 89.291,
+            "t": 657.9614018484375,
+            "r": 383.1856816,
+            "b": 647.3792729572398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "3.5. Task T5: Create Knowledge Graph from Factsheet",
+      "text": "3.5. Task T5: Create Knowledge Graph from Factsheet",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.254,
+            "t": 623.1726594484375,
+            "r": 497.7045138599996,
+            "b": 542.5102850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            480
+          ]
+        }
+      ],
+      "orig": "Prompt 5: As a Linked Data expert and knowledge engineer please convert the 3d printer specification given in the bottom into an RDF turtle formatted Knowledge Graph. The main subject in this Knowledge Graph should be the Printer itself using the https://data.semper-ki.org/resources/$encoded_label$ whereas $encoded_label$ label refers to the name of the printer in which whitespaces have been replaced with underscores. Step by step attach the following statements to that node.",
+      "text": "Prompt 5: As a Linked Data expert and knowledge engineer please convert the 3d printer specification given in the bottom into an RDF turtle formatted Knowledge Graph. The main subject in this Knowledge Graph should be the Printer itself using the https://data.semper-ki.org/resources/$encoded_label$ whereas $encoded_label$ label refers to the name of the printer in which whitespaces have been replaced with underscores. Step by step attach the following statements to that node."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.003,
+            "t": 541.8776594484375,
+            "r": 320.1195479000001,
+            "b": 528.9612850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "1) Attach https://purl.org/tema/051993 as rdf:type",
+      "text": "1) Attach https://purl.org/tema/051993 as rdf:type"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.254,
+            "t": 528.3276594484374,
+            "r": 496.23374899800035,
+            "b": 488.31328504843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "2) Attach the manufacturer via an object property using the schema.org vocabulary. For the subject identifier of the manufacturer use the same approach as for the printer subject and assign it the rdfs:label without a language tag.",
+      "text": "2) Attach the manufacturer via an object property using the schema.org vocabulary. For the subject identifier of the manufacturer use the same approach as for the printer subject and assign it the rdfs:label without a language tag."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.254,
+            "t": 487.68065944843755,
+            "r": 497.87004854340006,
+            "b": 420.56728504843755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            351
+          ]
+        }
+      ],
+      "orig": "3) Attach all printable material as well all support materials the printer can use via object properties. For the property identifiers use https://data.semper-ki.org/properties/printMaterial respectively https://data.semperki.org/properties/supportMaterial and for material identifiers use the https://data.semperki.org/resources/materials/ namespace.",
+      "text": "3) Attach all printable material as well all support materials the printer can use via object properties. For the property identifiers use https://data.semper-ki.org/properties/printMaterial respectively https://data.semperki.org/properties/supportMaterial and for material identifiers use the https://data.semperki.org/resources/materials/ namespace."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 98.927,
+            "t": 419.9346594484375,
+            "r": 496.3490039120004,
+            "b": 339.27228504843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            453
+          ]
+        }
+      ],
+      "orig": "4) Attach the dimensions of the printer as 3 separate values using the schema.org vocabulary for the property identifiers of the dimensions, but for the values use qudt:QuantityValue objects from the QUDT ontologies family to have the numerical value ( via qudt:numericValue property and typed as xsd:double) and the appropriate QUDT unit of measurement identifier (via qudt:hasUnit property) separately. Do not convert the dimensions into another unit.",
+      "text": "4) Attach the dimensions of the printer as 3 separate values using the schema.org vocabulary for the property identifiers of the dimensions, but for the values use qudt:QuantityValue objects from the QUDT ontologies family to have the numerical value ( via qudt:numericValue property and typed as xsd:double) and the appropriate QUDT unit of measurement identifier (via qudt:hasUnit property) separately. Do not convert the dimensions into another unit."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.254,
+            "t": 338.63965944843756,
+            "r": 496.3088036060001,
+            "b": 257.9772850484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            533
+          ]
+        }
+      ],
+      "orig": "Follow best practices of Linked Data and common standard vocabularies as basis for the modeling unless specified differently in the requirements above. Do not extract any other properties or values from the specification than the ones I mentioned but validate your output step by step, to check whether all used prefixes are included and the given requirements as well as the grammar of the RDF turtle serialization were respected. Only return the turtle format, no additional text. [... followed by the fact sheet plaintext excerpt]",
+      "text": "Follow best practices of Linked Data and common standard vocabularies as basis for the modeling unless specified differently in the requirements above. Do not extract any other properties or values from the specification than the ones I mentioned but validate your output step by step, to check whether all used prefixes are included and the given requirements as well as the grammar of the RDF turtle serialization were respected. Only return the turtle format, no additional text. [... followed by the fact sheet plaintext excerpt]"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 88.964,
+            "t": 241.99565944843755,
+            "r": 506.25087473900044,
+            "b": 161.33428504843755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            571
+          ]
+        },
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 88.888,
+            "t": 526.5306594484375,
+            "r": 507.1813118779999,
+            "b": 391.6722850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            572,
+            1422
+          ]
+        }
+      ],
+      "orig": "The task FactExtractStatic assesses the LLM's fact extraction and advanced RDF modeling abilities, by utilizing a plaintext excerpt from one of our previous experiments [4]. The excerpt (that is not shown for reasons of brevity) describes various aspects of the specifications of a 3D printer in a key-value format, including the formatting irregularities commonly found in PDF extracts. We ask the model to generate a Turtle file that captures a subset of this information to check for how well RDF facts can be extracted from factsheet plaintexts and transformed into a knowledge graph. The prompt is carefully designed with regard to the transformation aspect in order to be very specific and unambiguous on how the data should be represented. The prompt defines concrete namespace schemes and construction rules for IRI identifiers for properties and subjects, but also challenges knowledge about ontology members by requesting the use of concrete ontologies. Subsequently, we can evaluate the quality of a single response using the F1 measure, counting the set of parsable triples that (mis)match or are missing compared to a manually curated reference document. Since we consider this as a quite challenging task, we make use of multiple prompt engineering optimization techniques, namely, asking for an expert answer in a domain context, providing step by step instructions, and asking for critical self-evaluation.",
+      "text": "The task FactExtractStatic assesses the LLM's fact extraction and advanced RDF modeling abilities, by utilizing a plaintext excerpt from one of our previous experiments [4]. The excerpt (that is not shown for reasons of brevity) describes various aspects of the specifications of a 3D printer in a key-value format, including the formatting irregularities commonly found in PDF extracts. We ask the model to generate a Turtle file that captures a subset of this information to check for how well RDF facts can be extracted from factsheet plaintexts and transformed into a knowledge graph. The prompt is carefully designed with regard to the transformation aspect in order to be very specific and unambiguous on how the data should be represented. The prompt defines concrete namespace schemes and construction rules for IRI identifiers for properties and subjects, but also challenges knowledge about ontology members by requesting the use of concrete ontologies. Subsequently, we can evaluate the quality of a single response using the F1 measure, counting the set of parsable triples that (mis)match or are missing compared to a manually curated reference document. Since we consider this as a quite challenging task, we make use of multiple prompt engineering optimization techniques, namely, asking for an expert answer in a domain context, providing step by step instructions, and asking for critical self-evaluation."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 295.322,
+            "t": 129.43630744843745,
+            "r": 299.954609,
+            "b": 117.6405890484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 89.291,
+            "t": 562.1902932484376,
+            "r": 342.25921439999985,
+            "b": 553.3719115156814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Figure 1: Evaluation of Static Tasks: Distribution of F1 scores",
+      "text": "Figure 1: Evaluation of Static Tasks: Distribution of F1 scores"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 109.653,
+            "t": 587.5883074484375,
+            "r": 206.14078099999992,
+            "b": 575.7925890484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "(a) T1 - Connected Path",
+      "text": "(a) T1 - Connected Path"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 256.153,
+            "t": 587.5883074484375,
+            "r": 341.31330479999997,
+            "b": 575.7925890484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "(b) T2 - Turtle Fixing",
+      "text": "(b) T2 - Turtle Fixing"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 390.525,
+            "t": 587.5883074484375,
+            "r": 483.6354595999999,
+            "b": 575.7925890484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "(c) T5 - Fact Extraction",
+      "text": "(c) T5 - Fact Extraction"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 89.291,
+            "t": 369.6348528484375,
+            "r": 376.34411579999994,
+            "b": 356.93633358494543,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "4. Benchmark Study Results and Discussion",
+      "text": "4. Benchmark Study Results and Discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 88.964,
+            "t": 345.96265944843753,
+            "r": 507.82602423500003,
+            "b": 224.65228504843753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            748
+          ]
+        }
+      ],
+      "orig": "Using the LLM-KG-Bench framework, we configured the 5 aforementioned benchmark tasks (cf. section 3) to be evaluated for the 3 highest ranking LLMs at the LLMSYS Chatbot Arena Leaderboard 1 i.e. GPT-4 (gpt-4-0613), GPT-3.5 (gpt-3.5-turbo-0613), and Claude-1.3 (claude-1.3100k), additionally we have included Claude-2.0. These 4 systems were evaluated using the commercial APIs of OpenAI and Anthropic. We also wanted to include freely available offline LLMs. Based on the availability in GPT4All, we have selected GPT4All Vicuna-13B (version ggml-vicuna-13b-1.1-q4_2.bin ) as a non-commercially usable representant and GPT4All Falcon ( ggml-model-gpt4all-falcon-q4_0.bin ) as the top freely available commercially usable model (Apache 2.0 license).",
+      "text": "Using the LLM-KG-Bench framework, we configured the 5 aforementioned benchmark tasks (cf. section 3) to be evaluated for the 3 highest ranking LLMs at the LLMSYS Chatbot Arena Leaderboard 1 i.e. GPT-4 (gpt-4-0613), GPT-3.5 (gpt-3.5-turbo-0613), and Claude-1.3 (claude-1.3100k), additionally we have included Claude-2.0. These 4 systems were evaluated using the commercial APIs of OpenAI and Anthropic. We also wanted to include freely available offline LLMs. Based on the availability in GPT4All, we have selected GPT4All Vicuna-13B (version ggml-vicuna-13b-1.1-q4_2.bin ) as a non-commercially usable representant and GPT4All Falcon ( ggml-model-gpt4all-falcon-q4_0.bin ) as the top freely available commercially usable model (Apache 2.0 license)."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 89.291,
+            "t": 224.01965944843755,
+            "r": 506.2651220140002,
+            "b": 170.45528504843753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            369
+          ]
+        },
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 89.291,
+            "t": 569.0346594484374,
+            "r": 505.9838636074,
+            "b": 542.5692850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            370,
+            538
+          ]
+        }
+      ],
+      "orig": "T1: As can be seen in Figure 1a, Claude-2.0 answers perfectly. GPT-4 added occasionally properties to the list, although only nodes were requested. Claude-1.3 and GPT-3.5 seem to omit sometimes a resource from the requested list. Falcon's lists often contain only the first and last resource which was already specified in the prompt, but a few attempts pose some basic understanding of the task, but severely violate the output constraints. Vicuna's responses are mostly in the form of \"This is the shortest connection from anne to bob\".",
+      "text": "T1: As can be seen in Figure 1a, Claude-2.0 answers perfectly. GPT-4 added occasionally properties to the list, although only nodes were requested. Claude-1.3 and GPT-3.5 seem to omit sometimes a resource from the requested list. Falcon's lists often contain only the first and last resource which was already specified in the prompt, but a few attempts pose some basic understanding of the task, but severely violate the output constraints. Vicuna's responses are mostly in the form of \"This is the shortest connection from anne to bob\"."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 295.322,
+            "t": 129.43630744843745,
+            "r": 299.954609,
+            "b": 117.6405890484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 89.291,
+            "t": 604.6942932484376,
+            "r": 455.01592120000015,
+            "b": 595.8759115156814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "Figure 2: Evaluation of Scalable Tasks: Mean of task metric with 95% confidence interval",
+      "text": "Figure 2: Evaluation of Scalable Tasks: Mean of task metric with 95% confidence interval"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 128.443,
+            "t": 630.0913074484375,
+            "r": 254.02157299999996,
+            "b": 618.2955890484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "(a) T3 - Person Graph Creation",
+      "text": "(a) T3 - Person Graph Creation"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 356.705,
+            "t": 630.0913074484375,
+            "r": 450.7818318000001,
+            "b": 618.2955890484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "(b) T4 - Friends Counts",
+      "text": "(b) T4 - Friends Counts"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 88.964,
+            "t": 541.9366594484375,
+            "r": 507.6637777,
+            "b": 461.27428504843755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            568
+          ]
+        }
+      ],
+      "orig": "T2: GPT-3.5 often claims that the given turtle file would be correct and returns no turtle. This explains the high rate of zeros as F1 score (see figure 1b) The answers given by Claude-1.3 and GPT-4 score better. Claude 2.0 fails in contrast to its predecessor in returning the plain turtle, leading to unparseable documents although the errors seem fixed. Vicuna replies with the empty string in all cases. While Falcon reports there would be no errors in a few cases, it often does not follow the task and replies with Turtle snippets or explanations of the content.",
+      "text": "T2: GPT-3.5 often claims that the given turtle file would be correct and returns no turtle. This explains the high rate of zeros as F1 score (see figure 1b) The answers given by Claude-1.3 and GPT-4 score better. Claude 2.0 fails in contrast to its predecessor in returning the plain turtle, leading to unparseable documents although the errors seem fixed. Vicuna replies with the empty string in all cases. While Falcon reports there would be no errors in a few cases, it often does not follow the task and replies with Turtle snippets or explanations of the content."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 89.019,
+            "t": 460.6416594484375,
+            "r": 507.18829370199967,
+            "b": 325.78228504843753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            918
+          ]
+        }
+      ],
+      "orig": "T3: Claude-1.3 clearly performed worst from the commercial models (Fig. 2a). Common issues leading to missing persons for smaller sizes were omitting rdf:type statements and missing prefix definitions (making the entire document unparseable). For bigger sizes, Claude 1.3 additionally used ellipses with comments like \"continues with 70+ more persons\" making it impractical for sample generation. Claude 2.0 shows similar ellipses but sovereignly handles types and prefixes, leading to the best results for small and medium sizes, but bad ones for large sizes. GPT-4 has only a slightly better performance compared to GPT-3.5 but in contrast uses ellipses much more frequently for higher sizes (60-80 persons). Falcon and Vicuna scored worse. Vicuna creates very few persons but then uses ellipses. However, it is missing the essential rdf:type statement for size 10. Falcon just creates a list of prefix declarations.",
+      "text": "T3: Claude-1.3 clearly performed worst from the commercial models (Fig. 2a). Common issues leading to missing persons for smaller sizes were omitting rdf:type statements and missing prefix definitions (making the entire document unparseable). For bigger sizes, Claude 1.3 additionally used ellipses with comments like \"continues with 70+ more persons\" making it impractical for sample generation. Claude 2.0 shows similar ellipses but sovereignly handles types and prefixes, leading to the best results for small and medium sizes, but bad ones for large sizes. GPT-4 has only a slightly better performance compared to GPT-3.5 but in contrast uses ellipses much more frequently for higher sizes (60-80 persons). Falcon and Vicuna scored worse. Vicuna creates very few persons but then uses ellipses. However, it is missing the essential rdf:type statement for size 10. Falcon just creates a list of prefix declarations."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 88.931,
+            "t": 325.14965944843755,
+            "r": 506.26887475399946,
+            "b": 163.19128504843752,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1120
+          ]
+        },
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 88.888,
+            "t": 756.8656594484374,
+            "r": 505.9869330367,
+            "b": 716.8512850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1121,
+            1396
+          ]
+        }
+      ],
+      "orig": "T4: All commercial models seem to be challenged by the size of 6 persons as indicated in Figure 2b, where the person with the most friends only has one more friend compared to all others. GPT-3.5 consistently proposes the person with the most outgoing friends as solution instead. For the other models this also happens very frequently. Surprisingly, this potential misunderstanding seems to occur significantly less frequent for all other sizes where the the person with the most friends has 4 incoming relations. In fact, GPT-4 is performing in an outstanding way, only doing one mistake for the largest size. Claude-2.0 performs similar to GPT-3.5, both confuse one of the persons with more outgoing links as correct solution, although interestingly GPT-3.5 also answers often with a full sentence (instead the IRI only) when it has such a confusion. Claude 1.3 also frequently confuses ingoing with outgoing links, and similarly to GPT 3.5 this correlates with violating the output constraint, but even stronger. Falcon and Vicuna seem to understand the task but have incorrect reasoning. Falcon consistently answers with a wrong non-reasonable person and textual explanations. Vicuna surprisingly identifies the correct person for the smallest size, but fails for bigger sizes. Moreover the context windows are exceeded for sizes greater than 26 persons for Vicuna and 36 persons for Falcon.",
+      "text": "T4: All commercial models seem to be challenged by the size of 6 persons as indicated in Figure 2b, where the person with the most friends only has one more friend compared to all others. GPT-3.5 consistently proposes the person with the most outgoing friends as solution instead. For the other models this also happens very frequently. Surprisingly, this potential misunderstanding seems to occur significantly less frequent for all other sizes where the the person with the most friends has 4 incoming relations. In fact, GPT-4 is performing in an outstanding way, only doing one mistake for the largest size. Claude-2.0 performs similar to GPT-3.5, both confuse one of the persons with more outgoing links as correct solution, although interestingly GPT-3.5 also answers often with a full sentence (instead the IRI only) when it has such a confusion. Claude 1.3 also frequently confuses ingoing with outgoing links, and similarly to GPT 3.5 this correlates with violating the output constraint, but even stronger. Falcon and Vicuna seem to understand the task but have incorrect reasoning. Falcon consistently answers with a wrong non-reasonable person and textual explanations. Vicuna surprisingly identifies the correct person for the smallest size, but fails for bigger sizes. Moreover the context windows are exceeded for sizes greater than 26 persons for Vicuna and 36 persons for Falcon."
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 295.322,
+            "t": 129.43630744843745,
+            "r": 299.954609,
+            "b": 117.6405890484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 88.888,
+            "t": 716.2176594484375,
+            "r": 506.2688747539998,
+            "b": 608.4572850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            708
+          ]
+        }
+      ],
+      "orig": "T5: Figure 1c shows that both GPT models outperform Claude 1.3 in this task. While GPT4 has a better mean, due to one very good response (F1 score of 0.94), it however replied frequently with unparseable content, which in turn did not happen for GPT3.5, leading to a slightly better median for that. Claude 2.0 shows the highest values for F1 mean as well as the third quartile and it returned less unparseable documents compared to Claude 1.3 and GPT4. Vicuna did not return output that has any similarity with Turtle. Falcon creates turtle preambles with varying prefix definitions but had problems to continue the document and seemed very often stuck in repetitive namespace gibberish and prefix patterns.",
+      "text": "T5: Figure 1c shows that both GPT models outperform Claude 1.3 in this task. While GPT4 has a better mean, due to one very good response (F1 score of 0.94), it however replied frequently with unparseable content, which in turn did not happen for GPT3.5, leading to a slightly better median for that. Claude 2.0 shows the highest values for F1 mean as well as the third quartile and it returned less unparseable documents compared to Claude 1.3 and GPT4. Vicuna did not return output that has any similarity with Turtle. Falcon creates turtle preambles with varying prefix definitions but had problems to continue the document and seemed very often stuck in repetitive namespace gibberish and prefix patterns."
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 89.291,
+            "t": 586.4198528484375,
+            "r": 295.8188952,
+            "b": 573.7213335849455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "5. Conclusion and Future Work",
+      "text": "5. Conclusion and Future Work",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 88.888,
+            "t": 562.7476594484375,
+            "r": 507.6616504601,
+            "b": 333.04428504843753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1548
+          ]
+        }
+      ],
+      "orig": "The evaluation shows already promising results. Especially the newer versions of both GPT and Claude speak turtle already at a level that it might be useful for assistant tasks. A general problem is though, that the models, although explicitly requested, do not consistently respond with plain Turtle but include short explanations or markdown ticks. While our parsing failure heuristic can mitigate some of these cases, this issue poses a challenge when interfacing directly with RDF tools. It is noteworthy, that the newer versions of both GPT and Claude tend to violate the output constraints more often. While our failure tolerant parser heuristic allows to get more insights into the quality of results, it can also reward solutions to some degree that might not be useful without special post processing in practical scenarios. Therefore, we see as a next step to define tests that are stricter, however provide feedback to the models (e.g. parsing errors) to perform and evaluate few-shot approaches. Moreover, it could be of value to assess the performance using ntriples, which has less syntactical features but allows easier retrieval of partially inconsistent responses. It also remains to be seen whether finetuning LLMs on RDF syntax using large datasets like Wikidata and DBpedia would be beneficial. Finally besides extending the framework with more tests, we see integrating LangChain to study the combination of LLMs with KGE-assistant plugins (e.g. prefix or ontology terminology lookup service) as an interesting path to explore.",
+      "text": "The evaluation shows already promising results. Especially the newer versions of both GPT and Claude speak turtle already at a level that it might be useful for assistant tasks. A general problem is though, that the models, although explicitly requested, do not consistently respond with plain Turtle but include short explanations or markdown ticks. While our parsing failure heuristic can mitigate some of these cases, this issue poses a challenge when interfacing directly with RDF tools. It is noteworthy, that the newer versions of both GPT and Claude tend to violate the output constraints more often. While our failure tolerant parser heuristic allows to get more insights into the quality of results, it can also reward solutions to some degree that might not be useful without special post processing in practical scenarios. Therefore, we see as a next step to define tests that are stricter, however provide feedback to the models (e.g. parsing errors) to perform and evaluate few-shot approaches. Moreover, it could be of value to assess the performance using ntriples, which has less syntactical features but allows easier retrieval of partially inconsistent responses. It also remains to be seen whether finetuning LLMs on RDF syntax using large datasets like Wikidata and DBpedia would be beneficial. Finally besides extending the framework with more tests, we see integrating LangChain to study the combination of LLMs with KGE-assistant plugins (e.g. prefix or ontology terminology lookup service) as an interesting path to explore."
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 89.291,
+            "t": 311.0068528484376,
+            "r": 210.6168134,
+            "b": 298.30833358494544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Acknowledgments",
+      "text": "Acknowledgments",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 88.964,
+            "t": 287.3346594484376,
+            "r": 506.6430568839998,
+            "b": 233.77028504843747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            337
+          ]
+        }
+      ],
+      "orig": "This work was partially supported by grants from the German Federal Ministry of Education and Research (BMBF) to the projects StahlDigital (13XP5116B) and KupferDigital (F13XP5119F) as well as from the German Federal Ministry for Economic Affairs and Climate Action (BMWK) to the CoyPu project (01MK21007A) and KISS project (01MK22001A).",
+      "text": "This work was partially supported by grants from the German Federal Ministry of Education and Research (BMBF) to the projects StahlDigital (13XP5116B) and KupferDigital (F13XP5119F) as well as from the German Federal Ministry for Economic Affairs and Climate Action (BMWK) to the CoyPu project (01MK21007A) and KISS project (01MK22001A)."
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 89.291,
+            "t": 211.73385284843744,
+            "r": 160.8641918,
+            "b": 199.03533358494542,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 94.364,
+            "t": 188.06165944843747,
+            "r": 507.1875178644001,
+            "b": 161.59528504843752,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "[1] S. Bubeck, V. Chandrasekaran, R. Eldan, J. Gehrke, E. Horvitz, E. Kamar, P. Lee, Y. T. Lee, Y. Li, S. Lundberg, H. Nori, H. Palangi, M. T. Ribeiro, Y. Zhang, Sparks of artificial general",
+      "text": "S. Bubeck, V. Chandrasekaran, R. Eldan, J. Gehrke, E. Horvitz, E. Kamar, P. Lee, Y. T. Lee, Y. Li, S. Lundberg, H. Nori, H. Palangi, M. T. Ribeiro, Y. Zhang, Sparks of artificial general",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 295.322,
+            "t": 129.43630744843745,
+            "r": 299.954609,
+            "b": 117.6405890484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 112.659,
+            "t": 756.8656594484374,
+            "r": 432.543002,
+            "b": 743.9492850484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "intelligence: Early experiments with gpt-4 (2023). arXiv:2303.12712 .",
+      "text": "intelligence: Early experiments with gpt-4 (2023). arXiv:2303.12712 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 94.36400000000003,
+            "t": 743.3166594484375,
+            "r": 510.138776,
+            "b": 689.7522850484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            277
+          ]
+        }
+      ],
+      "orig": "[2] P. Groth, E. Simperl, M. van Erp, D. Vrandečić, Knowledge graphs and their role in the knowledge engineering of the 21st century (dagstuhl seminar 22372) (2023). URL: https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22372. doi: 10. 4230/DAGREP.12.9.60 .",
+      "text": "P. Groth, E. Simperl, M. van Erp, D. Vrandečić, Knowledge graphs and their role in the knowledge engineering of the 21st century (dagstuhl seminar 22372) (2023). URL: https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22372. doi: 10. 4230/DAGREP.12.9.60 .",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 94.36399999999998,
+            "t": 689.1196594484376,
+            "r": 505.98616413600007,
+            "b": 662.6542850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "[3] S. Pan, L. Luo, Y. Wang, C. Chen, J. Wang, X. Wu, Unifying large language models and knowledge graphs: A roadmap (2023). arXiv:2306.08302 .",
+      "text": "S. Pan, L. Luo, Y. Wang, C. Chen, J. Wang, X. Wu, Unifying large language models and knowledge graphs: A roadmap (2023). arXiv:2306.08302 .",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 94.36399999999998,
+            "t": 662.0216594484375,
+            "r": 507.6662200815001,
+            "b": 608.4572850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            292
+          ]
+        }
+      ],
+      "orig": "[4] L.-P. Meyer, C. Stadler, J. Frey, N. Radtke, K. Junghanns, R. Meissner, G. Dziwis, K. Bulert, M. Martin, Llm-assisted knowledge graph engineering: Experiments with chatgpt, 2023. arXiv:2307.06917 , to appear in conference proceedings of AI-Tomorrow-23, 29.+30. 6.2023 in Leipzig, Germany.",
+      "text": "L.-P. Meyer, C. Stadler, J. Frey, N. Radtke, K. Junghanns, R. Meissner, G. Dziwis, K. Bulert, M. Martin, Llm-assisted knowledge graph engineering: Experiments with chatgpt, 2023. arXiv:2307.06917 , to appear in conference proceedings of AI-Tomorrow-23, 29.+30. 6.2023 in Leipzig, Germany.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 94.364,
+            "t": 607.8246594484375,
+            "r": 507.83329294800023,
+            "b": 554.2602850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            297
+          ]
+        }
+      ],
+      "orig": "[5] L.-P. Meyer, J. Frey, K. Junghanns, F. Brei, K. Bulert, S. Gründer-Fahrer, M. Martin, Developing a scalable benchmark for assessing large language models in knowledge graph engineering, 2023. arXiv:2308.16622 , to appear in poster proceedings of Semantics-23, 20-22. 9. 2023, Leipzig, Germany.",
+      "text": "L.-P. Meyer, J. Frey, K. Junghanns, F. Brei, K. Bulert, S. Gründer-Fahrer, M. Martin, Developing a scalable benchmark for assessing large language models in knowledge graph engineering, 2023. arXiv:2308.16622 , to appear in poster proceedings of Semantics-23, 20-22. 9. 2023, Leipzig, Germany.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 94.364,
+            "t": 553.6276594484375,
+            "r": 505.98482231669976,
+            "b": 527.1622850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "[6] M. Trajanoska, R. Stojanov, D. Trajanov, Enhancing knowledge graph construction using large language models (2023). arXiv:2305.04676 .",
+      "text": "M. Trajanoska, R. Stojanov, D. Trajanov, Enhancing knowledge graph construction using large language models (2023). arXiv:2305.04676 .",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 94.364,
+            "t": 526.5296594484375,
+            "r": 505.9797823124998,
+            "b": 500.06328504843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "[7] S. Carta, A. Giuliani, L. Piano, A. S. Podda, L. Pompianu, S. G. Tiddia, Iterative zero-shot llm prompting for knowledge graph construction (2023). arXiv:2307.01128 .",
+      "text": "S. Carta, A. Giuliani, L. Piano, A. S. Podda, L. Pompianu, S. G. Tiddia, Iterative zero-shot llm prompting for knowledge graph construction (2023). arXiv:2307.01128 .",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 94.36400000000003,
+            "t": 499.43065944843755,
+            "r": 507.18594695399946,
+            "b": 459.41628504843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "[8] Y. Zhu, X. Wang, J. Chen, S. Qiao, Y. Ou, Y. Yao, S. Deng, H. Chen, N. Zhang, Llms for knowledge graph construction and reasoning: Recent capabilities and future opportunities, 2023. arXiv:2305.13168 .",
+      "text": "Y. Zhu, X. Wang, J. Chen, S. Qiao, Y. Ou, Y. Yao, S. Deng, H. Chen, N. Zhang, Llms for knowledge graph construction and reasoning: Recent capabilities and future opportunities, 2023. arXiv:2305.13168 .",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 94.364,
+            "t": 458.78365944843756,
+            "r": 507.66638371800013,
+            "b": 418.7682850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "[9] J. Guo, L. Du, H. Liu, M. Zhou, X. He, S. Han, Gpt4graph: Can large language models understand graph structured data ? an empirical evaluation and benchmarking (2023). arXiv:2305.15066 .",
+      "text": "J. Guo, L. Du, H. Liu, M. Zhou, X. He, S. Han, Gpt4graph: Can large language models understand graph structured data ? an empirical evaluation and benchmarking (2023). arXiv:2305.15066 .",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 89.29100000000003,
+            "t": 418.13565944843754,
+            "r": 507.66638371800013,
+            "b": 378.1212850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "[10] A. Srivastava, et al., Beyond the imitation game: Quantifying and extrapolating the capabilities of language models, Transactions on Machine Learning Research (2023). arXiv:2206.04615 .",
+      "text": "A. Srivastava, et al., Beyond the imitation game: Quantifying and extrapolating the capabilities of language models, Transactions on Machine Learning Research (2023). arXiv:2206.04615 .",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 89.29100000000003,
+            "t": 377.4876594484375,
+            "r": 507.6663837180006,
+            "b": 337.47328504843756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "[11] L. Zheng, W.-L. Chiang, Y. Sheng, S. Zhuang, Z. Wu, Y. Zhuang, Z. Lin, Z. Li, D. Li, E. P. Xing, H. Zhang, J. E. Gonzalez, I. Stoica, Judging llm-as-a-judge with mt-bench and chatbot arena, 2023. arXiv:2306.05685 .",
+      "text": "L. Zheng, W.-L. Chiang, Y. Sheng, S. Zhuang, Z. Wu, Y. Zhuang, Z. Lin, Z. Li, D. Li, E. P. Xing, H. Zhang, J. E. Gonzalez, I. Stoica, Judging llm-as-a-judge with mt-bench and chatbot arena, 2023. arXiv:2306.05685 .",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 89.29100000000003,
+            "t": 336.8406594484376,
+            "r": 510.13888000000014,
+            "b": 283.27628504843756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "[12] L. Gao, J. Tow, S. Biderman, S. others Black, A. DiPofi, C. Foster, L. Golding, J. Hsu, K. McDonell, N. Muennighoff, J. Phang, L. Reynolds, E. Tang, A. Thite, B. Wang, K. Wang, A. Zou, A framework for few-shot language model evaluation, 2021. doi: 10.5281/zenodo. 5371628 .",
+      "text": "L. Gao, J. Tow, S. Biderman, S. others Black, A. DiPofi, C. Foster, L. Golding, J. Hsu, K. McDonell, N. Muennighoff, J. Phang, L. Reynolds, E. Tang, A. Thite, B. Wang, K. Wang, A. Zou, A framework for few-shot language model evaluation, 2021. doi: 10.5281/zenodo. 5371628 .",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 89.291,
+            "t": 250.4378528484375,
+            "r": 224.18831859999997,
+            "b": 237.73933358494548,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "A. Online Resources",
+      "text": "A. Online Resources",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 107.28099999999999,
+            "t": 226.93165944843759,
+            "r": 506.1969065120002,
+            "b": 200.4662850484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "· Source Code Repository: https://github.com/AKSW/LLM-KG-Bench or doi:10.5281/zenodo.8366061",
+      "text": "Source Code Repository: https://github.com/AKSW/LLM-KG-Bench or doi:10.5281/zenodo.8366061",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 107.27999999999999,
+            "t": 198.7576594484375,
+            "r": 506.51443768570005,
+            "b": 172.29128504843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "· Study Data: https://github.com/AKSW/LLM-KG-Bench-Results/tree/main/2023-DL4KG_ Turtle-KG-Eval or doi:10.5281/zenodo.8364535",
+      "text": "Study Data: https://github.com/AKSW/LLM-KG-Bench-Results/tree/main/2023-DL4KG_ Turtle-KG-Eval or doi:10.5281/zenodo.8364535",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 293.005,
+            "t": 129.43630744843745,
+            "r": 302.270218,
+            "b": 117.6405890484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 88.75054168701172,
+            "t": 238.5638427734375,
+            "r": 98.67555236816406,
+            "b": 227.90740966796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 88.66029357910156,
+            "t": 228.366943359375,
+            "r": 99.47520446777344,
+            "b": 217.2918701171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 88.66043090820312,
+            "t": 204.2423095703125,
+            "r": 121.19498443603516,
+            "b": 193.54302978515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 90.64611053466797,
+            "t": 751.3439178466797,
+            "r": 499.1617126464844,
+            "b": 575.0915832519531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/91"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 94.05797576904297,
+            "t": 753.1168670654297,
+            "r": 501.0519714355469,
+            "b": 617.5197296142578,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/99"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/groups/0"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 164.89175415039062,
+            "t": 430.442138671875,
+            "r": 430.4400634765625,
+            "b": 357.16888427734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/0"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 10
+    }
+  }
+}

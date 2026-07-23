@@ -1,0 +1,2584 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1003.0764_outsider_trading",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8783023349523249222,
+    "filename": "1003.0764_outsider_trading.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/groups/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 579.1800000000001,
+            "r": 36.206559297218156,
+            "b": 227.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "arXiv:1003.0764v2  [q-fin.TR]  7 Mar 2010",
+      "text": "arXiv:1003.0764v2  [q-fin.TR]  7 Mar 2010"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 257.498,
+            "t": 738.1642671999999,
+            "r": 358.59356223999987,
+            "b": 727.6704267481267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Outsider Trading",
+      "text": "Outsider Trading",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 128.244,
+            "t": 713.9331053999999,
+            "r": 487.3535791,
+            "b": 703.6518898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Dorje C. Brody 1 , Julian Brody 2 , Bernhard K. Meister 3 , and Matthew F. Parry 4",
+      "text": "Dorje C. Brody 1 , Julian Brody 2 , Bernhard K. Meister 3 , and Matthew F. Parry 4"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 144.438,
+            "t": 691.5277007999999,
+            "r": 471.65656512000015,
+            "b": 681.9240894340057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "1 Department of Mathematics, Imperial College London, London SW7 2BZ, UK",
+      "text": "1 Department of Mathematics, Imperial College London, London SW7 2BZ, UK"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.84299999999998,
+            "t": 681.0677008,
+            "r": 504.24987968000056,
+            "b": 671.4640894340058,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "2 Business Service Division, Yahoo Japan Corporation, 9-7-1 Akasaka, Minato-ku, Tokyo, Japan",
+      "text": "2 Business Service Division, Yahoo Japan Corporation, 9-7-1 Akasaka, Minato-ku, Tokyo, Japan"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 147.97699999999998,
+            "t": 670.6067008,
+            "r": 468.1218688000005,
+            "b": 661.0030894340058,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "3 Department of Physics, Renmin University of China, Beijing, China 100872",
+      "text": "3 Department of Physics, Renmin University of China, Beijing, China 100872"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 134.51399999999998,
+            "t": 660.1457008,
+            "r": 481.58048480000014,
+            "b": 650.5420894340058,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "4 Department of Plant Sciences, University of Cambridge, Cambridge CB2 3EA, UK",
+      "text": "4 Department of Plant Sciences, University of Cambridge, Cambridge CB2 3EA, UK"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.794,
+            "t": 637.9550512000001,
+            "r": 507.3011647999998,
+            "b": 577.8150894340057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            588
+          ]
+        }
+      ],
+      "orig": "In this paper we examine inefficiencies and information disparity in the Japanese stock market. By carefully analysing information publicly available on the internet, an 'outsider' to conventional statistical arbitrage strategies-which are based on market microstructure, company releases, or analyst reports-can nevertheless pursue a profitable trading strategy. A large volume of blog data is used to demonstrate the existence of an inefficiency in the market. An information-based model that replicates the trading strategy is developed to estimate the degree of information disparity.",
+      "text": "In this paper we examine inefficiencies and information disparity in the Japanese stock market. By carefully analysing information publicly available on the internet, an 'outsider' to conventional statistical arbitrage strategies-which are based on market microstructure, company releases, or analyst reports-can nevertheless pursue a profitable trading strategy. A large volume of blog data is used to demonstrate the existence of an inefficiency in the market. An information-based model that replicates the trading strategy is developed to estimate the degree of information disparity."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 554.7293436,
+            "r": 299.0849413000001,
+            "b": 294.9348898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1194
+          ]
+        }
+      ],
+      "orig": "1. Introduction . Since the dawn of history, information has always been generated locally ; it then spreads globally by various means, often being lost and sometimes being rediscovered. Nothing has fundamentally changed with the advent of the internet. Here again, information is generated locally on individual web sites and then, due to the potency of content and presentation, as well as the vagaries of place and timing, disappears into some data repository, or is picked up and amplified, creating avalanche effects. Nowadays information is often posted initially on blogs and twitter accounts, or discussed on bulletin boards, and only subsequently, with some delay, reaches the traditional media as represented by newspapers and television. This dissemination from a small to a wider circle of viewers is also of interest in the financial market context, because as knowledge spreads, it starts influencing investment decisions. We demonstrate in this paper that by capturing these trends at an early stage of information diffusion in a systematic and quantitative manner it is possible to construct a superior trading strategy, thus establishing the existence of market inefficiencies.",
+      "text": "1. Introduction . Since the dawn of history, information has always been generated locally ; it then spreads globally by various means, often being lost and sometimes being rediscovered. Nothing has fundamentally changed with the advent of the internet. Here again, information is generated locally on individual web sites and then, due to the potency of content and presentation, as well as the vagaries of place and timing, disappears into some data repository, or is picked up and amplified, creating avalanche effects. Nowadays information is often posted initially on blogs and twitter accounts, or discussed on bulletin boards, and only subsequently, with some delay, reaches the traditional media as represented by newspapers and television. This dissemination from a small to a wider circle of viewers is also of interest in the financial market context, because as knowledge spreads, it starts influencing investment decisions. We demonstrate in this paper that by capturing these trends at an early stage of information diffusion in a systematic and quantitative manner it is possible to construct a superior trading strategy, thus establishing the existence of market inefficiencies."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 291.0634558000001,
+            "r": 299.08494130000014,
+            "b": 79.11888987723341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1013
+          ]
+        }
+      ],
+      "orig": "A closely related issue to information extraction in financial markets is the valuation of information. Suppose one is in possession of a piece of information, deemed valuable, that one wishes to monetise. How does one price information, when information is viewed as a tradable asset? For instance, consider the information that the price of a given stock will move up the following day with 75% likelihood. Leaving aside issues to do with insider trading for the moment, if one was to 'sell' this piece of information, how should one set a fair price? Evidently, in this example the price depends on a number of market factors, such as market impact. It also depends crucially on whether this information provision is a oneoff event or whether such information will be supplied on a regular basis. All these issues make it virtually impossible to arrive at the notion of a 'fair price' of information. It is nevertheless possible to associate a rate of return with the use of information, as we shall show here.",
+      "text": "A closely related issue to information extraction in financial markets is the valuation of information. Suppose one is in possession of a piece of information, deemed valuable, that one wishes to monetise. How does one price information, when information is viewed as a tradable asset? For instance, consider the information that the price of a given stock will move up the following day with 75% likelihood. Leaving aside issues to do with insider trading for the moment, if one was to 'sell' this piece of information, how should one set a fair price? Evidently, in this example the price depends on a number of market factors, such as market impact. It also depends crucially on whether this information provision is a oneoff event or whether such information will be supplied on a regular basis. All these issues make it virtually impossible to arrive at the notion of a 'fair price' of information. It is nevertheless possible to associate a rate of return with the use of information, as we shall show here."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 63.963,
+            "t": 75.24745580000001,
+            "r": 299.07637496000007,
+            "b": 66.54088987723344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.014,
+            "t": 554.6994558,
+            "r": 562.0979450400001,
+            "b": 414.4858898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            60,
+            721
+          ]
+        }
+      ],
+      "orig": "In the efficient market theory 'all' the publicly available information is incorporated in the price by the marginal investor. This bold statement, which comes in various forms, has often been criticised in the literature (e.g., Grossman and Stiglitz 1980). Often there is an abundance of valuable information that is widely accessible to the whole market but from which not everyone has the resources or analytic capability to extract useful signals. Indeed, not even the so-called 'marginal' investor appears to exploit this additional data. The important point is that the distribution of information is never homogeneous because the ability to extract something useful is inhomogeneous across different market agents.",
+      "text": "In the efficient market theory 'all' the publicly available information is incorporated in the price by the marginal investor. This bold statement, which comes in various forms, has often been criticised in the literature (e.g., Grossman and Stiglitz 1980). Often there is an abundance of valuable information that is widely accessible to the whole market but from which not everyone has the resources or analytic capability to extract useful signals. Indeed, not even the so-called 'marginal' investor appears to exploit this additional data. The important point is that the distribution of information is never homogeneous because the ability to extract something useful is inhomogeneous across different market agents."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.014,
+            "t": 410.6144558,
+            "r": 562.0989412999998,
+            "b": 234.53588987723344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            809
+          ]
+        }
+      ],
+      "orig": "To establish a relationship between information and investment return, we must first identify what is meant by information. In financial markets information consists of two parts: signal and noise. By 'signal' we mean components of information that are dependent on the actual return of, say, an investment; whereas by 'noise' we mean components of information that are statistically independent of the actual return of that investment. Both components have direct impact on price dynamics, but it is ultimately the signal component that determines the realised value of the return. Thus, given this noisy information, market participants try their best to estimate the signal; this estimate (in a suitably defined sense discussed below) in turn determines the random dynamics of the associated price process.",
+      "text": "To establish a relationship between information and investment return, we must first identify what is meant by information. In financial markets information consists of two parts: signal and noise. By 'signal' we mean components of information that are dependent on the actual return of, say, an investment; whereas by 'noise' we mean components of information that are statistically independent of the actual return of that investment. Both components have direct impact on price dynamics, but it is ultimately the signal component that determines the realised value of the return. Thus, given this noisy information, market participants try their best to estimate the signal; this estimate (in a suitably defined sense discussed below) in turn determines the random dynamics of the associated price process."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.014,
+            "t": 230.66445580000004,
+            "r": 562.0989412999999,
+            "b": 66.54088987723344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            798
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.00000000000006,
+            "t": 736.7674558,
+            "r": 299.08394504000006,
+            "b": 692.1948898772333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            799,
+            983
+          ]
+        }
+      ],
+      "orig": "In many cases signal and noise are superimposed in an additive fashion. In other words, there are essentially two unknowns, 'signal' and 'noise', and one known, 'signal plus noise'. The rate at which the signal is revealed to the market then determines the signal-to-noise ratio. The kind of information inhomogeneity discussed above therefore arises primarily from the fact that different agents have different signal-to-noise ratios. With further refinements, however, one finds that signal-to-noise ratio is itself rarely known in financial markets, i.e. it is what one might call a known unknown . Yet, it is the signalto-noise ratio that directly affects the performance of an investment. Hence we can determine the relative ratios of signal-to-noise ratios of different agents from their per- formances. This is one objective of the present paper. We examine the ratio of two signal-to-noise ratios; one for the market as a whole, and one for an internet-search based strategy.",
+      "text": "In many cases signal and noise are superimposed in an additive fashion. In other words, there are essentially two unknowns, 'signal' and 'noise', and one known, 'signal plus noise'. The rate at which the signal is revealed to the market then determines the signal-to-noise ratio. The kind of information inhomogeneity discussed above therefore arises primarily from the fact that different agents have different signal-to-noise ratios. With further refinements, however, one finds that signal-to-noise ratio is itself rarely known in financial markets, i.e. it is what one might call a known unknown . Yet, it is the signalto-noise ratio that directly affects the performance of an investment. Hence we can determine the relative ratios of signal-to-noise ratios of different agents from their per- formances. This is one objective of the present paper. We examine the ratio of two signal-to-noise ratios; one for the market as a whole, and one for an internet-search based strategy."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 557.113,
+            "t": 762.6704558,
+            "r": 562.0943000000001,
+            "b": 753.9638898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.00000000000006,
+            "t": 685.7144557999999,
+            "r": 299.08593756000016,
+            "b": 449.8598898772329,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1094
+          ]
+        }
+      ],
+      "orig": "Our choice for using an internet-search based strategy, as a comparison against the market, should be evident: most information circulates via the internet. Unlike traditional investment firms, large internet search engines, by their very nature and in spite of being 'outsiders' to financial markets, are well positioned to extract signals from large data sets. From the viewpoint of internet search engines, the kind of analysis discussed here also has a profound implication. One of the key difficulties in the business of information provision is in the quantitative assessment of the validity and quality of the search engines or other recommendation tools. However, we now recognise that financial market dynamics provide a suitable testing ground, and one with rapid feedback. For example, a 'celebrity popularity engine' offered by internet companies, useful to advertisers, can be applied to individual companies; the quality of the engine, which otherwise would have been difficult to assess, can now be tested instantly against the future movements of the corresponding stock prices.",
+      "text": "Our choice for using an internet-search based strategy, as a comparison against the market, should be evident: most information circulates via the internet. Unlike traditional investment firms, large internet search engines, by their very nature and in spite of being 'outsiders' to financial markets, are well positioned to extract signals from large data sets. From the viewpoint of internet search engines, the kind of analysis discussed here also has a profound implication. One of the key difficulties in the business of information provision is in the quantitative assessment of the validity and quality of the search engines or other recommendation tools. However, we now recognise that financial market dynamics provide a suitable testing ground, and one with rapid feedback. For example, a 'celebrity popularity engine' offered by internet companies, useful to advertisers, can be applied to individual companies; the quality of the engine, which otherwise would have been difficult to assess, can now be tested instantly against the future movements of the corresponding stock prices."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.00000000000006,
+            "t": 443.37945579999945,
+            "r": 299.08394504,
+            "b": 279.2548898772329,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            747
+          ]
+        }
+      ],
+      "orig": "We have therefore taken a large number of blog articles from the internet, applied natural language processing (NLP) to convert numerous texts into numerical sentiment indices for individual listed companies, and then developed a trading strategy that converts the sentiment indices into portfolio positions. The results show the existence of an astonishing inefficiency in a highly liquid equity market. We also construct a theoretical model, within the information-based asset pricing framework of Brody-Hughston-Macrina (BHM), for the characterisation of the strategy. The model has the advantage that the ratio of the signal-to-noise ratios between the informed outsider and the general market can be estimated from the investment performance.",
+      "text": "We have therefore taken a large number of blog articles from the internet, applied natural language processing (NLP) to convert numerous texts into numerical sentiment indices for individual listed companies, and then developed a trading strategy that converts the sentiment indices into portfolio positions. The results show the existence of an astonishing inefficiency in a highly liquid equity market. We also construct a theoretical model, within the information-based asset pricing framework of Brody-Hughston-Macrina (BHM), for the characterisation of the strategy. The model has the advantage that the ratio of the signal-to-noise ratios between the informed outsider and the general market can be estimated from the investment performance."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.00000000000006,
+            "t": 268.5523435999995,
+            "r": 299.08494130000014,
+            "b": 68.53388987723281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            923
+          ]
+        }
+      ],
+      "orig": "2. Information and asset price . To understand the interplay between information and asset price, we must first step back from the conventional approach in quantitative finance, and begin by identifying the main sources for price movements at a phenomenological level. After a little reflection it should not be difficult to identify two important factors, namely, risk preference and available information. To understand these two factors we list two different scenarios: (i) I would have bought the new Toyota car, had I not lost my job; (ii) I would have bought the new Toyota car, had I not read the news of the recall. In case (i) the assessment of the worthiness of the product has not changed, but the purchase decision has nevertheless been affected by the changes in one's appetite toward risk; whereas in case (ii) the assessment of the worthiness of the product has changed due to the arrival of new information.",
+      "text": "2. Information and asset price . To understand the interplay between information and asset price, we must first step back from the conventional approach in quantitative finance, and begin by identifying the main sources for price movements at a phenomenological level. After a little reflection it should not be difficult to identify two important factors, namely, risk preference and available information. To understand these two factors we list two different scenarios: (i) I would have bought the new Toyota car, had I not lost my job; (ii) I would have bought the new Toyota car, had I not read the news of the recall. In case (i) the assessment of the worthiness of the product has not changed, but the purchase decision has nevertheless been affected by the changes in one's appetite toward risk; whereas in case (ii) the assessment of the worthiness of the product has changed due to the arrival of new information."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.01400000000007,
+            "t": 736.7664557999994,
+            "r": 562.0989413,
+            "b": 632.4188898772326,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            500
+          ]
+        }
+      ],
+      "orig": "It is often argued that the price dynamics is generated by supply and demand; this is indeed so, but it has to be noted that a large part of supply and demand in financial markets is induced by the arrival of information (for example, an announcement of a substantial profit leading to high demand for company shares). We thus take the view that the traditional 'supply and demand' argument is in fact mostly the symptom and not the cause, at least in the case of highly liquid financial instruments.",
+      "text": "It is often argued that the price dynamics is generated by supply and demand; this is indeed so, but it has to be noted that a large part of supply and demand in financial markets is induced by the arrival of information (for example, an announcement of a substantial profit leading to high demand for company shares). We thus take the view that the traditional 'supply and demand' argument is in fact mostly the symptom and not the cause, at least in the case of highly liquid financial instruments."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.01400000000007,
+            "t": 628.1734557999991,
+            "r": 562.09993756,
+            "b": 392.3188898772323,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1111
+          ]
+        }
+      ],
+      "orig": "As regards changes in risk preference, at the individual level this can be relatively volatile, but averaged over the market the volatility will be reduced. On the other hand, the flow of information is significantly more dynamic and volatile. It is common for a dynamical system to depend on fast moving and slowly moving variables; in the case of a financial market, information is the fast moving and risk preference is the slowly moving variable. For our strategy, the changes in overall risk preference have little impact, because we only test market neutral strategies that have no exposure to the overall risk preference of the market. Therefore, our first simplifying assumption is to regard market risk preference as fixed, and focus attention on the structure of information. Phrased in more technical terms, we will assume that the pricing measure is given once and for all, and we shall construct the market filtration from the outset, which will be used to derive the price process. This is in line with the BHM approach introduced in Brody et al . (2007, 2008), which will now be reviewed briefly.",
+      "text": "As regards changes in risk preference, at the individual level this can be relatively volatile, but averaged over the market the volatility will be reduced. On the other hand, the flow of information is significantly more dynamic and volatile. It is common for a dynamical system to depend on fast moving and slowly moving variables; in the case of a financial market, information is the fast moving and risk preference is the slowly moving variable. For our strategy, the changes in overall risk preference have little impact, because we only test market neutral strategies that have no exposure to the overall risk preference of the market. Therefore, our first simplifying assumption is to regard market risk preference as fixed, and focus attention on the structure of information. Phrased in more technical terms, we will assume that the pricing measure is given once and for all, and we shall construct the market filtration from the outset, which will be used to derive the price process. This is in line with the BHM approach introduced in Brody et al . (2007, 2008), which will now be reviewed briefly."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.01399999999995,
+            "t": 388.0744557999989,
+            "r": 562.09876038,
+            "b": 92.44388987723232,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1393
+          ]
+        }
+      ],
+      "orig": "Consider an elementary asset that pays a single dividend X at time T (e.g., a credit-risky discount bond). We assume that there is an established pricing measure Q , under which the random cash flow X has the a priori density p ( x ). In this case, market participants are concerned about the realised value of X . In particular, the risk-adjusted view of the market today about the cash flow is represented by the a priori density p ( x ). By tomorrow, however, the market will obtain additional noisy information, based on which the market will update its view, represented in the form of an a posteriori density for X . This information consists of two components; signal and noise. Although the signal-to-noise ratio is generally unknown, and furthermore it will change in time, let us assume for simplicity that it is known to the market, and that it is given by a constant σ . We also assume for the moment that the market is efficient in the sense that all available information is used in the determination of the price today. Hence there is no residual noise today. Likewise, the noise will vanish at time T when the value of X is revealed for sure. To keep the matter simple, we model the noise term by the simplest Gaussian process that vanishes at time 0 and time T -the Brownian bridge process { β tT } over the time interval [0 , T ]. Therefore, our choice for the information is",
+      "text": "Consider an elementary asset that pays a single dividend X at time T (e.g., a credit-risky discount bond). We assume that there is an established pricing measure Q , under which the random cash flow X has the a priori density p ( x ). In this case, market participants are concerned about the realised value of X . In particular, the risk-adjusted view of the market today about the cash flow is represented by the a priori density p ( x ). By tomorrow, however, the market will obtain additional noisy information, based on which the market will update its view, represented in the form of an a posteriori density for X . This information consists of two components; signal and noise. Although the signal-to-noise ratio is generally unknown, and furthermore it will change in time, let us assume for simplicity that it is known to the market, and that it is given by a constant σ . We also assume for the moment that the market is efficient in the sense that all available information is used in the determination of the price today. Hence there is no residual noise today. Likewise, the noise will vanish at time T when the value of X is revealed for sure. To keep the matter simple, we model the noise term by the simplest Gaussian process that vanishes at time 0 and time T -the Brownian bridge process { β tT } over the time interval [0 , T ]. Therefore, our choice for the information is"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 398.72799999999995,
+            "t": 77.23945579999884,
+            "r": 562.0952102800001,
+            "b": 67.60952673256372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "ξ t = σXt + β tT . (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 557.113,
+            "t": 762.6704558,
+            "r": 562.0943000000001,
+            "b": 753.9638898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.00000000000006,
+            "t": 736.7674558,
+            "r": 299.0766560000002,
+            "b": 715.1815267325647,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "The market filtration {F t } is thus generated by the knowledge { ξ s } 0 ≤ s ≤ t of the information process.",
+      "text": "The market filtration {F t } is thus generated by the knowledge { ξ s } 0 ≤ s ≤ t of the information process."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.00000000000003,
+            "t": 710.5564558,
+            "r": 299.08421770000007,
+            "b": 665.9848898772333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "If we write P tT for the discount function, and assume that it is deterministic, then the price at time t of the asset is determined by S t = P tT E [ X |F t ]. A short calculation then shows that the price process is given by",
+      "text": "If we write P tT for the discount function, and assume that it is deterministic, then the price at time t of the asset is determined by S t = P tT E [ X |F t ]. A short calculation then shows that the price process is given by"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 84.24500000000003,
+            "t": 650.0592839999999,
+            "r": 299.08121028,
+            "b": 617.1145267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "S t = P tT ∫ ∞ 0 xp ( x )e T T -t ( σxξ t -1 2 σ 2 x 2 t ) d x ∫ ∞ 0 p ( x )e T T -t ( σxξ t -1 2 σ 2 x 2 t ) d x . (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.0,
+            "t": 602.7724557999999,
+            "r": 299.0849413000003,
+            "b": 498.42488987723306,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            471
+          ]
+        }
+      ],
+      "orig": "Wesee therefore that in the BHM framework it is possible to derive the price process in a manner that replicates how price processes are generated in the first place via flow of information. In spite of the various simplifying assumptions, the resulting price process (2) is very rich and possesses many desirable features. Perhaps the most notable from a practical point of view is the fact that the pricing and the hedging of elementary contingent claims are made easy.",
+      "text": "Wesee therefore that in the BHM framework it is possible to derive the price process in a manner that replicates how price processes are generated in the first place via flow of information. In spite of the various simplifying assumptions, the resulting price process (2) is very rich and possesses many desirable features. Perhaps the most notable from a practical point of view is the fact that the pricing and the hedging of elementary contingent claims are made easy."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.99999999999997,
+            "t": 488.6543435999996,
+            "r": 299.0839450400001,
+            "b": 324.4998898772333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            780
+          ]
+        }
+      ],
+      "orig": "3. Modelling the informed outsider . Within the BHM framework it is straightforward to model the information disparity seen in the market. Indeed, it has been shown in Brody et al . (2009) that if there is an informed trader in the market who has access not only to the market information (1) but also to an additional information source ξ ′ t = σ ′ Xt + β ′ tT , then the informed trader can exploit the information to generate statistical arbitrage. Here we shall modify the setup considered therein so as to replicate the trading strategy that we have developed by use of data taken from the internet, and calibrate some of the model parameters. In this manner we are able to test the performance of internet-based recommendation or rating engines from investment performances.",
+      "text": "3. Modelling the informed outsider . Within the BHM framework it is straightforward to model the information disparity seen in the market. Indeed, it has been shown in Brody et al . (2009) that if there is an informed trader in the market who has access not only to the market information (1) but also to an additional information source ξ ′ t = σ ′ Xt + β ′ tT , then the informed trader can exploit the information to generate statistical arbitrage. Here we shall modify the setup considered therein so as to replicate the trading strategy that we have developed by use of data taken from the internet, and calibrate some of the model parameters. In this manner we are able to test the performance of internet-based recommendation or rating engines from investment performances."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.99999999999994,
+            "t": 318.95145579999985,
+            "r": 299.0859375600001,
+            "b": 95.05188987723318,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1077
+          ]
+        }
+      ],
+      "orig": "Our modelling setup can be summarised as follows. We let X be a binary random variable taking the values { 0 , 1 } , where 1 represents price moving up by a unit over the period [0 , T ] and 0 represents price moving down by a unit over the same period. At time 0 both the market and the informed trader share the same information about the value of X , represented by the a priori probabilities ( p, 1 -p ). The informed trader, however, begins to gather information from the internet, using text and data mining; whereas the general market gathers information through more widely accessible sources such as newspaper articles and financial reports. We let ξ t of (1) represent the market information process, and ξ ′ t = σ ′ Xt + β ′ tT represent the extra information gathered from the internet, where the two noises { β tT } and { β ′ tT } may be dependent, with correlation ρ . It is shown in Brody et al . (2009) that in the case of multiple information sources the knowledge of the informed trader can be represented in the form of a single effective information process",
+      "text": "Our modelling setup can be summarised as follows. We let X be a binary random variable taking the values { 0 , 1 } , where 1 represents price moving up by a unit over the period [0 , T ] and 0 represents price moving down by a unit over the same period. At time 0 both the market and the informed trader share the same information about the value of X , represented by the a priori probabilities ( p, 1 -p ). The informed trader, however, begins to gather information from the internet, using text and data mining; whereas the general market gathers information through more widely accessible sources such as newspaper articles and financial reports. We let ξ t of (1) represent the market information process, and ξ ′ t = σ ′ Xt + β ′ tT represent the extra information gathered from the internet, where the two noises { β tT } and { β ′ tT } may be dependent, with correlation ρ . It is shown in Brody et al . (2009) that in the case of multiple information sources the knowledge of the informed trader can be represented in the form of a single effective information process"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 135.71399999999997,
+            "t": 79.86945579999974,
+            "r": 299.08121028,
+            "b": 67.60952673256463,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "ˆ ξ t = ˆ σXt + ˆ β tT , (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.014,
+            "t": 738.3411053999997,
+            "r": 511.73635234000017,
+            "b": 728.0598898772332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "where ˆ σ 2 = ( σ 2 -2 ρσσ ′ + σ ′ 2 ) / (1 -ρ 2 ), and",
+      "text": "where ˆ σ 2 = ( σ 2 -2 ρσσ ′ + σ ′ 2 ) / (1 -ρ 2 ), and"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 354.1140000000001,
+            "t": 722.0611054,
+            "r": 562.0952102800001,
+            "b": 698.2068898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "ˆ β tT = σ -ρσ ′ ˆ σ (1 -ρ 2 ) β tT + σ ′ -ρσ ˆ σ (1 -ρ 2 ) β ′ tT . (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.014,
+            "t": 691.2054558,
+            "r": 562.09100344,
+            "b": 658.5888898772333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "Therefore, the effective signal-to-noise ratio for the informed trader is given by ˆ σ , which can be compared against the market signal-to-noise ratio σ .",
+      "text": "Therefore, the effective signal-to-noise ratio for the informed trader is given by ˆ σ , which can be compared against the market signal-to-noise ratio σ ."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.014,
+            "t": 655.3404557999999,
+            "r": 562.0990590200004,
+            "b": 443.39588987723295,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1043
+          ]
+        }
+      ],
+      "orig": "At time T/ 2 both the market and the informed trader have accumulated noisy information, based on which they evaluate the a posteriori probabilities, p m and p i , respectively, that X = 1. The trading strategy is as follows. If the a posteriori probability is larger than the threshold value K + then take a long position by the amount ˆ X t ; if the a posteriori probability is smaller than the threshold value K -then take a short position by the amount ˆ X t , where ˆ X t = E t [ X ] is the expectation of X using the market filtration. The position is then held till time T , at which point the profit or loss is made because the value of X is now revealed. Also at time T the next observation for the value of the random variable representing whether the asset price moves up or down over the interval [ T, 2 T ] begins, and the same strategy is repeated over and over. Our model thus makes an implicit simplifying assumption that the magnitude of the stock volatility over the range [ nT, ( n +1) T ] is independent of the value of n .",
+      "text": "At time T/ 2 both the market and the informed trader have accumulated noisy information, based on which they evaluate the a posteriori probabilities, p m and p i , respectively, that X = 1. The trading strategy is as follows. If the a posteriori probability is larger than the threshold value K + then take a long position by the amount ˆ X t ; if the a posteriori probability is smaller than the threshold value K -then take a short position by the amount ˆ X t , where ˆ X t = E t [ X ] is the expectation of X using the market filtration. The position is then held till time T , at which point the profit or loss is made because the value of X is now revealed. Also at time T the next observation for the value of the random variable representing whether the asset price moves up or down over the interval [ T, 2 T ] begins, and the same strategy is repeated over and over. Our model thus makes an implicit simplifying assumption that the magnitude of the stock volatility over the range [ nT, ( n +1) T ] is independent of the value of n ."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.01400000000046,
+            "t": 440.1464557999995,
+            "r": 562.0979450400006,
+            "b": 276.02288987723307,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            774
+          ]
+        }
+      ],
+      "orig": "Both the market and the informed trader employ the same strategy, but the informed trader on average makes better estimates for the realised value of X , thus statistically obtaining a higher rate of return than the market. The risk-neutral valuation of the market position can be made straightforwardly, because the resulting cash flow is given by ( X -ˆ X t )( 1 { ˆ X t >K + } -1 { ˆ X t <K -} ). By a change of measure technique introduced in Brody et al . (2007) one can show that the value of the strategy is given by a formula analogous to the Black-Scholes option pricing formula. The valuation of the position of the informed trader is less obvious, although one can show that the expected P&L difference is positive, leading to a statistical arbitrage opportunity.",
+      "text": "Both the market and the informed trader employ the same strategy, but the informed trader on average makes better estimates for the realised value of X , thus statistically obtaining a higher rate of return than the market. The risk-neutral valuation of the market position can be made straightforwardly, because the resulting cash flow is given by ( X -ˆ X t )( 1 { ˆ X t >K + } -1 { ˆ X t <K -} ). By a change of measure technique introduced in Brody et al . (2007) one can show that the value of the strategy is given by a formula analogous to the Black-Scholes option pricing formula. The valuation of the position of the informed trader is less obvious, although one can show that the expected P&L difference is positive, leading to a statistical arbitrage opportunity."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.01400000000046,
+            "t": 268.55234359999963,
+            "r": 562.0989413000001,
+            "b": 152.21988987723296,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            537
+          ]
+        }
+      ],
+      "orig": "4. Implementation and calibration . We have implemented the strategy using publicly available information sources. Specifically, we have gathered the totality of Japanese blog articles since 2006 and used them as our sole information source. In 2009, nearly 20 million Japanese blog articles appeared on the internet, making a daily average of around 50,000 articles. Each blog article is weighted by its relevance (e.g., page views). Those with insufficient weight are regarded as 'pure noise' and have been discarded from the analysis.",
+      "text": "4. Implementation and calibration . We have implemented the strategy using publicly available information sources. Specifically, we have gathered the totality of Japanese blog articles since 2006 and used them as our sole information source. In 2009, nearly 20 million Japanese blog articles appeared on the internet, making a daily average of around 50,000 articles. Each blog article is weighted by its relevance (e.g., page views). Those with insufficient weight are regarded as 'pure noise' and have been discarded from the analysis."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.01400000000046,
+            "t": 148.9704557999995,
+            "r": 562.0989413000002,
+            "b": 68.53288987723295,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            373
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.00000000000006,
+            "t": 736.7674558,
+            "r": 299.0839450400001,
+            "b": 668.2848898772332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            374,
+            673
+          ]
+        }
+      ],
+      "orig": "Natural language processing (NLP) technology of Yahoo Japan Corporation and Yahoo Japan Research Institute has been applied to analyse company specific comments of the listed companies. The NLP classifies whether the comments are positive, neutral, or negative; this classification is then used to establish sentiment index for each company. Based on the sentiment index, a trading strategy, analogous to the one described above, is developed. The idea can be illustrated as follows. If many people write complimentary remarks about a new product released by a given company then it is likely that sales of the product will go up, leading to an increase in its share price.",
+      "text": "Natural language processing (NLP) technology of Yahoo Japan Corporation and Yahoo Japan Research Institute has been applied to analyse company specific comments of the listed companies. The NLP classifies whether the comments are positive, neutral, or negative; this classification is then used to establish sentiment index for each company. Based on the sentiment index, a trading strategy, analogous to the one described above, is developed. The idea can be illustrated as follows. If many people write complimentary remarks about a new product released by a given company then it is likely that sales of the product will go up, leading to an increase in its share price."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 557.113,
+            "t": 762.6704558,
+            "r": 562.0943000000001,
+            "b": 753.9638898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.0,
+            "t": 400.4140512,
+            "r": 299.0857843199999,
+            "b": 298.43108943400574,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            587
+          ]
+        }
+      ],
+      "orig": "FIG. 1: Information-based trading . The blog sentiment data is used to create a trading strategy for the relevant stocks. The performance (total return) that results from the strategy is shown in the solid black line. The dark blue dashed line represents the average stock prices; the light blue dashed line the Nikkei 225 Index. The 'learning' period for optimisation corresponds to the left of the vertical green line; the strategy is applied over the seven month period starting in the late March 2009. Our information-based strategy yields over 40% return for the seven month period.",
+      "text": "FIG. 1: Information-based trading . The blog sentiment data is used to create a trading strategy for the relevant stocks. The performance (total return) that results from the strategy is shown in the solid black line. The dark blue dashed line represents the average stock prices; the light blue dashed line the Nikkei 225 Index. The 'learning' period for optimisation corresponds to the left of the vertical green line; the strategy is applied over the seven month period starting in the late March 2009. Our information-based strategy yields over 40% return for the seven month period."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.99999999999999,
+            "t": 269.31345579999993,
+            "r": 299.08580260000014,
+            "b": 129.0998898772333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            644
+          ]
+        }
+      ],
+      "orig": "The strategy has been optimised using the data from 2008 to early 2009 (for example, the choice of the threshold values K ± ), and applied for the seven month period from April 2009. Specifically, for the analysis presented here we have considered 10 companies for whom the average numbers of blog comments are highest. In order to obtain a conservative estimate for the ratio ˆ σ/σ , and also to reduce exposure to the market risk preference, we have adopted a long-short strategy against the Nikkei 225 Index. The result of the strategy, as well as the average stock prices of the active names and the Nikkei 225 Index, are shown in figure 1.",
+      "text": "The strategy has been optimised using the data from 2008 to early 2009 (for example, the choice of the threshold values K ± ), and applied for the seven month period from April 2009. Specifically, for the analysis presented here we have considered 10 companies for whom the average numbers of blog comments are highest. In order to obtain a conservative estimate for the ratio ˆ σ/σ , and also to reduce exposure to the market risk preference, we have adopted a long-short strategy against the Nikkei 225 Index. The result of the strategy, as well as the average stock prices of the active names and the Nikkei 225 Index, are shown in figure 1."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.0,
+            "t": 125.06045579999989,
+            "r": 299.07896374000006,
+            "b": 68.53388987723326,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            282
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.0139999999999,
+            "t": 489.0264558,
+            "r": 552.9931248999998,
+            "b": 480.31988987723344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            283,
+            337
+          ]
+        }
+      ],
+      "orig": "To estimate the ratio ˆ σ/σ we have simulated the strategy numerically. Because we do not yet have a suitable method of estimating the correlation ρ between the noise in the blog sentiments and the noise for market investors, we can only give a range for this estimate. Fortunately, however, we found that the range is relatively narrow:",
+      "text": "To estimate the ratio ˆ σ/σ we have simulated the strategy numerically. Because we do not yet have a suitable method of estimating the correlation ρ between the noise in the blog sentiments and the noise for market investors, we can only give a range for this estimate. Fortunately, however, we found that the range is relatively narrow:"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.0139999999999,
+            "t": 570.8290512000001,
+            "r": 562.0947401599999,
+            "b": 521.1500894340057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "FIG. 2: Simulation of the strategy . We have run the strategy for the informed trader (black solid line) and that for the market (blue dashed line), and taken the average over 5,000 sample paths. Parameter values are set as ρ = 0 . 1, σ = 0 . 2, σ ′ = 0 . 48, and hence ˆ σ = 0 . 50.",
+      "text": "FIG. 2: Simulation of the strategy . We have run the strategy for the informed trader (black solid line) and that for the market (blue dashed line), and taken the average over 5,000 sample paths. Parameter values are set as ρ = 0 . 1, σ = 0 . 2, σ ′ = 0 . 48, and hence ˆ σ = 0 . 50."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 348.456,
+            "t": 600.264,
+            "r": 350.68,
+            "b": 596.7107532467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 370.88932,
+            "t": 600.264,
+            "r": 375.33732000000003,
+            "b": 596.7107532467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 394.456,
+            "t": 600.264,
+            "r": 398.904,
+            "b": 596.7107532467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 418.02268000000004,
+            "t": 600.264,
+            "r": 422.47068,
+            "b": 596.7107532467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "30",
+      "text": "30"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 441.58932000000004,
+            "t": 600.264,
+            "r": 446.03732,
+            "b": 596.7107532467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "40",
+      "text": "40"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 465.15600000000006,
+            "t": 600.264,
+            "r": 469.60400000000004,
+            "b": 596.7107532467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "50",
+      "text": "50"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 488.72268,
+            "t": 600.264,
+            "r": 493.17068000000006,
+            "b": 596.7107532467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "60",
+      "text": "60"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 512.2893200000001,
+            "t": 600.264,
+            "r": 516.7373200000001,
+            "b": 596.7107532467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "70",
+      "text": "70"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 535.856,
+            "t": 600.264,
+            "r": 540.304,
+            "b": 596.7107532467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "80",
+      "text": "80"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 338.28932000000003,
+            "t": 603.6306800000001,
+            "r": 340.62532,
+            "b": 600.0774332467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 340.62532,
+            "t": 603.6306800000001,
+            "r": 348.40932000000004,
+            "b": 600.0774332467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.05",
+      "text": "0.05"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 346.18932,
+            "t": 616.230676,
+            "r": 348.41332,
+            "b": 612.6774292467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 340.62268,
+            "t": 628.83068,
+            "r": 348.40668,
+            "b": 625.2774332467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.05",
+      "text": "0.05"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 342.856,
+            "t": 641.43068,
+            "r": 348.416,
+            "b": 637.8774332467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.1",
+      "text": "0.1"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 340.62268,
+            "t": 654.0306800000001,
+            "r": 348.40668,
+            "b": 650.4774332467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.15",
+      "text": "0.15"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 342.856,
+            "t": 666.63068,
+            "r": 348.416,
+            "b": 663.0774332467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.2",
+      "text": "0.2"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 340.62268,
+            "t": 679.23068,
+            "r": 348.40668,
+            "b": 675.6774332467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.25",
+      "text": "0.25"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 342.856,
+            "t": 691.83068,
+            "r": 348.416,
+            "b": 688.2774332467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.3",
+      "text": "0.3"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 340.62268,
+            "t": 704.43068,
+            "r": 348.40668,
+            "b": 700.8774332467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.35",
+      "text": "0.35"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 342.856,
+            "t": 717.0306400000001,
+            "r": 348.416,
+            "b": 713.4773932467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.4",
+      "text": "0.4"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 340.62268,
+            "t": 729.5973200000001,
+            "r": 348.40668,
+            "b": 726.0440732467533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.45",
+      "text": "0.45"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 429.156,
+            "t": 595.94452,
+            "r": 458.49840000000006,
+            "b": 591.680623896104,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "trading cycles",
+      "text": "trading cycles"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 385.25616,
+            "t": 734.9443600000001,
+            "r": 502.8945600000002,
+            "b": 730.6804638961039,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "P&L curves: market (black) and informed trader (green)",
+      "text": "P&L curves: market (black) and informed trader (green)"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 401.9589999999999,
+            "t": 470.4054558,
+            "r": 562.0952102800001,
+            "b": 448.12488987723344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "2 . 4 ≲ ˆ σ σ ≲ 2 . 6 . (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.014,
+            "t": 440.1474558,
+            "r": 562.0943000000001,
+            "b": 419.48588987723343,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "The simulation results associated with the choice ρ = 0 . 1 are shown in figure 2.",
+      "text": "The simulation results associated with the choice ρ = 0 . 1 are shown in figure 2."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.01400000000007,
+            "t": 412.0153436,
+            "r": 562.09794504,
+            "b": 319.5918898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            421
+          ]
+        }
+      ],
+      "orig": "5. Discussion . We have successfully extracted a trading signal from the abundant data accessible on the internet. By applying the results to the stock market, we were able to assess the performance of the information extraction and provision engine. The results have identified perhaps a surprising level of apparent inefficiency even in a highly liquid equity market, indicating the degree of information inhomogeneity.",
+      "text": "5. Discussion . We have successfully extracted a trading signal from the abundant data accessible on the internet. By applying the results to the stock market, we were able to assess the performance of the information extraction and provision engine. The results have identified perhaps a surprising level of apparent inefficiency even in a highly liquid equity market, indicating the degree of information inhomogeneity."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.01400000000007,
+            "t": 316.3434558000001,
+            "r": 562.09794504,
+            "b": 128.30988987723345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            864
+          ]
+        }
+      ],
+      "orig": "It is of course well documented that asset prices in financial markets respond to the unravelling of information (e.g., Engle and Ng 1993; Andersen et al . 2007). Indeed, the realisation that information filtering and communication is the key for grasping social sciences such as economics has been recognised since Wiener (1954). Our analysis differs sharply from previous work carried out in this area in that we explicitly identify the existence of information disparity and derive an estimate for how much more the rate of information extraction could have been enhanced had the market been truly efficient. In contrast with Google Finance, for instance, that provides a postmortem analysis of the relation between large price moves and revelations of news items, our informed trader is able to exploit additional information sources to anticipate price moves.",
+      "text": "It is of course well documented that asset prices in financial markets respond to the unravelling of information (e.g., Engle and Ng 1993; Andersen et al . 2007). Indeed, the realisation that information filtering and communication is the key for grasping social sciences such as economics has been recognised since Wiener (1954). Our analysis differs sharply from previous work carried out in this area in that we explicitly identify the existence of information disparity and derive an estimate for how much more the rate of information extraction could have been enhanced had the market been truly efficient. In contrast with Google Finance, for instance, that provides a postmortem analysis of the relation between large price moves and revelations of news items, our informed trader is able to exploit additional information sources to anticipate price moves."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.0140000000001,
+            "t": 125.0604558,
+            "r": 562.0979450399998,
+            "b": 68.53388987723338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            282
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.00000000000006,
+            "t": 736.7674558,
+            "r": 299.0849413000002,
+            "b": 512.8678898772328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            283,
+            1335
+          ]
+        }
+      ],
+      "orig": "The analysis reported in this paper is naturally of interest to statistical arbitrage funds, because the strategy is orthogonal to conventional strategies that rely on, for example, microstructure. On the other hand, from the viewpoint of an internet search engine, one might envis- age a scenario whereby individual investors purchasing 'signal' from information providers and making their own investments. Such a model, however, is unlikely to be sustainable, because if the signal is circulated broadly, it ceases to remain useful. As Wiener emphasises, concentration of useful information is intrinsically unstable due to the second law (Wiener 1954). The only way in which information can be spontaneously concentrated, at least momentarily, is via innovation. It is interesting therefore to reflect on the fact that in spite of the enhancement of technology in improving the method of information gathering and provision, whose purpose a priori goes against the second law, ultimately such developments can only result in enforcing the compliance with the second law. As a result, in the long run the second law will enhance the 'efficiency' of financial markets, but maybe also, paradoxically, the instability of financial markets, because in a noise-dominated market, the revelation of the true signal has a significant impact.",
+      "text": "The analysis reported in this paper is naturally of interest to statistical arbitrage funds, because the strategy is orthogonal to conventional strategies that rely on, for example, microstructure. On the other hand, from the viewpoint of an internet search engine, one might envis- age a scenario whereby individual investors purchasing 'signal' from information providers and making their own investments. Such a model, however, is unlikely to be sustainable, because if the signal is circulated broadly, it ceases to remain useful. As Wiener emphasises, concentration of useful information is intrinsically unstable due to the second law (Wiener 1954). The only way in which information can be spontaneously concentrated, at least momentarily, is via innovation. It is interesting therefore to reflect on the fact that in spite of the enhancement of technology in improving the method of information gathering and provision, whose purpose a priori goes against the second law, ultimately such developments can only result in enforcing the compliance with the second law. As a result, in the long run the second law will enhance the 'efficiency' of financial markets, but maybe also, paradoxically, the instability of financial markets, because in a noise-dominated market, the revelation of the true signal has a significant impact."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 557.113,
+            "t": 762.6704558,
+            "r": 562.0943000000001,
+            "b": 753.9638898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.00000000000006,
+            "t": 505.36745579999933,
+            "r": 299.08161028000006,
+            "b": 448.8398898772328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "The authors thank Robyn Friedman for stimulating discussion. The opinions expressed in this article are those of the authors. Email: dorje@imperial.ac.uk ∗ , brodyj@yahoo-corp.jp, b.meister@imperial.ac.uk ∗ , and m.parry@statslab.cam.ac.uk ( ∗ corresponding authors).",
+      "text": "The authors thank Robyn Friedman for stimulating discussion. The opinions expressed in this article are those of the authors. Email: dorje@imperial.ac.uk ∗ , brodyj@yahoo-corp.jp, b.meister@imperial.ac.uk ∗ , and m.parry@statslab.cam.ac.uk ( ∗ corresponding authors)."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.014,
+            "t": 706.6970512,
+            "r": 562.0961449600003,
+            "b": 667.471570061095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "[1] Andersen, T., Bollerslev, T., Diebold, F. X. & Vega, C. (2007) 'Real-time price discovery in stock, bond and foreign exchange markets' Journal of International Economics , 73 251-277.",
+      "text": "Andersen, T., Bollerslev, T., Diebold, F. X. & Vega, C. (2007) 'Real-time price discovery in stock, bond and foreign exchange markets' Journal of International Economics , 73 251-277.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.014,
+            "t": 664.8540512,
+            "r": 562.0967788800001,
+            "b": 625.6350894340056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "[2] Brody, D. C., Hughston, L. P. & Macrina, A. (2007) 'Beyond hazard rates: a new framework for credit-risk modelling' In Advances in Mathematical Finance: Festschrift Volume in Honour of Dilip Madan (Basel: Birkh¨ auser).",
+      "text": "Brody, D. C., Hughston, L. P. & Macrina, A. (2007) 'Beyond hazard rates: a new framework for credit-risk modelling' In Advances in Mathematical Finance: Festschrift Volume in Honour of Dilip Madan (Basel: Birkh¨ auser).",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.014,
+            "t": 623.0110511999999,
+            "r": 562.0973065600002,
+            "b": 594.2455700610949,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "[3] Brody, D. C., Hughston, L. P. & Macrina, A. (2008) 'Information-based asset pricing' International Journal of Theoretical and Applied Finance 11 107-142.",
+      "text": "Brody, D. C., Hughston, L. P. & Macrina, A. (2008) 'Information-based asset pricing' International Journal of Theoretical and Applied Finance 11 107-142.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.014,
+            "t": 591.6280511999998,
+            "r": 562.0953011200002,
+            "b": 562.8635700610948,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "[4] Brody, D. C., Davis, M. H. A., Friedman, R. L., and Hughston, L. P. (2009) 'Informed traders' Proceedings of the Royal Society London A 465 1103-1122.",
+      "text": "Brody, D. C., Davis, M. H. A., Friedman, R. L., and Hughston, L. P. (2009) 'Informed traders' Proceedings of the Royal Society London A 465 1103-1122.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.01400000000007,
+            "t": 560.2460511999998,
+            "r": 562.0988876800003,
+            "b": 531.4805700610948,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "[5] Engle, R. F. and Ng, V. K. (1993) 'Measuring and testing the impact of news on volatility' The Journal of Finance , 48 , 1749-1778.",
+      "text": "Engle, R. F. and Ng, V. K. (1993) 'Measuring and testing the impact of news on volatility' The Journal of Finance , 48 , 1749-1778.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.0140000000001,
+            "t": 528.8640511999997,
+            "r": 562.0979910399999,
+            "b": 500.09857006109473,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "[6] Grossman, S. J. and Stiglitz, J. E. (1980) 'On the impossibility of informationally efficient markets' The American Economic Review 70 393-408.",
+      "text": "Grossman, S. J. and Stiglitz, J. E. (1980) 'On the impossibility of informationally efficient markets' The American Economic Review 70 393-408.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.0140000000001,
+            "t": 497.4810511999996,
+            "r": 562.09342368,
+            "b": 479.1850894340054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "[7] Wiener, N. The human use of human beings . Revised Edition (London: Eyre and Spottiswoode, 1954).",
+      "text": "Wiener, N. The human use of human beings . Revised Edition (London: Eyre and Spottiswoode, 1954).",
+      "enumerated": true,
+      "marker": "[7]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.29429244995117,
+            "t": 628.0823364257812,
+            "r": 283.03900146484375,
+            "b": 420.88311767578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 336.7109375,
+            "t": 737.1733894348145,
+            "r": 541.658935546875,
+            "b": 589.9365081787109,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

@@ -1,0 +1,6801 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "0910.3769_levy_approximation_of_impulsive_recurrent_process_",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5109136428664817925,
+    "filename": "0910.3769_levy_approximation_of_impulsive_recurrent_process_.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/texts/121"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/texts/141"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/texts/143"
+      },
+      {
+        "$ref": "#/texts/144"
+      },
+      {
+        "$ref": "#/texts/145"
+      },
+      {
+        "$ref": "#/texts/146"
+      },
+      {
+        "$ref": "#/texts/147"
+      },
+      {
+        "$ref": "#/texts/148"
+      },
+      {
+        "$ref": "#/texts/149"
+      },
+      {
+        "$ref": "#/texts/150"
+      },
+      {
+        "$ref": "#/texts/151"
+      },
+      {
+        "$ref": "#/texts/152"
+      },
+      {
+        "$ref": "#/texts/153"
+      },
+      {
+        "$ref": "#/texts/154"
+      },
+      {
+        "$ref": "#/texts/155"
+      },
+      {
+        "$ref": "#/texts/156"
+      },
+      {
+        "$ref": "#/texts/157"
+      },
+      {
+        "$ref": "#/texts/158"
+      },
+      {
+        "$ref": "#/texts/159"
+      },
+      {
+        "$ref": "#/texts/160"
+      },
+      {
+        "$ref": "#/texts/161"
+      },
+      {
+        "$ref": "#/texts/162"
+      },
+      {
+        "$ref": "#/texts/163"
+      },
+      {
+        "$ref": "#/texts/164"
+      },
+      {
+        "$ref": "#/texts/165"
+      },
+      {
+        "$ref": "#/texts/166"
+      },
+      {
+        "$ref": "#/texts/167"
+      },
+      {
+        "$ref": "#/texts/168"
+      },
+      {
+        "$ref": "#/texts/169"
+      },
+      {
+        "$ref": "#/texts/170"
+      },
+      {
+        "$ref": "#/texts/171"
+      },
+      {
+        "$ref": "#/texts/172"
+      },
+      {
+        "$ref": "#/texts/173"
+      },
+      {
+        "$ref": "#/texts/174"
+      },
+      {
+        "$ref": "#/texts/175"
+      },
+      {
+        "$ref": "#/texts/176"
+      },
+      {
+        "$ref": "#/texts/177"
+      },
+      {
+        "$ref": "#/texts/178"
+      },
+      {
+        "$ref": "#/texts/179"
+      },
+      {
+        "$ref": "#/texts/180"
+      },
+      {
+        "$ref": "#/texts/181"
+      },
+      {
+        "$ref": "#/texts/182"
+      },
+      {
+        "$ref": "#/texts/183"
+      },
+      {
+        "$ref": "#/texts/184"
+      },
+      {
+        "$ref": "#/texts/185"
+      },
+      {
+        "$ref": "#/texts/186"
+      },
+      {
+        "$ref": "#/texts/187"
+      },
+      {
+        "$ref": "#/texts/188"
+      },
+      {
+        "$ref": "#/texts/189"
+      },
+      {
+        "$ref": "#/texts/190"
+      },
+      {
+        "$ref": "#/texts/191"
+      },
+      {
+        "$ref": "#/texts/192"
+      },
+      {
+        "$ref": "#/texts/193"
+      },
+      {
+        "$ref": "#/texts/194"
+      },
+      {
+        "$ref": "#/texts/195"
+      },
+      {
+        "$ref": "#/texts/196"
+      },
+      {
+        "$ref": "#/texts/197"
+      },
+      {
+        "$ref": "#/texts/198"
+      },
+      {
+        "$ref": "#/texts/199"
+      },
+      {
+        "$ref": "#/texts/200"
+      },
+      {
+        "$ref": "#/texts/201"
+      },
+      {
+        "$ref": "#/texts/202"
+      },
+      {
+        "$ref": "#/texts/203"
+      },
+      {
+        "$ref": "#/texts/204"
+      },
+      {
+        "$ref": "#/texts/205"
+      },
+      {
+        "$ref": "#/texts/206"
+      },
+      {
+        "$ref": "#/texts/207"
+      },
+      {
+        "$ref": "#/groups/8"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/42"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/63"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/65"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/67"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/208"
+        },
+        {
+          "$ref": "#/texts/209"
+        },
+        {
+          "$ref": "#/texts/210"
+        },
+        {
+          "$ref": "#/texts/211"
+        },
+        {
+          "$ref": "#/texts/212"
+        },
+        {
+          "$ref": "#/texts/213"
+        },
+        {
+          "$ref": "#/texts/214"
+        },
+        {
+          "$ref": "#/texts/215"
+        },
+        {
+          "$ref": "#/texts/216"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 604.7600000000001,
+            "r": 36.206559297218156,
+            "b": 247.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "arXiv:0910.3769v1  [math.PR]  20 Oct 2009",
+      "text": "arXiv:0910.3769v1  [math.PR]  20 Oct 2009",
+      "hyperlink": "http://arxiv.org/abs/0910.3769v1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 91.91989999999998,
+            "t": 666.0344216,
+            "r": 498.1870404759409,
+            "b": 600.9854228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "L´ evy Approximation of Impulsive Recurrent Process with Semi-Markov Switching",
+      "text": "L´ evy Approximation of Impulsive Recurrent Process with Semi-Markov Switching",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 116.87989999999998,
+            "t": 578.1039212000001,
+            "r": 472.74106,
+            "b": 551.1478561600001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "V. S. Koroliuk 1 , N. Limnios 2 and I.V. Samoilenko 1 1",
+      "text": "V. S. Koroliuk 1 , N. Limnios 2 and I.V. Samoilenko 1 1"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 125.75984000000003,
+            "t": 558.6797300000001,
+            "r": 464.6395193192163,
+            "b": 490.5594138000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "Institute of Mathematics, Ukrainian National Academy of Science, Kiev, Ukraine 2 Laboratoire de Math´ ematiques Appliqu´ ees, Universit´ e de Technologie de Compi` egne, France",
+      "text": "Institute of Mathematics, Ukrainian National Academy of Science, Kiev, Ukraine 2 Laboratoire de Math´ ematiques Appliqu´ ees, Universit´ e de Technologie de Compi` egne, France"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 242.63956000000002,
+            "t": 476.8398600000002,
+            "r": 347.6945829086309,
+            "b": 462.47931380000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "October 30, 2018",
+      "text": "October 30, 2018"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 271.08,
+            "t": 391.1345518,
+            "r": 319.036432509115,
+            "b": 383.4545454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.55999999999995,
+            "t": 371.0511155,
+            "r": 492.75284643640003,
+            "b": 320.4327253999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "In this paper, the weak convergence of impulsive recurrent process with semiMarkov switching in the scheme of L´ evy approximation is proved. Singular perturbation problem for the compensating operator of the extended Markov renewal process is used to prove the relative compactness.",
+      "text": "In this paper, the weak convergence of impulsive recurrent process with semiMarkov switching in the scheme of L´ evy approximation is proved. Singular perturbation problem for the compensating operator of the extended Markov renewal process is used to prove the relative compactness."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.27999999999997,
+            "t": 301.57101559999995,
+            "r": 521.9128797182482,
+            "b": 274.47262539999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "Key Words: L´ evy approximation, semimartingale, semi-Markov process, impulsive recurrent process, piecewise deterministic Markov process, weak convergence, singular perturbation.",
+      "text": "Key Words: L´ evy approximation, semimartingale, semi-Markov process, impulsive recurrent process, piecewise deterministic Markov process, weak convergence, singular perturbation."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.2801,
+            "t": 227.93078000000003,
+            "r": 204.31962477305342,
+            "b": 211.84700562666671,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.2801,
+            "t": 196.04639999999995,
+            "r": 521.809590456781,
+            "b": 116.03954479999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            388
+          ]
+        }
+      ],
+      "orig": "L´ evy approximation is still an active area of research in several theoretical and applied directions. Since L´ evy processes are now standard, L´ evy approximation is quite useful for analyzing complex systems (see, e.g. [1, 8]). Moreover they are involved in many applications, e.g., risk theory, finance, queueing, physics, etc. For a background on L´ evy process see, e.g. [1, 8, 3].",
+      "text": "L´ evy approximation is still an active area of research in several theoretical and applied directions. Since L´ evy processes are now standard, L´ evy approximation is quite useful for analyzing complex systems (see, e.g. [1, 8]). Moreover they are involved in many applications, e.g., risk theory, finance, queueing, physics, etc. For a background on L´ evy process see, e.g. [1, 8, 3]."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.2799,
+            "t": 110.9665,
+            "r": 521.8145676111362,
+            "b": 81.9595448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "In particular in [5] it has been studied the following impulsive process as partial sums in a series scheme",
+      "text": "In particular in [5] it has been studied the following impulsive process as partial sums in a series scheme"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.280123,
+            "t": 70.77768249999997,
+            "r": 371.87998220000003,
+            "b": 32.15794319999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "ξ ε ( t ) = ξ ε 0 + ν ( t ) ∑ k =1 α ε k ( x ε k -1 ) , t ≥ 0 , (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.28000799999998,
+            "t": 709.8974225000001,
+            "r": 521.8018555133957,
+            "b": 679.5593448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "the random variables α ε k ( x ) , k ≥ 1 are supposed to be independent and perturbed by the jump Markov process x ( t ) , t ≥ 0.",
+      "text": "the random variables α ε k ( x ) , k ≥ 1 are supposed to be independent and perturbed by the jump Markov process x ( t ) , t ≥ 0."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.91952799999999,
+            "t": 674.4863,
+            "r": 367.9195736987395,
+            "b": 662.5191448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "We propose to study generalization of the problem (1):",
+      "text": "We propose to study generalization of the problem (1):"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.27954899999992,
+            "t": 649.4173825,
+            "r": 385.07940819999993,
+            "b": 610.6777132000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "ξ ε ( t ) = ξ ε 0 + ν ( t ) ∑ k =1 α ε k ( ξ ε k -1 , x ε k -1 ) , t ≥ 0 . (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.27954899999992,
+            "t": 601.6577325000001,
+            "r": 429.7195722616319,
+            "b": 586.2473924999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "Here the random variables α ε k ( u, x ) , k ≥ 1 depend on the process ξ ε ( t ).",
+      "text": "Here the random variables α ε k ( u, x ) , k ≥ 1 depend on the process ξ ε ( t )."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.27969599999983,
+            "t": 583.28643,
+            "r": 521.8908813343232,
+            "b": 520.3193748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "We propose to study convergence of (2) using a combination of two methods. The one, based on semimartingales theory, is combined with a singular perturbation problem for the compensating operator of the extended Markov renewal process. So, the method includes two steps.",
+      "text": "We propose to study convergence of (2) using a combination of two methods. The one, based on semimartingales theory, is combined with a singular perturbation problem for the compensating operator of the extended Markov renewal process. So, the method includes two steps."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.27949599999988,
+            "t": 515.24673,
+            "r": 521.696928580045,
+            "b": 486.35967479999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "In the first step we prove the relative compactness of the semimartingales representation of the family ξ ε , ε > 0, by proving the following two facts [2]:",
+      "text": "In the first step we prove the relative compactness of the semimartingales representation of the family ξ ε , ε > 0, by proving the following two facts [2]:"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 215.27951599999986,
+            "t": 472.29773249999994,
+            "r": 374.8798831999999,
+            "b": 449.5678625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "lim c →∞ sup ε ≤ ε 0 P { sup t ≤ T | ξ ε ( t ) | > c } = 0 ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.27902399999988,
+            "t": 437.84673,
+            "r": 327.2515696352001,
+            "b": 425.87957479999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "known as the compact containment condition, and",
+      "text": "known as the compact containment condition, and"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 225.2390239999999,
+            "t": 411.81763249999995,
+            "r": 364.91914319999995,
+            "b": 397.91937479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "E | ξ ε ( t ) -ξ ε ( s ) | 2 ≤ k | t -s | ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.27928399999996,
+            "t": 381.92673,
+            "r": 215.75822319999995,
+            "b": 369.9595748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "for some positive constant k .",
+      "text": "for some positive constant k ."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.2783639999999,
+            "t": 364.88653,
+            "r": 521.813372593152,
+            "b": 334.0077025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "In the second step we prove convergence of the extended Markov renewal process ξ ε n , x ε n , τ ε n , n ≥ 0 by using singular perturbation technique as presented in [5].",
+      "text": "In the second step we prove convergence of the extended Markov renewal process ξ ε n , x ε n , τ ε n , n ≥ 0 by using singular perturbation technique as presented in [5]."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.91814399999991,
+            "t": 330.92683,
+            "r": 288.9572325962753,
+            "b": 318.95967479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Finally, we apply Theorem 6.3 from [5].",
+      "text": "Finally, we apply Theorem 6.3 from [5]."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.27814399999994,
+            "t": 313.88662999999997,
+            "r": 521.7984230410242,
+            "b": 267.9597747999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            258
+          ]
+        }
+      ],
+      "orig": "The paper is organized as follows. In Section 2 we present the time-scaled impulsive process (2) and the switching semi-Markov process. In the same section we present the main results of L´ evy approximation. In Section 3 we present the proof of the theorem.",
+      "text": "The paper is organized as follows. In Section 2 we present the time-scaled impulsive process (2) and the switching semi-Markov process. In the same section we present the main results of L´ evy approximation. In Section 3 we present the proof of the theorem."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.2801,
+            "t": 222.05078000000003,
+            "r": 203.5864944312422,
+            "b": 205.9670056266666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "2 Main results",
+      "text": "2 Main results",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.27983000000006,
+            "t": 191.4975025,
+            "r": 521.9778451266561,
+            "b": 109.36769249999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            416
+          ]
+        }
+      ],
+      "orig": "Let us consider the space R d endowed with a norm |·| ( d ≥ 1), and ( E, E ), a standard phase space , (i.e., E is a Polish space and E its Borel σ -algebra). For a vector v ∈ R d and a matrix c ∈ R d × d , v ∗ and c ∗ denote their transpose respectively. Let C 3 ( R d ) be a measure-determining class of real-valued bounded functions, such that g ( u ) / | u | 2 → 0, as | u | → 0 for g ∈ C 3 ( R d ) (see [4, 5]).",
+      "text": "Let us consider the space R d endowed with a norm |·| ( d ≥ 1), and ( E, E ), a standard phase space , (i.e., E is a Polish space and E its Borel σ -algebra). For a vector v ∈ R d and a matrix c ∈ R d × d , v ∗ and c ∗ denote their transpose respectively. Let C 3 ( R d ) be a measure-determining class of real-valued bounded functions, such that g ( u ) / | u | 2 → 0, as | u | → 0 for g ∈ C 3 ( R d ) (see [4, 5])."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.28027000000009,
+            "t": 106.41791250000006,
+            "r": 521.6948695074565,
+            "b": 76.07946479999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "The impulsive processes ξ ε ( t ) , t ≥ 0 , ε > 0 on R d in the series scheme with small series parameter ε → 0, ( ε > 0) are defined by the sum ([5, Section 9.2.1])",
+      "text": "The impulsive processes ξ ε ( t ) , t ≥ 0 , ε > 0 on R d in the series scheme with small series parameter ε → 0, ( ε > 0) are defined by the sum ([5, Section 9.2.1])"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.2805820000001,
+            "t": 63.13547070000004,
+            "r": 389.7604412000001,
+            "b": 23.63813319999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "ξ ε ( t ) = ξ ε 0 + ν ( t/ε 2 ) ∑ k =1 α ε k ( ξ ε k -1 , x ε k -1 ) , t ≥ 0 . (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.28012800000005,
+            "t": 709.8974225000001,
+            "r": 521.8146157566212,
+            "b": 660.4074525,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "For any ε > 0, and any sequence z k , k ≥ 0, of elements of R d × E , the random variables α ε k ( z k -1 ) , k ≥ 1 are supposed to be independent. Let us denote by G ε u,x the distribution function of α ε k ( x ), that is,",
+      "text": "For any ε > 0, and any sequence z k , k ≥ 0, of elements of R d × E , the random variables α ε k ( z k -1 ) , k ≥ 1 are supposed to be independent. Let us denote by G ε u,x the distribution function of α ε k ( x ), that is,"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 148.91999600000005,
+            "t": 649.6576025,
+            "r": 441.23986320000006,
+            "b": 633.7675724999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "G ε u,x ( dv ) := P ( α ε k ( u, x ) ∈ dv ) , k ≥ 0 , ε > 0 , x ∈ E,u ∈ R d .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.28000400000002,
+            "t": 622.2974025,
+            "r": 521.8005791332611,
+            "b": 592.0792448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "It is worth noticing that the coupled process ξ ε ( t ) , x ε ( t ) , t ≥ 0, is a Markov additive process (see, e.g., [5, Section 2.5]).",
+      "text": "It is worth noticing that the coupled process ξ ε ( t ) , x ε ( t ) , t ≥ 0, is a Markov additive process (see, e.g., [5, Section 2.5])."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 85.92025400000003,
+            "t": 587.0061999999999,
+            "r": 437.64032971645446,
+            "b": 575.0390447999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "We make natural assumptions for the counting process ν ( t ), namely:",
+      "text": "We make natural assumptions for the counting process ν ( t ), namely:"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.28097399999996,
+            "t": 571.4547687999999,
+            "r": 375.11234026969595,
+            "b": 533.4476324999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "∫ t 0 E [ ϕ ( s ) dν ( s )] < l 1 ∫ t 0 E ( ϕ ( s )) ds (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.28097399999996,
+            "t": 524.72646,
+            "r": 313.32083320000004,
+            "b": 511.9675325,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "for any nonnegative, increasing ϕ ( s ) and l 1 > 0 .",
+      "text": "for any nonnegative, increasing ϕ ( s ) and l 1 > 0 ."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.28153399999997,
+            "t": 507.80656,
+            "r": 521.815908872832,
+            "b": 478.7992047999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "The switching semi-Markov process x ( t ) , t ≥ 0 on the standard phase space ( E, E ), is defined by the semi-Markov kernel",
+      "text": "The switching semi-Markov process x ( t ) , t ≥ 0 on the standard phase space ( E, E ), is defined by the semi-Markov kernel"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 176.16153399999996,
+            "t": 464.00656,
+            "r": 414.1217232,
+            "b": 451.24763249999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Q ( x, B, t ) = P ( x, B ) F x ( t ) , x ∈ E,B ∈ E , t ≥ 0 ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.28186399999998,
+            "t": 437.24636,
+            "r": 407.641721672064,
+            "b": 424.48743249999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "which defines the associated Markov renewal process x n , τ n , n ≥ 0:",
+      "text": "which defines the associated Markov renewal process x n , τ n , n ≥ 0:"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 76.80183399999999,
+            "t": 410.48616,
+            "r": 513.3620532000001,
+            "b": 397.72723249999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "Q ( x, B, t ) = P ( x n +1 ∈ B,θ n +1 ≤ t | x n = x ) = P ( x n +1 ∈ B | x n = x ) P ( θ n +1 ≤ t | x n = x ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 85.9221940000001,
+            "t": 385.17738249999996,
+            "r": 264.36230799116817,
+            "b": 369.88735249999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Finally we should denote ξ ε n in (3):",
+      "text": "Finally we should denote ξ ε n in (3):"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 195.7225340000001,
+            "t": 362.49734249999995,
+            "r": 394.5629172,
+            "b": 324.71744319999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "ξ ε n := ξ ( ε 2 τ n ) = ξ ε 0 + n ∑ k =1 α ε k ( ξ ε k -1 , x ε k -1 ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.28305800000004,
+            "t": 315.44635999999997,
+            "r": 521.8035970995969,
+            "b": 286.55930479999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "The L´ evy approximation of Markov impulsive process (3) is considered under the following conditions.",
+      "text": "The L´ evy approximation of Markov impulsive process (3) is considered under the following conditions."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.28305800000004,
+            "t": 271.04636000000005,
+            "r": 521.8196439120644,
+            "b": 242.03940479999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "C1: The semi-Markov process x ( t ) , t ≥ 0 is uniformly ergodic with the stationary distribution",
+      "text": "C1: The semi-Markov process x ( t ) , t ≥ 0 is uniformly ergodic with the stationary distribution",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 185.76327799999999,
+            "t": 237.08625999999992,
+            "r": 433.5606692,
+            "b": 155.6874725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "π ( dx ) q ( x ) = qρ ( dx ) , q ( x ) := 1 /m ( x ) , q := 1 /m, m ( x ) := E θ x = ∫ ∞ 0 F x ( t ) dt, m := ∫ E ρ ( dx ) m ( x ) , ρ ( B ) = ∫ E ρ ( dx ) P ( x, B ) , ρ ( E ) = 1 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.27976999999998,
+            "t": 147.81769250000002,
+            "r": 521.8085132846082,
+            "b": 117.47924480000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "C2: L´ evy approximation . The family of impulsive processes ξ ε ( t ) , t ≥ 0 satisfies the L´ evy approximation conditions [5, Section 9.2].",
+      "text": "C2: L´ evy approximation . The family of impulsive processes ξ ε ( t ) , t ≥ 0 satisfies the L´ evy approximation conditions [5, Section 9.2].",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 97.55938000000003,
+            "t": 103.16630000000009,
+            "r": 234.49040068426265,
+            "b": 91.1991448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "L1: Initial value condition",
+      "text": "L1: Initial value condition",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 123.35940000000005,
+            "t": 60.08630000000005,
+            "r": 142.21110573509128,
+            "b": 48.11914480000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "and",
+      "text": "and"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 273.35948,
+            "t": 88.05760250000003,
+            "r": 371.9546,
+            "b": 72.1675725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "sup E | ξ ε 0 | ≤ C < ∞",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 274.79932,
+            "t": 73.65760250000005,
+            "r": 343.43914920000003,
+            "b": 29.207492500000058,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "ε> 0 ξ ε 0 ⇒ ξ 0 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 97.5602,
+            "t": 708.4464,
+            "r": 301.80024478323224,
+            "b": 696.4792448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "L2: Approximation of the mean values:",
+      "text": "L2: Approximation of the mean values:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 171.2399,
+            "t": 694.6945688000001,
+            "r": 474.0001432,
+            "b": 657.5975832000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "a ε ( u ; x ) = ∫ R d vG ε u,x ( dv ) = εa 1 ( u ; x ) + ε 2 [ a ( u ; x ) + θ ε a ( u ; x )] ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.36028400000004,
+            "t": 648.0862000000001,
+            "r": 142.21198973509127,
+            "b": 636.1190448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "and",
+      "text": "and"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 196.32008400000004,
+            "t": 647.2945688,
+            "r": 449.04004720000006,
+            "b": 610.1975832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "c ε ( u ; x ) = ∫ R d vv ∗ G ε u,x ( dv ) = ε 2 [ c ( u ; x ) + θ ε c ( u ; x )] ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.36018800000005,
+            "t": 605.2464000000002,
+            "r": 332.0398677326849,
+            "b": 592.4874725000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "where functions a 1 , a and c are bounded.",
+      "text": "where functions a 1 , a and c are bounded."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 97.56010800000007,
+            "t": 583.6464000000002,
+            "r": 434.26235513941305,
+            "b": 571.6792448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "L3: Poisson approximation condition for intensity kernel (see [4])",
+      "text": "L3: Poisson approximation condition for intensity kernel (see [4])",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 188.88000800000006,
+            "t": 569.2945688000001,
+            "r": 456.36004826163213,
+            "b": 532.1975832000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "G ε g ( u ; x ) = ∫ R d g ( v ) G ε u,x ( dv ) = ε 2 [ G g ( u ; x ) + θ ε g ( u ; x )]",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.36017200000009,
+            "t": 522.3377025000001,
+            "r": 521.8632682688002,
+            "b": 491.9992448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "for all g ∈ C 3 ( R d ), and the kernel G g ( u ; x ) is bounded for all g ∈ C 3 ( R d ), that is,",
+      "text": "for all g ∈ C 3 ( R d ), and the kernel G g ( u ; x ) is bounded for all g ∈ C 3 ( R d ), that is,"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 203.64021200000013,
+            "t": 487.04650000000004,
+            "r": 441.6005112000001,
+            "b": 474.2875725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "| G g ( u ; x ) | ≤ G g (a constant depending on g ) .",
+      "text": "| G g ( u ; x ) | ≤ G g (a constant depending on g ) ."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.36065200000007,
+            "t": 461.9664,
+            "r": 147.0411945103361,
+            "b": 449.9992448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Here",
+      "text": "Here"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.36054200000007,
+            "t": 450.73486879999996,
+            "r": 421.44040120000005,
+            "b": 413.6378832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "G g ( u ; x ) = ∫ R d g ( v ) G u,x ( dv ) , g ∈ C 3 ( R d ) . (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.36054200000007,
+            "t": 403.1775025,
+            "r": 414.61202982586906,
+            "b": 387.8874725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "The above negligible terms θ ε a , θ ε c , θ ε g satisfy the condition",
+      "text": "The above negligible terms θ ε a , θ ε c , θ ε g satisfy the condition"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 253.32041400000006,
+            "t": 376.41730249999995,
+            "r": 391.9203812000001,
+            "b": 353.8073525,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "sup x ∈ E | θ ε · ( u ; x ) | → 0 , ε → 0 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 269.0402220000001,
+            "t": 340.33435579999997,
+            "r": 376.20042120000005,
+            "b": 302.3272595,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "∫ E ρ ( dx ) a 1 ( u ; x ) = 0 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 97.5605220000001,
+            "t": 341.1264,
+            "r": 216.36058120000013,
+            "b": 329.15924479999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "L4: Balance condition .",
+      "text": "L4: Balance condition .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 97.56056200000006,
+            "t": 294.4463870000001,
+            "r": 329.4000504377348,
+            "b": 282.47923180000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "In addition the following conditions are used:",
+      "text": "In addition the following conditions are used:"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.28046200000006,
+            "t": 267.92648700000007,
+            "r": 240.72012120000005,
+            "b": 255.9593318000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "C3: Uniform square-integrability :",
+      "text": "C3: Uniform square-integrability :",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 231.96033200000002,
+            "t": 254.17461580000008,
+            "r": 387.4801452000001,
+            "b": 216.28741950000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "lim c →∞ sup x ∈ E ∫ | v | >c vv ∗ G u,x ( dv ) = 0 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.2802860000001,
+            "t": 200.84634700000004,
+            "r": 395.7419064515843,
+            "b": 188.87919180000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "C4: Linear growth : there exists a positive constant L such that",
+      "text": "C4: Linear growth : there exists a positive constant L such that",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 175.55978600000017,
+            "t": 176.25748950000013,
+            "r": 443.99972520000017,
+            "b": 161.5189918000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "| a ( u ; x ) | ≤ L (1 + | u | ) , and | c ( u ; x ) | ≤ L (1 + | u | 2 ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 97.55986600000017,
+            "t": 155.65463580000005,
+            "r": 521.8580424024321,
+            "b": 116.03929180000011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "and for any real-valued non-negative function f ( v ) , v ∈ R d , such that ∫ R d \\{ 0 } (1 + f ( v )) | v | 2 dv < ∞ , we have",
+      "text": "and for any real-valued non-negative function f ( v ) , v ∈ R d , such that ∫ R d \\{ 0 } (1 + f ( v )) | v | 2 dv < ∞ , we have"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 241.91990600000008,
+            "t": 100.64624700000013,
+            "r": 377.51994520000005,
+            "b": 87.8873195000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "| G u,x ( v ) | ≤ Lf ( v )(1 + | u | ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 85.92008600000003,
+            "t": 40.16614700000014,
+            "r": 315.2398022548482,
+            "b": 28.198991800000044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "The main result of our work is the following.",
+      "text": "The main result of our work is the following."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.2801,
+            "t": 708.4464,
+            "r": 406.780073057792,
+            "b": 696.4912,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "THEOREM 1 Under conditions C1 -C4 the weak convergence",
+      "text": "THEOREM 1 Under conditions C1 -C4 the weak convergence",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 238.68009999999998,
+            "t": 685.1775025000001,
+            "r": 351.56632279999997,
+            "b": 671.2792448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "ξ ε ( t ) ⇒ ξ 0 ( t ) , ε → 0",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.28022999999996,
+            "t": 657.6160127999999,
+            "r": 126.70677747494395,
+            "b": 646.2232810495999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "takes place.",
+      "text": "takes place."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 85.92002999999997,
+            "t": 642.3376924999999,
+            "r": 514.7829709992704,
+            "b": 629.0390447999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "The limit process ξ 0 ( t ) , t ≥ 0 is a L´ evy process defined by the generator L as follows",
+      "text": "The limit process ξ 0 ( t ) , t ≥ 0 is a L´ evy process defined by the generator L as follows"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.28024999999985,
+            "t": 628.8147288,
+            "r": 489.48010919999984,
+            "b": 575.3976832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "L ϕ ( u ) = ( ̂ a ( u ) -̂ a 0 ( u )) ϕ ′ ( u ) + 1 2 σ 2 ( u ) ϕ ′′ ( u ) + λ ( u ) ∫ R d [ ϕ ( u + v ) -ϕ ( u )] G 0 u ( dv ) , (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 149.04006399999986,
+            "t": 575.2948287999999,
+            "r": 403.1154339999998,
+            "b": 538.1978431999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "∫ ∫ ∫",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.28024999999985,
+            "t": 583.8162728,
+            "r": 100.78680223807986,
+            "b": 572.4235410496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "where:",
+      "text": "where:"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.28062799999985,
+            "t": 559.04666,
+            "r": 531.8235279999998,
+            "b": 449.3273325,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            454
+          ]
+        }
+      ],
+      "orig": "̂ a ( u ) = q E ρ ( dx ) a ( u ; x ) , ̂ a 0 ( u ) = E vG u ( dv ) , G u ( dv ) = q E ρ ( dx ) G u,x ( dv ) , ̂ a 2 1 ( u ) = q ∫ E ρ ( dx ) a 2 1 ( u ; x ) , ˜ a 1 ( u ; x ) := q ( x ) ∫ E P ( x, dy ) a 1 ( u ; x ) , c 0 ( u ; x ) = ∫ E vv ∗ G u,x ( dv ) σ 2 ( u ) = 2 ∫ E π ( dx ) { ˜ a 1 ( u ; x ) ˜ R 0 ˜ a ∗ 1 ( u ; x ) + 1 2 [ c ( u ; x ) -c 0 ( u ; x )] } -̂ a 2 1 ( u ) , σ 2 ( u ) ≥ 0 λ ( u ) = G u ( R d ) , G 0 u ( dv ) = G u ( dv ) /λ ( u ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 85.91983000000016,
+            "t": 449.29464879999995,
+            "r": 393.46717071104035,
+            "b": 412.19766319999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "here ˜ R 0 is the potential operator of embedded Markov chain.",
+      "text": "here ˜ R 0 is the potential operator of embedded Markov chain."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.28085000000016,
+            "t": 420.56636000000003,
+            "r": 521.8179148588802,
+            "b": 391.6793048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "Remark 1. The limit L´ evy process consists of three parts: deterministic drift, diffusion part and Poisson part.",
+      "text": "Remark 1. The limit L´ evy process consists of three parts: deterministic drift, diffusion part and Poisson part."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 85.92065000000017,
+            "t": 386.60626,
+            "r": 241.08023002826266,
+            "b": 374.6391048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "There are some possible cases:",
+      "text": "There are some possible cases:"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.28085000000016,
+            "t": 363.97474879999993,
+            "r": 473.64056661445187,
+            "b": 326.87776319999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "1). If ̂ b ( u ) -̂ b 0 ( u ) = 0 then the limit process does not have deterministic drift.",
+      "text": "1). If ̂ b ( u ) -̂ b 0 ( u ) = 0 then the limit process does not have deterministic drift.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.28083800000017,
+            "t": 336.33775249999997,
+            "r": 521.8554928000001,
+            "b": 263.7579432,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "2). If σ 2 ( u ) = 0 then the limit process does not have diffusion part. As a variant of this case we note that if c ( u ; x ) = c 0 ( u ; x ) then also b 1 ( u ; x ) = 0 and we obtain the conditions of Poisson approximation after re-normation ε 2 = ˜ ε (see, for example Chapter 7 in [5]).",
+      "text": "2). If σ 2 ( u ) = 0 then the limit process does not have diffusion part. As a variant of this case we note that if c ( u ; x ) = c 0 ( u ; x ) then also b 1 ( u ; x ) = 0 and we obtain the conditions of Poisson approximation after re-normation ε 2 = ˜ ε (see, for example Chapter 7 in [5]).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.28089800000026,
+            "t": 258.32665999999995,
+            "r": 521.8641388365318,
+            "b": 178.31940480000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            407
+          ]
+        }
+      ],
+      "orig": "Remark 2. In the work [5] (Theorem 9.3) an analogical result was obtained for impulsive process with Markov switching. If we study an ordinary impulsive process without switching, we should obtain σ 2 = E ( α ε k ) 2 -( E ( α ε k )) 2 = ( c -c 0 ) -a 2 1 . This result correlates with the similar results from [4]. In case of our Theorem this may be easily shown, but in [5] (Theorem 9.3) it is not obvious.",
+      "text": "Remark 2. In the work [5] (Theorem 9.3) an analogical result was obtained for impulsive process with Markov switching. If we study an ordinary impulsive process without switching, we should obtain σ 2 = E ( α ε k ) 2 -( E ( α ε k )) 2 = ( c -c 0 ) -a 2 1 . This result correlates with the similar results from [4]. In case of our Theorem this may be easily shown, but in [5] (Theorem 9.3) it is not obvious."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.27971800000029,
+            "t": 176.17502879999995,
+            "r": 521.7723153989892,
+            "b": 127.3195048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "The difference is that we used ˜ R 0 - the potential operator of embedded Markov chain instead of R 0 - the potential operator of Markov process. Due to this, our result obviously correlates with other well-known result.",
+      "text": "The difference is that we used ˜ R 0 - the potential operator of embedded Markov chain instead of R 0 - the potential operator of Markov process. Due to this, our result obviously correlates with other well-known result."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.27961800000026,
+            "t": 122.24685999999997,
+            "r": 521.8792026443522,
+            "b": 58.48803249999992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            287
+          ]
+        }
+      ],
+      "orig": "Remark 3. Asymptotic of the second moment in the condition L1 contains second modified characteristics c ( u ; x ) (see correlation 4.2 at page 555 in [4]). This characteristics in limit contains both second moment of Poisson part and dispersion of diffusion part, namely c = c 0 + σ 2 .",
+      "text": "Remark 3. Asymptotic of the second moment in the condition L1 contains second modified characteristics c ( u ; x ) (see correlation 4.2 at page 555 in [4]). This characteristics in limit contains both second moment of Poisson part and dispersion of diffusion part, namely c = c 0 + σ 2 ."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.2801,
+            "t": 711.53078,
+            "r": 264.67509441076004,
+            "b": 695.4470056266667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "3 Proof of Theorem 1",
+      "text": "3 Proof of Theorem 1",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.2801,
+            "t": 679.6464000000001,
+            "r": 521.560237822669,
+            "b": 650.6390448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "The proof of Theorem 1 is based on the semimartingale representation of the impulsive process (3).",
+      "text": "The proof of Theorem 1 is based on the semimartingale representation of the impulsive process (3)."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.91990000000001,
+            "t": 645.6863000000001,
+            "r": 389.2794018023428,
+            "b": 633.7191448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "We split the proof of Theorem 1 in the following two steps.",
+      "text": "We split the proof of Theorem 1 in the following two steps."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.27973999999995,
+            "t": 628.6465000000001,
+            "r": 521.8463171151361,
+            "b": 565.6794448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            330
+          ]
+        }
+      ],
+      "orig": "Step 1 . In this step we establish the relative compactness of the family of processes ξ ε ( t ) , t ≥ 0 , ε > 0 by using the approach developed in [6]. Let us remind that the space of all probability measures defined on the standard space ( E, E ) is also a Polish space; so the relative compactness and tightness are equivalent.",
+      "text": "Step 1 . In this step we establish the relative compactness of the family of processes ξ ε ( t ) , t ≥ 0 , ε > 0 by using the approach developed in [6]. Let us remind that the space of all probability measures defined on the standard space ( E, E ) is also a Polish space; so the relative compactness and tightness are equivalent."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.91953999999996,
+            "t": 560.6068,
+            "r": 265.5592527834114,
+            "b": 548.6396448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "First we need the following lemma.",
+      "text": "First we need the following lemma."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.27932000000004,
+            "t": 532.5267,
+            "r": 521.977950491648,
+            "b": 503.53129999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "LEMMA 1 Under assumption C4 there exists a constant k > 0 , independent of ε and dependent on T , such that",
+      "text": "LEMMA 1 Under assumption C4 there exists a constant k > 0 , independent of ε and dependent on T , such that"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 246.59924000000007,
+            "t": 500.3778024999999,
+            "r": 343.6789332000002,
+            "b": 477.76785249999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "E sup t ≤ T | ξ ε ( t ) | 2 ≤ k T .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.27887400000014,
+            "t": 465.37611279999993,
+            "r": 521.9749788348165,
+            "b": 436.9435810495999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "COROLLARY 1 Under assumption C4 , the following compact containment condition (CCC) holds:",
+      "text": "COROLLARY 1 Under assumption C4 , the following compact containment condition (CCC) holds:"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 215.27910400000013,
+            "t": 433.7779024999999,
+            "r": 374.8794712000001,
+            "b": 411.0480325,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "lim c →∞ sup ε ≤ ε 0 P { sup t ≤ T | ξ ε ( t ) | > c } = 0 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.27861200000012,
+            "t": 399.0866,
+            "r": 435.23771900764206,
+            "b": 387.11944479999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Proof : The proof of this corollary follows from Kolmogorov's inequality.",
+      "text": "Proof : The proof of this corollary follows from Kolmogorov's inequality."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.27875200000011,
+            "t": 175.04676999999992,
+            "r": 98.07933116613131,
+            "b": 163.07961479999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 512.9984120000001,
+            "t": 372.02044479999995,
+            "r": 521.9289464000001,
+            "b": 364.56039999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "✷",
+      "text": "✷"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.27841200000012,
+            "t": 319.6467,
+            "r": 521.6948332942854,
+            "b": 290.63974479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Proof of Lemma 1 : (following [6]). The impulsive process (3) has the following semimartingale representation",
+      "text": "Proof of Lemma 1 : (following [6]). The impulsive process (3) has the following semimartingale representation"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.27823200000006,
+            "t": 277.17780249999987,
+            "r": 339.47809120000005,
+            "b": 261.40769249999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "ξ ε ( t ) = u + B ε t + M ε t , (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.27823200000006,
+            "t": 249.3380024999999,
+            "r": 274.42125905344017,
+            "b": 234.04797250000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "where u = ξ ε 0 ; B ε t is the predictable drift",
+      "text": "where u = ξ ε 0 ; B ε t is the predictable drift"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 169.19814200000002,
+            "t": 223.6952807,
+            "r": 420.9586112000001,
+            "b": 184.19795320000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "B ε t = ν ( t/ε 2 ) ∑ k =1 a ε ( ξ ε k -1 , x ε k -1 ) = A ε 1 ( t ) + A ε ( t ) + θ ε a ( t ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 140.2787520000001,
+            "t": 164.05549069999995,
+            "r": 449.99882920000005,
+            "b": 124.43818319999991,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "A ε 1 ( t ) := ε ν ( t/ε 2 ) ∑ k =1 a 1 ( ξ ε k -1 , x ε k -1 ) , A ε ( t ) := ε 2 ν ( t/ε 2 ) ∑ k =1 a ( ξ ε k -1 , x ε k -1 ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 68.27910999999995,
+            "t": 108.73529880000001,
+            "r": 239.314242,
+            "b": 71.63831319999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "∫ (8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 146.27897000000002,
+            "t": 106.2157307,
+            "r": 424.07934719999986,
+            "b": 23.63867319999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "〈 M ε 〉 t = ε 2 ν ( t/ε 2 ) ∑ k =1 R d \\{ 0 } vv ∗ G ( ξ ε k -1 , dv ; x ε k -1 ) + θ ε c ( t ) = ε 2 ν ( t/ε 2 ) ∑ k =1 c ( ξ ε k -1 ; x ε k -1 ) + θ ε c ( t ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.2801,
+            "t": 708.4464,
+            "r": 199.8863928,
+            "b": 696.4792448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "and for every finite T > 0",
+      "text": "and for every finite T > 0"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 234.36025999999998,
+            "t": 693.4576025000001,
+            "r": 355.9204132,
+            "b": 670.7273425,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "sup 0 ≤ t ≤ T | θ ε · ( t ) |→ 0 , ε → 0 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 85.91955399999995,
+            "t": 664.0576025000001,
+            "r": 425.75932427568665,
+            "b": 650.7593448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "To verify compactness of the process ξ ε ( t ) we split it at two parts.",
+      "text": "To verify compactness of the process ξ ε ( t ) we split it at two parts."
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 85.91979399999994,
+            "t": 645.6863000000001,
+            "r": 208.87527559999992,
+            "b": 633.7191448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "The first part of order ε",
+      "text": "The first part of order ε"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 219.72009399999993,
+            "t": 620.4149607000002,
+            "r": 370.56045919999985,
+            "b": 580.9176232000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "A ε 1 ( t ) = ε ν ( t/ε 2 ) ∑ k =1 a 1 ( ξ ε k -1 ; x ε k -1 ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.28059999999982,
+            "t": 570.2066400000004,
+            "r": 330.58392495610894,
+            "b": 558.2394848000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "can be characterized by the compensating operator",
+      "text": "can be characterized by the compensating operator"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 191.40059999999983,
+            "t": 543.2178525000004,
+            "r": 398.88113919999984,
+            "b": 527.3274325000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "L ε ϕ ( u ; x ) = ε -2 q ( x )[ A ε 1 ( x ) P -I ] ϕ ( u ; x ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.28027999999983,
+            "t": 513.5776425000005,
+            "r": 521.8151016952576,
+            "b": 483.2395848000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "where A ε 1 ( x ) ϕ ( u ) = ϕ ( u + εa 1 ( u ; x )) = εa 1 ( u ; x ) ϕ ′ ( u ) + εθ ε ϕ ( u ) . After simple calculations we may rewrite the operator:",
+      "text": "where A ε 1 ( x ) ϕ ( u ) = ϕ ( u + εa 1 ( u ; x )) = εa 1 ( u ; x ) ϕ ′ ( u ) + εθ ε ϕ ( u ) . After simple calculations we may rewrite the operator:"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 218.0408499999998,
+            "t": 468.21793250000036,
+            "r": 372.1210591999999,
+            "b": 453.5275125000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "L ε = ε -2 Q + ε -1 A 1 ( x ) P + θ ε ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.28119999999984,
+            "t": 438.6976425000004,
+            "r": 237.12111919999984,
+            "b": 424.6076125000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "here A 1 ( x ) ϕ ( u ) = εa 1 ( u ; x ) ϕ ′ ( u ) .",
+      "text": "here A 1 ( x ) ϕ ( u ) = εa 1 ( u ; x ) ϕ ′ ( u ) ."
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 85.92125999999982,
+            "t": 420.3267400000004,
+            "r": 385.7678198796035,
+            "b": 408.3595848000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Corresponding martingale characterization is the following",
+      "text": "Corresponding martingale characterization is the following"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 135.48145999999983,
+            "t": 397.4176225000004,
+            "r": 454.6815251999997,
+            "b": 359.6377272000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "µ ε n +1 = ϕ ( A ε 1 ,n +1 , x ε n +1 ) -ϕ ( A ε 1 , 0 , x ε 0 ) -ν n ∑ m =0 θ ε m +1 L ε ϕ ( A ε 1 ,m , x ε m ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 85.92166599999973,
+            "t": 348.56664400000045,
+            "r": 486.1451461297918,
+            "b": 336.5994888000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Using the results from [5], Section 1 we obtain the last martingale in the form",
+      "text": "Using the results from [5], Section 1 we obtain the last martingale in the form"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 146.52158799999972,
+            "t": 330.85501280000045,
+            "r": 443.7617860750589,
+            "b": 277.4381272000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "˜ µ ε t = ϕ ε ( A ε 1 ( t ) , x ε t ) + ϕ ε ( A ε 1 (0) , x ε 0 ) -∫ t 0 L ε ϕ ε ( A ε 1 ( s ) , x ε s ) ds,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.28191799999968,
+            "t": 282.8176465000004,
+            "r": 171.48187719999967,
+            "b": 267.52722650000044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "where x ε t := x ( t/ε 2 ) .",
+      "text": "where x ε t := x ( t/ε 2 ) ."
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 85.92171799999966,
+            "t": 264.44633400000043,
+            "r": 464.80200209548775,
+            "b": 252.47917880000045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "Thus (see, for example Theorem 1.2 in [5]), it has quadratic characteristic",
+      "text": "Thus (see, for example Theorem 1.2 in [5]), it has quadratic characteristic"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 118.80171799999965,
+            "t": 246.61440280000045,
+            "r": 471.4816480750589,
+            "b": 193.31741720000048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "< ˜ µ ε > t = ∫ t 0 [ L ε ( ϕ ε ( A ε 1 ( s ) , x ε t )) 2 -2 ϕ ε ( A ε 1 ( s ) , x ε s ) L ε ϕ ε ( A ε 1 ( s ) , x ε s ) ] ds.",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.28234999999967,
+            "t": 198.57741650000048,
+            "r": 521.8027363910396,
+            "b": 168.23935880000045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "Applying the operator L ε = ε -2 Q + ε -1 A 1 ( x ) P + θ ε to test-function ϕ ε = ϕ + εϕ 1 we obtain the integrand of the view",
+      "text": "Applying the operator L ε = ε -2 Q + ε -1 A 1 ( x ) P + θ ε to test-function ϕ ε = ϕ + εϕ 1 we obtain the integrand of the view"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 237.00234999999967,
+            "t": 153.21770650000053,
+            "r": 353.1621091999997,
+            "b": 137.32728650000047,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Qϕ 2 1 -2 ϕ 1 Qϕ 1 + θ ε ϕ ε .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.28306199999963,
+            "t": 122.24641400000041,
+            "r": 521.9396200162558,
+            "b": 59.27974880000045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            312
+          ]
+        }
+      ],
+      "orig": "Thus the integrand is limited. The boundedness of the quadratic characteristic provides ˜ µ ε t is compact. Thus, ϕ ( A ε 1 ( t )) is compact too and bounded uniformly by ε . By the results from [2] we obtain compactness of A ε 1 ( t ), because the test-function ϕ ( u ) belongs to the measure-determining class.",
+      "text": "Thus the integrand is limited. The boundedness of the quadratic characteristic provides ˜ µ ε t is compact. Thus, ϕ ( A ε 1 ( t )) is compact too and bounded uniformly by ε . By the results from [2] we obtain compactness of A ε 1 ( t ), because the test-function ϕ ( u ) belongs to the measure-determining class."
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 85.92334199999962,
+            "t": 55.658106500000486,
+            "r": 339.8432011999996,
+            "b": 42.359848800000464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Now we should study the second part of order ε 2 .",
+      "text": "Now we should study the second part of order ε 2 ."
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 68.28027000000003,
+            "t": 709.8974225000001,
+            "r": 521.8006541297922,
+            "b": 674.9991448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "For a process y ( t ) , t ≥ 0, let us define the process y † ( t ) = sup s ≤ t | y ( s ) | , then from (7) we have",
+      "text": "For a process y ( t ) , t ≥ 0, let us define the process y † ( t ) = sup s ≤ t | y ( s ) | , then from (7) we have"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 68.28001,
+            "t": 660.5775025000002,
+            "r": 395.2798692,
+            "b": 644.6874725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "(( ξ ε ( t )) † ) 2 ≤ 4[ u 2 +(( A ε ( t )) † ) 2 +(( M ε t ) † ) 2 ] . (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 85.92021,
+            "t": 630.2062000000001,
+            "r": 369.4083040205316,
+            "b": 618.2390448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Now we may apply the result of Section 2.3 [5], namely",
+      "text": "Now we may apply the result of Section 2.3 [5], namely"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 186.11992999999998,
+            "t": 607.9345088000001,
+            "r": 404.16025320000006,
+            "b": 565.9175232000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "ν ( t ) ∑ k =1 a ( ξ ε k -1 , x ε k -1 ) = ∫ t 0 a ( ξ ε ( s ) , x ε ( s )) dν ( s ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 85.92039400000004,
+            "t": 555.8062200000003,
+            "r": 336.5558756000001,
+            "b": 543.8390648000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Condition C4 implies that for sufficiently large ε",
+      "text": "Condition C4 implies that for sufficiently large ε"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 68.2804740000002,
+            "t": 537.4942088000003,
+            "r": 480.5834500000002,
+            "b": 499.48701250000045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "( A ε ( t )) † = ε 2 ∫ t/ε 2 0 a ( ξ ε ( s ) , x ε ( s )) dν ( s ) ≤ Lε 2 ∫ t/ε 2 0 (1 + ( ξ ε ( s )) † ) dν ( s ) (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 85.9202740000002,
+            "t": 489.08574000000044,
+            "r": 377.8786423319047,
+            "b": 477.1185848000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Now, by Doob's inequality (see, e.g., [7, Theorem 1.9.2]),",
+      "text": "Now, by Doob's inequality (see, e.g., [7, Theorem 1.9.2]),"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 231.4802740000002,
+            "t": 462.6969425000004,
+            "r": 358.8002532000002,
+            "b": 446.8069125000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "E (( M ε t ) † ) 2 ≤ 4 | E 〈 M ε 〉 t | ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 68.28039400000023,
+            "t": 432.32604000000043,
+            "r": 231.4917301613827,
+            "b": 420.3588848000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "(8) and condition C4 we obtain",
+      "text": "(8) and condition C4 we obtain"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 70.32039400000023,
+            "t": 416.89410880000037,
+            "r": 508.32052320000065,
+            "b": 335.5671025000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "|〈 M ε 〉 t | = ∣ ∣ ∣ ∣ ∣ ε 2 ∫ t/ε 2 0 ∫ R d \\{ 0 } vv ∗ G ( ξ ε ( s ) , dv ; x ε s ) dν ( s ) ∣ ∣ ∣ ∣ ∣ = ∣ ∣ ∣ ∣ ∣ ε 2 ∫ t/ε 2 0 c ( ξ ε ( s ); x ε ( s )) dν ( s ) ∣ ∣ ∣ ∣ ∣ ≤ Lε 2 ∫ t/ε 2 0 [1 + (( ξ ε ( s )) † ) 2 ] dν ( s ) . (11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 68.28031400000054,
+            "t": 332.2940988000003,
+            "r": 570.2895044000006,
+            "b": 278.15729320000037,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "Inequalities (9)-(11), condition (4) and Cauchy-Bunyakovsky-Schwarz inequality, ([ ∫ t 0 ϕ ( s ) ds ] 2 ≤ t ∫ t 0 ϕ 2 ( s ) ds ), imply",
+      "text": "Inequalities (9)-(11), condition (4) and Cauchy-Bunyakovsky-Schwarz inequality, ([ ∫ t 0 ϕ ( s ) ds ] 2 ≤ t ∫ t 0 ϕ 2 ( s ) ds ), imply"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 77.64001400000052,
+            "t": 285.6139788000003,
+            "r": 512.6184512000004,
+            "b": 206.44697250000036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "E (( ξ ε ( t )) † ) 2 ≤ k 1 + k 2 ε 2 ∫ t/ε 2 0 E [(( ξ ε ( s )) † ) 2 dν ( s )] ≤ k 1 + k 2 l 1 ε 2 ∫ t/ε 2 0 E (( ξ ε ( s )) † ) 2 ds = k 1 + k 2 l 1 ∫ t 0 E (( ξ ε ( s )) † ) 2 ds,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 68.2804140000004,
+            "t": 201.8059000000003,
+            "r": 370.91914320000046,
+            "b": 189.04697250000038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "where k 1 , k 2 and l 1 are positive constants independent of ε .",
+      "text": "where k 1 , k 2 and l 1 are positive constants independent of ε ."
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 85.92028400000044,
+            "t": 184.8856000000003,
+            "r": 373.6900839320327,
+            "b": 172.91844480000032,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "By Gronwall inequality (see, e.g., [2, p. 498]), we obtain",
+      "text": "By Gronwall inequality (see, e.g., [2, p. 498]), we obtain"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 224.28028400000045,
+            "t": 158.37690250000037,
+            "r": 365.88027320000043,
+            "b": 143.6868725000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "E (( ξ ε ( t )) † ) 2 ≤ k 1 exp( k 2 l 1 t ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 85.92041400000039,
+            "t": 129.33710250000036,
+            "r": 367.64720859281977,
+            "b": 116.03884480000033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Thus, both parts of ξ ε ( t ) are compact and bounded, so",
+      "text": "Thus, both parts of ξ ε ( t ) are compact and bounded, so"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 246.6004540000004,
+            "t": 101.61719250000033,
+            "r": 343.68014720000053,
+            "b": 78.8869325000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "E sup t ≤ T | ξ ε ( t ) | 2 ≤ k T .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 85.92028800000051,
+            "t": 66.68570000000034,
+            "r": 227.52091504524864,
+            "b": 54.71854480000036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Hence the lemma is proved.",
+      "text": "Hence the lemma is proved."
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 513.0002880000005,
+            "t": 38.6594448000003,
+            "r": 521.9308224000006,
+            "b": 31.19940000000031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "✷",
+      "text": "✷"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 68.2801,
+            "t": 708.4464,
+            "r": 521.858011321856,
+            "b": 679.7033810496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "LEMMA 2 Under assumption C4 there exists a constant k > 0 , independent of ε such that",
+      "text": "LEMMA 2 Under assumption C4 there exists a constant k > 0 , independent of ε such that"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 225.2404,
+            "t": 676.4174025000001,
+            "r": 364.92051920000006,
+            "b": 662.5191448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "E | ξ ε ( t ) -ξ ε ( s ) | 2 ≤ k | t -s | .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 68.28066000000007,
+            "t": 644.8465,
+            "r": 327.7610613937924,
+            "b": 632.8793448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Proof : In the same manner with (9), we may write",
+      "text": "Proof : In the same manner with (9), we may write"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 178.56066000000007,
+            "t": 618.0975025000005,
+            "r": 411.7205492000001,
+            "b": 602.3273925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "| ξ ε ( t ) -ξ ε ( s ) | 2 ≤ 2 | B ε t -B ε s | 2 +2 | M ε t -M ε s | 2 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 68.2806900000001,
+            "t": 587.4863000000004,
+            "r": 262.9313759333635,
+            "b": 575.5191448000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "By using Doob's inequality, we obtain",
+      "text": "By using Doob's inequality, we obtain"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 151.8005900000001,
+            "t": 560.8576225000004,
+            "r": 438.4808292,
+            "b": 544.9675925000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "E | ξ ε ( t ) -ξ ε ( s ) | 2 ≤ 2 E {| B ε t -B ε s | 2 +8 |〈 M ε 〉 t -〈 M ε 〉 s |} .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 85.92097000000001,
+            "t": 530.2464000000003,
+            "r": 364.12962567923205,
+            "b": 518.2792448000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Now (11) and condition (4) and assumption C4 imply",
+      "text": "Now (11) and condition (4) and assumption C4 imply"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 144.84097000000003,
+            "t": 503.4974025000003,
+            "r": 445.44102919999995,
+            "b": 487.60737250000034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "| B ε t -B ε s | 2 +8 |〈 M ε 〉 t -〈 M ε 〉 s | ≤ k 3 [1 + (( ξ ε ( T )) † ) 2 ] | t -s | ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 68.28116999999992,
+            "t": 472.8862000000004,
+            "r": 317.39989919999994,
+            "b": 460.12727250000034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "where k 3 is a positive constant independent of ε .",
+      "text": "where k 3 is a positive constant independent of ε ."
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 85.92103999999992,
+            "t": 455.84640000000036,
+            "r": 463.32089919999993,
+            "b": 443.8792448000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "From the last inequality and Lemma 1 the desired conclusion is obtained.",
+      "text": "From the last inequality and Lemma 1 the desired conclusion is obtained."
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 513.00114,
+            "t": 427.57984480000033,
+            "r": 521.9316744,
+            "b": 420.11980000000034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "✷",
+      "text": "✷"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 68.28114,
+            "t": 402.4464000000004,
+            "r": 521.8640206254079,
+            "b": 373.4390448000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "The conditions proved in Corollary 2 and Lemma 2 are necessary and sufficient for the compactness of the family of processes ξ ε ( t ) , t ≥ 0 , ε > 0.",
+      "text": "The conditions proved in Corollary 2 and Lemma 2 are necessary and sufficient for the compactness of the family of processes ξ ε ( t ) , t ≥ 0 , ε > 0."
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 68.28144000000003,
+            "t": 340.04640000000035,
+            "r": 521.8934521383683,
+            "b": 260.0395448000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            425
+          ]
+        }
+      ],
+      "orig": "Step 2 . At the next step of proof we apply the problem of singular perturbation to the generator of the process ξ ε ( t ) . To do this, we mention the following theorem. C 2 0 ( R d × E ) is the space of real-valued twice continuously differentiable functions on the first argument, defined on R d × E and vanishing at infinity, and C ( R d × E ) is the space of real-valued continuous bounded functions defined on R d × E .",
+      "text": "Step 2 . At the next step of proof we apply the problem of singular perturbation to the generator of the process ξ ε ( t ) . To do this, we mention the following theorem. C 2 0 ( R d × E ) is the space of real-valued twice continuously differentiable functions on the first argument, defined on R d × E and vanishing at infinity, and C ( R d × E ) is the space of real-valued continuous bounded functions defined on R d × E ."
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 68.28251600000007,
+            "t": 241.93611280000027,
+            "r": 521.8694419666945,
+            "b": 213.47944480000035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "THEOREM 2 ([5, Theorem 6.3]) Let the following conditions hold for a family of Markov processes ξ ε ( t ) , t ≥ 0 , ε > 0 :",
+      "text": "THEOREM 2 ([5, Theorem 6.3]) Let the following conditions hold for a family of Markov processes ξ ε ( t ) , t ≥ 0 , ε > 0 :"
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 68.28258599999998,
+            "t": 200.01789250000036,
+            "r": 475.6081492474881,
+            "b": 184.72747250000032,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "CD1: There exists a family of test functions ϕ ε ( u, x ) in C 2 0 ( R d × E ) , such that",
+      "text": "CD1: There exists a family of test functions ϕ ε ( u, x ) in C 2 0 ( R d × E ) , such that"
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 259.322578,
+            "t": 171.93780250000032,
+            "r": 360.2429372,
+            "b": 151.84777250000036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "lim ε → 0 ϕ ε ( u, x ) = ϕ ( u ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 97.56307799999996,
+            "t": 141.32660000000033,
+            "r": 189.48293700134403,
+            "b": 129.37140000000034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "uniformly on u, x.",
+      "text": "uniformly on u, x."
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 68.28297799999997,
+            "t": 114.01611280000031,
+            "r": 268.06584159833596,
+            "b": 102.62338104960031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "CD2: The following convergence holds",
+      "text": "CD2: The following convergence holds"
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 249.12325599999997,
+            "t": 87.69750250000027,
+            "r": 370.4436052,
+            "b": 67.72739250000029,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "lim ε → 0 L ε ϕ ε ( u, x ) = L ϕ ( u ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 97.56315599999994,
+            "t": 58.53771250000034,
+            "r": 521.9810367111681,
+            "b": 28.199244800000315,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "uniformly on u, x . The family of functions L ε ϕ ε , ε > 0 is uniformly bounded, and L ϕ ( u ) and L ε ϕ ε belong to C ( R d × E ) .",
+      "text": "uniformly on u, x . The family of functions L ε ϕ ε , ε > 0 is uniformly bounded, and L ϕ ( u ) and L ε ϕ ε belong to C ( R d × E ) ."
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 68.2801,
+            "t": 708.0160128,
+            "r": 521.9802641319678,
+            "b": 662.5191348000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "CD3: The quadratic characteristics of the martingales that characterize a coupled Markov process ξ ε ( t ) , x ε ( t ) , t ≥ 0 , ε > 0 have the representation 〈 µ ε 〉 t = ∫ t 0 ζ ε ( s ) ds, where the random functions ζ ε , ε > 0 , satisfy the condition",
+      "text": "CD3: The quadratic characteristics of the martingales that characterize a coupled Markov process ξ ε ( t ) , x ε ( t ) , t ≥ 0 , ε > 0 have the representation 〈 µ ε 〉 t = ∫ t 0 ζ ε ( s ) ds, where the random functions ζ ε , ε > 0 , satisfy the condition"
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 244.20037,
+            "t": 647.4974925000001,
+            "r": 375.24067919999993,
+            "b": 624.7676225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "sup 0 ≤ s ≤ T E | ζ ε ( s ) | ≤ c < + ∞ .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 68.28081999999989,
+            "t": 606.4962028,
+            "r": 343.6590985753601,
+            "b": 595.1034710496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "CD4: The convergence of the initial values holds and",
+      "text": "CD4: The convergence of the initial values holds and"
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 246.84101999999987,
+            "t": 579.9377925000001,
+            "r": 372.60127919999985,
+            "b": 557.5676824999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "sup ε> 0 E | ζ ε (0) | ≤ C < + ∞ .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 239.40141999999983,
+            "t": 513.5776925,
+            "r": 350.88229919999986,
+            "b": 499.6794348,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "ξ ε ( t ) ⇒ ξ ( t ) , ε → 0 ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 85.92141999999984,
+            "t": 540.1361028,
+            "r": 224.0215444602879,
+            "b": 528.7433710496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Then the weak convergence",
+      "text": "Then the weak convergence"
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 68.28143999999986,
+            "t": 482.1764028,
+            "r": 126.70798747494385,
+            "b": 470.7836710496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "takes place.",
+      "text": "takes place."
+    },
+    {
+      "self_ref": "#/texts/174",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 85.92123999999987,
+            "t": 452.7266900000001,
+            "r": 363.6567179968259,
+            "b": 440.75953480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "We consider the the extended Markov renewal process",
+      "text": "We consider the the extended Markov renewal process"
+    },
+    {
+      "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 68.28140999999991,
+            "t": 425.7379025,
+            "r": 325.9212691999999,
+            "b": 409.84787250000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "ξ ε n , x ε n , τ ε n , n ≥ 0 , (12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/176",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 68.28140999999991,
+            "t": 396.09769250000005,
+            "r": 478.21322965140473,
+            "b": 380.80766250000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "where x ε n = x ε ( τ ε n ) , x ε ( t ) := x ( t/ε 2 ) , ξ ε n = ξ ε ( τ ε n ) and τ ε n +1 = τ ε n + ε 2 θ ε n , n ≥ 0 , and",
+      "text": "where x ε n = x ε ( τ ε n ) , x ε ( t ) := x ( t/ε 2 ) , ξ ε n = ξ ε ( τ ε n ) and τ ε n +1 = τ ε n + ε 2 θ ε n , n ≥ 0 , and"
+    },
+    {
+      "self_ref": "#/texts/177",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 190.92152399999986,
+            "t": 367.77779250000003,
+            "r": 399.2415071999999,
+            "b": 351.88776250000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "P ( θ ε n +1 ≤ t | x ε n = x ) = F x ( t ) = P ( θ x ≤ t ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/178",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 68.28148799999985,
+            "t": 337.17779250000007,
+            "r": 521.86386364608,
+            "b": 306.9837710496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "DEFINITION 1 [9] The compensating operator L ε of the Markov renewal process (12) is defined by the following relation",
+      "text": "DEFINITION 1 [9] The compensating operator L ε of the Markov renewal process (12) is defined by the following relation"
+    },
+    {
+      "self_ref": "#/texts/179",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 155.16158799999985,
+            "t": 291.8180825,
+            "r": 435.00151719999985,
+            "b": 275.9276625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "L ε ϕ ( ξ ε 0 , x 0 , τ 0 ) = q ( x 0 ) E [ ϕ ( ξ ε 1 , x 1 , τ 1 ) -ϕ ( ξ ε 0 , x 0 , τ 0 ) |F 0 ] ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/180",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 68.28165799999982,
+            "t": 260.53630280000004,
+            "r": 97.18147810956782,
+            "b": 249.14357104960004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/181",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 200.28165799999982,
+            "t": 245.85799250000002,
+            "r": 389.8816671999999,
+            "b": 231.16796250000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "F t := σ ( ξ ε ( s ) , x ε ( s ) , τ ε ( s ); 0 ≤ s ≤ t ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/182",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 68.2818079999999,
+            "t": 213.92689000000007,
+            "r": 521.7733200478721,
+            "b": 167.99963480000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "Using Lemma 9.1 from [5] we obtain that the compensating operator of the extended Markov renewal process from Definition 1 can be defined by the relation (see also Section 2.8 in [5])",
+      "text": "Using Lemma 9.1 from [5] we obtain that the compensating operator of the extended Markov renewal process from Definition 1 can be defined by the relation (see also Section 2.8 in [5])"
+    },
+    {
+      "self_ref": "#/texts/183",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 68.28278799999987,
+            "t": 163.45515880000005,
+            "r": 446.5217871999999,
+            "b": 110.39963480000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "L ε ϕ ( u, v ; x ) = ε -2 q ( x ) [∫ E P ( x, dy ) ∫ R d G ε u,x ( dz ) ϕ ( u + z, v ; y ) -(13) ϕ ( u, v ; x )] .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/184",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 85.92192799999987,
+            "t": 93.44688999999994,
+            "r": 429.84176147676186,
+            "b": 81.47973479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "By analogy with [5, Lemma 9.2] we may prove the following result:",
+      "text": "By analogy with [5, Lemma 9.2] we may prove the following result:"
+    },
+    {
+      "self_ref": "#/texts/185",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 68.27999999999997,
+            "t": 708.0160128,
+            "r": 521.885445702656,
+            "b": 679.7033810496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "LEMMA 3 The main part in the asymptotic representation of the compensating operator (13) is as follows",
+      "text": "LEMMA 3 The main part in the asymptotic representation of the compensating operator (13) is as follows"
+    },
+    {
+      "self_ref": "#/texts/186",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 69.71983999999998,
+            "t": 664.4174025000002,
+            "r": 520.6585042616321,
+            "b": 610.6792448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "L ε ϕ ( u, v, x ) = ε -2 Q ϕ ( · , · , x ) + ε -1 a 1 ( u ; x ) Q 0 ϕ ′ u ( u, · , · ) + [ a ( u ; x ) -a 0 ( u ; x )] Q 0 ϕ ′ u ( u, · , · )+ 1 2 [ c ( u ; x ) -c 0 ( u ; x )] Q 0 ϕ ′′ uu ( u, · , · ) + G u,x Q 0 ϕ ( u, · , · )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/187",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 68.28045999999989,
+            "t": 606.8558827999999,
+            "r": 100.7870122380799,
+            "b": 595.4631510495999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "where:",
+      "text": "where:"
+    },
+    {
+      "self_ref": "#/texts/188",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 102.9605599999999,
+            "t": 594.4946388,
+            "r": 487.2004691999998,
+            "b": 516.5273424999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "Q 0 ϕ ( x ) := q ( x ) ∫ E P ( x, dy ) ϕ ( y ) , G u,x ϕ ( u ) := ∫ R d [ ϕ ( u + z ) -ϕ ( u )] G u,x ( dz ) , a 0 ( u ; x ) = ∫ E vG u,x ( dv ) , c 0 ( u ; x ) = ∫ E vv ∗ G u,x ( dv ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/189",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 68.28083999999984,
+            "t": 504.5663699999997,
+            "r": 401.6403665296898,
+            "b": 492.5992147999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Proof of this Lemma is analogical to the proof of [5, Lemma 9.2].",
+      "text": "Proof of this Lemma is analogical to the proof of [5, Lemma 9.2]."
+    },
+    {
+      "self_ref": "#/texts/190",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 68.28069999999985,
+            "t": 488.9775724999997,
+            "r": 521.8587831999998,
+            "b": 457.8477424999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "The solution of the singular perturbation problem at the test functions ϕ ε ( u, x ) = ϕ ( u ) + εϕ 1 ( u, x ) + ε 2 ϕ 2 ( u, x ) in the form",
+      "text": "The solution of the singular perturbation problem at the test functions ϕ ε ( u, x ) = ϕ ( u ) + εϕ 1 ( u, x ) + ε 2 ϕ 2 ( u, x ) in the form"
+    },
+    {
+      "self_ref": "#/texts/191",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 68.28072999999995,
+            "t": 443.61786249999966,
+            "r": 329.26401319999997,
+            "b": 429.7192147999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "L ε ϕ ε = L ϕ + θ ε ϕ (14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/192",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 68.28072999999995,
+            "t": 412.6465699999997,
+            "r": 360.48065808540196,
+            "b": 400.6794147999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "can be found in the same manner with Lemma 9.3 in [5].",
+      "text": "can be found in the same manner with Lemma 9.3 in [5]."
+    },
+    {
+      "self_ref": "#/texts/193",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 68.28053,
+            "t": 395.72666999999973,
+            "r": 521.76041944256,
+            "b": 344.51775319999973,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "To simplify the formula, we refer to the embedded Markov chain. Corresponding generator ˜ Q := P -I, and the potential operator satisfies the correlation ˜ R 0 ( P -I ) = ˜ Π -I. From (14) we obtain",
+      "text": "To simplify the formula, we refer to the embedded Markov chain. Corresponding generator ˜ Q := P -I, and the potential operator satisfies the correlation ˜ R 0 ( P -I ) = ˜ Π -I. From (14) we obtain"
+    },
+    {
+      "self_ref": "#/texts/194",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 68.28171000000003,
+            "t": 274.16665999999975,
+            "r": 98.08228916613123,
+            "b": 262.19950479999966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/195",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 148.32100999999997,
+            "t": 347.6550387999997,
+            "r": 441.72155166246404,
+            "b": 263.5178431999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "˜ Q ϕ = 0 , ˜ Q ϕ 1 + A 1 ( x ) Pϕ = 0 , ˜ Q ϕ 2 + A 1 ( x ) Pϕ 1 +( A ( x ) + C ( x ) + G u,x ) Pϕ = m ( x ) L ϕ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/196",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 127.92151000000004,
+            "t": 259.1778624999997,
+            "r": 462.3617592,
+            "b": 210.71924480000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "A ( x ) ϕ ( u ) := [ a ( u ; x ) -a 0 ( u ; x )] ϕ ′ ( u ) , A 1 ( x ) ϕ ( u ) := a 1 ( u ; x ) ϕ ′ ( u ) , C ( x ) := 1 2 [ c ( u ; x ) -c 0 ( u ; x )] ϕ ′′ uu ( u ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/197",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 68.28063000000003,
+            "t": 206.53494879999994,
+            "r": 521.863263815962,
+            "b": 169.4379632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "From the second equation we obtain ϕ 1 = ˜ R 0 A 1 ( x ) ϕ, and substituting it into the last equation we have:",
+      "text": "From the second equation we obtain ϕ 1 = ˜ R 0 A 1 ( x ) ϕ, and substituting it into the last equation we have:"
+    },
+    {
+      "self_ref": "#/texts/198",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 133.08063,
+            "t": 160.57484880000004,
+            "r": 456.960751662464,
+            "b": 123.4778632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "˜ Q ϕ 2 + A 1 ( x ) P ˜ R 0 A 1 ( x ) ϕ +( A ( x ) + C ( x ) + G u,x ) ϕ = m ( x ) L ϕ.",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/199",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 68.28136999999987,
+            "t": 102.61474880000003,
+            "r": 442.6812291999999,
+            "b": 65.51776319999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "q -1 L = ˜ Π[( A ( x ) + C ( x ) + G u,x ) + A 1 ( x ) ˜ R 0 A 1 ( x ) -A 2 1 ( x )] ˜ Π . (15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/200",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 85.92090999999999,
+            "t": 131.65494880000006,
+            "r": 329.89220544286724,
+            "b": 94.55796320000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "As soon as P ˜ R 0 = ˜ R 0 + ˜ Π -I we finally obtain",
+      "text": "As soon as P ˜ R 0 = ˜ R 0 + ˜ Π -I we finally obtain"
+    },
+    {
+      "self_ref": "#/texts/201",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 85.92116999999988,
+            "t": 70.76657999999998,
+            "r": 297.72062853752334,
+            "b": 58.7994248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Simple calculations give us (6) from (15).",
+      "text": "Simple calculations give us (6) from (15)."
+    },
+    {
+      "self_ref": "#/texts/202",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 85.92116999999988,
+            "t": 53.72677999999996,
+            "r": 249.36101996346886,
+            "b": 41.75962479999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Now Theorem 2 can be applied.",
+      "text": "Now Theorem 2 can be applied."
+    },
+    {
+      "self_ref": "#/texts/203",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 68.2799,
+            "t": 708.4464,
+            "r": 521.8918233212929,
+            "b": 594.4794448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            601
+          ]
+        }
+      ],
+      "orig": "We see from (13) and (15) that the solution of singular perturbation problem for L ε ϕ ε ( u, v ; x ) satisfies the conditions CD1, CD2 . Condition CD3 of this theorem implies that the quadratic characteristics of the martingale, corresponding to a coupled Markov process, is relatively compact. The same result follows from the CCC (see Corollary 2 and Lemma 2) by [4]. Thus, the condition CD3 follows from the Corollary 2 and Lemma 2. Due to L1 the condition CD4 is also satisfied. Thus, all the conditions of above Theorem 2 are satisfied, so the weak convergence ξ ε ( t ) ⇒ ξ 0 ( t ) takes place.",
+      "text": "We see from (13) and (15) that the solution of singular perturbation problem for L ε ϕ ε ( u, v ; x ) satisfies the conditions CD1, CD2 . Condition CD3 of this theorem implies that the quadratic characteristics of the martingale, corresponding to a coupled Markov process, is relatively compact. The same result follows from the CCC (see Corollary 2 and Lemma 2) by [4]. Thus, the condition CD3 follows from the Corollary 2 and Lemma 2. Due to L1 the condition CD4 is also satisfied. Thus, all the conditions of above Theorem 2 are satisfied, so the weak convergence ξ ε ( t ) ⇒ ξ 0 ( t ) takes place."
+    },
+    {
+      "self_ref": "#/texts/204",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 85.92059000000003,
+            "t": 589.4064,
+            "r": 194.0408085614081,
+            "b": 577.4392448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Theorem 1 is proved.",
+      "text": "Theorem 1 is proved."
+    },
+    {
+      "self_ref": "#/texts/205",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 513.00059,
+            "t": 563.1801447999999,
+            "r": 521.9311244,
+            "b": 555.7200999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "✷",
+      "text": "✷"
+    },
+    {
+      "self_ref": "#/texts/206",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 68.28058999999999,
+            "t": 539.8466999999999,
+            "r": 521.8914413760515,
+            "b": 510.8397447999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "Acknowledgements. The authors thank University of Bielefeld for hospitality and financial support by DFG project 436 UKR 113/94/07-09.",
+      "text": "Acknowledgements. The authors thank University of Bielefeld for hospitality and financial support by DFG project 436 UKR 113/94/07-09."
+    },
+    {
+      "self_ref": "#/texts/207",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 68.2801,
+            "t": 464.57077999999996,
+            "r": 159.06632825426803,
+            "b": 448.48700562666664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/208",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 82.68010000000001,
+            "t": 432.5665,
+            "r": 521.8172644374533,
+            "b": 403.6794448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "1. Bertoin J. (1996). L´ evy processes. Cambridge Tracts in Mathematics, 121. Cambridge University Press, Cambridge.",
+      "text": "Bertoin J. (1996). L´ evy processes. Cambridge Tracts in Mathematics, 121. Cambridge University Press, Cambridge.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/209",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 82.68,
+            "t": 389.36650000000003,
+            "r": 521.9846273401345,
+            "b": 360.3595448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "2. Ethier S.N., Kurtz T.G. (1986). Markov Processes: Characterization and convergence , J. Wiley, New York.",
+      "text": "Ethier S.N., Kurtz T.G. (1986). Markov Processes: Characterization and convergence , J. Wiley, New York.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/210",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 82.67990000000003,
+            "t": 346.16650000000004,
+            "r": 521.9866073000709,
+            "b": 317.1595448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "3. Gihman, I.I., Skorohod, A.V. (1974). Theory of stochastic processes, vol. 1,2,3, Springer, Berlin.",
+      "text": "Gihman, I.I., Skorohod, A.V. (1974). Theory of stochastic processes, vol. 1,2,3, Springer, Berlin.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/211",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 82.67980000000003,
+            "t": 302.8466,
+            "r": 521.8169640892928,
+            "b": 273.8396448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "4. Jacod J., Shiryaev A.N. (1987). Limit Theorems for Stochastic Processes , SpringerVerlang, Berlin.",
+      "text": "Jacod J., Shiryaev A.N. (1987). Limit Theorems for Stochastic Processes , SpringerVerlang, Berlin.",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/212",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 82.6797,
+            "t": 259.64660000000003,
+            "r": 522.0005591999999,
+            "b": 230.63964480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "5. Koroliuk V.S., Limnios N. (2005). Stochastic Systems in Merging Phase Space , World Scientific Publishers, Singapore.",
+      "text": "Koroliuk V.S., Limnios N. (2005). Stochastic Systems in Merging Phase Space , World Scientific Publishers, Singapore.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/213",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 82.68059999999994,
+            "t": 216.32669999999996,
+            "r": 521.6401654921729,
+            "b": 187.31934479999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "6. Liptser R. Sh. (1994). The Bogolubov averaging principle for semimartingales, Proceedings of the Steklov Institute of Mathematics , Moscow, No 4, 12 pages.",
+      "text": "Liptser R. Sh. (1994). The Bogolubov averaging principle for semimartingales, Proceedings of the Steklov Institute of Mathematics , Moscow, No 4, 12 pages.",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/214",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 82.68059999999997,
+            "t": 173.12670000000003,
+            "r": 521.680874221568,
+            "b": 144.11934480000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "7. Liptser R. Sh., Shiryayev A. N. (1989). Theory of Martingales , Kluwer Academic Publishers, Dordrecht, The Netherlands.",
+      "text": "Liptser R. Sh., Shiryayev A. N. (1989). Theory of Martingales , Kluwer Academic Publishers, Dordrecht, The Netherlands.",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/215",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 82.68049999999997,
+            "t": 129.80680000000007,
+            "r": 521.8008283586049,
+            "b": 100.79944480000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "8. Sato K.-I. (1999). L´ evy processes and infinitely divisible distributions. Cambridge Studies in Advanced Mathematics, 68. Cambridge University Press, Cambridge.",
+      "text": "Sato K.-I. (1999). L´ evy processes and infinitely divisible distributions. Cambridge Studies in Advanced Mathematics, 68. Cambridge University Press, Cambridge.",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/216",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 82.6805,
+            "t": 86.60680000000002,
+            "r": 521.8789741716479,
+            "b": 40.5596448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "9. Sviridenko M.N. (1998). Martingale characterization of limit distributions in the space of functions without discontinuities of second kind, Math. Notes , 43, No 5, pp 398-402.",
+      "text": "Sviridenko M.N. (1998). Martingale characterization of limit distributions in the space of functions without discontinuities of second kind, Math. Notes , 43, No 5, pp 398-402.",
+      "enumerated": true,
+      "marker": "9."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 12
+    }
+  }
+}

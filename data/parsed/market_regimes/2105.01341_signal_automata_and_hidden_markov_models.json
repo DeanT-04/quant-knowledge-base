@@ -1,0 +1,3230 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2105.01341_signal_automata_and_hidden_markov_models",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12046468230743693768,
+    "filename": "2105.01341_signal_automata_and_hidden_markov_models.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/97"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/50"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 597.08,
+            "r": 36.206559297218156,
+            "b": 256.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "arXiv:2105.01341v1  [cs.FL]  4 May 2021",
+      "text": "arXiv:2105.01341v1  [cs.FL]  4 May 2021",
+      "hyperlink": "http://arxiv.org/abs/2105.01341v1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.0,
+            "t": 767.6631574,
+            "r": 481.299868454114,
+            "b": 749.0048296,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Signal automata and hidden Markov models",
+      "text": "Signal automata and hidden Markov models",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 251.4,
+            "t": 728.57965,
+            "r": 344.03022816916405,
+            "b": 714.2191038000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Teodor Knapik",
+      "text": "Teodor Knapik"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 167.5199,
+            "t": 698.93985,
+            "r": 427.928941790075,
+            "b": 684.5793038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "ISEA, Université de la Nouvelle Calédonie",
+      "text": "ISEA, Université de la Nouvelle Calédonie"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 260.0398,
+            "t": 658.85975,
+            "r": 335.49980059289993,
+            "b": 644.4992038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "May 5, 2021",
+      "text": "May 5, 2021"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 276.7199,
+            "t": 613.1146517999999,
+            "r": 318.652795925869,
+            "b": 603.3136358402857,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.91890000000001,
+            "t": 592.0712156000001,
+            "r": 509.2448509343561,
+            "b": 554.8930254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "A generic method for inferring a dynamical hidden Markov model from a time series is proposed. Under reasonable hypothesis, the model is updated in constant time whenever a new measurement arrives.",
+      "text": "A generic method for inferring a dynamical hidden Markov model from a time series is proposed. Under reasonable hypothesis, the model is updated in constant time whenever a new measurement arrives."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.6388,
+            "t": 527.0363492,
+            "r": 178.30027124899865,
+            "b": 511.5695911582857,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.6388,
+            "t": 495.3067,
+            "r": 538.6530459021568,
+            "b": 382.1794448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            742
+          ]
+        }
+      ],
+      "orig": "Many natural dynamical systems are poorly understood due to their overwhelming complexity. Their scale is often large and leaves almost no area for experimental study. Predicting how the current trajectory will evolve in the future is a challenging task, especially when no other trajectory is known. Indeed, as such systems cannot be reset to an initial state and restarted, at most one trajectory can be observed. Any ecosystem, the climate and, many social and geological phenomena evolving along their unique trajectory are typical examples where predictive modelling is highly nontrivial. Among many approaches for addressing this challenge, hidden Markov models (HMM) gained popularity in related research areas (see e.g. [3, 4, 5, 6]).",
+      "text": "Many natural dynamical systems are poorly understood due to their overwhelming complexity. Their scale is often large and leaves almost no area for experimental study. Predicting how the current trajectory will evolve in the future is a challenging task, especially when no other trajectory is known. Indeed, as such systems cannot be reset to an initial state and restarted, at most one trajectory can be observed. Any ecosystem, the climate and, many social and geological phenomena evolving along their unique trajectory are typical examples where predictive modelling is highly nontrivial. Among many approaches for addressing this challenge, hidden Markov models (HMM) gained popularity in related research areas (see e.g. [3, 4, 5, 6])."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.63979999999998,
+            "t": 377.3466,
+            "r": 538.6803812278785,
+            "b": 119.85964479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1650
+          ]
+        }
+      ],
+      "orig": "Introduced in [7, 8], hidden Markov models formalise, among others, the idea that a dynamical system evolves through its state space which is unknown to an observer or too difficult to characterise - only a few attributes are known and can be observed among a huge number of mostly unknown (hidden) attributes governing the dynamics of the system. A hidden Markov model (HMM) possesses a set of states and its evolution may be seen as sequence categorical distributions over that set while satisfying the Markov property, exactly like a Markov chain does. In addition, each state has its associated distribution over the set of possible observations. Thus, an HMM can be seen as a device which, evolving from its initial distribution over states, produces a sequence of distributions over observations. Estimating the accuracy of an HMM with respect to the dynamical system, the HMM is supposed to model, is easy: one uses the HMM to compute the probability of the observed sequence of measurements of the trajectory of the system. Producing an accurate HMM given a time series of observations of the system is much more challenging. The first, and until today, the most popular algorithm inferring an HMM from a time series is the Baum-Welch algorithm [9, 10]. Since the seminal tutorial of Rabiner [11], there has been a significant number of variations on the theme of the Baum-Welch algorithm. Among them, several successful proposals of its on-line extensions have been published: [12], [13] or [14], to mention at least a few. The present note breaks with that tradition by bringing a theoretical computer scientist's yet another point of view.",
+      "text": "Introduced in [7, 8], hidden Markov models formalise, among others, the idea that a dynamical system evolves through its state space which is unknown to an observer or too difficult to characterise - only a few attributes are known and can be observed among a huge number of mostly unknown (hidden) attributes governing the dynamics of the system. A hidden Markov model (HMM) possesses a set of states and its evolution may be seen as sequence categorical distributions over that set while satisfying the Markov property, exactly like a Markov chain does. In addition, each state has its associated distribution over the set of possible observations. Thus, an HMM can be seen as a device which, evolving from its initial distribution over states, produces a sequence of distributions over observations. Estimating the accuracy of an HMM with respect to the dynamical system, the HMM is supposed to model, is easy: one uses the HMM to compute the probability of the observed sequence of measurements of the trajectory of the system. Producing an accurate HMM given a time series of observations of the system is much more challenging. The first, and until today, the most popular algorithm inferring an HMM from a time series is the Baum-Welch algorithm [9, 10]. Since the seminal tutorial of Rabiner [11], there has been a significant number of variations on the theme of the Baum-Welch algorithm. Among them, several successful proposals of its on-line extensions have been published: [12], [13] or [14], to mention at least a few. The present note breaks with that tradition by bringing a theoretical computer scientist's yet another point of view."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.640799999999956,
+            "t": 114.90689999999995,
+            "r": 538.6725885685761,
+            "b": 45.21944480000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            454
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.63979999999998,
+            "t": 810.5464000000001,
+            "r": 538.6759312,
+            "b": 769.5157823999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            455,
+            705
+          ]
+        }
+      ],
+      "orig": "The main motivation of this work is the predictive modelling of dynamical systems where the laws governing their dynamics are difficult to put in a general form and where only one trajectory can be observed. The observations come form measurements made at regular time intervals, thus producing a time series, also called a signal. The model is built from data collected so far and used for forecasting the values of future measurements. When the present becomes past and a new measurement becomes available, the existing model is updated. The algorithmic complexity of updating the model is expected to be in o ( f ( n )) (ideally in O ( 1 ) ) when f ( n ) is the complexity of its building from scratch.",
+      "text": "The main motivation of this work is the predictive modelling of dynamical systems where the laws governing their dynamics are difficult to put in a general form and where only one trajectory can be observed. The observations come form measurements made at regular time intervals, thus producing a time series, also called a signal. The model is built from data collected so far and used for forecasting the values of future measurements. When the present becomes past and a new measurement becomes available, the existing model is updated. The algorithmic complexity of updating the model is expected to be in o ( f ( n )) (ideally in O ( 1 ) ) when f ( n ) is the complexity of its building from scratch."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 294.72079999999994,
+            "t": 27.30690000000004,
+            "r": 300.57884799999994,
+            "b": 15.339744799999949,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.63990000000001,
+            "t": 764.7061,
+            "r": 538.721620841421,
+            "b": 536.0191448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1416
+          ]
+        }
+      ],
+      "orig": "Signal automata introduced here are generic 'syntactic' devices. Their 'semantics' is given in term of HMMs. To exist, a signal automaton needs a state-producing plugin which may be application-specific. One can imagine the plugin as a procedure which extracts meaningful patterns from the signal, makes a lossy compression of the signal, filters it or classifies it according to some criteria acquired throughout unsupervised or supervised learning. The definition of signal automaton does not rely on specific plugin but rather provides a generic wrapper. The set of known states of a signal automaton and transitions between those states evolve in time. Whenever a new measurement is made, the plugin, applied to the whole signal available so far, returns a state of the automaton which becomes its current state. It may be one of previously visited states or a new one. In both cases, the new measurement affects transitions of the automaton, either by adding a new transition or by altering an existing one. Two other plugins are needed to build the HMM corresponding to the current automaton. The natures of the latter plugins are very different from the former. All plugins are supposed to have parameters. Searching within the parameter space may be used for fitting the model. The resulting HMM is then used for forecasting in the usual way. A bit less standard lookahead forecasting is also discussed here.",
+      "text": "Signal automata introduced here are generic 'syntactic' devices. Their 'semantics' is given in term of HMMs. To exist, a signal automaton needs a state-producing plugin which may be application-specific. One can imagine the plugin as a procedure which extracts meaningful patterns from the signal, makes a lossy compression of the signal, filters it or classifies it according to some criteria acquired throughout unsupervised or supervised learning. The definition of signal automaton does not rely on specific plugin but rather provides a generic wrapper. The set of known states of a signal automaton and transitions between those states evolve in time. Whenever a new measurement is made, the plugin, applied to the whole signal available so far, returns a state of the automaton which becomes its current state. It may be one of previously visited states or a new one. In both cases, the new measurement affects transitions of the automaton, either by adding a new transition or by altering an existing one. Two other plugins are needed to build the HMM corresponding to the current automaton. The natures of the latter plugins are very different from the former. All plugins are supposed to have parameters. Searching within the parameter space may be used for fitting the model. The resulting HMM is then used for forecasting in the usual way. A bit less standard lookahead forecasting is also discussed here."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.63990000000001,
+            "t": 508.5561492000001,
+            "r": 205.17606859884458,
+            "b": 493.0893911582858,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "2 Signal automata",
+      "text": "2 Signal automata",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.6398,
+            "t": 478.5829184,
+            "r": 538.6831507444225,
+            "b": 449.45935294000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "A prefix s 0 s 1 . . . s n of a sequence ( s i ) i ∈ I N is written s ≤ n and a portion s m s m + 1 . . . s n of it, for m ≤ n , is written s m ∶ n .",
+      "text": "A prefix s 0 s 1 . . . s n of a sequence ( s i ) i ∈ I N is written s ≤ n and a portion s m s m + 1 . . . s n of it, for m ≤ n , is written s m ∶ n ."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.63900000000001,
+            "t": 447.1429184,
+            "r": 538.6758484354816,
+            "b": 202.05934479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1699
+          ]
+        }
+      ],
+      "orig": "A sequence of observations r ∶= ( r i ) i ∈ I N of a dynamical system is assumed to range over some set R . Observations arrive at regular time intervals numbered 0 , 1 , 2 , . . . . In the sequel, cases where R is a normed vector space or a metric space are considered. At time n , only prefix r ≤ n of r is known and is called a signal at n . A map κ ∗ τ ∶ R ∗ → C , called a classifier , from a set R ∗ of finite sequences over R into a set C is the main plugin of a signal automaton defined in the sequel. Which kind of set C should be considered is not discussed here. It cloud be e.g. a set of meaningful patterns appearing in r , a set of highly compressed signals, a set of clusters of signals, or a set of some averages of the signal. The classifier depends on a parameter tuple τ varying within some finite-dimensional space of parameters T . The compression factor of r by κ ∗ τ is a function ξ ∶ I N → I R + such that the map n ↦ ∣ κ ∗ τ ({ r ≤ i ∣ i ≤ n })∣ is in θ ( ξ ( n )) (in the sense of asymptotic behaviour). A classifier with the compression factor in o ( n ) is preferred. A precursor of a classifier κ ∗ τ is a map κ τ ∶ C × R → C such that, for every signal r ≤ k , one has κ ∗ τ ( r ≤ k ) = κ τ ( κ ∗ τ ( r ≤ k -1 ) , r k ) . If κ ∗ τ has a precursor, the time complexity of computing κ ∗ τ ( r ≤ k ) , after previously computing c k -1 = κ ∗ τ ( r ≤ k -1 ) , does not depend on k as it is reduced into computing κ τ ( c k -1 , r k ) . For instance, a family of classifiers having precursors computing in constant time can be defined using exponential averages, assuming that basic arithmetic operations are computed in constant time on fixed size floating point data type.",
+      "text": "A sequence of observations r ∶= ( r i ) i ∈ I N of a dynamical system is assumed to range over some set R . Observations arrive at regular time intervals numbered 0 , 1 , 2 , . . . . In the sequel, cases where R is a normed vector space or a metric space are considered. At time n , only prefix r ≤ n of r is known and is called a signal at n . A map κ ∗ τ ∶ R ∗ → C , called a classifier , from a set R ∗ of finite sequences over R into a set C is the main plugin of a signal automaton defined in the sequel. Which kind of set C should be considered is not discussed here. It cloud be e.g. a set of meaningful patterns appearing in r , a set of highly compressed signals, a set of clusters of signals, or a set of some averages of the signal. The classifier depends on a parameter tuple τ varying within some finite-dimensional space of parameters T . The compression factor of r by κ ∗ τ is a function ξ ∶ I N → I R + such that the map n ↦ ∣ κ ∗ τ ({ r ≤ i ∣ i ≤ n })∣ is in θ ( ξ ( n )) (in the sense of asymptotic behaviour). A classifier with the compression factor in o ( n ) is preferred. A precursor of a classifier κ ∗ τ is a map κ τ ∶ C × R → C such that, for every signal r ≤ k , one has κ ∗ τ ( r ≤ k ) = κ τ ( κ ∗ τ ( r ≤ k -1 ) , r k ) . If κ ∗ τ has a precursor, the time complexity of computing κ ∗ τ ( r ≤ k ) , after previously computing c k -1 = κ ∗ τ ( r ≤ k -1 ) , does not depend on k as it is reduced into computing κ τ ( c k -1 , r k ) . For instance, a family of classifiers having precursors computing in constant time can be defined using exponential averages, assuming that basic arithmetic operations are computed in constant time on fixed size floating point data type."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.63900000000001,
+            "t": 204.1754654,
+            "r": 538.620578497408,
+            "b": 54.63429756000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1080
+          ]
+        }
+      ],
+      "orig": "A statistical function σ τ ∶ R ∗ × ℘ fin ( I N ) → I R + computes some relevant statistics. It depends on the same parameter tuple τ as does a classifier. Statistical value σ ∗ τ ( r ≤ i , { i 1 , . . . , i k }) is computed from instants { i 1 , . . . , i k } ⊆ { 0 , 1 , . . . , i } and observations r i 1 , . . . , r i k although the latter may in some applications remain unused. For instance, σ ∗ τ may yield a mean value of r i 1 , . . . , r i k , count how many observations among r i 1 , . . . , r i k belong to some specific region of R or what is the latest occurrence i j , for 1 ≤ j ≤ k , of an observation in that region. Another example is a discounted counting with respect to a current instant, say n : σ ∗ τ ( _ , { i 1 , . . . , i k }) = k -∑ i ∈{ i 1 ,...,i k } δ n -i where 0 ≤ δ < 1 is one of parameters of τ . The idea is that older events count less than newer ones. Like for a classifier, a precursor of a statistical function σ ∗ τ is is a map σ τ ∶ I R + × R × ℘ fin ( I N ) → I R + such that, for every { i 1 . . . i k } ⊆ { 0 , 1 , . . . , i } , one has",
+      "text": "A statistical function σ τ ∶ R ∗ × ℘ fin ( I N ) → I R + computes some relevant statistics. It depends on the same parameter tuple τ as does a classifier. Statistical value σ ∗ τ ( r ≤ i , { i 1 , . . . , i k }) is computed from instants { i 1 , . . . , i k } ⊆ { 0 , 1 , . . . , i } and observations r i 1 , . . . , r i k although the latter may in some applications remain unused. For instance, σ ∗ τ may yield a mean value of r i 1 , . . . , r i k , count how many observations among r i 1 , . . . , r i k belong to some specific region of R or what is the latest occurrence i j , for 1 ≤ j ≤ k , of an observation in that region. Another example is a discounted counting with respect to a current instant, say n : σ ∗ τ ( _ , { i 1 , . . . , i k }) = k -∑ i ∈{ i 1 ,...,i k } δ n -i where 0 ≤ δ < 1 is one of parameters of τ . The idea is that older events count less than newer ones. Like for a classifier, a precursor of a statistical function σ ∗ τ is is a map σ τ ∶ I R + × R × ℘ fin ( I N ) → I R + such that, for every { i 1 . . . i k } ⊆ { 0 , 1 , . . . , i } , one has"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 294.7196,
+            "t": 27.306699999999978,
+            "r": 300.577648,
+            "b": 15.339544799999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 156.84,
+            "t": 812.5429184000001,
+            "r": 434.53160840000015,
+            "b": 797.19393756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "σ ∗ τ ( r ≤ k , { i 1 . . . i k }) = σ τ ( σ ∗ τ ( r ≤ k -1 , { i 1 , . . . , i k -1 }) , r k , i k ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.64000000000004,
+            "t": 794.3029184000001,
+            "r": 538.5718144,
+            "b": 750.99409756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "Consider a classifier κ ∗ τ . A signal automaton S defined by ( r , κ ∗ τ ) is a sequence S ∶= ( S i ) i ∈ I N . A term S i of that sequence is called an instantaneous signal automaton at i ( ISA for short). It is a tuple S i ∶= ( Q i , ι i , Θ i ) where",
+      "text": "Consider a classifier κ ∗ τ . A signal automaton S defined by ( r , κ ∗ τ ) is a sequence S ∶= ( S i ) i ∈ I N . A term S i of that sequence is called an instantaneous signal automaton at i ( ISA for short). It is a tuple S i ∶= ( Q i , ι i , Θ i ) where"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.03999999999999,
+            "t": 748.2229184000001,
+            "r": 372.1318144,
+            "b": 732.8739375600001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "· ι i ∶= κ ∗ τ ( r ≤ i ) is its current state , in particular ι 0 = κ ∗ τ ( r 0 ) ,",
+      "text": "ι i ∶= κ ∗ τ ( r ≤ i ) is its current state , in particular ι 0 = κ ∗ τ ( r 0 ) ,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.04000000000002,
+            "t": 731.8264,
+            "r": 339.6602916257793,
+            "b": 719.43409756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "· Q i is the set of states of S i defined inductively by",
+      "text": "Q i is the set of states of S i defined inductively by",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.83999999999997,
+            "t": 718.3429184000001,
+            "r": 326.7718144,
+            "b": 689.21935294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "-Q 0 ∶= { ι bot , ι 0 } , where ι bot ∉ κ ∗ τ ({ r ≤ n ∣ n ∈ I N }) , -Q i ∶= Q i -1 ∪{ ι i } , for i > 0,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 95.03981999999999,
+            "t": 686.4664,
+            "r": 441.97173440000006,
+            "b": 543.53925294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            597
+          ]
+        }
+      ],
+      "orig": "i Q i Q i → 0 , 1 , . . . , i is its instants matrix -Θ 0 ( ι bot , ι bot ) ∶= ∅ , Θ 0 ( ι bot , ι 0 ) ∶= { 0 } , Θ 0 ( ι 0 , ι bot ) ∶= ∅ , Θ 0 ( ι 0 , ι 0 ) ∶= ∅ , -case ι i ∈ Q i -1 (viz., Q i = Q i -1 ) with i > 0 Θ i ( p, q ) ∶= Θ i -1 ( p, q ) , for ( p, q ) ∈ Q i × Q i ∖( ι i -1 , ι i ) , Θ i ( ι i -1 , ι i ) ∶= Θ i -1 ( ι i -1 , ι i ) ∪ { i } , -case ι i ∉ Q i -1 (viz., ι i is a new state ) with i > 0 Θ i ( p, q ) ∶= Θ i -1 ( p, q ) , for ( p, q ) ∈ Q i -1 × Q i -1 Θ i ( ι i , q ) ∶= ∅ , for q ∈ Q i , Θ i ( p, ι i ) ∶= ∅ , for p ∈ Q i -1 ∖{ ι i -1 } , Θ i ( ι i -1 , ι i ) ∶= { i } .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.03999999999999,
+            "t": 693.5355454,
+            "r": 448.3804652206594,
+            "b": 674.3557824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "· Θ ∶ × ℘{ } defined inductively by",
+      "text": "Θ ∶ × ℘{ } defined inductively by",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.6398,
+            "t": 541.2229184000001,
+            "r": 538.6145111249151,
+            "b": 454.59409755999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            614
+          ]
+        }
+      ],
+      "orig": "The inductive step of this definition may be seen as computing S i ← nextISA ( κ ∗ τ , r ≤ i , S i -1 ) by means of some implemented function nextISA . If κ ∗ τ has a precursor, a variant of nextISA is used: S i ← nextISA ( κ τ , ι i -1 , r i , S i -1 ) . The complexity of nextISA is determined by the complexity of κ ∗ τ or κ τ . The latter complexity is denoted by η ( n ) . If κ τ ( ι n -1 , r n ) is computed in constant time then nextISA ( κ τ , ι n -1 , r n , S n -1 ) can be computed in almost constant time provided appropriate implementations of sets Q n and Θ n ( p, q ) , and of the sparse matrix Θ n .",
+      "text": "The inductive step of this definition may be seen as computing S i ← nextISA ( κ ∗ τ , r ≤ i , S i -1 ) by means of some implemented function nextISA . If κ ∗ τ has a precursor, a variant of nextISA is used: S i ← nextISA ( κ τ , ι i -1 , r i , S i -1 ) . The complexity of nextISA is determined by the complexity of κ ∗ τ or κ τ . The latter complexity is denoted by η ( n ) . If κ τ ( ι n -1 , r n ) is computed in constant time then nextISA ( κ τ , ι n -1 , r n , S n -1 ) can be computed in almost constant time provided appropriate implementations of sets Q n and Θ n ( p, q ) , and of the sparse matrix Θ n ."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.63900000000001,
+            "t": 450.9067,
+            "r": 538.661009844736,
+            "b": 380.95578240000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            453
+          ]
+        }
+      ],
+      "orig": "In the sequel, the complexity is discussed under the assumption that a precursor of a classifier is used. It is also relevant to distinguish between two situations. At present time, say n , one may need to compute S n from scratch using available observations. One speaks then of computing ISA at n and it is done in time O ( nη ( n )) . If however S n -1 has been already computed, one speaks of updating ISA at n , which is done in time θ ( η ( n )) .",
+      "text": "In the sequel, the complexity is discussed under the assumption that a precursor of a classifier is used. It is also relevant to distinguish between two situations. At present time, say n , one may need to compute S n from scratch using available observations. One speaks then of computing ISA at n and it is done in time O ( nη ( n )) . If however S n -1 has been already computed, one speaks of updating ISA at n , which is done in time θ ( η ( n )) ."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.63999999999993,
+            "t": 376.86640000000006,
+            "r": 538.6749315602432,
+            "b": 277.8340975599999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            642
+          ]
+        }
+      ],
+      "orig": "A signal automaton may be seen as an automaton with evolving state space, changing its current state according to the arriving new observation. Each transition Θ i ( p, q ) records time points at which a move from p to q occurred. There are two possible situations for a current state. Either the state has never been encountered and then it has no outgoing transition, viz., ∪ q ∈ Q i Θ i ( ι i , q ) = ∅ , or it has been previously encountered and it has at least one outgoing transition. In the former situation one speaks of a new state . Note that if S i has a state with no outgoing transition, it is necessarily its current state ι i .",
+      "text": "A signal automaton may be seen as an automaton with evolving state space, changing its current state according to the arriving new observation. Each transition Θ i ( p, q ) records time points at which a move from p to q occurred. There are two possible situations for a current state. Either the state has never been encountered and then it has no outgoing transition, viz., ∪ q ∈ Q i Θ i ( ι i , q ) = ∅ , or it has been previously encountered and it has at least one outgoing transition. In the former situation one speaks of a new state . Note that if S i has a state with no outgoing transition, it is necessarily its current state ι i ."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 252.47634919999996,
+            "r": 447.7135600031968,
+            "b": 237.00959115828573,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "3 From signal automata to hidden Markov models",
+      "text": "3 From signal automata to hidden Markov models",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 223.46291840000004,
+            "r": 430.2974189887743,
+            "b": 209.35578239999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "A hidden Markov model (HMM for short) M = ( E,Q,α, T , E) consists of",
+      "text": "A hidden Markov model (HMM for short) M = ( E,Q,α, T , E) consists of"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.03999999999996,
+            "t": 204.3066,
+            "r": 241.2268197608704,
+            "b": 192.33924479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "· a set E of (observable) events,",
+      "text": "a set E of (observable) events,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.0402,
+            "t": 189.90639999999996,
+            "r": 173.0575332433408,
+            "b": 177.93924479999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "· a set Q of states,",
+      "text": "a set Q of states,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.0402,
+            "t": 177.3829184,
+            "r": 538.6703032000001,
+            "b": 149.01924480000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "· an initial distribution α ∈ Dist ( Q ) of states, where Dist ( Q ) ∶= { α ∈ [ 0 , 1 ] Q ∣ ∑ q ∈ Q α ( q ) = 1 } stands for the set of (categorical) distributions over Q ,",
+      "text": "an initial distribution α ∈ Dist ( Q ) of states, where Dist ( Q ) ∶= { α ∈ [ 0 , 1 ] Q ∣ ∑ q ∈ Q α ( q ) = 1 } stands for the set of (categorical) distributions over Q ,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.03999999999996,
+            "t": 148.58291840000004,
+            "r": 538.6598253319169,
+            "b": 120.09924479999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "· a transition matrix T ∶ Q × Q → [ 0 , 1 ] which is a (right) stochastic matrix (its every row is in Dist ( Q ) ),",
+      "text": "a transition matrix T ∶ Q × Q → [ 0 , 1 ] which is a (right) stochastic matrix (its every row is in Dist ( Q ) ),",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.03980000000001,
+            "t": 119.66291839999997,
+            "r": 441.2518144,
+            "b": 105.5557824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "· an emission matrix E∶ Q × E → [ 0 , 1 ] , each row of which is in Dist ( E ) .",
+      "text": "an emission matrix E∶ Q × E → [ 0 , 1 ] , each row of which is in Dist ( E ) .",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.63899999999995,
+            "t": 100.50659999999993,
+            "r": 538.6083275654146,
+            "b": 45.21914479999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            304
+          ]
+        }
+      ],
+      "orig": "The use of an emission matrix is appropriate only when E is a discrete space. In the continuous case, E is a map E ∶ Q → E → [ 0 , 1 ] such that E ( q ) ∶ E → [ 0 , 1 ] is a probability density function for each state q ∈ Q . In other words, E is a vector over Q of probability density functions over E .",
+      "text": "The use of an emission matrix is appropriate only when E is a discrete space. In the continuous case, E is a map E ∶ Q → E → [ 0 , 1 ] such that E ( q ) ∶ E → [ 0 , 1 ] is a probability density function for each state q ∈ Q . In other words, E is a vector over Q of probability density functions over E ."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 294.72,
+            "t": 27.306600000000003,
+            "r": 300.578048,
+            "b": 15.339444800000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 812.5429184000001,
+            "r": 538.668115791744,
+            "b": 753.27394756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            418
+          ]
+        }
+      ],
+      "orig": "To turn an ISA S i = ( Q i , ι i , Θ i ) defined by ( r , κ ∗ τ ) into an HMM with a discrete space of events one needs to cluster R by means of an equivalence relation ' ≡ ' such that the quotient space R / ≡ is discrete. Let C i = { c ∈ R / ≡ ∣ { r i ∣ i ≤ n } ∩ c ≠ ∅ } . One needs also a pair statistical functions ( σ ∗ τ , ρ ∗ τ ) . Then HMM M i = ( E i , Q ′ i , α i , T i , E i ) is obtained from S i by taking",
+      "text": "To turn an ISA S i = ( Q i , ι i , Θ i ) defined by ( r , κ ∗ τ ) into an HMM with a discrete space of events one needs to cluster R by means of an equivalence relation ' ≡ ' such that the quotient space R / ≡ is discrete. Let C i = { c ∈ R / ≡ ∣ { r i ∣ i ≤ n } ∩ c ≠ ∅ } . One needs also a pair statistical functions ( σ ∗ τ , ρ ∗ τ ) . Then HMM M i = ( E i , Q ′ i , α i , T i , E i ) is obtained from S i by taking"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.04000000000002,
+            "t": 751.2229184,
+            "r": 246.61181440000001,
+            "b": 735.0755464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "· E i ∶= C i ∪ { r ∅ } , where r ∅ ∉ R / ≡ ,",
+      "text": "E i ∶= C i ∪ { r ∅ } , where r ∅ ∉ R / ≡ ,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.04000000000002,
+            "t": 722.3029184000001,
+            "r": 321.7318144,
+            "b": 706.35433756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "· α i ∶= 1 ι i is the indicator function of ι i over Q ′ i ,",
+      "text": "α i ∶= 1 ι i is the indicator function of ι i over Q ′ i ,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.04000000000002,
+            "t": 736.7029184,
+            "r": 419.4118144,
+            "b": 720.8742575599999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "· Q ′ i ∶= Q i ∖ { ι bot } ∪ { q ∅ } with an additional state q ∅ ∉ κ ∗ τ ( R ∗ ) ∪ { ι bot } ,",
+      "text": "Q ′ i ∶= Q i ∖ { ι bot } ∪ { q ∅ } with an additional state q ∅ ∉ κ ∗ τ ( R ∗ ) ∪ { ι bot } ,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.0398,
+            "t": 707.9029184000001,
+            "r": 494.89168440000003,
+            "b": 549.27394756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            583
+          ]
+        }
+      ],
+      "orig": "· T i ( q ∅ , q ∅ ) ∶= 1 , T i ( q ∅ , q ) ∶= 0 , for q ∈ Q i ∖ { ι bot } , T i ( p, q ∅ ) ∶= 1 if ⋃ q ∈ Q i Θ i ( p, q ) = ∅ , for p ∈ Q i ∖ { ι bot } , T i ( p, q ∅ ) ∶= 0 if ⋃ q ∈ Q i Θ i ( p, q ) ≠ ∅ , for p ∈ Q i ∖ { ι bot } , T i ( p, q ) ∶= σ ∗ τ ( r ≤ i , Θ i ( p, q )) ∑ s ∈ Q i ∖{ ι bot } σ ∗ τ ( r ≤ i , Θ i ( p, s )) , for p ∈ Q i , q ∈ Q i ∖ { ι bot } , · E i ( q ∅ , r ∅ ) ∶= 1 , E i ( q ∅ , c ) ∶= 0 , for c ∈ C i , E i ( q, c ) ∶= ρ ∗ τ ( r ≤ i , { j ∈ Θ i ( p, q ) ∣ r j ∈ c, p ∈ Q i }) ρ ∗ τ ( r ≤ i , ⋃ p ∈ Q i Θ i ( p, q )) , for q ∈ Q i ∖ { ι bot } and c ∈ C i .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.63900000000001,
+            "t": 546.1864,
+            "r": 538.6789667953918,
+            "b": 432.63409756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            813
+          ]
+        }
+      ],
+      "orig": "Clustering R may be computationally expensive but once done properly, finding the cluster of a given observation is done in constant time. A reasonable assumption about complexities of σ ∗ τ ( r ≤ i , { i 1 , . . . , i k }) and ρ ∗ τ ( r ≤ i , { i 1 , . . . , i k }) is that, provided an appropriate implementation of r , both depend on only k , and depend on it linearly. Under this assumption, a direct computation M n ← ISAtoHMM ( σ ∗ τ , ρ ∗ τ , r ≤ n , S n ) from S n , by means of some implementation ISAtoHMM can be done in time θ ( n ) when T n and E n have an appropriate implementation as sparse matrices. Indeed, the family { Θ n ( p, q ) ∣ p, q ∈ Q n } consists of pairwise disjoint sets. Thus, the sum of computation times of all cells of T n and E n is in θ ( n ) . Moreover, n ↦ ∣ E n ∣ ∈ O ( n ) .",
+      "text": "Clustering R may be computationally expensive but once done properly, finding the cluster of a given observation is done in constant time. A reasonable assumption about complexities of σ ∗ τ ( r ≤ i , { i 1 , . . . , i k }) and ρ ∗ τ ( r ≤ i , { i 1 , . . . , i k }) is that, provided an appropriate implementation of r , both depend on only k , and depend on it linearly. Under this assumption, a direct computation M n ← ISAtoHMM ( σ ∗ τ , ρ ∗ τ , r ≤ n , S n ) from S n , by means of some implementation ISAtoHMM can be done in time θ ( n ) when T n and E n have an appropriate implementation as sparse matrices. Indeed, the family { Θ n ( p, q ) ∣ p, q ∈ Q n } consists of pairwise disjoint sets. Thus, the sum of computation times of all cells of T n and E n is in θ ( n ) . Moreover, n ↦ ∣ E n ∣ ∈ O ( n ) ."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 428.74180283,
+            "r": 538.6277687100159,
+            "b": 387.0992448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "One can also compute M n ← nextHMM ( σ ∗ τ , ρ ∗ τ , r ≤ n , S n , M n -1 ) M n by updating M n -1 , if available, by means of some implementation nextHMM . This can be done in constant time under the same assumptions as for ISAtoHMM .",
+      "text": "One can also compute M n ← nextHMM ( σ ∗ τ , ρ ∗ τ , r ≤ n , S n , M n -1 ) M n by updating M n -1 , if available, by means of some implementation nextHMM . This can be done in constant time under the same assumptions as for ISAtoHMM ."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.6398,
+            "t": 382.78149283000005,
+            "r": 538.61975721472,
+            "b": 268.25935294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            801
+          ]
+        }
+      ],
+      "orig": "Providing a pair of ( σ ∗ τ , ρ ∗ τ ) for ( S i ) i ∈ I N may be understood, similarly to an interpretation in mathematical logic, as assigning a meaning to the signal automaton defined by ( r , κ ∗ τ ) . The associated meaning is the sequence ( M i ) i ∈ I N of HMMs, each HMM M i obtained from ISA S i as described above. As forecasting is the main motivation of introducing signal automata, special care is needed in handling new states. Recall that a state of S i is new if it is not a state of S i -1 and that it is necessarily the current state of S i , namely ι i . In such a situation, M i can evolve from its initial distribution α i only into its absorbing dummy state q ∅ where the only possible event is dummy event r ∅ . The frequency of such situations is given by the ratio ξ ( n )/ n .",
+      "text": "Providing a pair of ( σ ∗ τ , ρ ∗ τ ) for ( S i ) i ∈ I N may be understood, similarly to an interpretation in mathematical logic, as assigning a meaning to the signal automaton defined by ( r , κ ∗ τ ) . The associated meaning is the sequence ( M i ) i ∈ I N of HMMs, each HMM M i obtained from ISA S i as described above. As forecasting is the main motivation of introducing signal automata, special care is needed in handling new states. Recall that a state of S i is new if it is not a state of S i -1 and that it is necessarily the current state of S i , namely ι i . In such a situation, M i can evolve from its initial distribution α i only into its absorbing dummy state q ∅ where the only possible event is dummy event r ∅ . The frequency of such situations is given by the ratio ξ ( n )/ n ."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 244.83364759999995,
+            "r": 251.39901493500324,
+            "b": 231.94465261771427,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Case of continuous event space",
+      "text": "Case of continuous event space",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 220.94291840000005,
+            "r": 538.622223705216,
+            "b": 162.27393756000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            402
+          ]
+        }
+      ],
+      "orig": "If R is a continuous vector space, one may wish to turn ISA S = ( Q,ι, Θ ) into an HMM acting directly over R instead of clustering R into a discrete space. Like in the latter discrete case, one needs a pair ( σ ∗ τ , ρ ∗ τ ) where σ ∗ τ is a statistical function. However, instead of being a statistical function, ρ ∗ τ should be a (multivariate) kernel function, like e.g. multivariate normal kernel:",
+      "text": "If R is a continuous vector space, one may wish to turn ISA S = ( Q,ι, Θ ) into an HMM acting directly over R instead of clustering R into a discrete space. Like in the latter discrete case, one needs a pair ( σ ∗ τ , ρ ∗ τ ) where σ ∗ τ is a statistical function. However, instead of being a statistical function, ρ ∗ τ should be a (multivariate) kernel function, like e.g. multivariate normal kernel:"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 192.48,
+            "t": 160.70291840000004,
+            "r": 402.7847424000001,
+            "b": 145.61262768999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "φ H ( x ) = ( 2 π ) -d / 2 ∣ H ∣ -1 / 2 exp ( -1 2 x T H -1 / 2 x )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.63900000000001,
+            "t": 143.66291839999997,
+            "r": 538.6695157068033,
+            "b": 100.77924480000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "where d = dim ( R ) and H is a d × d matrix, called a bandwidth matrix and playing a role similar to a covariance matrix. For any kernel function ρ ∗ τ used here, a bandwidth matrix is a component of parameters tuple τ .",
+      "text": "where d = dim ( R ) and H is a d × d matrix, called a bandwidth matrix and playing a role similar to a covariance matrix. For any kernel function ρ ∗ τ used here, a bandwidth matrix is a component of parameters tuple τ ."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 97.7031184,
+            "r": 538.3596263005186,
+            "b": 69.33944480000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "One defines the associated HMM M = ( E,Q ′ , α, T , E ) by taking Q ′ , α and T like in discrete case, and",
+      "text": "One defines the associated HMM M = ( E,Q ′ , α, T , E ) by taking Q ′ , α and T like in discrete case, and"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.03999999999999,
+            "t": 65.30311840000002,
+            "r": 229.9318144,
+            "b": 50.579552939999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "· E ∶= R ∪ { r ∅ } , where r ∅ ∉ R ,",
+      "text": "E ∶= R ∪ { r ∅ } , where r ∅ ∉ R ,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 294.7202,
+            "t": 27.306600000000003,
+            "r": 300.578248,
+            "b": 15.339444800000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.0398,
+            "t": 812.5429184000001,
+            "r": 475.44859999974415,
+            "b": 748.37936694,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "· E ( q ∅ , x ) ∶= δ r ∅ ( x ) ( the Dirac delta centred at r ∅ ) , E ( q, r ∅ ) ∶= 0 for q ∈ Q ∖ { ι bot } , E ( q, x ) ∶= 1 ∣ ⋃ p ∈ Q Θ ( p, q )∣ ∑ p ∈ Q ∑ j ∈ Θ ( p,q ) ρ ∗ τ ( x -r j ) for q ∈ Q ∖ { ι bot } and x ∈ R,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 56.6398,
+            "t": 743.4664,
+            "r": 538.58872359168,
+            "b": 717.0992448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "The complexities of continuous analogues of ISAtoHMM and nextHMM , say ISAtoHMMc and nextHMMc are like in the discrete case.",
+      "text": "The complexities of continuous analogues of ISAtoHMM and nextHMM , say ISAtoHMMc and nextHMMc are like in the discrete case."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 56.63999999999993,
+            "t": 714.0229184,
+            "r": 538.6057924593408,
+            "b": 584.4993448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            817
+          ]
+        }
+      ],
+      "orig": "The expression of E ( q, x ) is a direct adaptation of the usual density estimate [15, 16], or rather its multivariate extension [17], using ρ ∗ τ as kernel function which in turn involves bandwidth matrix H . The latter is essential for the accuracy of kernel density estimation but methods for finding optimal H are often computationally expensive. More recently an objective data-driven approach for probability density estimation has been introduced [18]. Based upon the latter work, fast methods for computing probability densities have been developed in [19]. These provide a better alternative for implementing E ( q, x ) than its above expression. Thus, the latter should understood as an example rather than a definition. In other words, one can plug here the best available algorithm for density estimation.",
+      "text": "The expression of E ( q, x ) is a direct adaptation of the usual density estimate [15, 16], or rather its multivariate extension [17], using ρ ∗ τ as kernel function which in turn involves bandwidth matrix H . The latter is essential for the accuracy of kernel density estimation but methods for finding optimal H are often computationally expensive. More recently an objective data-driven approach for probability density estimation has been introduced [18]. Based upon the latter work, fast methods for computing probability densities have been developed in [19]. These provide a better alternative for implementing E ( q, x ) than its above expression. Thus, the latter should understood as an example rather than a definition. In other words, one can plug here the best available algorithm for density estimation."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 56.64000000000004,
+            "t": 557.0363492,
+            "r": 308.6325112317835,
+            "b": 541.5695911582857,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "4 Forecasting for finite horizons",
+      "text": "4 Forecasting for finite horizons",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 56.6398,
+            "t": 527.0629284,
+            "r": 538.5902673494527,
+            "b": 467.79393755999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            366
+          ]
+        }
+      ],
+      "orig": "At instant i , only ISA S ≤ i are known. Let M i = ( E i , Q ′ i , α i , T i , E i ) be a HMM associated with ISA S i . A fi nite horizon is a natural number h ∈ I N. A forecast for horizon h at instant i ∈ I N is a sequence ( f i,j ) 1 ≤ j ≤ h of categorical distributions, or, in the continuous case, of probability density functions, where f i,j = α i T j i E i .",
+      "text": "At instant i , only ISA S ≤ i are known. Let M i = ( E i , Q ′ i , α i , T i , E i ) be a HMM associated with ISA S i . A fi nite horizon is a natural number h ∈ I N. A forecast for horizon h at instant i ∈ I N is a sequence ( f i,j ) 1 ≤ j ≤ h of categorical distributions, or, in the continuous case, of probability density functions, where f i,j = α i T j i E i ."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 56.6398,
+            "t": 464.7066,
+            "r": 538.6530639938559,
+            "b": 380.4990448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            502
+          ]
+        }
+      ],
+      "orig": "It should be noted that, whenever ι i is a new state of S i , the only forecast for horizon h ∈ I N ∖ { 0 } is the sequence with terms r ∅ solely, represented by h times repeated δ r ∅ in the continuous case or an analogous categorical distribution in the discrete case. This kind of dummy forecast simply means that no forecast is possible. In other words, the classifier could not classify the current situation as similar to some past situation. Thus, such new situation has an unpredictable future.",
+      "text": "It should be noted that, whenever ι i is a new state of S i , the only forecast for horizon h ∈ I N ∖ { 0 } is the sequence with terms r ∅ solely, represented by h times repeated δ r ∅ in the continuous case or an analogous categorical distribution in the discrete case. This kind of dummy forecast simply means that no forecast is possible. In other words, the classifier could not classify the current situation as similar to some past situation. Thus, such new situation has an unpredictable future."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 56.63900000000001,
+            "t": 377.54291839999996,
+            "r": 538.6767305646081,
+            "b": 320.11578239999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            348
+          ]
+        }
+      ],
+      "orig": "With an appropriate implementation of sparse matrices T n and E n , forecasting at time n for horizon h can be done in time θ ( hξ ( n )) . In the discrete case, finding f n,j ( c ) of a given class c ∈ C n can be done in constant time. However, in the continuous case, computing f n,j ( r ) for a given value r ∈ R requires time in O ( nξ ( n )) .",
+      "text": "With an appropriate implementation of sparse matrices T n and E n , forecasting at time n for horizon h can be done in time θ ( hξ ( n )) . In the discrete case, finding f n,j ( c ) of a given class c ∈ C n can be done in constant time. However, in the continuous case, computing f n,j ( r ) for a given value r ∈ R requires time in O ( nξ ( n )) ."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 56.640000000000015,
+            "t": 295.95374760000004,
+            "r": 197.15633173850364,
+            "b": 283.06475261771425,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Lookahead forecasting",
+      "text": "Lookahead forecasting",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 56.6398,
+            "t": 270.18640000000005,
+            "r": 538.6282164752383,
+            "b": 113.73934480000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1012
+          ]
+        }
+      ],
+      "orig": "In many applications, data analysis starts only at time n after collecting a substantial amount of observations r ≤ n . As for every instant i ≤ n -h , the observed future of the dynamical system is known at least up to horizon h , it makes sense with regard to forecasting at h to compute each state ι i of the signal automaton, for i ≤ n -h , using not only the observed past r ≤ i but more importantly the future already known r i + 1 ∶ i + h . A variant of classifier, called a classifier with h -lookahead , κ ∗ τ,h ∶ R ∗ × R h → D , is introduced for that purpose. It differs from the formerly considered classifier only by its requiring a second argument of length h . The most straightforward example of a classifier with h -lookahead is a map which given r ≤ i and r i + 1 ∶ i + h returns c i + 1 ∶ i + h , where c j = [ r j ] ≡ , or more exactly, a symbolic representation of it. In particular, when R / ≡ is finite, it may be considered as an alphabet and c i + 1 ∶ i + h as a word over that alphabet.",
+      "text": "In many applications, data analysis starts only at time n after collecting a substantial amount of observations r ≤ n . As for every instant i ≤ n -h , the observed future of the dynamical system is known at least up to horizon h , it makes sense with regard to forecasting at h to compute each state ι i of the signal automaton, for i ≤ n -h , using not only the observed past r ≤ i but more importantly the future already known r i + 1 ∶ i + h . A variant of classifier, called a classifier with h -lookahead , κ ∗ τ,h ∶ R ∗ × R h → D , is introduced for that purpose. It differs from the formerly considered classifier only by its requiring a second argument of length h . The most straightforward example of a classifier with h -lookahead is a map which given r ≤ i and r i + 1 ∶ i + h returns c i + 1 ∶ i + h , where c j = [ r j ] ≡ , or more exactly, a symbolic representation of it. In particular, when R / ≡ is finite, it may be considered as an alphabet and c i + 1 ∶ i + h as a word over that alphabet."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 56.6398,
+            "t": 109.78157282999996,
+            "r": 538.6050974824192,
+            "b": 52.619452939999974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            418
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.6398,
+            "t": 810.5464000000001,
+            "r": 538.4724424290304,
+            "b": 783.41935294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            419,
+            603
+          ]
+        }
+      ],
+      "orig": "From now on, let ( S i ) i ∈ I N denote the signal automaton defined by ( r , κ ∗ τ,h ) where κ ∗ τ,h is a classifier with h -lookahead and ( M i ) i ∈ I N be the associated sequence of HMMs obtained from ( S i ) i ∈ I N using a pair ( σ ∗ τ , ρ ∗ τ ) . The lookahead does not impact procedures nextISA , ISAtoHMM , nextHMM , ISAtoHMMc and nextHMMc . Their use for computing ( S i ) i ∈ I N and ( M i ) i ∈ I N remains unchanged. However, at present time n , only S ≤ n -h and M ≤ n -h can be computed in that way. Beyond instant n -h , some estimated observations, say ˆ r n + 1 ∶ i + h , are required.",
+      "text": "From now on, let ( S i ) i ∈ I N denote the signal automaton defined by ( r , κ ∗ τ,h ) where κ ∗ τ,h is a classifier with h -lookahead and ( M i ) i ∈ I N be the associated sequence of HMMs obtained from ( S i ) i ∈ I N using a pair ( σ ∗ τ , ρ ∗ τ ) . The lookahead does not impact procedures nextISA , ISAtoHMM , nextHMM , ISAtoHMMc and nextHMMc . Their use for computing ( S i ) i ∈ I N and ( M i ) i ∈ I N remains unchanged. However, at present time n , only S ≤ n -h and M ≤ n -h can be computed in that way. Beyond instant n -h , some estimated observations, say ˆ r n + 1 ∶ i + h , are required."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 294.71999999999997,
+            "t": 27.306699999999978,
+            "r": 300.57804799999997,
+            "b": 15.339544799999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.6398,
+            "t": 782.34632,
+            "r": 538.5574929604863,
+            "b": 685.61935294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            663
+          ]
+        }
+      ],
+      "orig": "The i -th ISA at n with h -lookahead ˆ S n,i = ( ˆ Q n,i , ˆ ι n,i , ˆ Θ n,i ) together with the associated i -th HMM at n with h -lookahead ˆ M n,i = ( ˆ E n,i , ˆ Q ′ n,i , ˆ α n,i , ˆ T n,i , ˆ E n,i ) is defined inductively as follows. For i ≤ n -h , define S n,i ∶= S i and ˆ M n,i ∶= M i . For n -h < i ≤ n , let ˆ r i + h be obtained by sampling from ˆ f n,i -1 ,h + 1 ∶= ˆ α n,i -1 ˆ T h + 1 n,i -1 ˆ E n,i -1 and let ˆ ι n,i ∶= κ ∗ τ,h ( r ≤ i , r i + 1 ∶ n ˆ r n + 1 ∶ i + h ) . Assuming that ˆ ι n,i is not a new state, ˆ S n,i and ˆ M n,i are defined like S i and M i but using ˆ ι n,i instead of ι i and r ≤ n ˆ r n + 1 ∶ i + h instead of r ≤ i + h .",
+      "text": "The i -th ISA at n with h -lookahead ˆ S n,i = ( ˆ Q n,i , ˆ ι n,i , ˆ Θ n,i ) together with the associated i -th HMM at n with h -lookahead ˆ M n,i = ( ˆ E n,i , ˆ Q ′ n,i , ˆ α n,i , ˆ T n,i , ˆ E n,i ) is defined inductively as follows. For i ≤ n -h , define S n,i ∶= S i and ˆ M n,i ∶= M i . For n -h < i ≤ n , let ˆ r i + h be obtained by sampling from ˆ f n,i -1 ,h + 1 ∶= ˆ α n,i -1 ˆ T h + 1 n,i -1 ˆ E n,i -1 and let ˆ ι n,i ∶= κ ∗ τ,h ( r ≤ i , r i + 1 ∶ n ˆ r n + 1 ∶ i + h ) . Assuming that ˆ ι n,i is not a new state, ˆ S n,i and ˆ M n,i are defined like S i and M i but using ˆ ι n,i instead of ι i and r ≤ n ˆ r n + 1 ∶ i + h instead of r ≤ i + h ."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.63900000000001,
+            "t": 681.4265,
+            "r": 538.5303951409667,
+            "b": 638.3140975599999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "Procedures ISAtoHMM and nextHMM work like without lookahead whereas the adequate variant of nextISA requires both genuine observations and estimated observations to be passed to κ ∗ τ,h :",
+      "text": "Procedures ISAtoHMM and nextHMM work like without lookahead whereas the adequate variant of nextISA requires both genuine observations and estimated observations to be passed to κ ∗ τ,h :"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 179.880412,
+            "t": 645.7864000000001,
+            "r": 415.3321984,
+            "b": 597.1542375600003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "ˆ S n,i ← nextISA ( κ ∗ τ,h , r ≤ n ˆ r n + 1 ∶ i + h , ˆ S n,i -1 ) , ˆ M n,i ← ISAtoHMM ( σ ∗ τ , ρ ∗ τ , r ≤ i , ˆ S n,i ) , or ˆ M n,i ← nextHMM ( σ ∗ τ , ρ ∗ τ , r ≤ i , ˆ S n,i , ˆ M n,i -1 ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.6398,
+            "t": 594.3064,
+            "r": 538.58872359168,
+            "b": 552.77935294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "Their time complexities are the same as without lookahead, so are those of ISAtoHMMc and nextHMMc , including all constant-time precursor variants. The time complexity of sampling ˆ r i + h from distribution ˆ f n,i -1 ,h + 1 is in O ( n ) .",
+      "text": "Their time complexities are the same as without lookahead, so are those of ISAtoHMMc and nextHMMc , including all constant-time precursor variants. The time complexity of sampling ˆ r i + h from distribution ˆ f n,i -1 ,h + 1 is in O ( n ) ."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.63987,
+            "t": 550.2664,
+            "r": 538.5718144,
+            "b": 505.0592448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "Note that if ˆ ι n,i is a new state, ˆ S n,i + 1 , ˆ S n,i + 2 , . . . , ˆ S n,n are undefined and so are ˆ M n,i + 1 , ˆ M n,i + 2 , . . . , ˆ M n,n . Lookahead forecasting is impossible in such situations. The latter occur with frequency hξ ( n )/ n .",
+      "text": "Note that if ˆ ι n,i is a new state, ˆ S n,i + 1 , ˆ S n,i + 2 , . . . , ˆ S n,n are undefined and so are ˆ M n,i + 1 , ˆ M n,i + 2 , . . . , ˆ M n,n . Lookahead forecasting is impossible in such situations. The latter occur with frequency hξ ( n )/ n ."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 502.10291839999996,
+            "r": 538.618575953408,
+            "b": 459.2192448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "Lookahead predictive modelling requires also another operation. At time n + 1, new observation r n + 1 is available. Then the replacement has to be made according to the following scheme, where ' ↦ ' means 'is replaced by':",
+      "text": "Lookahead predictive modelling requires also another operation. At time n + 1, new observation r n + 1 is available. Then the replacement has to be made according to the following scheme, where ' ↦ ' means 'is replaced by':"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 165.48016,
+            "t": 457.26640000000003,
+            "r": 429.73205440000004,
+            "b": 395.69955294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "ˆ S n,n -h + 1 ↦ S n -h + 1 , ˆ M n,n -h + 1 ↦ M n -h + 1 , ˆ S n,n -h + 2 ↦ ˆ S n + 1 ,n -h + 2 , ˆ M n,n -h + 2 ↦ ˆ M n + 1 ,n -h + 2 , ⋮ ⋮ ˆ S n,n ↦ ˆ S n + 1 ,n , ˆ M n,n ↦ ˆ M n + 1 ,n .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.63900000000001,
+            "t": 394.22291839999997,
+            "r": 538.6138798918402,
+            "b": 321.09924479999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            558
+          ]
+        }
+      ],
+      "orig": "In the case where estimated value matches the observed value, viz., ˆ r n + 1 = r n + 1 , all ' ↦ ' above become ' = '. If not, S n -h + 1 , ˆ S n + 1 ,n -h + 2 , . . . , ˆ S n + 1 ,n and M n -h + 1 , ˆ M n + 1 ,n -h + 2 , . . . , ˆ M n + 1 ,n have to be computed. Also, in any case, ˆ S n + 1 ,n + 1 and ˆ M n + 1 ,n + 1 have to be computed. If ι n -h + 1 = ˆ ι n,h -h + 1 , a few of those computations can be avoided but the time complexity remains in θ ( h ) in the best scenario, viz., using nextHMM or nextHMMc and precursors computing in constant time.",
+      "text": "In the case where estimated value matches the observed value, viz., ˆ r n + 1 = r n + 1 , all ' ↦ ' above become ' = '. If not, S n -h + 1 , ˆ S n + 1 ,n -h + 2 , . . . , ˆ S n + 1 ,n and M n -h + 1 , ˆ M n + 1 ,n -h + 2 , . . . , ˆ M n + 1 ,n have to be computed. Also, in any case, ˆ S n + 1 ,n + 1 and ˆ M n + 1 ,n + 1 have to be computed. If ι n -h + 1 = ˆ ι n,h -h + 1 , a few of those computations can be avoided but the time complexity remains in θ ( h ) in the best scenario, viz., using nextHMM or nextHMMc and precursors computing in constant time."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 293.7561492,
+            "r": 165.21547314201,
+            "b": 278.28939115828575,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "5 Conclusion",
+      "text": "5 Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 261.9066,
+            "r": 538.6331173943295,
+            "b": 177.69934480000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            489
+          ]
+        }
+      ],
+      "orig": "The Baum-Welch and similar algorithms build an HMM with a given number N of states. As the states of the modelled dynamical system are unknown, finding an adequate N for the model is not obvious. The approach of this note bypasses the problem of estimating N by introducing the concept of signal automaton with a dynamical state space. The author believes that it is relevant to make this method known to the scientific community for experimental or theoretical assessment of its accuracy.",
+      "text": "The Baum-Welch and similar algorithms build an HMM with a given number N of states. As the states of the modelled dynamical system are unknown, finding an adequate N for the model is not obvious. The approach of this note bypasses the problem of estimating N by introducing the concept of signal automaton with a dynamical state space. The author believes that it is relevant to make this method known to the scientific community for experimental or theoretical assessment of its accuracy."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 172.74659999999994,
+            "r": 538.7053397710336,
+            "b": 45.21914479999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            757
+          ]
+        }
+      ],
+      "orig": "The state space of a signal automaton grows by introducing new states. As a new state has no outgoing transition, no forecast is possible when the automaton is in such a state. This is clearly a drawback. However, in many applications, refraining from forecasting in some situations may be preferred over providing a bad forecast. Indeed, when the current situation is very different from all past situations, it may be accepted that there is no sufficient knowledge to make predictions. This is the rationale behind the choice of leaving a new state with no outgoing transition. As a new measurement arrive, latest new state is eventually connected to some state, so that, for any instant i , the ISA at i has at most one state with no outgoing transition.",
+      "text": "The state space of a signal automaton grows by introducing new states. As a new state has no outgoing transition, no forecast is possible when the automaton is in such a state. This is clearly a drawback. However, in many applications, refraining from forecasting in some situations may be preferred over providing a bad forecast. Indeed, when the current situation is very different from all past situations, it may be accepted that there is no sufficient knowledge to make predictions. This is the rationale behind the choice of leaving a new state with no outgoing transition. As a new measurement arrive, latest new state is eventually connected to some state, so that, for any instant i , the ISA at i has at most one state with no outgoing transition."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 294.72,
+            "t": 27.306600000000003,
+            "r": 300.578048,
+            "b": 15.339444800000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.6398,
+            "t": 811.30141283,
+            "r": 538.6085754531841,
+            "b": 726.3389448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            575
+          ]
+        }
+      ],
+      "orig": "The fitting of the model can be performed by varying parameters of τ which intervene in κ ∗ τ , σ ∗ τ and ρ ∗ τ after splitting the signal into training and testing data. The HMM obtained from a signal automaton at time n can also be passed as input to the Baum-Welch or similar algorithm in order to make it converge to a (local) maximum. The latter idea raises the following question. Are there any generic or, at least, application dependent forms of κ ∗ τ , σ ∗ τ and ρ ∗ τ such that the global maximum can be reached upon feeding the Baum-Welch algorithm with the model?",
+      "text": "The fitting of the model can be performed by varying parameters of τ which intervene in κ ∗ τ , σ ∗ τ and ρ ∗ τ after splitting the signal into training and testing data. The HMM obtained from a signal automaton at time n can also be passed as input to the Baum-Welch or similar algorithm in order to make it converge to a (local) maximum. The latter idea raises the following question. Are there any generic or, at least, application dependent forms of κ ∗ τ , σ ∗ τ and ρ ∗ τ such that the global maximum can be reached upon feeding the Baum-Welch algorithm with the model?"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 698.8763492,
+            "r": 138.5820915099537,
+            "b": 683.4095911582857,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 62.520079999999986,
+            "t": 667.0264000000001,
+            "r": 538.5222033274367,
+            "b": 640.5389448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "[1] de la Higuera C. Grammatical Inference: learning automata and grammars. Cambridge University Press, 2010. doi:10.1017/CBO9781139194655.",
+      "text": "de la Higuera C. Grammatical Inference: learning automata and grammars. Cambridge University Press, 2010. doi:10.1017/CBO9781139194655.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 62.51999999999998,
+            "t": 628.1466,
+            "r": 538.6232700284926,
+            "b": 587.2592448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "[2] Verwer S, Eyraud R, de la Higuera C. PAautomaC : a probabilistic automata and hidden Markov models learning competition. Machine Learning , 2014. 96 (1-2):129-154. doi: 10.1007/s10994-013-5409-9.",
+      "text": "Verwer S, Eyraud R, de la Higuera C. PAautomaC : a probabilistic automata and hidden Markov models learning competition. Machine Learning , 2014. 96 (1-2):129-154. doi: 10.1007/s10994-013-5409-9.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 62.51899999999998,
+            "t": 574.8662,
+            "r": 538.710754063616,
+            "b": 533.9791448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "[3] McClintock BT, Langrock R, Gimenez O, Cam E, Borchers DL, Glennie R, Patterson TA. Uncovering ecological state dynamics with hidden Markov models. Ecology Letters , 2020. 23 (12):1878-1903. doi:10.1111/ele.13610.",
+      "text": "McClintock BT, Langrock R, Gimenez O, Cam E, Borchers DL, Glennie R, Patterson TA. Uncovering ecological state dynamics with hidden Markov models. Ecology Letters , 2020. 23 (12):1878-1903. doi:10.1111/ele.13610.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 62.51999999999998,
+            "t": 521.4663,
+            "r": 538.711292630016,
+            "b": 480.69914480000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "[4] Holsclaw T, Greene AM, Robertson AW, Smyth P. A Bayesian Hidden Markov Model of Daily Precipitation over South and East Asia. Journal of Hydrometeorology , 2016. 17 (1):3-25. doi:10.1175/JHM-D-14-0142.1.",
+      "text": "Holsclaw T, Greene AM, Robertson AW, Smyth P. A Bayesian Hidden Markov Model of Daily Precipitation over South and East Asia. Journal of Hydrometeorology , 2016. 17 (1):3-25. doi:10.1175/JHM-D-14-0142.1.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 62.51999999999998,
+            "t": 468.1863,
+            "r": 538.5151254680577,
+            "b": 427.2992448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "[5] Mathew W, abd Bruno Martins RR. Predicting future locations with hidden Markov models. In: UbiComp '12: Proceedings of the 2012 ACM Conference on Ubiquitous Computing. 2012 pp. 911-918. doi:10.1145/2370216.2370421.",
+      "text": "Mathew W, abd Bruno Martins RR. Predicting future locations with hidden Markov models. In: UbiComp '12: Proceedings of the 2012 ACM Conference on Ubiquitous Computing. 2012 pp. 911-918. doi:10.1145/2370216.2370421.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 62.51999999999998,
+            "t": 414.9062,
+            "r": 538.9886002380543,
+            "b": 374.0191448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "[6] Nawaz MA, Curtis A. Bayesian inversion of seismic attributes for geological facies using a Hidden Markov Model. Geophysical Journal International , 2017. 208 (2):1184-1200. doi:0.1093/gji/ggw411.",
+      "text": "Nawaz MA, Curtis A. Bayesian inversion of seismic attributes for geological facies using a Hidden Markov Model. Geophysical Journal International , 2017. 208 (2):1184-1200. doi:0.1093/gji/ggw411.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 62.51999999999998,
+            "t": 361.6266,
+            "r": 538.7010684164864,
+            "b": 320.73924480000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "[7] Baum LE, Petrie T. Statistical Inference for Probabilistic Functions of Finite State Markov Chains. The Annals of Mathematical Statistics , 1966. 37 (6):1554-1563. doi:10.1214/aoms/ 1177699147.",
+      "text": "Baum LE, Petrie T. Statistical Inference for Probabilistic Functions of Finite State Markov Chains. The Annals of Mathematical Statistics , 1966. 37 (6):1554-1563. doi:10.1214/aoms/ 1177699147.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 62.519800000000004,
+            "t": 308.34619999999995,
+            "r": 538.658239998797,
+            "b": 267.4591448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "[8] Baum LE, Eagon JA. An inequality with applications to statistical estimation for probabilistic functions of Markov processes and to a model for ecology. Bulletin of the American Mathematical Society , 1967. 73 (3):360-363. doi:10.1090/S0002-9904-1967-11751-8.",
+      "text": "Baum LE, Eagon JA. An inequality with applications to statistical estimation for probabilistic functions of Markov processes and to a model for ecology. Bulletin of the American Mathematical Society , 1967. 73 (3):360-363. doi:10.1090/S0002-9904-1967-11751-8.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 62.51999999999998,
+            "t": 255.06619999999998,
+            "r": 538.4870473180672,
+            "b": 228.5791448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "[9] Baum LE. An Inequality and Associated Maximization Technique in Statistical Estimation of Probabilistic Functions of a Markov Process. Inequalities , 1972. 3 :1-8.",
+      "text": "Baum LE. An Inequality and Associated Maximization Technique in Statistical Estimation of Probabilistic Functions of a Markov Process. Inequalities , 1972. 3 :1-8.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.640300000000025,
+            "t": 216.1861,
+            "r": 538.6037761282047,
+            "b": 175.2992448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "[10] Welch LR. Hidden Markov models and the Baum-Welch Algorithm. IEEE Information Theory Society Newsletter , 2003. 53 (4):1,10-13. URL http://www.itsoc.org/publications/nltr/it_dec_03final.pdf .",
+      "text": "Welch LR. Hidden Markov models and the Baum-Welch Algorithm. IEEE Information Theory Society Newsletter , 2003. 53 (4):1,10-13. URL http://www.itsoc.org/publications/nltr/it_dec_03final.pdf .",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 162.9062,
+            "r": 538.3363285387006,
+            "b": 136.41914480000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "[11] Rabiner LR. A tutorial on Hidden Markov Models and selected applications in speech. Proceedings of the IEEE , 1989. 77 (2):257-286. doi:10.1109/5.18626.",
+      "text": "Rabiner LR. A tutorial on Hidden Markov Models and selected applications in speech. Proceedings of the IEEE , 1989. 77 (2):257-286. doi:10.1109/5.18626.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.64000000000004,
+            "t": 124.02659999999992,
+            "r": 538.4684708140286,
+            "b": 97.5392448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "[12] Baldi P, Chauvin Y. Smooth On-line Learning Algorithms for Hidden Markov Models. Neural Computation , 1994. 6 (2):307-318. doi:10.1162/neco.1994.6.2.307.",
+      "text": "Baldi P, Chauvin Y. Smooth On-line Learning Algorithms for Hidden Markov Models. Neural Computation , 1994. 6 (2):307-318. doi:10.1162/neco.1994.6.2.307.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.64000000000004,
+            "t": 85.14620000000002,
+            "r": 538.6915144000001,
+            "b": 58.77904479999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "[13] Mongillo G, Deneve S. Online Learning with Hidden Markov Models. Neural Computation , 2008. 28 (7):1706-1716. doi:10.1162/neco.2008.10-06-351.",
+      "text": "Mongillo G, Deneve S. Online Learning with Hidden Markov Models. Neural Computation , 2008. 28 (7):1706-1716. doi:10.1162/neco.2008.10-06-351.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 294.7201,
+            "t": 27.306699999999978,
+            "r": 300.578148,
+            "b": 15.339544799999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 56.6398,
+            "t": 810.5464000000001,
+            "r": 538.7511851473663,
+            "b": 769.6592448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "[14] Chis T, Harrison PG. Adapting Hidden Markov Models for Online Learning. Electronic Notes in Theoretical Computer Science , 2015. 318 :109-127. doi:10.1016/j.entcs.2015.10. 022.",
+      "text": "Chis T, Harrison PG. Adapting Hidden Markov Models for Online Learning. Electronic Notes in Theoretical Computer Science , 2015. 318 :109-127. doi:10.1016/j.entcs.2015.10. 022.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 56.63980000000001,
+            "t": 757.2662,
+            "r": 538.659688801024,
+            "b": 730.8990448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "[15] Rosenblatt M. Remarks on some nonparametric estimates of a density function. The Annals of Mathematical Statistics , 1956. 27 (3):832-837. doi:10.1214/aoms/1177728190.",
+      "text": "Rosenblatt M. Remarks on some nonparametric estimates of a density function. The Annals of Mathematical Statistics , 1956. 27 (3):832-837. doi:10.1214/aoms/1177728190.",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 718.3863,
+            "r": 538.5492246232061,
+            "b": 692.0191448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "[16] Parzen E. On estimation of a probability density function and mode. The Annals of Mathematical Statistics , 1962. 33 (3):1065-1076. doi:10.1214/aoms/1177704472.",
+      "text": "Parzen E. On estimation of a probability density function and mode. The Annals of Mathematical Statistics , 1962. 33 (3):1065-1076. doi:10.1214/aoms/1177704472.",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 679.5063,
+            "r": 538.6096005340413,
+            "b": 653.1392448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "[17] Simonoff JS. Smoothing Methods in Statistics. Springer-Verlag New York, 1996. doi: 10.1007/978-1-4612-4026-6.",
+      "text": "Simonoff JS. Smoothing Methods in Statistics. Springer-Verlag New York, 1996. doi: 10.1007/978-1-4612-4026-6.",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 56.639999999999986,
+            "t": 640.7466000000001,
+            "r": 539.1413332896511,
+            "b": 599.8592448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "[18] Bernacchia A, Pigolotti S. Self-consistent method for density estimation. Journal of the Royal Statistical Society, Series B , 2011. 73 (3):407-422. doi:10.1111/j.1467-9868.2011. 00772.x.",
+      "text": "Bernacchia A, Pigolotti S. Self-consistent method for density estimation. Journal of the Royal Statistical Society, Series B , 2011. 73 (3):407-422. doi:10.1111/j.1467-9868.2011. 00772.x.",
+      "enumerated": true,
+      "marker": "[18]"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 56.639700000000005,
+            "t": 587.3463,
+            "r": 538.5429940262401,
+            "b": 546.5791448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            245
+          ]
+        }
+      ],
+      "orig": "[19] O'Brien TA, Kashinath K, Cavanaugh NR, Collins WD, O'Brien JP. A fast and objective multidimensional kernel density estimation method: fastKDE. Computational Statistics and Data Analysis , 2016. 101 :148-160. doi:10.1016/j.csda.2016.02.014.",
+      "text": "O'Brien TA, Kashinath K, Cavanaugh NR, Collins WD, O'Brien JP. A fast and objective multidimensional kernel density estimation method: fastKDE. Computational Statistics and Data Analysis , 2016. 101 :148-160. doi:10.1016/j.csda.2016.02.014.",
+      "enumerated": true,
+      "marker": "[19]"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 294.72,
+            "t": 27.306400000000053,
+            "r": 300.578048,
+            "b": 15.339244800000074,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 8
+    }
+  }
+}

@@ -1,0 +1,6527 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1807.01934_directed_continuous_time_random_walk_with_memory",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 14290986233896521742,
+    "filename": "1807.01934_directed_continuous_time_random_walk_with_memory.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/texts/141"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/155"
+      },
+      {
+        "$ref": "#/texts/156"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/180"
+      },
+      {
+        "$ref": "#/texts/181"
+      },
+      {
+        "$ref": "#/groups/2"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        },
+        {
+          "$ref": "#/texts/154"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/157"
+        },
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        },
+        {
+          "$ref": "#/texts/161"
+        },
+        {
+          "$ref": "#/texts/162"
+        },
+        {
+          "$ref": "#/texts/163"
+        },
+        {
+          "$ref": "#/texts/164"
+        },
+        {
+          "$ref": "#/texts/165"
+        },
+        {
+          "$ref": "#/texts/166"
+        },
+        {
+          "$ref": "#/texts/167"
+        },
+        {
+          "$ref": "#/texts/168"
+        },
+        {
+          "$ref": "#/texts/169"
+        },
+        {
+          "$ref": "#/texts/170"
+        },
+        {
+          "$ref": "#/texts/171"
+        },
+        {
+          "$ref": "#/texts/172"
+        },
+        {
+          "$ref": "#/texts/173"
+        },
+        {
+          "$ref": "#/texts/174"
+        },
+        {
+          "$ref": "#/texts/175"
+        },
+        {
+          "$ref": "#/texts/176"
+        },
+        {
+          "$ref": "#/texts/177"
+        },
+        {
+          "$ref": "#/texts/178"
+        },
+        {
+          "$ref": "#/texts/179"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/182"
+        },
+        {
+          "$ref": "#/texts/183"
+        },
+        {
+          "$ref": "#/texts/184"
+        },
+        {
+          "$ref": "#/texts/185"
+        },
+        {
+          "$ref": "#/texts/186"
+        },
+        {
+          "$ref": "#/texts/187"
+        },
+        {
+          "$ref": "#/texts/188"
+        },
+        {
+          "$ref": "#/texts/189"
+        },
+        {
+          "$ref": "#/texts/190"
+        },
+        {
+          "$ref": "#/texts/191"
+        },
+        {
+          "$ref": "#/texts/192"
+        },
+        {
+          "$ref": "#/texts/193"
+        },
+        {
+          "$ref": "#/texts/194"
+        },
+        {
+          "$ref": "#/texts/195"
+        },
+        {
+          "$ref": "#/texts/196"
+        },
+        {
+          "$ref": "#/texts/197"
+        },
+        {
+          "$ref": "#/texts/198"
+        },
+        {
+          "$ref": "#/texts/199"
+        },
+        {
+          "$ref": "#/texts/200"
+        },
+        {
+          "$ref": "#/texts/201"
+        },
+        {
+          "$ref": "#/texts/202"
+        },
+        {
+          "$ref": "#/texts/203"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 571.9800146484375,
+            "r": 36.206559297218156,
+            "b": 222.0000146484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:1807.01934v1  [q-fin.ST]  5 Jul 2018",
+      "text": "arXiv:1807.01934v1  [q-fin.ST]  5 Jul 2018"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.387,
+            "t": 787.8309650484375,
+            "r": 206.55550549999998,
+            "b": 769.2130043040571,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Noname manuscript No. (will be inserted by the editor)",
+      "text": "Noname manuscript No. (will be inserted by the editor)"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 717.1812818484375,
+            "r": 400.01362688000006,
+            "b": 706.6874413965643,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Directed Continuous-Time Random Walk with memory",
+      "text": "Directed Continuous-Time Random Walk with memory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 686.6389650484376,
+            "r": 234.93922144,
+            "b": 678.7685847095327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Jarosglyph[suppress] law Klamut · Tomasz Gubiec",
+      "text": "Jarosglyph[suppress] law Klamut · Tomasz Gubiec"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 596.5995929484376,
+            "r": 214.17303483000003,
+            "b": 589.6343227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Received: date / Revised version: date",
+      "text": "Received: date / Revised version: date"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 565.9952681484376,
+            "r": 417.70695215,
+            "b": 431.6960043040573,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            903
+          ]
+        }
+      ],
+      "orig": "Abstract We propose a new Directed Continuous-Time Random Walk (CTRW) model with memory. As CTRW trajectory consists of spatial jumps preceded by waiting times, in Directed CTRW, we consider the case with only positive spatial jumps. Moreover, we consider the memory in the model as each spatial jump depends on the previous one. Our model is motivated by the financial application of the CTRW presented in [Phys. Rev. E 82:046119][Eur. Phys. J. B 90:50]. As CTRWcan successfully describe the short term negative autocorrelation of returns in high-frequency financial data (caused by the bid-ask bounce phenomena), we asked ourselves to what extent the observed long-term autocorrelation of absolute values of returns can be explained by the same phenomena. It turned out that the bid-ask bounce can be responsible only for the small fraction of the memory observed in the high-frequency financial data.",
+      "text": "Abstract We propose a new Directed Continuous-Time Random Walk (CTRW) model with memory. As CTRW trajectory consists of spatial jumps preceded by waiting times, in Directed CTRW, we consider the case with only positive spatial jumps. Moreover, we consider the memory in the model as each spatial jump depends on the previous one. Our model is motivated by the financial application of the CTRW presented in [Phys. Rev. E 82:046119][Eur. Phys. J. B 90:50]. As CTRWcan successfully describe the short term negative autocorrelation of returns in high-frequency financial data (caused by the bid-ask bounce phenomena), we asked ourselves to what extent the observed long-term autocorrelation of absolute values of returns can be explained by the same phenomena. It turned out that the bid-ask bounce can be responsible only for the small fraction of the memory observed in the high-frequency financial data."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 422.23726814843764,
+            "r": 268.6888044499999,
+            "b": 413.96600430405726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "PACS 89.20.-a · 89.75.-k · 05.40.-a · 89.65.Gh",
+      "text": "PACS 89.20.-a · 89.75.-k · 05.40.-a · 89.65.Gh"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.99999999999997,
+            "t": 387.19496504843767,
+            "r": 139.10543423999997,
+            "b": 379.32458470953276,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.99999999999997,
+            "t": 364.76026814843766,
+            "r": 417.7069521499999,
+            "b": 287.7470043040573,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            525
+          ]
+        }
+      ],
+      "orig": "In 1956 two physicists Montroll and Weiss, in the context of dispersive transport diffusion, introduced a new stochastic process they named Continuous-Time Random Walk (CTRW) [1]. As dynamics of many complex systems can be described by discrete spatiotemporal events, i.e., the spatial jump of stochastic process preceded by waiting time, the formalism of CTRW seems a natural description. On the other hand, CTRW can be considered as a way to introduce finite, continuous and fluctuating interevent times into a random walk.",
+      "text": "In 1956 two physicists Montroll and Weiss, in the context of dispersive transport diffusion, introduced a new stochastic process they named Continuous-Time Random Walk (CTRW) [1]. As dynamics of many complex systems can be described by discrete spatiotemporal events, i.e., the spatial jump of stochastic process preceded by waiting time, the formalism of CTRW seems a natural description. On the other hand, CTRW can be considered as a way to introduce finite, continuous and fluctuating interevent times into a random walk."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.99999999999997,
+            "t": 273.1032681484377,
+            "r": 417.7078985999999,
+            "b": 253.37500430405726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 748.9412681484376,
+            "r": 417.70316634999995,
+            "b": 706.2990043040572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            159,
+            433
+          ]
+        }
+      ],
+      "orig": "Since its introduction, the elegant and flexible concept of CTRW found many applications and inspired at least three generations of scientists. It is worth to mention that recently The European Physical Journal B published a special issue titled 'Continuous Time Random Walk fifty years on'. The extended introduction to this topical issue by Kutner and Masoliver lists all applications and extensions of CTRW created up to 2017 [2].",
+      "text": "Since its introduction, the elegant and flexible concept of CTRW found many applications and inspired at least three generations of scientists. It is worth to mention that recently The European Physical Journal B published a special issue titled 'Continuous Time Random Walk fifty years on'. The extended introduction to this topical issue by Kutner and Masoliver lists all applications and extensions of CTRW created up to 2017 [2]."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 241.45559294843747,
+            "r": 128.79732363,
+            "b": 234.4903227317228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Tomasz Gubiec",
+      "text": "Tomasz Gubiec"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 232.24059294843755,
+            "r": 417.6998994599999,
+            "b": 216.05932273172277,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "Center for Polymer Studies and Department of Physics, Boston University, Boston, MA 02215, USA",
+      "text": "Center for Polymer Studies and Department of Physics, Boston University, Boston, MA 02215, USA"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 208.82759294843754,
+            "r": 199.52406308000005,
+            "b": 201.86232273172277,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Tomasz Gubiec · Jaroslaw Klamut",
+      "text": "Tomasz Gubiec · Jaroslaw Klamut"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 199.6125929484375,
+            "r": 369.8402459699997,
+            "b": 192.64732273172285,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Faculty of Physics, University of Warsaw, Pasteur Str. 5, 02093 Warsaw, Poland",
+      "text": "Faculty of Physics, University of Warsaw, Pasteur Str. 5, 02093 Warsaw, Poland"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 773.3405929484376,
+            "r": 76.23451413,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 326.50362423,
+            "t": 773.3405929484376,
+            "r": 417.6998994599999,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "J.Klamut and T. Gubiec",
+      "text": "J.Klamut and T. Gubiec"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 691.6562681484377,
+            "r": 417.70789859999985,
+            "b": 568.8150043040573,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            876
+          ]
+        }
+      ],
+      "orig": "CTRW was initially introduced to describe a photocurrent relaxation in amorphous films [3-7]. A broad spectrum of other applications and arrangements contains: diffusion in probabilistic fractal structures (percolations clusters [8] and fractal diffusion [9]), aging of glasses [10,11], nearly constant dielectric loss in disordered ionic conductors [12], cardiological rhythms [13], electron transfer [14], search models [15], transport in porous media [16], diffusion of epicenters of earthquakes aftershocks [17], subsurface tracer diffusion [18], hydrogen diffusion in nanostructure compounds [19] or even human travel [20]. In this work we are particularly interested in CTRW models used in the description of financial markets, mainly financial time series, where the dependencies and distributions of times between transactions and price changes are considered [21-36].",
+      "text": "CTRW was initially introduced to describe a photocurrent relaxation in amorphous films [3-7]. A broad spectrum of other applications and arrangements contains: diffusion in probabilistic fractal structures (percolations clusters [8] and fractal diffusion [9]), aging of glasses [10,11], nearly constant dielectric loss in disordered ionic conductors [12], cardiological rhythms [13], electron transfer [14], search models [15], transport in porous media [16], diffusion of epicenters of earthquakes aftershocks [17], subsurface tracer diffusion [18], hydrogen diffusion in nanostructure compounds [19] or even human travel [20]. In this work we are particularly interested in CTRW models used in the description of financial markets, mainly financial time series, where the dependencies and distributions of times between transactions and price changes are considered [21-36]."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 554.1722681484378,
+            "r": 417.7078985999998,
+            "b": 431.33000430405735,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            847
+          ]
+        }
+      ],
+      "orig": "In the majority of cases, the analyzed CTRW models focus on the spatial distribution with zero mean or even symmetric distribution. In other words, the drift term is usually neglected. The case of drift was studied in [37] (and references therein). The case of canonical CTRW, where both spatial and temporal distributions are i.i.d. and they do not depend on each other, turns out to be a compelling model, able to describe many cases of normal or anomalous diffusion. Different types of CTRW are obtained if mean waiting time is finite or diverging (but assuming finite variance of the spatial distribution). In the first case, we observe a normal diffusion, in the latter subdiffusion occurs [38]. If the variance of the spatial distribution diverges and waiting time distribution has a finite mean, we obtain the description of L´ evy flights.",
+      "text": "In the majority of cases, the analyzed CTRW models focus on the spatial distribution with zero mean or even symmetric distribution. In other words, the drift term is usually neglected. The case of drift was studied in [37] (and references therein). The case of canonical CTRW, where both spatial and temporal distributions are i.i.d. and they do not depend on each other, turns out to be a compelling model, able to describe many cases of normal or anomalous diffusion. Different types of CTRW are obtained if mean waiting time is finite or diverging (but assuming finite variance of the spatial distribution). In the first case, we observe a normal diffusion, in the latter subdiffusion occurs [38]. If the variance of the spatial distribution diverges and waiting time distribution has a finite mean, we obtain the description of L´ evy flights."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 416.68726814843774,
+            "r": 417.7078986000001,
+            "b": 282.3890043040574,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            949
+          ]
+        }
+      ],
+      "orig": "The other promising branch of CTRW models is the one considering memory, i.e., the dependence between successive jumps. Different types of dependencies were already studied: the backward or forward correlations between spatial jump directions [39] in the case of concentrated lattice gas for the study of the tracer coefficient [40], even taking into account the dependencies over several subsequent jumps [41]. Also, models driven by the negative feedback in consecutive jumps were built, considering one-step memory [35,42] and later two-step or even infinity-step memory [34]. Their potential applications cover the Le Chatelier-Braun principle of contrariness. Memory in waiting times also appeared in some CTRW models [43-48]. Examples of used dependencies are correlations which solely depends on the sign of consecutive jumps [43], random walk of waiting times [45, 46], exponential and slowly decaying persistent power-law correlations [47].",
+      "text": "The other promising branch of CTRW models is the one considering memory, i.e., the dependence between successive jumps. Different types of dependencies were already studied: the backward or forward correlations between spatial jump directions [39] in the case of concentrated lattice gas for the study of the tracer coefficient [40], even taking into account the dependencies over several subsequent jumps [41]. Also, models driven by the negative feedback in consecutive jumps were built, considering one-step memory [35,42] and later two-step or even infinity-step memory [34]. Their potential applications cover the Le Chatelier-Braun principle of contrariness. Memory in waiting times also appeared in some CTRW models [43-48]. Examples of used dependencies are correlations which solely depends on the sign of consecutive jumps [43], random walk of waiting times [45, 46], exponential and slowly decaying persistent power-law correlations [47]."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 267.7462681484378,
+            "r": 417.70695215,
+            "b": 190.73300430405743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            571
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 748.9412681484376,
+            "r": 417.7069521499999,
+            "b": 671.9280043040573,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            572,
+            1105
+          ]
+        }
+      ],
+      "orig": "Our work is directly motivated by the application of CTRW in the description of high-frequency financial data. The universal properties of all financial price time series are sometimes referred to as stylized facts [49,50]. There are two well known stylized facts about autocorrelation of price time series. The first one states that the time-dependent autocorrelation of price increments (or logarithmic returns) is negative and quickly decays to zero [43]. A CTRW model with memory [35] successfully reproduced this fact. The second stylized fact states that autocorre- lation of the absolute value of price increments (or absolute values of log returns) is a positive slowly decaying function. Also, the amplitude in the second case is usually an order of magnitude higher than in the first case. It is the reminiscence of the so-called volatility clustering phenomenon [51]. It seems natural to ask if the CTRW model with memory introduced in [35] adapted to describe absolute values of price changes can successfully reproduce the second mentioned stylized fact. We are answering this question below.",
+      "text": "Our work is directly motivated by the application of CTRW in the description of high-frequency financial data. The universal properties of all financial price time series are sometimes referred to as stylized facts [49,50]. There are two well known stylized facts about autocorrelation of price time series. The first one states that the time-dependent autocorrelation of price increments (or logarithmic returns) is negative and quickly decays to zero [43]. A CTRW model with memory [35] successfully reproduced this fact. The second stylized fact states that autocorre- lation of the absolute value of price increments (or absolute values of log returns) is a positive slowly decaying function. Also, the amplitude in the second case is usually an order of magnitude higher than in the first case. It is the reminiscence of the so-called volatility clustering phenomenon [51]. It seems natural to ask if the CTRW model with memory introduced in [35] adapted to describe absolute values of price changes can successfully reproduce the second mentioned stylized fact. We are answering this question below."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 773.3405929484376,
+            "r": 278.10598899,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Directed Continuous-Time Random Walk with memory",
+      "text": "Directed Continuous-Time Random Walk with memory"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 413.47016739000003,
+            "t": 773.3405929484376,
+            "r": 417.70468152,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 657.2852681484377,
+            "r": 417.7041127999998,
+            "b": 591.7290043040573,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            421
+          ]
+        }
+      ],
+      "orig": "The paper is organized as follows: in Section 2 we present the motivation of our work and define and solve the proper stochastic process. In Section 3 we obtain Velocity Autocorrelation Function (VAF) and in Section 4 the comparison with empirical data is made. The intraday-seasonality is taken into account in Section 5. Finally in Section 6 we conclude with some additional remarks the results presented in this paper.",
+      "text": "The paper is organized as follows: in Section 2 we present the motivation of our work and define and solve the proper stochastic process. In Section 3 we obtain Velocity Autocorrelation Function (VAF) and in Section 4 the comparison with empirical data is made. The intraday-seasonality is taken into account in Section 5. Finally in Section 6 we conclude with some additional remarks the results presented in this paper."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 566.7749650484377,
+            "r": 109.99153344,
+            "b": 558.9045847095327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "2 Model",
+      "text": "2 Model",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 544.4382681484377,
+            "r": 417.70695214999984,
+            "b": 421.59700430405735,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            810
+          ]
+        }
+      ],
+      "orig": "We construct a directed continuous-time random walk (CTRW) process with assumptions analogical to ones used in [35] but focused on the absolute values of spatial jumps. This process models stock prices, the value of the process at time t represents the stock price at the corresponding time. A change of its value, called jump, is the price change (which happens immediately when transaction occurs). Waiting time can be interpreted as the time between transactions. We consider one-step memory for consecutive jumps and no dependence between waiting times or between waiting times and jumps. To consider modules of jumps, we create a new process based on the original one. We insert jump length modules in the place of jumps. We obtain directed process, where one-step memory for consecutive jumps is given by",
+      "text": "We construct a directed continuous-time random walk (CTRW) process with assumptions analogical to ones used in [35] but focused on the absolute values of spatial jumps. This process models stock prices, the value of the process at time t represents the stock price at the corresponding time. A change of its value, called jump, is the price change (which happens immediately when transaction occurs). Waiting time can be interpreted as the time between transactions. We consider one-step memory for consecutive jumps and no dependence between waiting times or between waiting times and jumps. To consider modules of jumps, we create a new process based on the original one. We insert jump length modules in the place of jumps. We obtain directed process, where one-step memory for consecutive jumps is given by"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 145.74599999999998,
+            "t": 410.83826814843775,
+            "r": 417.70372785000006,
+            "b": 401.8145413810026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "H ( R n | R n -1 ) = (1 -ϵ ) H ( R n ) + ϵδ ( R n -R n -1 ) , (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.00000000000006,
+            "t": 391.80926814843775,
+            "r": 417.70505925000015,
+            "b": 313.74554138100257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            547
+          ]
+        }
+      ],
+      "orig": "where H ( R n ) and H ( R n | R n -1 ) are respectively distribution of jump modules and conditional distribution of jump modules. Parameter ϵ describes the strength of the memory, for ϵ = 0 we obtain the model without memory. Considering directed CTRW of absolute values of price changes, Dirac delta describes the same consecutive jumps, not the opposite ones, as it was the case in [35]. To sum up, our model can be described by the probability density functions of n th jump R n after waiting time t n conditioned on all previous R i and t i :",
+      "text": "where H ( R n ) and H ( R n | R n -1 ) are respectively distribution of jump modules and conditional distribution of jump modules. Parameter ϵ describes the strength of the memory, for ϵ = 0 we obtain the model without memory. Considering directed CTRW of absolute values of price changes, Dirac delta describes the same consecutive jumps, not the opposite ones, as it was the case in [35]. To sum up, our model can be described by the probability density functions of n th jump R n after waiting time t n conditioned on all previous R i and t i :"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 136.77200000000013,
+            "t": 304.03826814843774,
+            "r": 417.7037278500002,
+            "b": 295.0135413810026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "ρ ( R n , t n | R n -1 , t n -1 ; . . . ; R 1 , t 1 ) = H ( R n | R n -1 ) ψ ( t ) , (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.00000000000017,
+            "t": 285.00826814843776,
+            "r": 417.7010017500002,
+            "b": 265.28000430405746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "where ψ ( t ) represents the waiting time distribution (WTD). Results will be presented for any WTD and in two specific cases.",
+      "text": "where ψ ( t ) represents the waiting time distribution (WTD). Results will be presented for any WTD and in two specific cases."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.00000000000017,
+            "t": 250.6372681484379,
+            "r": 417.70505925,
+            "b": 219.45200430405748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "We cannot use the same waiting time distribution for the first jump as for other jumps [52,53]. This is because the previous (preinitial) jump might have occured at any time before t = 0. Therefore, we should define",
+      "text": "We cannot use the same waiting time distribution for the first jump as for other jumps [52,53]. This is because the previous (preinitial) jump might have occured at any time before t = 0. Therefore, we should define"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 176.32100000000017,
+            "t": 212.61012004843792,
+            "r": 417.70372784999995,
+            "b": 184.93411695362488,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "ψ 1 ( t ) = ∫ ∞ 0 dt ′ ψ ( t + t ′ ) ∫ ∞ 0 dt ′′ ∫ ∞ 0 dt ′ ψ ( t ′ + t ′′ ) , (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 773.3405929484376,
+            "r": 76.23451413,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 326.50362423,
+            "t": 773.3405929484376,
+            "r": 417.6998994599999,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "J.Klamut and T. Gubiec",
+      "text": "J.Klamut and T. Gubiec"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 748.9412681484376,
+            "r": 417.7012734499999,
+            "b": 717.7560043040572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "as the waiting time distribution before the first jump. Moreover, for simplicity of notation it is useful to introduce sojourn probability Ψ ( t ) = ∫ ∞ t ψ ( t ′ ) dt ′ . Above probabilities can be easily expressed in the Laplace domain:",
+      "text": "as the waiting time distribution before the first jump. Moreover, for simplicity of notation it is useful to introduce sojourn probability Ψ ( t ) = ∫ ∞ t ψ ( t ′ ) dt ′ . Above probabilities can be easily expressed in the Laplace domain:"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 205.553,
+            "t": 709.7112681484376,
+            "r": 417.70372784999995,
+            "b": 620.2541040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "˜ ψ ( s ) = L [ ψ ( t )] , ˜ Ψ ( s ) = 1 -˜ ψ ( s ) s , ˜ ψ 1 ( s ) = 1 -˜ ψ ( s ) 〈 t 〉 s , ˜ Ψ 1 ( s ) = 1 -˜ ψ 1 ( s ) s , (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 615.5831200484374,
+            "r": 417.7078985999999,
+            "b": 512.5970043040571,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            721
+          ]
+        }
+      ],
+      "orig": "where L [ · ] denotes Laplace transform and 〈 t 〉 = ∫ ∞ 0 tψ ( t ) dt < ∞ is expected (mean) waiting time. The intermediate dynamic quantity describing the stochastic process is the stochastic, sharp, n -step propagator Q n ( X,R n ; t | ξ ) , n = 1 , 2 , . . . This propagator is defined as the conditional probability density that the price, which was initially (at t = 0) in the origin value ( X = 0) reached by preinitial jump ξ , makes its n th jump by R n from X -R n to X exactly at time t . ˜ Q n ( K,R n ; s | ξ ) is sharp propagator in the Fourier-Laplace domain. The recursion relation between two successive sharp stochastic propagators can be written for any form of H ( R n | R n -1 ) and n > 1, as follows:",
+      "text": "where L [ · ] denotes Laplace transform and 〈 t 〉 = ∫ ∞ 0 tψ ( t ) dt < ∞ is expected (mean) waiting time. The intermediate dynamic quantity describing the stochastic process is the stochastic, sharp, n -step propagator Q n ( X,R n ; t | ξ ) , n = 1 , 2 , . . . This propagator is defined as the conditional probability density that the price, which was initially (at t = 0) in the origin value ( X = 0) reached by preinitial jump ξ , makes its n th jump by R n from X -R n to X exactly at time t . ˜ Q n ( K,R n ; s | ξ ) is sharp propagator in the Fourier-Laplace domain. The recursion relation between two successive sharp stochastic propagators can be written for any form of H ( R n | R n -1 ) and n > 1, as follows:"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 89.50600000000006,
+            "t": 505.18412004843753,
+            "r": 417.70372785000006,
+            "b": 471.6589580516375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "˜ Q n ( K,R n ; s | ξ ) = ˜ ψ ( s ) e iKR n ∞ ∫ -∞ dR n -1 H ( R n | R n -1 ) ˜ Q n -1 ( K,R n -1 ; s | ξ ) . (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00000000000006,
+            "t": 462.2862681484375,
+            "r": 417.7006469000001,
+            "b": 453.37611695362483,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "The first sharp propagator Q 1 ( X,R 1 ; t | ξ ) can be calculated directly from definition",
+      "text": "The first sharp propagator Q 1 ( X,R 1 ; t | ξ ) can be calculated directly from definition"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 111.67600000000006,
+            "t": 443.6822681484375,
+            "r": 417.7037278500002,
+            "b": 434.7711169536248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "Q 1 ( X,R 1 ; t | ξ ) = Q 1 ( X ; t | ξ ) δ ( X -R 1 ) = ψ 1 ( t ) H ( X | ξ ) δ ( X -R 1 ) . (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00000000000017,
+            "t": 425.0772681484375,
+            "r": 417.69938055000006,
+            "b": 404.82854138100237,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "The following sharp propagators can be calculated using Eq. (5). After integrating over R n we obtain the recursion relation",
+      "text": "The following sharp propagators can be calculated using Eq. (5). After integrating over R n we obtain the recursion relation"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 76.91200000000016,
+            "t": 398.78012004843754,
+            "r": 417.70372784999995,
+            "b": 355.6360043040571,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "˜ Q n ( K ; s | ξ ) ˜ ψ ( s ) = (1 -ϵ ) ˜ H ( K ) ˜ Q n -1 ( K ; s | ξ ) + ϵ ∞ ∫ 0 dR n -1 e iKR n -1 ˜ Q n -1 ( K,R n -1 ; s | ξ ) . (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99999999999989,
+            "t": 352.4502681484375,
+            "r": 417.7020735499999,
+            "b": 321.26500430405713,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "Finally, we can write the relation between the soft propagator P ( x, t ), defined as the probability density that process will be in x at the time t starting from x = 0 at the time t = 0, and the sharp propagator Q ( x, t ) (in the Fourier-Laplace domain)",
+      "text": "Finally, we can write the relation between the soft propagator P ( x, t ), defined as the probability density that process will be in x at the time t starting from x = 0 at the time t = 0, and the sharp propagator Q ( x, t ) (in the Fourier-Laplace domain)"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 179.40699999999987,
+            "t": 312.9842681484374,
+            "r": 417.7037278499998,
+            "b": 302.02211695362485,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "˜ P ( K ; s ) = ˜ Ψ 1 ( s ) + ˜ Ψ ( s ) ˜ Q ( K ; s ) , (8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 179.30299999999977,
+            "t": 297.8101200484375,
+            "r": 417.7037278499998,
+            "b": 279.5115413810023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "˜ Q ( K ; s ) = ∞ ∑ ˜ Q n ( K ; s ) . (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 223.79499999999976,
+            "t": 275.9061200484375,
+            "r": 238.96439212999977,
+            "b": 269.81154138100237,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "n =1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99999999999977,
+            "t": 261.3692681484374,
+            "r": 417.7079809499998,
+            "b": 218.72700430405712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            288
+          ]
+        }
+      ],
+      "orig": "To obtain explicit formula for the right hand side of Eq. (9), in case of one-step memoru defined by Eq. (1), we use the Z-transform in variable n and recurrence relation (7). The result can be simplit substituted into Eq. (8) and hence we obtain the soft propagator in the following form",
+      "text": "To obtain explicit formula for the right hand side of Eq. (9), in case of one-step memoru defined by Eq. (1), we use the Z-transform in variable n and recurrence relation (7). The result can be simplit substituted into Eq. (8) and hence we obtain the soft propagator in the following form"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 117.19599999999983,
+            "t": 210.68126814843754,
+            "r": 417.70353439999997,
+            "b": 186.75800430405707,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "˜ P ( K ; s ) = 1 s -1 -˜ ψ ( s ) 〈 t 〉 s 2 + [1 -˜ ψ ( s )] 2 〈 t 〉 s 2 S ( K ; s ) 1 -(1 -ϵ ) ˜ ψ ( s ) S ( K ; s ) . (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 773.3405929484376,
+            "r": 278.10598899,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Directed Continuous-Time Random Walk with memory",
+      "text": "Directed Continuous-Time Random Walk with memory"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 413.47016739000003,
+            "t": 773.3405929484376,
+            "r": 417.70468152,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 748.9412681484376,
+            "r": 96.88879564999999,
+            "b": 740.6700043040572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 176.76,
+            "t": 742.1561200484375,
+            "r": 417.7045344,
+            "b": 714.1585413810024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "S ( K ; s ) = ∞ ∑ n =1 ( ˜ ψ ( s ) ϵ ) n -1 ˜ H ( nK ) . (11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 707.6602681484376,
+            "r": 417.7060056999999,
+            "b": 653.5610043040572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            366
+          ]
+        }
+      ],
+      "orig": "As a result, the soft propagator in the Fourier-Laplace domain takes a reasonably simple form, however it still contains the function S which is given as an infinite sum. Fortunately, to compute moments of process and autocorrelation of velocity we need to know the corresponding derivatives of the soft propagator at point K = 0, which can be determined explicitly.",
+      "text": "As a result, the soft propagator in the Fourier-Laplace domain takes a reasonably simple form, however it still contains the function S which is given as an infinite sum. Fortunately, to compute moments of process and autocorrelation of velocity we need to know the corresponding derivatives of the soft propagator at point K = 0, which can be determined explicitly."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 638.9182681484376,
+            "r": 417.70789859999996,
+            "b": 619.1900043040572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "The first and the second moment of the process in the Fourier-Laplace domain are",
+      "text": "The first and the second moment of the process in the Fourier-Laplace domain are"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 90.813,
+            "t": 611.5392681484377,
+            "r": 237.3279072,
+            "b": 588.5721746484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "˜ m 1 ( s ) = -i ∂ ˜ P ( K ; s ) ∂K ∣ ∣ ∣ ∣ = M 1 〈 t 〉 s 2 ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 90.813,
+            "t": 583.6232681484377,
+            "r": 398.8909213000002,
+            "b": 531.3640043040572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            272
+          ]
+        }
+      ],
+      "orig": "˜ m 2 ( s ) = -∂ 2 ˜ P ( K ; s ) ∂K 2 ∣ ∣ ∣ ∣ K =0 = M 2 +(1 -ϵ )(2 M 2 1 -M 2 ) ˜ ψ ( s ) -ϵM 2 ˜ ψ 2 ( s ) 〈 t 〉 s 2 (1 -˜ ψ ( s ))(1 -ϵ ˜ ψ ( s )) = = M 2 (1 + ϵ ˜ ψ ( s )) 〈 t 〉 s 2 (1 -ϵ ˜ ψ ( s )) + 2(1 -ϵ ) ˜ ψ ( s ) M 2 1 〈 t 〉 s 2 (1 -˜ ψ ( s ))(1 -ϵ ˜ ψ ( s )) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 180.895,
+            "t": 603.5552681484376,
+            "r": 417.70453440000006,
+            "b": 538.9320043040572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "K =0 (12) (13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 520.5812681484376,
+            "r": 417.70411279999985,
+            "b": 476.5270043040571,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "where M i is the i -th moment of jump modules distribution H ( R ). The first moment of the directed process in the time space rises linearly in time m 1 ( t ) = M 1 〈 t 〉 t , exactly like for the process without memory. It is worth to notice that it does not depend on ϵ .",
+      "text": "where M i is the i -th moment of jump modules distribution H ( R ). The first moment of the directed process in the time space rises linearly in time m 1 ( t ) = M 1 〈 t 〉 t , exactly like for the process without memory. It is worth to notice that it does not depend on ϵ ."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 450.50896504843746,
+            "r": 239.53359744,
+            "b": 442.63858470953255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "3 Velocity Autocorrelation Function",
+      "text": "3 Velocity Autocorrelation Function",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 428.1572681484374,
+            "r": 417.7022198999998,
+            "b": 408.42900430405706,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "In the general case, the velocity autocorrelation function (VAF) in the time domain is given by",
+      "text": "In the general case, the velocity autocorrelation function (VAF) in the time domain is given by"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 195.35699999999994,
+            "t": 407.6752681484374,
+            "r": 417.70453440000006,
+            "b": 387.52400430405714,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "C ( t ) = 1 2 ¨ m 2 ( t ) -˙ m 2 1 ( t ) . (14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.00000000000006,
+            "t": 382.49826814843755,
+            "r": 417.7060057,
+            "b": 362.7700043040572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "In the case of the directed CTRW process considered in this manuscript, it takes the form",
+      "text": "In the case of the directed CTRW process considered in this manuscript, it takes the form"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.60100000000006,
+            "t": 354.9856034484375,
+            "r": 417.7045343999999,
+            "b": 329.9220043040571,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "C ( t ) = ( M 2 -M 2 1 2 〈 t 〉 ) L -1 [ 1 + ϵ ˜ ψ ( s ) 1 -ϵ ˜ ψ ( s ) ] + M 2 1 2 〈 t 〉 L -1 [ 1 + ˜ ψ ( s ) 1 -˜ ψ ( s ) -2 〈 t 〉 s ] , (15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99999999999989,
+            "t": 318.9451200484375,
+            "r": 417.70536749999985,
+            "b": 248.1995413810023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            516
+          ]
+        }
+      ],
+      "orig": "where L -1 [ · ] is the inverse Laplace transform. To investigate the behavior of VAF in the limits t → 0 and t →∞ , we have to check the behavior in limits s →∞ and s → 0 of the expressions inside inverse Laplace transforms. It is known that for s →∞ , ˜ ψ ( s ) goes to 0, while for s → 0 the approximation ˜ ψ ( s ) ≈ 1 -〈 t 〉 s should be used. Therefore, in the limit of long times VAF vanishes and for short times we obtain the variance of the process C ( t ) ≈ M 2 2 〈 t 〉 δ ( t ). Normalized VAF C n ( t ) has",
+      "text": "where L -1 [ · ] is the inverse Laplace transform. To investigate the behavior of VAF in the limits t → 0 and t →∞ , we have to check the behavior in limits s →∞ and s → 0 of the expressions inside inverse Laplace transforms. It is known that for s →∞ , ˜ ψ ( s ) goes to 0, while for s → 0 the approximation ˜ ψ ( s ) ≈ 1 -〈 t 〉 s should be used. Therefore, in the limit of long times VAF vanishes and for short times we obtain the variance of the process C ( t ) ≈ M 2 2 〈 t 〉 δ ( t ). Normalized VAF C n ( t ) has"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99999999999989,
+            "t": 246.32412004843752,
+            "r": 243.56607540000002,
+            "b": 232.0204685158726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Dirac delta at t = 0 so C n ( t ) = 2 〈 t 〉 M 2 C ( t ).",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 220.5582681484375,
+            "r": 417.7078985999999,
+            "b": 189.37300430405708,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 748.9412681484376,
+            "r": 417.70127345000003,
+            "b": 717.7560043040572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            248,
+            434
+          ]
+        }
+      ],
+      "orig": "To compare our model with empirical data we use two specific WTDs: exponential and double-exponential, with explicit results for both. First one is a simple distribution and its characteristics match stylized facts of financial time series. Second one can be fitted to empirical data with high accuracy [35] and still allow to obtain analitical VAF from the model. Exponential WTD with the mean waiting time equal to 〈 t 〉 is given as",
+      "text": "To compare our model with empirical data we use two specific WTDs: exponential and double-exponential, with explicit results for both. First one is a simple distribution and its characteristics match stylized facts of financial time series. Second one can be fitted to empirical data with high accuracy [35] and still allow to obtain analitical VAF from the model. Exponential WTD with the mean waiting time equal to 〈 t 〉 is given as"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 773.3405929484376,
+            "r": 76.23451413,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 326.50362423,
+            "t": 773.3405929484376,
+            "r": 417.6998994599999,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "J.Klamut and T. Gubiec",
+      "text": "J.Klamut and T. Gubiec"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 196.394,
+            "t": 716.3216034484376,
+            "r": 417.7045344,
+            "b": 695.5291040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "ψ ( t ) = 1 〈 t 〉 exp ( -t 〈 t 〉 ) , (16)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 688.0282681484374,
+            "r": 417.20559861000004,
+            "b": 668.300004304057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "and double-exponential WTD with partial mean waiting times equal to τ 1 and τ 2 and weighting parameter w is given as",
+      "text": "and double-exponential WTD with partial mean waiting times equal to τ 1 and τ 2 and weighting parameter w is given as"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 154.94000000000003,
+            "t": 658.7626034484375,
+            "r": 417.7045344,
+            "b": 637.2361169536248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "ψ ( t ) = w τ 1 exp ( -t τ 1 ) + 1 -w τ 2 exp ( -t τ 2 ) . (17)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 627.1082681484374,
+            "r": 379.42111474999996,
+            "b": 618.1981169536247,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Mean waiting time of double-exponential WTD is 〈 t 〉 = wτ 1 +(1 -w ) τ 2 .",
+      "text": "Mean waiting time of double-exponential WTD is 〈 t 〉 = wτ 1 +(1 -w ) τ 2 ."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 604.1942681484375,
+            "r": 300.79482299999984,
+            "b": 595.923004304057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "For the exponential WTD, VAF is easily expressed as",
+      "text": "For the exponential WTD, VAF is easily expressed as"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 153.78899999999993,
+            "t": 586.3556034484376,
+            "r": 417.70453439999994,
+            "b": 565.5631040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "C n ( t ) = δ ( t ) + 2 ϵ (1 -M ) 〈 t 〉 exp ( -(1 -ϵ ) t 〈 t 〉 ) , (18)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 555.2272681484375,
+            "r": 96.88879564999993,
+            "b": 546.956004304057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 207.49199999999993,
+            "t": 548.0199579484374,
+            "r": 417.7045344,
+            "b": 525.3591169536247,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "M = M 2 1 M 2 ∈ (0; 1) . (19)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 519.8492681484375,
+            "r": 417.7060057,
+            "b": 431.37900430405716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            607
+          ]
+        }
+      ],
+      "orig": "Although exponential WTD does not describe properly the empirical WTD, one can easily interprete meaning of the parameters. Firstly, for t > 0 VAF is positive (unlike VAF in [35]) and decreases exponentially. Relaxation time increases and the amplitude reduces with longer mean waiting time. Increasing parameter ϵ results in higher relaxation time and amplitude, especially for ϵ = 0 VAF is non-zero only for t = 0. It is also noticable, that normalized VAF depends only on a ratio between the first moment squared and the second moment of jumps modules. The amplitude of VAF decreases with increase of M .",
+      "text": "Although exponential WTD does not describe properly the empirical WTD, one can easily interprete meaning of the parameters. Firstly, for t > 0 VAF is positive (unlike VAF in [35]) and decreases exponentially. Relaxation time increases and the amplitude reduces with longer mean waiting time. Increasing parameter ϵ results in higher relaxation time and amplitude, especially for ϵ = 0 VAF is non-zero only for t = 0. It is also noticable, that normalized VAF depends only on a ratio between the first moment squared and the second moment of jumps modules. The amplitude of VAF decreases with increase of M ."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.00000000000006,
+            "t": 416.7352681484375,
+            "r": 417.7078985999999,
+            "b": 397.00700430405715,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "For the double-exponential WTD, which satisfactorily fits empirical data, normalized VAF is",
+      "text": "For the double-exponential WTD, which satisfactorily fits empirical data, normalized VAF is"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 100.99700000000006,
+            "t": 387.9211200484375,
+            "r": 417.7045344000001,
+            "b": 243.7080043040571,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            328
+          ]
+        }
+      ],
+      "orig": "C n ( t ) = δ ( t ) + A 0 e -v 0 t + A 1 e -v 1 t + A 2 e -v 2 t , (20) w i = τ -1 i , v = ww 1 +(1 -w ) w 2 , v 0 = (1 -w ) w 1 + ww 2 , v i = 1 2 [ w 1 + w 2 -ϵv -( -1) i √ ( w 1 + w 2 -ϵv ) 2 -4 w 1 w 2 (1 -ϵ ) ] , A 0 = 2 M v 0 w (1 -w )( w 1 -w 2 ) 2 , A i = ( -1) i 2 ϵ (1 -M ) v 1 -v 2 [ w 1 w 2 -vv i ] , i ∈ { 1 , 2 } .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 232.01526814843749,
+            "r": 417.70505924999986,
+            "b": 189.37300430405708,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            332
+          ]
+        }
+      ],
+      "orig": "There are three exponents in this formula, except Dirac delta, all with positive amplitudes. The first one is worth mentioning, it does not depend on ϵ . It implicates, that for directed processes VAF can be non-zero even in the case without memory ( ϵ = 0). That effect does not occur while considering VAF of the original process.",
+      "text": "There are three exponents in this formula, except Dirac delta, all with positive amplitudes. The first one is worth mentioning, it does not depend on ϵ . It implicates, that for directed processes VAF can be non-zero even in the case without memory ( ϵ = 0). That effect does not occur while considering VAF of the original process."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 773.3405929484376,
+            "r": 278.10598899,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Directed Continuous-Time Random Walk with memory",
+      "text": "Directed Continuous-Time Random Walk with memory"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 413.47016739000003,
+            "t": 773.3405929484376,
+            "r": 417.70468152,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 748.9412681484376,
+            "r": 417.70812099999995,
+            "b": 694.8420043040572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            334
+          ]
+        }
+      ],
+      "orig": "In the limit when two-exponent WTD goes to exponential WTD ( w → 0 or 1) this element vanishes. Two other exponents depend on ϵ and describe decaying with different rates. Similarly like for exponential WTD, increasing ϵ results in higher VAF. In the case of spatial changes with zero variance ( M → 1), these terms are equal to zero.",
+      "text": "In the limit when two-exponent WTD goes to exponential WTD ( w → 0 or 1) this element vanishes. Two other exponents depend on ϵ and describe decaying with different rates. Similarly like for exponential WTD, increasing ϵ results in higher VAF. In the case of spatial changes with zero variance ( M → 1), these terms are equal to zero."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 654.5759650484376,
+            "r": 159.5299968,
+            "b": 646.7055847095327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "4 Empirical results",
+      "text": "4 Empirical results",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 630.6412681484376,
+            "r": 417.70695214999995,
+            "b": 404.68700430405727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1589
+          ]
+        }
+      ],
+      "orig": "To compare our model with empirical data, we use tick-by-tick transaction data from Polish stock market (Warsaw Stock Exchange) from years 2011-2012. Presented results are calculated for KGHM - one of the most liquid stocks. We extract waiting times (periods between transactions) and jumps (price changes) from this data. Comparing the model with empirical data requires estimating parameters. We obtain τ 1 , τ 2 , w from fitting two-exponential WTD to empirical histogram using least squares method. We calculate two first moments of price changes absolute values M 1 and M 2 explicitly from the empirical distribution. Parameter ϵ is calculated as one-step autocorrelation of price changes absolute values. Empirical VAF was calculated using the method described in [35]. We want to remind that VAF obtained from the model proposed in [35] (and its modifications in [34,54]) built using these parameters fits satisfactorily with empirical data. As shown in Fig. 1 theoretical approach does not explain observed VAF for the modules of price changes. VAF of the directed process decays much slower than VAF of the original one (see [35]). There can be many reasons explaining obtained disagreement: daily seasonality, long-term jump modules dependencies and long-term waiting times dependencies (see Fig. 2). In the next section, we check if taking into account of the first one (daily seasonality) can significantly improve the quality of the description of data. Taking into account the two later cases reacquire a new CTRW models with memory and goes beyond the scope of this article.",
+      "text": "To compare our model with empirical data, we use tick-by-tick transaction data from Polish stock market (Warsaw Stock Exchange) from years 2011-2012. Presented results are calculated for KGHM - one of the most liquid stocks. We extract waiting times (periods between transactions) and jumps (price changes) from this data. Comparing the model with empirical data requires estimating parameters. We obtain τ 1 , τ 2 , w from fitting two-exponential WTD to empirical histogram using least squares method. We calculate two first moments of price changes absolute values M 1 and M 2 explicitly from the empirical distribution. Parameter ϵ is calculated as one-step autocorrelation of price changes absolute values. Empirical VAF was calculated using the method described in [35]. We want to remind that VAF obtained from the model proposed in [35] (and its modifications in [34,54]) built using these parameters fits satisfactorily with empirical data. As shown in Fig. 1 theoretical approach does not explain observed VAF for the modules of price changes. VAF of the directed process decays much slower than VAF of the original one (see [35]). There can be many reasons explaining obtained disagreement: daily seasonality, long-term jump modules dependencies and long-term waiting times dependencies (see Fig. 2). In the next section, we check if taking into account of the first one (daily seasonality) can significantly improve the quality of the description of data. Taking into account the two later cases reacquire a new CTRW models with memory and goes beyond the scope of this article."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 364.42096504843767,
+            "r": 153.76549824000003,
+            "b": 356.55058470953276,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "5 Nonstationarity",
+      "text": "5 Nonstationarity",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 340.48626814843766,
+            "r": 417.70789859999985,
+            "b": 252.01500430405724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            589
+          ]
+        }
+      ],
+      "orig": "Varying mean inter-trade time during trading session is a stylized fact observed on stock prices on every market [50, 55, 56]. This intra-day pattern, often called the 'lunch effect', is characterized by low volatility and long inter-trade times in the middle of the day. On the contrary, activity on the stock market is higher at the beginning and the end of a trading session. This effect influences the VAF of the process, as described in [54], where the general formula for the impact of this phenomenon is given. Following [54] we describe the daily pattern with the rational function",
+      "text": "Varying mean inter-trade time during trading session is a stylized fact observed on stock prices on every market [50, 55, 56]. This intra-day pattern, often called the 'lunch effect', is characterized by low volatility and long inter-trade times in the middle of the day. On the contrary, activity on the stock market is higher at the beginning and the end of a trading session. This effect influences the VAF of the process, as described in [54], where the general formula for the impact of this phenomenon is given. Following [54] we describe the daily pattern with the rational function"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 199.44400000000002,
+            "t": 243.60326814843768,
+            "r": 417.70453440000006,
+            "b": 223.35200430405712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "θ ( t ) = 1 a [( t -p ) 2 + q ] , (21)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.00000000000006,
+            "t": 209.1012681484375,
+            "r": 417.69938055000006,
+            "b": 189.37300430405708,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        },
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.0,
+            "t": 300.2502681484375,
+            "r": 246.26037399999987,
+            "b": 291.97900430405707,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            166,
+            206
+          ]
+        }
+      ],
+      "orig": "where θ ( t ) can be interpreted as varying mean of the waiting times distribution during a trading session. Now, we can obtain an explicit expression for normalized VAF taking the seasonality into account:",
+      "text": "where θ ( t ) can be interpreted as varying mean of the waiting times distribution during a trading session. Now, we can obtain an explicit expression for normalized VAF taking the seasonality into account:"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.0,
+            "t": 773.3405929484376,
+            "r": 76.23451413,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 326.50362423,
+            "t": 773.3405929484376,
+            "r": 417.6998994599999,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "J.Klamut and T. Gubiec",
+      "text": "J.Klamut and T. Gubiec"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.0,
+            "t": 571.1015032484376,
+            "r": 417.70724802999996,
+            "b": 526.5237409377746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            472
+          ]
+        }
+      ],
+      "orig": "Fig. 1 Empirical and theoretical VAF of KGHM (one of the most liquid stock at Warsaw Stock Exchange) in years 2011-2012 in the linear and semilogarithmic coordinates. Points are empirical result, solid line represents stationary model and dashed line nonstationary model (see section 5). Both approaches do not fit empirical data. Fitted values of the parameters are: M = 0 . 269 , ϵ = 0 . 258 , τ 1 = 3 . 63 , τ 2 = 32 . 57 , w = 0 . 586 , p = 14986 , q = 2 . 25 · 10 8 .",
+      "text": "Fig. 1 Empirical and theoretical VAF of KGHM (one of the most liquid stock at Warsaw Stock Exchange) in years 2011-2012 in the linear and semilogarithmic coordinates. Points are empirical result, solid line represents stationary model and dashed line nonstationary model (see section 5). Both approaches do not fit empirical data. Fitted values of the parameters are: M = 0 . 269 , ϵ = 0 . 258 , τ 1 = 3 . 63 , τ 2 = 32 . 57 , w = 0 . 586 , p = 14986 , q = 2 . 25 · 10 8 ."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 143.9597665625,
+            "t": 599.6924658984375,
+            "r": 147.7770385625,
+            "b": 594.1979547036043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 196.118879414925,
+            "t": 599.6924658984375,
+            "r": 203.753423414925,
+            "b": 594.1979547036043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "50",
+      "text": "50"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 248.27799226740999,
+            "t": 599.6924658984375,
+            "r": 259.72980826741,
+            "b": 594.1979547036043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 302.345553557335,
+            "t": 599.6924658984375,
+            "r": 313.79736955733506,
+            "b": 594.1979547036043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "150",
+      "text": "150"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 356.41311484726,
+            "t": 599.6924658984375,
+            "r": 367.86493084726,
+            "b": 594.1979547036043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "200",
+      "text": "200"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 242.77589974320853,
+            "t": 590.8864065234375,
+            "r": 267.3660937432086,
+            "b": 585.3918953286044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Time [s]",
+      "text": "Time [s]"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 130.103586875,
+            "t": 604.9957955859375,
+            "r": 143.464038875,
+            "b": 599.5012843911044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.00",
+      "text": "0.00"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 130.103586875,
+            "t": 628.4936255859375,
+            "r": 143.464038875,
+            "b": 622.9991143911044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.02",
+      "text": "0.02"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 130.103586875,
+            "t": 651.9914555859375,
+            "r": 143.464038875,
+            "b": 646.4969443911043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.04",
+      "text": "0.04"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 130.103586875,
+            "t": 675.4892855859375,
+            "r": 143.464038875,
+            "b": 669.9947743911043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.06",
+      "text": "0.06"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 130.103586875,
+            "t": 698.9871155859375,
+            "r": 143.464038875,
+            "b": 693.4926043911044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.08",
+      "text": "0.08"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 130.103586875,
+            "t": 722.4849455859375,
+            "r": 143.464038875,
+            "b": 716.9904343911044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.10",
+      "text": "0.10"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 130.103586875,
+            "t": 745.9827755859375,
+            "r": 143.464038875,
+            "b": 740.4882643911043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.12",
+      "text": "0.12"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 121.47383624999999,
+            "t": 696.6116365234375,
+            "r": 126.96834744483314,
+            "b": 648.8957365234374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Normalized VAF",
+      "text": "Normalized VAF"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 185.81593290445187,
+            "t": 739.2909582234375,
+            "r": 213.71923090445188,
+            "b": 733.7964470286043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Empirical",
+      "text": "Empirical"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 185.81593290445187,
+            "t": 730.4848988484375,
+            "r": 236.79091890445187,
+            "b": 724.9903876536043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Stationary Model",
+      "text": "Stationary Model"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 185.81593290445187,
+            "t": 721.6788394734375,
+            "r": 248.07467890445184,
+            "b": 716.1843282786043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Nonstationary Model",
+      "text": "Nonstationary Model"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 268.8763915625,
+            "t": 663.4337058984376,
+            "r": 272.6936635625,
+            "b": 657.9391947036044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 288.7890757982887,
+            "t": 663.4337058984376,
+            "r": 296.42361979828877,
+            "b": 657.9391947036044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "50",
+      "text": "50"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 308.7017600340174,
+            "t": 663.4337058984376,
+            "r": 320.1535760340174,
+            "b": 657.9391947036044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 330.52289270730614,
+            "t": 663.4337058984376,
+            "r": 341.97470870730615,
+            "b": 657.9391947036044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "150",
+      "text": "150"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 352.3440253805948,
+            "t": 663.4337058984376,
+            "r": 363.7958413805949,
+            "b": 657.9391947036044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "200",
+      "text": "200"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 255.17963999999998,
+            "t": 676.1720939067088,
+            "r": 267.3359337163762,
+            "b": 669.1560757118756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "10 -4",
+      "text": "10 -4"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 255.17963999999998,
+            "t": 696.754648609508,
+            "r": 267.3359337163762,
+            "b": 689.7386304146748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "10 -3",
+      "text": "10 -3"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 255.17963999999998,
+            "t": 717.389720812367,
+            "r": 267.3359337163762,
+            "b": 710.3737026175339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "10 -2",
+      "text": "10 -2"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 255.17963999999998,
+            "t": 738.0773105151662,
+            "r": 267.3359337163762,
+            "b": 731.061292320333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "10 -1",
+      "text": "10 -1"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.0,
+            "t": 335.92150324843755,
+            "r": 417.7067334199999,
+            "b": 319.7163227317228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "Fig. 2 Normalized step autocorrelation function of waiting times and the modules of price changes for KGHM in years 2011-2012 in the logarithmic coordinates.",
+      "text": "Fig. 2 Normalized step autocorrelation function of waiting times and the modules of price changes for KGHM in years 2011-2012 in the logarithmic coordinates."
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 147.62972422224271,
+            "t": 364.5114658984375,
+            "r": 151.44699622224272,
+            "b": 359.01695470360437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 197.2233569763933,
+            "t": 364.5114658984375,
+            "r": 201.0406289763933,
+            "b": 359.01695470360437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 262.7825734416783,
+            "t": 364.5114658984375,
+            "r": 266.5998454416783,
+            "b": 359.01695470360437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 310.4677577583889,
+            "t": 364.5114658984375,
+            "r": 318.10230175838893,
+            "b": 359.01695470360437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 360.06139051253956,
+            "t": 364.5114658984375,
+            "r": 367.69593451253957,
+            "b": 359.01695470360437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 251.20281524491045,
+            "t": 355.70540652343755,
+            "r": 262.03642524491045,
+            "b": 350.21089532860435,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Lag",
+      "text": "Lag"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 130.103586875,
+            "t": 383.3184161020739,
+            "r": 143.464038875,
+            "b": 377.8239049072408,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.07",
+      "text": "0.07"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 133.92048375,
+            "t": 414.5631896960406,
+            "r": 143.46366375,
+            "b": 409.0686785012074,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.1",
+      "text": "0.1"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 133.92048375,
+            "t": 475.28297697563886,
+            "r": 143.46366375,
+            "b": 469.7884657808057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.2",
+      "text": "0.2"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 133.92048375,
+            "t": 510.80177558593755,
+            "r": 143.46366375,
+            "b": 505.30726439110435,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.3",
+      "text": "0.3"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 121.47383624999999,
+            "t": 499.22316733593755,
+            "r": 126.96834744483314,
+            "b": 375.88806933593753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Normalized step autocorrelation function",
+      "text": "Normalized step autocorrelation function"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 349.96334986482094,
+            "t": 502.8598166484375,
+            "r": 354.96301586482093,
+            "b": 497.3259726484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "∆",
+      "text": "∆"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 354.96306275544595,
+            "t": 502.8598166484375,
+            "r": 357.12978475544594,
+            "b": 497.20993398177086,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 349.96334986482094,
+            "t": 493.6096092734375,
+            "r": 351.62590386482094,
+            "b": 484.1368275712552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "|",
+      "text": "|"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 351.6250363882584,
+            "t": 493.6036072734375,
+            "r": 356.6247023882584,
+            "b": 488.0697632734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "∆",
+      "text": "∆"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 356.6247492788834,
+            "t": 493.6036072734375,
+            "r": 360.05189127888343,
+            "b": 487.95372460677083,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "x",
+      "text": "x"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 360.0506955679459,
+            "t": 493.6096092734375,
+            "r": 361.7132495679459,
+            "b": 484.1368275712552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "|",
+      "text": "|"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 119.554,
+            "t": 285.6889579484375,
+            "r": 417.70453440000006,
+            "b": 122.33100430405716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "C n ( t ) = 2 ∑ j =0 A j Jv -1 2 j e -v j τ min [ erf ( √ v j J 0 ) +erf ( √ v j J k )] , J = 1 2( T -t ) √ πX t , J 0 = t X ( t 2 -p ) 2 , J k = t X ( t 2 -( p -T ) ) 2 , τ min = t 2 12 + q X t, X = T 2 3 -pT + p 2 + q, (22)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0,
+            "t": 773.3405929484376,
+            "r": 278.10598899,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Directed Continuous-Time Random Walk with memory",
+      "text": "Directed Continuous-Time Random Walk with memory"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 413.47016739000003,
+            "t": 773.3405929484376,
+            "r": 417.70468152,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 748.9412681484376,
+            "r": 417.7078985999997,
+            "b": 694.8420043040572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            336
+          ]
+        }
+      ],
+      "orig": "where T is the length of a day, parameters p and q are fitted to data and come from the rational form of day seasonality and erf is the error function. As shown in Fig. 1, taking nonstationarity into account slightly improves the results. However, considering the day seasonality is not enough to explain empirical VAF for jump modules.",
+      "text": "where T is the length of a day, parameters p and q are fitted to data and come from the rational form of day seasonality and erf is the error function. As shown in Fig. 1, taking nonstationarity into account slightly improves the results. However, considering the day seasonality is not enough to explain empirical VAF for jump modules."
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 664.4869650484377,
+            "r": 135.56101631999994,
+            "b": 656.6165847095327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "6 Conclusions",
+      "text": "6 Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 641.6532681484376,
+            "r": 417.7078985999998,
+            "b": 564.6400043040572,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            509
+          ]
+        }
+      ],
+      "orig": "We proposed and solved Directed CTRW model with one-step memory in jumps and obtained the analytical equation for propagator, first two moments and velocity autocorrelation function (20). Obtained VAF shows interesting properties: it is positive; it decays exponentially but slower than the VAF for the non-directed process; VAF can be nonzero even without any memory ( ϵ = 0) for non-exponential WTD. Next, we considered nonstationarity in the form of rational function (21) and obtained analytical VAF (22).",
+      "text": "We proposed and solved Directed CTRW model with one-step memory in jumps and obtained the analytical equation for propagator, first two moments and velocity autocorrelation function (20). Obtained VAF shows interesting properties: it is positive; it decays exponentially but slower than the VAF for the non-directed process; VAF can be nonzero even without any memory ( ϵ = 0) for non-exponential WTD. Next, we considered nonstationarity in the form of rational function (21) and obtained analytical VAF (22)."
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 549.9972681484377,
+            "r": 417.7078985999999,
+            "b": 484.4410043040573,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            417
+          ]
+        }
+      ],
+      "orig": "Presented simple model, despite being analytically solvable, turned out to be unable to describe empirical data. This result suggests that simple bid-ask bounce phenomenon is not sufficient to explain long memory in financial time series and volatility clustering. We suggest that taking into account at least one of the existing long memories in jumps modules or waiting times (see Fig. 2) would improve the results.",
+      "text": "Presented simple model, despite being analytically solvable, turned out to be unable to describe empirical data. This result suggests that simple bid-ask bounce phenomenon is not sufficient to explain long memory in financial time series and volatility clustering. We suggest that taking into account at least one of the existing long memories in jumps modules or waiting times (see Fig. 2) would improve the results."
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 454.0859650484377,
+            "r": 121.83973439999993,
+            "b": 446.2155847095328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 76.23399999999994,
+            "t": 432.4725929484377,
+            "r": 417.70106427999985,
+            "b": 416.292322731723,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "1. E. W. Montroll and G. H. Weiss. Random walks on lattices. II. Journal of Mathematical Physics , 6(2):167-181, 1965.",
+      "text": "E. W. Montroll and G. H. Weiss. Random walks on lattices. II. Journal of Mathematical Physics , 6(2):167-181, 1965.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 76.23399999999998,
+            "t": 413.54559294843773,
+            "r": 417.70576141,
+            "b": 388.14932273172303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "2. Ryszard Kutner and Jaume Masoliver. The continuous time random walk, still trendy: fifty-year history, state of art and outlook. The European Physical Journal B , 90(3):50, Mar 2017.",
+      "text": "Ryszard Kutner and Jaume Masoliver. The continuous time random walk, still trendy: fifty-year history, state of art and outlook. The European Physical Journal B , 90(3):50, Mar 2017.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 76.23400000000002,
+            "t": 385.40259294843776,
+            "r": 417.7017763600002,
+            "b": 369.22132273172303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "3. H. Scher and E. W. Montroll. Anomalous transit-time dispersion in amorphous solids. Physical Review B , 12(6):2455-2477, Sep 1975.",
+      "text": "H. Scher and E. W. Montroll. Anomalous transit-time dispersion in amorphous solids. Physical Review B , 12(6):2455-2477, Sep 1975.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 76.23400000000005,
+            "t": 366.47459294843776,
+            "r": 417.7057614100001,
+            "b": 350.29432273172307,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "4. G. Pfister and H. Scher. Dispersive (non-gaussian) transient transport in disordered solids. Advances in Physics , 27(5):747-798, 1978.",
+      "text": "G. Pfister and H. Scher. Dispersive (non-gaussian) transient transport in disordered solids. Advances in Physics , 27(5):747-798, 1978.",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 76.23400000000005,
+            "t": 347.5475929484378,
+            "r": 417.70234242,
+            "b": 322.1513227317231,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "5. E. W. Montroll and M. F. Schlesinger. On the wonderful world of random walks. In J. Lebowitz and E.M. Montroll, editors, Nonequilibrium Phenomena II. From Stochastics to Hydrodynamics , pages 1-121. North-Holland, Amsterdam, 1984.",
+      "text": "E. W. Montroll and M. F. Schlesinger. On the wonderful world of random walks. In J. Lebowitz and E.M. Montroll, editors, Nonequilibrium Phenomena II. From Stochastics to Hydrodynamics , pages 1-121. North-Holland, Amsterdam, 1984.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 76.23400000000005,
+            "t": 319.40459294843777,
+            "r": 417.70220694999995,
+            "b": 303.2233227317231,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "6. G.H. Weiss. A primer of random walkology. In Fractals in Science , pages 119-162. Springer, 1994.",
+      "text": "G.H. Weiss. A primer of random walkology. In Fractals in Science , pages 119-162. Springer, 1994.",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 76.23400000000008,
+            "t": 300.4765929484379,
+            "r": 417.70097935000007,
+            "b": 284.2963227317232,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "7. J.-P. Bouchaud and A. Georges. Anomalous diffusion in disordered media: statistical mechanisms, models and physical applications. Physics Reports , 195(4):127-293, 1990.",
+      "text": "J.-P. Bouchaud and A. Georges. Anomalous diffusion in disordered media: statistical mechanisms, models and physical applications. Physics Reports , 195(4):127-293, 1990.",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 76.23400000000007,
+            "t": 281.54959294843786,
+            "r": 417.70297651000004,
+            "b": 265.3683227317231,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "8. D. Ben-Avraham and S. Havlin. Diffusion and reactions in fractals and disordered systems . Cambridge University Press, 2000.",
+      "text": "D. Ben-Avraham and S. Havlin. Diffusion and reactions in fractals and disordered systems . Cambridge University Press, 2000.",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 76.23400000000008,
+            "t": 262.62159294843786,
+            "r": 417.70181623,
+            "b": 246.44132273172318,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "9. R. Hilfer. On fractional diffusion and continuous time random walks. Physica A: Statistical Mechanics and its Applications , 329(1):35 - 40, 2003.",
+      "text": "R. Hilfer. On fractional diffusion and continuous time random walks. Physica A: Statistical Mechanics and its Applications , 329(1):35 - 40, 2003.",
+      "enumerated": true,
+      "marker": "9."
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00000000000014,
+            "t": 243.69459294843784,
+            "r": 417.7063389700001,
+            "b": 227.51332273172318,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "10. E. Barkai and Y.-Ch. Cheng. Aging continuous time random walks. The Journal of Chemical Physics , 118(14):6167-6178, 2003.",
+      "text": "E. Barkai and Y.-Ch. Cheng. Aging continuous time random walks. The Journal of Chemical Physics , 118(14):6167-6178, 2003.",
+      "enumerated": true,
+      "marker": "10."
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00000000000016,
+            "t": 224.76659294843785,
+            "r": 417.7028913200001,
+            "b": 208.58632273172316,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "11. C. Monthus and J.-P. Bouchaud. Models of traps and glass phenomenology. Journal of Physics A: Mathematical and General , 29(14):3847, 1996.",
+      "text": "C. Monthus and J.-P. Bouchaud. Models of traps and glass phenomenology. Journal of Physics A: Mathematical and General , 29(14):3847, 1996.",
+      "enumerated": true,
+      "marker": "11."
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0000000000002,
+            "t": 205.83959294843794,
+            "r": 417.7030875000005,
+            "b": 189.65832273172316,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "12. W. Dieterich and P. Maass. Constant dielectric loss in disordered ionic conductors: Theoretical aspects. Solid State Ionics , 180(6):446-450, 2009.",
+      "text": "W. Dieterich and P. Maass. Constant dielectric loss in disordered ionic conductors: Theoretical aspects. Solid State Ionics , 180(6):446-450, 2009.",
+      "enumerated": true,
+      "marker": "12."
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.0,
+            "t": 773.3405929484376,
+            "r": 80.46902825999999,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 326.50601526,
+            "t": 773.3405929484376,
+            "r": 417.70229048999994,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "J.Klamut and T. Gubiec",
+      "text": "J.Klamut and T. Gubiec"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.0,
+            "t": 747.9205929484376,
+            "r": 417.7056021799996,
+            "b": 713.3093227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            268
+          ]
+        }
+      ],
+      "orig": "13. N. Iyengar, C.K. Peng, R. Morin, A.L. Goldberger, and L.A. Lipsitz. Age-related alterations in the fractal scaling of cardiac interbeat interval dynamics. American Journal of Physiology-Regulatory, Integrative and Comparative Physiology , 271(4):R1078-R1084, 1996.",
+      "text": "N. Iyengar, C.K. Peng, R. Morin, A.L. Goldberger, and L.A. Lipsitz. Age-related alterations in the fractal scaling of cardiac interbeat interval dynamics. American Journal of Physiology-Regulatory, Integrative and Comparative Physiology , 271(4):R1078-R1084, 1996.",
+      "enumerated": true,
+      "marker": "13."
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 711.1935929484375,
+            "r": 417.70547852999994,
+            "b": 694.2857409377747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "14. J. Nelson. Continuous-time random-walk model of electron transport in nanocrystalline TiO 2 electrodes. Physical Review B , 59(23):15374, 1999.",
+      "text": "J. Nelson. Continuous-time random-walk model of electron transport in nanocrystalline TiO 2 electrodes. Physical Review B , 59(23):15374, 1999.",
+      "enumerated": true,
+      "marker": "14."
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99999999999997,
+            "t": 692.8965929484375,
+            "r": 417.70308750000004,
+            "b": 667.5003227317228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "15. M.A. Lomholt, K. Tal, R. Metzler, and J. Klafter. L´ evy strategies in intermittent search processes are advantageous. Proceedings of the National Academy of Sciences , 105(32):11055-11059, 2008.",
+      "text": "M.A. Lomholt, K. Tal, R. Metzler, and J. Klafter. L´ evy strategies in intermittent search processes are advantageous. Proceedings of the National Academy of Sciences , 105(32):11055-11059, 2008.",
+      "enumerated": true,
+      "marker": "15."
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99999999999997,
+            "t": 665.3845929484374,
+            "r": 417.7062755400001,
+            "b": 649.2043227317228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "16. G. Margolin and B. Berkowitz. Application of continuous time random walks to transport in porous media. The Journal of Physical Chemistry B , 104(16):3942-3947, 2000.",
+      "text": "G. Margolin and B. Berkowitz. Application of continuous time random walks to transport in porous media. The Journal of Physical Chemistry B , 104(16):3942-3947, 2000.",
+      "enumerated": true,
+      "marker": "16."
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 647.0875929484374,
+            "r": 417.7046815200002,
+            "b": 621.6913227317227,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "17. A. Helmstetter and D. Sornette. Diffusion of epicenters of earthquake aftershocks, Omori's law, and generalized continuous-time random walk models. Physical Review E , 66(6):061104, 2002.",
+      "text": "A. Helmstetter and D. Sornette. Diffusion of epicenters of earthquake aftershocks, Omori's law, and generalized continuous-time random walk models. Physical Review E , 66(6):061104, 2002.",
+      "enumerated": true,
+      "marker": "17."
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 619.5755929484374,
+            "r": 417.70137855999997,
+            "b": 594.1793227317227,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "18. H. Scher, G. Margolin, R. Metzler, J. Klafter, and B. Berkowitz. The dynamical foundation of fractal stream chemistry: The origin of extremely long retention times. Geophysical Research Letters , 29(5):5-1, 2002.",
+      "text": "H. Scher, G. Margolin, R. Metzler, J. Klafter, and B. Berkowitz. The dynamical foundation of fractal stream chemistry: The origin of extremely long retention times. Geophysical Research Letters , 29(5):5-1, 2002.",
+      "enumerated": true,
+      "marker": "18."
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00000000000001,
+            "t": 592.0635929484373,
+            "r": 417.70627554000026,
+            "b": 566.6673227317226,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "19. R. Hempelmann. Hydrogen diffusion in proton conducting oxides and in nanocrystalline metals. In R. Kutner, A. P¸ ekalski, and K. Sznajd-Weron, editors, Anomalous Diffusion From Basics to Applications , pages 247-252. Springer, 1999.",
+      "text": "R. Hempelmann. Hydrogen diffusion in proton conducting oxides and in nanocrystalline metals. In R. Kutner, A. P¸ ekalski, and K. Sznajd-Weron, editors, Anomalous Diffusion From Basics to Applications , pages 247-252. Springer, 1999.",
+      "enumerated": true,
+      "marker": "19."
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.0,
+            "t": 564.5515929484372,
+            "r": 417.70297651,
+            "b": 548.3703227317226,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "20. L. Hufnagel, D. Brockmann, and T. Geisel. The scaling laws of human travel. Nature , 439:462-465, 2006.",
+      "text": "L. Hufnagel, D. Brockmann, and T. Geisel. The scaling laws of human travel. Nature , 439:462-465, 2006.",
+      "enumerated": true,
+      "marker": "20."
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 546.2545929484372,
+            "r": 417.70229049000017,
+            "b": 530.0743227317225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "21. E. Scalas, R. Gorenflo, and F. Mainardi. Fractional calculus and continuous-time finance. Physica A: Statistical Mechanics and its Applications , 284(1-4):376 - 384, 2000.",
+      "text": "E. Scalas, R. Gorenflo, and F. Mainardi. Fractional calculus and continuous-time finance. Physica A: Statistical Mechanics and its Applications , 284(1-4):376 - 384, 2000.",
+      "enumerated": true,
+      "marker": "21."
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.0,
+            "t": 527.9575929484372,
+            "r": 417.7062755400001,
+            "b": 502.5623227317225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "22. F. Mainardi, M. Raberto, R. Gorenflo, and E. Scalas. Fractional calculus and continuoustime finance ii: the waiting-time distribution. Physica A: Statistical Mechanics and its Applications , 287(3-4):468 - 481, 2000.",
+      "text": "F. Mainardi, M. Raberto, R. Gorenflo, and E. Scalas. Fractional calculus and continuoustime finance ii: the waiting-time distribution. Physica A: Statistical Mechanics and its Applications , 287(3-4):468 - 481, 2000.",
+      "enumerated": true,
+      "marker": "22."
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99999999999999,
+            "t": 500.4455929484372,
+            "r": 417.7062755400003,
+            "b": 475.0493227317225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "23. M. Raberto, E. Scalas, and F. Mainardi. Waiting-times and returns in high-frequency financial data: an empirical study. Physica A: Statistical Mechanics and its Applications , 314(1-4):749 - 755, 2002.",
+      "text": "M. Raberto, E. Scalas, and F. Mainardi. Waiting-times and returns in high-frequency financial data: an empirical study. Physica A: Statistical Mechanics and its Applications , 314(1-4):749 - 755, 2002.",
+      "enumerated": true,
+      "marker": "23."
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 472.9335929484372,
+            "r": 417.7014934800001,
+            "b": 447.5373227317225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "24. E. Scalas, R. Gorenflo, and F. Mainardi. Uncoupled continuous-time random walks: Solution and limiting behavior of the master equation. Physical Review E , 69(1):011107, 2004.",
+      "text": "E. Scalas, R. Gorenflo, and F. Mainardi. Uncoupled continuous-time random walks: Solution and limiting behavior of the master equation. Physical Review E , 69(1):011107, 2004.",
+      "enumerated": true,
+      "marker": "24."
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 445.4215929484372,
+            "r": 417.7046815200001,
+            "b": 429.2413227317225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "25. E. Scalas. The application of continuous-time random walks in finance and economics. Physica A: Statistical Mechanics and its Applications , 362(2):225 - 239, 2006.",
+      "text": "E. Scalas. The application of continuous-time random walks in finance and economics. Physica A: Statistical Mechanics and its Applications , 362(2):225 - 239, 2006.",
+      "enumerated": true,
+      "marker": "25."
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.0,
+            "t": 427.81659294843723,
+            "r": 417.70616952000023,
+            "b": 409.62132273172256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "26. R. Kutner and F. ´ Switaglyph[suppress] la. Stochastic simulations of time series within Weierstrass -Mandelbrot walks. Quantitative Finance , 3(3):201-211, 2003.",
+      "text": "R. Kutner and F. ´ Switaglyph[suppress] la. Stochastic simulations of time series within Weierstrass -Mandelbrot walks. Quantitative Finance , 3(3):201-211, 2003.",
+      "enumerated": true,
+      "marker": "26."
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 407.50559294843725,
+            "r": 417.70547853,
+            "b": 391.32432273172253,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "27. J. Masoliver, M. Montero, and G. H. Weiss. Continuous-time random-walk model for financial distributions. Physical Review E , 67(2):021112, 2003.",
+      "text": "J. Masoliver, M. Montero, and G. H. Weiss. Continuous-time random-walk model for financial distributions. Physical Review E , 67(2):021112, 2003.",
+      "enumerated": true,
+      "marker": "27."
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.0,
+            "t": 389.20859294843723,
+            "r": 417.70662198999963,
+            "b": 354.59732273172256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            298
+          ]
+        }
+      ],
+      "orig": "28. P. Repetowicz and P. Richmond. Modeling share price evolution as a continuous time random walk (ctrw) with non-independent price changes and waiting times. Physica A: Statistical Mechanics and its Applications , 344(1-2):108 - 111, 2004. Applications of Physics in Financial Analysis 4 (APFA4).",
+      "text": "P. Repetowicz and P. Richmond. Modeling share price evolution as a continuous time random walk (ctrw) with non-independent price changes and waiting times. Physica A: Statistical Mechanics and its Applications , 344(1-2):108 - 111, 2004. Applications of Physics in Financial Analysis 4 (APFA4).",
+      "enumerated": true,
+      "marker": "28."
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 352.4805929484373,
+            "r": 417.7046815200003,
+            "b": 327.0853227317226,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "29. J. Masoliver, M. Montero, J. Perell´ o, and G. H. Weiss. The continuous time random walk formalism in financial markets. Journal of Economic Behavior & Organization , 61(4):577-598, 2006.",
+      "text": "J. Masoliver, M. Montero, J. Perell´ o, and G. H. Weiss. The continuous time random walk formalism in financial markets. Journal of Economic Behavior & Organization , 61(4):577-598, 2006.",
+      "enumerated": true,
+      "marker": "29."
+    },
+    {
+      "self_ref": "#/texts/174",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00000000000009,
+            "t": 324.9685929484374,
+            "r": 417.7054785300004,
+            "b": 299.5723227317226,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            229
+          ]
+        }
+      ],
+      "orig": "30. J. Masoliver, M. Montero, J. Perello, and G. H. Weiss. The CTRW in finance: Direct and inverse problems with some generalizations and extensions. Physica A: Statistical Mechanics and its Applications , 379(1):151 - 167, 2007.",
+      "text": "J. Masoliver, M. Montero, J. Perello, and G. H. Weiss. The CTRW in finance: Direct and inverse problems with some generalizations and extensions. Physica A: Statistical Mechanics and its Applications , 379(1):151 - 167, 2007.",
+      "enumerated": true,
+      "marker": "30."
+    },
+    {
+      "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00000000000009,
+            "t": 297.45659294843733,
+            "r": 417.70069474,
+            "b": 281.27632273172264,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "31. R. Kutner. Stock market context of the l´ evy walks with varying velocity. Physica A: Statistical Mechanics and its Applications , 314(1):786-795, 2002.",
+      "text": "R. Kutner. Stock market context of the l´ evy walks with varying velocity. Physica A: Statistical Mechanics and its Applications , 314(1):786-795, 2002.",
+      "enumerated": true,
+      "marker": "31."
+    },
+    {
+      "self_ref": "#/texts/176",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00000000000009,
+            "t": 279.1595929484374,
+            "r": 417.70430605,
+            "b": 262.97932273172273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "32. E. Scalas. Five years of continuous-time random walks in econophysics. In The Complex Networks of Economic Interactions , pages 3-16. Springer, 2006.",
+      "text": "E. Scalas. Five years of continuous-time random walks in econophysics. In The Complex Networks of Economic Interactions , pages 3-16. Springer, 2006.",
+      "enumerated": true,
+      "marker": "32."
+    },
+    {
+      "self_ref": "#/texts/177",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00000000000014,
+            "t": 260.8635929484374,
+            "r": 417.70388451000025,
+            "b": 235.46732273172267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "33. J. Perell´ o, J. Masoliver, A. Kasprzak, and R. Kutner. Model for interevent times with long tails and multifractality in human communications: An application to financial trading. Physical Review E , 78(3):036108, 2008.",
+      "text": "J. Perell´ o, J. Masoliver, A. Kasprzak, and R. Kutner. Model for interevent times with long tails and multifractality in human communications: An application to financial trading. Physical Review E , 78(3):036108, 2008.",
+      "enumerated": true,
+      "marker": "33."
+    },
+    {
+      "self_ref": "#/texts/178",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00000000000014,
+            "t": 233.35159294843743,
+            "r": 417.7046815200002,
+            "b": 207.95532273172262,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "34. Tomasz Gubiec and Ryszard Kutner. Continuous-time random walk with multi-step memory: an application to market dynamics. The European Physical Journal B , 90(11):228, Nov 2017.",
+      "text": "Tomasz Gubiec and Ryszard Kutner. Continuous-time random walk with multi-step memory: an application to market dynamics. The European Physical Journal B , 90(11):228, Nov 2017.",
+      "enumerated": true,
+      "marker": "34."
+    },
+    {
+      "self_ref": "#/texts/179",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00000000000014,
+            "t": 205.8385929484374,
+            "r": 417.70388451,
+            "b": 189.6583227317227,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "35. Tomasz Gubiec and Ryszard Kutner. Backward jump continuous-time random walk: An application to market trading. Phys. Rev. E , 82:046119, Oct 2010.",
+      "text": "Tomasz Gubiec and Ryszard Kutner. Backward jump continuous-time random walk: An application to market trading. Phys. Rev. E , 82:046119, Oct 2010.",
+      "enumerated": true,
+      "marker": "35."
+    },
+    {
+      "self_ref": "#/texts/180",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.0,
+            "t": 773.3405929484376,
+            "r": 278.10598899,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Directed Continuous-Time Random Walk with memory",
+      "text": "Directed Continuous-Time Random Walk with memory"
+    },
+    {
+      "self_ref": "#/texts/181",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 409.23804429,
+            "t": 773.3405929484376,
+            "r": 417.70707254999996,
+            "b": 766.3753227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "11",
+      "text": "11"
+    },
+    {
+      "self_ref": "#/texts/182",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.0,
+            "t": 747.9205929484376,
+            "r": 417.7070725500001,
+            "b": 731.7403227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "36. A. Kasprzak, R. Kutner, J. Perell´ o, and J. Masoliver. Higher-order phase transitions on financial markets. The European Physical Journal B , 76(4):513-527, 2010.",
+      "text": "A. Kasprzak, R. Kutner, J. Perell´ o, and J. Masoliver. Higher-order phase transitions on financial markets. The European Physical Journal B , 76(4):513-527, 2010.",
+      "enumerated": true,
+      "marker": "36."
+    },
+    {
+      "self_ref": "#/texts/183",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.0,
+            "t": 729.4905929484376,
+            "r": 417.70069646999985,
+            "b": 713.3093227317229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "37. R. Metzler and J. Klafter. The random walk's guide to anomalous diffusion: a fractional dynamics approach. Physics Reports , 339(1):1-77, 2000.",
+      "text": "R. Metzler and J. Klafter. The random walk's guide to anomalous diffusion: a fractional dynamics approach. Physics Reports , 339(1):1-77, 2000.",
+      "enumerated": true,
+      "marker": "37."
+    },
+    {
+      "self_ref": "#/texts/184",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.0,
+            "t": 711.0595929484375,
+            "r": 417.6998994600001,
+            "b": 694.8783227317228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "38. H. Scher, M. F. Shlesinger, and J. T. Bendler. Time-scale invariance in transport and relaxation. Physics Today , 44:26-34, January 1991.",
+      "text": "H. Scher, M. F. Shlesinger, and J. T. Bendler. Time-scale invariance in transport and relaxation. Physics Today , 44:26-34, January 1991.",
+      "enumerated": true,
+      "marker": "38."
+    },
+    {
+      "self_ref": "#/texts/185",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.0,
+            "t": 692.6285929484375,
+            "r": 417.70297651,
+            "b": 676.4473227317228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "39. J. W. Haus and K. W. Kehr. Diffusion in regular and disordered lattices. Physics Reports , 150(5-6):263 - 406, 1987.",
+      "text": "J. W. Haus and K. W. Kehr. Diffusion in regular and disordered lattices. Physics Reports , 150(5-6):263 - 406, 1987.",
+      "enumerated": true,
+      "marker": "39."
+    },
+    {
+      "self_ref": "#/texts/186",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 674.1975929484374,
+            "r": 417.7039646299998,
+            "b": 648.8013227317227,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "40. K.W. Kehr, R. Kutner, and K. Binder. Diffusion in concentrated lattice gases. self-diffusion of noninteracting particles in three-dimensional lattices. Physical Review B , 23(10):49314945, 1981.",
+      "text": "K.W. Kehr, R. Kutner, and K. Binder. Diffusion in concentrated lattice gases. self-diffusion of noninteracting particles in three-dimensional lattices. Physical Review B , 23(10):49314945, 1981.",
+      "enumerated": true,
+      "marker": "40."
+    },
+    {
+      "self_ref": "#/texts/187",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 646.5515929484374,
+            "r": 417.70612470999976,
+            "b": 621.1553227317227,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "41. R. Kutner. Correlated hopping in honeycomb lattice: tracer diffusion coefficient at arbitrary lattice gas concentration. Journal of Physics C: Solid State Physics , 18(34):6323, 1985.",
+      "text": "R. Kutner. Correlated hopping in honeycomb lattice: tracer diffusion coefficient at arbitrary lattice gas concentration. Journal of Physics C: Solid State Physics , 18(34):6323, 1985.",
+      "enumerated": true,
+      "marker": "41."
+    },
+    {
+      "self_ref": "#/texts/188",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 71.99999999999997,
+            "t": 618.9045929484373,
+            "r": 417.7006964700001,
+            "b": 602.7243227317226,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "42. T. Gubiec and R. Kutner. Share price evolution as stationary, dependent continuous-time random walk. Acta Physica Polonica, A , 117(4):669 - 672, 2010.",
+      "text": "T. Gubiec and R. Kutner. Share price evolution as stationary, dependent continuous-time random walk. Acta Physica Polonica, A , 117(4):669 - 672, 2010.",
+      "enumerated": true,
+      "marker": "42."
+    },
+    {
+      "self_ref": "#/texts/189",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 71.99999999999997,
+            "t": 600.4735929484373,
+            "r": 417.70257269999996,
+            "b": 584.2933227317226,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "43. M. Montero and J. Masoliver. Nonindependent continuous-time random walks. Physical Review E , 76(6):061115, 2007.",
+      "text": "M. Montero and J. Masoliver. Nonindependent continuous-time random walks. Physical Review E , 76(6):061115, 2007.",
+      "enumerated": true,
+      "marker": "43."
+    },
+    {
+      "self_ref": "#/texts/190",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 582.0425929484372,
+            "r": 417.69989946000004,
+            "b": 565.8623227317225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "44. M. Montero Torralbo. Parrondo-like behavior in continuous-time random walks with memory. Physical Review E , 84:051139, 2011.",
+      "text": "M. Montero Torralbo. Parrondo-like behavior in continuous-time random walks with memory. Physical Review E , 84:051139, 2011.",
+      "enumerated": true,
+      "marker": "44."
+    },
+    {
+      "self_ref": "#/texts/191",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 563.6125929484372,
+            "r": 417.69910245,
+            "b": 547.4313227317225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "45. Vincent Tejedor and Ralf Metzler. Anomalous diffusion in correlated continuous time random walks. Journal of Physics A: Mathematical and Theoretical , 43(8):082002, 2010.",
+      "text": "Vincent Tejedor and Ralf Metzler. Anomalous diffusion in correlated continuous time random walks. Journal of Physics A: Mathematical and Theoretical , 43(8):082002, 2010.",
+      "enumerated": true,
+      "marker": "45."
+    },
+    {
+      "self_ref": "#/texts/192",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000006,
+            "t": 545.1815929484371,
+            "r": 373.38136140000006,
+            "b": 529.0003227317225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "46. Marcin Magdziarz, Ralf Metzler, Wladyslaw Szczotka, and Piotr Zebrowski. continuous-time random walks in external force fields. Phys. Rev. E",
+      "text": "Marcin Magdziarz, Ralf Metzler, Wladyslaw Szczotka, and Piotr Zebrowski. continuous-time random walks in external force fields. Phys. Rev. E",
+      "enumerated": true,
+      "marker": "46."
+    },
+    {
+      "self_ref": "#/texts/193",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 334.5730000000001,
+            "t": 545.1815929484371,
+            "r": 417.70468152000007,
+            "b": 529.0003227317225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Correlated , 85:051103, May 2012.",
+      "text": "Correlated , 85:051103, May 2012.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/194",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000011,
+            "t": 526.7505929484371,
+            "r": 417.6991024500001,
+            "b": 510.56932273172237,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "47. Aleksei V. Chechkin, Michael Hofmann, and Igor M. Sokolov. Continuous-time random walk with correlated waiting times. Phys. Rev. E , 80:031112, Sep 2009.",
+      "text": "Aleksei V. Chechkin, Michael Hofmann, and Igor M. Sokolov. Continuous-time random walk with correlated waiting times. Phys. Rev. E , 80:031112, Sep 2009.",
+      "enumerated": true,
+      "marker": "47."
+    },
+    {
+      "self_ref": "#/texts/195",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000009,
+            "t": 508.3195929484371,
+            "r": 417.7030875000002,
+            "b": 482.9233227317224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            244
+          ]
+        }
+      ],
+      "orig": "48. Jae-Hyung Jeon, Natascha Leijnse, Lene B Oddershede, and Ralf Metzler. Anomalous diffusion and power-law relaxation of the time averaged mean squared displacement in worm-like micellar solutions. New Journal of Physics , 15(4):045011, 2013.",
+      "text": "Jae-Hyung Jeon, Natascha Leijnse, Lene B Oddershede, and Ralf Metzler. Anomalous diffusion and power-law relaxation of the time averaged mean squared displacement in worm-like micellar solutions. New Journal of Physics , 15(4):045011, 2013.",
+      "enumerated": true,
+      "marker": "48."
+    },
+    {
+      "self_ref": "#/texts/196",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000009,
+            "t": 480.6725929484371,
+            "r": 417.7050929000002,
+            "b": 464.4923227317224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "49. Ruey S. Tsay. Analysis of financial time series . Wiley series in probability and statistics. Wiley-Interscience, Hoboken, NJ, 2. ed. edition, 2005.",
+      "text": "Ruey S. Tsay. Analysis of financial time series . Wiley series in probability and statistics. Wiley-Interscience, Hoboken, NJ, 2. ed. edition, 2005.",
+      "enumerated": true,
+      "marker": "49."
+    },
+    {
+      "self_ref": "#/texts/197",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000011,
+            "t": 462.24259294843716,
+            "r": 417.7032435000001,
+            "b": 446.06132273172244,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "50. R. Cont. Empirical properties of asset returns: stylized facts and statistical issues. Quantitative Finance , 1(2):223-236, 2001.",
+      "text": "R. Cont. Empirical properties of asset returns: stylized facts and statistical issues. Quantitative Finance , 1(2):223-236, 2001.",
+      "enumerated": true,
+      "marker": "50."
+    },
+    {
+      "self_ref": "#/texts/198",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000007,
+            "t": 443.8115929484372,
+            "r": 417.7054785300002,
+            "b": 418.4153227317225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "51. Rama Cont. Long range dependence in financial markets. In Jacques L´ evy-V´ ehel and Evelyne Lutton, editors, Fractals in Engineering , pages 159-179, London, 2005. Springer London.",
+      "text": "Rama Cont. Long range dependence in financial markets. In Jacques L´ evy-V´ ehel and Evelyne Lutton, editors, Fractals in Engineering , pages 159-179, London, 2005. Springer London.",
+      "enumerated": true,
+      "marker": "51."
+    },
+    {
+      "self_ref": "#/texts/199",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000009,
+            "t": 416.1645929484372,
+            "r": 417.7062015100001,
+            "b": 399.9843227317225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "52. J. K. E. Tunaley. Theory of ac conductivity based on random walks. Physical Review Letters , 33(17):1037-1039, 1974.",
+      "text": "J. K. E. Tunaley. Theory of ac conductivity based on random walks. Physical Review Letters , 33(17):1037-1039, 1974.",
+      "enumerated": true,
+      "marker": "52."
+    },
+    {
+      "self_ref": "#/texts/200",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000014,
+            "t": 397.7335929484372,
+            "r": 417.7030875000002,
+            "b": 381.5533227317225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "53. J. K. E. Tunaley. Asymptotic solutions of the continuous-time random walk model of diffusion. Journal of Statistical Physics , 11:397-408, 1974.",
+      "text": "J. K. E. Tunaley. Asymptotic solutions of the continuous-time random walk model of diffusion. Journal of Statistical Physics , 11:397-408, 1974.",
+      "enumerated": true,
+      "marker": "53."
+    },
+    {
+      "self_ref": "#/texts/201",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000014,
+            "t": 379.30359294843726,
+            "r": 417.7029765100001,
+            "b": 353.90732273172256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "54. T. Gubiec and M. Wiliski. Intra-day variability of the stock market activity versus stationarity of the financial time series. Physica A: Statistical Mechanics and its Applications , 432:216 - 221, 2015.",
+      "text": "T. Gubiec and M. Wiliski. Intra-day variability of the stock market activity versus stationarity of the financial time series. Physica A: Statistical Mechanics and its Applications , 432:216 - 221, 2015.",
+      "enumerated": true,
+      "marker": "54."
+    },
+    {
+      "self_ref": "#/texts/202",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000014,
+            "t": 351.65659294843726,
+            "r": 417.7016630700001,
+            "b": 335.4763227317226,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "55. Joel Hasbrouck. Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading . Oxford University Press, 2007.",
+      "text": "Joel Hasbrouck. Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading . Oxford University Press, 2007.",
+      "enumerated": true,
+      "marker": "55."
+    },
+    {
+      "self_ref": "#/texts/203",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.00000000000014,
+            "t": 333.2255929484373,
+            "r": 417.7003552800001,
+            "b": 317.04532273172254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "56. M. M. Dacorogna, R. Gencay, U. Muller, R. B. Olsen, and O. V. Pictet. An introduction to high frequency finance . Academic Press, New York, 2001.",
+      "text": "M. M. Dacorogna, R. Gencay, U. Muller, R. B. Olsen, and O. V. Pictet. An introduction to high frequency finance . Academic Press, New York, 2001.",
+      "enumerated": true,
+      "marker": "56."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 118.93174743652344,
+            "t": 747.9671859741211,
+            "r": 368.52642822265625,
+            "b": 584.1922607421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/90"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 119.37471008300781,
+            "t": 512.9313049316406,
+            "r": 368.9338684082031,
+            "b": 348.6601257324219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/117"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 11
+    }
+  }
+}

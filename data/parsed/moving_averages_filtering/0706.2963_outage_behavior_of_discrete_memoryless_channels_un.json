@@ -1,0 +1,6160 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "0706.2963_outage_behavior_of_discrete_memoryless_channels_un",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8351736181686170803,
+    "filename": "0706.2963_outage_behavior_of_discrete_memoryless_channels_un.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/161"
+      },
+      {
+        "$ref": "#/texts/162"
+      },
+      {
+        "$ref": "#/texts/163"
+      },
+      {
+        "$ref": "#/texts/164"
+      },
+      {
+        "$ref": "#/texts/165"
+      },
+      {
+        "$ref": "#/texts/166"
+      },
+      {
+        "$ref": "#/texts/167"
+      },
+      {
+        "$ref": "#/texts/168"
+      },
+      {
+        "$ref": "#/texts/169"
+      },
+      {
+        "$ref": "#/texts/170"
+      },
+      {
+        "$ref": "#/texts/171"
+      },
+      {
+        "$ref": "#/texts/172"
+      },
+      {
+        "$ref": "#/texts/173"
+      },
+      {
+        "$ref": "#/texts/174"
+      },
+      {
+        "$ref": "#/texts/175"
+      },
+      {
+        "$ref": "#/texts/176"
+      },
+      {
+        "$ref": "#/texts/177"
+      },
+      {
+        "$ref": "#/texts/178"
+      },
+      {
+        "$ref": "#/texts/179"
+      },
+      {
+        "$ref": "#/texts/180"
+      },
+      {
+        "$ref": "#/texts/181"
+      },
+      {
+        "$ref": "#/texts/182"
+      },
+      {
+        "$ref": "#/texts/183"
+      },
+      {
+        "$ref": "#/texts/184"
+      },
+      {
+        "$ref": "#/texts/185"
+      },
+      {
+        "$ref": "#/texts/186"
+      },
+      {
+        "$ref": "#/texts/187"
+      },
+      {
+        "$ref": "#/texts/188"
+      },
+      {
+        "$ref": "#/groups/2"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/189"
+        },
+        {
+          "$ref": "#/texts/190"
+        },
+        {
+          "$ref": "#/texts/191"
+        },
+        {
+          "$ref": "#/texts/192"
+        },
+        {
+          "$ref": "#/texts/193"
+        },
+        {
+          "$ref": "#/texts/194"
+        },
+        {
+          "$ref": "#/texts/195"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 583.7400000000001,
+            "r": 36.206559297218156,
+            "b": 256.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "arXiv:0706.2963v1  [cs.IT]  20 Jun 2007",
+      "text": "arXiv:0706.2963v1  [cs.IT]  20 Jun 2007",
+      "hyperlink": "http://arxiv.org/abs/0706.2963v1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 219.0,
+            "t": 705.11526768,
+            "r": 545.5815283564773,
+            "b": 684.4245782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "International Symposium on Information Theory and its Applications, ISITA2006 Seoul, Korea, October 29-November 1, 2006",
+      "text": "International Symposium on Information Theory and its Applications, ISITA2006 Seoul, Korea, October 29-November 1, 2006"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 167.64,
+            "t": 654.4017152,
+            "r": 426.9309998482947,
+            "b": 629.7125101048316,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Outage Behavior of Discrete Memoryless Channels Under Channel Estimation Errors",
+      "text": "Outage Behavior of Discrete Memoryless Channels Under Channel Estimation Errors",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 179.16039999999998,
+            "t": 613.4110774400001,
+            "r": 439.72199191999994,
+            "b": 600.9656871144949,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Pablo Piantanida † , Gerald Matz ‡ , and Pierre Duhamel †",
+      "text": "Pablo Piantanida † , Gerald Matz ‡ , and Pierre Duhamel †"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 96.96009999999995,
+            "t": 585.6703075000001,
+            "r": 250.8358826069434,
+            "b": 574.7444982041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "† Laboratoire des Signaux et Syst` emes",
+      "text": "† Laboratoire des Signaux et Syst` emes"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 143.63979999999995,
+            "t": 571.4351876800001,
+            "r": 203.15637557419913,
+            "b": 562.7444982041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "CNRS/Sup´ elec",
+      "text": "CNRS/Sup´ elec"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.51989999999995,
+            "t": 559.5550876800002,
+            "r": 237.2233954901257,
+            "b": 550.8643982041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "F-91192 Gif-sur-Yvette, France",
+      "text": "F-91192 Gif-sur-Yvette, France"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.71989999999995,
+            "t": 547.5550876800002,
+            "r": 99.72950577711434,
+            "b": 538.8643982041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "E-mail:",
+      "text": "E-mail:"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.71989999999995,
+            "t": 548.6808660000002,
+            "r": 278.5970335154491,
+            "b": 538.4691600000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "{ piantanida,pierre.duhamel } @lss.supelec.fr",
+      "text": "{ piantanida,pierre.duhamel } @lss.supelec.fr"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 49.31977999999998,
+            "t": 512.0539646400001,
+            "r": 86.47734185009311,
+            "b": 503.17948414805284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 49.319779999999895,
+            "t": 489.59458768000013,
+            "r": 286.2093939199999,
+            "b": 253.74399820415806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1129
+          ]
+        }
+      ],
+      "orig": "Classically, communication systems are designed assuming perfect channel state information at the receiver and/or transmitter. However, in many practical situations, only an estimate of the channel is available that differs from the true channel. We address this channel mismatch scenario by introducing the notion of estimation-induced outage capacity, for which we provide an associated coding theorem and its strong converse, assuming a discrete memoryless channel. The transmitter and receiver strive to construct codes for ensuring reliable communication with a quality of service (QoS), in terms of achieving a target rate with small error probability, no matter which degree of accuracy channel estimation arises during a transmission. We illustrate our ideas via numerical simulations for transmissions over Ricean fading channels using rate-limited feedback channel and maximum likelihood (ML) channel estimation. Our results provide intuitive insights on the impact of the channel estimate and the channel characteristics (SNR, Ricean Kfactor, training sequence length, feedback rate, etc.) on the mean outage capacity.",
+      "text": "Classically, communication systems are designed assuming perfect channel state information at the receiver and/or transmitter. However, in many practical situations, only an estimate of the channel is available that differs from the true channel. We address this channel mismatch scenario by introducing the notion of estimation-induced outage capacity, for which we provide an associated coding theorem and its strong converse, assuming a discrete memoryless channel. The transmitter and receiver strive to construct codes for ensuring reliable communication with a quality of service (QoS), in terms of achieving a target rate with small error probability, no matter which degree of accuracy channel estimation arises during a transmission. We illustrate our ideas via numerical simulations for transmissions over Ricean fading channels using rate-limited feedback channel and maximum likelihood (ML) channel estimation. Our results provide intuitive insights on the impact of the channel estimate and the channel characteristics (SNR, Ricean Kfactor, training sequence length, feedback rate, etc.) on the mean outage capacity."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 49.319779999999895,
+            "t": 230.8940646399999,
+            "r": 117.0186944313544,
+            "b": 222.01958414805267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 49.31977999999987,
+            "t": 208.55458767999994,
+            "r": 286.41043999999994,
+            "b": 92.22359820415807,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            581
+          ]
+        }
+      ],
+      "orig": "Channel uncertainty, caused e.g. by time variations/fading, interference, or channel estimation errors, can severely impair the performance of wireless systems. Even if the channel is quasi-static and interference is small, uncertainty induced by imperfect channel state information (CSI) remains. This motivates us to study the design of communication systems which require to ensure information transmission at a target rate satisfying a quality of service (QoS), i.e. reliable communication, no matter which degree of accuracy channel estimation arises during the communication.",
+      "text": "Channel uncertainty, caused e.g. by time variations/fading, interference, or channel estimation errors, can severely impair the performance of wireless systems. Even if the channel is quasi-static and interference is small, uncertainty induced by imperfect channel state information (CSI) remains. This motivates us to study the design of communication systems which require to ensure information transmission at a target rate satisfying a quality of service (QoS), i.e. reliable communication, no matter which degree of accuracy channel estimation arises during the communication."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 49.31977999999995,
+            "t": 88.19438767999998,
+            "r": 286.2094745576285,
+            "b": 67.62359820415804,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "We first review the model for communication under channel uncertainty over a discrete memoryless channel",
+      "text": "We first review the model for communication under channel uncertainty over a discrete memoryless channel"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 49.31989999999999,
+            "t": 54.23641281999994,
+            "r": 285.9739527697865,
+            "b": 37.80378298398239,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "This work was supported by the European Union IST network of excellence NEWCOM.",
+      "text": "This work was supported by the European Union IST network of excellence NEWCOM."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 292.32007999999996,
+            "t": 585.6699075000001,
+            "r": 552.9013261885004,
+            "b": 562.7440982041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "‡ Institute of Communications and Radio-Frequency Engineering Vienna University of Technology",
+      "text": "‡ Institute of Communications and Radio-Frequency Engineering Vienna University of Technology"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 378.23969999999997,
+            "t": 559.5546876800001,
+            "r": 466.7832456052242,
+            "b": 550.8639982041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "A-1040 Wien, Austria",
+      "text": "A-1040 Wien, Austria"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 372.11978,
+            "t": 547.5546876800001,
+            "r": 473.10122461907713,
+            "b": 538.8639982041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "E-mail: g.matz@ieee.org",
+      "text": "E-mail: g.matz@ieee.org"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 308.6395,
+            "t": 512.4633328799999,
+            "r": 545.6498267391814,
+            "b": 359.82459820415795,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            718
+          ]
+        }
+      ],
+      "orig": "(DMC) with finite input alphabet X and output alphabet Y [1]. A specific instance of the unknown channel is characterized by a transition probability mass (PM) W ( ·| x, θ ) ∈ W Θ with an unknown channel state θ ∈ Θ ⊆ C d . Here, W Θ = { W ( ·| x, θ ) : x ∈ X , θ ∈ Θ } is a family of conditional transition PMs on Y , parameterized by a vector θ ∈ Θ . By considering a composite channel model, through the notion of reliable communication based on the average of the error probability over all channel estimation errors. Capacity bounds for additive white Gaussian noise (AWGN) channels with MMSE channel estimation, i.e. imperfect CSI at the receiver (CSIR), and no CSI at the transmitter (CSIT) were derived in [2].",
+      "text": "(DMC) with finite input alphabet X and output alphabet Y [1]. A specific instance of the unknown channel is characterized by a transition probability mass (PM) W ( ·| x, θ ) ∈ W Θ with an unknown channel state θ ∈ Θ ⊆ C d . Here, W Θ = { W ( ·| x, θ ) : x ∈ X , θ ∈ Θ } is a family of conditional transition PMs on Y , parameterized by a vector θ ∈ Θ . By considering a composite channel model, through the notion of reliable communication based on the average of the error probability over all channel estimation errors. Capacity bounds for additive white Gaussian noise (AWGN) channels with MMSE channel estimation, i.e. imperfect CSI at the receiver (CSIR), and no CSI at the transmitter (CSIT) were derived in [2]."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 308.6401800000001,
+            "t": 353.3953876799999,
+            "r": 545.6496145713747,
+            "b": 127.38426820415793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1173
+          ]
+        }
+      ],
+      "orig": "Throughout the paper we assume that the channel state, which neither the transmitter nor the receiver knows exactly, is constant within blocks of duration T symbol periods (coherence time), and channel states in different blocks are i.i.d. θ ∼ ψ ( θ ) . The extension of the DMC W ( ·| x, θ ) to n channel uses within a block is given by W n ( y | x , θ ) = ∏ n i =1 W ( y i | x i , θ ) where x = ( x 1 , . . . , x n ) and y = ( y 1 , . . . , y n ) . The receiver only knows an estimate ˆ θ R of the channel state and a characterization of the estimator performance in terms of the conditional probability density function (pdf) ψ ( θ | ˆ θ R ) (this can be obtained using W Θ , the estimator function and the a priori distribution of θ ). Moreover, a feedback channel provides the transmitter with noisy CSI ˆ θ T ( ˆ θ T in general is different from ˆ θ R , e.g. due to quantization). The joint distribution of ( ˆ θ T , ˆ θ R , θ ) is given by ψ ( ˆ θ T , ˆ θ R , θ ) . The scenario underlying these assumptions is motivated by current wireless systems, where for the case of a mobile receiver T may be too short to permit reliable estimation of the fading coefficients.",
+      "text": "Throughout the paper we assume that the channel state, which neither the transmitter nor the receiver knows exactly, is constant within blocks of duration T symbol periods (coherence time), and channel states in different blocks are i.i.d. θ ∼ ψ ( θ ) . The extension of the DMC W ( ·| x, θ ) to n channel uses within a block is given by W n ( y | x , θ ) = ∏ n i =1 W ( y i | x i , θ ) where x = ( x 1 , . . . , x n ) and y = ( y 1 , . . . , y n ) . The receiver only knows an estimate ˆ θ R of the channel state and a characterization of the estimator performance in terms of the conditional probability density function (pdf) ψ ( θ | ˆ θ R ) (this can be obtained using W Θ , the estimator function and the a priori distribution of θ ). Moreover, a feedback channel provides the transmitter with noisy CSI ˆ θ T ( ˆ θ T in general is different from ˆ θ R , e.g. due to quantization). The joint distribution of ( ˆ θ T , ˆ θ R , θ ) is given by ψ ( ˆ θ T , ˆ θ R , θ ) . The scenario underlying these assumptions is motivated by current wireless systems, where for the case of a mobile receiver T may be too short to permit reliable estimation of the fading coefficients."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 308.6408939999998,
+            "t": 120.95505767999975,
+            "r": 545.7027088796949,
+            "b": 52.50416820415785,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            334
+          ]
+        }
+      ],
+      "orig": "The concept of outage capacity was first proposed in [3] for fading channels. It is defined as the maximum rate that can be supported with probability 1 -γ , where γ is a prescribed outage probability. In contrast, ergodic capacity is the maximum information rate for which error probability decays exponentially with the code length.",
+      "text": "The concept of outage capacity was first proposed in [3] for fading channels. It is defined as the maximum rate that can be supported with probability 1 -γ , where γ is a prescribed outage probability. In contrast, ergodic capacity is the maximum information rate for which error probability decays exponentially with the code length."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 323.6411539999998,
+            "t": 49.591509999999744,
+            "r": 545.4624312566143,
+            "b": 36.547446099999775,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 49.31916000000001,
+            "t": 677.6719800000001,
+            "r": 286.4230363341065,
+            "b": 452.54904000000016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            68,
+            1192
+          ]
+        }
+      ],
+      "orig": "In our setting, a transceiver using ˆ θ = ( ˆ θ R , ˆ θ T ) instead of θ obviously might not support an information rate R even if R is less than the channel's capacity under perfect CSIR (even arbitrarily small rates might not be supported if ˆ θ and θ happen to be strongly different). Consequently, outages induced by channel estimation errors will occur with a certain probability γ . The outage probability depends on the codeword error probability, averaged over a random coding ensemble and over all channel realizations given the estimated state. We first formalize the notion of estimationinduced outage capacity for general DMCs, and then we present a coding theorem providing the explicit expression for the corresponding capacity, which is a function of the outage probability γ (Section 2). Due to the independence of different blocks (coherence intervals), it is sufficient to study the estimation-induced outage rate C ( γ, ψ θ | ˆ θ , ˆ θ ) for a single block (coherence interval), for which the channel state is fixed but unknown to the transmitter and the receiver. Since this rate still depends on the random channel estimates ˆ θ , we will consider the performance measure",
+      "text": "In our setting, a transceiver using ˆ θ = ( ˆ θ R , ˆ θ T ) instead of θ obviously might not support an information rate R even if R is less than the channel's capacity under perfect CSIR (even arbitrarily small rates might not be supported if ˆ θ and θ happen to be strongly different). Consequently, outages induced by channel estimation errors will occur with a certain probability γ . The outage probability depends on the codeword error probability, averaged over a random coding ensemble and over all channel realizations given the estimated state. We first formalize the notion of estimationinduced outage capacity for general DMCs, and then we present a coding theorem providing the explicit expression for the corresponding capacity, which is a function of the outage probability γ (Section 2). Due to the independence of different blocks (coherence intervals), it is sufficient to study the estimation-induced outage rate C ( γ, ψ θ | ˆ θ , ˆ θ ) for a single block (coherence interval), for which the channel state is fixed but unknown to the transmitter and the receiver. Since this rate still depends on the random channel estimates ˆ θ , we will consider the performance measure"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 100.07927600000002,
+            "t": 447.5117000000001,
+            "r": 286.15667732740724,
+            "b": 415.9602682400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "¯ C ( γ, ψ θ | ˆ θ ) = E ˆ θ { C ( γ, ψ θ | ˆ θ , ˆ θ ) } , (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 49.318649999999934,
+            "t": 423.4748576800001,
+            "r": 286.260436,
+            "b": 366.90410820415826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            310
+          ]
+        }
+      ],
+      "orig": "which describes (average) information rate with prescribed outage probability. The expectation in (1) is with respect to the joint distribution ψ ( ˆ θ ) = ψ ( ˆ θ T | ˆ θ R ) ∫ Θ ψ ( ˆ θ R | θ ) ψ ( θ ) dθ and reflects an average over a large number of blocks (coherence intervals), cf. the discussion in [4].",
+      "text": "which describes (average) information rate with prescribed outage probability. The expectation in (1) is with respect to the joint distribution ψ ( ˆ θ ) = ψ ( ˆ θ T | ˆ θ R ) ∫ Θ ψ ( ˆ θ R | θ ) ψ ( θ ) dθ and reflects an average over a large number of blocks (coherence intervals), cf. the discussion in [4]."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 49.318649999999934,
+            "t": 363.71469768000014,
+            "r": 286.1561679808776,
+            "b": 268.37553750000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            466
+          ]
+        }
+      ],
+      "orig": "Our notion of reliably communication is relevant e.g. for communication systems where a quality of service (QoS) in terms of error performance must be ensured although significant channel variations occur due to user mobility. An example of such a scenario involving a fading Ricean channel with AWGN, rate-limited feedback, and maximum likelihood (ML) channel estimation, will be considered in Section 4 to illustrate the mean outage capacity ¯ C ( γ, ψ θ | ˆ θ ) .",
+      "text": "Our notion of reliably communication is relevant e.g. for communication systems where a quality of service (QoS) in terms of error performance must be ensured although significant channel variations occur due to user mobility. An example of such a scenario involving a fading Ricean channel with AWGN, rate-limited feedback, and maximum likelihood (ML) channel estimation, will be considered in Section 4 to illustrate the mean outage capacity ¯ C ( γ, ψ θ | ˆ θ ) ."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 49.31866699999992,
+            "t": 252.7337746400001,
+            "r": 218.1157210928513,
+            "b": 243.85929414805287,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "2. Problem Statement and Main Result",
+      "text": "2. Problem Statement and Main Result",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 49.31866699999992,
+            "t": 231.7141976800001,
+            "r": 286.036790919805,
+            "b": 199.14380820415818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "In this section, we first develop a proper formalization of the notion of estimation-induced outage capacity and state our main result.",
+      "text": "In this section, we first develop a proper formalization of the notion of estimation-induced outage capacity and state our main result."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 49.31866699999992,
+            "t": 181.6938746400001,
+            "r": 151.21765267092286,
+            "b": 172.81939414805277,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "2.1. Problem Definition",
+      "text": "2.1. Problem Definition",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 49.31806299999991,
+            "t": 163.96027600000002,
+            "r": 286.27560327298363,
+            "b": 68.34370820415825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            449
+          ]
+        }
+      ],
+      "orig": "A message m from the set M = { 1 , . . . , ⌊ exp( nR ) ⌋} is transmitted using a lengthn block code defined as a pair ( ϕ, φ ) of mappings, where ϕ : M× Θ ↦→ X n is the encoder (that utilizes ˆ θ T ), and φ : Y n × Θ ↦→M∪{ 0 } is the decoder (that utilizes ˆ θ R ). The random rate, which depends on the unknown channel realization θ through its probability of error, is given by n -1 log M θ, ˆ θ . The maximum (over all messages) error probability",
+      "text": "A message m from the set M = { 1 , . . . , ⌊ exp( nR ) ⌋} is transmitted using a lengthn block code defined as a pair ( ϕ, φ ) of mappings, where ϕ : M× Θ ↦→ X n is the encoder (that utilizes ˆ θ T ), and φ : Y n × Θ ↦→M∪{ 0 } is the decoder (that utilizes ˆ θ R ). The random rate, which depends on the unknown channel realization θ through its probability of error, is given by n -1 log M θ, ˆ θ . The maximum (over all messages) error probability"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 198.3580829999999,
+            "t": 42.54922750000003,
+            "r": 198.3580829999999,
+            "b": 35.57537750000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "̸",
+      "text": "̸"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.43820899999988,
+            "t": 61.23106000000007,
+            "r": 279.8380882799999,
+            "b": 29.679628240000056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "e max ( ϕ, φ, ˆ θ ; θ ) = max m ∈M ∑ y ∈ Y n : φ ( y , ˆ θ R ) = m W n ( y | ϕ ( m, ˆ θ T ) , θ ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.63787699999966,
+            "t": 680.3106700000002,
+            "r": 545.6154809999996,
+            "b": 620.2233282041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            288
+          ]
+        }
+      ],
+      "orig": "For a given channel estimate ˆ θ = ( ˆ θ R , ˆ θ T ) , and 0 < ǫ, γ < 1 , an outage rate R ≥ 0 is ( ǫ, γ ) -achievable on an unknown channel W ( ·| x, θ ) ∈ W Θ , if for every δ > 0 and every sufficiently large n there exists a sequence of lengthn block codes such that the rate satisfies",
+      "text": "For a given channel estimate ˆ θ = ( ˆ θ R , ˆ θ T ) , and 0 < ǫ, γ < 1 , an outage rate R ≥ 0 is ( ǫ, γ ) -achievable on an unknown channel W ( ·| x, θ ) ∈ W Θ , if for every δ > 0 and every sufficiently large n there exists a sequence of lengthn block codes such that the rate satisfies"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 319.3179969999996,
+            "t": 614.9172556000002,
+            "r": 534.8381706321115,
+            "b": 582.0392982400002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Pr ( { θ ∈ Λ ǫ : n -1 log M θ, ˆ θ ≥ R -δ }∣ ˆ θ ) ≥ 1 -γ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.63836199999963,
+            "t": 606.3973336000003,
+            "r": 545.4773690961194,
+            "b": 481.4678500000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            540
+          ]
+        }
+      ],
+      "orig": "∣ where Λ ǫ = { θ ∈ Θ: e max ( ϕ, φ, ˆ θ ; θ ) ≤ ǫ } is the set of all channel states allowing for reliable decoding. This definition requires that maximum error probabilities larger than ǫ occur with probability less than γ , i.e., P θ | ˆ θ (Λ ǫ | ˆ θ ) ≥ 1 -γ. The practical advantage of such definition is that for any degree of accuracy channel estimation, the transmitter and receiver strive to construct codes for ensuring reliable communication with probability 1 -γ , no matter which unknown state θ arises during the transmission.",
+      "text": "∣ where Λ ǫ = { θ ∈ Θ: e max ( ϕ, φ, ˆ θ ; θ ) ≤ ǫ } is the set of all channel states allowing for reliable decoding. This definition requires that maximum error probabilities larger than ǫ occur with probability less than γ , i.e., P θ | ˆ θ (Λ ǫ | ˆ θ ) ≥ 1 -γ. The practical advantage of such definition is that for any degree of accuracy channel estimation, the transmitter and receiver strive to construct codes for ensuring reliable communication with probability 1 -γ , no matter which unknown state θ arises during the transmission."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.6383899999996,
+            "t": 479.6795560000002,
+            "r": 545.4760831373407,
+            "b": 420.6275500000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            320
+          ]
+        }
+      ],
+      "orig": "Arate R ≥ 0 is γ -achievable if it is ( ǫ, γ ) -achievable for every 0 < ǫ < 1 . Let C ǫ ( γ, ψ θ | ˆ θ , ˆ θ ) be the largest ( ǫ, γ ) -achievable rate for an outage probability γ and a given estimated ˆ θ . The estimation-induced outage capacity of this channel is then defined as the largest γ -achievable rate, i.e.,",
+      "text": "Arate R ≥ 0 is γ -achievable if it is ( ǫ, γ ) -achievable for every 0 < ǫ < 1 . Let C ǫ ( γ, ψ θ | ˆ θ , ˆ θ ) be the largest ( ǫ, γ ) -achievable rate for an outage probability γ and a given estimated ˆ θ . The estimation-induced outage capacity of this channel is then defined as the largest γ -achievable rate, i.e.,"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 357.23913999999945,
+            "t": 411.5101300000002,
+            "r": 496.79886827999934,
+            "b": 393.1747675000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "C ( γ, ψ θ | ˆ θ , ˆ θ ) = lim ǫ ↓ 0 C ǫ ( γ, ψ θ | ˆ θ , ˆ θ ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.63921699999935,
+            "t": 388.2131546400002,
+            "r": 401.77808251942,
+            "b": 379.3386741480529,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "2.2. Coding Theorem",
+      "text": "2.2. Coding Theorem",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.63897199999934,
+            "t": 369.35377768000023,
+            "r": 545.8625549326676,
+            "b": 270.9877100000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            491
+          ]
+        }
+      ],
+      "orig": "We next state a coding theorem quantifying the estimation-induced outage capacity C ( γ, ψ θ | ˆ θ , ˆ θ ) for our scenario where an estimate ˆ θ R of the channel state is known at the decoder and a noisy version ˆ θ T of ˆ θ R is known at the encoder. We impose an input constraint that depends on the transmitter CSI and requires that Γ( P ) = ∑ x ∈X Γ( x ) P ( x ) is less than P ( ˆ θ T ) . Here, Γ( · ) is any arbitrary non-negative function, and P ( · ) denotes the input distribution.",
+      "text": "We next state a coding theorem quantifying the estimation-induced outage capacity C ( γ, ψ θ | ˆ θ , ˆ θ ) for our scenario where an estimate ˆ θ R of the channel state is known at the decoder and a noisy version ˆ θ T of ˆ θ R is known at the encoder. We impose an input constraint that depends on the transmitter CSI and requires that Γ( P ) = ∑ x ∈X Γ( x ) P ( x ) is less than P ( ˆ θ T ) . Here, Γ( · ) is any arbitrary non-negative function, and P ( · ) denotes the input distribution."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.63928799999934,
+            "t": 259.4795160000001,
+            "r": 545.4768322854876,
+            "b": 225.81143581165452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "Theorem 2.1 Given 0 ≤ γ < 1 the estimation-induced outage capacity of an unknown DMC W ( ·| x, θ ) ∈ W Θ is given by",
+      "text": "Theorem 2.1 Given 0 ≤ γ < 1 the estimation-induced outage capacity of an unknown DMC W ( ·| x, θ ) ∈ W Θ is given by"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.639613999999,
+            "t": 209.54417392000005,
+            "r": 332.6231693267886,
+            "b": 200.97163581165455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 334.3197779999993,
+            "t": 227.5503900000001,
+            "r": 545.4771753274063,
+            "b": 207.23195792000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "C ( γ, ψ θ | ˆ θ , ˆ θ ) = max P : Γ( P ) ≤P ( ˆ θ T ) C ( γ, ψ θ | ˆ θ , ˆ θ, P ) , (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 316.319693999999,
+            "t": 194.19027000000006,
+            "r": 545.477087327406,
+            "b": 162.75914824000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "C ( γ, ψ θ | ˆ θ , ˆ θ, P ) = sup Λ ⊂ Θ: Pr(Λ | ˆ θ ) ≥ 1 -γ inf θ ∈ Λ I ( P, W ( ·|· , θ ) ) . (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.6395259999988,
+            "t": 160.95039000000008,
+            "r": 537.6900229999989,
+            "b": 145.85487750000016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "In addition, C ǫ ( γ, ψ θ | ˆ θ , ˆ θ ) = C ( γ, ψ θ | ˆ θ , ˆ θ ) ∀ 0 < ǫ < 1 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 323.6393629999988,
+            "t": 135.71353768000006,
+            "r": 515.9410107208175,
+            "b": 127.02284820415821,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "In this theorem, we used the mutual information",
+      "text": "In this theorem, we used the mutual information"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 310.1995629999988,
+            "t": 125.79940600000009,
+            "r": 542.5451573199988,
+            "b": 89.91885824000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "I ( P, W ( ·|· , θ ) ) = ∑ x ∈X ∑ y ∈Y P ( x ) W ( y | x, θ ) log W ( y | x, θ ) Q ( y | θ )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.63944000000004,
+            "t": 95.19854559999999,
+            "r": 545.7306327089972,
+            "b": 36.303811350000046,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            302
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 49.3199,
+            "t": 680.3118200000001,
+            "r": 286.2706951473073,
+            "b": 596.3443782041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            303,
+            724
+          ]
+        }
+      ],
+      "orig": "with Q ( y | θ ) = ∑ x ∈X P ( x ) W ( y | x, θ ) . We emphasize that the supremum in (3) is taken over all subsets Λ of Θ that have (conditional) probability at least 1 -γ . Furthermore, codes achieving capacity (3) can be viewed as codes for a simultaneous channel W Λ ∗ , which has been determined by the decoder. Hence, this outage capacity C ( γ, ψ θ | ˆ θ , ˆ θ ) is seen to equal the maximum capacity of all compound channels that are contained in W Θ and, conditioned on ˆ θ , have sufficiently high probability. The significance of Theorem 2.1 is that it provides an explicit way to evaluate the outage capacity for an unknown but estimated channel for arbitrary estimation accuracies without additional assumptions.",
+      "text": "with Q ( y | θ ) = ∑ x ∈X P ( x ) W ( y | x, θ ) . We emphasize that the supremum in (3) is taken over all subsets Λ of Θ that have (conditional) probability at least 1 -γ . Furthermore, codes achieving capacity (3) can be viewed as codes for a simultaneous channel W Λ ∗ , which has been determined by the decoder. Hence, this outage capacity C ( γ, ψ θ | ˆ θ , ˆ θ ) is seen to equal the maximum capacity of all compound channels that are contained in W Θ and, conditioned on ˆ θ , have sufficiently high probability. The significance of Theorem 2.1 is that it provides an explicit way to evaluate the outage capacity for an unknown but estimated channel for arbitrary estimation accuracies without additional assumptions."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 49.320619999999934,
+            "t": 594.0320800000002,
+            "r": 286.1710097953093,
+            "b": 500.7044782041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            434
+          ]
+        }
+      ],
+      "orig": "Observe that if perfect CSIR is available then Λ ǫ = Θ and the instantaneous mutual information is attainable. Thus, every rate R can be associated to the set Λ R = { θ ∈ Θ : I ( P, W ( ·|· , θ )) ≥ R -δ } whose probability is 1 -γ . Therefore, in this case, the channel can be modeled as a compoundchannel, whose transition probability depends on a random parameter θ ∈ Θ . In the following section we provide a proof of Theorem 2.1.",
+      "text": "Observe that if perfect CSIR is available then Λ ǫ = Θ and the instantaneous mutual information is attainable. Thus, every rate R can be associated to the set Λ R = { θ ∈ Θ : I ( P, W ( ·|· , θ )) ≥ R -δ } whose probability is 1 -γ . Therefore, in this case, the channel can be modeled as a compoundchannel, whose transition probability depends on a random parameter θ ∈ Θ . In the following section we provide a proof of Theorem 2.1."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 49.321549999999945,
+            "t": 482.41474464000015,
+            "r": 187.5799401890225,
+            "b": 473.54026414805287,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "3. Proof of the Coding Theorem",
+      "text": "3. Proof of the Coding Theorem",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 49.321549999999945,
+            "t": 461.3951676800002,
+            "r": 286.27211218342103,
+            "b": 392.94427820415825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            337
+          ]
+        }
+      ],
+      "orig": "In this section we determine the capacity by using the tools of information theory, according to the definition in Section 2. The proof of Theorem 2.1 is based on an extension of the maximal code lemma [5] to bound the minimum size of the images for the considered channels, according to the notion of estimation-induced outage capacity.",
+      "text": "In this section we determine the capacity by using the tools of information theory, according to the definition in Section 2. The proof of Theorem 2.1 is based on an extension of the maximal code lemma [5] to bound the minimum size of the images for the considered channels, according to the notion of estimation-induced outage capacity."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 49.32114999999993,
+            "t": 389.63496768000016,
+            "r": 286.08080127999995,
+            "b": 318.78447820415823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            376
+          ]
+        }
+      ],
+      "orig": "Throughout this section, we will use the notion of (conditional) information-typical (I-typical) sets defined in terms of (Kullback-Leibler) divergence, i.e., T n P ( δ ) = { x : D ( ˆ P n ‖ P ) ≤ δ } and T n W ( x , δ ) = { y : D ( ˆ W n ‖ W | ˆ P n ) ≤ δ } where ˆ P n is the empirical PM associated with x and ˆ W n is the empirical conditional PM associated with x and y .",
+      "text": "Throughout this section, we will use the notion of (conditional) information-typical (I-typical) sets defined in terms of (Kullback-Leibler) divergence, i.e., T n P ( δ ) = { x : D ( ˆ P n ‖ P ) ≤ δ } and T n W ( x , δ ) = { y : D ( ˆ W n ‖ W | ˆ P n ) ≤ δ } where ˆ P n is the empirical PM associated with x and ˆ W n is the empirical conditional PM associated with x and y ."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 49.32115999999996,
+            "t": 301.5744446400001,
+            "r": 222.06259296249854,
+            "b": 292.6999641480528,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "3.1. Generalized Maximal Code Lemma",
+      "text": "3.1. Generalized Maximal Code Lemma",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 49.32088000000002,
+            "t": 284.62939040000015,
+            "r": 286.038696517561,
+            "b": 249.0633813500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "Let I Λ denote the set of all common η -images B n ⊆ Y n associated to a set A n ⊂ X n via the collection of simultaneous DMCs W Λ ,",
+      "text": "Let I Λ denote the set of all common η -images B n ⊆ Y n associated to a set A n ⊂ X n via the collection of simultaneous DMCs W Λ ,"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 49.320950000000025,
+            "t": 245.55854560000012,
+            "r": 295.32074128000005,
+            "b": 215.68054824000012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "I Λ ( A n , η )= { B n : inf θ ∈ Λ W n ( B n | x , θ ) ≥ η for all x ∈ A n } .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 49.32109000000003,
+            "t": 220.7952076800002,
+            "r": 189.42206745826806,
+            "b": 212.10451820415824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "In the following, we will denote by",
+      "text": "In the following, we will denote by"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.92109000000002,
+            "t": 206.98961040000017,
+            "r": 286.1585713274072,
+            "b": 189.4166375000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "g Λ ( A n , η ) = min B n ∈ I Λ ( A n ,η ) ‖ B n ‖ (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 49.32101,
+            "t": 183.87192000000016,
+            "r": 286.18444221437915,
+            "b": 69.30741610000018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            584
+          ]
+        }
+      ],
+      "orig": "the minimum of the cardinalities of all common η -images B n . For a given channel estimate ˆ θ = ( ˆ θ T , ˆ θ R ) with degraded CSIT θ minuso ˆ θ R minuso ˆ θ T , a code ( x 1 ( ˆ θ T ) , . . . , x M ( ˆ θ T ); D n 1 ( ˆ θ ) , . . . , D n M ( ˆ θ ) ) according to the above definition consists of a set of codewords x m ( ˆ θ T ) and associated decoding sets D n m ( ˆ θ ) (i.e., the decoder reads φ ( y , ˆ θ ) = m iff y ∈ D n m ( ˆ θ ) ). For any set A n , we call a code admissible if x m ( ˆ θ T ) ∈ A n , all decoding sets D n m ( ˆ θ ) ⊆ Y n are mutually disjoint, and the set",
+      "text": "the minimum of the cardinalities of all common η -images B n . For a given channel estimate ˆ θ = ( ˆ θ T , ˆ θ R ) with degraded CSIT θ minuso ˆ θ R minuso ˆ θ T , a code ( x 1 ( ˆ θ T ) , . . . , x M ( ˆ θ T ); D n 1 ( ˆ θ ) , . . . , D n M ( ˆ θ ) ) according to the above definition consists of a set of codewords x m ( ˆ θ T ) and associated decoding sets D n m ( ˆ θ ) (i.e., the decoder reads φ ( y , ˆ θ ) = m iff y ∈ D n m ( ˆ θ ) ). For any set A n , we call a code admissible if x m ( ˆ θ T ) ∈ A n , all decoding sets D n m ( ˆ θ ) ⊆ Y n are mutually disjoint, and the set"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 55.92144999999987,
+            "t": 65.67835560000015,
+            "r": 286.15941732740714,
+            "b": 32.800438240000176,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "Λ ǫ = { θ ∈ Θ : max m ∈M W n ( ( D n m ( ˆ θ )) c | x m ( ˆ θ T ) , θ ) ≤ ǫ } , (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.64185599999996,
+            "t": 680.3116700000002,
+            "r": 545.3596300300387,
+            "b": 653.6334539200001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "satisfies that Pr(Λ ǫ | ˆ θ ) ≥ 1 -γ . Any input distribution satisfying the input constraint P ( ˆ θ T ) is denoted by P ( ·| ˆ θ T ) .",
+      "text": "satisfies that Pr(Λ ǫ | ˆ θ ) ≥ 1 -γ . Any input distribution satisfying the input constraint P ( ˆ θ T ) is denoted by P ( ·| ˆ θ T ) ."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.6426339999998,
+            "t": 643.2319300000001,
+            "r": 545.5061375666357,
+            "b": 608.7031313500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "Theorem 3.1 Let two arbitrary numbers 0 < ǫ, δ < 1 be given. There exists a positive integer n 0 such that for all n ≥ n 0 the following two statements hold.",
+      "text": "Theorem 3.1 Let two arbitrary numbers 0 < ǫ, δ < 1 be given. There exists a positive integer n 0 such that for all n ≥ n 0 the following two statements hold."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.6425799999997,
+            "t": 604.3518600000002,
+            "r": 545.5061572542234,
+            "b": 561.8692900000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "1) Direct Part: For any A n ⊂ T n P | ˆ θ T ( δ, ˆ θ T ) and any random set Λ ⊂ Θ with Pr(Λ | ˆ θ ) ≥ 1 -γ , there exists an admissible sequence of lengthn block codes of size",
+      "text": "1) Direct Part: For any A n ⊂ T n P | ˆ θ T ( δ, ˆ θ T ) and any random set Λ ⊂ Θ with Pr(Λ | ˆ θ ) ≥ 1 -γ , there exists an admissible sequence of lengthn block codes of size"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 316.6832159999997,
+            "t": 551.9894204000002,
+            "r": 545.4804853274067,
+            "b": 521.5605282400003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "M θ, ˆ θ ≥ exp [ -n ( H ( W Λ | P ) -δ )] g Λ ( A n , ǫ -δ ) , (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.6429799999993,
+            "t": 519.7517640000004,
+            "r": 545.7032886553015,
+            "b": 492.98908400000045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "2) Converse Part: For A n = T n P | ˆ θ T ( δ, ˆ θ T ) , the size of any admissible sequence of lengthn block codes is bounded",
+      "text": "2) Converse Part: For A n = T n P | ˆ θ T ( δ, ˆ θ T ) , the size of any admissible sequence of lengthn block codes is bounded"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.6429239999994,
+            "t": 529.3609960000003,
+            "r": 424.77375399999937,
+            "b": 518.7073161000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "for all θ ∈ Λ , where Λ ǫ = Λ .",
+      "text": "for all θ ∈ Λ , where Λ ǫ = Λ ."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 313.6829799999993,
+            "t": 483.1092424000004,
+            "r": 545.4798193274064,
+            "b": 469.26740010000043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "M θ, ˆ θ ≤ exp -n H ( W Λ ǫ | P ) + δ g Λ ǫ ( A n , ǫ + δ ) , (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.6422579999992,
+            "t": 460.3608980000004,
+            "r": 363.2020205999992,
+            "b": 449.70721810000043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "for all θ ∈ Λ ǫ",
+      "text": "for all θ ∈ Λ ǫ"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 363.72230799999915,
+            "t": 482.5583136000005,
+            "r": 463.02727450324113,
+            "b": 450.57291781165486,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "[ ( )] .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.64220799999913,
+            "t": 437.8749196800004,
+            "r": 545.5320299399424,
+            "b": 393.30413020415847,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "The proof of this theorem easily follows from basic properties of I-typical sequences and the concept of robust I-typical sets in Appendix A. Whereas, Theorem 2.1 is obtained through the following corollary.",
+      "text": "The proof of this theorem easily follows from basic properties of I-typical sequences and the concept of robust I-typical sets in Appendix A. Whereas, Theorem 2.1 is obtained through the following corollary."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.6421139999992,
+            "t": 384.1515620000003,
+            "r": 545.4799539173634,
+            "b": 335.01261781165476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "Corollary 3.2 For a given channel estimate ˆ θ and an outage probability γ , and 0 < ǫ, δ < 1 and any PM P ( ·| ˆ θ T ) ∈ P ( X ) . Let C ( γ, ψ θ | ˆ θ , ˆ θ, P ) be defined by expression (3) . Then the following statements holds:",
+      "text": "Corollary 3.2 For a given channel estimate ˆ θ and an outage probability γ , and 0 < ǫ, δ < 1 and any PM P ( ·| ˆ θ T ) ∈ P ( X ) . Let C ( γ, ψ θ | ˆ θ , ˆ θ, P ) be defined by expression (3) . Then the following statements holds:"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.6425319999992,
+            "t": 331.5851559200003,
+            "r": 545.5580283438638,
+            "b": 298.7087920000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "(i) There exists an optimal sequence of block codes of length n and size M θ, ˆ θ , whose maximum error probabilities larger than ǫ occur with probability less than γ , such that",
+      "text": "(i) There exists an optimal sequence of block codes of length n and size M θ, ˆ θ , whose maximum error probabilities larger than ǫ occur with probability less than γ , such that"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 345.3628919999992,
+            "t": 291.5178596000003,
+            "r": 545.4800173274064,
+            "b": 253.12002024000026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Pr ( n -1 log M θ, ˆ θ ≥ R -2 δ ∣ ∣ ˆ θ ) ≥ 1 -γ (8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.6423339999989,
+            "t": 266.5515740000003,
+            "r": 545.5588338229956,
+            "b": 200.13261981165476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            284
+          ]
+        }
+      ],
+      "orig": "for all rate R ≤ C ( γ, ψ θ | ˆ θ , ˆ θ, P ) , provided that n ≥ n 0 . (ii) For any block codes of length n , size M θ, ˆ θ and codewords in T n P | ˆ θ T ( δ, ˆ θ ) , whose maximum error probabilities larger than ǫ occur with probability less than γ . The largest code size satisfies",
+      "text": "for all rate R ≤ C ( γ, ψ θ | ˆ θ , ˆ θ, P ) , provided that n ≥ n 0 . (ii) For any block codes of length n , size M θ, ˆ θ and codewords in T n P | ˆ θ T ( δ, ˆ θ ) , whose maximum error probabilities larger than ǫ occur with probability less than γ . The largest code size satisfies"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 354.00253399999895,
+            "t": 192.63836160000028,
+            "r": 545.4802293274062,
+            "b": 160.12012224000023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Pr ( n -1 log M θ, ˆ θ > R +2 δ ∣ ˆ θ ) < γ (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.64266799999893,
+            "t": 183.99807960000032,
+            "r": 518.0130419999989,
+            "b": 152.4561335000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "∣ for all rate R ≥ C ( γ, ψ θ | ˆ θ , ˆ θ, P ) , whenever n ≥ n 0 .",
+      "text": "∣ for all rate R ≥ C ( γ, ψ θ | ˆ θ , ˆ θ, P ) , whenever n ≥ n 0 ."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.64238199999886,
+            "t": 142.67492368000035,
+            "r": 545.5061712063934,
+            "b": 122.10413420415841,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "Proof: From the direct part of Theorem 3.1 and Lemma A.1, we have that there exists admissible codes such that",
+      "text": "Proof: From the direct part of Theorem 3.1 and Lemma A.1, we have that there exists admissible codes such that"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 309.36269499999884,
+            "t": 114.9100235000003,
+            "r": 545.5999447340419,
+            "b": 84.16036424000026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "n -1 log M θ, ˆ θ ≥ n -1 log g Λ ( A n , ǫ -δ ) -H ( W Λ | P ) -δ, (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.6420919999987,
+            "t": 89.4405320000003,
+            "r": 545.5845169154024,
+            "b": 34.3760735000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            255
+          ]
+        }
+      ],
+      "orig": "for all θ ∈ Λ and sets Λ ⊂ Θ (having probability at least 1 -γ ). Let ˆ D n be the common ( ǫ -δ ) -image of minimal size ‖ ˆ D n ‖ = g Λ ( A n , ǫ -δ ) . Then it is easy to show that inf θ ∈ Λ W θ P n ( ˆ D n ) ≥ ( ǫ -δ ) 2 . By applying Corollary 1.2.14",
+      "text": "for all θ ∈ Λ and sets Λ ⊂ Θ (having probability at least 1 -γ ). Let ˆ D n be the common ( ǫ -δ ) -image of minimal size ‖ ˆ D n ‖ = g Λ ( A n , ǫ -δ ) . Then it is easy to show that inf θ ∈ Λ W θ P n ( ˆ D n ) ≥ ( ǫ -δ ) 2 . By applying Corollary 1.2.14"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 49.3199,
+            "t": 676.79526768,
+            "r": 286.14094425694543,
+            "b": 654.0635113500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "in [5] to this relation and substituting it in (10), we obtain for all n ≥ n ′ 0 ( | X | , | Y | , ǫ, δ ) ,",
+      "text": "in [5] to this relation and substituting it in (10), we obtain for all n ≥ n ′ 0 ( | X | , | Y | , ǫ, δ ) ,"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 76.68056000000003,
+            "t": 649.9905675,
+            "r": 286.15717632557516,
+            "b": 632.3366375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "n -1 log M θ, ˆ θ ≥ inf θ ∈ Λ I ( P, W ( ·|· , θ )) -2 δ, (11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 49.320628,
+            "t": 623.921046,
+            "r": 286.15906549955366,
+            "b": 566.3447782041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "for all θ ∈ Λ , where the last inequality follows from the concavity of the entropy function with respect to W θ . Finally, taking the supremum in (11) with respect to all sets Λ ⊂ Θ having probability at least 1 -γ yields the lower bound (8)",
+      "text": "for all θ ∈ Λ , where the last inequality follows from the concavity of the entropy function with respect to W θ . Finally, taking the supremum in (11) with respect to all sets Λ ⊂ Θ having probability at least 1 -γ yields the lower bound (8)"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.881607999999964,
+            "t": 560.9122100000001,
+            "r": 286.1587683255752,
+            "b": 545.8166975000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "n -1 log M θ, ˆ θ ≥ C ( γ, ψ θ | ˆ θ , ˆ θ, P ) -2 δ ≥ R -2 δ, (12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 49.32120500000002,
+            "t": 539.7919200000001,
+            "r": 286.06445776628107,
+            "b": 491.7045782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "for all rate R ≤ C ( γ, ψ θ | ˆ θ , ˆ θ, P ) and θ ∈ Λ ∗ , which is attained by some code with Λ ǫ = Λ ∗ . Next we prove the upper bound (9). From the converse part of Theorem 3.1, we have",
+      "text": "for all rate R ≤ C ( γ, ψ θ | ˆ θ , ˆ θ, P ) and θ ∈ Λ ∗ , which is attained by some code with Λ ǫ = Λ ∗ . Next we prove the upper bound (9). From the converse part of Theorem 3.1, we have"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 49.321255000000036,
+            "t": 485.47066750000005,
+            "r": 286.15919132557525,
+            "b": 454.72055224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "n -1 log M θ, ˆ θ ≤ n -1 log g Λ ǫ ( A n , ǫ + δ ) -H ( W Λ ǫ | P )+ δ, (13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 49.32161200000007,
+            "t": 462.39188199999995,
+            "r": 286.15926321498097,
+            "b": 401.70332734999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        }
+      ],
+      "orig": "for all θ ∈ Λ ǫ . Since A n = T n P | ˆ θ T ( δ, ˆ θ ) implies that any common ( ǫ + δ ) -image of A n will be included in ⋂ θ ∈ Λ ǫ T n W θ P ( δ ′ n ) , Lemma 1.2.12 in [5] ensures that there exists n ≥ n ′′ 0 ( | X | , | Y | , ǫ, δ ) such that,",
+      "text": "for all θ ∈ Λ ǫ . Since A n = T n P | ˆ θ T ( δ, ˆ θ ) implies that any common ( ǫ + δ ) -image of A n will be included in ⋂ θ ∈ Λ ǫ T n W θ P ( δ ′ n ) , Lemma 1.2.12 in [5] ensures that there exists n ≥ n ′′ 0 ( | X | , | Y | , ǫ, δ ) such that,"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 65.04113200000005,
+            "t": 397.75031349999995,
+            "r": 286.1589003255753,
+            "b": 367.00067823999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "n -1 log g Λ ǫ ( A n , ǫ + δ ) ≤ inf θ ∈ Λ ǫ H ( W θ P ) + δ. (14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 49.32135200000013,
+            "t": 375.83513167999996,
+            "r": 286.1584776272641,
+            "b": 342.86950399999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "Then by applying equation (14) to equation (13), and then by taking its supremum with respect to all sets Λ ⊂ Θ having probability at least 1 -γ , we obtain",
+      "text": "Then by applying equation (14) to equation (13), and then by taking its supremum with respect to all sets Λ ⊂ Θ having probability at least 1 -γ , we obtain"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.882312000000155,
+            "t": 337.8321739999999,
+            "r": 286.1594523255754,
+            "b": 322.7366614999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "n -1 log M θ, ˆ θ ≤ C ( γ, ψ θ | ˆ θ , ˆ θ, P ) + 2 δ ≤ R +2 δ, (15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 49.3217980000002,
+            "t": 316.7122739999999,
+            "r": 285.9969162400002,
+            "b": 288.06782009999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "for all R ≥ C ( γ, ψ θ | ˆ θ , ˆ θ, P ) and θ ∈ Λ ǫ with Pr( θ / ∈ Λ ǫ | ˆ θ ) < γ , and this concludes the proof.",
+      "text": "for all R ≥ C ( γ, ψ θ | ˆ θ , ˆ θ, P ) and θ ∈ Λ ǫ with Pr( θ / ∈ Λ ǫ | ˆ θ ) < γ , and this concludes the proof."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 49.32177400000021,
+            "t": 270.3746086399999,
+            "r": 206.90097445658688,
+            "b": 261.5001281480527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "4. Numerical Results and Discussion",
+      "text": "4. Numerical Results and Discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 49.32177400000023,
+            "t": 249.35543167999992,
+            "r": 286.2371456183933,
+            "b": 133.02484220415806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            582
+          ]
+        }
+      ],
+      "orig": "In this section, we illustrate our results via a realistic single user mobile wireless communication system involving a Ricean block flat fading channel, where the channel state is described by a single fading coefficient. The channel states in each block are i.i.d. and unknown at the transmitter and the receiver. The transmission extends over many blocks (coherence intervals) such that the average outage capacity (1) is indeed the appropriate performance criterion. The practical significance of this capacity stems from QoS requirements present in many communication services.",
+      "text": "In this section, we illustrate our results via a realistic single user mobile wireless communication system involving a Ricean block flat fading channel, where the channel state is described by a single fading coefficient. The channel states in each block are i.i.d. and unknown at the transmitter and the receiver. The transmission extends over many blocks (coherence intervals) such that the average outage capacity (1) is indeed the appropriate performance criterion. The practical significance of this capacity stems from QoS requirements present in many communication services."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 49.32167400000017,
+            "t": 129.83583167999996,
+            "r": 286.211043304831,
+            "b": 37.38494220415805,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            450
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.6419260000001,
+            "t": 680.312184,
+            "r": 545.5055369607713,
+            "b": 572.4650422041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            451,
+            988
+          ]
+        }
+      ],
+      "orig": "Within each block, the actual codeword (data) is preceded by a lengthN training sequence x T = [ x 0 , . . . , x N -1 ] of power P T which is known by the receiver. This enables maximum likelihood (ML) channel estimation of the fading coefficient θ at the receiver yielding the estimate ˆ θ R . In many wireless systems, CSI at the transmitter ˆ θ T has to be provided by the receiver via a feedback/CSIT. This allows the transmitter to perform power control P ( ˆ θ R ) , i.e., allocate more transmit power when the estimated channel is good, and less or no power when the channel is bad. Below, we consider the following three feedback schemes: (i) no feedback, i.e., absence of CSIT; (ii) an instantaneous and unlimited feedback/CSIT ( ˆ θ T = ˆ θ R ); (iii) an instantaneous and rate-limited feedback/CSIT; here the CSI is quantized using a quantization codebook which is known at the transmitter and the receiver (we construct this codebook using the well-known Lloyd-Max algorithm).",
+      "text": "Within each block, the actual codeword (data) is preceded by a lengthN training sequence x T = [ x 0 , . . . , x N -1 ] of power P T which is known by the receiver. This enables maximum likelihood (ML) channel estimation of the fading coefficient θ at the receiver yielding the estimate ˆ θ R . In many wireless systems, CSI at the transmitter ˆ θ T has to be provided by the receiver via a feedback/CSIT. This allows the transmitter to perform power control P ( ˆ θ R ) , i.e., allocate more transmit power when the estimated channel is good, and less or no power when the channel is bad. Below, we consider the following three feedback schemes: (i) no feedback, i.e., absence of CSIT; (ii) an instantaneous and unlimited feedback/CSIT ( ˆ θ T = ˆ θ R ); (iii) an instantaneous and rate-limited feedback/CSIT; here the CSI is quantized using a quantization codebook which is known at the transmitter and the receiver (we construct this codebook using the well-known Lloyd-Max algorithm)."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.64213400000006,
+            "t": 551.4151086400001,
+            "r": 395.17175566023303,
+            "b": 542.5406281480527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "4.1. Channel Model",
+      "text": "4.1. Channel Model",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.6393219999998,
+            "t": 531.4756316800001,
+            "r": 545.6000179572573,
+            "b": 326.2736239199999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1023
+          ]
+        }
+      ],
+      "orig": "The channel model within a block is given by (all quantities are complex-valued) Y [ i ] = H [ i ] X [ i ] + Z [ i ] , where X [ i ] and Y [ i ] are the discrete-time transmit and receive signal, respectively, H is the fading coefficient, and Z [ i ] ∼ CN (0 , σ 2 Z ) is i.i.d. zero-mean, circularly complex Gaussian noise. The transmit signal is subject to the average power constraint E { | X [ i ] | 2 } ≤ P ( ˆ θ T ) with E ˆ θ T { P ( ˆ θ T ) } ≤ P . The optimum power allocation P ( ˆ θ R ) is obtained using Lagrange multipliers and the Kuhn-Tucker theorem. The channel state θ = H [ i ] is assumed to be circularly complex Gaussian θ ∼ ψ ( θ ) = CN ( µ h , 2 σ 2 h ) . The Rice factor is defined as K h = | µ h | 2 2 σ 2 h . The ML estimate ˆ θ R = ˆ H [ i ] is obtained by correlating the received signal with the known training sequence x T . Its performance can be characterized via the pdf ψ ( θ | ˆ θ R ) = CN ( ρ ˆ θ R +(1 -ρ ) µ h , ρσ 2 W ) , where ρ = 2 σ 2 h σ 2 W +2 σ 2 h and σ 2 W = σ 2 Z / ( NP T ) .",
+      "text": "The channel model within a block is given by (all quantities are complex-valued) Y [ i ] = H [ i ] X [ i ] + Z [ i ] , where X [ i ] and Y [ i ] are the discrete-time transmit and receive signal, respectively, H is the fading coefficient, and Z [ i ] ∼ CN (0 , σ 2 Z ) is i.i.d. zero-mean, circularly complex Gaussian noise. The transmit signal is subject to the average power constraint E { | X [ i ] | 2 } ≤ P ( ˆ θ T ) with E ˆ θ T { P ( ˆ θ T ) } ≤ P . The optimum power allocation P ( ˆ θ R ) is obtained using Lagrange multipliers and the Kuhn-Tucker theorem. The channel state θ = H [ i ] is assumed to be circularly complex Gaussian θ ∼ ψ ( θ ) = CN ( µ h , 2 σ 2 h ) . The Rice factor is defined as K h = | µ h | 2 2 σ 2 h . The ML estimate ˆ θ R = ˆ H [ i ] is obtained by correlating the received signal with the known training sequence x T . Its performance can be characterized via the pdf ψ ( θ | ˆ θ R ) = CN ( ρ ˆ θ R +(1 -ρ ) µ h , ρσ 2 W ) , where ρ = 2 σ 2 h σ 2 W +2 σ 2 h and σ 2 W = σ 2 Z / ( NP T ) ."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.640216,
+            "t": 326.1920299999999,
+            "r": 545.4781973865943,
+            "b": 266.10468820415804,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            279
+          ]
+        }
+      ],
+      "orig": "For a given estimate ˆ θ 0 , to evaluate (3) requires solving an optimization problem where we have to determine the optimum set Λ ∗ , and the associated channel state θ ∗ ∈ Λ ∗ minimizing mutual information. The estimationinduced outage capacity can then be shown to be given by",
+      "text": "For a given estimate ˆ θ 0 , to evaluate (3) requires solving an optimization problem where we have to determine the optimum set Λ ∗ , and the associated channel state θ ∗ ∈ Λ ∗ minimizing mutual information. The estimationinduced outage capacity can then be shown to be given by"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.640236,
+            "t": 265.11859559999994,
+            "r": 544.79944825,
+            "b": 232.84063823999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "C ( γ, ψ θ | ˆ θ , ˆ θ 0 ) = log 2 ( 1 + ( r ∗ ( γ, ˆ θ 0 ) ) 2 P ( ˆ θ T , 0 ) σ 2 Z ) , where r ∗",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.63974599999995,
+            "t": 234.75202000000002,
+            "r": 545.5978824892203,
+            "b": 203.20058824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "is the γ -percentile 1 of ψ ( r | ˆ θ = ˆ θ 0 ) with r = | θ | (for further details see [6]).",
+      "text": "is the γ -percentile 1 of ψ ( r | ˆ θ = ˆ θ 0 ) with r = | θ | (for further details see [6])."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.64018799999985,
+            "t": 189.61475464,
+            "r": 426.37958785872013,
+            "b": 180.74027414805266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "4.2. Results and Discussion",
+      "text": "4.2. Results and Discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.63991199999975,
+            "t": 169.6752776799999,
+            "r": 545.7310431683158,
+            "b": 65.34468820415805,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            520
+          ]
+        }
+      ],
+      "orig": "Fig. 1 shows the average estimation-induced outage capacity (cf. (1)) in bits per channel use for outage probability γ = 0 . 01 versus the signal-to-noise ratio SNR = | µ h | 2 P/σ 2 Z for different amounts of training and for unlimited and absent feedback/CSIT (all numerical results were obtained using Monte Carlo simulations). For comparison, we show ergodic capacity under perfect CSI. The channel's Rice factor was K h = 0 dB. It is seen that the average rate increases with the amount of CSIR and CSIT. To achieve",
+      "text": "Fig. 1 shows the average estimation-induced outage capacity (cf. (1)) in bits per channel use for outage probability γ = 0 . 01 versus the signal-to-noise ratio SNR = | µ h | 2 P/σ 2 Z for different amounts of training and for unlimited and absent feedback/CSIT (all numerical results were obtained using Monte Carlo simulations). For comparison, we show ergodic capacity under perfect CSI. The channel's Rice factor was K h = 0 dB. It is seen that the average rate increases with the amount of CSIR and CSIT. To achieve"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.63969,
+            "t": 55.79735796,
+            "r": 545.2937001324999,
+            "b": 37.803702983982475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "1 It can be computed by using the cumulative distribution of a noncentral chi-square of two degrees of freedom.",
+      "text": "1 It can be computed by using the cumulative distribution of a noncentral chi-square of two degrees of freedom."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 49.3199,
+            "t": 676.79526768,
+            "r": 286.26207378474345,
+            "b": 464.4291400000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1033
+          ]
+        }
+      ],
+      "orig": "1.5 bit per channel use without feedback/CSIT, it is seen that a scheme with estimated CSIR and N = 3 ( ∇ markers) requires 5 dB, i.e., 4.3 dB more than with perfect CSIR (solid line). Whereas if the training length is further reduced to N = 1 ( ◦ markers), this gap increases to 6.4 dB. In the case of unlimited feedback (CSIT=CSIT), the SNR requirements for 1.5 bit per channel use are -1 . 3 dB (perfect CSIR, dashed line), 2 . 1 dB (estimated CSIR with N = 3 , ∗ markers), and 3 . 7 dB (estimated CSIR with N = 1 , × markers), respectively. Thus, with unlimited feedback the gap between estimated and perfect CSI is slightly smaller than without feedback (3.4 dB and 5 dB with N = 3 and N =1 , respectively). Observe that for values of SNR larger than 10 dB similar performance are achieved without feedback/CSIT and N = 3 comparing to a system with unlimited feedback and N = 1 . Therefore, using this information a system designer may decide to use training sequences of length N = 3 instead of implementing a feedback channel.",
+      "text": "1.5 bit per channel use without feedback/CSIT, it is seen that a scheme with estimated CSIR and N = 3 ( ∇ markers) requires 5 dB, i.e., 4.3 dB more than with perfect CSIR (solid line). Whereas if the training length is further reduced to N = 1 ( ◦ markers), this gap increases to 6.4 dB. In the case of unlimited feedback (CSIT=CSIT), the SNR requirements for 1.5 bit per channel use are -1 . 3 dB (perfect CSIR, dashed line), 2 . 1 dB (estimated CSIR with N = 3 , ∗ markers), and 3 . 7 dB (estimated CSIR with N = 1 , × markers), respectively. Thus, with unlimited feedback the gap between estimated and perfect CSI is slightly smaller than without feedback (3.4 dB and 5 dB with N = 3 and N =1 , respectively). Observe that for values of SNR larger than 10 dB similar performance are achieved without feedback/CSIT and N = 3 comparing to a system with unlimited feedback and N = 1 . Therefore, using this information a system designer may decide to use training sequences of length N = 3 instead of implementing a feedback channel."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 49.32042000000003,
+            "t": 461.5150676800002,
+            "r": 286.26206,
+            "b": 356.7892400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            476
+          ]
+        }
+      ],
+      "orig": "Fig. 2 shows the average estimation-induced outage capacity for an outage probability γ = 0 . 01 and rate-limited feedback/CSIT versus the SNR. We suppose two bits of feedback ( R RF = 2 ), and training sequences of length N = 3 . Observe that at 1 . 5 bits the gap between the average outage capacity without feedback and rate-limited feedback is 1 dB for two bits of feedback/CSIT. Whereas the gap respect to the average outage capacity with unlimited feedback is only 2 dB.",
+      "text": "Fig. 2 shows the average estimation-induced outage capacity for an outage probability γ = 0 . 01 and rate-limited feedback/CSIT versus the SNR. We suppose two bits of feedback ( R RF = 2 ), and training sequences of length N = 3 . Observe that at 1 . 5 bits the gap between the average outage capacity without feedback and rate-limited feedback is 1 dB for two bits of feedback/CSIT. Whereas the gap respect to the average outage capacity with unlimited feedback is only 2 dB."
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 49.320660000000025,
+            "t": 341.1744446400001,
+            "r": 114.2759634401107,
+            "b": 332.2999641480528,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "5. Conclusions",
+      "text": "5. Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 49.32066000000003,
+            "t": 320.03496768000014,
+            "r": 286.21077155388855,
+            "b": 132.06447820415815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            923
+          ]
+        }
+      ],
+      "orig": "In this paper we have studied the problem of reliable communications over unknown DMCs when the receiver and transmitter only know an estimate of the channel state. We proposed to characterize the information theoretic limits of such scenarios in terms of the novel notion of estimationinduced outage capacity. We provided an explicit expression for the maximum achievable outage rate in the context of an associated coding theorem and its strong converse. We used a Ricean fading channel and maximum likehood channel estimation to illustrate our approach by computing its mean outage capacity. Our results are useful to assess the amount of training data and feedback required to achieve a target rate satisfying a quality of service constraint. It will be attractive to study coding schemes achieving this capacity because this allows to design communication systems with QoS constraints and imperfect channel estimation.",
+      "text": "In this paper we have studied the problem of reliable communications over unknown DMCs when the receiver and transmitter only know an estimate of the channel state. We proposed to characterize the information theoretic limits of such scenarios in terms of the novel notion of estimationinduced outage capacity. We provided an explicit expression for the maximum achievable outage rate in the context of an associated coding theorem and its strong converse. We used a Ricean fading channel and maximum likehood channel estimation to illustrate our approach by computing its mean outage capacity. Our results are useful to assess the amount of training data and feedback required to achieve a target rate satisfying a quality of service constraint. It will be attractive to study coding schemes achieving this capacity because this allows to design communication systems with QoS constraints and imperfect channel estimation."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 49.32066000000009,
+            "t": 116.05444464000004,
+            "r": 123.43822224761645,
+            "b": 107.17996414805282,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Acknowledgment",
+      "text": "Acknowledgment",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 49.32066000000009,
+            "t": 94.91496768000013,
+            "r": 286.15887598280096,
+            "b": 62.34457820415821,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "The authors are grateful to Prof. Te Sun Han for many helpful discussions and suggestions on the technical aspects of the paper's proofs.",
+      "text": "The authors are grateful to Prof. Te Sun Han for many helpful discussions and suggestions on the technical aspects of the paper's proofs."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 49.32066000000009,
+            "t": 46.2145446400001,
+            "r": 135.51580181301748,
+            "b": 37.34006414805276,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "A. Auxiliary results",
+      "text": "A. Auxiliary results",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 308.64,
+            "t": 513.11526768,
+            "r": 545.477861850799,
+            "b": 492.54487820415807,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "Figure 1: Average estimation-induced outage capacity for different amounts of training vs. SNR.",
+      "text": "Figure 1: Average estimation-induced outage capacity for different amounts of training vs. SNR."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 338.648,
+            "t": 535.6272176,
+            "r": 344.3459240000001,
+            "b": 531.9797576000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "-10",
+      "text": "-10"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 369.044,
+            "t": 535.6272176,
+            "r": 372.5495048,
+            "b": 531.9797576000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "-5",
+      "text": "-5"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 400.688,
+            "t": 535.6272176,
+            "r": 402.8804192,
+            "b": 531.9797576000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 430.032,
+            "t": 535.6272176,
+            "r": 432.2244192,
+            "b": 531.9797576000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 458.259,
+            "t": 535.6272176,
+            "r": 462.64383840000005,
+            "b": 531.9797576000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 487.603,
+            "t": 535.6272176,
+            "r": 491.98783840000004,
+            "b": 531.9797576000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 516.946,
+            "t": 535.6272176,
+            "r": 521.3308384000001,
+            "b": 531.9797576000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 339.798,
+            "t": 538.9472175999999,
+            "r": 341.9904192,
+            "b": 535.2997576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 339.798,
+            "t": 556.3292176,
+            "r": 341.9904192,
+            "b": 552.6817576000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 339.798,
+            "t": 573.6792175999999,
+            "r": 341.9904192,
+            "b": 570.0317576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 339.798,
+            "t": 591.0632175999999,
+            "r": 341.9904192,
+            "b": 587.4157576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 339.798,
+            "t": 608.4132175999999,
+            "r": 341.9904192,
+            "b": 604.7657576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 339.798,
+            "t": 625.7632176,
+            "r": 341.9904192,
+            "b": 622.1157576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 339.798,
+            "t": 643.1462176,
+            "r": 341.9904192,
+            "b": 639.4987576000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 339.798,
+            "t": 660.4962175999999,
+            "r": 341.9904192,
+            "b": 656.8487576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 339.798,
+            "t": 677.8462175999999,
+            "r": 341.9904192,
+            "b": 674.1987576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 421.784,
+            "t": 528.1104683,
+            "r": 440.98111545,
+            "b": 523.73350705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "SNR [db]",
+      "text": "SNR [db]"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 330.3875317,
+            "t": 652.7129513000003,
+            "r": 334.76449295000003,
+            "b": 577.486,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Mean outage rate [bits/channel use]",
+      "text": "Mean outage rate [bits/channel use]"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 356.195,
+            "t": 672.5634683000001,
+            "r": 436.27682940000005,
+            "b": 668.18650705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Mean outage rate (N=1) without CSIT",
+      "text": "Mean outage rate (N=1) without CSIT"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 356.195,
+            "t": 667.1087783,
+            "r": 428.38410360000006,
+            "b": 662.73181705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Mean outage rate (N=1) with CSIT",
+      "text": "Mean outage rate (N=1) with CSIT"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 356.195,
+            "t": 661.6540883,
+            "r": 437.59228370000005,
+            "b": 657.27712705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Mean outage rate (N=3) without CSIT",
+      "text": "Mean outage rate (N=3) without CSIT"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 356.195,
+            "t": 656.1993983,
+            "r": 465.21682400000003,
+            "b": 651.82243705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Mean outage rate (N=3) with CSIT",
+      "text": "Mean outage rate (N=3) with CSIT"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 356.195,
+            "t": 650.7447083,
+            "r": 419.30841530000004,
+            "b": 646.3677470499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Ergodic capacity without CSIT",
+      "text": "Ergodic capacity without CSIT"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 356.195,
+            "t": 645.2900182999999,
+            "r": 412.73114380000004,
+            "b": 640.9130570499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Ergodic capacity with CSIT",
+      "text": "Ergodic capacity with CSIT"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 452.475,
+            "t": 568.6604683,
+            "r": 504.02850575,
+            "b": 564.28350705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "1.5 bits per channel use",
+      "text": "1.5 bits per channel use"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 346.6,
+            "t": 602.9991683000001,
+            "r": 375.53526275,
+            "b": 598.62220705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Outage prob.",
+      "text": "Outage prob."
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 375.057,
+            "t": 604.3808685,
+            "r": 377.00179035,
+            "b": 598.21526795,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "γ",
+      "text": "γ"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 376.99567,
+            "t": 602.9991683000001,
+            "r": 420.5381537,
+            "b": 598.62220705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "=0.01",
+      "text": "=0.01"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 346.59997000000004,
+            "t": 597.2155783000001,
+            "r": 418.54301740000005,
+            "b": 592.83861705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Rice factor=0dB",
+      "text": "Rice factor=0dB"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 308.64,
+            "t": 317.27526768,
+            "r": 545.3424654785537,
+            "b": 295.8676561,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "Figure 2: Average estimation-induced outage capacity with two bits of rate-limited feedback ( R FB = 2 ) vs. SNR.",
+      "text": "Figure 2: Average estimation-induced outage capacity with two bits of rate-limited feedback ( R FB = 2 ) vs. SNR."
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 337.52,
+            "t": 339.46955729999996,
+            "r": 343.25282074999996,
+            "b": 335.79975855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "-10",
+      "text": "-10"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 374.019,
+            "t": 339.46955729999996,
+            "r": 377.54597415,
+            "b": 335.79975855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "-5",
+      "text": "-5"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 411.742,
+            "t": 339.46955729999996,
+            "r": 413.9478466,
+            "b": 335.79975855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 447.151,
+            "t": 339.46955729999996,
+            "r": 449.3568466,
+            "b": 335.79975855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 481.468,
+            "t": 339.46955729999996,
+            "r": 485.87969319999996,
+            "b": 335.79975855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 516.91,
+            "t": 339.46955729999996,
+            "r": 521.3216931999999,
+            "b": 335.79975855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 338.677,
+            "t": 342.80855729999996,
+            "r": 340.8828466,
+            "b": 339.13875855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 338.677,
+            "t": 366.11655729999995,
+            "r": 340.8828466,
+            "b": 362.44675854999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 338.677,
+            "t": 389.3915573,
+            "r": 340.8828466,
+            "b": 385.72175855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 338.677,
+            "t": 412.70055729999996,
+            "r": 340.8828466,
+            "b": 409.03075855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 338.677,
+            "t": 435.9755573,
+            "r": 340.8828466,
+            "b": 432.30575855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 338.677,
+            "t": 459.2835573,
+            "r": 340.8828466,
+            "b": 455.61375855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 338.677,
+            "t": 482.55855729999996,
+            "r": 340.8828466,
+            "b": 478.88875855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 421.396,
+            "t": 332.01740944,
+            "r": 439.1010725600001,
+            "b": 327.98063544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "SNR [db]",
+      "text": "SNR [db]"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 330.58459056000004,
+            "t": 445.9391438400006,
+            "r": 334.62136456,
+            "b": 376.559,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Mean outage rate [bits/channel use]",
+      "text": "Mean outage rate [bits/channel use]"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 356.927,
+            "t": 478.33426876,
+            "r": 431.2910083999997,
+            "b": 473.93051026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Mean outage rate without feedback",
+      "text": "Mean outage rate without feedback"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 356.927,
+            "t": 472.84598876,
+            "r": 449.53923145999966,
+            "b": 468.44223026000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Mean outage rate with rate-limited feedback",
+      "text": "Mean outage rate with rate-limited feedback"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 356.927,
+            "t": 467.35770876000004,
+            "r": 440.55080329999964,
+            "b": 462.95395026000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Mean outage rate with perfect feedback",
+      "text": "Mean outage rate with perfect feedback"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 356.927,
+            "t": 461.86942876000006,
+            "r": 428.90107675999974,
+            "b": 457.4656702600001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Ergodic capacity without feedback",
+      "text": "Ergodic capacity without feedback"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 356.927,
+            "t": 456.3811487600001,
+            "r": 438.16087165999966,
+            "b": 451.9773902600001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Ergodic capacity with perfect feedback",
+      "text": "Ergodic capacity with perfect feedback"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 346.446,
+            "t": 381.29926875999996,
+            "r": 396.99162593999984,
+            "b": 376.89551026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "1.5 bits per channel use",
+      "text": "1.5 bits per channel use"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 344.76,
+            "t": 428.61026876,
+            "r": 402.5896805399996,
+            "b": 424.20651026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Sequence length N=3",
+      "text": "Sequence length N=3"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 344.76,
+            "t": 422.75870876,
+            "r": 376.5194302199999,
+            "b": 418.35495026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Outage proba.",
+      "text": "Outage proba."
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 376.20099999999996,
+            "t": 424.1488682,
+            "r": 378.15769701999994,
+            "b": 417.94551974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "γ",
+      "text": "γ"
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 378.15178,
+            "t": 422.75870876,
+            "r": 391.5201625599999,
+            "b": 418.35495026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "=0.01",
+      "text": "=0.01"
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 308.64007000000004,
+            "t": 286.91506768,
+            "r": 545.5981421415647,
+            "b": 254.34467820415807,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "This appendix introduces a few concepts and furthermore provides some auxiliary technical results required for the proof of Theorem 2.1.",
+      "text": "This appendix introduces a few concepts and furthermore provides some auxiliary technical results required for the proof of Theorem 2.1."
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 308.64027000000004,
+            "t": 252.70949040000005,
+            "r": 545.7320245704663,
+            "b": 86.20050024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            777
+          ]
+        }
+      ],
+      "orig": "Robust Decoders: Let A n ⊂ X n denote a set of transmit sequences and let W θ ( ·| x ) = W ( ·| x, θ ) . A set B n ⊂ Y n (depending on Λ ⊂ Θ ) is called a robust ǫ -decoding set for a sequence x ∈ A n and an unknown DMC W ( ·| x, θ ) ∈ W Θ , if Pr ( W n ( B n | x , θ ) > 1 -ǫ ∣ ∣ ˆ θ ) ≥ 1 -γ . A set B n ⊂ Y n of receive sequences is called a common η -image ( 0 < η ≤ 1 ) of a transmit set A n ⊂ X n for the collection of DMCs W Λ , iff inf θ ∈ Λ W n ( B n | x , θ ) ≥ η for all x ∈ A n . Finally, Λ ⊂ Θ is called a confidence set for θ given ˆ θ , if Pr( θ / ∈ Λ | ˆ θ ) < γ and γ is the outage probability. Robust I-Typical Sets: A robust I-typical set is defined as B n Λ ( x , δ n ) = ⋃ θ ∈ Λ T n W θ ( x , δ n ) , with arbitrary Λ ⊂ Θ and δ -sequence { δ n } (cf. [5]).",
+      "text": "Robust Decoders: Let A n ⊂ X n denote a set of transmit sequences and let W θ ( ·| x ) = W ( ·| x, θ ) . A set B n ⊂ Y n (depending on Λ ⊂ Θ ) is called a robust ǫ -decoding set for a sequence x ∈ A n and an unknown DMC W ( ·| x, θ ) ∈ W Θ , if Pr ( W n ( B n | x , θ ) > 1 -ǫ ∣ ∣ ˆ θ ) ≥ 1 -γ . A set B n ⊂ Y n of receive sequences is called a common η -image ( 0 < η ≤ 1 ) of a transmit set A n ⊂ X n for the collection of DMCs W Λ , iff inf θ ∈ Λ W n ( B n | x , θ ) ≥ η for all x ∈ A n . Finally, Λ ⊂ Θ is called a confidence set for θ given ˆ θ , if Pr( θ / ∈ Λ | ˆ θ ) < γ and γ is the outage probability. Robust I-Typical Sets: A robust I-typical set is defined as B n Λ ( x , δ n ) = ⋃ θ ∈ Λ T n W θ ( x , δ n ) , with arbitrary Λ ⊂ Θ and δ -sequence { δ n } (cf. [5])."
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 308.64181199999973,
+            "t": 79.23201199999994,
+            "r": 545.4793000818139,
+            "b": 33.812987811654466,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "Lemma A.1 For any 0 < γ, ǫ < 1 , a necessary and sufficient condition for a robust I-typical set B n Λ ( x , δ n ) to be a robust ǫ -decoding set with probability 1 -γ is that Λ be a confidence set.",
+      "text": "Lemma A.1 For any 0 < γ, ǫ < 1 , a necessary and sufficient condition for a robust I-typical set B n Λ ( x , δ n ) to be a robust ǫ -decoding set with probability 1 -γ is that Λ be a confidence set."
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 49.319624000000005,
+            "t": 677.921046,
+            "r": 286.0377474274983,
+            "b": 629.8236413500003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            250
+          ]
+        }
+      ],
+      "orig": "Theorem A.2 For any collection of DMCs W Λ and associated robust I-typical set B n Λ ( x , δ n ) with x ∈ T n P ( x , δ n ) , there exists an index n 0 such that for all n ≥ n 0 the size ‖ B n Λ ( x , δ n ) ‖ of the robust I-typical set is bounded as",
+      "text": "Theorem A.2 For any collection of DMCs W Λ and associated robust I-typical set B n Λ ( x , δ n ) with x ∈ T n P ( x , δ n ) , there exists an index n 0 such that for all n ≥ n 0 the size ‖ B n Λ ( x , δ n ) ‖ of the robust I-typical set is bounded as"
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 49.319824000000125,
+            "t": 628.2321100000003,
+            "r": 286.0211440000001,
+            "b": 574.5894739999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "∣ ∣ ∣ 1 n log ‖ B n Λ ( x , δ n ) ‖ -H ( W Λ | P ) ∣ ∣ ∣ ≤ η n . Here, H ( W Λ | P ) = sup V ∈W Λ H ( V | P ) and η n → 0 as δ n → 0 and n →∞ .",
+      "text": "∣ ∣ ∣ 1 n log ‖ B n Λ ( x , δ n ) ‖ -H ( W Λ | P ) ∣ ∣ ∣ ≤ η n . Here, H ( W Λ | P ) = sup V ∈W Λ H ( V | P ) and η n → 0 as δ n → 0 and n →∞ ."
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 49.319378000000114,
+            "t": 570.2295244,
+            "r": 285.99486415033266,
+            "b": 527.68071224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "Proof: We first show that the size of B n Λ ( x , δ n ) is asymptotically equal to the size of B n Σ ( x ) = ⋃ V ∈ Σ T n V ( x )",
+      "text": "Proof: We first show that the size of B n Λ ( x , δ n ) is asymptotically equal to the size of B n Σ ( x ) = ⋃ V ∈ Σ T n V ( x )"
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 49.31949200000008,
+            "t": 538.6012000000001,
+            "r": 286.18232845922114,
+            "b": 491.82372535,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "where Σ = W Λ ∩ P n ( Y ) is the intersection of W Λ with the set P n ( Y ) of empirical distributions induced by receive sequences of length n . In particular, there exists an index n 0 such that for all n ≥ n 0 and x ∈ X n",
+      "text": "where Σ = W Λ ∩ P n ( Y ) is the intersection of W Λ with the set P n ( Y ) of empirical distributions induced by receive sequences of length n . In particular, there exists an index n 0 such that for all n ≥ n 0 and x ∈ X n"
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 49.31976200000011,
+            "t": 486.07072150000005,
+            "r": 286.99674232557527,
+            "b": 472.50384535,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "‖ B n Σ ( x ) ‖ ≤ ‖ B n Λ ( x , δ n ) ‖ ≤ (1 + n ) | X ‖ Y | ‖ B n Σ ( x ) ‖ . (16)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 49.319194000000124,
+            "t": 462.23562168,
+            "r": 286.0210280265061,
+            "b": 440.58353535,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "The lower bound in (16) is trivial. We will next establish that there exists ǫ n > 0 such that for all n ≥ n 0",
+      "text": "The lower bound in (16) is trivial. We will next establish that there exists ǫ n > 0 such that for all n ≥ n 0"
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 94.79943400000015,
+            "t": 437.1986096,
+            "r": 286.1569623255753,
+            "b": 407.3205762399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "⋃ W ∈W Λ T n W ( x , δ n ) ⊆ ⋃ V ∈ Σ T n V ( x , ǫ n ) , (17)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 49.31941400000014,
+            "t": 408.8350956799999,
+            "r": 286.27661236766363,
+            "b": 388.144406204158,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "from which the upper bound in (16) follows via basic properties of types (cf. [5]).",
+      "text": "from which the upper bound in (16) follows via basic properties of types (cf. [5])."
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 49.31905400000022,
+            "t": 386.08117399999986,
+            "r": 286.18347684231725,
+            "b": 152.34359135,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1249
+          ]
+        }
+      ],
+      "orig": "Assume that W Λ is a relatively τ 0 -open subset of W Λ ∪ P n ( Y ) , i.e., every W ∈ W Λ has a τ 0 -neighborhood defined in the τ 0 -topology [7]. Then there exists n 0 such that for any n ≥ n 0 and ε > 0 , the ε -open ball U 0 ( W,ε ) satisfies U 0 ( W,ε ) ∩ P n ( Y ) ⊂ W Λ . Choose 0 < ε ′ < ε and pick an empirical conditional PM V ∈ P n ( Y ) such that for all ( a, b ) ∈ X × Y , | V ( b | a ) -W ( b | a ) | < ε ′ n and V ( b | a ) = 0 if W ( b | a ) = 0 . The continuity properties of information divergences imply that for any sequence y ∈ T n W ( x , δ n ) (i.e., D ( ˆ W n ‖ W | ˆ P n ) ≤ δ n ), ∣ ∣ ˆ W n ( b | a ) ˆ P n ( a ) -W ( b | a ) ˆ P n ( a ) ∣ ∣ ≤ √ δ n / 2 and hence ∣ ∣ ˆ W n ( b | a ) ˆ P n ( a ) -V ( b | a ) ˆ P n ( a ) ∣ ∣ ≤ ε ′ + √ δ n / 2 . Finally, from this equation it is easy to show that there exists an ǫ n > 0 such that D ( ˆ W n ‖ V | ˆ P n ) ≤ ǫ n , i.e., y ∈ T n V ( x , ǫ n ) . Consequently, for any W ∈ W Λ and large enough n , it is possible to find V ∈ Σ and ǫ n > 0 such that T n W ( x , δ n ) ⊆ T n V ( x , ǫ n ) , thus establishing (17). Using similar arguments as above and the uniform continuity of the entropy function, it can be shown that there exists n ′ 0 such that for all n ≥ n ′ 0 and x ∈ X n",
+      "text": "Assume that W Λ is a relatively τ 0 -open subset of W Λ ∪ P n ( Y ) , i.e., every W ∈ W Λ has a τ 0 -neighborhood defined in the τ 0 -topology [7]. Then there exists n 0 such that for any n ≥ n 0 and ε > 0 , the ε -open ball U 0 ( W,ε ) satisfies U 0 ( W,ε ) ∩ P n ( Y ) ⊂ W Λ . Choose 0 < ε ′ < ε and pick an empirical conditional PM V ∈ P n ( Y ) such that for all ( a, b ) ∈ X × Y , | V ( b | a ) -W ( b | a ) | < ε ′ n and V ( b | a ) = 0 if W ( b | a ) = 0 . The continuity properties of information divergences imply that for any sequence y ∈ T n W ( x , δ n ) (i.e., D ( ˆ W n ‖ W | ˆ P n ) ≤ δ n ), ∣ ∣ ˆ W n ( b | a ) ˆ P n ( a ) -W ( b | a ) ˆ P n ( a ) ∣ ∣ ≤ √ δ n / 2 and hence ∣ ∣ ˆ W n ( b | a ) ˆ P n ( a ) -V ( b | a ) ˆ P n ( a ) ∣ ∣ ≤ ε ′ + √ δ n / 2 . Finally, from this equation it is easy to show that there exists an ǫ n > 0 such that D ( ˆ W n ‖ V | ˆ P n ) ≤ ǫ n , i.e., y ∈ T n V ( x , ǫ n ) . Consequently, for any W ∈ W Λ and large enough n , it is possible to find V ∈ Σ and ǫ n > 0 such that T n W ( x , δ n ) ⊆ T n V ( x , ǫ n ) , thus establishing (17). Using similar arguments as above and the uniform continuity of the entropy function, it can be shown that there exists n ′ 0 such that for all n ≥ n ′ 0 and x ∈ X n"
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 82.68043999999995,
+            "t": 150.75210000000004,
+            "r": 286.15745232557526,
+            "b": 112.48074824000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "∣ ∣ 1 n log ‖ B n Σ ( x ) ‖ -sup V ∈W Λ H ( V | P ) ∣ ∣ ≤ ξ n , (18)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/174",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 49.31990400000009,
+            "t": 136.47865960000001,
+            "r": 286.23639167625237,
+            "b": 86.82759809999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "∣ ∣ with ξ n = | X || Y | n -1 log( n +1) + ξ ′ n and ξ ′ n → 0 as n →∞ . The theorem follows by combining the inequalities (16) and (18) and setting η n = ξ n + | X || Y | n -1 log( n +1) .",
+      "text": "∣ ∣ with ξ n = | X || Y | n -1 log( n +1) + ξ ′ n and ξ ′ n → 0 as n →∞ . The theorem follows by combining the inequalities (16) and (18) and setting η n = ξ n + | X || Y | n -1 log( n +1) ."
+    },
+    {
+      "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 49.32118200000011,
+            "t": 84.35549967999998,
+            "r": 286.2621828093642,
+            "b": 17.560840239999948,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            240
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.6405040000001,
+            "t": 678.7098124000001,
+            "r": 545.5984667340432,
+            "b": 644.2169195000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            241,
+            364
+          ]
+        }
+      ],
+      "orig": "Proof of Theorem 3.1 : To prove the direct part, consider an admissible code that is maximal, i.e., it cannot be extended by arbitrary ( x M +1 ; D n M +1 ) such that the extended code remains admissible. Define the set D n = ⋃ M i =1 D n i with D n i ⊆ B n Λ ( x i , δ ) , and choose δ < ǫ such that 1 -ǫ > ǫ -δ . Then inf θ ∈ Λ W n ( D n | x i , θ ) > ǫ -δ, (19)",
+      "text": "Proof of Theorem 3.1 : To prove the direct part, consider an admissible code that is maximal, i.e., it cannot be extended by arbitrary ( x M +1 ; D n M +1 ) such that the extended code remains admissible. Define the set D n = ⋃ M i =1 D n i with D n i ⊆ B n Λ ( x i , δ ) , and choose δ < ǫ such that 1 -ǫ > ǫ -δ . Then inf θ ∈ Λ W n ( D n | x i , θ ) > ǫ -δ, (19)"
+    },
+    {
+      "self_ref": "#/texts/176",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 380.6409480000002,
+            "t": 603.4698624000002,
+            "r": 545.5984807340433,
+            "b": 591.9895320000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "W n ( D n | x , θ ) ≥ ǫ -δ, (20)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/177",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.6408080000001,
+            "t": 645.1097724000002,
+            "r": 545.4004456900096,
+            "b": 603.1605702400003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "for all x i ∈ A n . As the code is maximal, for all x ∈ A n \\ { x 1 , . . . , x M } , we have inf θ ∈ Λ W n ( B n Λ \\ D n | x , θ ) ≤ 1 -ǫ. This equation implies that for all θ ∈ Λ and large enough n",
+      "text": "for all x i ∈ A n . As the code is maximal, for all x ∈ A n \\ { x 1 , . . . , x M } , we have inf θ ∈ Λ W n ( B n Λ \\ D n | x , θ ) ≤ 1 -ǫ. This equation implies that for all θ ∈ Λ and large enough n"
+    },
+    {
+      "self_ref": "#/texts/178",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.64073800000017,
+            "t": 588.7096824000004,
+            "r": 545.5042470517782,
+            "b": 539.9436733500004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "for all x ∈ A n \\ { x 1 , . . . , x M } . The inequalities (19) and (20) together imply that D n is a common ( ǫ -δ ) -image of the set A n via the collection of channels W Λ . By the definition of g Λ ( A n , ǫ -δ ) it follows that",
+      "text": "for all x ∈ A n \\ { x 1 , . . . , x M } . The inequalities (19) and (20) together imply that D n is a common ( ǫ -δ ) -image of the set A n via the collection of channels W Λ . By the definition of g Λ ( A n , ǫ -δ ) it follows that"
+    },
+    {
+      "self_ref": "#/texts/179",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 377.0407180000002,
+            "t": 536.2698724000003,
+            "r": 545.5982207340434,
+            "b": 522.9038733500004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "‖ D n ‖ ≥ g Λ ( A n , ǫ -δ ) . (21)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/180",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.6406480000002,
+            "t": 518.7499924000003,
+            "r": 503.4104858146399,
+            "b": 505.74375335000036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "On the other hand, D n i ⊆ B n Λ ( x i , δ ) implies that",
+      "text": "On the other hand, D n i ⊆ B n Λ ( x i , δ ) implies that"
+    },
+    {
+      "self_ref": "#/texts/181",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 345.72094600000025,
+            "t": 502.1897924000004,
+            "r": 545.5989357340434,
+            "b": 471.7609102400004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "‖ D n ‖ ≤ M θ, ˆ θ exp [ n ( H ( W Λ | P ) + δ )] , (22)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/182",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.64092300000016,
+            "t": 483.76144800000037,
+            "r": 545.5919256715852,
+            "b": 412.9138299200004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            313
+          ]
+        }
+      ],
+      "orig": "for n large enough and all θ ∈ Λ , where the last inequality follows by applying the cardinality upper bound of Theorem A.2. The lower bound (6) is then immediately obtained by combining (21) and (22). To prove the converse part, let ˆ D n be a common ( ǫ + δ ) -image via the collection of channels W Λ ǫ , i.e.,",
+      "text": "for n large enough and all θ ∈ Λ , where the last inequality follows by applying the cardinality upper bound of Theorem A.2. The lower bound (6) is then immediately obtained by combining (21) and (22). To prove the converse part, let ˆ D n be a common ( ǫ + δ ) -image via the collection of channels W Λ ǫ , i.e.,"
+    },
+    {
+      "self_ref": "#/texts/183",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 327.8409730000002,
+            "t": 411.0322100000003,
+            "r": 545.5994857340432,
+            "b": 392.5137839200004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "inf θ ∈ Λ ǫ W n ( ˆ D n | x m , θ ) ≥ ǫ + δ, for m ∈ M , (23)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/184",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.6419130000001,
+            "t": 389.6720200000003,
+            "r": 545.4796290658807,
+            "b": 334.9846762041585,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "that achieves the minimum in (4), i.e., ‖ ˆ D n ‖ = g Λ ǫ ( A n , ǫ + δ ) . For any admissible code, (5) and (23) imply inf θ ∈ Λ ǫ W n ( D n m ∩ ˆ D n | x m , θ ) ≥ δ for m ∈ M . Using Corollary 1.2.14 in [5], we hence obtain",
+      "text": "that achieves the minimum in (4), i.e., ‖ ˆ D n ‖ = g Λ ǫ ( A n , ǫ + δ ) . For any admissible code, (5) and (23) imply inf θ ∈ Λ ǫ W n ( D n m ∩ ˆ D n | x m , θ ) ≥ δ for m ∈ M . Using Corollary 1.2.14 in [5], we hence obtain"
+    },
+    {
+      "self_ref": "#/texts/185",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 333.96281699999975,
+            "t": 332.9118380000004,
+            "r": 545.6000737340428,
+            "b": 301.36040624000043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "∥ D n m ∩ ˆ D ∥ ≥ exp [ n ( H ( W Λ ǫ | P ) -δ )] , (24)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/186",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.6424809999996,
+            "t": 325.71844360000046,
+            "r": 545.3183865753795,
+            "b": 289.8678181000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "∥ ∥ for n large enough. On the other hand, the decoding sets D n m are disjoint and thus",
+      "text": "∥ ∥ for n large enough. On the other hand, the decoding sets D n m are disjoint and thus"
+    },
+    {
+      "self_ref": "#/texts/187",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.6423729999992,
+            "t": 288.6321660000004,
+            "r": 545.5836929999992,
+            "b": 250.1448082041585,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "g Λ ǫ ( A n , ǫ + δ ) = ‖ ˆ D n ‖ ≥ M θ, ˆ θ exp [ n ( H ( W Λ ǫ | P ) -δ )] , where the last inequality follows from (24). This inequality is equivalent to (7) and concludes the proof of the theorem.",
+      "text": "g Λ ǫ ( A n , ǫ + δ ) = ‖ ˆ D n ‖ ≥ M θ, ˆ θ exp [ n ( H ( W Λ ǫ | P ) -δ )] , where the last inequality follows from (24). This inequality is equivalent to (7) and concludes the proof of the theorem."
+    },
+    {
+      "self_ref": "#/texts/188",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 403.92247299999923,
+            "t": 240.85467464000044,
+            "r": 450.39823543436995,
+            "b": 231.9801941480531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/189",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.6423729999992,
+            "t": 222.71604282000044,
+            "r": 545.2341390348317,
+            "b": 206.2838029839828,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "[1] A. Lapidoth, 'Reliable communication under channel uncertainty,' IEEE Trans. Inform. Theory , vol. IT-44, pp. 2148-2177, October 1998.",
+      "text": "A. Lapidoth, 'Reliable communication under channel uncertainty,' IEEE Trans. Inform. Theory , vol. IT-44, pp. 2148-2177, October 1998.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/190",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.64207299999924,
+            "t": 201.71645282000043,
+            "r": 545.4707459173851,
+            "b": 175.9236629839828,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "[2] M. M´ edard, 'The effect upon channel capacity in wireless communication of perfect and imperfect knownledge of the channel,' IEEE Trans. Inform. Theory , vol. IT-46, no. 3, pp. 933-946, May 2000.",
+      "text": "M. M´ edard, 'The effect upon channel capacity in wireless communication of perfect and imperfect knownledge of the channel,' IEEE Trans. Inform. Theory , vol. IT-46, no. 3, pp. 933-946, May 2000.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/191",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.64191299999925,
+            "t": 171.35631282000043,
+            "r": 545.354653263269,
+            "b": 145.44360298398283,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "[3] L. Ozarow, S. Shamai, and A. Wyner, 'Information theoretic considerations for cellular mobile radio,' IEEE Trans. Inform. Theory , vol. 43, no. 2, pp. 359-378, May 1994.",
+      "text": "L. Ozarow, S. Shamai, and A. Wyner, 'Information theoretic considerations for cellular mobile radio,' IEEE Trans. Inform. Theory , vol. 43, no. 2, pp. 359-378, May 1994.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/192",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.6420129999993,
+            "t": 140.87625282000045,
+            "r": 545.3544802916632,
+            "b": 114.96393298398289,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "[4] A. Goldsmith and P. Varaiya, 'Capacity of fading channels with channel side information,' IEEE Trans. Inform. Theory , vol. IT-43, pp. 1986-1992, 1997.",
+      "text": "A. Goldsmith and P. Varaiya, 'Capacity of fading channels with channel side information,' IEEE Trans. Inform. Theory , vol. IT-43, pp. 1986-1992, 1997.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/193",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.6420129999993,
+            "t": 110.39618282000038,
+            "r": 545.2961199266159,
+            "b": 94.08386298398284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "[5] I. Csisz´ ar and J. K¨ orner, Information theory: coding theorems for discrete memoryless systems . Academic, New York, 1981.",
+      "text": "I. Csisz´ ar and J. K¨ orner, Information theory: coding theorems for discrete memoryless systems . Academic, New York, 1981.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/194",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.6419129999993,
+            "t": 89.51651282000034,
+            "r": 545.4160807971763,
+            "b": 63.60380298398286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "[6] P. Piantanida, G. Matz, and P. Duhamel, 'Estimation-induced outage capacity of ricean channels,' in Proc. of Signal Processing for Advanced Wireless Communications (SPAWC) , July 2006.",
+      "text": "P. Piantanida, G. Matz, and P. Duhamel, 'Estimation-induced outage capacity of ricean channels,' in Proc. of Signal Processing for Advanced Wireless Communications (SPAWC) , July 2006.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/195",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 308.6409129999993,
+            "t": 59.03645282000036,
+            "r": 544.9775780722011,
+            "b": 42.60382298398281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "[7] I. Csisz´ ar, 'Sanov property, generalize I-projection and a conditional limit theorem,' Ann. Probability , vol. 12, pp. 768-793, 1984.",
+      "text": "I. Csisz´ ar, 'Sanov property, generalize I-projection and a conditional limit theorem,' Ann. Probability , vol. 12, pp. 768-793, 1984.",
+      "enumerated": true,
+      "marker": "[7]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 328.7149353027344,
+            "t": 678.6494140625,
+            "r": 521.697265625,
+            "b": 522.9065856933594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/105"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        },
+        {
+          "$ref": "#/texts/154"
+        },
+        {
+          "$ref": "#/texts/155"
+        },
+        {
+          "$ref": "#/texts/156"
+        },
+        {
+          "$ref": "#/texts/157"
+        },
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 329.1766052246094,
+            "t": 483.68365478515625,
+            "r": 521.8374633789062,
+            "b": 326.47314453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/135"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    }
+  }
+}

@@ -1,0 +1,7024 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2001.02404_nonparametric_pricing_and_hedging_of_volatility_sw",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7497442480469357427,
+    "filename": "2001.02404_nonparametric_pricing_and_hedging_of_volatility_sw.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/texts/121"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/texts/141"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/texts/143"
+      },
+      {
+        "$ref": "#/texts/144"
+      },
+      {
+        "$ref": "#/texts/145"
+      },
+      {
+        "$ref": "#/texts/146"
+      },
+      {
+        "$ref": "#/texts/147"
+      },
+      {
+        "$ref": "#/texts/148"
+      },
+      {
+        "$ref": "#/texts/149"
+      },
+      {
+        "$ref": "#/texts/150"
+      },
+      {
+        "$ref": "#/texts/151"
+      },
+      {
+        "$ref": "#/texts/152"
+      },
+      {
+        "$ref": "#/texts/153"
+      },
+      {
+        "$ref": "#/texts/154"
+      },
+      {
+        "$ref": "#/texts/155"
+      },
+      {
+        "$ref": "#/texts/156"
+      },
+      {
+        "$ref": "#/texts/157"
+      },
+      {
+        "$ref": "#/texts/158"
+      },
+      {
+        "$ref": "#/texts/159"
+      },
+      {
+        "$ref": "#/texts/160"
+      },
+      {
+        "$ref": "#/texts/161"
+      },
+      {
+        "$ref": "#/texts/162"
+      },
+      {
+        "$ref": "#/texts/163"
+      },
+      {
+        "$ref": "#/texts/164"
+      },
+      {
+        "$ref": "#/texts/165"
+      },
+      {
+        "$ref": "#/texts/166"
+      },
+      {
+        "$ref": "#/texts/167"
+      },
+      {
+        "$ref": "#/texts/168"
+      },
+      {
+        "$ref": "#/texts/169"
+      },
+      {
+        "$ref": "#/texts/170"
+      },
+      {
+        "$ref": "#/texts/171"
+      },
+      {
+        "$ref": "#/texts/172"
+      },
+      {
+        "$ref": "#/texts/173"
+      },
+      {
+        "$ref": "#/texts/174"
+      },
+      {
+        "$ref": "#/texts/175"
+      },
+      {
+        "$ref": "#/texts/176"
+      },
+      {
+        "$ref": "#/texts/177"
+      },
+      {
+        "$ref": "#/texts/178"
+      },
+      {
+        "$ref": "#/texts/179"
+      },
+      {
+        "$ref": "#/texts/180"
+      },
+      {
+        "$ref": "#/texts/181"
+      },
+      {
+        "$ref": "#/texts/182"
+      },
+      {
+        "$ref": "#/texts/183"
+      },
+      {
+        "$ref": "#/texts/184"
+      },
+      {
+        "$ref": "#/texts/185"
+      },
+      {
+        "$ref": "#/texts/186"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/191"
+      },
+      {
+        "$ref": "#/texts/192"
+      },
+      {
+        "$ref": "#/texts/193"
+      },
+      {
+        "$ref": "#/texts/194"
+      },
+      {
+        "$ref": "#/texts/195"
+      },
+      {
+        "$ref": "#/texts/196"
+      },
+      {
+        "$ref": "#/texts/197"
+      },
+      {
+        "$ref": "#/texts/198"
+      },
+      {
+        "$ref": "#/texts/199"
+      },
+      {
+        "$ref": "#/texts/200"
+      },
+      {
+        "$ref": "#/texts/201"
+      },
+      {
+        "$ref": "#/texts/202"
+      },
+      {
+        "$ref": "#/texts/203"
+      },
+      {
+        "$ref": "#/texts/204"
+      },
+      {
+        "$ref": "#/texts/205"
+      },
+      {
+        "$ref": "#/texts/206"
+      },
+      {
+        "$ref": "#/texts/207"
+      },
+      {
+        "$ref": "#/texts/208"
+      },
+      {
+        "$ref": "#/texts/209"
+      },
+      {
+        "$ref": "#/texts/210"
+      },
+      {
+        "$ref": "#/texts/211"
+      },
+      {
+        "$ref": "#/texts/212"
+      },
+      {
+        "$ref": "#/texts/213"
+      },
+      {
+        "$ref": "#/texts/214"
+      },
+      {
+        "$ref": "#/texts/215"
+      },
+      {
+        "$ref": "#/texts/216"
+      },
+      {
+        "$ref": "#/texts/217"
+      },
+      {
+        "$ref": "#/texts/218"
+      },
+      {
+        "$ref": "#/texts/219"
+      },
+      {
+        "$ref": "#/texts/220"
+      },
+      {
+        "$ref": "#/texts/221"
+      },
+      {
+        "$ref": "#/texts/222"
+      },
+      {
+        "$ref": "#/texts/223"
+      },
+      {
+        "$ref": "#/texts/224"
+      },
+      {
+        "$ref": "#/texts/225"
+      },
+      {
+        "$ref": "#/texts/226"
+      },
+      {
+        "$ref": "#/texts/227"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/187"
+        },
+        {
+          "$ref": "#/texts/188"
+        },
+        {
+          "$ref": "#/texts/189"
+        },
+        {
+          "$ref": "#/texts/190"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 601.8600000000001,
+            "r": 36.206559297218156,
+            "b": 243.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:2001.02404v4  [q-fin.PR]  3 Apr 2020",
+      "text": "arXiv:2001.02404v4  [q-fin.PR]  3 Apr 2020",
+      "hyperlink": "http://arxiv.org/abs/2001.02404v4"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.3199,
+            "t": 619.5935645999999,
+            "r": 500.1794497825799,
+            "b": 582.1028666974358,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "Nonparametric Pricing and Hedging of Volatility Swaps in Stochastic Volatility Models",
+      "text": "Nonparametric Pricing and Hedging of Volatility Swaps in Stochastic Volatility Models",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 264.5998,
+            "t": 563.8492067,
+            "r": 337.59955294,
+            "b": 552.9692182870317,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Frido Rolloos ∗",
+      "text": "Frido Rolloos ∗"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 259.43960000000004,
+            "t": 527.0452416,
+            "r": 338.24573050777616,
+            "b": 516.6090582870318,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "March 28, 2020",
+      "text": "March 28, 2020"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 276.8396,
+            "t": 473.63376272000005,
+            "r": 320.53287696281825,
+            "b": 464.75260998902866,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 99.2396,
+            "t": 455.91202000000004,
+            "r": 498.4785708208487,
+            "b": 350.30908,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            808
+          ]
+        }
+      ],
+      "orig": "In this paper the zero vanna implied volatility approximation for the price of freshly minted volatility swaps is generalised to seasoned volatility swaps. We also derive how volatility swaps can be hedged using a strip of vanilla options with weights that are directly related to trading intuition. Additionally, we derive first and second order hedges for volatility swaps using only variance swaps. As dynamically trading variance swaps is in general cheaper and operationally less cumbersome compared to dynamically rebalancing a continuous strip of options, our result makes the hedging of volatility swaps both practically feasible and robust. Within the class of stochastic volatility models our pricing and hedging results are model-independent and can be implemented at almost no computational cost.",
+      "text": "In this paper the zero vanna implied volatility approximation for the price of freshly minted volatility swaps is generalised to seasoned volatility swaps. We also derive how volatility swaps can be hedged using a strip of vanilla options with weights that are directly related to trading intuition. Additionally, we derive first and second order hedges for volatility swaps using only variance swaps. As dynamically trading variance swaps is in general cheaper and operationally less cumbersome compared to dynamically rebalancing a continuous strip of options, our result makes the hedging of volatility swaps both practically feasible and robust. Within the class of stochastic volatility models our pricing and hedging results are model-independent and can be implemented at almost no computational cost."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 84.0,
+            "t": 129.36284024999998,
+            "r": 167.27528801121684,
+            "b": 121.04205209999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "∗ frolloos@yahoo.com",
+      "text": "∗ frolloos@yahoo.com"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 296.04016,
+            "t": 101.18188499999997,
+            "r": 301.49471,
+            "b": 90.272785,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.2398,
+            "t": 661.28234,
+            "r": 315.59449635615664,
+            "b": 648.3564138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "1 Assumptions and notations",
+      "text": "1 Assumptions and notations",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.2398,
+            "t": 636.8721800000001,
+            "r": 498.3300162154739,
+            "b": 615.02944,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "We will work under the premise that the market implied volatility surface is generated by the following general stochastic volatility (SV) model",
+      "text": "We will work under the premise that the market implied volatility surface is generated by the following general stochastic volatility (SV) model"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 243.8398,
+            "t": 603.7522020000001,
+            "r": 498.3853395977864,
+            "b": 586.7555678400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "dS = σS [ ρ dW + ¯ ρ dZ ] (1.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.24009399999983,
+            "t": 573.383144,
+            "r": 498.3249364617708,
+            "b": 512.23556784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            335
+          ]
+        }
+      ],
+      "orig": "where ¯ ρ = √ 1 -ρ 2 , dW and dZ are independent standard Brownian motions, and the functions a and b are deterministic functions of time and volatility. The results derived in this paper are valid for any SV model satisfying (1.1) and (1.2), which includes among others the Heston model, the lognormal SABR model, and the 3 / 2 model.",
+      "text": "where ¯ ρ = √ 1 -ρ 2 , dW and dZ are independent standard Brownian motions, and the functions a and b are deterministic functions of time and volatility. The results derived in this paper are valid for any SV model satisfying (1.1) and (1.2), which includes among others the Heston model, the lognormal SABR model, and the 3 / 2 model."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 242.76019399999998,
+            "t": 588.7521800000002,
+            "r": 498.38523959778627,
+            "b": 571.8754678400002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "dσ = a ( σ , t ) dt + b ( σ , t ) dW (1.2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.2405,
+            "t": 514.35208,
+            "r": 498.4642674011746,
+            "b": 492.38944000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "The SV process is assumed to be well-behaved in the sense that vanilla options prices are risk-neutral expectations of the payoff function:",
+      "text": "The SV process is assumed to be well-behaved in the sense that vanilla options prices are risk-neutral expectations of the payoff function:"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 245.2805,
+            "t": 481.11228,
+            "r": 498.3857055977865,
+            "b": 464.23556784000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "C ( S , K ) = E t [( S ( T ) -K ) + ] (1.3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 98.64050000000009,
+            "t": 459.75208,
+            "r": 498.34352684883885,
+            "b": 437.78944,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "The option price C can always be expressed in terms of the Black-Merton-Scholes (BS) price C BS with an implied volatility parameter I :",
+      "text": "The option price C can always be expressed in terms of the Black-Merton-Scholes (BS) price C BS with an implied volatility parameter I :"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 254.40080000000006,
+            "t": 428.21090100000004,
+            "r": 498.3861055977864,
+            "b": 409.63556784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "C ( S , K ) = C BS ( S , K , I ) (1.4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.24095999999992,
+            "t": 405.15207999999996,
+            "r": 498.4886216486417,
+            "b": 383.30933999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "It is assumed that the implied volatility parameter I = I ( S , t , K , T , σ , ρ ) . The BS price is given by the following well-known formula,",
+      "text": "It is assumed that the implied volatility parameter I = I ( S , t , K , T , σ , ρ ) . The BS price is given by the following well-known formula,"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 232.92095999999992,
+            "t": 373.61079099999995,
+            "r": 498.3861255977865,
+            "b": 355.03506783999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "C BS ( S , K , I ) = SN ( d + ) -KN ( d -) (1.5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.24098000000004,
+            "t": 350.5519799999999,
+            "r": 324.12812112257967,
+            "b": 333.67526783999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "where N ( d ±) are normal distribution functions, and",
+      "text": "where N ( d ±) are normal distribution functions, and"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.24000000000001,
+            "t": 295.35188,
+            "r": 158.64033128000003,
+            "b": 278.47516784000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "and τ = T -t .",
+      "text": "and τ = T -t ."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 217.80111000000008,
+            "t": 336.4532508,
+            "r": 498.38514559778645,
+            "b": 304.94889168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "d -= log ( S / K ) I √ τ -I √ τ 2 , d + = d -+ I √ τ (1.6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.24008000000003,
+            "t": 280.47177999999997,
+            "r": 498.3686273981971,
+            "b": 258.62904000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "The generalised Hull-White formula also gives a relationship between options prices and BS prices",
+      "text": "The generalised Hull-White formula also gives a relationship between options prices and BS prices"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.2403999999998,
+            "t": 238.95188799999994,
+            "r": 124.78380195627187,
+            "b": 228.98924799999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.24002000000002,
+            "t": 199.23205999999993,
+            "r": 157.04527144,
+            "b": 182.35534783999992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "and σ t , T ( ρ ) is",
+      "text": "and σ t , T ( ρ ) is"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.23996999999997,
+            "t": 151.59186799999998,
+            "r": 197.7244784248685,
+            "b": 141.629228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "This can be written as",
+      "text": "This can be written as"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 203.76039999999978,
+            "t": 236.30289399999992,
+            "r": 498.38516559778645,
+            "b": 199.11057559999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "M t , T ( ρ ) = exp { -ρ 2 2 ∫ T t σ 2 du + ρ ∫ T t σ dW } (1.8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 216.84008000000003,
+            "t": 264.38285199999996,
+            "r": 498.38554559778623,
+            "b": 227.19044559999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "C ( S , K ) = E [ C BS ( SM t , T ( ρ ) , K , σ t , T ( ρ ) )] (1.7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 244.08023999999997,
+            "t": 194.30289399999992,
+            "r": 498.3851155977864,
+            "b": 152.31058559999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "σ t , T ( ρ ) = √ 1 τ ∫ T t ¯ ρ 2 σ 2 du (1.9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 206.15997,
+            "t": 138.02293799999995,
+            "r": 498.5049858213583,
+            "b": 100.95084359999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "C BS ( S , K , I ) = E t [ C BS ( SM t , T ( ρ ) , K , σ t , T ( ρ ) )] (1.10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 296.0397799999999,
+            "t": 101.181829,
+            "r": 301.4943299999999,
+            "b": 90.27272900000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.24043000000006,
+            "t": 659.930911,
+            "r": 498.3600812800001,
+            "b": 629.9555678400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "We will also need BS greeks for vanilla options, in particular the delta ( ∆ BS ) , vega ( ν BS ) , vanna ( va BS ) , and volga ( vo BS ) :",
+      "text": "We will also need BS greeks for vanilla options, in particular the delta ( ∆ BS ) , vega ( ν BS ) , vanna ( va BS ) , and volga ( vo BS ) :"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 236.40058000000013,
+            "t": 626.571091,
+            "r": 498.50570582135856,
+            "b": 607.9953678400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "∆ BS ( S , K , I ) = N ( d + ) (1.11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 231.83989000000005,
+            "t": 594.7965756000001,
+            "r": 498.50508582135836,
+            "b": 569.83516784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "va BS ( S , K , I ) = -N ′ ( d + ) I d -(1.13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 237.36050000000017,
+            "t": 615.5731808,
+            "r": 498.50509582135845,
+            "b": 591.31526784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "ν BS ( S , K , I ) = S √ τ N ′ ( d + ) (1.12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 232.31987999999998,
+            "t": 574.0531608,
+            "r": 498.5051358213584,
+            "b": 543.5554078399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "vo BS ( S , K , I ) = S √ τ N ′ ( d + ) I d + d -(1.14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.23993000000002,
+            "t": 535.71231,
+            "r": 498.35940268663603,
+            "b": 519.93464288,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "Special notation will be given to the strike and corresponding implied volatility where d -= 0:",
+      "text": "Special notation will be given to the strike and corresponding implied volatility where d -= 0:"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 262.07974,
+            "t": 517.0530208,
+            "r": 498.5052058213584,
+            "b": 492.79539783999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "log S / K -= 1 2 I 2 -√ τ (1.15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.0,
+            "t": 484.95207999999997,
+            "r": 423.9570540878196,
+            "b": 469.17480288,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "K -is called the zero vanna strike, and I -the zero vanna implied volatility.",
+      "text": "K -is called the zero vanna strike, and I -the zero vanna implied volatility."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.23968000000002,
+            "t": 469.95207999999997,
+            "r": 498.6080260340953,
+            "b": 400.22923999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            539
+          ]
+        }
+      ],
+      "orig": "In Rolloos and Arslan [2017] it is proved that for general SV models the price of a volatility swap at trade inception can be read directly from the market smile of European vanilla options, and is approximately equal to the zero vanna implied volatility. The approximation is accurate and valid for a large set of SV models, independent of the specific model parameters. Moreover, it has been demonstrated in Alos et al. [2019] that for SV models driven by fractional noise, the zero vanna implied volatility approximation remains robust.",
+      "text": "In Rolloos and Arslan [2017] it is proved that for general SV models the price of a volatility swap at trade inception can be read directly from the market smile of European vanilla options, and is approximately equal to the zero vanna implied volatility. The approximation is accurate and valid for a large set of SV models, independent of the specific model parameters. Moreover, it has been demonstrated in Alos et al. [2019] that for SV models driven by fractional noise, the zero vanna implied volatility approximation remains robust."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.23968000000002,
+            "t": 395.3117799999999,
+            "r": 498.50646616924394,
+            "b": 361.4694399999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "Except for at trade inception, however, a volatility swap is 'seasoned', meaning that it will have a realised volatility component. To be able to price a volatility swap throughout its life we must therefore be able to calculate",
+      "text": "Except for at trade inception, however, a volatility swap is 'seasoned', meaning that it will have a realised volatility component. To be able to price a volatility swap throughout its life we must therefore be able to calculate"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 237.23968000000002,
+            "t": 358.5829939999998,
+            "r": 498.50537582135837,
+            "b": 293.55020559999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "V 0 , T ( t ) = E t      √ 1 T ∫ T 0 σ 2 du      (1.16)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.24016999999998,
+            "t": 324.26269399999984,
+            "r": 498.35965159175305,
+            "b": 272.54936,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "  for all t ∈ [ 0 , T ] . Furthermore, if we are not able to price seasoned volatility swaps we will not know how to hedge volatility swaps as the change in the value of a volatility swap is the change in the seasoned volatility swap price.",
+      "text": "  for all t ∈ [ 0 , T ] . Furthermore, if we are not able to price seasoned volatility swaps we will not know how to hedge volatility swaps as the change in the value of a volatility swap is the change in the seasoned volatility swap price."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.24050999999997,
+            "t": 267.51199999999994,
+            "r": 498.45011155238274,
+            "b": 245.66926,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "To introduce notation which will later be used in our discussion on hedging of volatility swaps, the price of a variance swap is given the notation",
+      "text": "To introduce notation which will later be used in our discussion on hedging of volatility swaps, the price of a variance swap is given the notation"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 213.36050999999998,
+            "t": 240.98292400000003,
+            "r": 498.5050958213584,
+            "b": 203.79058559999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "V 2 0 , T ( t ) = E t [ 1 T ∫ t 0 σ 2 du + 1 T ∫ T t σ 2 du ] (1.17)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.23989,
+            "t": 199.83199000000002,
+            "r": 498.47903062757285,
+            "b": 142.10915,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            435
+          ]
+        }
+      ],
+      "orig": "Variance swaps are clearly far easier to price and hedge compared to volatility swaps. In some markets, trading variance swaps is in fact more liquid than trading the theoretical replicating portfolio for variance swaps, which is a continuous strip of options. From that perspective it would be attractive to be able to hedge volatility swaps directly with variance swaps, and if possible in an as model-independent manner as possible.",
+      "text": "Variance swaps are clearly far easier to price and hedge compared to volatility swaps. In some markets, trading variance swaps is in fact more liquid than trading the theoretical replicating portfolio for variance swaps, which is a continuous strip of options. From that perspective it would be attractive to be able to hedge volatility swaps directly with variance swaps, and if possible in an as model-independent manner as possible."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 296.03989,
+            "t": 101.18163500000003,
+            "r": 301.49444,
+            "b": 90.27253499999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.2398,
+            "t": 661.28234,
+            "r": 378.4739433484791,
+            "b": 648.3564138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "2 The historical adjusted spot process",
+      "text": "2 The historical adjusted spot process",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.2398,
+            "t": 634.11198,
+            "r": 476.51981128,
+            "b": 624.1493399999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "Let us introduce an auxiliary geometric Brownian motion H with constant volatility c ,",
+      "text": "Let us introduce an auxiliary geometric Brownian motion H with constant volatility c ,"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 273.84015999999997,
+            "t": 612.8721800000001,
+            "r": 498.3853455977864,
+            "b": 602.90954,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "dH = cH dB (2.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 98.76017999999988,
+            "t": 591.6323800000001,
+            "r": 498.3943125272521,
+            "b": 557.7896400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "In addition, we require that the process H is independent of S and σ , which means that dBdW = dBdZ = 0. We shall later see that c is related to the historical realised volatility of S .",
+      "text": "In addition, we require that the process H is independent of S and σ , which means that dBdW = dBdZ = 0. We shall later see that c is related to the historical realised volatility of S ."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.23952999999987,
+            "t": 552.8721800000002,
+            "r": 316.7632358303046,
+            "b": 542.9095400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Define the 'historical adjusted' spot process as",
+      "text": "Define the 'historical adjusted' spot process as"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 280.4395299999999,
+            "t": 533.4512910000001,
+            "r": 498.3849155977863,
+            "b": 521.7896400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "S H = SH (2.2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 228.36010999999985,
+            "t": 500.21110100000016,
+            "r": 498.38553559778614,
+            "b": 481.63576784000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "dS H = S H [ c dB + ρσ dW + ¯ ρσ dZ ] (2.3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.2403899999997,
+            "t": 480.9921800000001,
+            "r": 401.8772429636686,
+            "b": 471.0295400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Equation (2.3) can be rewritten in the following two equivalent ways:",
+      "text": "Equation (2.3) can be rewritten in the following two equivalent ways:"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 218.8803899999997,
+            "t": 467.4232340000001,
+            "r": 498.3849295977864,
+            "b": 428.7909856000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "dS H = S H [ √ c 2 + ¯ ρ 2 σ 2 dW ⊥ + ρσ dW ] (2.4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 218.87978400000003,
+            "t": 445.22287399999993,
+            "r": 498.38469959778644,
+            "b": 408.51053559999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "dS H = S H [ c dB + σ dB ⊥ ] (2.5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 200.639554,
+            "t": 408.3920519999999,
+            "r": 498.38514559778645,
+            "b": 363.99058560000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "dW ⊥ = c dB + ¯ ρσ dZ √ c 2 + ¯ ρ 2 σ 2 , dB ⊥ = ρσ dW + ¯ ρσ dZ σ (2.6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.239554,
+            "t": 416.19189999999986,
+            "r": 124.78295595627208,
+            "b": 406.2292599999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.24000000000001,
+            "t": 372.51191,
+            "r": 251.12426703464436,
+            "b": 362.54927000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Integrating the SDE (2.4) gives",
+      "text": "Integrating the SDE (2.4) gives"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.24016700000004,
+            "t": 330.15221,
+            "r": 118.56908361866603,
+            "b": 320.18957000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "with",
+      "text": "with"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 265.08000000000004,
+            "t": 353.091041,
+            "r": 498.3853125977865,
+            "b": 316.35055560000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "S H T = ˜ S H T M t , T ( ρ ) (2.7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 202.07991399999997,
+            "t": 295.942944,
+            "r": 498.38490559778637,
+            "b": 258.63057559999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "M t , T ( ρ ) = exp { -1 2 ∫ T t ρ 2 σ 2 du + ∫ T t ρσ dW } (2.9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 170.40028900000004,
+            "t": 327.383214,
+            "r": 498.3850595977864,
+            "b": 278.67091560000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "˜ S H T = S H exp { -1 2 ∫ T t [ c 2 + ¯ ρ 2 σ 2 ] du + ∫ T t √ c 2 + ¯ ρ 2 σ 2 dW ⊥ } (2.8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.23975999999993,
+            "t": 255.75205999999991,
+            "r": 295.08623130735106,
+            "b": 245.78941999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Similarly we can integrate (2.5) to obtain",
+      "text": "Similarly we can integrate (2.5) to obtain"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 275.5197599999999,
+            "t": 236.21088099999997,
+            "r": 498.50520382135835,
+            "b": 224.0729272399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "S H T = S T H T (2.10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 215.99999799999995,
+            "t": 210.62299399999995,
+            "r": 498.5054558213583,
+            "b": 173.4305756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "S T = S exp { -1 2 ∫ T t σ 2 du + ∫ T t σ dB ⊥ } (2.11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.23999799999996,
+            "t": 213.2720599999999,
+            "r": 118.56891461866594,
+            "b": 203.30941999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "with",
+      "text": "with"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.00098999999977,
+            "t": 142.23198000000002,
+            "r": 498.3444213386885,
+            "b": 120.38923999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "In the remainder of the paper we will set the initial value of H to one, i.e. H = 1 and hence S H = S .",
+      "text": "In the remainder of the paper we will set the initial value of H to one, i.e. H = 1 and hence S H = S ."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 218.4002499999999,
+            "t": 179.06314399999997,
+            "r": 498.50537582135826,
+            "b": 141.87058560000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "H T = H exp { -1 2 ∫ T t c 2 du + ∫ T t c dB } (2.12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.23976999999985,
+            "t": 511.73141100000015,
+            "r": 196.16528291685074,
+            "b": 500.54984000000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "The SDE for S H reads",
+      "text": "The SDE for S H reads"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 296.0413099999998,
+            "t": 101.18162499999994,
+            "r": 301.49585999999977,
+            "b": 90.27252499999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.2398,
+            "t": 661.28234,
+            "r": 395.55821787819264,
+            "b": 648.3564138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "3 The historical adjusted volatility smile",
+      "text": "3 The historical adjusted volatility smile",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.00000000000006,
+            "t": 638.0911110000001,
+            "r": 498.36943277093235,
+            "b": 591.02944,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "What we mean with the historical adjusted smile is the volatility smile I H of vanilla options on the process S H . Although this process is not directly traded, we can express options on S H ( T ) in terms of options on S by making use of (2.10) and the independence of dB and dB ⊥ . To construct I H note that by conditioning we can write",
+      "text": "What we mean with the historical adjusted smile is the volatility smile I H of vanilla options on the process S H . Although this process is not directly traded, we can express options on S H ( T ) in terms of options on S by making use of (2.10) and the independence of dB and dB ⊥ . To construct I H note that by conditioning we can write"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 217.32054000000005,
+            "t": 588.3832640000002,
+            "r": 498.38571359778666,
+            "b": 520.5909056000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "E t [ ( S H T -K ) + ] = E t [( S T H T -K ) + ] = E t [ H T C ( S , K / H T )] = ∫ ∞ 0 hC ( S , K / h ) q ( h ) dh (3.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.24056800000022,
+            "t": 518.6722100000003,
+            "r": 437.04076717654596,
+            "b": 501.79549784000034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "where q ( h ) is the lognormal distribution because we have taken c as constant:",
+      "text": "where q ( h ) is the lognormal distribution because we have taken c as constant:"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 176.64038800000023,
+            "t": 506.063114,
+            "r": 498.3853355977864,
+            "b": 466.3506856,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "q ( h ) = 1 hν √ 2 π exp { -1 2 ( ln h -µ ν ) 2 } , ν = c √ τ , µ = -1 2 c 2 τ (3.2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.24018999999998,
+            "t": 460.2320199999999,
+            "r": 498.3698632936523,
+            "b": 438.26937999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "The options prices C ( S , K / h ) under the integral are market prices of vanilla options on S and are available for all strikes. Thus",
+      "text": "The options prices C ( S , K / h ) under the integral are market prices of vanilla options on S and are available for all strikes. Thus"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 228.72054999999997,
+            "t": 438.02285399999994,
+            "r": 498.3865055977865,
+            "b": 401.31052559999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "C H ( S , K ) = ∫ ∞ 0 hC ( S , K / h ) q ( h ) dh (3.3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.24036000000007,
+            "t": 399.4107409999999,
+            "r": 498.3603498711505,
+            "b": 376.2291699999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "where the C H left of the equality sign denotes the price of options on S H (recall we set H = 1). In terms of BS prices we have the following equivalent expression:",
+      "text": "where the C H left of the equality sign denotes the price of options on S H (recall we set H = 1). In terms of BS prices we have the following equivalent expression:"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 208.92072000000007,
+            "t": 374.06284399999987,
+            "r": 498.3862355977865,
+            "b": 334.8304655999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "C BS ( S , K , I H ) = ∫ ∞ 0 hC BS ( S , K / h , I ) q ( h ) dh (3.4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 98.99998000000005,
+            "t": 332.31189999999987,
+            "r": 498.46328113114436,
+            "b": 279.55548783999984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            335
+          ]
+        }
+      ],
+      "orig": "As all quantities on the right hand side of (3.4) are known the numerical integration can be carried out to back out I H . It is important to remember that for each h the implied volatility I on the right hand side of (3.4) is the implied volatility corresponding to the strike K / h and not the implied volatility corresponding to K .",
+      "text": "As all quantities on the right hand side of (3.4) are known the numerical integration can be carried out to back out I H . It is important to remember that for each h the implied volatility I on the right hand side of (3.4) is the implied volatility corresponding to the strike K / h and not the implied volatility corresponding to K ."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.23990500000014,
+            "t": 283.01093099999997,
+            "r": 498.4484337842008,
+            "b": 247.94966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "We have priced options on S H T making use of (2.10). However, options on S H T can also be priced using (2.7) and conditioning on M t , T ( ρ ) . We shall see that equating the two naturally leads us to the fair strike of seasoned volatility swaps. Indeed,",
+      "text": "We have priced options on S H T making use of (2.10). However, options on S H T can also be priced using (2.7) and conditioning on M t , T ( ρ ) . We shall see that equating the two naturally leads us to the fair strike of seasoned volatility swaps. Indeed,"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.2399729999999,
+            "t": 190.11253,
+            "r": 118.56888961866589,
+            "b": 180.1498899999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "with",
+      "text": "with"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.24020399999995,
+            "t": 145.83224999999993,
+            "r": 128.27984522392484,
+            "b": 135.86960999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Hence,",
+      "text": "Hence,"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 198.72001500000013,
+            "t": 245.783274,
+            "r": 498.38511859778635,
+            "b": 186.99091559999988,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "E t [ ( S H T -K ) + ] = E t [ ( ˜ S H T M t , T ( ρ ) -K ) + ] = E t [ C BS ( SM t , T ( ρ ) , K , σ H t , T ( ρ ) )] (3.5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 231.1199729999999,
+            "t": 187.8231639999999,
+            "r": 498.3853495977864,
+            "b": 145.83058559999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "σ H t , T ( ρ ) = √ 1 τ ∫ T t [ c 2 + ¯ ρ 2 σ 2 ] du (3.6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 200.04020399999996,
+            "t": 141.98331399999995,
+            "r": 498.3853095977862,
+            "b": 105.27087559999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "C BS ( S , K , I H ) = E t [ C BS ( SM t , T ( ρ ) , K , σ H t , T ( ρ ) )] (3.7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 296.0401639999998,
+            "t": 101.18212500000004,
+            "r": 301.49471399999976,
+            "b": 90.27302499999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.2398,
+            "t": 661.28234,
+            "r": 289.10174069835296,
+            "b": 648.3564138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "4 Volatility swaps pricing",
+      "text": "4 Volatility swaps pricing",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.11972,
+            "t": 633.99208,
+            "r": 498.44649058968974,
+            "b": 588.1493399999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            290
+          ]
+        }
+      ],
+      "orig": "Following the method introduced in Rolloos and Arslan [2017] the right hand side of (3.7) can be Taylor expanded around ρ = 0 and around the historical adjusted implied volatility I H -where the BS vanna of a vanilla option on S H T is zero. The Taylor expansion of (3.7) around ρ = 0 gives",
+      "text": "Following the method introduced in Rolloos and Arslan [2017] the right hand side of (3.7) can be Taylor expanded around ρ = 0 and around the historical adjusted implied volatility I H -where the BS vanna of a vanilla option on S H T is zero. The Taylor expansion of (3.7) around ρ = 0 gives"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 189.119955,
+            "t": 584.0629640000001,
+            "r": 498.3849305977862,
+            "b": 529.4710956000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "C BS ( S , K , I H ) ≈ E t [ C BS ( S , K , σ H t , T ( 0 )) ] + ρSE t [ ∆ BS ( S , K , σ H t , T ( 0 )) ∫ T t σ dW ] (4.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.23978499999976,
+            "t": 525.6325000000002,
+            "r": 118.56870161866574,
+            "b": 515.6698600000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "with",
+      "text": "with"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 236.39978499999975,
+            "t": 523.3431340000002,
+            "r": 498.38519559778643,
+            "b": 481.3505856,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "σ H t , T ( 0 ) = √ 1 τ ∫ T t [ c 2 + σ 2 ] du (4.2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.24004999999997,
+            "t": 477.3915799999999,
+            "r": 498.3684943030841,
+            "b": 448.51486783999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "Now, restricting to an option with zero vanna strike K -and zero vanna historical adjusted implied volatility I H -( t ) , and expanding around I H -( t ) , we obtain",
+      "text": "Now, restricting to an option with zero vanna strike K -and zero vanna historical adjusted implied volatility I H -( t ) , and expanding around I H -( t ) , we obtain"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 162.72059599999997,
+            "t": 445.37069099999997,
+            "r": 498.3854375977864,
+            "b": 356.4306456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "C BS ( S , K -, I H -) ≈ C BS ( S , K -, I H -) + ν BS ( S , K -, I H -) E t [ ( σ H t , T ( 0 ) -I H -) ] + 1 2 vo BS ( S , K -, I H -) E t [ ( σ H t , T ( 0 ) -I H -) 2 ] + ρSva BS ( S , K -, I H -) E t [ ( σ H t , T ( 0 ) -I H -) ∫ T t σ dW ] (4.3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.24029199999995,
+            "t": 352.71193999999997,
+            "r": 121.9033571183257,
+            "b": 342.7493,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Since",
+      "text": "Since"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 224.88029199999994,
+            "t": 342.410951,
+            "r": 498.38485317378627,
+            "b": 323.83522784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "ν BS ( S , K -, I H -) = vo BS ( S , K -, I H -) = 0 (4.4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.2401569999999,
+            "t": 322.83223999999996,
+            "r": 163.02091333354974,
+            "b": 312.8696,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "this reduces to",
+      "text": "this reduces to"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 156.7202569999999,
+            "t": 308.90312400000005,
+            "r": 498.38525359778635,
+            "b": 272.1907956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "C BS ( S , K -, I H -) ≈ C BS ( S , K -, I H -) + ν BS ( S , K -, I H -) E t [ ( σ H t , T ( 0 ) -I H -( t )) ] (4.5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.2401079999999,
+            "t": 279.3920499999999,
+            "r": 219.7576168421474,
+            "b": 269.42940999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "This can only be the case if",
+      "text": "This can only be the case if"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.24006699999995,
+            "t": 210.03219,
+            "r": 218.84515415816796,
+            "b": 200.06955000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Define the constant c as",
+      "text": "Define the constant c as"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 204.48010799999992,
+            "t": 264.62308399999995,
+            "r": 498.3852125977864,
+            "b": 199.71059560000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "E t [ σ H t , T ( 0 ) ] = E t      √ 1 τ ∫ T t [ c 2 + σ 2 ] du      ≈ I H -(4.6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.24009000000001,
+            "t": 171.51198999999997,
+            "r": 243.11896502447414,
+            "b": 161.54935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "and we obtain our desired result:",
+      "text": "and we obtain our desired result:"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 264.12008699999996,
+            "t": 230.4230839999999,
+            "r": 498.38523559778645,
+            "b": 170.67058559999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "  c 2 = 1 τ ∫ t 0 σ 2 du (4.7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 187.32019000000003,
+            "t": 158.78290400000003,
+            "r": 498.38514559778645,
+            "b": 87.87057560000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "V 0 , T ( t ) = E t       √ 1 T ∫ t 0 σ 2 du + 1 T ∫ T t σ 2 du       ≈ I H -√ τ T (4.8) 6",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.2398,
+            "t": 658.71198,
+            "r": 498.442754201343,
+            "b": 636.86964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "The above equation contains as a special case the formula for freshly minted volatility swaps derived in Rolloos and Arslan [2017].",
+      "text": "The above equation contains as a special case the formula for freshly minted volatility swaps derived in Rolloos and Arslan [2017]."
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.23969999999997,
+            "t": 631.8322800000001,
+            "r": 498.4876842834545,
+            "b": 538.2293400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            723
+          ]
+        }
+      ],
+      "orig": "We summarize the steps required to calculate the price of a seasoned volatility swap at time t with a realized volatility given by (4.7): Given a market smile which is assumed to be generated by a process of the type (1.1) - (1.2), introduce an adjusted spot process defined by (2.1) - (2.2). Options on the adjusted spot process of maturity corresponding to the maturity of the volatility swap can be priced with (3.4). Once options on the adjusted process have been priced the adjusted implied volatility can be backed out. The final step is to find the adjusted implied volatility where an option on the adjusted process has zero BS vanna. Equation (4.8) then gives the approximate value of the seasoned volatility swap.",
+      "text": "We summarize the steps required to calculate the price of a seasoned volatility swap at time t with a realized volatility given by (4.7): Given a market smile which is assumed to be generated by a process of the type (1.1) - (1.2), introduce an adjusted spot process defined by (2.1) - (2.2). Options on the adjusted spot process of maturity corresponding to the maturity of the volatility swap can be priced with (3.4). Once options on the adjusted process have been priced the adjusted implied volatility can be backed out. The final step is to find the adjusted implied volatility where an option on the adjusted process has zero BS vanna. Equation (4.8) then gives the approximate value of the seasoned volatility swap."
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.2390499999999,
+            "t": 534.5563656000002,
+            "r": 498.46215013471016,
+            "b": 439.5894400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            694
+          ]
+        }
+      ],
+      "orig": "Note that at time t ′ = t + dt we will update the value of the 'constant' c 2 to c ′ 2 to take into account of the new historical realised volatility, and set H ( t ′ ) = 1 again in order to calculate the updated seasoned volatility swap price. The aforementioned quantities should therefore be treated only as a tool to calculate and not as actual physical processes. What we mean with c is constant in this context is that at time t we treat it as if it will be constant until maturity date in order to be able get the historical volatility 'under the square root sign'. In Appendix A we show that the pricing as described above gives the exact seasoned volatility swap price in a BS setting.",
+      "text": "Note that at time t ′ = t + dt we will update the value of the 'constant' c 2 to c ′ 2 to take into account of the new historical realised volatility, and set H ( t ′ ) = 1 again in order to calculate the updated seasoned volatility swap price. The aforementioned quantities should therefore be treated only as a tool to calculate and not as actual physical processes. What we mean with c is constant in this context is that at time t we treat it as if it will be constant until maturity date in order to be able get the historical volatility 'under the square root sign'. In Appendix A we show that the pricing as described above gives the exact seasoned volatility swap price in a BS setting."
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.2390499999999,
+            "t": 419.1224400000001,
+            "r": 295.2209403167509,
+            "b": 406.19651380000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "5 Volatility swaps hedging",
+      "text": "5 Volatility swaps hedging",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.2390499999999,
+            "t": 393.6885400000001,
+            "r": 256.45563193699826,
+            "b": 382.91690480000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "5.1 Hedging with options",
+      "text": "5.1 Hedging with options",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.2390499999999,
+            "t": 374.31178000000006,
+            "r": 498.46254840941623,
+            "b": 328.58934000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            375
+          ]
+        }
+      ],
+      "orig": "In order to find the hedge for a (seasoned) volatility swap suppose that at time t we have found the historical adjusted zero vanna strike and implied volatility for a vanilla option on the historical adjusted spot price. If we buy this 'meta option', which according to equation (3.4) is a strip of market traded vanilla options, the change in value of the option over dt is",
+      "text": "In order to find the hedge for a (seasoned) volatility swap suppose that at time t we have found the historical adjusted zero vanna strike and implied volatility for a vanilla option on the historical adjusted spot price. If we buy this 'meta option', which according to equation (3.4) is a strip of market traded vanilla options, the change in value of the option over dt is"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 198.11914999999993,
+            "t": 324.262714,
+            "r": 498.3845735977863,
+            "b": 287.5503856,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "dC BS ( S , K -, I H -) = ∫ ∞ 0 h [ dC BS ( S , K -/ h , I )] q ( h ) dh (5.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.23942799999986,
+            "t": 284.07186999999993,
+            "r": 293.9991126513056,
+            "b": 267.19515784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "where in the integrand I = I ( S , K -/ h ) . Hence,",
+      "text": "where in the integrand I = I ( S , K -/ h ) . Hence,"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.24002499999992,
+            "t": 238.49073099999987,
+            "r": 498.2981816668928,
+            "b": 215.30913999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "Next, note that as C BS ( S , K -, I H -) satisfies the BS partial differential equation, and taking into account that the vanna and volga contributions are zero,",
+      "text": "Next, note that as C BS ( S , K -, I H -) satisfies the BS partial differential equation, and taking into account that the vanna and volga contributions are zero,"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 251.03950799999987,
+            "t": 269.90285399999993,
+            "r": 498.38415466178634,
+            "b": 233.1905256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "E t [ dC BS ( S , K , I H ) ] = 0 (5.2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 142.32,
+            "t": 210.57290079999984,
+            "r": 498.3851455977864,
+            "b": 168.0305856,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "√ τ ν BS ( S , K -, I H -) [ dC BS ( S , K -, I H -) -∆ BS ( S , K -, I H -) dS ] = d ( I H -√ τ ) -1 2 σ 2 I H -√ τ dτ (5.3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.23999999999995,
+            "t": 168.63192000000004,
+            "r": 422.2449081879748,
+            "b": 158.66928000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "The risk-neutral drift of the zero vanna implied volatility at time t is thus",
+      "text": "The risk-neutral drift of the zero vanna implied volatility at time t is thus"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 242.88083999999998,
+            "t": 148.58288400000004,
+            "r": 498.3850655977864,
+            "b": 111.8705056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "E t [ d ( I H -√ τ ) ] = 1 2 σ 2 I H -√ τ dτ (5.4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 296.03992,
+            "t": 101.18185500000004,
+            "r": 301.49447,
+            "b": 90.27275499999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 99.24000000000001,
+            "t": 658.71198,
+            "r": 498.4904420194932,
+            "b": 612.86964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            301
+          ]
+        }
+      ],
+      "orig": "As the volatility swap price is a martingale, and from equation (4.8) we see that at each instant it is (approximately) equal to the zero vanna implied volatility, the change in a fixed strike implied volatility which is initially zero vanna cannot be equal to the change in the volatility swap price:",
+      "text": "As the volatility swap price is a martingale, and from equation (4.8) we see that at each instant it is (approximately) equal to the zero vanna implied volatility, the change in a fixed strike implied volatility which is initially zero vanna cannot be equal to the change in the volatility swap price:"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 250.68,
+            "t": 618.2130808000001,
+            "r": 498.3851455977864,
+            "b": 594.07526784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "d (V 0 , T ( t ) T ) nequal d ( I H -√ τ ) (5.5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 99.23936999999995,
+            "t": 593.43208,
+            "r": 498.48705779819494,
+            "b": 547.70924,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            310
+          ]
+        }
+      ],
+      "orig": "This is because a fixed strike implied volatility which is zero vanna at time t will not be zero vanna at t + dt . Indeed, from equation (5.4) it is clear that an initially zero vanna implied volatility is not a martingale. The new zero vanna implied volatility at t + dt will correspond to a different strike.",
+      "text": "This is because a fixed strike implied volatility which is zero vanna at time t will not be zero vanna at t + dt . Indeed, from equation (5.4) it is clear that an initially zero vanna implied volatility is not a martingale. The new zero vanna implied volatility at t + dt will correspond to a different strike."
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 249.71924000000004,
+            "t": 526.2931008000002,
+            "r": 498.3852255977864,
+            "b": 502.03526784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "d (V 0 , T ( t ) T ) ≈ D ( I H -√ τ ) (5.6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 99.23924000000005,
+            "t": 549.6929008000002,
+            "r": 498.35933455784624,
+            "b": 520.94964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "Let us introduce the total change in zero vanna implied volatility D ( I H -√ τ ) . This total change must satisfy",
+      "text": "Let us introduce the total change in zero vanna implied volatility D ( I H -√ τ ) . This total change must satisfy"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 99.24007999999998,
+            "t": 501.51198,
+            "r": 498.42164030967314,
+            "b": 479.54934000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "The total change, which is the change from the zero vanna implied volatility at t to the zero vanna implied volatility at t + dt , can be written as:",
+      "text": "The total change, which is the change from the zero vanna implied volatility at t to the zero vanna implied volatility at t + dt , can be written as:"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 174.36047,
+            "t": 475.7728708,
+            "r": 498.3854055977864,
+            "b": 445.03526784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "D ( I H -√ τ ) = d ( I H -√ τ ) + δ ( I H -√ τ ) + ∂ ( I H -√ τ ) ∂ log K d log K -+ H . O . (5.7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 98.87961999999999,
+            "t": 441.3332308000001,
+            "r": 498.4690029010342,
+            "b": 340.70923999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            684
+          ]
+        }
+      ],
+      "orig": "The term d ( I H -√ τ ) is the usual change in fixed strike implied volatility. However, we know that to recalculate the volatility swap price the new realised volatility needs to be taken into account. Since the infinitesimal change in realised volatility is σ 2 dt , the change in fixed strike implied volatility purely due to the realised volatility update will be of order dt : δ ( I H -√ τ ) = O ( dt ) . The term involving the slope of the adjusted implied volatility skew at the initial zero vanna strike is the correction needed to find the new zero vanna implied volatility strike after the usual change in implied volatility and change due to the realised volatility update.",
+      "text": "The term d ( I H -√ τ ) is the usual change in fixed strike implied volatility. However, we know that to recalculate the volatility swap price the new realised volatility needs to be taken into account. Since the infinitesimal change in realised volatility is σ 2 dt , the change in fixed strike implied volatility purely due to the realised volatility update will be of order dt : δ ( I H -√ τ ) = O ( dt ) . The term involving the slope of the adjusted implied volatility skew at the initial zero vanna strike is the correction needed to find the new zero vanna implied volatility strike after the usual change in implied volatility and change due to the realised volatility update."
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 114.24015000000003,
+            "t": 335.91167999999993,
+            "r": 409.76599994699535,
+            "b": 325.94903999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Recall that the zero vanna strike and implied volatility at t satisfies",
+      "text": "Recall that the zero vanna strike and implied volatility at t satisfies"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 252.00107000000008,
+            "t": 318.09303079999995,
+            "r": 498.3849155977864,
+            "b": 293.83526784000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "log ( S / K -) = 1 2 ( I H -√ τ ) 2 (5.8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 99.23976999999996,
+            "t": 286.83188,
+            "r": 498.2207626605005,
+            "b": 264.98914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "We can therefore relate the total change in zero vanna adjused implied volatility to the required change in strike to maintain zero vanna:",
+      "text": "We can therefore relate the total change in zero vanna adjused implied volatility to the required change in strike to maintain zero vanna:"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 192.83976999999996,
+            "t": 257.0132808000001,
+            "r": 498.38514559778645,
+            "b": 232.87506784000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "d log K -= d log S -I H -√ τ D ( I H -√ τ ) + 1 2 ( D ( I H -√ τ )) 2 (5.9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 99.24000000000001,
+            "t": 225.27188,
+            "r": 405.56475829414325,
+            "b": 215.30924000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Substituting this into equation (5.7) and after some rearranging, gives",
+      "text": "Substituting this into equation (5.7) and after some rearranging, gives"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 150.72000000000003,
+            "t": 210.93326079999997,
+            "r": 498.50452582135847,
+            "b": 158.35530784000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "( 1 + I H -√ τ ∂ ( I H -√ τ ) ∂ log K ) D ( I H -√ τ ) = d ( I H -√ τ ) + δ ( I H -√ τ ) + ∂ ( I H -√ τ ) ∂ log K d log S + H . O . (5.10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 114.23932000000008,
+            "t": 151.35192000000006,
+            "r": 270.3831702642156,
+            "b": 141.38927999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Using equation (5.6), it follows that",
+      "text": "Using equation (5.6), it follows that"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 221.75932000000006,
+            "t": 138.02284399999996,
+            "r": 498.5051255461584,
+            "b": 101.31045559999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "E t [ D ( I H -√ τ ) ] ≈ E t [ d (V 0 , T ( t ) T ) ] = 0 (5.11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 296.03992000000005,
+            "t": 101.181735,
+            "r": 301.49447000000004,
+            "b": 90.27263500000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.2398,
+            "t": 665.6131008000001,
+            "r": 375.50386395515704,
+            "b": 641.83526784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "and hence, because δ ( I H -√ τ ) = O ( dt ) , it follows from (5.10) that",
+      "text": "and hence, because δ ( I H -√ τ ) = O ( dt ) , it follows from (5.10) that"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 174.60015,
+            "t": 644.6627639999999,
+            "r": 498.5051258213583,
+            "b": 560.4946228800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "δ ( I H -( t ) √ τ ) = E t [ δ ( I H -√ τ ) ] ≈ -E t [ d ( I H -√ τ ) ] -∂ ( I H -√ τ ) ∂ log K E t [ d log S ] - H . O . ≈ -1 2 σ 2 I H -√ τ dτ -∂ ( I H -√ τ ) ∂ log K E t [ d log S ] - H . O . (5.12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.23991999999993,
+            "t": 556.4719200000001,
+            "r": 247.4378597782947,
+            "b": 546.50928,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Substituting this back into (5.10),",
+      "text": "Substituting this back into (5.10),"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 153.72001999999992,
+            "t": 541.342754,
+            "r": 498.50510582135837,
+            "b": 502.65423288,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "( 1 + I H -√ τ ∂ ( I H -√ τ ) ∂ log K ) D ( I H -√ τ ) ≈ d ( I H -√ τ ) -1 2 σ 2 I H -√ τ dτ + ∂ ( I H -√ τ ) ∂ log K dS S (5.13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.23961999999997,
+            "t": 498.99161999999995,
+            "r": 498.2942982977117,
+            "b": 477.02898,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "because d log S = E t [ d log S ] + dS / S . The above can be simplified further by noting that for the class of SV models considered,",
+      "text": "because d log S = E t [ d log S ] + dS / S . The above can be simplified further by noting that for the class of SV models considered,"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 252.35961999999998,
+            "t": 472.4131008,
+            "r": 498.50546582135837,
+            "b": 441.67510784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "∂ ( I H -√ τ ) ∂ log K = -∂ ( I H -√ τ ) ∂ log S (5.14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 154.92036,
+            "t": 427.29310080000005,
+            "r": 498.5049858213584,
+            "b": 388.65454288000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "( 1 + I H -√ τ ∂ ( I H -√ τ ) ∂ log K ) D ( I H -√ τ ) ≈ d ( I H -√ τ ) -1 2 σ 2 I H -√ τ dτ -∂ ( I H -√ τ ) ∂ S dS (5.15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.24025999999998,
+            "t": 431.91202,
+            "r": 130.43975729199005,
+            "b": 421.94938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "and so,",
+      "text": "and so,"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 114.23978,
+            "t": 385.59201,
+            "r": 388.2240009812041,
+            "b": 375.62937000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Comparing equation (5.15) with the BS PDE (5.3) we see that",
+      "text": "Comparing equation (5.15) with the BS PDE (5.3) we see that"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 180.11988,
+            "t": 371.42275400000005,
+            "r": 498.5050858213584,
+            "b": 334.71042560000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "d (V 0 , T ( t ) T ) ≈ D ( I H -√ τ ) ≈ N [ dC H ( S , K -) -∆ H ( S , K -) dS ] (5.16)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.23988000000003,
+            "t": 343.0107110000001,
+            "r": 273.7809252349197,
+            "b": 331.82914000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "where ∆ H is the SV skew-adjusted delta",
+      "text": "where ∆ H is the SV skew-adjusted delta"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 199.68016,
+            "t": 321.890791,
+            "r": 498.50528582135837,
+            "b": 296.71506783999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "∆ H ( S , K -) = ∆ BS ( S , K -, I H -) + ν BS ( S , K -, I H -) ∂ I H -∂ S (5.17)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.24007999999998,
+            "t": 288.87199999999996,
+            "r": 192.68521144000002,
+            "b": 278.90936,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "and the notional N is",
+      "text": "and the notional N is"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 200.76048,
+            "t": 274.4132608,
+            "r": 498.5050058213584,
+            "b": 237.63028559999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "N = ( ν BS ( S , K -, I H -) √ τ ) -1 ( 1 + I H -√ τ ∂ ( I H -√ τ ) ∂ log K ) -1 (5.18)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.2398,
+            "t": 228.87176,
+            "r": 498.38431714812884,
+            "b": 147.26922000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            636
+          ]
+        }
+      ],
+      "orig": "What the hedging formula (5.16) says is that the change in volatility swap price can be approximately hedged in a self-financing manner by trading a delta-hedged zero vanna option on the historical adjusted spot process, where the delta is the skew adjusted delta, and the notional is a skew adjusted and vega-weighted notional. Note that this formula is identical in form to the formula in [] for hedging forward starting volatility swaps. The reason that there is no delta hedge in the formula for forward starting volatility swaps is because the forward starting options used in the paper are insensitive to the spot price movements.",
+      "text": "What the hedging formula (5.16) says is that the change in volatility swap price can be approximately hedged in a self-financing manner by trading a delta-hedged zero vanna option on the historical adjusted spot process, where the delta is the skew adjusted delta, and the notional is a skew adjusted and vega-weighted notional. Note that this formula is identical in form to the formula in [] for hedging forward starting volatility swaps. The reason that there is no delta hedge in the formula for forward starting volatility swaps is because the forward starting options used in the paper are insensitive to the spot price movements."
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.2398,
+            "t": 142.23185999999998,
+            "r": 498.43690368094553,
+            "b": 120.38911999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        },
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 99.2398,
+            "t": 658.71198,
+            "r": 498.44422028902886,
+            "b": 612.86964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            182,
+            513
+          ]
+        }
+      ],
+      "orig": "As in Carr and Lee [2009], our hedge for the volatility swap involves continuous rebalancing of vanilla options of all strikes with appropriate weights (recall that a vanilla option on the adjusted spot process is a strip of market traded vanilla options). The difference between our approach and Carr and Lee [2009] is that the weights are directly related to intuitive trading concepts such as BS greeks and slope of the skew. Additionally, the weights are smooth functions of strike and not highly oscillatory.",
+      "text": "As in Carr and Lee [2009], our hedge for the volatility swap involves continuous rebalancing of vanilla options of all strikes with appropriate weights (recall that a vanilla option on the adjusted spot process is a strip of market traded vanilla options). The difference between our approach and Carr and Lee [2009] is that the weights are directly related to intuitive trading concepts such as BS greeks and slope of the skew. Additionally, the weights are smooth functions of strike and not highly oscillatory."
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 296.0398,
+            "t": 101.18150500000002,
+            "r": 301.49435,
+            "b": 90.27240499999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 99.2398,
+            "t": 607.9521800000001,
+            "r": 498.4604664388085,
+            "b": 538.2293400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            519
+          ]
+        }
+      ],
+      "orig": "Even though hedging with theoretical strip of options is, within our approach and framework, the most accurate hedge for the volatility swap, it is not the cheapest way to hedge. For this reason, the next section will discuss an approach to hedge volatility swaps using variance swaps only, which for some indices is cheaper to trade than a portfolio consisting of options of all possible strikes. The price to pay for hedging with relatively cheaper instruments is potential loss of accuracy (increased hedging error).",
+      "text": "Even though hedging with theoretical strip of options is, within our approach and framework, the most accurate hedge for the volatility swap, it is not the cheapest way to hedge. For this reason, the next section will discuss an approach to hedge volatility swaps using variance swaps only, which for some indices is cheaper to trade than a portfolio consisting of options of all possible strikes. The price to pay for hedging with relatively cheaper instruments is potential loss of accuracy (increased hedging error)."
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 99.2398,
+            "t": 521.1288400000002,
+            "r": 300.3764290951681,
+            "b": 510.35720480000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "5.2 Hedging with variance swaps",
+      "text": "5.2 Hedging with variance swaps",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 99.2398,
+            "t": 500.4548518000002,
+            "r": 240.33789692710397,
+            "b": 490.7299813582859,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "5.2.1 Gatheral's formula",
+      "text": "5.2.1 Gatheral's formula",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 99.2398,
+            "t": 481.83218000000016,
+            "r": 498.4616688774773,
+            "b": 447.9894400000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            258
+          ]
+        }
+      ],
+      "orig": "Two approximations for hedging volatility swaps with variance swaps will be given: a first order and second order approximation. Both will be based on Gatheral's formula for variance swaps. We recall that for a freshly minted variance swap at time t it reads",
+      "text": "Two approximations for hedging volatility swaps with variance swaps will be given: a first order and second order approximation. Both will be based on Gatheral's formula for variance swaps. We recall that for a freshly minted variance swap at time t it reads"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 215.03972000000005,
+            "t": 444.2632140000002,
+            "r": 498.50566582135843,
+            "b": 407.5508856000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "V 2 t , T ( t ) τ = ∫ ∞ -∞ N ′ ( d -) ∂ d -∂ log K I 2 τ d log K (5.19)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 99.24046000000004,
+            "t": 404.31161999999995,
+            "r": 498.30156056500147,
+            "b": 382.34898,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "This formula can be generalised to seasoned volatility swaps. Note that the price of a seasoned volatility swap is given by",
+      "text": "This formula can be generalised to seasoned volatility swaps. Note that the price of a seasoned volatility swap is given by"
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 238.80046000000004,
+            "t": 378.26261400000004,
+            "r": 498.5056838213585,
+            "b": 341.5502756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "V 2 0 , T ( t ) T = -2 E t [ log S H T / S H ] (5.20)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 99.24037800000013,
+            "t": 348.41067100000004,
+            "r": 498.4878038414521,
+            "b": 313.349,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "with c given by (4.7). Alog-contract on the adjusted spot process S H can be synthesised using options on the adjusted spot process C BS ( S , K , I H ) . Hence, Gatheral's formula for seasoned volatility swaps reads",
+      "text": "with c given by (4.7). Alog-contract on the adjusted spot process S H can be synthesised using options on the adjusted spot process C BS ( S , K , I H ) . Hence, Gatheral's formula for seasoned volatility swaps reads"
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 204.00037800000013,
+            "t": 309.62237400000004,
+            "r": 498.50510582135837,
+            "b": 272.9100456000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "V 2 0 , T ( t ) T = ∫ ∞ -∞ N ′ ( d -) ∂ d -∂ log K ( I H √ τ ) 2 d log K (5.21)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 99.23989999999998,
+            "t": 269.6717799999999,
+            "r": 360.9765474050493,
+            "b": 259.70913999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "which can be rewritten in the slightly more convenient form",
+      "text": "which can be rewritten in the slightly more convenient form"
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 227.1599,
+            "t": 255.98291399999994,
+            "r": 498.5050058213584,
+            "b": 219.2705856,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "V 2 0 , T ( t ) T = ∫ ∞ -∞ N ′ ( d -)( I H √ τ ) 2 dd -(5.22)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 99.2398,
+            "t": 211.49465179999993,
+            "r": 281.040083718292,
+            "b": 201.76978135828574,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "5.2.2 First order approximation",
+      "text": "5.2.2 First order approximation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 99.2398,
+            "t": 199.7730808,
+            "r": 482.4599890091353,
+            "b": 177.21470288,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "The first order approximation is found by expanding I H √ τ around d -= 0. This leads to",
+      "text": "The first order approximation is found by expanding I H √ τ around d -= 0. This leads to"
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 128.03956999999997,
+            "t": 178.05323079999994,
+            "r": 498.50536582135834,
+            "b": 125.35523783999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "∫ ∞ -∞ N ′ ( d -)( I H √ τ ) 2 dd - ≈ ( I H -√ τ ) 2 ∫ ∞ -∞ N ′ ( d -) dd -+ ∂ ( I H -√ τ ) 2 ∂ d -∫ ∞ -∞ d -N ′ ( d -) dd -+ = ( I H -√ τ ) 2 (5.23)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 293.4001599999999,
+            "t": 101.18162499999994,
+            "r": 304.25471449999986,
+            "b": 90.27252499999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.2398,
+            "t": 658.71198,
+            "r": 278.0033991588149,
+            "b": 648.74934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Hence, the lowest order approximation is",
+      "text": "Hence, the lowest order approximation is"
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 235.0798,
+            "t": 644.1334008000002,
+            "r": 498.50511582135834,
+            "b": 619.87526784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "V 2 0 , T ( t ) T ≈ ( I H -√ τ ) 2 ≈ V 2 0 , T ( t ) T (5.24)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 243.95990999999995,
+            "t": 607.4719000000001,
+            "r": 498.5055358213583,
+            "b": 575.9745428800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "d V 0 , T ( t ) ≈ 1 2 I H -√ τ dV 2 0 , T ( t ) (5.25)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.23990999999995,
+            "t": 614.9117800000001,
+            "r": 214.94424158517347,
+            "b": 604.94914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "From which it follows that",
+      "text": "From which it follows that"
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.23984000000002,
+            "t": 581.4932208,
+            "r": 498.44913497877087,
+            "b": 552.74934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "By dynamically trading variance swaps with notional 1 /( 2 I H -√ τ ) we can hedge a volatility swap. Note however that this first order approximation ignores the convexity correction.",
+      "text": "By dynamically trading variance swaps with notional 1 /( 2 I H -√ τ ) we can hedge a volatility swap. Note however that this first order approximation ignores the convexity correction."
+    },
+    {
+      "self_ref": "#/texts/174",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.23984000000002,
+            "t": 535.3744518,
+            "r": 293.160045454582,
+            "b": 525.6495813582858,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "5.2.3 Second order approximation",
+      "text": "5.2.3 Second order approximation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.23984000000002,
+            "t": 516.87168,
+            "r": 479.5189109097169,
+            "b": 506.90904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "A more accurate approximation can be derived by expanding up to order two. That is,",
+      "text": "A more accurate approximation can be derived by expanding up to order two. That is,"
+    },
+    {
+      "self_ref": "#/texts/176",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 189.36084000000002,
+            "t": 502.17310080000004,
+            "r": 498.50550982135843,
+            "b": 435.81462288,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "V 2 0 , T ( t ) T ≈ ( I H √ τ ) 2 + 1 2 ∂ 2 ( I H -√ τ ) 2 ∂ d 2 -∫ ∞ -∞ d 2 -N ′ ( d -) dd -= ( I H -√ τ ) 2 + 1 2 ∂ 2 ( I H -√ τ ) 2 ∂ d 2 -(5.26)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/177",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.24030400000004,
+            "t": 432.272,
+            "r": 498.22175750327847,
+            "b": 410.30936,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "This formula gives an intuitive interpretation of the convexity correction, namely as the convexity of the historical adjusted implied variance at the zero vanna strike:",
+      "text": "This formula gives an intuitive interpretation of the convexity correction, namely as the convexity of the historical adjusted implied variance at the zero vanna strike:"
+    },
+    {
+      "self_ref": "#/texts/178",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 181.08030400000004,
+            "t": 405.6931008,
+            "r": 498.5053098213584,
+            "b": 368.13462288000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "V 2 0 , T ( t ) T - V 2 0 , T ( t ) T ≈ V 2 0 , T ( t ) T - ( I H -√ τ ) 2 ≈ 1 2 ∂ 2 ( I H -√ τ ) 2 ∂ d 2 -(5.27)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/179",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 114.24010400000003,
+            "t": 361.71192,
+            "r": 261.1451111386711,
+            "b": 351.74928000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "To find the hedge ratio, note that",
+      "text": "To find the hedge ratio, note that"
+    },
+    {
+      "self_ref": "#/texts/180",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 158.16040400000003,
+            "t": 347.1333208000001,
+            "r": 498.50504582135835,
+            "b": 263.49462288000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "dV 2 0 , T ( t ) T -D (( I H -√ τ ) 2 ) = dV 2 0 , T ( t ) T -2 I H -√ τ D ( I H -√ τ ) - ( D ( I H -√ τ )) 2 ≈ 1 2 D ( ∂ 2 ( I H -√ τ ) 2 ∂ d 2 -) ≈ ∂ 2 ( I H -√ τ ) ∂ d 2 -D ( I H -√ τ ) + D (· · · ) (5.28)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/181",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.23983999999996,
+            "t": 265.1732008,
+            "r": 498.359122345833,
+            "b": 236.42924000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "As E ( dV 2 0 , T ( t ) T ) = 0 and E ( D ( I H -√ τ )) ≈ 0 the terms not involving dV 2 0 , T ( t ) T and D ( I H -√ τ ) will approximately cancel out. We are therefore left with",
+      "text": "As E ( dV 2 0 , T ( t ) T ) = 0 and E ( D ( I H -√ τ )) ≈ 0 the terms not involving dV 2 0 , T ( t ) T and D ( I H -√ τ ) will approximately cancel out. We are therefore left with"
+    },
+    {
+      "self_ref": "#/texts/182",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 195.60035999999997,
+            "t": 231.69287080000004,
+            "r": 498.50492582135837,
+            "b": 194.25454288000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "dV 2 0 , T ( t ) T -2 I H -√ τ D ( I H -√ τ ) ≈ ∂ 2 ( I H -√ τ ) ∂ d 2 -D ( I H -√ τ ) (5.29)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/183",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.23971999999998,
+            "t": 190.11208,
+            "r": 203.06463524568613,
+            "b": 180.14944000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Using (5.6) we arrive at",
+      "text": "Using (5.6) we arrive at"
+    },
+    {
+      "self_ref": "#/texts/184",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 220.43971999999997,
+            "t": 170.19180000000006,
+            "r": 498.5056378213584,
+            "b": 134.6273992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "d V 0 , T ( t ) ≈ 1 2 I H -√ τ + ∂ 2 ( I H -√ τ ) ∂ d 2 -dV 2 0 , T ( t ) (5.30)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/185",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 293.400432,
+            "t": 101.181825,
+            "r": 304.2549865,
+            "b": 90.27272500000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "11",
+      "text": "11"
+    },
+    {
+      "self_ref": "#/texts/186",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 99.2398,
+            "t": 661.28234,
+            "r": 174.5949680906114,
+            "b": 648.3564138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/187",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 99.2398,
+            "t": 636.8721800000001,
+            "r": 498.36731779808287,
+            "b": 615.02944,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "E. Alos, F. Rolloos, and K. Shiraya. On the difference between the volatility swap strike and the zero vanna implied volatility, 2019.",
+      "text": "Alos, F. Rolloos, and K. Shiraya. On the difference between the volatility swap strike and the zero vanna implied volatility, 2019.",
+      "enumerated": true,
+      "marker": "E."
+    },
+    {
+      "self_ref": "#/texts/188",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 99.23950000000002,
+            "t": 603.9920800000001,
+            "r": 498.3517059213875,
+            "b": 582.14934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "P. Carr and R. Lee. Robust replication of volatility derivatives, 2009. Working Paper, New York University.",
+      "text": "Carr and R. Lee. Robust replication of volatility derivatives, 2009. Working Paper, New York University.",
+      "enumerated": true,
+      "marker": "P."
+    },
+    {
+      "self_ref": "#/texts/189",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 99.24020000000002,
+            "t": 571.1119800000001,
+            "r": 498.2913426284362,
+            "b": 549.2692400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "D. B. Owen. A table of normal integrals. Communications in Statistics - Simulation and Computation , 1980.",
+      "text": "B. Owen. A table of normal integrals. Communications in Statistics - Simulation and Computation , 1980.",
+      "enumerated": true,
+      "marker": "D."
+    },
+    {
+      "self_ref": "#/texts/190",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 99.24090000000004,
+            "t": 538.2318800000002,
+            "r": 414.36010967224803,
+            "b": 528.2692400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "F. Rolloos and M. Arslan. Taylor-made volatility swaps. Wilmott , 2017.",
+      "text": "Rolloos and M. Arslan. Taylor-made volatility swaps. Wilmott , 2017.",
+      "enumerated": true,
+      "marker": "F."
+    },
+    {
+      "self_ref": "#/texts/191",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 293.40100000000007,
+            "t": 101.18172500000014,
+            "r": 304.2555545,
+            "b": 90.27262500000018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    },
+    {
+      "self_ref": "#/texts/192",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 99.2398,
+            "t": 661.28234,
+            "r": 347.9188017526871,
+            "b": 648.3564138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "A The Black-Merton-Scholes case",
+      "text": "A The Black-Merton-Scholes case",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/193",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 99.2398,
+            "t": 636.8721800000001,
+            "r": 498.4879145397231,
+            "b": 555.2692400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            564
+          ]
+        }
+      ],
+      "orig": "It is clear that equation (3.4) is the key to pricing (seasoned) volatility swaps. In general it cannot be solved analytically and although approximations are possible, we would like to limit the number of approximations made in the pricing. Numerical integration is therefore preferable to analytical approximations when evaluating (3.4). In this section we will demonstrate that when we limit ourselves to a Black-Scholes world with deterministic term structure an analytical solution can be obtained and we recover the exact price of a seasoned volatility swap.",
+      "text": "It is clear that equation (3.4) is the key to pricing (seasoned) volatility swaps. In general it cannot be solved analytically and although approximations are possible, we would like to limit the number of approximations made in the pricing. Numerical integration is therefore preferable to analytical approximations when evaluating (3.4). In this section we will demonstrate that when we limit ourselves to a Black-Scholes world with deterministic term structure an analytical solution can be obtained and we recover the exact price of a seasoned volatility swap."
+    },
+    {
+      "self_ref": "#/texts/194",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 99.2398,
+            "t": 550.3517800000002,
+            "r": 498.4478642840239,
+            "b": 528.5090400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "In what follows we will need to evaluate a double integral involving the normal probability density function and its cumulative distribution function. Let",
+      "text": "In what follows we will need to evaluate a double integral involving the normal probability density function and its cumulative distribution function. Let"
+    },
+    {
+      "self_ref": "#/texts/195",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 247.5598,
+            "t": 525.383114,
+            "r": 498.26513172571674,
+            "b": 488.6706656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "ϕ ( x ) = 1 √ 2 π exp { -1 2 x 2 } (A.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/196",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 247.19999999999993,
+            "t": 496.702994,
+            "r": 498.2652517257167,
+            "b": 459.9906656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Φ ( x ) = ∫ x -∞ ϕ ( y ) dy (A.2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/197",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 99.24011999999993,
+            "t": 457.47197,
+            "r": 316.22471475221397,
+            "b": 447.50933000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Then, for constants a and b , it can be shown that",
+      "text": "Then, for constants a and b , it can be shown that"
+    },
+    {
+      "self_ref": "#/texts/198",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 224.64002999999994,
+            "t": 444.38301400000006,
+            "r": 498.26505172571683,
+            "b": 407.1906756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "∫ ∞ -∞ Φ ( a + bx ) ϕ ( x ) dx = Φ ( a √ 1 + b 2 ) (A.3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/199",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 99.23992000000004,
+            "t": 402.6318699999999,
+            "r": 444.59906803118554,
+            "b": 392.6692299999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "For the above and other Gaussian integrals we refer the reader to Owen [1980].",
+      "text": "For the above and other Gaussian integrals we refer the reader to Owen [1980]."
+    },
+    {
+      "self_ref": "#/texts/200",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 99.23979000000003,
+            "t": 387.8716699999999,
+            "r": 498.3680998061122,
+            "b": 318.14882999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            495
+          ]
+        }
+      ],
+      "orig": "In a Black-Scholes world with deterministic term structure of volatility, the implied volatilities I and those of the adjusted process I H will not depend on the strike of the option. Instead of trying to solve (3.4) directly, we make the observation that the zero vanna implied volatility is equivalently characterized by the point where the price of a binary option is one-half (in the presence of a skew this is not the case anymore). Thus, for the option on the adjusted process we must have",
+      "text": "In a Black-Scholes world with deterministic term structure of volatility, the implied volatilities I and those of the adjusted process I H will not depend on the strike of the option. Instead of trying to solve (3.4) directly, we make the observation that the zero vanna implied volatility is equivalently characterized by the point where the price of a binary option is one-half (in the presence of a skew this is not the case anymore). Thus, for the option on the adjusted process we must have"
+    },
+    {
+      "self_ref": "#/texts/201",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 228.83979000000002,
+            "t": 314.542614,
+            "r": 498.2651317257168,
+            "b": 276.46739920000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "-( ∂ C ( S , K , I H ) ∂ K ) I H = I H -( t ) , K = K -= 1 2 (A.4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/202",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 99.24000000000001,
+            "t": 271.35182,
+            "r": 498.5412353520282,
+            "b": 249.38918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "Now we can differentiate the right-hand side of (3.4) and find the strike K and corresponding implied volatility I such that the integral is equal to one-half:",
+      "text": "Now we can differentiate the right-hand side of (3.4) and find the strike K and corresponding implied volatility I such that the integral is equal to one-half:"
+    },
+    {
+      "self_ref": "#/texts/203",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 223.92019999999997,
+            "t": 246.38291400000003,
+            "r": 498.26513172571686,
+            "b": 209.67058559999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "-∂ ∂ K ∫ ∞ 0 hC BS ( S , K / h , I ) q ( h ) dh = 1 2 (A.5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/204",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 99.24000000000007,
+            "t": 207.15192000000002,
+            "r": 267.84981993978334,
+            "b": 197.18928000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Introduce a new variable y = ln h , then",
+      "text": "Introduce a new variable y = ln h , then"
+    },
+    {
+      "self_ref": "#/texts/205",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 127.92100000000006,
+            "t": 193.7030239999999,
+            "r": 498.26453172571684,
+            "b": 153.9906856,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "-∂ ∂ K ∫ ∞ 0 hC BS ( S , K / h , I ) q ( h ) dh = ∫ ∞ -∞ Φ ( a + by ) 1 ν √ 2 π exp { -1 2 ( y -µ ν ) 2 } dy (A.6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/206",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 99.23940000000005,
+            "t": 152.43218000000002,
+            "r": 124.78280195627212,
+            "b": 142.46954000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/207",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 240.11940000000004,
+            "t": 144.0709064,
+            "r": 498.2651317257168,
+            "b": 117.26889168000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "a = ln S / K -1 2 I 2 τ I √ τ , b = 1 I √ τ (A.7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/208",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 293.4,
+            "t": 101.18154500000003,
+            "r": 304.2545544999999,
+            "b": 90.27244499999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "13",
+      "text": "13"
+    },
+    {
+      "self_ref": "#/texts/209",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 99.2398,
+            "t": 660.0763656,
+            "r": 327.6089178289377,
+            "b": 641.83526784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Define now the variable y ′ = ( y -µ )/ ν and we obtain",
+      "text": "Define now the variable y ′ = ( y -µ )/ ν and we obtain"
+    },
+    {
+      "self_ref": "#/texts/210",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 144.59987999999998,
+            "t": 644.662934,
+            "r": 498.26493172571674,
+            "b": 579.0304656000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "∫ ∞ -∞ Φ ( a + by ) 1 ν √ 2 π exp { -1 2 ( y -µ ν ) 2 } dy = ∫ ∞ -∞ Φ ( a + µb + νby ′ ) ϕ ( y ′ ) dy ′ = Φ ( a + µb √ 1 + ν 2 b 2 ) (A.8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/211",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 99.23979999999995,
+            "t": 573.27196,
+            "r": 498.37024941818737,
+            "b": 551.30932,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "where we have used (A.3). This immediately gives the strike where the vanna of the option on the adjusted process S H is zero:",
+      "text": "where we have used (A.3). This immediately gives the strike where the vanna of the option on the adjusted process S H is zero:"
+    },
+    {
+      "self_ref": "#/texts/212",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 226.9195899999999,
+            "t": 547.582994,
+            "r": 498.26545172571673,
+            "b": 510.8704756000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Φ ( a + µb √ 1 + ν 2 b 2 ) = 1 2 ⇐⇒ a = -µb (A.9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/213",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 99.24031999999994,
+            "t": 505.2708364,
+            "r": 285.08374358983275,
+            "b": 487.27530784000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Since µ = -1 2 c 2 τ , the above condition gives",
+      "text": "Since µ = -1 2 c 2 τ , the above condition gives"
+    },
+    {
+      "self_ref": "#/texts/214",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 252.00001,
+            "t": 483.3918999999999,
+            "r": 498.3852719492888,
+            "b": 459.67534784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "ln S / K - -1 2 I 2 τ = 1 2 c 2 τ (A.10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/215",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 99.24007999999998,
+            "t": 451.83191999999997,
+            "r": 450.32614011711553,
+            "b": 441.86928,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "which means that the zero vanna strike for the option on the adjusted process is",
+      "text": "which means that the zero vanna strike for the option on the adjusted process is"
+    },
+    {
+      "self_ref": "#/texts/216",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 252.60007999999996,
+            "t": 433.222814,
+            "r": 498.3851819492887,
+            "b": 396.51048560000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "ln S / K -= 1 2 ( c 2 + I 2 ) τ (A.11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/217",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 99.23998999999992,
+            "t": 400.85093100000006,
+            "r": 334.76483794699516,
+            "b": 382.8945628800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "The zero vanna adjusted implied volatility I H -satisfies",
+      "text": "The zero vanna adjusted implied volatility I H -satisfies"
+    },
+    {
+      "self_ref": "#/texts/218",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 261.1199079999999,
+            "t": 379.83200999999997,
+            "r": 498.38502994928876,
+            "b": 356.23498784000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "ln S / K -= 1 2 ( I H -) 2 τ (A.12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/219",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 270.23983799999996,
+            "t": 343.65316079999997,
+            "r": 498.3850319492888,
+            "b": 317.97437288000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "I H -= √ c 2 + I 2 (A.13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/220",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 99.23983799999996,
+            "t": 348.39191999999997,
+            "r": 130.43933529199003,
+            "b": 338.42928,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "and so,",
+      "text": "and so,"
+    },
+    {
+      "self_ref": "#/texts/221",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 99.23984000000002,
+            "t": 316.83198,
+            "r": 420.72075128000006,
+            "b": 306.86934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "In the Black-Scholes model with deterministic volatility term structure σ ,",
+      "text": "In the Black-Scholes model with deterministic volatility term structure σ ,"
+    },
+    {
+      "self_ref": "#/texts/222",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 225.48010000000005,
+            "t": 301.82291399999997,
+            "r": 498.38503194928876,
+            "b": 265.1105855999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "c 2 = 1 τ ∫ t 0 σ 2 du , I 2 = 1 τ ∫ T t σ 2 du (A.14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/223",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 199.79983999999996,
+            "t": 246.38295400000004,
+            "r": 498.3851119492887,
+            "b": 204.3905856,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "V 0 , T ( t ) ≈ I H -√ τ T = √ 1 T ∫ t 0 σ 2 du + 1 T ∫ T t σ 2 du (A.15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/224",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 99.23991999999993,
+            "t": 199.35207000000003,
+            "r": 441.11927124752725,
+            "b": 189.38943000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "but of course the approximate result is in fact exact in the Black-Scholes case.",
+      "text": "but of course the approximate result is in fact exact in the Black-Scholes case."
+    },
+    {
+      "self_ref": "#/texts/225",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 99.23991999999993,
+            "t": 184.35207000000003,
+            "r": 498.47739159260567,
+            "b": 138.5093300000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "We could have written down equation (A.15) without carrying out the previous calculations since in a Black-Scholes world there is no uncertainty about realized volatility. Nevertheless, the fact that we arrive at the result using our method which is applicable to general stochastic volatility models, shows that equation (4.8) is correct.",
+      "text": "We could have written down equation (A.15) without carrying out the previous calculations since in a Black-Scholes world there is no uncertainty about realized volatility. Nevertheless, the fact that we arrive at the result using our method which is applicable to general stochastic volatility models, shows that equation (4.8) is correct."
+    },
+    {
+      "self_ref": "#/texts/226",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 99.23983999999996,
+            "t": 261.1520599999999,
+            "r": 188.4844248510162,
+            "b": 251.18941999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "and so (4.8) gives us",
+      "text": "and so (4.8) gives us"
+    },
+    {
+      "self_ref": "#/texts/227",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 293.39982,
+            "t": 101.18181500000003,
+            "r": 304.2543744999999,
+            "b": 90.27271500000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "14",
+      "text": "14"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 12
+    },
+    "13": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 13
+    },
+    "14": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 14
+    }
+  }
+}

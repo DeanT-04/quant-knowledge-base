@@ -1,0 +1,5232 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2512.03298_adaptive_regime_switching_forecasts_with_distribut",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4422628152969126778,
+    "filename": "2512.03298_adaptive_regime_switching_forecasts_with_distribut.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/156"
+      },
+      {
+        "$ref": "#/texts/157"
+      },
+      {
+        "$ref": "#/texts/158"
+      },
+      {
+        "$ref": "#/texts/159"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_1_0_0",
+      "label": "unspecified"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/tables/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        },
+        {
+          "$ref": "#/texts/154"
+        },
+        {
+          "$ref": "#/texts/155"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_2_0_0",
+      "label": "unspecified"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 564.87,
+            "r": 36.206559297218156,
+            "b": 227.13,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "arXiv:2512.03298v2  [cs.LG]  5 Feb 2026",
+      "text": "arXiv:2512.03298v2  [cs.LG]  5 Feb 2026"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 130.903,
+            "t": 690.831626,
+            "r": 481.09866680000005,
+            "b": 635.5049814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "Adaptive Regime-Switching Forecasts with Distribution-Free Uncertainty: Deep Switching State-Space Models Meet Conformal Prediction",
+      "text": "Adaptive Regime-Switching Forecasts with Distribution-Free Uncertainty: Deep Switching State-Space Models Meet Conformal Prediction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.716,
+            "t": 590.216194,
+            "r": 253.96458200000006,
+            "b": 570.3667743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Echo Diyun LU University of Lorraine, CNRS",
+      "text": "Echo Diyun LU University of Lorraine, CNRS"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 147.21200000000002,
+            "t": 551.128194,
+            "r": 244.05843460000008,
+            "b": 531.2787743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 285.65700000000004,
+            "t": 590.216194,
+            "r": 357.34786959999985,
+            "b": 570.3667743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            37,
+            67
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 289.248,
+            "t": 551.128194,
+            "r": 346.5229873999999,
+            "b": 531.2787743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            68,
+            90
+          ]
+        }
+      ],
+      "orig": "Alessandro Leite INSA Rouen Normandy Charles Findling Pernod Ricard Wei Gong Pernod Ricard",
+      "text": "Alessandro Leite INSA Rouen Normandy Charles Findling Pernod Ricard Wei Gong Pernod Ricard"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 283.7579999999999,
+            "t": 500.412088,
+            "r": 328.2432991999999,
+            "b": 489.6643632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 143.86599999999993,
+            "t": 475.03665259999997,
+            "r": 468.1394501999998,
+            "b": 357.3947743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            786
+          ]
+        }
+      ],
+      "orig": "Regime transitions routinely break stationarity in time series, making calibrated uncertainty as important as point accuracy. We study distribution-free uncertainty for regime-switching forecasting by coupling Deep Switching State Space Models (DS 3 M) with Adaptive Conformal Inference (ACI) and its aggregated variant (AgACI). We also introduce a unified conformal wrapper that sits atop strong sequence baselines-including S4, MC-Dropout GRU, sparse Gaussian processes, and a change-point local model to produce online predictive bands with finite-sample marginal guarantees under non-stationarity and model misspecification. Across synthetic and real datasets, conformalized forecasters achieve near-nominal coverage with competitive accuracy and generally improved band efficiency.",
+      "text": "Regime transitions routinely break stationarity in time series, making calibrated uncertainty as important as point accuracy. We study distribution-free uncertainty for regime-switching forecasting by coupling Deep Switching State Space Models (DS 3 M) with Adaptive Conformal Inference (ACI) and its aggregated variant (AgACI). We also introduce a unified conformal wrapper that sits atop strong sequence baselines-including S4, MC-Dropout GRU, sparse Gaussian processes, and a change-point local model to produce online predictive bands with finite-sample marginal guarantees under non-stationarity and model misspecification. Across synthetic and real datasets, conformalized forecasters achieve near-nominal coverage with competitive accuracy and generally improved band efficiency."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 107.99999999999996,
+            "t": 334.33508800000004,
+            "r": 190.8136704,
+            "b": 323.5873632000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 107.99999999999996,
+            "t": 309.4576526000001,
+            "r": 504.00338739999944,
+            "b": 246.36077439292046,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            544
+          ]
+        }
+      ],
+      "orig": "Time-series forecasting often involves hidden regime switches, abrupt transitions between latent operating modes characterized by changes in level, trend, volatility, or seasonality. Such shifts induce distributional nonstationarity, making not only point prediction but especially uncertainty quantification (UQ) highly challenging. By UQ, we mean the construction of well-calibrated predictive intervals, rather than merely accurate mean forecasts, since reliable decisions depend on risk-aware intervals rather than single-value predictions.",
+      "text": "Time-series forecasting often involves hidden regime switches, abrupt transitions between latent operating modes characterized by changes in level, trend, volatility, or seasonality. Such shifts induce distributional nonstationarity, making not only point prediction but especially uncertainty quantification (UQ) highly challenging. By UQ, we mean the construction of well-calibrated predictive intervals, rather than merely accurate mean forecasts, since reliable decisions depend on risk-aware intervals rather than single-value predictions."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 107.99999999999996,
+            "t": 238.9121940000001,
+            "r": 504.0033873999998,
+            "b": 164.5177743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            649
+          ]
+        }
+      ],
+      "orig": "Why UQ under regime switching is difficult. When regimes change, predictive distributions can become severely miscalibrated: intervals may undercover or inflate excessively, even when point errors remain small. Classical UQ approaches fail to handle regime switches properly. For e.g., Gaussian processes with stationary kernels or Bayesian models with smooth priors implicitly assume differentiability or stationarity. These assumptions fail at regime boundaries, where the calibration typically fails. Thus, UQ in this setting requires methods that are both adaptive and robust to nonstationarity , capable of reacting online to structural shifts.",
+      "text": "Why UQ under regime switching is difficult. When regimes change, predictive distributions can become severely miscalibrated: intervals may undercover or inflate excessively, even when point errors remain small. Classical UQ approaches fail to handle regime switches properly. For e.g., Gaussian processes with stationary kernels or Bayesian models with smooth priors implicitly assume differentiability or stationarity. These assumptions fail at regime boundaries, where the calibration typically fails. Thus, UQ in this setting requires methods that are both adaptive and robust to nonstationarity , capable of reacting online to structural shifts."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 157.06919400000015,
+            "r": 504.0033873999996,
+            "b": 82.67477439292054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            674
+          ]
+        }
+      ],
+      "orig": "Our approach. We combine two complementary tools: (a) Deep Switching State-Space Model (DS 3 M) that explicitly incorporates a discrete regime variable to capture mode transitions while retaining continuous latent dynamics for within-regime forecasts Xu et al. [2021]; and (b) Adaptive Conformal Inference (ACI) and its aggregated variant (AgACI), which yield distribution-free predictive intervals by correcting miscoverage online in dependent time series Zaffran et al. [2022].This coupling achieves both explicit regime modeling and online calibration. In particular, DS 3 M provides regime-aware point forecasts, while ACI/AgACI ensures valid coverage guarantees despite",
+      "text": "Our approach. We combine two complementary tools: (a) Deep Switching State-Space Model (DS 3 M) that explicitly incorporates a discrete regime variable to capture mode transitions while retaining continuous latent dynamics for within-regime forecasts Xu et al. [2021]; and (b) Adaptive Conformal Inference (ACI) and its aggregated variant (AgACI), which yield distribution-free predictive intervals by correcting miscoverage online in dependent time series Zaffran et al. [2022].This coupling achieves both explicit regime modeling and online calibration. In particular, DS 3 M provides regime-aware point forecasts, while ACI/AgACI ensures valid coverage guarantees despite"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 389.04,
+            "t": 590.216194,
+            "r": 478.2849707999998,
+            "b": 570.3667743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Marianne Clausel University of Lorraine",
+      "text": "Marianne Clausel University of Lorraine"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 391.71299999999997,
+            "t": 551.128194,
+            "r": 464.7886709999999,
+            "b": 531.2787743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Pierric Kersaudy Pernod Ricard",
+      "text": "Pierric Kersaudy Pernod Ricard"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 62.88970080000013,
+            "r": 441.94972959999996,
+            "b": 53.13838450973469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT 2 S).",
+      "text": "NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT 2 S)."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 108.0,
+            "t": 716.5226526,
+            "r": 504.00338739999967,
+            "b": 675.2437743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            306
+          ]
+        }
+      ],
+      "orig": "temporal dependence and non-i.i.d. residuals. Whereas vanilla conformal prediction relies on exchangeability and fails under regime switches, adaptive updates combined with regime-aware residuals make the wrapper effective in streaming, nonstationary settings. In summary, our contributions are as follows:",
+      "text": "temporal dependence and non-i.i.d. residuals. Whereas vanilla conformal prediction relies on exchangeability and fails under regime switches, adaptive updates combined with regime-aware residuals make the wrapper effective in streaming, nonstationary settings. In summary, our contributions are as follows:"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999997,
+            "t": 667.796194,
+            "r": 504.0047149999995,
+            "b": 637.0367743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "· A new agnostic calibration protocol: We introduce a protocol-agnostic calibration layer for regime-switching forecasting by combining DS 3 Mwith adaptive conformal methods, yielding reliable, distribution-free prediction intervals.",
+      "text": "A new agnostic calibration protocol: We introduce a protocol-agnostic calibration layer for regime-switching forecasting by combining DS 3 Mwith adaptive conformal methods, yielding reliable, distribution-free prediction intervals.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999997,
+            "t": 635.0681940000001,
+            "r": 504.00378739999957,
+            "b": 604.3097743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "· A new conformal-based wrapper: We propose a consistent residual-based conformal wrapper applicable across strong baselines (S4 Gu et al. [2022a], MC-Dropout GRU, CPD Truong et al. [2020], and Sparse GP), ensuring fair comparisons.",
+      "text": "A new conformal-based wrapper: We propose a consistent residual-based conformal wrapper applicable across strong baselines (S4 Gu et al. [2022a], MC-Dropout GRU, CPD Truong et al. [2020], and Sparse GP), ensuring fair comparisons.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999997,
+            "t": 602.3411940000001,
+            "r": 504.00378739999957,
+            "b": 560.6737743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "· Empirical validation in different datasets: We conduct experiments on synthetic and real datasets exhibiting regime changes, reporting coverage at 90% and median interval width. Experimental results demonstrate that our approach produces well-calibrated adaptive intervals that respond to regime shifts without sacrificing point accuracy.",
+      "text": "Empirical validation in different datasets: We conduct experiments on synthetic and real datasets exhibiting regime changes, reporting coverage at 90% and median interval width. Experimental results demonstrate that our approach produces well-calibrated adaptive intervals that respond to regime shifts without sacrificing point accuracy.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999997,
+            "t": 542.5950880000001,
+            "r": 197.0901504,
+            "b": 531.8473632000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "2 Related Work",
+      "text": "2 Related Work",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 518.1071940000002,
+            "r": 504.0033873999998,
+            "b": 454.6217743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            580
+          ]
+        }
+      ],
+      "orig": "Regime-switching state-space models. Classical switching state-space models (SSMs), as well as recent deep variants such as DS 3 M, incorporate a discrete regime variable to capture transitions while maintaining continuous latent states for within-regime dynamics. Variational inference enables scaling to long sequences Gu et al. [2022b]. These models offer robust regime-aware forecasting capabilities; however, their uncertainty quantification often relies on Bayesian approximations, which can be computationally expensive and prone to miscalibration following abrupt changes.",
+      "text": "Regime-switching state-space models. Classical switching state-space models (SSMs), as well as recent deep variants such as DS 3 M, incorporate a discrete regime variable to capture transitions while maintaining continuous latent states for within-regime dynamics. Variational inference enables scaling to long sequences Gu et al. [2022b]. These models offer robust regime-aware forecasting capabilities; however, their uncertainty quantification often relies on Bayesian approximations, which can be computationally expensive and prone to miscalibration following abrupt changes."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 447.17319400000014,
+            "r": 504.0033873999997,
+            "b": 372.7787743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            598
+          ]
+        }
+      ],
+      "orig": "Distribution-free uncertainty for time series. Conformal Prediction (CP) offers distribution-free guarantees of marginal coverage under exchangeability. However, the i.i.d. assumption breaks in time-series settings. Adaptive Conformal Inference (ACI) addresses this by correcting online for temporal dependence and distributional shifts, while Aggregated ACI (AgACI) stabilizes updates by combining multiple experts Zaffran et al. [2022]. These methods yield valid coverage in streaming data, but they do not explicitly model regime structures, limiting their responsiveness to abrupt mode changes.",
+      "text": "Distribution-free uncertainty for time series. Conformal Prediction (CP) offers distribution-free guarantees of marginal coverage under exchangeability. However, the i.i.d. assumption breaks in time-series settings. Adaptive Conformal Inference (ACI) addresses this by correcting online for temporal dependence and distributional shifts, while Aggregated ACI (AgACI) stabilizes updates by combining multiple experts Zaffran et al. [2022]. These methods yield valid coverage in streaming data, but they do not explicitly model regime structures, limiting their responsiveness to abrupt mode changes."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 365.3301940000002,
+            "r": 504.00338739999967,
+            "b": 323.66277439292054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            351
+          ]
+        }
+      ],
+      "orig": "Long-context state-space sequence models. Recent structured state-space layers, such as S4, efficiently capture long-range dependencies and have become strong neural backbones for sequential modeling Gu et al. [2022a]. While highly effective for point forecasting, they do not inherently address the challenges of calibrated UQ under regime switching.",
+      "text": "Long-context state-space sequence models. Recent structured state-space layers, such as S4, efficiently capture long-range dependencies and have become strong neural backbones for sequential modeling Gu et al. [2022a]. While highly effective for point forecasting, they do not inherently address the challenges of calibrated UQ under regime switching."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 316.2141940000002,
+            "r": 504.00338739999967,
+            "b": 176.3647743929207,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1176
+          ]
+        }
+      ],
+      "orig": "Baselines for uncertainty. Several families of methods have been applied to uncertainty in nonstationary sequences. Change-point detection (CPD) explicitly segments data around structural breaks Truong et al. [2020], Bayesian deep nets such as MC-Dropout GRU Gal and Ghahramani [2016] provide scalable model-based uncertainty, and Gaussian processes (GPs) offer uncertainty quantification through kernels Li and Wang [2025]. Yet each faces limitations: GP methods are unscalable and unadaptive; Bayesian deep nets lack guaranteed coverage and miscover after switches; and UQ in deep switching models often inherits the limitations of approximate Bayesian inference. Positioning. Vanilla CP ensures distribution-free coverage but assumes exchangeability, which is violated under regime shifts. ACI relaxes this assumption through online calibration, while DS 3 M directly models discrete regime transitions. Our work combines these complementary perspectives: by embedding adaptive conformalization within a regime-switching model, we obtain calibrated, distribution-free intervals that remain reliable across regime changes while retaining competitive point forecast accuracy.",
+      "text": "Baselines for uncertainty. Several families of methods have been applied to uncertainty in nonstationary sequences. Change-point detection (CPD) explicitly segments data around structural breaks Truong et al. [2020], Bayesian deep nets such as MC-Dropout GRU Gal and Ghahramani [2016] provide scalable model-based uncertainty, and Gaussian processes (GPs) offer uncertainty quantification through kernels Li and Wang [2025]. Yet each faces limitations: GP methods are unscalable and unadaptive; Bayesian deep nets lack guaranteed coverage and miscover after switches; and UQ in deep switching models often inherits the limitations of approximate Bayesian inference. Positioning. Vanilla CP ensures distribution-free coverage but assumes exchangeability, which is violated under regime shifts. ACI relaxes this assumption through online calibration, while DS 3 M directly models discrete regime transitions. Our work combines these complementary perspectives: by embedding adaptive conformalization within a regime-switching model, we obtain calibrated, distribution-free intervals that remain reliable across regime changes while retaining competitive point forecast accuracy."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 158.28708800000027,
+            "r": 165.77948159999997,
+            "b": 147.53936320000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "3 Method",
+      "text": "3 Method",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 135.07994380000036,
+            "r": 504.0020464599997,
+            "b": 102.28052673256514,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            295
+          ]
+        }
+      ],
+      "orig": "DS 3 Mforecaster. Let y t denote the target series. DS 3 Mposits discrete regimes d t ∈ { 1 , . . . , K } (Markov), continuous states z t , and a learned history summary h t . Given observations up to t , we form a one-step mean prediction ˆ y t and define residual scores s t = | y t -ˆ y t | .",
+      "text": "DS 3 Mforecaster. Let y t denote the target series. DS 3 Mposits discrete regimes d t ∈ { 1 , . . . , K } (Markov), continuous states z t , and a learned history summary h t . Given observations up to t , we form a one-step mean prediction ˆ y t and define residual scores s t = | y t -ˆ y t | ."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.5089999999999,
+            "t": 48.59765260000029,
+            "r": 308.4902999999999,
+            "b": 40.045774392920634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999999,
+            "t": 716.911194,
+            "r": 503.99991028,
+            "b": 684.1957743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "Adaptive Conformal Inference (ACI). Given a calibration buffer, ACI produces intervals ̂ C t = [ˆ y t ± ̂ Q 1 -α t ] , where ̂ Q is the empirical quantile of past scores. The miscoverage level is updated online:",
+      "text": "Adaptive Conformal Inference (ACI). Given a calibration buffer, ACI produces intervals ̂ C t = [ˆ y t ± ̂ Q 1 -α t ] , where ̂ Q is the empirical quantile of past scores. The miscoverage level is updated online:"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 234.589,
+            "t": 685.165504,
+            "r": 377.41161027999993,
+            "b": 670.24944,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "α t +1 = α t + γ ( α -1 { y t / ∈ ̂ C t } ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 665.0464558000001,
+            "r": 470.1883304799996,
+            "b": 656.1757743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "with nominal α = 0 . 1 and learning rate γ > 0 . The pseudo-code is described in Section D.",
+      "text": "with nominal α = 0 . 1 and learning rate γ > 0 . The pseudo-code is described in Section D."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 642.8261940000001,
+            "r": 504.00338739999927,
+            "b": 612.0677743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "Aggregated ACI (AgACI). Wemaintain a small set of ACI experts with different γ values and aggregate their quantiles (e.g., via fixed or exponentially weighted averaging). This reduces sensitivity to the choice of γ .",
+      "text": "Aggregated ACI (AgACI). Wemaintain a small set of ACI experts with different γ values and aggregate their quantiles (e.g., via fixed or exponentially weighted averaging). This reduces sensitivity to the choice of γ ."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 598.7181940000002,
+            "r": 250.13641420000008,
+            "b": 589.7618166000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Unified CP wrapper for baselines.",
+      "text": "Unified CP wrapper for baselines."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 260.09901420000006,
+            "t": 598.3296526000001,
+            "r": 504.00338739999944,
+            "b": 589.7777743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Weapply the same residual-based CP layer to each forecaster:",
+      "text": "Weapply the same residual-based CP layer to each forecaster:"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 587.8091940000002,
+            "r": 504.0037873999992,
+            "b": 567.9597743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "· S4 (S4D backbone): encoder → S4D blocks → decoder; long-range modeling with residual CP.",
+      "text": "S4 (S4D backbone): encoder → S4D blocks → decoder; long-range modeling with residual CP.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 565.9911940000002,
+            "r": 504.0037873999995,
+            "b": 546.1417743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "· CPD: online change-point detection segments the stream; within the last segment, we fit a light GRU forecaster.",
+      "text": "· CPD: online change-point detection segments the stream; within the last segment, we fit a light GRU forecaster."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 544.1731940000002,
+            "r": 504.0037873999995,
+            "b": 524.3237743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "· MC-Dropout GRU: GRU with dropout kept at test time (posterior samples are not used for coverage); CP uses absolute residuals of the predictive mean.",
+      "text": "· MC-Dropout GRU: GRU with dropout kept at test time (posterior samples are not used for coverage); CP uses absolute residuals of the predictive mean."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 522.3551940000002,
+            "r": 504.0037873999995,
+            "b": 502.50577439292056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "· Sparse GP: inducing points (GPyTorch); we use the posterior mean for residuals; CP bands provide distribution-free coverage.",
+      "text": "· Sparse GP: inducing points (GPyTorch); we use the posterior mean for residuals; CP bands provide distribution-free coverage."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 474.3410880000002,
+            "r": 227.8867456,
+            "b": 463.5933632000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "4 Experimental Setup",
+      "text": "4 Experimental Setup",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 450.6771940000002,
+            "r": 504.0033873999995,
+            "b": 409.00877439292054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            318
+          ]
+        }
+      ],
+      "orig": "Datasets. Our evaluation harnesses both synthetic and real-world datasets. Synthetic components include the toy autoregressive process endowed with articulated breaks and Lorenz-driven perturbations. Real-world configurations include Sleep Apnea (2Hz), US Unemployment (monthly). Please see Section C for more details.",
+      "text": "Datasets. Our evaluation harnesses both synthetic and real-world datasets. Synthetic components include the toy autoregressive process endowed with articulated breaks and Lorenz-driven perturbations. Real-world configurations include Sleep Apnea (2Hz), US Unemployment (monthly). Please see Section C for more details."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 401.5611940000002,
+            "r": 504.0033873999995,
+            "b": 348.98377439292057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            431
+          ]
+        }
+      ],
+      "orig": "Protocol. The protocol executes one-step rolling forecasts across held-out test windows, with iterative multi-step configurations permitted when meaningful. We standardize each target series using a standard scaler derived from the training split and invert transformations post-prediction. Lag length L is preselected as a hyperparameter, with defaults set at 48 for sub-hourly data and incrementally smaller for monthly horizons.",
+      "text": "Protocol. The protocol executes one-step rolling forecasts across held-out test windows, with iterative multi-step configurations permitted when meaningful. We standardize each target series using a standard scaler derived from the training split and invert transformations post-prediction. Lag length L is preselected as a hyperparameter, with defaults set at 48 for sub-hourly data and incrementally smaller for monthly horizons."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 341.53619400000025,
+            "r": 504.0033873999997,
+            "b": 288.1995267325651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            415
+          ]
+        }
+      ],
+      "orig": "Conformal settings. Conformal scenarios examined here operate at a nominal confidence level of 1 -α = 0 . 9 . ACI employs factors γ ∈ { 10 -4 , 10 -3 , 10 -2 } ; the AgACI approach aggregates diverse estimators to eliminate the need for manual parameter tuning. Calibration relies on the latest non-overlapping, autoregressive window that concludes prior to the target instance. CP intervals are centered on ˆ y t .",
+      "text": "Conformal settings. Conformal scenarios examined here operate at a nominal confidence level of 1 -α = 0 . 9 . ACI employs factors γ ∈ { 10 -4 , 10 -3 , 10 -2 } ; the AgACI approach aggregates diverse estimators to eliminate the need for manual parameter tuning. Calibration relies on the latest non-overlapping, autoregressive window that concludes prior to the target instance. CP intervals are centered on ˆ y t ."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 108.0,
+            "t": 281.5111940000003,
+            "r": 504.00338739999967,
+            "b": 250.75277439292063,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            258
+          ]
+        }
+      ],
+      "orig": "Metrics. Performance is quantified using root-mean-square error (RMSE) across the held-out window, along with empirical Coverage@90% (fraction in band) and the median interval width. We monitor the incidence of degenerate or infinite bands(rare in our runs).",
+      "text": "Metrics. Performance is quantified using root-mean-square error (RMSE) across the held-out window, along with empirical Coverage@90% (fraction in band) and the median interval width. We monitor the incidence of degenerate or infinite bands(rare in our runs)."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 108.0,
+            "t": 244.58594380000034,
+            "r": 504.0033873999996,
+            "b": 179.81877439292066,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            511
+          ]
+        }
+      ],
+      "orig": "Training details. Training regimes differ by model family. For parametric architectures (DS 3 M, S4, GRU), we adopt Adam optimizers, micro-batch training across lagged sequences, and impose an early stopping criterion based on validation RMSE; mixed-precision arithmetic is engaged wherever the hardware supports it. Sparse Gaussian Processes are discipled via a variational evidence lower bound, permitting learnable inducing point locations and subject to identical early stopping criteria on validation RMSE.",
+      "text": "Training details. Training regimes differ by model family. For parametric architectures (DS 3 M, S4, GRU), we adopt Adam optimizers, micro-batch training across lagged sequences, and impose an early stopping criterion based on validation RMSE; mixed-precision arithmetic is engaged wherever the hardware supports it. Sparse Gaussian Processes are discipled via a variational evidence lower bound, permitting learnable inducing point locations and subject to identical early stopping criteria on validation RMSE."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 108.0,
+            "t": 162.5640880000003,
+            "r": 163.1254272,
+            "b": 151.8163632000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "5 Results",
+      "text": "5 Results",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 108.0,
+            "t": 138.5106526000004,
+            "r": 504.0033873999997,
+            "b": 97.23177439292067,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            327
+          ]
+        }
+      ],
+      "orig": "As shown in Figure 1: the orange bands of adaptive conformal inference are distribution-free and adapt online. When the gray MC band is too wide or too narrow, the conformal band corrects for miscalibration. Dataset-to-dataset differences show how regime complexity and periodicity shape both residuals and interval efficiency.",
+      "text": "As shown in Figure 1: the orange bands of adaptive conformal inference are distribution-free and adapt online. When the gray MC band is too wide or too narrow, the conformal band corrects for miscalibration. Dataset-to-dataset differences show how regime complexity and periodicity shape both residuals and interval efficiency."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 108.0,
+            "t": 89.39465260000031,
+            "r": 504.0043297999996,
+            "b": 69.93377439292067,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 107.99999999999999,
+            "t": 466.16810540000006,
+            "r": 504.0037677999996,
+            "b": 422.9967743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            196,
+            553
+          ]
+        }
+      ],
+      "orig": "Conformalization preserves all models relatively close to the 90% target across datasets, but the regime also DS 3 Mwith AgACI achieves the best calibration overall-giving the highest coverage on Lorenz, Unemployment, and Sleep datasets. For efficiency, DS 3 M generates the narrowest bands for large-scale Sleep series, and the S4 backbone has the lowest interval on the Lorenz dataset. In summary, DS 3 M combined with AgACI yields strong calibration on the harder, regime-heavy set, while S4 does best interval-wise on the smoother, low-noise string.",
+      "text": "Conformalization preserves all models relatively close to the 90% target across datasets, but the regime also DS 3 Mwith AgACI achieves the best calibration overall-giving the highest coverage on Lorenz, Unemployment, and Sleep datasets. For efficiency, DS 3 M generates the narrowest bands for large-scale Sleep series, and the S4 backbone has the lowest interval on the Lorenz dataset. In summary, DS 3 M combined with AgACI yields strong calibration on the harder, regime-heavy set, while S4 does best interval-wise on the smoother, low-noise string."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.509,
+            "t": 48.59765260000029,
+            "r": 308.4903,
+            "b": 40.045774392920634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 107.99999999999999,
+            "t": 529.8281054,
+            "r": 504.00338739999955,
+            "b": 486.65577439292036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            302
+          ]
+        }
+      ],
+      "orig": "Figure 1: Prediction vs. truth with ACI intervals. Black: observed series; Blue: DS 3 M mean; Grey: DS 3 M native MC interval; Orange: ACI band. Coverage near 0 . 90 indicates successful calibration; narrower orange bands at similar coverage indicate more efficient uncertainty than the native MC band.",
+      "text": "Figure 1: Prediction vs. truth with ACI intervals. Black: observed series; Blue: DS 3 M mean; Grey: DS 3 M native MC interval; Orange: ACI band. Coverage near 0 . 90 indicates successful calibration; narrower orange bands at similar coverage indicate more efficient uncertainty than the native MC band."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 157.508,
+            "t": 637.6081264,
+            "r": 211.82645120000007,
+            "b": 629.9113845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "(a) Lorenz: DS",
+      "text": "(a) Lorenz: DS"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 211.82600000000002,
+            "t": 639.6627007999999,
+            "r": 215.47891136,
+            "b": 634.4387262893371,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 215.97700000000003,
+            "t": 637.6081264,
+            "r": 248.56986400000005,
+            "b": 629.9113845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "M+ACI",
+      "text": "M+ACI"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 369.056,
+            "t": 637.6081264,
+            "r": 412.12161919999994,
+            "b": 629.9113845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "(b) Toy: DS",
+      "text": "(b) Toy: DS"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 412.12199999999996,
+            "t": 639.6627007999999,
+            "r": 415.77491136,
+            "b": 634.4387262893371,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 416.27299999999997,
+            "t": 637.6081264,
+            "r": 448.865864,
+            "b": 629.9113845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "M+ACI",
+      "text": "M+ACI"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 142.355,
+            "t": 545.3591264,
+            "r": 226.97988320000007,
+            "b": 537.6623845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "(c) Unemployment: DS",
+      "text": "(c) Unemployment: DS"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.97899999999998,
+            "t": 547.4137008,
+            "r": 230.63191135999998,
+            "b": 542.1897262893372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 231.13,
+            "t": 545.3591264,
+            "r": 263.722864,
+            "b": 537.6623845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "M+ACI",
+      "text": "M+ACI"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 365.914,
+            "t": 545.3591264,
+            "r": 415.2650655999999,
+            "b": 537.6623845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "(d) Sleep: DS",
+      "text": "(d) Sleep: DS"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 415.264,
+            "t": 547.4137008,
+            "r": 418.91691136000003,
+            "b": 542.1897262893372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 419.415,
+            "t": 545.3591264,
+            "r": 452.00786400000004,
+            "b": 537.6623845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "M+ACI",
+      "text": "M+ACI"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 138.828,
+            "t": 412.90665260000003,
+            "r": 473.1728559999997,
+            "b": 404.3547743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "Table 1: Comparison of Coverage and Median Interval Length on different datasets.",
+      "text": "Table 1: Comparison of Coverage and Median Interval Length on different datasets."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 206.614,
+            "t": 398.64981600000004,
+            "r": 269.0560096000001,
+            "b": 390.58902240000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Coverage@90%",
+      "text": "Coverage@90%"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 358.8007072000001,
+            "t": 398.64981600000004,
+            "r": 450.7780383999999,
+            "b": 390.58902240000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Median Interval Length",
+      "text": "Median Interval Length"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 111.199,
+            "t": 382.99381600000004,
+            "r": 143.56770400000002,
+            "b": 374.9330224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Datasets",
+      "text": "Datasets"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 174.62731360000004,
+            "t": 382.99381600000004,
+            "r": 193.05326560000003,
+            "b": 374.9330224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "CPD",
+      "text": "CPD"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 206.74495840000003,
+            "t": 382.99381600000004,
+            "r": 246.59164,
+            "b": 374.9330224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "GP MCD",
+      "text": "GP MCD"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 263.2781104,
+            "t": 382.99381600000004,
+            "r": 272.7466288,
+            "b": 374.9330224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "S4",
+      "text": "S4"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 278.7182512,
+            "t": 382.99381600000004,
+            "r": 290.17731039999995,
+            "b": 374.9330224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "DS",
+      "text": "DS"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 290.179,
+            "t": 384.69870080000004,
+            "r": 293.83191136,
+            "b": 379.47472628933724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 294.33,
+            "t": 382.99381600000004,
+            "r": 302.7942816,
+            "b": 374.9330224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "M",
+      "text": "M"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.97291839999997,
+            "t": 382.99381600000004,
+            "r": 342.3988703999999,
+            "b": 374.9330224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "CPD",
+      "text": "CPD"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 369.54016319999994,
+            "t": 382.99381600000004,
+            "r": 381.99449279999993,
+            "b": 374.9330224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "GP",
+      "text": "GP"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 400.1873183999999,
+            "t": 382.99381600000004,
+            "r": 421.59908159999986,
+            "b": 374.9330224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "MCD",
+      "text": "MCD"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 451.73515199999986,
+            "t": 382.99381600000004,
+            "r": 461.20367039999985,
+            "b": 374.9330224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "S4",
+      "text": "S4"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 476.72450879999985,
+            "t": 382.99381600000004,
+            "r": 488.1835679999998,
+            "b": 374.9330224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "DS",
+      "text": "DS"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 488.186,
+            "t": 384.69870080000004,
+            "r": 491.83891136,
+            "b": 379.47472628933724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 492.337,
+            "t": 382.99381600000004,
+            "r": 500.8012816,
+            "b": 374.9330224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "M",
+      "text": "M"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 111.199,
+            "t": 367.4761264,
+            "r": 136.59184480000002,
+            "b": 359.77938450973454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Lorenz",
+      "text": "Lorenz"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 172.8788656,
+            "t": 367.4761264,
+            "r": 193.05326560000006,
+            "b": 359.77938450973454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.863",
+      "text": "0.863"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 199.02488800000006,
+            "t": 367.4761264,
+            "r": 219.1992880000001,
+            "b": 359.77938450973454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.893",
+      "text": "0.893"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.4172400000001,
+            "t": 367.4761264,
+            "r": 246.59164000000015,
+            "b": 359.77938450973454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.909",
+      "text": "0.909"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 252.57222880000015,
+            "t": 367.4761264,
+            "r": 272.74662880000017,
+            "b": 359.77938450973454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.904",
+      "text": "0.904"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 282.61863520000014,
+            "t": 367.82581600000003,
+            "r": 302.7930352000002,
+            "b": 359.7650224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.910",
+      "text": "0.910"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 322.2232240000002,
+            "t": 367.4761264,
+            "r": 342.39762400000023,
+            "b": 359.77938450973454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.199",
+      "text": "0.199"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 361.8188464000002,
+            "t": 367.4761264,
+            "r": 381.99324640000026,
+            "b": 359.77938450973454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.107",
+      "text": "0.107"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 401.42343520000026,
+            "t": 367.4761264,
+            "r": 421.5978352000003,
+            "b": 359.77938450973454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.122",
+      "text": "0.122"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 441.0280240000003,
+            "t": 367.4761264,
+            "r": 461.20242400000035,
+            "b": 359.77938450973454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.032",
+      "text": "0.032"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 480.6236464000003,
+            "t": 367.82581600000003,
+            "r": 500.7980464000004,
+            "b": 359.7650224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.127",
+      "text": "0.127"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 111.199,
+            "t": 357.5131264,
+            "r": 166.89827680000002,
+            "b": 349.8163845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Unemployment",
+      "text": "Unemployment"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 172.8788656,
+            "t": 357.5131264,
+            "r": 193.05326560000006,
+            "b": 349.8163845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.858",
+      "text": "0.858"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 199.02488800000006,
+            "t": 357.5131264,
+            "r": 219.1992880000001,
+            "b": 349.8163845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.888",
+      "text": "0.888"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.4172400000001,
+            "t": 357.5131264,
+            "r": 246.59164000000015,
+            "b": 349.8163845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.846",
+      "text": "0.846"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 252.57222880000015,
+            "t": 357.5131264,
+            "r": 272.74662880000017,
+            "b": 349.8163845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.862",
+      "text": "0.862"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 282.61863520000014,
+            "t": 357.862816,
+            "r": 302.7930352000002,
+            "b": 349.8020224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.893",
+      "text": "0.893"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.7400240000002,
+            "t": 357.5131264,
+            "r": 342.39762400000023,
+            "b": 349.8163845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "23.860",
+      "text": "23.860"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 361.8188464000002,
+            "t": 357.5131264,
+            "r": 381.99324640000026,
+            "b": 349.8163845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "2.196",
+      "text": "2.196"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 401.42343520000026,
+            "t": 357.5131264,
+            "r": 421.5978352000003,
+            "b": 349.8163845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.570",
+      "text": "0.570"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 441.0280240000003,
+            "t": 357.5131264,
+            "r": 461.20242400000035,
+            "b": 349.8163845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.558",
+      "text": "0.558"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 480.6236464000003,
+            "t": 357.862816,
+            "r": 500.7980464000004,
+            "b": 349.8020224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.728",
+      "text": "0.728"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 111.199,
+            "t": 347.5511264,
+            "r": 131.1223408,
+            "b": 339.85438450973453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Sleep",
+      "text": "Sleep"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 172.87886559999998,
+            "t": 347.5511264,
+            "r": 193.05326560000003,
+            "b": 339.85438450973453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.901",
+      "text": "0.901"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 199.02488800000003,
+            "t": 347.5511264,
+            "r": 219.19928800000008,
+            "b": 339.85438450973453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.898",
+      "text": "0.898"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.41724000000008,
+            "t": 347.5511264,
+            "r": 246.59164000000013,
+            "b": 339.85438450973453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.901",
+      "text": "0.901"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 252.57222880000012,
+            "t": 347.5511264,
+            "r": 272.74662880000017,
+            "b": 339.85438450973453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.900",
+      "text": "0.900"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 282.61863520000014,
+            "t": 347.900816,
+            "r": 302.7930352000002,
+            "b": 339.8400224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.904",
+      "text": "0.904"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.7736240000002,
+            "t": 347.5511264,
+            "r": 342.3976240000003,
+            "b": 339.85438450973453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "4041.667",
+      "text": "4041.667"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 348.3692464000003,
+            "t": 347.5511264,
+            "r": 381.9932464000004,
+            "b": 339.85438450973453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "3915.016",
+      "text": "3915.016"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 387.9738352000004,
+            "t": 347.5511264,
+            "r": 421.5978352000005,
+            "b": 339.85438450973453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "3717.248",
+      "text": "3717.248"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 427.5784240000005,
+            "t": 347.5511264,
+            "r": 461.2024240000006,
+            "b": 339.85438450973453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "4297.769",
+      "text": "4297.769"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 467.1740464000006,
+            "t": 347.900816,
+            "r": 500.79804640000066,
+            "b": 339.8400224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "3507.418",
+      "text": "3507.418"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.0,
+            "t": 315.61308799999995,
+            "r": 290.55590399999994,
+            "b": 304.8653632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "6 Discussion and Future Direction",
+      "text": "6 Discussion and Future Direction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.0,
+            "t": 291.23765259999993,
+            "r": 504.00338739999967,
+            "b": 184.50377439292038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            954
+          ]
+        }
+      ],
+      "orig": "A central finding is that adaptive conformal wrappers provide reliable, distribution-free uncertainty estimates that are largely independent of the underlying forecasting architecture. For S4, GRU, and SVGP, conformalization aligns coverage with targets while maintaining accuracy and interval efficiency, making it a practical calibration layer in the presence of distribution shift. DS 3 M's regimeaware structure aids interpretability and point prediction, yet its native uncertainty can be fragile under sharp transitions and heavy-tailed residuals; residual-based conformalization corrects coverage but may still inherit scale sensitivity in challenging regimes. Overall, calibrating via residual scores with online adaptation offers a low-friction path to trustworthy intervals without retraining, complementing both classical and deep modeling approaches and aligning with the broader goal of robust, foundation-model-ready time-series evaluation.",
+      "text": "A central finding is that adaptive conformal wrappers provide reliable, distribution-free uncertainty estimates that are largely independent of the underlying forecasting architecture. For S4, GRU, and SVGP, conformalization aligns coverage with targets while maintaining accuracy and interval efficiency, making it a practical calibration layer in the presence of distribution shift. DS 3 M's regimeaware structure aids interpretability and point prediction, yet its native uncertainty can be fragile under sharp transitions and heavy-tailed residuals; residual-based conformalization corrects coverage but may still inherit scale sensitivity in challenging regimes. Overall, calibrating via residual scores with online adaptation offers a low-friction path to trustworthy intervals without retraining, complementing both classical and deep modeling approaches and aligning with the broader goal of robust, foundation-model-ready time-series evaluation."
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.0,
+            "t": 176.6676526,
+            "r": 504.00338739999967,
+            "b": 69.93377439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            932
+          ]
+        }
+      ],
+      "orig": "The coverage guarantees offered here are marginal rather than conditional, meaning that they do not hold within specific regimes or covariate groups, which may be important for high-stakes applications. Using absolute residuals yields symmetric bands, which can be inefficient under skewed or heteroskedastic noise, and the calibration buffer introduces a short delay before intervals adapt after sudden shifts. Comparing median widths across datasets of very different scales can also distort efficiency assessments, sometimes exaggerating interval size for scale-sensitive models. Finally, our evaluation focuses on one-step predictions and does not fully examine the quality of native probabilistic forecasts or decision-oriented performance under asymmetric costs. Future work will explore regime-aware conformal methods that explicitly condition on inferred regimes to improve coverage within each regime and tighten intervals.",
+      "text": "The coverage guarantees offered here are marginal rather than conditional, meaning that they do not hold within specific regimes or covariate groups, which may be important for high-stakes applications. Using absolute residuals yields symmetric bands, which can be inefficient under skewed or heteroskedastic noise, and the calibration buffer introduces a short delay before intervals adapt after sudden shifts. Comparing median widths across datasets of very different scales can also distort efficiency assessments, sometimes exaggerating interval size for scale-sensitive models. Finally, our evaluation focuses on one-step predictions and does not fully examine the quality of native probabilistic forecasts or decision-oriented performance under asymmetric costs. Future work will explore regime-aware conformal methods that explicitly condition on inferred regimes to improve coverage within each regime and tighten intervals."
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.509,
+            "t": 48.59765260000006,
+            "r": 308.4903,
+            "b": 40.04577439292041,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.0,
+            "t": 718.2860880000001,
+            "r": 201.52552960000003,
+            "b": 707.5383632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Acknowledgments",
+      "text": "Acknowledgments",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.0,
+            "t": 694.0726526,
+            "r": 504.0033873999998,
+            "b": 674.6117743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "This research was partially funded by the French National Research Agency (ANR) under Grants No. 23-PEIA-004 and No. ANR-23-CPJ1-0099-01.",
+      "text": "This research was partially funded by the French National Research Agency (ANR) under Grants No. 23-PEIA-004 and No. ANR-23-CPJ1-0099-01."
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.0,
+            "t": 657.196088,
+            "r": 163.54385920000007,
+            "b": 646.4483632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.0,
+            "t": 638.4616526,
+            "r": 504.0037873999992,
+            "b": 608.0917743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            244
+          ]
+        }
+      ],
+      "orig": "Y. Gal and Z. Ghahramani. Dropout as a bayesian approximation: Representing model uncertainty in deep learning. In M. F. Balcan and K. Q. Weinberger, editors, 33rd International Conference on Machine Learning , volume 48, pages 1050-1059, 2016.",
+      "text": "Gal and Z. Ghahramani. Dropout as a bayesian approximation: Representing model uncertainty in deep learning. In M. F. Balcan and K. Q. Weinberger, editors, 33rd International Conference on Machine Learning , volume 48, pages 1050-1059, 2016.",
+      "enumerated": true,
+      "marker": "Y."
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.0,
+            "t": 599.2376526,
+            "r": 504.00338739999916,
+            "b": 579.7767743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "A. Gu, K. Goel, and C. Re. Efficiently modeling long sequences with structured state spaces. In International Conference on Learning Representations , 2022a.",
+      "text": "Gu, K. Goel, and C. Re. Efficiently modeling long sequences with structured state spaces. In International Conference on Learning Representations , 2022a.",
+      "enumerated": true,
+      "marker": "A."
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.0,
+            "t": 570.9226526000001,
+            "r": 504.0037873999994,
+            "b": 540.5527743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "A. Gu, A. Gupta, K. Goel, and C. Ré. On the parameterization and initialization of diagonal state space models. In 36th International Conference on Neural Information Processing Systems , 2022b.",
+      "text": "Gu, A. Gupta, K. Goel, and C. Ré. On the parameterization and initialization of diagonal state space models. In 36th International Conference on Neural Information Processing Systems , 2022b.",
+      "enumerated": true,
+      "marker": "A."
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.0,
+            "t": 531.6986526000002,
+            "r": 504.0033873999992,
+            "b": 512.2377743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "J. Li and H. Wang. Gaussian processes regression for uncertainty quantification: An introductory tutorial. arXiv:2502.03090 , 2025.",
+      "text": "Li and H. Wang. Gaussian processes regression for uncertainty quantification: An introductory tutorial. arXiv:2502.03090 , 2025.",
+      "enumerated": true,
+      "marker": "J."
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.0,
+            "t": 503.3836526000002,
+            "r": 504.00338739999944,
+            "b": 483.92277439292053,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "C. Truong, L. Oudre, and N. Vayatis. Selective review of offline change point detection methods. Signal Processing , 167:107299, 2020.",
+      "text": "Truong, L. Oudre, and N. Vayatis. Selective review of offline change point detection methods. Signal Processing , 167:107299, 2020.",
+      "enumerated": true,
+      "marker": "C."
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.0,
+            "t": 476.9611054000002,
+            "r": 504.0024657999998,
+            "b": 455.60777439292053,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "X. Xu, H. Peng, and Y. Chen. Deep Switching State Space Model (DS 3 M) for Nonlinear Time Series Forecasting with Regime Switching. arXiv:2106.02329 , 2021.",
+      "text": "Xu, H. Peng, and Y. Chen. Deep Switching State Space Model (DS 3 M) for Nonlinear Time Series Forecasting with Regime Switching. arXiv:2106.02329 , 2021.",
+      "enumerated": true,
+      "marker": "X."
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000003,
+            "t": 446.7536526000002,
+            "r": 504.0037873999997,
+            "b": 416.38377439292054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            277
+          ]
+        }
+      ],
+      "orig": "M. Zaffran, O. Féron, Y. Goude, J. Josse, and A. Dieuleveut. Adaptive conformal predictions for time series. In K. Chaudhuri, S. Jegelka, L. Song, C. Szepesvári, G. Niu, and S. Sabato, editors, International Conference on Machine Learning , volume 162, pages 25834-25866, 2022.",
+      "text": "Zaffran, O. Féron, Y. Goude, J. Josse, and A. Dieuleveut. Adaptive conformal predictions for time series. In K. Chaudhuri, S. Jegelka, L. Song, C. Szepesvári, G. Niu, and S. Sabato, editors, International Conference on Machine Learning , volume 162, pages 25834-25866, 2022.",
+      "enumerated": true,
+      "marker": "M."
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000003,
+            "t": 395.8280880000002,
+            "r": 279.4734336000001,
+            "b": 385.08036320000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "A Conformal Prediction Primer",
+      "text": "A Conformal Prediction Primer",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000003,
+            "t": 371.6146526000002,
+            "r": 504.00338739999944,
+            "b": 340.48552673256506,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            260
+          ]
+        }
+      ],
+      "orig": "Conformal prediction (CP) turns any point forecaster into a distribution-free interval predictor with finite-sample marginal coverage. Given a forecaster producing one-step means ˆ y t and residual scores s t = | y t -ˆ y t | , a split-CP interval at time t is",
+      "text": "Conformal prediction (CP) turns any point forecaster into a distribution-free interval predictor with finite-sample marginal coverage. Given a forecaster producing one-step means ˆ y t and residual scores s t = | y t -ˆ y t | , a split-CP interval at time t is"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 266.3490000000001,
+            "t": 335.2885040000003,
+            "r": 345.6506102800001,
+            "b": 323.36044000000027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "̂ C t = [ ˆ y t ± ̂ Q 1 -α ] ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000006,
+            "t": 316.1364558000003,
+            "r": 504.0050209799995,
+            "b": 283.1567743929206,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "where ̂ Q 1 -α is the empirical (1 -α ) -quantile of calibration scores. Under exchangeability this ensures Pr { y t ∈ ̂ C t } ≈ 1 -α . In time series, exchangeability is violated; Adaptive Conformal Inference (ACI) compensates by updating the target miscoverage online:",
+      "text": "where ̂ Q 1 -α is the empirical (1 -α ) -quantile of calibration scores. Under exchangeability this ensures Pr { y t ∈ ̂ C t } ≈ 1 -α . In time series, exchangeability is violated; Adaptive Conformal Inference (ACI) compensates by updating the target miscoverage online:"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 236.80300000000005,
+            "t": 277.5335040000002,
+            "r": 375.19761027999994,
+            "b": 265.60544000000027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "α t +1 = α t + γ ( α -1 { y t / ∈ ̂ C t } ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 261.52997940000023,
+            "r": 504.00409879999955,
+            "b": 220.0717743929207,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            398
+          ]
+        }
+      ],
+      "orig": "So intervals widen after misses and narrow after hits. AgACI aggregates multiple ACI experts with distinct learning rates γ , stabilizing adaptation under heterogeneous conditions. In this work, the CP layer is residual-based and model-agnostic ; we center at ˆ y t and use absolute residuals by default, with studentized/variance-aware scores left for future work. See Algorithm D for pseudo-code.",
+      "text": "So intervals widen after misses and narrow after hits. AgACI aggregates multiple ACI experts with distinct learning rates γ , stabilizing adaptation under heterogeneous conditions. In this work, the CP layer is residual-based and model-agnostic ; we center at ˆ y t and use absolute residuals by default, with studentized/variance-aware scores left for future work. See Algorithm D for pseudo-code."
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 107.99999999999997,
+            "t": 202.6560880000003,
+            "r": 345.66937599999994,
+            "b": 191.9083632000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "B What We Mean by Regimes and Switching",
+      "text": "B What We Mean by Regimes and Switching",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 107.99999999999994,
+            "t": 178.62197940000033,
+            "r": 504.0033873999995,
+            "b": 147.31352673256515,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "A regime is a latent operating mode with distinct dynamics (level, trend, variance, seasonality). We write d t ∈ { 1 , . . . , K } for the discrete regime (often Markov), a continuous state z t , and observation y t , e.g.,",
+      "text": "A regime is a latent operating mode with distinct dynamics (level, trend, variance, seasonality). We write d t ∈ { 1 , . . . , K } for the discrete regime (often Markov), a continuous state z t , and observation y t , e.g.,"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 217.01099999999997,
+            "t": 146.0344558000004,
+            "r": 394.9896102799998,
+            "b": 135.7879449386171,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "z t +1 = f d t ( z t ) + η t , y t = g d t ( z t ) + ϵ t .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 107.99999999999982,
+            "t": 133.35045580000042,
+            "r": 504.00338739999955,
+            "b": 69.93377439292067,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            541
+          ]
+        }
+      ],
+      "orig": "Switches in d t produce non-stationarity (abrupt changes in mean/variance/correlation). Unlike Gaussian Processes or Bayesian NNs that typically encode non-stationarity via kernels or parameter uncertainty, DS 3 M explicitly models discrete mode changes while keeping continuous dynamics, which improves interpretability and one-step accuracy. Change-point detection (CPD) instead segments the series and fits local models on the last segment. Our conformal layer sits on top of either approach and adapts online after switches (Appendix A).",
+      "text": "Switches in d t produce non-stationarity (abrupt changes in mean/variance/correlation). Unlike Gaussian Processes or Bayesian NNs that typically encode non-stationarity via kernels or parameter uncertainty, DS 3 M explicitly models discrete mode changes while keeping continuous dynamics, which improves interpretability and one-step accuracy. Change-point detection (CPD) instead segments the series and fits local models on the last segment. Our conformal layer sits on top of either approach and adapts online after switches (Appendix A)."
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.5089999999998,
+            "t": 48.59765260000029,
+            "r": 308.49029999999976,
+            "b": 40.04577439292075,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 108.0,
+            "t": 718.2860880000001,
+            "r": 247.46936320000003,
+            "b": 707.5383632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "C Datasets and Summary",
+      "text": "C Datasets and Summary",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 108.0,
+            "t": 693.4096526,
+            "r": 504.00338739999927,
+            "b": 673.9487743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "Table 2 summarizes the used datasets. We standardize each series using training statistics and invert the scale post-prediction.",
+      "text": "Table 2 summarizes the used datasets. We standardize each series using training statistics and invert the scale post-prediction."
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/tables/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 108.0,
+            "t": 653.1014558,
+            "r": 503.9964135799993,
+            "b": 633.3207743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "Table 2: Description of the datasets. D is the dimensionality of the target series, T the total number of datapoints.",
+      "text": "Table 2: Description of the datasets. D is the dimensionality of the target series, T the total number of datapoints."
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 224.742,
+            "t": 627.616816,
+            "r": 253.62277440000003,
+            "b": 619.5560224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Dataset",
+      "text": "Dataset"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 292.39348800000005,
+            "t": 627.616816,
+            "r": 333.0740447999999,
+            "b": 619.5560224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Frequency",
+      "text": "Frequency"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 345.0352223999999,
+            "t": 627.5540512,
+            "r": 352.6342463999999,
+            "b": 619.7180894340057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "D",
+      "text": "D"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 372.7189823999999,
+            "t": 627.5540512,
+            "r": 378.09523583999993,
+            "b": 619.7180894340057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "T",
+      "text": "T"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 224.742,
+            "t": 612.0991263999999,
+            "r": 238.3798944,
+            "b": 604.4023845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Toy",
+      "text": "Toy"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 296.5449312,
+            "t": 612.0991263999999,
+            "r": 328.92260159999995,
+            "b": 604.4023845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "synthetic",
+      "text": "synthetic"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 346.7209055999999,
+            "t": 612.0991263999999,
+            "r": 351.20410559999993,
+            "b": 604.4023845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 367.08359999999993,
+            "t": 612.0991263999999,
+            "r": 385.0164,
+            "b": 604.4023845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "3000",
+      "text": "3000"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 224.742,
+            "t": 602.1361264,
+            "r": 250.13484480000002,
+            "b": 594.4393845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Lorenz",
+      "text": "Lorenz"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 296.5449312,
+            "t": 602.1361264,
+            "r": 328.92260159999995,
+            "b": 594.4393845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "synthetic",
+      "text": "synthetic"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 346.7209055999999,
+            "t": 602.1361264,
+            "r": 351.20410559999993,
+            "b": 594.4393845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 364.8419999999999,
+            "t": 602.1361264,
+            "r": 387.258,
+            "b": 594.4393845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "10000",
+      "text": "10000"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 224.742,
+            "t": 592.1731264,
+            "r": 270.3092448,
+            "b": 584.4763845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Sleep Apnea",
+      "text": "Sleep Apnea"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 300.28391999999997,
+            "t": 592.1731264,
+            "r": 325.18361279999993,
+            "b": 584.4763845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "0.5 sec",
+      "text": "0.5 sec"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 346.7209055999999,
+            "t": 592.1731264,
+            "r": 351.20410559999993,
+            "b": 584.4763845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 367.08359999999993,
+            "t": 592.1731264,
+            "r": 385.0164,
+            "b": 584.4763845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2000",
+      "text": "2000"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 224.742,
+            "t": 582.2111264,
+            "r": 280.44127679999997,
+            "b": 574.5143845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Unemployment",
+      "text": "Unemployment"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 301.27919039999995,
+            "t": 582.2111264,
+            "r": 324.1973088,
+            "b": 574.5143845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "month",
+      "text": "month"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 346.7209056,
+            "t": 582.2111264,
+            "r": 351.2041056,
+            "b": 574.5143845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 369.3252,
+            "t": 582.2111264,
+            "r": 382.7748,
+            "b": 574.5143845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "879",
+      "text": "879"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 108.0,
+            "t": 547.6610880000001,
+            "r": 216.58908160000004,
+            "b": 536.9133632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "D ACI Pseudo-code",
+      "text": "D ACI Pseudo-code",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 108.0,
+            "t": 520.300194,
+            "r": 428.3972159999999,
+            "b": 511.3438166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Algorithm 1: Adaptive Conformal Inference (ACI) around a one-step forecaster",
+      "text": "Algorithm 1: Adaptive Conformal Inference (ACI) around a one-step forecaster"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 108.0,
+            "t": 506.443194,
+            "r": 426.0446500000001,
+            "b": 421.8148166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            341
+          ]
+        }
+      ],
+      "orig": "Input: Forecaster ˆ y t , nominal α , learning rate γ , initial α t 0 , residual buffer S t 0 . for t = t 0 , t 0 +1 , . . . do Form S t from absolute residuals up to t -1 . Compute ̂ Q 1 -α t , the (1 -α t ) empirical quantile. Predict ̂ C t = [ˆ y t ± ̂ Q 1 -α t ] . Observe y t and update α t +1 = α t + γ ( α -1 { y t / ∈ ̂ C t } ) . end",
+      "text": "Input: Forecaster ˆ y t , nominal α , learning rate γ , initial α t 0 , residual buffer S t 0 . for t = t 0 , t 0 +1 , . . . do Form S t from absolute residuals up to t -1 . Compute ̂ Q 1 -α t , the (1 -α t ) empirical quantile. Predict ̂ C t = [ˆ y t ± ̂ Q 1 -α t ] . Observe y t and update α t +1 = α t + γ ( α -1 { y t / ∈ ̂ C t } ) . end"
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 303.509,
+            "t": 48.59765259999995,
+            "r": 308.4903,
+            "b": 40.04577439292041,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 109.1333999633789,
+            "t": 718.9581069946289,
+            "r": 503.6869812011719,
+            "b": 537.2516174316406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/groups/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 107.45887756347656,
+            "t": 403.2221374511719,
+            "r": 504.05096435546875,
+            "b": 336.4984130859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/58"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/3"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/groups/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 218.06459045410156,
+            "t": 632.3783569335938,
+            "r": 393.83758544921875,
+            "b": 570.7601318359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/135"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/5"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    }
+  }
+}

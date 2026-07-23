@@ -1,0 +1,3681 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2307.07811_generative_meta_learning_robust_quality_diversity_",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12680959662592338372,
+    "filename": "2307.07811_generative_meta_learning_robust_quality_diversity_.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/groups/2"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_1_0_0",
+      "label": "unspecified"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 573.08,
+            "r": 36.206559297218156,
+            "b": 232.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "arXiv:2307.07811v1  [cs.NE]  15 Jul 2023",
+      "text": "arXiv:2307.07811v1  [cs.NE]  15 Jul 2023"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.406,
+            "t": 707.7715948,
+            "r": 546.5936453999999,
+            "b": 692.5103538556998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Generative Meta-Learning Robust Quality-Diversity Portfolio",
+      "text": "Generative Meta-Learning Robust Quality-Diversity Portfolio",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 256.555,
+            "t": 686.0076,
+            "r": 356.4400276000002,
+            "b": 634.1316117999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "Kamer Ali Yuksel aiXplain, inc. (AI Labs) Los Gatos, CA 95032, US kamer@aixplain.com",
+      "text": "Kamer Ali Yuksel aiXplain, inc. (AI Labs) Los Gatos, CA 95032, US kamer@aixplain.com"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.798,
+            "t": 410.0268992,
+            "r": 558.2022940160003,
+            "b": 402.57423849411765,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "Figure 1: The index to be tracked (red), the sparse ensemble portfolio (blue), and behaviorally-diverse sub-portfolios co-optimized",
+      "text": "Figure 1: The index to be tracked (red), the sparse ensemble portfolio (blue), and behaviorally-diverse sub-portfolios co-optimized"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.798,
+            "t": 394.1609148,
+            "r": 111.94350299999999,
+            "b": 385.0935275647059,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "ABSTRACT",
+      "text": "ABSTRACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.467,
+            "t": 383.6992,
+            "r": 295.5639129216001,
+            "b": 163.08763520000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1293
+          ]
+        }
+      ],
+      "orig": "This paper proposes a novel meta-learning approach to optimize a robust portfolio ensemble. The method uses a deep generative model to generate diverse and high-quality sub-portfolios combined to form the ensemble portfolio. The generative model consists of a convolutional layer, a stateful LSTM module, and a dense network. During training, the model takes a randomly sampled batch of Gaussian noise and outputs a population of solutions, which are then evaluated using the objective function of the problem. The weights of the model are updated using a gradient-based optimizer. The convolutional layer transforms the noise into a desired distribution in latent space, while the LSTM module adds dependence between generations. The dense network decodes the population of solutions. The proposed method balances maximizing the performance of the sub-portfolios with minimizing their maximum correlation, resulting in a robust ensemble portfolio against systematic shocks. The approach was effective in experiments where stochastic rewards were present. Moreover, the results (Fig. 1) demonstrated that the ensemble portfolio obtained by taking the average of the generated sub-portfolio weights was robust and generalized well. The proposed method can be applied to problems where diversity",
+      "text": "This paper proposes a novel meta-learning approach to optimize a robust portfolio ensemble. The method uses a deep generative model to generate diverse and high-quality sub-portfolios combined to form the ensemble portfolio. The generative model consists of a convolutional layer, a stateful LSTM module, and a dense network. During training, the model takes a randomly sampled batch of Gaussian noise and outputs a population of solutions, which are then evaluated using the objective function of the problem. The weights of the model are updated using a gradient-based optimizer. The convolutional layer transforms the noise into a desired distribution in latent space, while the LSTM module adds dependence between generations. The dense network decodes the population of solutions. The proposed method balances maximizing the performance of the sub-portfolios with minimizing their maximum correlation, resulting in a robust ensemble portfolio against systematic shocks. The approach was effective in experiments where stochastic rewards were present. Moreover, the results (Fig. 1) demonstrated that the ensemble portfolio obtained by taking the average of the generated sub-portfolio weights was robust and generalized well. The proposed method can be applied to problems where diversity"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.798,
+            "t": 157.853525,
+            "r": 295.11798044000005,
+            "b": 116.3347334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            397
+          ]
+        }
+      ],
+      "orig": "Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for third-party components of this work must be honored. For all other uses, contact the owner/author(s).",
+      "text": "Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for third-party components of this work must be honored. For all other uses, contact the owner/author(s)."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.798,
+            "t": 113.96968179999999,
+            "r": 215.61108139999996,
+            "b": 107.80580312338589,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "GECCO '23 Companion, July 15-19, 2023, Lisbon, Portugal",
+      "text": "GECCO '23 Companion, July 15-19, 2023, Lisbon, Portugal"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.553999999999995,
+            "t": 100.468525,
+            "r": 157.03124440000002,
+            "b": 90.83073339999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "ACM ISBN 979-8-4007-0120-7/23/07.",
+      "text": "ACM ISBN 979-8-4007-0120-7/23/07."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.317,
+            "t": 108.43852500000003,
+            "r": 186.7464744,
+            "b": 98.80073340000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "© 2023 Copyright held by the owner/author(s).",
+      "text": "© 2023 Copyright held by the owner/author(s)."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.955,
+            "t": 397.3972,
+            "r": 558.2023355519997,
+            "b": 374.0466352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "is desired among co-optimized solutions for a robust ensemble. The source-codes and the dataset are in the supplementary material.",
+      "text": "is desired among co-optimized solutions for a robust ensemble. The source-codes and the dataset are in the supplementary material."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.955,
+            "t": 360.3029148,
+            "r": 398.9768857,
+            "b": 351.2355275647059,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "CCS CONCEPTS",
+      "text": "CCS CONCEPTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.955,
+            "t": 349.8402,
+            "r": 559.80707392,
+            "b": 315.5306352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "· Computing methodologies → Ensemble methods ; Bagging ; Bio-inspired approaches ; · Theory of computation → Nonconvex optimization ; Bio-inspired optimization .",
+      "text": "· Computing methodologies → Ensemble methods ; Bagging ; Bio-inspired approaches ; · Theory of computation → Nonconvex optimization ; Bio-inspired optimization ."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.9549999999999,
+            "t": 301.7869148,
+            "r": 379.8205060999998,
+            "b": 292.71952756470586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "KEYWORDS",
+      "text": "KEYWORDS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.955,
+            "t": 291.3242,
+            "r": 558.4312656768001,
+            "b": 278.93263520000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "robust portfolio optimization, ensemble learning, quality-diversity",
+      "text": "robust portfolio optimization, ensemble learning, quality-diversity"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.66,
+            "t": 269.11622280000006,
+            "r": 404.65364150000016,
+            "b": 262.4916632117647,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "ACMReference Format:",
+      "text": "ACMReference Format:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.469,
+            "t": 263.11436249999997,
+            "r": 559.0816640779997,
+            "b": 222.2116843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            277
+          ]
+        }
+      ],
+      "orig": "Kamer Ali Yuksel. 2023. Generative Meta-Learning Robust Quality-Diversity Portfolio. In Genetic and Evolutionary Computation Conference Companion (GECCO '23 Companion), July 15-19, 2023, Lisbon, Portugal. ACM, New York, NY, USA, 4 pages. https://doi.org/10.1145/3583133.3590729",
+      "text": "Kamer Ali Yuksel. 2023. Generative Meta-Learning Robust Quality-Diversity Portfolio. In Genetic and Evolutionary Computation Conference Companion (GECCO '23 Companion), July 15-19, 2023, Lisbon, Portugal. ACM, New York, NY, USA, 4 pages. https://doi.org/10.1145/3583133.3590729"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.955,
+            "t": 203.83191480000005,
+            "r": 420.6859947,
+            "b": 194.76452756470587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 INTRODUCTION",
+      "text": "1 INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.623,
+            "t": 193.37019999999995,
+            "r": 559.72065024,
+            "b": 82.34863519999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            661
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.798,
+            "t": 708.4382,
+            "r": 295.55897146880005,
+            "b": 575.4986352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            662,
+            1437
+          ]
+        }
+      ],
+      "orig": "Portfolio optimization is a fundamental problem in finance and has been widely studied. The traditional approach to portfolio optimization is based on quadratic or convex optimization, which assumes that the returns of the assets are normally distributed and have a constant covariance matrix [9]. This assumption is often unsatisfactory in practice and may lead to suboptimal solutions [3]. Moreover, quadratic optimization becomes computationally expensive in the case of large-scale portfolios. However, the portfolio optimization problem is typically non-convex, high-dimensional, and complex, which makes it challenging to find the global optimum. Over the years, various optimization methods and models have been proposed to address this challenge. The related works in this area have largely focused on optimizing portfolios using gradient-based methods, such as stochastic gradient descent (SGD), or heuristics, such as genetic algorithms. More recent techniques, such as evolutionary algorithms and particle swarm optimization, have been proposed to address the non-convex and high-dimensional optimization problems. These methods are based on generating a population of candidate solutions and optimizing them through an iterative process. However, these methods can be computationally expensive and may struggle to find a global optimum in large-scale non-convex optimization problems with noisy or stochastic rewards [5, 14].",
+      "text": "Portfolio optimization is a fundamental problem in finance and has been widely studied. The traditional approach to portfolio optimization is based on quadratic or convex optimization, which assumes that the returns of the assets are normally distributed and have a constant covariance matrix [9]. This assumption is often unsatisfactory in practice and may lead to suboptimal solutions [3]. Moreover, quadratic optimization becomes computationally expensive in the case of large-scale portfolios. However, the portfolio optimization problem is typically non-convex, high-dimensional, and complex, which makes it challenging to find the global optimum. Over the years, various optimization methods and models have been proposed to address this challenge. The related works in this area have largely focused on optimizing portfolios using gradient-based methods, such as stochastic gradient descent (SGD), or heuristics, such as genetic algorithms. More recent techniques, such as evolutionary algorithms and particle swarm optimization, have been proposed to address the non-convex and high-dimensional optimization problems. These methods are based on generating a population of candidate solutions and optimizing them through an iterative process. However, these methods can be computationally expensive and may struggle to find a global optimum in large-scale non-convex optimization problems with noisy or stochastic rewards [5, 14]."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.797999999999995,
+            "t": 92.49852499999997,
+            "r": 166.9409312,
+            "b": 82.86073339999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "https://doi.org/10.1145/3583133.3590729",
+      "text": "https://doi.org/10.1145/3583133.3590729",
+      "hyperlink": "https://doi.org/10.1145/3583133.3590729"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.798,
+            "t": 729.2347866,
+            "r": 222.00605599999994,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "GECCO '23 Companion, July 15-19, 2023, Lisbon, Portugal",
+      "text": "GECCO '23 Companion, July 15-19, 2023, Lisbon, Portugal"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 509.141,
+            "t": 729.2347866,
+            "r": 558.201683,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Kamer Ali Yuksel",
+      "text": "Kamer Ali Yuksel"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.467,
+            "t": 324.8772,
+            "r": 295.55913286400005,
+            "b": 137.14263519999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1124
+          ]
+        }
+      ],
+      "orig": "A common approach to robustness in machine-learning is bagging [1], a type of ensembling where several models are trained on the randomly selected subsets of the data, and their predictions are combined to form a single prediction. This approach helps reduce the risk of overfitting the training data and improves the model's overall accuracy, and stability [4]. By having diverse models, the weaknesses or biases of a single model can be compensated by the strengths of others, leading to improved overall performance and robustness. In robust portfolio optimization, bagging can be applied by training multiple portfolios over different parts of historical returns and then combining them to form a single ensemble portfolio. The goal is to diversify the risk into many uncorrelated bets so that the failure of the minority of them is less likely to impact the overall performance of the ensemble negatively. The use of bagging can also help reduce the risk of overfitting to a specific historical market condition, which would be crucial in achieving out-of-sample generalization and robustness in portfolio optimization.",
+      "text": "A common approach to robustness in machine-learning is bagging [1], a type of ensembling where several models are trained on the randomly selected subsets of the data, and their predictions are combined to form a single prediction. This approach helps reduce the risk of overfitting the training data and improves the model's overall accuracy, and stability [4]. By having diverse models, the weaknesses or biases of a single model can be compensated by the strengths of others, leading to improved overall performance and robustness. In robust portfolio optimization, bagging can be applied by training multiple portfolios over different parts of historical returns and then combining them to form a single ensemble portfolio. The goal is to diversify the risk into many uncorrelated bets so that the failure of the minority of them is less likely to impact the overall performance of the ensemble negatively. The use of bagging can also help reduce the risk of overfitting to a specific historical market condition, which would be crucial in achieving out-of-sample generalization and robustness in portfolio optimization."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.798,
+            "t": 576.9312000000001,
+            "r": 295.55947616000014,
+            "b": 323.4436352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1537
+          ]
+        }
+      ],
+      "orig": "Another important aspect of portfolio optimization is out-ofsample generalization. The portfolio performance should not be evaluated based on the training data but also on new, unseen data. Robust portfolio optimization is a crucial problem in finance, as it aims to optimize an investment portfolio while considering various sources of uncertainty and risk. The traditional approach to portfolio optimization is mean-variance optimization (MVO), which assumes that the returns of the assets are normally distributed [9]. However, this approach can be unreliable in real-world situations, as financial markets are often characterized by extreme events, such as sudden drops or spikes in asset prices. To address this problem, robust portfolio optimization techniques have been developed to account for the presence of outliers and other sources of risk. One of the most widely used approaches to robust portfolio optimization is the concept of diversification or risk parity. The portfolio should be diversified to minimize the risk, which can be achieved by having a multi-objective function. The risk-parity refers to holding a mix of different assets in the portfolio to reduce the overall risk and having allocation based on their volatility. Monte-Carlo simulation is often used for measuring out-of-sample robustness of a portfolio [7]. Stochastic optimization methods, such as Monte-Carlo optimization, can consider the uncertainty in the returns of the assets to ensure that the portfolio performance remains stable despite them.",
+      "text": "Another important aspect of portfolio optimization is out-ofsample generalization. The portfolio performance should not be evaluated based on the training data but also on new, unseen data. Robust portfolio optimization is a crucial problem in finance, as it aims to optimize an investment portfolio while considering various sources of uncertainty and risk. The traditional approach to portfolio optimization is mean-variance optimization (MVO), which assumes that the returns of the assets are normally distributed [9]. However, this approach can be unreliable in real-world situations, as financial markets are often characterized by extreme events, such as sudden drops or spikes in asset prices. To address this problem, robust portfolio optimization techniques have been developed to account for the presence of outliers and other sources of risk. One of the most widely used approaches to robust portfolio optimization is the concept of diversification or risk parity. The portfolio should be diversified to minimize the risk, which can be achieved by having a multi-objective function. The risk-parity refers to holding a mix of different assets in the portfolio to reduce the overall risk and having allocation based on their volatility. Monte-Carlo simulation is often used for measuring out-of-sample robustness of a portfolio [7]. Stochastic optimization methods, such as Monte-Carlo optimization, can consider the uncertainty in the returns of the assets to ensure that the portfolio performance remains stable despite them."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.798,
+            "t": 138.5752,
+            "r": 295.5615563647999,
+            "b": 93.30663519999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.623,
+            "t": 708.4382,
+            "r": 559.7182310016003,
+            "b": 597.4166352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            263,
+            914
+          ]
+        }
+      ],
+      "orig": "Deep learning models, such as neural networks, can model complex relationships and achieve high accuracy in various tasks. In this context, deep generative models can be applied to the portfolio optimization problem, for meta-learning to generate high-performing and diverse portfolios. This work proposes a meta-learning approach for large-scale non-convex optimization of a robust portfolio ensemble. The approach uses a deep generative model to metalearn the optimization process, to find high-quality, behaviorally diverse sparse sub-portfolios. The proposed method achieves superior out-of-distribution robustness and generalization compared to traditional optimization methods. The approach is also suitable for problems where stochastic (or noisy) rewards are present, and can be applied to robust optimization or ensemble learning (bagging), where in-population diversity (including behavioral) is desired.",
+      "text": "Deep learning models, such as neural networks, can model complex relationships and achieve high accuracy in various tasks. In this context, deep generative models can be applied to the portfolio optimization problem, for meta-learning to generate high-performing and diverse portfolios. This work proposes a meta-learning approach for large-scale non-convex optimization of a robust portfolio ensemble. The approach uses a deep generative model to metalearn the optimization process, to find high-quality, behaviorally diverse sparse sub-portfolios. The proposed method achieves superior out-of-distribution robustness and generalization compared to traditional optimization methods. The approach is also suitable for problems where stochastic (or noisy) rewards are present, and can be applied to robust optimization or ensemble learning (bagging), where in-population diversity (including behavioral) is desired."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.955,
+            "t": 598.8492,
+            "r": 559.7186280960002,
+            "b": 487.82763520000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            646
+          ]
+        }
+      ],
+      "orig": "The contributions of this paper are four-fold: (1) a novel metalearning approach using a deep generative model is proposed for optimizing a robust portfolio ensemble; (2) the method balances maximizing the performance of the sub-portfolios with minimizing their maximum correlation, resulting in a robust ensemble portfolio against systematic shocks; (3) experiments demonstrate that the ensemble portfolio obtained by bagging (taking the average of) generated sub-portfolio weights is robust and generalized well; (4) the method can be applied to problems where behavioral diversity is desired among co-optimized solutions for a robust ensemble.",
+      "text": "The contributions of this paper are four-fold: (1) a novel metalearning approach using a deep generative model is proposed for optimizing a robust portfolio ensemble; (2) the method balances maximizing the performance of the sub-portfolios with minimizing their maximum correlation, resulting in a robust ensemble portfolio against systematic shocks; (3) experiments demonstrate that the ensemble portfolio obtained by bagging (taking the average of) generated sub-portfolio weights is robust and generalized well; (4) the method can be applied to problems where behavioral diversity is desired among co-optimized solutions for a robust ensemble."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.955,
+            "t": 466.8459148,
+            "r": 412.6023516,
+            "b": 457.7785275647059,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "2 BACKGROUND",
+      "text": "2 BACKGROUND",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.955,
+            "t": 456.3832,
+            "r": 559.7198449535999,
+            "b": 170.01963520000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1729
+          ]
+        }
+      ],
+      "orig": "Diversification is one of the fundamental concepts in portfolio optimization and has been the subject of numerous academic studies over the years. It has been long acknowledged that diversification is the key to reducing risk in an investment portfolio. The idea behind diversification is simple - spreading investment across multiple assets reduces the impact of market fluctuations on the portfolio's performance. However, traditional diversification methods based on per-asset risk diversification metrics (e.g., Max. risk contribution, Diversification ratio, Concentration ratio) have been criticized for being inadequate in capturing the complexities of the financial market. These metrics do not fully consider the inter-asset correlations and hence, are vulnerable to systemic shocks that can affect all assets in a portfolio. Various risk-parity methods have been proposed in the literature to address this issue. Hierarchical Risk Parity (HRP) aims to construct a portfolio that can be decomposed into uncorrelated bets, thus reducing the exposure to both idiosyncratic and systemic shocks. The HRP method involves constructing a hierarchy of assets and allocating risk to each level in a balanced manner [3]. This results in a more robust portfolio that is less vulnerable to market fluctuations. Another method is Eigen-portfolios [11], based on the eigenvalue decomposition of the covariance matrix of the assets. The eigenvalue decomposition can be used to extract the underlying sources of risk in the market and allocate risk in a balanced manner among assets that are uncorrelated to each other. Eigen-portfolios effectively capture the financial market's underlying structure and provide a more robust portfolio.",
+      "text": "Diversification is one of the fundamental concepts in portfolio optimization and has been the subject of numerous academic studies over the years. It has been long acknowledged that diversification is the key to reducing risk in an investment portfolio. The idea behind diversification is simple - spreading investment across multiple assets reduces the impact of market fluctuations on the portfolio's performance. However, traditional diversification methods based on per-asset risk diversification metrics (e.g., Max. risk contribution, Diversification ratio, Concentration ratio) have been criticized for being inadequate in capturing the complexities of the financial market. These metrics do not fully consider the inter-asset correlations and hence, are vulnerable to systemic shocks that can affect all assets in a portfolio. Various risk-parity methods have been proposed in the literature to address this issue. Hierarchical Risk Parity (HRP) aims to construct a portfolio that can be decomposed into uncorrelated bets, thus reducing the exposure to both idiosyncratic and systemic shocks. The HRP method involves constructing a hierarchy of assets and allocating risk to each level in a balanced manner [3]. This results in a more robust portfolio that is less vulnerable to market fluctuations. Another method is Eigen-portfolios [11], based on the eigenvalue decomposition of the covariance matrix of the assets. The eigenvalue decomposition can be used to extract the underlying sources of risk in the market and allocate risk in a balanced manner among assets that are uncorrelated to each other. Eigen-portfolios effectively capture the financial market's underlying structure and provide a more robust portfolio."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.955,
+            "t": 171.45219999999995,
+            "r": 559.7184999936001,
+            "b": 82.34863519999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            516
+          ]
+        }
+      ],
+      "orig": "Bagging, or bootstrapped aggregating, is an ensembling technique in machine learning that trains multiple models on different bootstrapped training data samples. The final prediction is then made by aggregating the predictions of the individual models, typically through a majority vote or an average. These techniques effectively improve the out-of-distribution robustness generalization performance of machine-learning models [1, 4]. This work aimed to transfer this ensembling technique to portfolio optimization;",
+      "text": "Bagging, or bootstrapped aggregating, is an ensembling technique in machine learning that trains multiple models on different bootstrapped training data samples. The final prediction is then made by aggregating the predictions of the individual models, typically through a majority vote or an average. These techniques effectively improve the out-of-distribution robustness generalization performance of machine-learning models [1, 4]. This work aimed to transfer this ensembling technique to portfolio optimization;"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.798,
+            "t": 729.2347866,
+            "r": 229.87947619999994,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Generative Meta-Learning Robust Quality-Diversity Portfolio",
+      "text": "Generative Meta-Learning Robust Quality-Diversity Portfolio"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 389.9909504,
+            "t": 729.2347866,
+            "r": 558.1990063999999,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "GECCO '23 Companion, July 15-19, 2023, Lisbon, Portugal",
+      "text": "GECCO '23 Companion, July 15-19, 2023, Lisbon, Portugal"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.467,
+            "t": 708.4382,
+            "r": 295.56358916480013,
+            "b": 531.6636351999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1048
+          ]
+        }
+      ],
+      "orig": "while also taking advantage of Quality-Diversity (QD) optimization [2, 12], a population-based multi-objective optimization technique that aims to find a diverse set of high-quality individual solutions rather than one. The assumption was as follows: an ensemble portfolio from many high-quality, behaviorally diverse sub-portfolios, would improve the out-of-sample generalization and robustness. However, the global optimization of such a multi-objective portfolio ensemble was challenging due to multiple local optima and the difficulty of finding the global optimum. In recent years, populationbased optimization has been proposed as a promising approach to tackle non-convex optimization problems. The population-based optimization methods such as Evolutionary Strategies [15, 16], search the solution space using a population of candidate solutions, inspired by biological evolution. QD optimization (illumination) is a promising non-convex optimization approach emphasizing maintaining population diversity while exploring the solution space.",
+      "text": "while also taking advantage of Quality-Diversity (QD) optimization [2, 12], a population-based multi-objective optimization technique that aims to find a diverse set of high-quality individual solutions rather than one. The assumption was as follows: an ensemble portfolio from many high-quality, behaviorally diverse sub-portfolios, would improve the out-of-sample generalization and robustness. However, the global optimization of such a multi-objective portfolio ensemble was challenging due to multiple local optima and the difficulty of finding the global optimum. In recent years, populationbased optimization has been proposed as a promising approach to tackle non-convex optimization problems. The population-based optimization methods such as Evolutionary Strategies [15, 16], search the solution space using a population of candidate solutions, inspired by biological evolution. QD optimization (illumination) is a promising non-convex optimization approach emphasizing maintaining population diversity while exploring the solution space."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.798,
+            "t": 510.68191479999996,
+            "r": 155.7762668,
+            "b": 501.61452756470584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "3 METHODOLOGY",
+      "text": "3 METHODOLOGY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.467,
+            "t": 500.2192,
+            "r": 295.5639926528,
+            "b": 82.34863519999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2504
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.955,
+            "t": 514.1512,
+            "r": 558.1977357888,
+            "b": 490.80063520000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            2505,
+            2635
+          ]
+        }
+      ],
+      "orig": "The proposed method in this paper aims to achieve a robust portfolio ensemble through a meta-learning approach. This approach aims to generate diverse and high-quality sub-portfolios that can be combined to form a single portfolio. The method utilizes a deep generative model to achieve this objective, which consists of a convolutional layer, a stateful LSTM module, and a dense network. The convolutional layer transforms the input noise into a desired distribution in latent space, while the LSTM module adds dependence between generations. The dense network decodes the population of solutions from the latent space to the solution space. The deep generative model takes a randomly sampled batch of Gaussian noise as input and outputs a population of solutions to be evaluated using the objective function of the problem. The generative model parameters are updated at each iteration using the gradients obtained from the objective function, with AdamW optimizer [8], commonly used in deep learning. The objective function of this study focuses on index tracking, where the aim is to track a given index with sparse portfolio weights. Index tracking can be considered a generalized version of the minimum-variance portfolio where the returns of a given index are used instead of a target return when calculating the deviations. The sparsity is achieved without L1 regularization [13] by applying softmax activation during training, and sparsemax activation [10] during the validation. The objective function for index tracking was the mean squared error in-between the daily returns of each sub-portfolios and the given index. To achieve robustness, the proposed method also tries to minimize the maximum correlation in-between sub-portfolios, while minimizing the objective function for portfolio optimization, resulting in a robust ensemble portfolio against systematic shocks. The behavioral diversity measured from the correlation matrix of sub-portfolio returns is preferred against diversity based on weights to increase the robustness against systematic shocks [3, 11]. To further increase the robustness of the ensemble portfolio, stochastic optimization techniques are also applied, such as randomly corrupting the candidate portfolio weights by adding noise or zeroing them. This aimed to obtain portfolio candidates that are not depending their performance on specific assets. Furthermore, a monte-carlo optimization technique has been performed by calculating the candidate rewards of the sub-portfolios on randomly selected historical periods of return to prevent them from overfitting to a specific historical period.",
+      "text": "The proposed method in this paper aims to achieve a robust portfolio ensemble through a meta-learning approach. This approach aims to generate diverse and high-quality sub-portfolios that can be combined to form a single portfolio. The method utilizes a deep generative model to achieve this objective, which consists of a convolutional layer, a stateful LSTM module, and a dense network. The convolutional layer transforms the input noise into a desired distribution in latent space, while the LSTM module adds dependence between generations. The dense network decodes the population of solutions from the latent space to the solution space. The deep generative model takes a randomly sampled batch of Gaussian noise as input and outputs a population of solutions to be evaluated using the objective function of the problem. The generative model parameters are updated at each iteration using the gradients obtained from the objective function, with AdamW optimizer [8], commonly used in deep learning. The objective function of this study focuses on index tracking, where the aim is to track a given index with sparse portfolio weights. Index tracking can be considered a generalized version of the minimum-variance portfolio where the returns of a given index are used instead of a target return when calculating the deviations. The sparsity is achieved without L1 regularization [13] by applying softmax activation during training, and sparsemax activation [10] during the validation. The objective function for index tracking was the mean squared error in-between the daily returns of each sub-portfolios and the given index. To achieve robustness, the proposed method also tries to minimize the maximum correlation in-between sub-portfolios, while minimizing the objective function for portfolio optimization, resulting in a robust ensemble portfolio against systematic shocks. The behavioral diversity measured from the correlation matrix of sub-portfolio returns is preferred against diversity based on weights to increase the robustness against systematic shocks [3, 11]. To further increase the robustness of the ensemble portfolio, stochastic optimization techniques are also applied, such as randomly corrupting the candidate portfolio weights by adding noise or zeroing them. This aimed to obtain portfolio candidates that are not depending their performance on specific assets. Furthermore, a monte-carlo optimization technique has been performed by calculating the candidate rewards of the sub-portfolios on randomly selected historical periods of return to prevent them from overfitting to a specific historical period."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.659,
+            "t": 706.2738992000001,
+            "r": 558.2050959999997,
+            "b": 687.8622384941176,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "Table 1: The sparse index tracking errors achieved for various ETF(s) by different optimizers, in the out-of-sample period.",
+      "text": "Table 1: The sparse index tracking errors achieved for various ETF(s) by different optimizers, in the out-of-sample period."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 353.027,
+            "t": 673.6102000000001,
+            "r": 389.89683679999996,
+            "b": 661.2186352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Optimizer",
+      "text": "Optimizer"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 408.93250399999994,
+            "t": 673.6102000000001,
+            "r": 426.0941936,
+            "b": 661.2186352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "RTH",
+      "text": "RTH"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 453.44171359999996,
+            "t": 673.6102000000001,
+            "r": 470.40614239999996,
+            "b": 661.2186352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "RYH",
+      "text": "RYH"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 497.81642719999996,
+            "t": 673.6102000000001,
+            "r": 514.8525872,
+            "b": 661.2186352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "VGT",
+      "text": "VGT"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 363.073,
+            "t": 658.1372,
+            "r": 379.84913439999997,
+            "b": 645.7456351999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "SGD",
+      "text": "SGD"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 401.9333776,
+            "t": 658.1372,
+            "r": 433.09161759999995,
+            "b": 645.7456351999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000087",
+      "text": "0.000087"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 446.34395679999994,
+            "t": 658.1372,
+            "r": 477.5021967999999,
+            "b": 645.7456351999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000091",
+      "text": "0.000091"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 490.7545359999999,
+            "t": 658.1372,
+            "r": 521.912776,
+            "b": 645.7456351999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000175",
+      "text": "0.000175"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 355.667,
+            "t": 647.1782000000001,
+            "r": 387.2556272,
+            "b": 634.7866352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "CMA-ES",
+      "text": "CMA-ES"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 401.933624,
+            "t": 647.1782000000001,
+            "r": 433.091864,
+            "b": 634.7866352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000039",
+      "text": "0.000039"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 446.3442032,
+            "t": 647.1782000000001,
+            "r": 477.50244319999996,
+            "b": 634.7866352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000030",
+      "text": "0.000030"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 490.75478239999995,
+            "t": 647.1782000000001,
+            "r": 521.9130224,
+            "b": 634.7866352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000068",
+      "text": "0.000068"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 357.909,
+            "t": 636.2192000000001,
+            "r": 385.0144272,
+            "b": 623.8276352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "RAdam",
+      "text": "RAdam"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 401.934024,
+            "t": 636.2192000000001,
+            "r": 433.092264,
+            "b": 623.8276352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000032",
+      "text": "0.000032"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 446.3446032,
+            "t": 636.2192000000001,
+            "r": 477.5028432,
+            "b": 623.8276352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000025",
+      "text": "0.000025"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 490.75518239999997,
+            "t": 636.2192000000001,
+            "r": 521.9134224000001,
+            "b": 623.8276352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000065",
+      "text": "0.000065"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 357.407,
+            "t": 625.2602000000002,
+            "r": 385.516664,
+            "b": 612.8686352000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "NAdam",
+      "text": "NAdam"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 401.9341424,
+            "t": 625.2602000000002,
+            "r": 433.09238239999996,
+            "b": 612.8686352000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000042",
+      "text": "0.000042"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 446.34472159999996,
+            "t": 625.2602000000002,
+            "r": 477.50296159999994,
+            "b": 612.8686352000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000031",
+      "text": "0.000031"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 490.75530079999993,
+            "t": 625.2602000000002,
+            "r": 521.9135408000001,
+            "b": 612.8686352000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000040",
+      "text": "0.000040"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 354.349,
+            "t": 614.3012000000002,
+            "r": 388.5737488,
+            "b": 601.9096352000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "RMSprop",
+      "text": "RMSprop"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 401.9336848,
+            "t": 614.3012000000002,
+            "r": 433.09192479999996,
+            "b": 601.9096352000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000028",
+      "text": "0.000028"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 446.34426399999995,
+            "t": 614.3012000000002,
+            "r": 477.50250399999993,
+            "b": 601.9096352000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000015",
+      "text": "0.000015"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 490.7548431999999,
+            "t": 614.3012000000002,
+            "r": 521.9130832000001,
+            "b": 601.9096352000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000037",
+      "text": "0.000037"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 355.85499999999996,
+            "t": 603.3422000000003,
+            "r": 387.0670384,
+            "b": 590.9506352000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Adagrad",
+      "text": "Adagrad"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 401.9333296,
+            "t": 603.3422000000003,
+            "r": 433.09156959999996,
+            "b": 590.9506352000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000024",
+      "text": "0.000024"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 446.34390879999995,
+            "t": 603.3422000000003,
+            "r": 477.50214879999993,
+            "b": 590.9506352000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000009",
+      "text": "0.000009"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 490.7544879999999,
+            "t": 603.3422000000003,
+            "r": 521.912728,
+            "b": 590.9506352000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000031",
+      "text": "0.000031"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 360.53999999999996,
+            "t": 592.3832000000003,
+            "r": 382.3821504,
+            "b": 579.9916352000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Adam",
+      "text": "Adam"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 401.9378688,
+            "t": 592.3832000000003,
+            "r": 433.09610879999997,
+            "b": 579.9916352000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000023",
+      "text": "0.000023"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 446.34844799999996,
+            "t": 592.3832000000003,
+            "r": 477.50668799999994,
+            "b": 579.9916352000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000011",
+      "text": "0.000011"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 490.75902719999993,
+            "t": 592.3832000000003,
+            "r": 521.9172672000001,
+            "b": 579.9916352000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000027",
+      "text": "0.000027"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 356.277,
+            "t": 581.4252000000004,
+            "r": 386.64619680000004,
+            "b": 569.0336352000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "AdamW",
+      "text": "AdamW"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 401.93390880000004,
+            "t": 581.4252000000004,
+            "r": 433.0921488,
+            "b": 569.0336352000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000023",
+      "text": "0.000023"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 446.344488,
+            "t": 581.4252000000004,
+            "r": 477.502728,
+            "b": 569.0336352000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000011",
+      "text": "0.000011"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 490.7550672,
+            "t": 581.4252000000004,
+            "r": 521.9133072000001,
+            "b": 569.0336352000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000027",
+      "text": "0.000027"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 356.29499999999996,
+            "t": 570.4662000000004,
+            "r": 386.6283312,
+            "b": 558.0746352000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Adamax",
+      "text": "Adamax"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 401.933976,
+            "t": 570.4662000000004,
+            "r": 433.09221599999995,
+            "b": 558.0746352000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000021",
+      "text": "0.000021"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 446.34455519999995,
+            "t": 570.4662000000004,
+            "r": 477.5027951999999,
+            "b": 558.0746352000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000009",
+      "text": "0.000009"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 490.7551343999999,
+            "t": 570.4662000000004,
+            "r": 521.9133744000001,
+            "b": 558.0746352000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000027",
+      "text": "0.000027"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 360.28499999999997,
+            "t": 559.5072000000005,
+            "r": 382.6382351999999,
+            "b": 547.1156352000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Rprop",
+      "text": "Rprop"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 401.93392799999987,
+            "t": 559.5072000000005,
+            "r": 433.09216799999984,
+            "b": 547.1156352000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000012",
+      "text": "0.000012"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 446.34450719999984,
+            "t": 559.5072000000005,
+            "r": 477.5027471999998,
+            "b": 547.1156352000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000009",
+      "text": "0.000009"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 490.7550863999998,
+            "t": 559.5072000000005,
+            "r": 521.9133264,
+            "b": 547.1156352000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000015",
+      "text": "0.000015"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 352.59599999999995,
+            "t": 544.0918992000005,
+            "r": 390.32661120000006,
+            "b": 536.6392384941181,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Proposed",
+      "text": "Proposed"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 400.28828160000006,
+            "t": 544.0918992000005,
+            "r": 434.7371904000001,
+            "b": 536.6392384941181,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000010",
+      "text": "0.000010"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 444.6988608000001,
+            "t": 544.0918992000005,
+            "r": 479.1477696000001,
+            "b": 536.6392384941181,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000008",
+      "text": "0.000008"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 489.1094400000001,
+            "t": 544.0918992000005,
+            "r": 523.5583488,
+            "b": 536.6392384941181,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "0.000011",
+      "text": "0.000011"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.686,
+            "t": 492.2332,
+            "r": 559.7205981312003,
+            "b": 271.6226352000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1306
+          ]
+        }
+      ],
+      "orig": "The proposed method has many advantages over popular convex optimization methods and heuristic algorithms for non-convex optimization. The deep generative model allows for meta-learning the optimization process, enabling it to find high-quality, behaviorally diverse sparse sub-portfolios. This results in a robust ensemble portfolio that has improved out-of-distribution robustness and generalization. Additionally, the method can handle stochastic rewards and be applied to problems where behavioral diversity is desired among co-optimized solutions. The results (Table 1) demonstrated that the ensemble portfolio obtained by taking the average of the generated sub-portfolio weights was robust and generalized well. This meta-learning approach is suitable for problems where behavioral diversity is desired among co-optimized solutions and can be applied to a wide range of portfolio optimization problems, including index tracking. In conclusion, the proposed method combines the strengths of deep learning and ensemble learning (bagging) to achieve a robust portfolio ensemble through meta-learning. Using a deep generative model and the optimization approach provides an efficient and effective solution to the portfolio optimization problem, particularly when the objective is sparse index-tracking.",
+      "text": "The proposed method has many advantages over popular convex optimization methods and heuristic algorithms for non-convex optimization. The deep generative model allows for meta-learning the optimization process, enabling it to find high-quality, behaviorally diverse sparse sub-portfolios. This results in a robust ensemble portfolio that has improved out-of-distribution robustness and generalization. Additionally, the method can handle stochastic rewards and be applied to problems where behavioral diversity is desired among co-optimized solutions. The results (Table 1) demonstrated that the ensemble portfolio obtained by taking the average of the generated sub-portfolio weights was robust and generalized well. This meta-learning approach is suitable for problems where behavioral diversity is desired among co-optimized solutions and can be applied to a wide range of portfolio optimization problems, including index tracking. In conclusion, the proposed method combines the strengths of deep learning and ensemble learning (bagging) to achieve a robust portfolio ensemble through meta-learning. Using a deep generative model and the optimization approach provides an efficient and effective solution to the portfolio optimization problem, particularly when the objective is sparse index-tracking."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.955,
+            "t": 258.6269148,
+            "r": 411.6423508,
+            "b": 249.55952756470583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "4 EXPERIMENTS",
+      "text": "4 EXPERIMENTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.623,
+            "t": 248.16419999999994,
+            "r": 559.7195400960003,
+            "b": 137.14263519999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            635
+          ]
+        }
+      ],
+      "orig": "The performance of the proposed generative meta-learning method was evaluated through experiments conducted on a large-scale sparse index tracking problem. The validation performance was compared with that of popular optimizers in deep learning. The experiments were performed on a regular desktop computer with a NVIDIA GeForce RTX3090 GPU and each optimizer was run for fifty training iterations. The training loss function of the proposed method was stochastic and included a secondary objective of minimizing the maximum correlation among the population, as opposed to the loss function utilized for the optimizers during training.",
+      "text": "The performance of the proposed generative meta-learning method was evaluated through experiments conducted on a large-scale sparse index tracking problem. The validation performance was compared with that of popular optimizers in deep learning. The experiments were performed on a regular desktop computer with a NVIDIA GeForce RTX3090 GPU and each optimizer was run for fifty training iterations. The training loss function of the proposed method was stochastic and included a secondary objective of minimizing the maximum correlation among the population, as opposed to the loss function utilized for the optimizers during training."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.955,
+            "t": 138.5752,
+            "r": 559.1912577407994,
+            "b": 82.34863519999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            328
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.798,
+            "t": 708.4382,
+            "r": 294.04891982080005,
+            "b": 630.2936351999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            329,
+            792
+          ]
+        }
+      ],
+      "orig": "A real-world US stock-market dataset was utilized to test the proposed meta-learning approach for robust portfolio ensemble optimization. The experiments were carried out using market data for 2458 stocks over 14 years right after 2007-2008 financial crisis, from 2009 to 2023, with 80% of data until the beginning of 2020 being kept for out-of-sample validation. Due to the several black swan events in-between 2020 and 2023, such as the Covid-19 pandemic and the Russian Invasion of Ukraine, the resulting validation set can be considered as out-of-distribution [6], compared to the training period that was a consistent bull-market with no major events. This made the selected validation set a perfect playground for comparing the robustness and generalization of the optimization methods.",
+      "text": "A real-world US stock-market dataset was utilized to test the proposed meta-learning approach for robust portfolio ensemble optimization. The experiments were carried out using market data for 2458 stocks over 14 years right after 2007-2008 financial crisis, from 2009 to 2023, with 80% of data until the beginning of 2020 being kept for out-of-sample validation. Due to the several black swan events in-between 2020 and 2023, such as the Covid-19 pandemic and the Russian Invasion of Ukraine, the resulting validation set can be considered as out-of-distribution [6], compared to the training period that was a consistent bull-market with no major events. This made the selected validation set a perfect playground for comparing the robustness and generalization of the optimization methods."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.798,
+            "t": 729.2347866,
+            "r": 222.00605599999994,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "GECCO '23 Companion, July 15-19, 2023, Lisbon, Portugal",
+      "text": "GECCO '23 Companion, July 15-19, 2023, Lisbon, Portugal"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 509.141,
+            "t": 729.2347866,
+            "r": 558.201683,
+            "b": 723.0700795565598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Kamer Ali Yuksel",
+      "text": "Kamer Ali Yuksel"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.798,
+            "t": 489.2602,
+            "r": 295.55638914559995,
+            "b": 312.48563520000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1030
+          ]
+        }
+      ],
+      "orig": "Theresults of the experiments revealed that the proposed method had the best sparse index tracking error among the other optimizers during the out-of-sample validation period. The effectiveness of the proposed method in optimizing a robust ensemble portfolio in the presence of stochastic rewards was demonstrated. Furthermore, the results showed that the ensemble portfolio obtained through the averaged sub-portfolio weights achieves better out-of-distribution robustness and generalization. In conclusion, the proposed metalearning approach for robust portfolio ensemble optimization was found to be promising through the experiments conducted. The proposed method outperformed popular optimization algorithms regarding sparse index tracking error, showing the effectiveness of using a deep generative model to generate diverse and highquality sub-portfolios for the ensemble. The results indicated that the proposed method was robust and generalized well, making it a potential solution for other robust optimization problems.",
+      "text": "Theresults of the experiments revealed that the proposed method had the best sparse index tracking error among the other optimizers during the out-of-sample validation period. The effectiveness of the proposed method in optimizing a robust ensemble portfolio in the presence of stochastic rewards was demonstrated. Furthermore, the results showed that the ensemble portfolio obtained through the averaged sub-portfolio weights achieves better out-of-distribution robustness and generalization. In conclusion, the proposed metalearning approach for robust portfolio ensemble optimization was found to be promising through the experiments conducted. The proposed method outperformed popular optimization algorithms regarding sparse index tracking error, showing the effectiveness of using a deep generative model to generate diverse and highquality sub-portfolios for the ensemble. The results indicated that the proposed method was robust and generalized well, making it a potential solution for other robust optimization problems."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.467,
+            "t": 631.7262000000001,
+            "r": 295.5635658879999,
+            "b": 487.82763520000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            824
+          ]
+        }
+      ],
+      "orig": "Theproposed method was compared with SGD, CMA-ES, RAdam, NAdam, RMSprop, Adagrad, Adam, AdamW, Adamax, and Rprop optimization algorithms based on the sparse index tracking error, which measures the L2-norm of deviations between the logarithmic returns of the target index and the sparse portfolio. The same number of maximum function evaluations were used for each optimizer, and their best validation performance achieved over the training iterations was reported. As demonstrated in Table 1, the validation performance of the proposed method was superior to that of the other optimizers in sparse tracking of Retail, Healthcare, and Information-Technology indexes (referred to as RTH, RYH, and VGT, respectively in Table 1). The dataset and source codes used in the experiments are available in the supplementary material.",
+      "text": "Theproposed method was compared with SGD, CMA-ES, RAdam, NAdam, RMSprop, Adagrad, Adam, AdamW, Adamax, and Rprop optimization algorithms based on the sparse index tracking error, which measures the L2-norm of deviations between the logarithmic returns of the target index and the sparse portfolio. The same number of maximum function evaluations were used for each optimizer, and their best validation performance achieved over the training iterations was reported. As demonstrated in Table 1, the validation performance of the proposed method was superior to that of the other optimizers in sparse tracking of Retail, Healthcare, and Information-Technology indexes (referred to as RTH, RYH, and VGT, respectively in Table 1). The dataset and source codes used in the experiments are available in the supplementary material."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.798,
+            "t": 291.5039148,
+            "r": 134.54715819999998,
+            "b": 282.4365275647059,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "5 DISCUSSION",
+      "text": "5 DISCUSSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.467,
+            "t": 281.0412,
+            "r": 295.556173952,
+            "b": 82.34863519999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1157
+          ]
+        }
+      ],
+      "orig": "Experimental results demonstrated the efficacy of using a metalearning approach to generate a robust portfolio ensemble in the presence of stochastic rewards. The proposed method leverages a deep generative model to generate diverse and high-quality subportfolios combined to form the ensemble portfolio. The results showed that the ensemble portfolio obtained by taking the average of the generated sub-portfolio weights was robust and generalized well. A potential area of future-work is experimenting with more advanced methods for bagging the co-optimized sub-portfolios. In this work, sub-portfolios are simply averaged to form the ensemble portfolio, but more sophisticated methods can further improve the ensemble's validation performance. For instance, correlations between the sub-portfolios or their individual risks (variances) can be used during bagging to obtain a more robust ensemble portfolio. Furthermore, the ensemble's uncorrelated constituents can be ensembled dynamically during the out-of-sample validation (or while trading in the real-world application) using nowcasting [6] via the short-term observations continuously made on them.",
+      "text": "Experimental results demonstrated the efficacy of using a metalearning approach to generate a robust portfolio ensemble in the presence of stochastic rewards. The proposed method leverages a deep generative model to generate diverse and high-quality subportfolios combined to form the ensemble portfolio. The results showed that the ensemble portfolio obtained by taking the average of the generated sub-portfolio weights was robust and generalized well. A potential area of future-work is experimenting with more advanced methods for bagging the co-optimized sub-portfolios. In this work, sub-portfolios are simply averaged to form the ensemble portfolio, but more sophisticated methods can further improve the ensemble's validation performance. For instance, correlations between the sub-portfolios or their individual risks (variances) can be used during bagging to obtain a more robust ensemble portfolio. Furthermore, the ensemble's uncorrelated constituents can be ensembled dynamically during the out-of-sample validation (or while trading in the real-world application) using nowcasting [6] via the short-term observations continuously made on them."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.955,
+            "t": 705.2019148,
+            "r": 405.72961860000004,
+            "b": 696.1345275647059,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "6 CONCLUSION",
+      "text": "6 CONCLUSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.623,
+            "t": 694.7402000000001,
+            "r": 559.7216382336,
+            "b": 441.25263520000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1477
+          ]
+        }
+      ],
+      "orig": "In this work, a novel meta-learning approach has been proposed for optimizing a robust ensemble portfolio. The approach used a deep generative model to generate high-quality and behaviorally diverse sub-portfolios combined to form an ensemble portfolio. The generative model was trained with a gradient-based optimizer to maximize the performance of sub-portfolios and minimize the maximum correlation between their returns. The results of the experiments showed that the proposed method outperforms popular optimization methods in terms of out-of-distribution robustness and generalization. The proposed method effectively balances performance and diversification, ensuring that the ensemble portfolio is robust against systematic shocks. This demonstrates the potential of meta-learning quality-diversity optimization using deep generative models in robust portfolio optimization and opens the door for further exploration in other domains where robust ensemble learning is desired. The proposed method can be applied to problems where diversity is desired among co-optimized solutions, and where stochastic or noisy rewards are present. The use of deep generative models in meta-learning quality-diversity optimization is novel and provides a promising direction for future research. Future-research could extend the proposed method to more complex portfolio optimization problems and explore its application to other domains where robustness and generalization are desired.",
+      "text": "In this work, a novel meta-learning approach has been proposed for optimizing a robust ensemble portfolio. The approach used a deep generative model to generate high-quality and behaviorally diverse sub-portfolios combined to form an ensemble portfolio. The generative model was trained with a gradient-based optimizer to maximize the performance of sub-portfolios and minimize the maximum correlation between their returns. The results of the experiments showed that the proposed method outperforms popular optimization methods in terms of out-of-distribution robustness and generalization. The proposed method effectively balances performance and diversification, ensuring that the ensemble portfolio is robust against systematic shocks. This demonstrates the potential of meta-learning quality-diversity optimization using deep generative models in robust portfolio optimization and opens the door for further exploration in other domains where robust ensemble learning is desired. The proposed method can be applied to problems where diversity is desired among co-optimized solutions, and where stochastic or noisy rewards are present. The use of deep generative models in meta-learning quality-diversity optimization is novel and provides a promising direction for future research. Future-research could extend the proposed method to more complex portfolio optimization problems and explore its application to other domains where robustness and generalization are desired."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.955,
+            "t": 429.2369148,
+            "r": 387.36960329999994,
+            "b": 420.1695275647059,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 321.198,
+            "t": 419.52152500000005,
+            "r": 551.7582031999995,
+            "b": 409.88373340000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "[1] Leo Breiman. 1996. Bagging predictors. Machine learning 24 (1996), 123-140.",
+      "text": "Leo Breiman. 1996. Bagging predictors. Machine learning 24 (1996), 123-140.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 321.19800000000004,
+            "t": 387.641525,
+            "r": 558.1989747040002,
+            "b": 370.0337334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "[3] Marcos Lopez De Prado. 2016. Building diversified portfolios that outperform out of sample. The Journal of Portfolio Management 42, 4 (2016), 59-69.",
+      "text": "Marcos Lopez De Prado. 2016. Building diversified portfolios that outperform out of sample. The Journal of Portfolio Management 42, 4 (2016), 59-69.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 321.198,
+            "t": 411.551525,
+            "r": 558.9684726000002,
+            "b": 385.9737334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "[2] Antoine Cully and Yiannis Demiris. 2017. Quality and diversity optimization: A unifying modular framework. IEEE Transactions on Evolutionary Computation 22, 2 (2017), 245-259.",
+      "text": "Antoine Cully and Yiannis Demiris. 2017. Quality and diversity optimization: A unifying modular framework. IEEE Transactions on Evolutionary Computation 22, 2 (2017), 245-259.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 321.19800000000004,
+            "t": 371.701525,
+            "r": 559.0276295151992,
+            "b": 354.0927334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "[4] Stanislav Fort, Huiyi Hu, and Balaji Lakshminarayanan. 2019. Deep ensembles: A loss landscape perspective. arXiv preprint arXiv:1912.02757 (2019).",
+      "text": "Stanislav Fort, Huiyi Hu, and Balaji Lakshminarayanan. 2019. Deep ensembles: A loss landscape perspective. arXiv preprint arXiv:1912.02757 (2019).",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 321.1980000000001,
+            "t": 331.850525,
+            "r": 559.3815917080001,
+            "b": 314.2427334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "[6] Alex Lipton and Marcos Lopez de Prado. 2020. Three Quant Lessons from COVID19. Risk Magazine, April (2020).",
+      "text": "Alex Lipton and Marcos Lopez de Prado. 2020. Three Quant Lessons from COVID19. Risk Magazine, April (2020).",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 321.198,
+            "t": 355.76052500000003,
+            "r": 558.2044561108005,
+            "b": 330.1827334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "[5] Xiaodong Li, Ke Tang, Mohammad N Omidvar, Zhenyu Yang, Kai Qin, and Hefei China. 2013. Benchmark functions for the CEC 2013 special session and competition on large-scale global optimization. gene 7, 33 (2013), 8.",
+      "text": "Xiaodong Li, Ke Tang, Mohammad N Omidvar, Zhenyu Yang, Kai Qin, and Hefei China. 2013. Benchmark functions for the CEC 2013 special session and competition on large-scale global optimization. gene 7, 33 (2013), 8.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 321.198,
+            "t": 315.910525,
+            "r": 558.2010362383999,
+            "b": 298.3027334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "[7] Marcos Lopez de Prado. 2019. Tactical investment algorithms. Available at SSRN 3459866 (2019).",
+      "text": "Marcos Lopez de Prado. 2019. Tactical investment algorithms. Available at SSRN 3459866 (2019).",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 321.198,
+            "t": 284.02952500000004,
+            "r": 558.9706939929998,
+            "b": 266.4217334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "[9] Harry Markowitz. 1952. Portfolio Selection. The Journal of Finance 7, 1 (1952), 77-91. http://www.jstor.org/stable/2975974",
+      "text": "Harry Markowitz. 1952. Portfolio Selection. The Journal of Finance 7, 1 (1952), 77-91. http://www.jstor.org/stable/2975974",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 321.19800000000004,
+            "t": 299.970525,
+            "r": 559.2778494591998,
+            "b": 282.3617334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "[8] Ilya Loshchilov and Frank Hutter. 2017. Decoupled weight decay regularization. arXiv preprint arXiv:1711.05101 (2017).",
+      "text": "Ilya Loshchilov and Frank Hutter. 2017. Decoupled weight decay regularization. arXiv preprint arXiv:1711.05101 (2017).",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.955,
+            "t": 268.0895250000001,
+            "r": 558.1992536560001,
+            "b": 242.51173340000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "[10] Andre Martins and Ramon Astudillo. 2016. From softmax to sparsemax: A sparse model of attention and multi-label classification. In International conference on machine learning . PMLR, 1614-1623.",
+      "text": "Andre Martins and Ramon Astudillo. 2016. From softmax to sparsemax: A sparse model of attention and multi-label classification. In International conference on machine learning . PMLR, 1614-1623.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 236.20952499999999,
+            "r": 558.4464330232,
+            "b": 218.60173340000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "[12] Justin K Pugh, Lisa B Soros, and Kenneth O Stanley. 2016. Quality diversity: A new frontier for evolutionary computation. Frontiers in Robotics and AI (2016).",
+      "text": "Justin K Pugh, Lisa B Soros, and Kenneth O Stanley. 2016. Quality diversity: A new frontier for evolutionary computation. Frontiers in Robotics and AI (2016).",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 244.179525,
+            "r": 521.7574851999999,
+            "b": 234.5417334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "[11] Attilio Meucci. 2009. Managing diversification. Risk (2009), 74-79.",
+      "text": "Attilio Meucci. 2009. Managing diversification. Risk (2009), 74-79.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.955,
+            "t": 220.26852499999995,
+            "r": 558.2014809159999,
+            "b": 202.66073340000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "[13] Tibshirani Robert. 1994. Regression shrinkage and selection via the lasso. Journal of the Royal Statistical Society Series B 58 (1994), 267.",
+      "text": "Tibshirani Robert. 1994. Regression shrinkage and selection via the lasso. Journal of the Royal Statistical Society Series B 58 (1994), 267.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.955,
+            "t": 180.41852500000005,
+            "r": 558.20280944,
+            "b": 154.84073339999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "[15] Yi Sun, Daan Wierstra, Tom Schaul, and Jürgen Schmidhuber. 2009. Efficient natural evolution strategies. In Proceedings of the 11th Annual conference on Genetic and evolutionary computation . 539-546.",
+      "text": "Yi Sun, Daan Wierstra, Tom Schaul, and Jürgen Schmidhuber. 2009. Efficient natural evolution strategies. In Proceedings of the 11th Annual conference on Genetic and evolutionary computation . 539-546.",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.955,
+            "t": 204.328525,
+            "r": 558.2046403214001,
+            "b": 178.75073339999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "[14] Tom Schaul. 2012. Benchmarking exponential natural evolution strategies on the noiseless and noisy black-box optimization testbeds. In Proceedings of the 14th annual conference companion on Genetic and evolutionary computation . 213-220.",
+      "text": "Tom Schaul. 2012. Benchmarking exponential natural evolution strategies on the noiseless and noisy black-box optimization testbeds. In Proceedings of the 14th annual conference companion on Genetic and evolutionary computation . 213-220.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 156.50852499999996,
+            "r": 558.2036610975998,
+            "b": 130.92973340000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "[16] Daan Wierstra, Tom Schaul, Tobias Glasmachers, Yi Sun, Jan Peters, and Jürgen Schmidhuber. 2014. Natural evolution strategies. The Journal of Machine Learning Research 15, 1 (2014), 949-980.",
+      "text": "Daan Wierstra, Tom Schaul, Tobias Glasmachers, Yi Sun, Jan Peters, and Jürgen Schmidhuber. 2014. Natural evolution strategies. The Journal of Machine Learning Research 15, 1 (2014), 949-980.",
+      "enumerated": true,
+      "marker": "[16]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.052589416503906,
+            "t": 620.8046112060547,
+            "r": 559.5958862304688,
+            "b": 423.2119140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/groups/1"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 346.89276123046875,
+            "t": 675.5116195678711,
+            "r": 529.173828125,
+            "b": 532.3978576660156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/1"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    }
+  }
+}

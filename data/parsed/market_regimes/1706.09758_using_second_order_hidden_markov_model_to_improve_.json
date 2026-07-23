@@ -1,0 +1,2283 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1706.09758_using_second_order_hidden_markov_model_to_improve_",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4504207776143519891,
+    "filename": "1706.09758_using_second_order_hidden_markov_model_to_improve_.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_1_0_0",
+      "label": "unspecified"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.864,
+            "t": 738.4850726757813,
+            "r": 536.2606000000003,
+            "b": 693.5557308575995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "USING SECOND-ORDER HIDDEN MARKOV MODEL TO IMPROVE SPEAKER IDENTIFICATION RECOGNITION PERFORMANCE UNDER NEUTRAL CONDITION",
+      "text": "USING SECOND-ORDER HIDDEN MARKOV MODEL TO IMPROVE SPEAKER IDENTIFICATION RECOGNITION PERFORMANCE UNDER NEUTRAL CONDITION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 267.41,
+            "t": 673.3479926757813,
+            "r": 336.79,
+            "b": 663.0010835848722,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Ismail Shahin",
+      "text": "Ismail Shahin"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 152.9,
+            "t": 642.7359926757813,
+            "r": 451.15,
+            "b": 632.4039926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Electrical/Electronics and Computer Engineering Department",
+      "text": "Electrical/Electronics and Computer Engineering Department"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 127.58,
+            "t": 628.5759926757813,
+            "r": 476.62,
+            "b": 604.0839926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "University of Sharjah, P. O. Box  27272, Sharjah, United Arab Emirates E-mail: ismail@sharjah.ac.ae",
+      "text": "University of Sharjah, P. O. Box  27272, Sharjah, United Arab Emirates E-mail: ismail@sharjah.ac.ae"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 137.42,
+            "t": 571.4739926757813,
+            "r": 205.85,
+            "b": 561.3805381303267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "ABSTRACT",
+      "text": "ABSTRACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.88,
+            "t": 543.5859926757813,
+            "r": 289.46000000000004,
+            "b": 405.81399267578126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            413
+          ]
+        }
+      ],
+      "orig": "In this paper, second-order hidden  Markov model (HMM2) has been used and implemented to improve the recognition performance of textdependent speaker identification systems under neutral talking condition. Our results show that HMM2 improves  the  recognition  performance under neutral talking condition compared to the first-order hidden Markov model (HMM1). The recognition performance has been improved by 9%.",
+      "text": "In this paper, second-order hidden  Markov model (HMM2) has been used and implemented to improve the recognition performance of textdependent speaker identification systems under neutral talking condition. Our results show that HMM2 improves  the  recognition  performance under neutral talking condition compared to the first-order hidden Markov model (HMM1). The recognition performance has been improved by 9%."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 105.14,
+            "t": 373.2139926757813,
+            "r": 221.21,
+            "b": 363.12053813032674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. INTRODUCTION",
+      "text": "1. INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.88,
+            "t": 345.32599267578127,
+            "r": 290.844,
+            "b": 264.19399267578126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            252
+          ]
+        }
+      ],
+      "orig": "The  use  of  hidden  Markov  model  (HMM)  for speech  and  speaker  recognition  has  become popular  in  the  last  two  decades.  HMM  has become one of the most successful and broadly used modeling technique for speech and speaker recognition [1].",
+      "text": "The  use  of  hidden  Markov  model  (HMM)  for speech  and  speaker  recognition  has  become popular  in  the  last  two  decades.  HMM  has become one of the most successful and broadly used modeling technique for speech and speaker recognition [1]."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.88,
+            "t": 260.3659926757813,
+            "r": 290.91799999999995,
+            "b": 80.08799267578127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            596
+          ]
+        }
+      ],
+      "orig": "HMM uses Markov chain to model the changing  statistical  characteristics  that  exist  in the  actual  observations  of  speech  signals.  The Markov  process  is  a  double  stochastic  process where  there  is  an  unobservable  Markov  chain defined  by  a  state  transition  matrix,  and  where each  state  of  the  Markov  chain  is  associated with either a discrete output probability distribution  (discrete  HMM)  or  a  continuous output  probability  density  function  (continuous HMM)  [2].  The  theory  of  Markov  chains  has been applied to speech and speaker recognition [3].",
+      "text": "HMM uses Markov chain to model the changing  statistical  characteristics  that  exist  in the  actual  observations  of  speech  signals.  The Markov  process  is  a  double  stochastic  process where  there  is  an  unobservable  Markov  chain defined  by  a  state  transition  matrix,  and  where each  state  of  the  Markov  chain  is  associated with either a discrete output probability distribution  (discrete  HMM)  or  a  continuous output  probability  density  function  (continuous HMM)  [2].  The  theory  of  Markov  chains  has been applied to speech and speaker recognition [3]."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.17,
+            "t": 571.9059926757814,
+            "r": 546.1339999999998,
+            "b": 490.7739926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "HMM  is a powerful technique in optimizing the parameters that are used in modeling the speech signals.  This  optimization decreases  the  computational  complexity  in  the decoding procedure and improves the recognition accuracy [2].",
+      "text": "HMM  is a powerful technique in optimizing the parameters that are used in modeling the speech signals.  This  optimization decreases  the  computational  complexity  in  the decoding procedure and improves the recognition accuracy [2]."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.17,
+            "t": 486.94599267578127,
+            "r": 546.106,
+            "b": 434.13399267578126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "In  the  last  two  decades,  the  majority  of the  work  performed  in  the  field  of  speech  and speaker  recognition  on  hidden  Markov  model (HMM) has been done using HMM1 [2-7].",
+      "text": "In  the  last  two  decades,  the  majority  of the  work  performed  in  the  field  of  speech  and speaker  recognition  on  hidden  Markov  model (HMM) has been done using HMM1 [2-7]."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.17,
+            "t": 430.3059926757813,
+            "r": 546.1959999999999,
+            "b": 377.4739926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "In  this  paper,  HMM2  is  being  used  and implemented  to  train  and  test  text-dependent speaker identification systems under neutral talking condition.",
+      "text": "In  this  paper,  HMM2  is  being  used  and implemented  to  train  and  test  text-dependent speaker identification systems under neutral talking condition."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 334.27,
+            "t": 359.05399267578133,
+            "r": 502.642,
+            "b": 334.80053813032674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "2. SECOND-ORDER HIDDEN MARKOV MODEL",
+      "text": "2. SECOND-ORDER HIDDEN MARKOV MODEL",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.17,
+            "t": 317.0059926757813,
+            "r": 546.22,
+            "b": 207.55399267578127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            363
+          ]
+        }
+      ],
+      "orig": "In  HMM1,  the  underlying  state  sequence  is  a first-order  Markov  chain  where  the  stochastic process is specified by a 2-D matrix of a priori transition probabilities (aij) between states si and sj , while in HMM2  the underlying state sequence is a second-order Markov chain where the  stochastic  process  is  specified  by  a  3-D matrix (aijk) [8,9]:",
+      "text": "In  HMM1,  the  underlying  state  sequence  is  a first-order  Markov  chain  where  the  stochastic process is specified by a 2-D matrix of a priori transition probabilities (aij) between states si and sj , while in HMM2  the underlying state sequence is a second-order Markov chain where the  stochastic  process  is  specified  by  a  3-D matrix (aijk) [8,9]:"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 328.72756208300723,
+            "t": 189.07777651327376,
+            "r": 542.252027308936,
+            "b": 170.24118967835113,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "  (1) s s ,q q s Prob q a i 2 t j 1 t k t ijk      ",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.17,
+            "t": 149.3359926757813,
+            "r": 409.51,
+            "b": 139.00399267578132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "with the constraints:",
+      "text": "with the constraints:"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 329.89959008513614,
+            "t": 125.51673941488173,
+            "r": 499.312228187952,
+            "b": 95.69834836972814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "1 i, j N 1 a N 1 k ijk     ",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.88,
+            "t": 767.8079926757813,
+            "r": 290.81600000000003,
+            "b": 743.2810835848721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "where N is  the  number  of  states  in  the  model, and qt is the actual state at time t .",
+      "text": "where N is  the  number  of  states  in  the  model, and qt is the actual state at time t ."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.515766118,
+            "t": 739.4559926757813,
+            "r": 290.82,
+            "b": 712.0523787381045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "The  probability  of  the  state  sequence, T 2 1 ,...,q q ,q Q  is defined as:",
+      "text": "The  probability  of  the  state  sequence, T 2 1 ,...,q q ,q Q  is defined as:"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 81.9259979570494,
+            "t": 694.6138797910818,
+            "r": 281.0022905783257,
+            "b": 664.6497781816281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "(2) a a Π Prob(Q) T 3 t q q q q q q t 1 t 2 t 2 1 1     ",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.88,
+            "t": 645.6279926757812,
+            "r": 290.942,
+            "b": 590.6439926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "where i  is the probability of state si at time t = 1,  a ij is  the  probability  of  the  transition  from state  s i to  state  s j at  time t =  2,  and T is  the utterance length.",
+      "text": "where i  is the probability of state si at time t = 1,  a ij is  the  probability  of  the  transition  from state  s i to  state  s j at  time t =  2,  and T is  the utterance length."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.88,
+            "t": 586.8159926757813,
+            "r": 290.82800000000003,
+            "b": 562.2939926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Each state si is associated with a mixture of Gaussian distributions:",
+      "text": "Each state si is associated with a mixture of Gaussian distributions:"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 86.92584138725,
+            "t": 551.1777631954891,
+            "r": 281.28945986919496,
+            "b": 486.51550482251884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "        M 1 m im M 1 m im im t im t i (3) 1 c with , , N O ;μ c b (O )Δ",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.88,
+            "t": 470.9979926757813,
+            "r": 290.93,
+            "b": 413.37399267578127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "where the vector Ot is the input vector at time t . Given  a  sequence  of  observed  vectors, , ,...,O O ,O O T 2 1  the joint state-output probability is defined as:",
+      "text": "where the vector Ot is the input vector at time t . Given  a  sequence  of  observed  vectors, , ,...,O O ,O O T 2 1  the joint state-output probability is defined as:"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 77.553024531,
+            "t": 385.42244268997297,
+            "r": 281.50522897686,
+            "b": 334.8980570710077,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "(4) ) (O b a ). (O b (O )a b Π λ) Prob(Q,O T 3 t t q q q q 2 q q q 1 q q t t 1 t 2 t 2 2 1 1 1     ",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.344,
+            "t": 306.4939926757813,
+            "r": 280.37,
+            "b": 282.24053813032674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "3. EXTENDED VITERBI AND BAUMWELCH ALGORITHMS",
+      "text": "3. EXTENDED VITERBI AND BAUMWELCH ALGORITHMS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.88,
+            "t": 258.4459926757813,
+            "r": 289.3320000000001,
+            "b": 219.79108358487224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "The most likely state sequence can be found by using  the  probability  of  the  partial  alignment ending at transition (sj,sk) at times ( t -1, t ):",
+      "text": "The most likely state sequence can be found by using  the  probability  of  the  partial  alignment ending at transition (sj,sk) at times ( t -1, t ):"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.72761197031019,
+            "t": 199.41659786737614,
+            "r": 284.0892560762423,
+            "b": 148.66041991182806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "  (5) 1 j,k 2, N t T λ ,...,O ,O ,O s s ,q ,...,q Prob q δ (j,k)Δ t 2 1 k t j 1 t 1 t       ",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.88,
+            "t": 128.2159926757813,
+            "r": 290.93,
+            "b": 102.10927267578131,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Recursive  computation  of  the  forward function  t (j,k) is given by:",
+      "text": "Recursive  computation  of  the  forward function  t (j,k) is given by:"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 330.72748287727,
+            "t": 771.2777641960313,
+            "r": 542.1796899438699,
+            "b": 736.3441043893813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "  (6) 1 j,k 3, N t T ) (O . b (i, j).a δ max (j, k) δ t k ijk 1 t 1 i N t        ",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.17,
+            "t": 715.5759926757813,
+            "r": 546.22,
+            "b": 662.7610835848722,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "The forward function  t (j,k) defines the probability  of  the  partial  observation  sequence, O1, O2,…, Ot, and the transition (sj,sk) between time t -1 and t :",
+      "text": "The forward function  t (j,k) defines the probability  of  the  partial  observation  sequence, O1, O2,…, Ot, and the transition (sj,sk) between time t -1 and t :"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.17,
+            "t": 658.2159926757813,
+            "r": 312.17,
+            "b": 648.1126732727962,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.17,
+            "t": 603.7359926757813,
+            "r": 312.17,
+            "b": 593.6326732727962,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.17,
+            "t": 589.0959926757813,
+            "r": 546.0979999999998,
+            "b": 563.6792726757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": " t (j,k) can be computed from the two transitions (si ,sj) and (sj,sk) between states si and sk:",
+      "text": " t (j,k) can be computed from the two transitions (si ,sj) and (sj,sk) between states si and sk:"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 338.72715551976,
+            "t": 548.4132080808374,
+            "r": 541.2198056538157,
+            "b": 502.7040585089323,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "(8) 1 j,k 2, N t 1 T ) (O .b (i, j) .a α (j, k) α N 1 i 1 t k ijk t 1 t          ",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.17,
+            "t": 481.6659926757813,
+            "r": 546.1959999999999,
+            "b": 457.1739926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "The  backward  function  t (i,j)  can  be expressed as:",
+      "text": "The  backward  function  t (i,j)  can  be expressed as:"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 320.35440039971064,
+            "t": 437.0804007701661,
+            "r": 538.914994278352,
+            "b": 399.67329931802624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "  (9) 1 i, j 2, N t 1 T s ,λ s ,q q ,...,O β (i, j)ΔProb O j t i 1 t T 1 t t         ",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.17,
+            "t": 378.5659926757813,
+            "r": 546.22,
+            "b": 325.03108358487225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "where,  t (i, j) is defined as the probability of the partial  observation  sequence  from t+ 1  to T , given  the  model  and  the  transition (si ,s j ) between times t -1 and t .",
+      "text": "where,  t (i, j) is defined as the probability of the partial  observation  sequence  from t+ 1  to T , given  the  model  and  the  transition (si ,s j ) between times t -1 and t ."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 358.03,
+            "t": 292.45399267578136,
+            "r": 497.5,
+            "b": 282.36053813032674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "4. SPEECH DATA BASE",
+      "text": "4. SPEECH DATA BASE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.17,
+            "t": 258.5659926757812,
+            "r": 546.2979999999999,
+            "b": 191.56399267578126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            240
+          ]
+        }
+      ],
+      "orig": "In this research, our speech data base consists of twenty  different  speakers  (ten  adult  males  and ten  adult  females)  uttering  the  same  utterance (10 different isolated-word utterances) nine times under neutral talking condition.",
+      "text": "In this research, our speech data base consists of twenty  different  speakers  (ten  adult  males  and ten  adult  females)  uttering  the  same  utterance (10 different isolated-word utterances) nine times under neutral talking condition."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.17,
+            "t": 187.7359926757813,
+            "r": 546.22,
+            "b": 120.76399267578131,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "Our speech data base is captured by a speech acquisition  board  using  a  10-bit  A/D  converter and sampled at a sampling rate of 8 KHz. The speech data base is then preprocessed in order to be treated and analyzed easily.",
+      "text": "Our speech data base is captured by a speech acquisition  board  using  a  10-bit  A/D  converter and sampled at a sampling rate of 8 KHz. The speech data base is then preprocessed in order to be treated and analyzed easily."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 326.7276119703102,
+            "t": 645.7965292869349,
+            "r": 542.1306733963983,
+            "b": 610.8356181890351,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "  (7) 1 j,k 2, N t T λ s s ,q ,...,O ,q α (j,k)ΔProb O k t j 1 t t 1 t       ",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 135.02,
+            "t": 767.3639926757813,
+            "r": 209.93,
+            "b": 757.2705381303267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "5. RESULTS",
+      "text": "5. RESULTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.88,
+            "t": 733.4559926757813,
+            "r": 289.478,
+            "b": 567.3639926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            539
+          ]
+        }
+      ],
+      "orig": "In this research, linear predictive coding (LPC) cepstral  feature  analysis  is  used  to  form  the observation vector for HMM1 and HMM2 (leftto-right  model  in  both  HMM1  and  HMM2). Cepstral based features have been used extensively  in  speech  recognition  applications because  they  have  been  shown  to  outperform linear predictive coefficients.  Cepstral  based features  attempt  to  incorporate  the  nonlinear filtering  characteristics  of  the  human  auditory system  in  the  measurement  of  spectral  band energies.",
+      "text": "In this research, linear predictive coding (LPC) cepstral  feature  analysis  is  used  to  form  the observation vector for HMM1 and HMM2 (leftto-right  model  in  both  HMM1  and  HMM2). Cepstral based features have been used extensively  in  speech  recognition  applications because  they  have  been  shown  to  outperform linear predictive coefficients.  Cepstral  based features  attempt  to  incorporate  the  nonlinear filtering  characteristics  of  the  human  auditory system  in  the  measurement  of  spectral  band energies."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.88,
+            "t": 563.5179926757813,
+            "r": 289.44200000000006,
+            "b": 510.6939926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "The  number  of  states, N ,  is  equal  to  5, the  number  of  mixtures, M ,  is  equal  to  5  per state, with continuous mixture observation density is selected in HMM1 and HMM2.",
+      "text": "The  number  of  states, N ,  is  equal  to  5, the  number  of  mixtures, M ,  is  equal  to  5  per state, with continuous mixture observation density is selected in HMM1 and HMM2."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.88,
+            "t": 506.8659926757813,
+            "r": 289.46599999999995,
+            "b": 411.57399267578126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "Our  results  show  that  using  HMM2  in the training and testing phases of text-dependent speaker identification systems under neutral talking condition improves the recognition performance  compared  to  that  using  HMM1. The recognition performance has been improved by 9%.",
+      "text": "Our  results  show  that  using  HMM2  in the training and testing phases of text-dependent speaker identification systems under neutral talking condition improves the recognition performance  compared  to  that  using  HMM1. The recognition performance has been improved by 9%."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.88,
+            "t": 407.7459926757813,
+            "r": 289.46599999999995,
+            "b": 340.75399267578126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "Table  1  compares  the  results  of the recognition performance of text-dependent speaker identification systems under neutral talking condition when HMM2 is used with that when HMM1 is used.",
+      "text": "Table  1  compares  the  results  of the recognition performance of text-dependent speaker identification systems under neutral talking condition when HMM2 is used with that when HMM1 is used."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.48,
+            "t": 324.92599267578134,
+            "r": 290.2560000000001,
+            "b": 300.43399267578127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "Table 1. Recognition performance under neutral talking condition using HMM1 and HMM2",
+      "text": "Table 1. Recognition performance under neutral talking condition using HMM1 and HMM2"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 74.544,
+            "t": 274.88599267578127,
+            "r": 117.86,
+            "b": 264.5539926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Model",
+      "text": "Model"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 142.46,
+            "t": 274.88599267578127,
+            "r": 267.41,
+            "b": 264.5539926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Recognition performance",
+      "text": "Recognition performance"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 74.544,
+            "t": 253.16599267578135,
+            "r": 122.54,
+            "b": 242.83399267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "HMM1",
+      "text": "HMM1"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 142.46,
+            "t": 253.16599267578135,
+            "r": 212.45,
+            "b": 242.83399267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "90%",
+      "text": "90%"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 74.544,
+            "t": 231.44599267578133,
+            "r": 122.54,
+            "b": 221.11399267578133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "HMM2",
+      "text": "HMM2"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 142.46,
+            "t": 231.44599267578133,
+            "r": 212.45,
+            "b": 221.11399267578133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "98%",
+      "text": "98%"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.4,
+            "t": 180.94399267578126,
+            "r": 269.93,
+            "b": 170.85053813032675,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "6. DISCUSSION AND CONCLUSIONS",
+      "text": "6. DISCUSSION AND CONCLUSIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.88,
+            "t": 147.05599267578134,
+            "r": 290.93,
+            "b": 80.08799267578127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            237
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 309.17,
+            "t": 767.7959926757813,
+            "r": 546.1099999999997,
+            "b": 714.9639926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            238,
+            379
+          ]
+        }
+      ],
+      "orig": "In this work, we showed that HMM2 yields high speaker  identification  recognition  performance under neutral talking condition. Using HMM2 in the training and testing phases of text-dependent speaker identification systems under neutral talking condition improves the recognition performance  compared  to  that  using  HMM1. The recognition performance has been improved by 9%.",
+      "text": "In this work, we showed that HMM2 yields high speaker  identification  recognition  performance under neutral talking condition. Using HMM2 in the training and testing phases of text-dependent speaker identification systems under neutral talking condition improves the recognition performance  compared  to  that  using  HMM1. The recognition performance has been improved by 9%."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 309.17,
+            "t": 711.1359926757814,
+            "r": 546.208,
+            "b": 573.3639926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            434
+          ]
+        }
+      ],
+      "orig": "Despite  the  success  of  using  HMM1  under neutral talking condition, HMM2  is more appropriate model than HMM1 for textdependent speaker identification systems because the underlying state sequence in HMM2 is a second-order  Markov  chain where the stochastic process is specified by a 3-D matrix, while in HMM1 the underlying state sequence is a first-order Markov chain where the stochastic process is specified by a 2-D matrix.",
+      "text": "Despite  the  success  of  using  HMM1  under neutral talking condition, HMM2  is more appropriate model than HMM1 for textdependent speaker identification systems because the underlying state sequence in HMM2 is a second-order  Markov  chain where the stochastic process is specified by a 3-D matrix, while in HMM1 the underlying state sequence is a first-order Markov chain where the stochastic process is specified by a 2-D matrix."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 309.17,
+            "t": 569.5059926757814,
+            "r": 546.1840000000001,
+            "b": 487.6539926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "A naïve implementation of the recursion for the computation of  and  in  HMM2 requires on the order of N 3 T operations, compared with N 2 T  operations  in  HMM1.  Therefore,  more memory space is required in HMM2 than that in HMM1.",
+      "text": "A naïve implementation of the recursion for the computation of  and  in  HMM2 requires on the order of N 3 T operations, compared with N 2 T  operations  in  HMM1.  Therefore,  more memory space is required in HMM2 than that in HMM1."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 368.11,
+            "t": 469.23399267578134,
+            "r": 468.82,
+            "b": 459.1405381303268,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "7. REFERENCES",
+      "text": "7. REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 309.17,
+            "t": 435.34599267578125,
+            "r": 544.78,
+            "b": 382.51399267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "[1]  B.  H.  Juang  and  L.  R.  Rabiner,  \"Hidden Markov models for speech recognition,\" Technometrics ,  vol.  33,  no.  3,  pp.  251-272, August 1991.",
+      "text": "[1]  B.  H.  Juang  and  L.  R.  Rabiner,  \"Hidden Markov models for speech recognition,\" Technometrics ,  vol.  33,  no.  3,  pp.  251-272, August 1991."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 309.17,
+            "t": 364.52599267578125,
+            "r": 544.78,
+            "b": 311.71399267578136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "[2]  X.  D.  Huang,  Y.  Ariki,  and  M.  A.  Jack, Hidden Markov Models for Speech Recognition , Edinburgh University Press, Great Britain, 1990.",
+      "text": " X.  D.  Huang,  Y.  Ariki,  and  M.  A.  Jack, Hidden Markov Models for Speech Recognition , Edinburgh University Press, Great Britain, 1990.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 309.17,
+            "t": 293.7259926757813,
+            "r": 544.7019999999998,
+            "b": 240.9139926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "[3]  J.  Dai,  \"Isolated  word  recognition  using Markov chain models,\" IEEE Trans. on Speech and  Audio  Processing ,  vol.  3,  no.  6,  pp.  458463, November 1995.",
+      "text": " J.  Dai,  \"Isolated  word  recognition  using Markov chain models,\" IEEE Trans. on Speech and  Audio  Processing ,  vol.  3,  no.  6,  pp.  458463, November 1995.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 309.17,
+            "t": 222.92599267578134,
+            "r": 544.756,
+            "b": 170.08399267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "[4]  B.  H.  Juang  and  L.  R.  Rabiner,  \"Mixture autoregressive hidden Markov models for speech signals,\" IEEE Trans. on ASSP , vol. 33, no. 6, pp. 1404-1412, December 1985.",
+      "text": " B.  H.  Juang  and  L.  R.  Rabiner,  \"Mixture autoregressive hidden Markov models for speech signals,\" IEEE Trans. on ASSP , vol. 33, no. 6, pp. 1404-1412, December 1985.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 309.17,
+            "t": 152.0959926757813,
+            "r": 544.7139999999999,
+            "b": 85.12508358487219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            212
+          ]
+        }
+      ],
+      "orig": "[5]  L.  R.  Rabiner,  S.  E.  Levinson,  and  M.  M. Sondhi, \"On the application of vector quantization  and  hidden  Markov  models  to speaker-independent, isolated word recognition,\" The Bell System Technical",
+      "text": " L.  R.  Rabiner,  S.  E.  Levinson,  and  M.  M. Sondhi, \"On the application of vector quantization  and  hidden  Markov  models  to speaker-independent, isolated word recognition,\" The Bell System Technical",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.88,
+            "t": 767.8079926757813,
+            "r": 289.46599999999995,
+            "b": 743.2839926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Journal ,  vol.  62,  no.  4,  pp.  1075-1105,  April 1983.",
+      "text": "Journal ,  vol.  62,  no.  4,  pp.  1075-1105,  April 1983."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.88,
+            "t": 725.2959926757813,
+            "r": 289.49,
+            "b": 658.3239926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "[6]  I.  Shahin  and  N.  Botros,  \"Text-dependent speaker identification using hidden Markov model  with stress compensation technique,\" IEEE SOUTHEASTCON '98 Proceedings , Orlando, FL, April 1998, pp. 61-64.",
+      "text": "[6]  I.  Shahin  and  N.  Botros,  \"Text-dependent speaker identification using hidden Markov model  with stress compensation technique,\" IEEE SOUTHEASTCON '98 Proceedings , Orlando, FL, April 1998, pp. 61-64."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.88,
+            "t": 640.3359926757813,
+            "r": 289.454,
+            "b": 587.5239926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "[7] L. R. Rabiner, \"A  Tutorial on hidden Markov  models  and  selected  applications  in speech recognition,\" Proceedings of IEEE ,  vol. 77, no. 2, pp. 257-286, February 1989.",
+      "text": "[7] L. R. Rabiner, \"A  Tutorial on hidden Markov  models  and  selected  applications  in speech recognition,\" Proceedings of IEEE ,  vol. 77, no. 2, pp. 257-286, February 1989."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 309.17,
+            "t": 767.7959926757813,
+            "r": 544.7439999999999,
+            "b": 700.8039926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "[8]  J.  F.  Mari,  J.  P.  Haton,  and  A.  Kriouile, \"Automatic word recognition based on secondorder hidden Markov models,\" IEEE Trans. on Speech and Audio Processing , vol. 5, no. 1, pp. 22-25, January 1997.",
+      "text": "[8]  J.  F.  Mari,  J.  P.  Haton,  and  A.  Kriouile, \"Automatic word recognition based on secondorder hidden Markov models,\" IEEE Trans. on Speech and Audio Processing , vol. 5, no. 1, pp. 22-25, January 1997."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 309.17,
+            "t": 682.8159926757813,
+            "r": 544.7679999999999,
+            "b": 587.5239926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            285
+          ]
+        }
+      ],
+      "orig": "[9] J. F. Mari, F. D. Fohr, and J. C. Janqua, \"A second-order HMM for high performance word and phoneme-based continuous speech recognition,\" Proceedings  IEEE  International Conference  on  Acoustics  Speech  and  Signal Processing ,  Atlanta,  USA,  May  1996,  vol.  1, pp. 435-438.",
+      "text": "[9] J. F. Mari, F. D. Fohr, and J. C. Janqua, \"A second-order HMM for high performance word and phoneme-based continuous speech recognition,\" Proceedings  IEEE  International Conference  on  Acoustics  Speech  and  Signal Processing ,  Atlanta,  USA,  May  1996,  vol.  1, pp. 435-438."
+    }
+  ],
+  "pictures": [],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/groups/1"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.6800765991211,
+            "t": 279.20123291015625,
+            "r": 271.9962463378906,
+            "b": 212.38482666015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/1"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 841.6799926757812
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 841.6799926757812
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 841.6799926757812
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 841.6799926757812
+      },
+      "page_no": 4
+    }
+  }
+}

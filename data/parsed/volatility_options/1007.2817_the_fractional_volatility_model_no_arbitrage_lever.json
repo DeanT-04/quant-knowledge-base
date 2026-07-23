@@ -1,0 +1,6327 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1007.2817_the_fractional_volatility_model_no_arbitrage_lever",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 1468147517800556925,
+    "filename": "1007.2817_the_fractional_volatility_model_no_arbitrage_lever.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/164"
+      },
+      {
+        "$ref": "#/texts/165"
+      },
+      {
+        "$ref": "#/texts/166"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/170"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/173"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/186"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/198"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/167"
+        },
+        {
+          "$ref": "#/texts/168"
+        },
+        {
+          "$ref": "#/texts/169"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/171"
+        },
+        {
+          "$ref": "#/texts/172"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/174"
+        },
+        {
+          "$ref": "#/texts/175"
+        },
+        {
+          "$ref": "#/texts/176"
+        },
+        {
+          "$ref": "#/texts/177"
+        },
+        {
+          "$ref": "#/texts/178"
+        },
+        {
+          "$ref": "#/texts/179"
+        },
+        {
+          "$ref": "#/texts/180"
+        },
+        {
+          "$ref": "#/texts/181"
+        },
+        {
+          "$ref": "#/texts/182"
+        },
+        {
+          "$ref": "#/texts/183"
+        },
+        {
+          "$ref": "#/texts/184"
+        },
+        {
+          "$ref": "#/texts/185"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/187"
+        },
+        {
+          "$ref": "#/texts/188"
+        },
+        {
+          "$ref": "#/texts/189"
+        },
+        {
+          "$ref": "#/texts/190"
+        },
+        {
+          "$ref": "#/texts/191"
+        },
+        {
+          "$ref": "#/texts/192"
+        },
+        {
+          "$ref": "#/texts/193"
+        },
+        {
+          "$ref": "#/texts/194"
+        },
+        {
+          "$ref": "#/texts/195"
+        },
+        {
+          "$ref": "#/texts/196"
+        },
+        {
+          "$ref": "#/texts/197"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 594.1,
+            "r": 36.206559297218156,
+            "b": 243.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:1007.2817v1  [q-fin.PR]  16 Jul 2010",
+      "text": "arXiv:1007.2817v1  [q-fin.PR]  16 Jul 2010",
+      "hyperlink": "http://arxiv.org/abs/1007.2817v1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 117.12,
+            "t": 619.9925558,
+            "r": 493.0657029746319,
+            "b": 576.9387154085471,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "The fractional volatility model: No-arbitrage, leverage and risk measures",
+      "text": "The fractional volatility model: No-arbitrage, leverage and risk measures",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 165.8399,
+            "t": 558.15204,
+            "r": 448.903455329752,
+            "b": 541.1159256000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "R. Vilela Mendes ∗† and Maria Jo˜ ao Oliveira ∗‡",
+      "text": "R. Vilela Mendes ∗† and Maria Jo˜ ao Oliveira ∗‡"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 281.1601,
+            "t": 506.2145118,
+            "r": 329.116532509115,
+            "b": 498.5345054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 140.1601,
+            "t": 491.541985,
+            "r": 470.19286390002,
+            "b": 385.83268499999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            515
+          ]
+        }
+      ],
+      "orig": "Based on a criterium of mathematical simplicity and consistency with empirical market data, a stochastic volatility model has been obtained with the volatility process driven by fractional noise. Depending on whether the stochasticity generators of log-price and volatility are independent or are the same, two versions of the model are obtained with different leverage behavior. Here, the no-arbitrage and incompleteness properties of the model are studied. Some risk measures are also discussed in this framework.",
+      "text": "Based on a criterium of mathematical simplicity and consistency with empirical market data, a stochastic volatility model has been obtained with the volatility process driven by fractional noise. Depending on whether the stochasticity generators of log-price and volatility are independent or are the same, two versions of the model are obtained with different leverage behavior. Here, the no-arbitrage and incompleteness properties of the model are studied. Some risk measures are also discussed in this framework."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.88000000000002,
+            "t": 375.56616,
+            "r": 499.37639098690596,
+            "b": 349.0791048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Keywords : Fractional noise, Arbitrage, Incomplete market, Risk measures",
+      "text": "Keywords : Fractional noise, Arbitrage, Incomplete market, Risk measures"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.88000000000002,
+            "t": 324.85600919999996,
+            "r": 246.7991891270534,
+            "b": 309.3892511582857,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.88000000000002,
+            "t": 295.52636,
+            "r": 499.41475080780805,
+            "b": 196.91900480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            529
+          ]
+        }
+      ],
+      "orig": "In liquid markets the autocorrelation of price changes decays to negligible values in a few minutes, consistent with the absence of long term statistical arbitrage. Because innovations of a martingale are uncorrelated, there is a strong suggestion that it is a process of this type that should be used to model the stochastic part of the returns process. Classical Mathematical Finance has, for a long time, been based on the assumption that the price process of market securities may be approximated by geometric Brownian motion",
+      "text": "In liquid markets the autocorrelation of price changes decays to negligible values in a few minutes, consistent with the absence of long term statistical arbitrage. Because innovations of a martingale are uncorrelated, there is a strong suggestion that it is a process of this type that should be used to model the stochastic part of the returns process. Classical Mathematical Finance has, for a long time, been based on the assumption that the price process of market securities may be approximated by geometric Brownian motion"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 236.52000000000007,
+            "t": 186.92635999999993,
+            "r": 499.42312263692816,
+            "b": 174.62172877,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "dS t = µS t dt + σS t dB ( t ) (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.88016000000005,
+            "t": 164.26959039999997,
+            "r": 499.55860780940026,
+            "b": 141.38923999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "∗ Centro de Matem´ atica e Aplica¸ c˜ oes Fundamentais, Universidade de Lisboa, Av. Prof. Gama Pinto 2, P1649-003 Lisboa",
+      "text": "∗ Centro de Matem´ atica e Aplica¸ c˜ oes Fundamentais, Universidade de Lisboa, Av. Prof. Gama Pinto 2, P1649-003 Lisboa"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.68016000000004,
+            "t": 140.26957040000002,
+            "r": 400.0999537498658,
+            "b": 129.26932,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "† IPFN, EURATOM/IST Association, e-mail: vilela@cii.fc.ul.pt",
+      "text": "† IPFN, EURATOM/IST Association, e-mail: vilela@cii.fc.ul.pt"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.68016000000004,
+            "t": 128.26957040000002,
+            "r": 307.8218582342907,
+            "b": 117.26932,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "‡ Universidade Aberta, oliveira@cii.fc.ul.pt",
+      "text": "‡ Universidade Aberta, oliveira@cii.fc.ul.pt"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 302.16024000000004,
+            "t": 98.84627999999998,
+            "r": 308.00633280000005,
+            "b": 86.8791248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 499.47950875648,
+            "b": 477.8397448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            940
+          ]
+        }
+      ],
+      "orig": "Geometric Brownian motion (GBM) models the absence of linear correlations, but otherwise has some serious shortcomings. It does not reproduce the empirical leptokurtosis nor does it explain why nonlinear functions of the returns exhibit significant positive autocorrelation. For example, there is volatility clustering, with large returns expected to be followed by large returns and small returns by small returns (of either sign). This, together with the fact that autocorrelations of volatility measures decline very slowly [1], [2], [3] has the clear implication that long memory effects should somehow be represented in the process and this is not included in the geometric Brownian motion hypothesis. The existence of an essential memory component is also clear from the failure of reconstruction of a Gibbs measure and the need to use chains with complete connections in the phenomenological reconstruction of the market process [4].",
+      "text": "Geometric Brownian motion (GBM) models the absence of linear correlations, but otherwise has some serious shortcomings. It does not reproduce the empirical leptokurtosis nor does it explain why nonlinear functions of the returns exhibit significant positive autocorrelation. For example, there is volatility clustering, with large returns expected to be followed by large returns and small returns by small returns (of either sign). This, together with the fact that autocorrelations of volatility measures decline very slowly [1], [2], [3] has the clear implication that long memory effects should somehow be represented in the process and this is not included in the geometric Brownian motion hypothesis. The existence of an essential memory component is also clear from the failure of reconstruction of a Gibbs measure and the need to use chains with complete connections in the phenomenological reconstruction of the market process [4]."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.87990000000002,
+            "t": 475.4069000000002,
+            "r": 499.31977014176,
+            "b": 391.1995448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            417
+          ]
+        }
+      ],
+      "orig": "As pointed out by Engle [5], when the future is uncertain investors are less likely to invest. Therefore uncertainty (volatility) would have to be changing over time. The conclusion is that a dynamical model for volatility is needed and σ in Eq.(1), rather than being a constant, becomes itself a process. This idea led to many deterministic and stochastic models for the volatility ([6], [7] and references therein).",
+      "text": "As pointed out by Engle [5], when the future is uncertain investors are less likely to invest. Therefore uncertainty (volatility) would have to be changing over time. The conclusion is that a dynamical model for volatility is needed and σ in Eq.(1), rather than being a constant, becomes itself a process. This idea led to many deterministic and stochastic models for the volatility ([6], [7] and references therein)."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.88049999999998,
+            "t": 388.76670000000024,
+            "r": 499.3781206914561,
+            "b": 261.23984480000036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            670
+          ]
+        }
+      ],
+      "orig": "The stochastic volatility models that were proposed described some partial features of the market data. For example leptokurtosis is easy to fit but the long memory effects are much harder. On the other hand, and in contrast with GBM, some of the phenomenological fittings of historical volatility lack the kind of nice mathematical properties needed to develop the tools of mathematical finance. In an attempt to obtain a model that is both consistent with the data and mathematically sound, a new approach was developed in [8]. Starting only with some criteria of mathematical simplicity, the basic idea was to let the data itself tell us what the processes should be.",
+      "text": "The stochastic volatility models that were proposed described some partial features of the market data. For example leptokurtosis is easy to fit but the long memory effects are much harder. On the other hand, and in contrast with GBM, some of the phenomenological fittings of historical volatility lack the kind of nice mathematical properties needed to develop the tools of mathematical finance. In an attempt to obtain a model that is both consistent with the data and mathematically sound, a new approach was developed in [8]. Starting only with some criteria of mathematical simplicity, the basic idea was to let the data itself tell us what the processes should be."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 128.4004,
+            "t": 258.6867000000003,
+            "r": 405.48066631485494,
+            "b": 246.71954480000034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "The basic hypothesis for the model construction were:",
+      "text": "The basic hypothesis for the model construction were:"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.88036999999989,
+            "t": 244.28670000000034,
+            "r": 499.4809619999999,
+            "b": 160.0797448000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            473
+          ]
+        }
+      ],
+      "orig": "(H1) The log-price process log S t belongs to a probability product space (Ω 1 × Ω 2 , P 1 × P 2 ) of which the (Ω 1 , P 1 ) is the Wiener space and the second one, (Ω 2 , P 2 ), is a probability space to be reconstructed from the data. Denote by ω 1 ∈ Ω 1 and ω 2 ∈ Ω 2 the elements (sample paths) in Ω 1 and Ω 2 and by F 1 ,t and F 2 ,t the σ -algebras in Ω 1 and Ω 2 generated by the processes up to t . Then, a particular realization of the log-price process is denoted",
+      "text": "(H1) The log-price process log S t belongs to a probability product space (Ω 1 × Ω 2 , P 1 × P 2 ) of which the (Ω 1 , P 1 ) is the Wiener space and the second one, (Ω 2 , P 2 ), is a probability space to be reconstructed from the data. Denote by ω 1 ∈ Ω 1 and ω 2 ∈ Ω 2 the elements (sample paths) in Ω 1 and Ω 2 and by F 1 ,t and F 2 ,t the σ -algebras in Ω 1 and Ω 2 generated by the processes up to t . Then, a particular realization of the log-price process is denoted"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 270.9606399999999,
+            "t": 150.32700000000023,
+            "r": 339.2235859999999,
+            "b": 137.5680725000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "log S t ( ω 1 , ω 2 )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.88060999999988,
+            "t": 128.72700000000032,
+            "r": 499.4401733333759,
+            "b": 116.75984480000034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 499.319827898061,
+            "b": 636.0474725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            80,
+            220
+          ]
+        }
+      ],
+      "orig": "This first hypothesis is really not limitative. Even if none of the non-trivial stochastic features of the log-price were to be captured by Brownian motion, that would simply mean that S t was a trivial function in Ω 1 .",
+      "text": "This first hypothesis is really not limitative. Even if none of the non-trivial stochastic features of the log-price were to be captured by Brownian motion, that would simply mean that S t was a trivial function in Ω 1 ."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 302.16060999999985,
+            "t": 98.84690000000023,
+            "r": 308.00670279999986,
+            "b": 86.87974480000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.8801500000001,
+            "t": 634.2865,
+            "r": 499.3315119260423,
+            "b": 592.7275725000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "(H2) The second hypothesis is stronger, although natural. It is assumed that for each fixed ω 2 , log S t ( · , ω 2 ) is a square integrable random variable in Ω 1 .",
+      "text": "(H2) The second hypothesis is stronger, although natural. It is assumed that for each fixed ω 2 , log S t ( · , ω 2 ) is a square integrable random variable in Ω 1 ."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.8801700000001,
+            "t": 590.9666000000001,
+            "r": 499.4510686084102,
+            "b": 564.5994448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "These principles and a careful analysis of the market data led, in an essentially unique way 1 , to the following model:",
+      "text": "These principles and a careful analysis of the market data led, in an essentially unique way 1 , to the following model:"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 205.92028000000013,
+            "t": 551.0068000000001,
+            "r": 499.4226726369281,
+            "b": 515.923088,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "dS t = µS t dt + σ t S t dB ( t ) log σ t = β + k δ { B H ( t ) -B H ( t -δ ) } (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 218.87958000000017,
+            "t": 390.20642000000015,
+            "r": 499.4237008505602,
+            "b": 361.72316800000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "W H = lim δ → 0 1 δ ( B H ( t ) -B H ( t -δ )) (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.87958000000017,
+            "t": 516.32668,
+            "r": 499.4513536000001,
+            "b": 388.4619487700001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            615
+          ]
+        }
+      ],
+      "orig": "the data suggesting values of H in the range 0 . 8 -0 . 9. In this coupled stochastic system, in addition to a mean value, volatility is driven by fractional noise. Notice that this empirically based model is different from the usual stochastic volatility models which assume the volatility to follow an arithmetic or geometric Brownian process. Also in Comte and Renault [9] and Hu [10], it is fractional Brownian motion that drives the volatility, not its derivative (fractional noise). δ is the observation scale of the process. In the δ → 0 limit the driving process would be the distribution-valued process W H",
+      "text": "the data suggesting values of H in the range 0 . 8 -0 . 9. In this coupled stochastic system, in addition to a mean value, volatility is driven by fractional noise. Notice that this empirically based model is different from the usual stochastic volatility models which assume the volatility to follow an arithmetic or geometric Brownian process. Also in Comte and Renault [9] and Hu [10], it is fractional Brownian motion that drives the volatility, not its derivative (fractional noise). δ is the observation scale of the process. In the δ → 0 limit the driving process would be the distribution-valued process W H"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.88063000000005,
+            "t": 356.9665600000001,
+            "r": 292.76704287173146,
+            "b": 344.99940480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "The second equation in (2) leads to",
+      "text": "The second equation in (2) leads to"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 217.68063000000006,
+            "t": 332.46784211999994,
+            "r": 499.4229126369281,
+            "b": 314.39909479999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "σ ( t ) = θe k δ { B H ( t ) -B H ( t -δ ) }-1 2 ( k δ ) 2 δ 2 H (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.87994000000003,
+            "t": 299.96625,
+            "r": 224.15992767206401,
+            "b": 287.99909479999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "with E [ σ ( t )] = θ > 0.",
+      "text": "with E [ σ ( t )] = θ > 0."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.87978000000003,
+            "t": 285.56625,
+            "r": 499.377399238093,
+            "b": 201.35929480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            386
+          ]
+        }
+      ],
+      "orig": "The model has been shown [8] to describe well the statistics of price returns for a large δ -range and a new option pricing formula, with 'smile' deviations from Black-Scholes, was also obtained. Here we will be concerned with general consistency questions for the model, namely arbitrage and market completeness. Also, in Section 3, some new results on risk measures will be presented.",
+      "text": "The model has been shown [8] to describe well the statistics of price returns for a large δ -range and a new option pricing formula, with 'smile' deviations from Black-Scholes, was also obtained. Here we will be concerned with general consistency questions for the model, namely arbitrage and market completeness. Also, in Section 3, some new results on risk measures will be presented."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.88022999999998,
+            "t": 191.11063639999998,
+            "r": 499.4037728550964,
+            "b": 168.50923999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "1 Essentially unique in the sense that the empiricaly reconstructed volatility process is the simplest one, consistent with the scaling properties of the data.",
+      "text": "1 Essentially unique in the sense that the empiricaly reconstructed volatility process is the simplest one, consistent with the scaling properties of the data."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.16063,
+            "t": 98.84640000000002,
+            "r": 308.00672280000003,
+            "b": 86.87924480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.88,
+            "t": 666.2563492,
+            "r": 484.9853249802292,
+            "b": 650.7895911582857,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "2 No-arbitrage and market incompleteness",
+      "text": "2 No-arbitrage and market incompleteness",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.88,
+            "t": 636.9267,
+            "r": 499.4519913809921,
+            "b": 451.55964480000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            928
+          ]
+        }
+      ],
+      "orig": "It had been clear for a long time that the slow decline of the volatility autocorrelations implied the existence of some kind of long memory effect in the market. Several authors tried to describe this effect by replacing in the price process Brownian motion by fractional Brownian motion with H > 1 / 2. However it was soon realized [11], [12], [13], [14] that this replacement implied the existence of arbitrage. These results might be avoided either by restricting the class of trading strategies [15], introducing transaction costs [16] or replacing pathwise integration by a different type of integration [17] [18]. However this is not free of problems because the Skorohod integral approach requires the use of a Wick product either on the portfolio or on the self-financing condition, leading to unreasonable situations from the economic point of view (for example positive portfolio with negative Wick value, etc.) [19].",
+      "text": "It had been clear for a long time that the slow decline of the volatility autocorrelations implied the existence of some kind of long memory effect in the market. Several authors tried to describe this effect by replacing in the price process Brownian motion by fractional Brownian motion with H > 1 / 2. However it was soon realized [11], [12], [13], [14] that this replacement implied the existence of arbitrage. These results might be avoided either by restricting the class of trading strategies [15], introducing transaction costs [16] or replacing pathwise integration by a different type of integration [17] [18]. However this is not free of problems because the Skorohod integral approach requires the use of a Wick product either on the portfolio or on the self-financing condition, leading to unreasonable situations from the economic point of view (for example positive portfolio with negative Wick value, etc.) [19]."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.88006000000001,
+            "t": 449.1268000000001,
+            "r": 499.4402892,
+            "b": 335.99952480000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            569
+          ]
+        }
+      ],
+      "orig": "The fractional volatility model in (2) is not affected by these considerations, because it is the volatility process that is driven by fractional noise, not the price process. In fact a no-arbitrage result may be proven. This is no surprise because our requirement (H2) that, for each sample path ω 2 ∈ Ω 2 , log S t ( · , ω 2 ) is a square integrable random variable in Ω 1 already implies that ∫ σ t dB t is a martingale. The square integrability is also essential to guarantee the possibility of reconstruction of the σ process from the data, because it implies [20]",
+      "text": "The fractional volatility model in (2) is not affected by these considerations, because it is the volatility process that is driven by fractional noise, not the price process. In fact a no-arbitrage result may be proven. This is no surprise because our requirement (H2) that, for each sample path ω 2 ∈ Ω 2 , log S t ( · , ω 2 ) is a square integrable random variable in Ω 1 already implies that ∫ σ t dB t is a martingale. The square integrability is also essential to guarantee the possibility of reconstruction of the σ process from the data, because it implies [20]"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 202.68116000000003,
+            "t": 323.45113854000016,
+            "r": 499.42346263692804,
+            "b": 301.60308200000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "dS t S t ( · , ω 2 ) = µ t ( · , ω 2 ) dt + σ t ( · , ω 2 ) dB t (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.88048999999995,
+            "t": 295.1663940000001,
+            "r": 499.42330845529614,
+            "b": 268.46176277000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "We now consider a market with an asset obeying the stochastic equations (2) and a risk-free asset A t",
+      "text": "We now consider a market with an asset obeying the stochastic equations (2) and a risk-free asset A t"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 272.88045999999997,
+            "t": 266.3663940000001,
+            "r": 499.4234226369281,
+            "b": 254.0617627700001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "dA t = rA t dt (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.88045,
+            "t": 245.366394,
+            "r": 215.04021445585926,
+            "b": 233.39923880000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "with r > 0 constant.",
+      "text": "with r > 0 constant."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.88045,
+            "t": 230.96639400000004,
+            "r": 477.46344086082576,
+            "b": 218.99923880000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Proposition 1: The market defined by (2) and (6) is free of arbitrages",
+      "text": "Proposition 1: The market defined by (2) and (6) is free of arbitrages"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.88035000000002,
+            "t": 216.44649400000003,
+            "r": 499.414814439808,
+            "b": 175.6793388000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "The proofs of this and the next proposition follow the same steps as in [21]. Technically, the similarity of the proofs follows from the properties of volatility process (4).",
+      "text": "The proofs of this and the next proposition follow the same steps as in [21]. Technically, the similarity of the proofs follows from the properties of volatility process (4)."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.88019199999997,
+            "t": 170.12659400000007,
+            "r": 499.418041843968,
+            "b": 119.54455719999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "Lemma: For σ given by (4) one has: i) For any integer number n , ∫ T 0 E ( σ n t ) dt < ∞ , where the expectation is with respect to the probability measure P 2 ;",
+      "text": "Lemma: For σ given by (4) one has: i) For any integer number n , ∫ T 0 E ( σ n t ) dt < ∞ , where the expectation is with respect to the probability measure P 2 ;"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 302.1607419999999,
+            "t": 98.84657399999992,
+            "r": 308.0068347999999,
+            "b": 86.87941879999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.88,
+            "t": 664.5378925,
+            "r": 499.41697231808,
+            "b": 628.363008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "ii) Assuming that µ ∈ L ∞ ([0 , T ] , P 1 × P 2 ) 2 , for any t ∈ [0 , T ] there is a constant C > 0 such that P 1 × P 2 -a.e.",
+      "text": "ii) Assuming that µ ∈ L ∞ ([0 , T ] , P 1 × P 2 ) 2 , for any t ∈ [0 , T ] there is a constant C > 0 such that P 1 × P 2 -a.e."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 253.08032999999998,
+            "t": 625.85093854,
+            "r": 356.368642,
+            "b": 587.9047632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "∫ t 0 ( r -µ s ) 2 σ 2 s ds ≤ C",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.88000200000005,
+            "t": 580.6465200000001,
+            "r": 310.58352576657944,
+            "b": 568.6793648000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Proof: The first property follows from",
+      "text": "Proof: The first property follows from"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 230.76010200000007,
+            "t": 556.7480921200001,
+            "r": 377.85176242,
+            "b": 516.1445032000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "E ( e λ ( B H ( t ) -B H ( t -δ )) ) = e λ 2 2 δ 2 H",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.87999999999994,
+            "t": 524.3664,
+            "r": 499.3599403197441,
+            "b": 475.003108,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "for any complex number λ , while the second one from the H¨ older continuity of the fractional Brownian motion B H of order less than H (cf. [22]). More precisely, for each α ∈ (0 , H ) there is a constant C α > 0 such that P 2 -a.e.",
+      "text": "for any complex number λ , while the second one from the H¨ older continuity of the fractional Brownian motion B H of order less than H (cf. [22]). More precisely, for each α ∈ (0 , H ) there is a constant C α > 0 such that P 2 -a.e."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 228.95979,
+            "t": 471.65083854000005,
+            "r": 380.79541502000006,
+            "b": 448.603108,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "| B H ( t ) -B H ( s ) | ≤ C α | t -s | α",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.87980000000005,
+            "t": 442.64648000000005,
+            "r": 219.95958652198408,
+            "b": 422.20308800000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "and thus P 1 × P 2 -a.e.",
+      "text": "and thus P 1 × P 2 -a.e."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 138.47985000000003,
+            "t": 419.81062854000004,
+            "r": 471.83121626969603,
+            "b": 356.80320800000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "∫ t 0 ( r -µ s ) 2 σ 2 s ds ≤ ( r + ‖ µ ‖ ∞ ) 2 θ 2 e ( k δ ) 2 δ 2 H ∫ t 0 e 2 k δ | B H ( s ) -B H ( s -δ ) | ds ≤ T ( r + ‖ µ ‖ ∞ ) 2 θ 2 e ( k δ ) 2 δ 2 H +2 kC α δ α -1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.88015000000001,
+            "t": 197.48620000000005,
+            "r": 150.46328447628804,
+            "b": 185.51904480000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Now let",
+      "text": "Now let"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 490.07996,
+            "t": 347.2134024,
+            "r": 499.3691504,
+            "b": 339.00018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "■",
+      "text": "■"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.87977000000006,
+            "t": 327.56658000000004,
+            "r": 499.30290940352035,
+            "b": 301.19942480000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "Proof of Proposition 1: Let P := P 1 × P 2 be the probability product measure and define the process",
+      "text": "Proof of Proposition 1: Let P := P 1 × P 2 be the probability product measure and define the process"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 284.1597700000001,
+            "t": 289.6466200000001,
+            "r": 499.4231326369281,
+            "b": 261.02176877,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Z t = S t A t (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.88015999999999,
+            "t": 250.2862,
+            "r": 374.532457438925,
+            "b": 229.842808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "in the interval 0 ≤ t ≤ T , which obeys the equation",
+      "text": "in the interval 0 ≤ t ≤ T , which obeys the equation"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 227.51998999999998,
+            "t": 223.88620000000003,
+            "r": 499.4231226369281,
+            "b": 203.442808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "dZ t = ( µ t -r ) Z t dt + σ t Z t dB t (8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 186.00005000000002,
+            "t": 187.55832799999996,
+            "r": 499.42277463692807,
+            "b": 147.5045632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "η t = exp ( ∫ t 0 r -µ s σ s dB s -1 2 ∫ t 0 | r -µ s | 2 σ 2 s ds ) (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.88022999999998,
+            "t": 140.8306364,
+            "r": 499.39683525081796,
+            "b": 111.03586559999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "2 Since this assumption is quite natural, one assumes it throughout this work. In addition, we also assume that µ t is adapted to the product filtration F 1 ,t ×F 2 ,t .",
+      "text": "2 Since this assumption is quite natural, one assumes it throughout this work. In addition, we also assume that µ t is adapted to the product filtration F 1 ,t ×F 2 ,t ."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 302.15972,
+            "t": 98.84649999999999,
+            "r": 308.0058128,
+            "b": 86.87934480000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87970000000001,
+            "t": 663.2064,
+            "r": 499.49723520000003,
+            "b": 622.3193448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "which by the Lemma fulfills the Novikov condition and thus it is a P -martingale. Moreover, it yields a probability measure P ′ equivalent to P by",
+      "text": "which by the Lemma fulfills the Novikov condition and thus it is a P -martingale. Moreover, it yields a probability measure P ′ equivalent to P by"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 281.8797,
+            "t": 622.0615672200001,
+            "r": 499.4230711089921,
+            "b": 592.3312000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "dP ′ dP = η T (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 244.08006999999998,
+            "t": 565.01070854,
+            "r": 499.42310110899206,
+            "b": 527.0649232000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "B ∗ t = B t -∫ t 0 r -µ s σ s ds (11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.88009999999997,
+            "t": 524.0176925000001,
+            "r": 264.97206612303364,
+            "b": 502.2428080000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "is a P ′ -Brownian motion and",
+      "text": "is a P ′ -Brownian motion and"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 246.23983999999996,
+            "t": 500.5706385400001,
+            "r": 499.4230911089921,
+            "b": 462.6244632000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Z t = Z 0 + ∫ t 0 σ s Z s dB ∗ s (12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.88009,
+            "t": 459.57750250000015,
+            "r": 499.4058191601923,
+            "b": 408.8830900000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            229
+          ]
+        }
+      ],
+      "orig": "is a P ′ -martingale. By the fundamental theorem of asset pricing, the existence of an equivalent martingale measure for Z t implies that there are no arbitrages, that is, E P ′ [ Z t |F 1 ,s ×F 2 ,s ] = Z s for 0 ≤ s < t ≤ T . ■",
+      "text": "is a P ′ -martingale. By the fundamental theorem of asset pricing, the existence of an equivalent martingale measure for Z t implies that there are no arbitrages, that is, E P ′ [ Z t |F 1 ,s ×F 2 ,s ] = Z s for 0 ≤ s < t ≤ T . ■"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.88007000000005,
+            "t": 408.8061820000002,
+            "r": 446.0207779096067,
+            "b": 396.83902680000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "Proposition 2: The market defined by (2) and (6) is incomplete",
+      "text": "Proposition 2: The market defined by (2) and (6) is incomplete"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87987000000004,
+            "t": 391.40618200000023,
+            "r": 499.3313823752961,
+            "b": 365.0390268000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Proof: Here we use an integral representation for the fractional Brownian motion [22], [23]",
+      "text": "Proof: Here we use an integral representation for the fractional Brownian motion [22], [23]"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 236.51987000000003,
+            "t": 364.8507205400003,
+            "r": 499.42319110899206,
+            "b": 326.90454520000026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "B H ( t ) = C ∫ t 0 K ( t, s ) dW s (13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.88009999999997,
+            "t": 328.4061620000003,
+            "r": 499.257693518285,
+            "b": 302.0394068000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "W t being a Brownian motion independent from B t and K the square integrable kernel",
+      "text": "W t being a Brownian motion independent from B t and K the square integrable kernel"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 178.2,
+            "t": 290.57065854,
+            "r": 432.1400197114881,
+            "b": 252.6244832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "K ( t, s ) = C H s 1 2 -H ∫ t s ( u -s ) H -3 2 u H -1 2 du, s < t",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87966,
+            "t": 248.00659999999993,
+            "r": 499.329918155776,
+            "b": 220.7273725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "( H > 1 / 2). Let ( B t , W t ) be a bi-dimensional Brownian motion on P . Given the P 2 -martingale",
+      "text": "( H > 1 / 2). Let ( B t , W t ) be a bi-dimensional Brownian motion on P . Given the P 2 -martingale"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87947199999991,
+            "t": 186.57766249999997,
+            "r": 499.3737455465475,
+            "b": 157.34192876999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "we now use the product η t η ′ t . Due to the Lemma, the Novikov condition is fulfilled insuring that η t η ′ t is a P -martingale and",
+      "text": "we now use the product η t η ′ t . Due to the Lemma, the Novikov condition is fulfilled insuring that η t η ′ t is a P -martingale and"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 252.95971,
+            "t": 221.27826800000003,
+            "r": 499.42308110899205,
+            "b": 185.42456319999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "η ′ t = exp ( W t -1 2 t ) (14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 274.67946399999994,
+            "t": 147.45776249999994,
+            "r": 499.4229231089921,
+            "b": 117.85120000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "dP ′′ dP = η T η ′ T (15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.88006999999999,
+            "t": 588.4465600000001,
+            "r": 240.50418149749777,
+            "b": 576.4794048000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        },
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.87972999999998,
+            "t": 663.2064,
+            "r": 499.42213730757163,
+            "b": 622.3193448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            24,
+            231
+          ]
+        }
+      ],
+      "orig": "By the Girsanov theorem a probability measure. As before, the Girsanov theorem implies that the Z t process is still a P ′′ -martingale. The equivalent martingale measure not being unique the market is, by definition, incomplete. ■",
+      "text": "By the Girsanov theorem a probability measure. As before, the Girsanov theorem implies that the Z t process is still a P ′′ -martingale. The equivalent martingale measure not being unique the market is, by definition, incomplete. ■"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.15992200000005,
+            "t": 98.84628999999995,
+            "r": 308.00601480000006,
+            "b": 86.87913479999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88072999999997,
+            "t": 615.3267000000001,
+            "r": 499.36228383270407,
+            "b": 559.9193448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "Incompleteness of the market is a reflection of the fact that in stochastic volatility models there are two different sources of risk and only one of the risky assets is traded. In this case a choice of measure is how one fixes the volatility risk premium.",
+      "text": "Incompleteness of the market is a reflection of the fact that in stochastic volatility models there are two different sources of risk and only one of the risky assets is traded. In this case a choice of measure is how one fixes the volatility risk premium."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88072999999997,
+            "t": 535.8165492,
+            "r": 519.4549458086998,
+            "b": 498.38999115828574,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "3 Leverage and the identification of the stochastic generators",
+      "text": "3 Leverage and the identification of the stochastic generators",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88072999999999,
+            "t": 484.52670000000006,
+            "r": 364.13577700725807,
+            "b": 472.5595448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "The following nonlinear correlation of the returns",
+      "text": "The following nonlinear correlation of the returns"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 185.16082999999998,
+            "t": 465.6976525,
+            "r": 499.4243411089919,
+            "b": 428.30478320000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "L ( τ ) = 〈 | r ( t + τ ) | 2 r ( t ) 〉 -〈 | r ( t + τ ) | 2 〉 〈 r ( t ) 〉 (16)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.8813399999998,
+            "t": 441.32671,
+            "r": 499.4077127999998,
+            "b": 371.5193548,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            382
+          ]
+        }
+      ],
+      "orig": "is called leverage and the leverage effect is the fact that, for τ > 0, L ( τ ) starts from a negative value whose modulus decays to zero whereas for τ < 0 it has almost negligible values. In the form of Eqs. (2) the volatility process σ t affects the log-price, but is not affected by it. Therefore, in its simplest form the fractional volatility model contains no leverage effect.",
+      "text": "is called leverage and the leverage effect is the fact that, for τ > 0, L ( τ ) starts from a negative value whose modulus decays to zero whereas for τ < 0 it has almost negligible values. In the form of Eqs. (2) the volatility process σ t affects the log-price, but is not affected by it. Therefore, in its simplest form the fractional volatility model contains no leverage effect."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88128999999981,
+            "t": 369.08651000000003,
+            "r": 499.4411776720638,
+            "b": 313.79945480000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "Leverage may, however, be implemented in the model in a simple way [24] if one identifies the Brownian processes B t and W t in (2) and (13). Identifying the random generator of the log-price process with the stochastic integrator of the volatility, at least a part of the leverage effect is taken into account.",
+      "text": "Leverage may, however, be implemented in the model in a simple way [24] if one identifies the Brownian processes B t and W t in (2) and (13). Identifying the random generator of the log-price process with the stochastic integrator of the volatility, at least a part of the leverage effect is taken into account."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88168999999982,
+            "t": 311.24671000000006,
+            "r": 499.40777701696004,
+            "b": 241.5596548000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            308
+          ]
+        }
+      ],
+      "orig": "The identification of the two Brownian processes means that now, instead of two, there is only one source of risk. Hence it is probable that in this case completeness of the market might be achieved. However questions like mathematical consistency and arbitrage properties of the new model are to be checked.",
+      "text": "The identification of the two Brownian processes means that now, instead of two, there is only one source of risk. Hence it is probable that in this case completeness of the market might be achieved. However questions like mathematical consistency and arbitrage properties of the new model are to be checked."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88146999999987,
+            "t": 239.1268100000001,
+            "r": 499.4245277509377,
+            "b": 198.23975480000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "Let us now consider the market (2) and (6) with B t appearing in (2) replaced by the standard Brownian motion W t which appears in the integral representation (13).",
+      "text": "Let us now consider the market (2) and (6) with B t appearing in (2) replaced by the standard Brownian motion W t which appears in the integral representation (13)."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88146999999987,
+            "t": 195.6866100000001,
+            "r": 387.5842796058882,
+            "b": 183.7194548000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Proposition 3: This new market is free of arbitrages",
+      "text": "Proposition 3: This new market is free of arbitrages"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88080999999988,
+            "t": 179.00691000000006,
+            "r": 499.4235640881411,
+            "b": 123.71945480000011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            260
+          ]
+        }
+      ],
+      "orig": "Proof: In this case P 1 = P 2 . Since the item ii) in the Lemma still holds for the product measure P 1 × P 2 replaced by the probability measure P 2 , with this change of probability measure the proof of this result follows as in the proof of Proposition 1. ■",
+      "text": "Proof: In this case P 1 = P 2 . Since the item ii) in the Lemma still holds for the product measure P 1 × P 2 replaced by the probability measure P 2 , with this change of probability measure the proof of this result follows as in the proof of Proposition 1. ■"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 302.16080999999986,
+            "t": 98.84681,
+            "r": 308.00690279999986,
+            "b": 86.87965480000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 110.88,
+            "t": 666.2563492,
+            "r": 306.6657835824899,
+            "b": 650.7895911582857,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "4 Some risk measures",
+      "text": "4 Some risk measures",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 110.88,
+            "t": 636.9267,
+            "r": 233.65167013565443,
+            "b": 616.483308,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Let δS = S t +∆ -S t and",
+      "text": "Let δS = S t +∆ -S t and"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 242.03974,
+            "t": 610.5267,
+            "r": 499.423001108992,
+            "b": 590.083308,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "r (∆) = log S t +∆ -log S t (17)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 110.87999999999994,
+            "t": 584.1267,
+            "r": 340.43968820236836,
+            "b": 572.1595448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "be the return corresponding to a time lag ∆.",
+      "text": "be the return corresponding to a time lag ∆."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 128.39989999999995,
+            "t": 571.0578025000001,
+            "r": 442.84024863692804,
+            "b": 557.7595448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "The value at risk (VaR) Λ ∗ and the expected shortfall E ∗ are",
+      "text": "The value at risk (VaR) Λ ∗ and the expected shortfall E ∗ are"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 239.51973999999996,
+            "t": 545.3818272200001,
+            "r": 499.423061108992,
+            "b": 506.90476320000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "∫ -Λ ∗ -S P ∆ ( δS ) d ( δS ) = P ∗ (18)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 212.28005999999993,
+            "t": 502.06139722,
+            "r": 499.4228778769922,
+            "b": 463.7046432,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "E ∗ = 1 P ∗ ∫ -Λ ∗ -S ( -δS ) P ∆ ( δS ) d ( δS ) (19)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 110.87962000000005,
+            "t": 464.9775325,
+            "r": 499.422906,
+            "b": 422.8792748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "S being the capital at time zero, P ∗ the probability of a loss Λ ∗ and P ∆ ( δS ) the probability of a price variation δS in the time interval ∆. In terms of the returns these quantities are",
+      "text": "S being the capital at time zero, P ∗ the probability of a loss Λ ∗ and P ∆ ( δS ) the probability of a price variation δS in the time interval ∆. In terms of the returns these quantities are"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 216.59982999999994,
+            "t": 411.1015272200001,
+            "r": 499.423021108992,
+            "b": 369.74439320000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "∫ log ( 1 -Λ ∗ S ) -∞ P ( r (∆)) d ( r (∆)) = P ∗ (20)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 177.84001999999987,
+            "t": 364.90177722000004,
+            "r": 499.42388235520025,
+            "b": 316.9444332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "E ∗ = S P ∗ ∫ log ( 1 -Λ ∗ S ) -∞ ( 1 -e r (∆) ) P ( r (∆)) d ( r (∆)) (21)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 110.88074000000006,
+            "t": 324.20615,
+            "r": 499.375539101389,
+            "b": 297.8393947999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "For the fractional volatility model the probability distribution of the returns in a time interval ∆, is obtained [8] from",
+      "text": "For the fractional volatility model the probability distribution of the returns in a time interval ∆, is obtained [8] from"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 215.04074000000006,
+            "t": 287.3775024999999,
+            "r": 499.42407110899205,
+            "b": 249.26471319999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "P ( r (∆)) = ∫ ∞ 0 p δ ( σ ) p σ ( r (∆)) dσ (22)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 194.88106999999997,
+            "t": 235.31828799999994,
+            "r": 499.4231611089921,
+            "b": 199.46455319999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "p δ ( σ ) = 1 √ 2 πσkδ H -1 exp { -(log σ -β ) 2 2 k 2 δ 2 H -2 } (23)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 162.24016,
+            "t": 192.8177425,
+            "r": 499.4230711089922,
+            "b": 117.0243332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "p σ ( r (∆)) = 1 √ 2 πσ 2 ∆ exp      -( r (∆) -( µ -σ 2 2 ) ∆ ) 2 2 σ 2 ∆      (24)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 110.88106999999997,
+            "t": 245.24641999999983,
+            "r": 133.57262683942398,
+            "b": 233.27926479999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        },
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 110.88013000000004,
+            "t": 664.5378925,
+            "r": 499.4234697116163,
+            "b": 622.3193448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            5,
+            219
+          ]
+        }
+      ],
+      "orig": "with Using (22)-(24) Λ ∗ and E ∗ are computed from (20) and (21). As an illustration in the figures 1 and 2 one shows the results for P ∗ = 0 . 01 (99%VaR) and time lags from 1 to 30 days, using the following parameters",
+      "text": "with Using (22)-(24) Λ ∗ and E ∗ are computed from (20) and (21). As an illustration in the figures 1 and 2 one shows the results for P ∗ = 0 . 01 (99%VaR) and time lags from 1 to 30 days, using the following parameters"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 302.16007000000013,
+            "t": 98.84660000000008,
+            "r": 308.00616280000014,
+            "b": 86.87944479999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 219.48046000000008,
+            "t": 610.0467000000001,
+            "r": 390.80668976640015,
+            "b": 589.6033080000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "H = 0 . 83; k = 0 . 59 , β = -5 , δ = 1",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 110.88048000000009,
+            "t": 585.8065000000001,
+            "r": 499.3611323292162,
+            "b": 544.9194448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "These values are obtained from typical market daily data ( δ = 1 day). The results are also compared with those obtained from a simple lognormal price distribution with the same averaged volatility.",
+      "text": "These values are obtained from typical market daily data ( δ = 1 day). The results are also compared with those obtained from a simple lognormal price distribution with the same averaged volatility."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 110.88,
+            "t": 393.9264,
+            "r": 499.4398859599361,
+            "b": 367.43894479999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Figure 1: VaR in the fractional volatility model compared with the lognormal with the same average volatility",
+      "text": "Figure 1: VaR in the fractional volatility model compared with the lognormal with the same average volatility"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 246.166,
+            "t": 429.23674812,
+            "r": 247.73855704,
+            "b": 426.62053362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 260.19,
+            "t": 429.23674812,
+            "r": 261.76255704,
+            "b": 426.62053362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 274.214,
+            "t": 429.23674812,
+            "r": 275.78655704,
+            "b": 426.62053362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 288.238,
+            "t": 429.23674812,
+            "r": 289.81055704,
+            "b": 426.62053362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 302.262,
+            "t": 429.23674812,
+            "r": 303.83455704,
+            "b": 426.62053362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 316.286,
+            "t": 429.23674812,
+            "r": 317.85855704,
+            "b": 426.62053362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 330.309,
+            "t": 429.23674812,
+            "r": 331.88155704,
+            "b": 426.62053362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 344.333,
+            "t": 429.23674812,
+            "r": 345.90555704,
+            "b": 426.62053362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 358.357,
+            "t": 429.23674812,
+            "r": 359.92955704,
+            "b": 426.62053362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 371.627,
+            "t": 429.23674812,
+            "r": 374.77211408,
+            "b": 426.62053362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 244.563,
+            "t": 431.61774812,
+            "r": 246.13555703999998,
+            "b": 429.00153362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.627,
+            "t": 442.69474812,
+            "r": 246.13094963999998,
+            "b": 440.07853362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.02",
+      "text": "0.02"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.627,
+            "t": 453.74874812,
+            "r": 246.13094963999998,
+            "b": 451.13253362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.04",
+      "text": "0.04"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.627,
+            "t": 464.82674812,
+            "r": 246.13094963999998,
+            "b": 462.21053362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.06",
+      "text": "0.06"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.627,
+            "t": 475.88074812,
+            "r": 246.13094963999998,
+            "b": 473.26453362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.08",
+      "text": "0.08"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 242.207,
+            "t": 486.95874812,
+            "r": 246.13839259999997,
+            "b": 484.34253362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.1",
+      "text": "0.1"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.627,
+            "t": 498.01274812,
+            "r": 246.13094963999998,
+            "b": 495.39653362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.12",
+      "text": "0.12"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.627,
+            "t": 509.09074812,
+            "r": 246.13094963999998,
+            "b": 506.47453362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.14",
+      "text": "0.14"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.627,
+            "t": 520.14474812,
+            "r": 246.13094963999998,
+            "b": 517.5285336200001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.16",
+      "text": "0.16"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.627,
+            "t": 531.19874812,
+            "r": 246.13094963999998,
+            "b": 528.58253362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.18",
+      "text": "0.18"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 304.902,
+            "t": 426.6926234,
+            "r": 306.63294407999996,
+            "b": 423.00729638,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "∆",
+      "text": "∆"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 306.62230999999997,
+            "t": 425.86674812,
+            "r": 315.26571704,
+            "b": 423.25053362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "(days)",
+      "text": "(days)"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 235.6493766,
+            "t": 479.60824124,
+            "r": 239.33470362,
+            "b": 477.668,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Λ",
+      "text": "Λ"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 235.46695294,
+            "t": 480.48098863,
+            "r": 237.55992269,
+            "b": 479.60081,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "*",
+      "text": "*"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 236.47525188,
+            "t": 483.1454663,
+            "r": 239.09146638,
+            "b": 480.472685,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "/S",
+      "text": "/S"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 318.336,
+            "t": 446.48974812,
+            "r": 331.69707816,
+            "b": 443.87353362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Lognormal",
+      "text": "Lognormal"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 318.05318700000004,
+            "t": 489.59834812,
+            "r": 324.02381274000004,
+            "b": 486.98213362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "FVM",
+      "text": "FVM"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 110.88,
+            "t": 199.16639999999995,
+            "r": 499.3317332326401,
+            "b": 172.7992448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "Figure 2: Expected shortfall in the fractional volatility model compared with the lognormal with the same average volatility",
+      "text": "Figure 2: Expected shortfall in the fractional volatility model compared with the lognormal with the same average volatility"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 244.593,
+            "t": 234.68136834000006,
+            "r": 246.18462227999999,
+            "b": 232.03343558999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 258.787,
+            "t": 234.68136834000006,
+            "r": 260.37862228,
+            "b": 232.03343558999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 272.981,
+            "t": 234.68136834000006,
+            "r": 274.57262228,
+            "b": 232.03343558999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 287.175,
+            "t": 234.68136834000006,
+            "r": 288.76662228000004,
+            "b": 232.03343558999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 301.369,
+            "t": 234.68136834000006,
+            "r": 302.96062228000005,
+            "b": 232.03343558999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 315.563,
+            "t": 234.68136834000006,
+            "r": 317.15462228,
+            "b": 232.03343558999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 329.756,
+            "t": 234.68136834000006,
+            "r": 331.34762228,
+            "b": 232.03343558999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 343.95,
+            "t": 234.68136834000006,
+            "r": 345.54162228,
+            "b": 232.03343558999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 358.144,
+            "t": 234.68136834000006,
+            "r": 359.73562228000003,
+            "b": 232.03343558999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 371.575,
+            "t": 234.68136834000006,
+            "r": 374.75824456000004,
+            "b": 232.03343558999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.586,
+            "t": 237.09036833999994,
+            "r": 244.56505570000002,
+            "b": 234.44243559000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.2",
+      "text": "0.2"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.586,
+            "t": 247.18136834000006,
+            "r": 244.56505570000002,
+            "b": 244.53343558999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.4",
+      "text": "0.4"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.586,
+            "t": 257.24836834000007,
+            "r": 244.56505570000002,
+            "b": 254.60043558999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.6",
+      "text": "0.6"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.586,
+            "t": 267.33936833999996,
+            "r": 244.56505570000002,
+            "b": 264.69143558999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.8",
+      "text": "0.8"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 242.971,
+            "t": 277.40536834,
+            "r": 244.56262228,
+            "b": 274.75743559,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.586,
+            "t": 287.49636833999995,
+            "r": 244.56505570000002,
+            "b": 284.84843558999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.2",
+      "text": "1.2"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.586,
+            "t": 297.58736833999995,
+            "r": 244.56505570000002,
+            "b": 294.93943558999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.4",
+      "text": "1.4"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.586,
+            "t": 307.65436833999996,
+            "r": 244.56505570000002,
+            "b": 305.00643558999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.6",
+      "text": "1.6"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.586,
+            "t": 317.72136833999997,
+            "r": 244.56505570000002,
+            "b": 315.07343559,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.8",
+      "text": "1.8"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 242.971,
+            "t": 327.81236834,
+            "r": 244.56262228,
+            "b": 325.16443559,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.586,
+            "t": 337.87836833999995,
+            "r": 244.56505570000002,
+            "b": 335.23043558999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2.2",
+      "text": "2.2"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 245.38092,
+            "t": 340.21625833999997,
+            "r": 250.79129070000002,
+            "b": 337.56832559,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "x 10",
+      "text": "x 10"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 250.77194,
+            "t": 341.29636555999997,
+            "r": 252.46852538,
+            "b": 339.53107706,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "-3",
+      "text": "-3"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 235.5534582,
+            "t": 286.5230489,
+            "r": 239.22156440999998,
+            "b": 283.724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "E *",
+      "text": "E *"
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 236.57363166,
+            "t": 289.22019835000003,
+            "r": 239.22156440999998,
+            "b": 286.515013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "/S",
+      "text": "/S"
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 304.04,
+            "t": 232.10525630000006,
+            "r": 305.79192956,
+            "b": 228.37524941000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "∆",
+      "text": "∆"
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 305.78141,
+            "t": 231.26936834000003,
+            "r": 314.52960728000005,
+            "b": 228.62143559000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "(days)",
+      "text": "(days)"
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 319.99941,
+            "t": 298.42166834,
+            "r": 326.04242193000005,
+            "b": 295.77373559,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "FVM",
+      "text": "FVM"
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 319.99941,
+            "t": 245.08146834000001,
+            "r": 333.52247412000014,
+            "b": 242.43353559000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Lognormal",
+      "text": "Lognormal"
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 110.87990000000002,
+            "t": 157.64649999999995,
+            "r": 499.4396300267009,
+            "b": 116.75944479999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "One sees that both for VaR and the expected shortfall, the fractional volatility model predicts much larger values than the lognormal. This results mostly from the fatter tails in the model (as well as in the market data).",
+      "text": "One sees that both for VaR and the expected shortfall, the fractional volatility model predicts much larger values than the lognormal. This results mostly from the fatter tails in the model (as well as in the market data)."
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 302.1599,
+            "t": 98.84649999999999,
+            "r": 308.0059928,
+            "b": 86.87934480000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.88,
+            "t": 666.2563492,
+            "r": 353.58563278808947,
+            "b": 650.7895911582857,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "5 Remarks and conclusions",
+      "text": "5 Remarks and conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.87984,
+            "t": 636.9267,
+            "r": 499.4230696775681,
+            "b": 552.7193448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            413
+          ]
+        }
+      ],
+      "orig": "1) Being partially reconstructed from empirical data, it is no surprise that the fractional volatility model describes well the statistics of returns. The fact that, once the parameters are adjusted by the data for a particular observation time scale δ , it describes well very different time lags seems to be related to the fact that the volatility is driven not by fractional Brownian motion but its increments.",
+      "text": "Being partially reconstructed from empirical data, it is no surprise that the fractional volatility model describes well the statistics of returns. The fact that, once the parameters are adjusted by the data for a particular observation time scale δ , it describes well very different time lags seems to be related to the fact that the volatility is driven not by fractional Brownian motion but its increments.",
+      "enumerated": true,
+      "marker": "1)"
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.87974000000003,
+            "t": 550.2865,
+            "r": 499.40509862323205,
+            "b": 364.9194448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            955
+          ]
+        }
+      ],
+      "orig": "2) What at first seemed surprising was the fact that the same set of parameters would describe very different markets [8]. This motivated a search for the kind of behavior of the market agents which would be consistent with the statistical properties observed in the model (and also on the empirical data). Two stylized models were considered. In the first the traders strategies play a determinant role. In the second the determinant effect is the limit-order book dynamics, the agents having a random nature. The conclusion was that the market statistical behavior (in normal days) seems to be more influenced by the nature of the financial institutions (the double auction process) than by the traders strategies [25]. Specific trader strategies and psychology should however play a role on market crisis and bubbles. Therefore some kind of universality of the statistical behavior of the bulk data throughout different markets would not be surprising.",
+      "text": "What at first seemed surprising was the fact that the same set of parameters would describe very different markets [8]. This motivated a search for the kind of behavior of the market agents which would be consistent with the statistical properties observed in the model (and also on the empirical data). Two stylized models were considered. In the first the traders strategies play a determinant role. In the second the determinant effect is the limit-order book dynamics, the agents having a random nature. The conclusion was that the market statistical behavior (in normal days) seems to be more influenced by the nature of the financial institutions (the double auction process) than by the traders strategies [25]. Specific trader strategies and psychology should however play a role on market crisis and bubbles. Therefore some kind of universality of the statistical behavior of the bulk data throughout different markets would not be surprising.",
+      "enumerated": true,
+      "marker": "2)"
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.87948999999992,
+            "t": 362.4866000000002,
+            "r": 499.45456084031997,
+            "b": 263.75974480000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            540
+          ]
+        }
+      ],
+      "orig": "3) As pointed out in Section 3, the identification of the Brownian process of the log-price with the one that generates the fractional noise driving the volatility, introduces an asymmetric coupling between σ t and S t that is also exhibited by the market data. It is natural to expect that in this case, because there is only one generator of stochastic risk, the market will be complete. A rigorous mathematical proof of this result, which would be akin to the proof of uniqueness of a constrained Girsanov construction, is still lacking.",
+      "text": "As pointed out in Section 3, the identification of the Brownian process of the log-price with the one that generates the fractional noise driving the volatility, introduces an asymmetric coupling between σ t and S t that is also exhibited by the market data. It is natural to expect that in this case, because there is only one generator of stochastic risk, the market will be complete. A rigorous mathematical proof of this result, which would be akin to the proof of uniqueness of a constrained Girsanov construction, is still lacking.",
+      "enumerated": true,
+      "marker": "3)"
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.87948999999992,
+            "t": 239.41664920000017,
+            "r": 201.66572445181194,
+            "b": 223.94989115828594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 116.75956999999993,
+            "t": 209.96670000000017,
+            "r": 499.5419172690178,
+            "b": 169.19954480000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "[1] Z. Ding, C. W. J. Granger and R. Engle; A long memory property of stock returns and a new model , Journal of Empirical Finance 1 (1993) 83-106.",
+      "text": "Z. Ding, C. W. J. Granger and R. Engle; A long memory property of stock returns and a new model , Journal of Empirical Finance 1 (1993) 83-106.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 116.75966999999991,
+            "t": 157.6468000000002,
+            "r": 499.53932205990384,
+            "b": 116.75974480000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "[2] A. C. Harvey; Long memory in stochastic volatility , in Forecasting Volatility in Financial Markets . J Knight and S Satchell (Eds), 1998, 307-320. Oxford: Butterworth-Heineman.",
+      "text": "A. C. Harvey; Long memory in stochastic volatility , in Forecasting Volatility in Financial Markets . J Knight and S Satchell (Eds), 1998, 307-320. Oxford: Butterworth-Heineman.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 299.2796699999999,
+            "t": 98.84680000000014,
+            "r": 311.0057912720639,
+            "b": 86.87964480000016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/174",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 116.76,
+            "t": 663.2064,
+            "r": 499.54262262681624,
+            "b": 622.3193448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "[3] F. J. Breidt, N. Crato and P. Lima; The detection and estimation of long memory in stochastic volatility models, J. of Econometrics 83 (1998) 325-348.",
+      "text": "F. J. Breidt, N. Crato and P. Lima; The detection and estimation of long memory in stochastic volatility models, J. of Econometrics 83 (1998) 325-348.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 116.7601,
+            "t": 609.9267000000001,
+            "r": 499.5354145406977,
+            "b": 569.0396448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "[4] R. Vilela Mendes, R. Lima and T. Ara´ ujo; A process-reconstruction analysis of market fluctuations, Int. J. of Theor. and Applied Finance 5 (2002) 797-821.",
+      "text": "R. Vilela Mendes, R. Lima and T. Ara´ ujo; A process-reconstruction analysis of market fluctuations, Int. J. of Theor. and Applied Finance 5 (2002) 797-821.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/176",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 116.76020000000003,
+            "t": 556.6466000000001,
+            "r": 499.54272370969636,
+            "b": 515.7595448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "[5] R. F. Engle; Autoregressive conditional heteroscedasticity with estimates of the variance of United Kingdom inflation , Econometrica 50 (1982) 987-1007.",
+      "text": "R. F. Engle; Autoregressive conditional heteroscedasticity with estimates of the variance of United Kingdom inflation , Econometrica 50 (1982) 987-1007.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/177",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 116.76010000000002,
+            "t": 503.36650000000014,
+            "r": 499.5395365698565,
+            "b": 476.8794448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "[6] S. J. Taylor; Modeling stochastic volatility: A review and comparative study , Mathematical Finance 4 (1994) 183-204.",
+      "text": "S. J. Taylor; Modeling stochastic volatility: A review and comparative study , Mathematical Finance 4 (1994) 183-204.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/178",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 116.7601,
+            "t": 464.4864000000001,
+            "r": 499.3774529815041,
+            "b": 437.9993448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "[7] R. S. Engle and A. J. Patton; What good is a volatility model? , Quantitative Finance 1 (2001) 237-245.",
+      "text": "R. S. Engle and A. J. Patton; What good is a volatility model? , Quantitative Finance 1 (2001) 237-245.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/179",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 116.76019999999997,
+            "t": 425.6067000000001,
+            "r": 499.4292190882816,
+            "b": 399.2391448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "[8] R. Vilela Mendes and M. J. Oliveira; A data-reconstructed fractional volatility model , Economics e-journal, discussion paper 2008-22.",
+      "text": "R. Vilela Mendes and M. J. Oliveira; A data-reconstructed fractional volatility model , Economics e-journal, discussion paper 2008-22.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/180",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 116.76029999999996,
+            "t": 386.72660000000013,
+            "r": 499.4202187943683,
+            "b": 360.3594448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "[9] F. Comte and E. Renault; Long memory in continuous-time stochastic volatility models , Mathematical Finance 8 (1998) 291-323.",
+      "text": "F. Comte and E. Renault; Long memory in continuous-time stochastic volatility models , Mathematical Finance 8 (1998) 291-323.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/181",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 110.88019999999995,
+            "t": 347.84650000000016,
+            "r": 499.42446364825594,
+            "b": 307.0793448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "[10] Y. Hu; Option pricing in a market where the volatility is driven by fractional Brownian motion , in Recent Developments in Mathematical Finance, Ed. J.M. Yong, pp. 49-59, World Scientific, 2002.",
+      "text": "Y. Hu; Option pricing in a market where the volatility is driven by fractional Brownian motion , in Recent Developments in Mathematical Finance, Ed. J.M. Yong, pp. 49-59, World Scientific, 2002.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/182",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 110.88019999999995,
+            "t": 294.5664000000002,
+            "r": 499.376191004672,
+            "b": 268.1992448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "[11] L. C. G. Rogers; Arbitrage with fractional Brownian motion , Math. Finance 7 (1997) 95-105.",
+      "text": "L. C. G. Rogers; Arbitrage with fractional Brownian motion , Math. Finance 7 (1997) 95-105.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/183",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 110.88019999999995,
+            "t": 255.6863000000002,
+            "r": 499.25740302720004,
+            "b": 214.91914480000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "[12] A. N. Shiryaev; On arbitrage and replication for fractal models , Research Report 20, MaPhySto, Department of Mathematical Sciences, University of Aarhus, Denmark 1998.",
+      "text": "A. N. Shiryaev; On arbitrage and replication for fractal models , Research Report 20, MaPhySto, Department of Mathematical Sciences, University of Aarhus, Denmark 1998.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/184",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 110.8802,
+            "t": 202.40660000000025,
+            "r": 499.54246792898596,
+            "b": 176.03944480000018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "[13] D. M. Salopek; Tolerance to arbitrage , Stochast. Proc. Appl. 76 (1998) 217-230.",
+      "text": "D. M. Salopek; Tolerance to arbitrage , Stochast. Proc. Appl. 76 (1998) 217-230.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/185",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 110.88020000000003,
+            "t": 163.6464000000002,
+            "r": 499.4793023920642,
+            "b": 137.1593448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "[14] T. Sottinen; Fractional Brownian motion, random walks and binary market models, Finance Stochast. 5 (2001) 343-355.",
+      "text": "T. Sottinen; Fractional Brownian motion, random walks and binary market models, Finance Stochast. 5 (2001) 343-355.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/186",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 299.28020000000004,
+            "t": 98.84640000000013,
+            "r": 311.00632127206404,
+            "b": 86.87924480000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "11",
+      "text": "11"
+    },
+    {
+      "self_ref": "#/texts/187",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 499.3605381536769,
+            "b": 636.8392448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "[15] P. Cheridito; Arbitrage in fractional Brownian motion models, Finance Stochast. 7 (2003) 533-553.",
+      "text": "P. Cheridito; Arbitrage in fractional Brownian motion models, Finance Stochast. 7 (2003) 533-553.",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/188",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88009999999997,
+            "t": 624.3267000000001,
+            "r": 499.54452,
+            "b": 597.9595448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "[16] P. Guasoni; No arbitrage under transaction costs, with fractional Brownian motion and beyond , Math. Finance 16 (2006) 569-582.",
+      "text": "P. Guasoni; No arbitrage under transaction costs, with fractional Brownian motion and beyond , Math. Finance 16 (2006) 569-582.",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/189",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88019999999997,
+            "t": 585.4466000000001,
+            "r": 499.5428051687427,
+            "b": 544.6794448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[17] Y. Hu and B. Øksendal; Fractional white noise calculus and applications to finance , Inf. Dim. Anal. Quantum Proba. and Rel. Topics 6 (2003) 1-32.",
+      "text": "Y. Hu and B. Øksendal; Fractional white noise calculus and applications to finance , Inf. Dim. Anal. Quantum Proba. and Rel. Topics 6 (2003) 1-32.",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/190",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.8802,
+            "t": 532.1665000000002,
+            "r": 499.3590216943618,
+            "b": 505.79934480000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "[18] R. J. Elliot and J. van der Hoek; A general fractional white noise theory and applications to finance , Math. Finance 13 (2003) 301-330.",
+      "text": "R. J. Elliot and J. van der Hoek; A general fractional white noise theory and applications to finance , Math. Finance 13 (2003) 301-330.",
+      "enumerated": true,
+      "marker": "[18]"
+    },
+    {
+      "self_ref": "#/texts/191",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88019999999997,
+            "t": 493.40630000000016,
+            "r": 499.5445416602625,
+            "b": 466.9192448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "[19] T. Bj¨ ork and H. Hult; A note on Wick products and the fractional BlackScholes model , Finance and Stoch. 9 (2005) 197-209.",
+      "text": "T. Bj¨ ork and H. Hult; A note on Wick products and the fractional BlackScholes model , Finance and Stoch. 9 (2005) 197-209.",
+      "enumerated": true,
+      "marker": "[19]"
+    },
+    {
+      "self_ref": "#/texts/192",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88019999999999,
+            "t": 454.52660000000014,
+            "r": 499.32007347655707,
+            "b": 428.0395448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "[20] D. Nualart; The Malliavin Calculus and Related Topics , Springer-Verlag, Berlin 1995.",
+      "text": "D. Nualart; The Malliavin Calculus and Related Topics , Springer-Verlag, Berlin 1995.",
+      "enumerated": true,
+      "marker": "[20]"
+    },
+    {
+      "self_ref": "#/texts/193",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88040000000001,
+            "t": 415.6465000000001,
+            "r": 499.32025920000007,
+            "b": 389.2793448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "[21] G. Kallianpur and J. Xiong; Asset pricing with stochastic volatility , Appl. Math. Optim. 43 (2001) 47-62.",
+      "text": "G. Kallianpur and J. Xiong; Asset pricing with stochastic volatility , Appl. Math. Optim. 43 (2001) 47-62.",
+      "enumerated": true,
+      "marker": "[21]"
+    },
+    {
+      "self_ref": "#/texts/194",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88040000000007,
+            "t": 379.76640000000015,
+            "r": 499.42965474867236,
+            "b": 350.39924480000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "[22] L. Decreusefond and A.S. ¨ Ustunel; Stochastic analysis of the fractional Brownian motion , Potential Anal. 10 (1999) 177-214.",
+      "text": "L. Decreusefond and A.S. ¨ Ustunel; Stochastic analysis of the fractional Brownian motion , Potential Anal. 10 (1999) 177-214.",
+      "enumerated": true,
+      "marker": "[22]"
+    },
+    {
+      "self_ref": "#/texts/195",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88036000000007,
+            "t": 337.8863000000002,
+            "r": 499.32022110464015,
+            "b": 311.51914480000016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "[23] P. Embrechts and M. Maejima; Selfsimilar processes , Princeton Univ. Press, Princeton NJ, 2002.",
+      "text": "P. Embrechts and M. Maejima; Selfsimilar processes , Princeton Univ. Press, Princeton NJ, 2002.",
+      "enumerated": true,
+      "marker": "[23]"
+    },
+    {
+      "self_ref": "#/texts/196",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88036000000005,
+            "t": 299.1265000000002,
+            "r": 499.4298750234885,
+            "b": 272.6394448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "[24] R. Vilela Mendes; A fractional calculus interpretation of the fractional volatility model , Nonlinear Dyn. 55 (2009) 395-399.",
+      "text": "R. Vilela Mendes; A fractional calculus interpretation of the fractional volatility model , Nonlinear Dyn. 55 (2009) 395-399.",
+      "enumerated": true,
+      "marker": "[24]"
+    },
+    {
+      "self_ref": "#/texts/197",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88016000000003,
+            "t": 260.2464000000002,
+            "r": 499.54232425815104,
+            "b": 219.35934480000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "[25] R. Vilela Mendes; 'The fractional volatility model: An agent-based interpretation', Physica A: Stat. Mech. and its Applications, 387 (2008) 3987-3994.",
+      "text": "R. Vilela Mendes; 'The fractional volatility model: An agent-based interpretation', Physica A: Stat. Mech. and its Applications, 387 (2008) 3987-3994.",
+      "enumerated": true,
+      "marker": "[25]"
+    },
+    {
+      "self_ref": "#/texts/198",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 299.28006000000005,
+            "t": 98.8465000000001,
+            "r": 311.00618127206405,
+            "b": 86.87934480000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 234.29124450683594,
+            "t": 532.5884399414062,
+            "r": 374.66290283203125,
+            "b": 423.1885986328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/106"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        },
+        {
+          "$ref": "#/texts/154"
+        },
+        {
+          "$ref": "#/texts/155"
+        },
+        {
+          "$ref": "#/texts/156"
+        },
+        {
+          "$ref": "#/texts/157"
+        },
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        },
+        {
+          "$ref": "#/texts/161"
+        },
+        {
+          "$ref": "#/texts/162"
+        },
+        {
+          "$ref": "#/texts/163"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 234.7738800048828,
+            "t": 342.3457946777344,
+            "r": 374.57452392578125,
+            "b": 228.38604736328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/134"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 12
+    }
+  }
+}

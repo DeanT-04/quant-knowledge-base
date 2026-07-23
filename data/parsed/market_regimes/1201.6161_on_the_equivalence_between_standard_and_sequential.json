@@ -1,0 +1,2453 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1201.6161_on_the_equivalence_between_standard_and_sequential",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 14083397606481357629,
+    "filename": "1201.6161_on_the_equivalence_between_standard_and_sequential.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/groups/1"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 601.42,
+            "r": 36.206559297218156,
+            "b": 247.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "arXiv:1201.6161v1  [math.ST]  30 Jan 2012",
+      "text": "arXiv:1201.6161v1  [math.ST]  30 Jan 2012",
+      "hyperlink": "http://arxiv.org/abs/1201.6161v1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 144.1198,
+            "t": 641.0339227200001,
+            "r": 462.9561590333053,
+            "b": 618.2273478400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "ON THE EQUIVALENCE BETWEEN STANDARD AND SEQUENTIALLY ORDERED HIDDEN MARKOV MODELS",
+      "text": "ON THE EQUIVALENCE BETWEEN STANDARD AND SEQUENTIALLY ORDERED HIDDEN MARKOV MODELS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 283.1998,
+            "t": 595.97065854,
+            "r": 328.8959732696759,
+            "b": 588.3831138200001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "N. CHOPIN",
+      "text": "N. CHOPIN",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 162.47979999999998,
+            "t": 543.6666987600001,
+            "r": 449.46194115691304,
+            "b": 456.3831038200002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            607
+          ]
+        }
+      ],
+      "orig": "Abstract. Chopin (2007) introduced a sequentially ordered hidden Markov model, for which states are ordered according to their order of appearance, and claimed that such a model is a re-parametrisation of a standard Markov model. This note gives a formal proof that this equivalence holds in Bayesian terms, as both formulations generate equivalent posterior distributions, but does not hold in Frequentist terms, as both formulations generate incompatible likelihood functions. Perhaps surprisingly, this shows that Bayesian re-parametrisation and Frequentist re-parametrisation are not identical concepts.",
+      "text": "Abstract. Chopin (2007) introduced a sequentially ordered hidden Markov model, for which states are ordered according to their order of appearance, and claimed that such a model is a re-parametrisation of a standard Markov model. This note gives a formal proof that this equivalence holds in Bayesian terms, as both formulations generate equivalent posterior distributions, but does not hold in Frequentist terms, as both formulations generate incompatible likelihood functions. Perhaps surprisingly, this shows that Bayesian re-parametrisation and Frequentist re-parametrisation are not identical concepts."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 162.48059999999998,
+            "t": 454.01048854000027,
+            "r": 449.4248616,
+            "b": 436.46317382000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "Key-words : Bayesian inference; Frequentist inference; hidden Markov models; re-parametrisation; sequentially ordered hidden Markov models.",
+      "text": "Key-words : Bayesian inference; Frequentist inference; hidden Markov models; re-parametrisation; sequentially ordered hidden Markov models."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.72067999999996,
+            "t": 430.5918400000002,
+            "r": 485.3654121024154,
+            "b": 408.62920000000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "A standard hidden Markov model assumes that the observed process ( y t ) follows a mixture distribution:",
+      "text": "A standard hidden Markov model assumes that the observed process ( y t ) follows a mixture distribution:"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.72067999999996,
+            "t": 401.3117400000002,
+            "r": 387.47837697496,
+            "b": 390.90751610000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "(1) y t |{ s t = k } ∼ f ( y t | ξ k ) t = 0 , 1 , . . .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.72023999999992,
+            "t": 383.91174000000024,
+            "r": 485.2599634791872,
+            "b": 361.62742610000026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "where { f ( ·| ξ ) ξ ∈ Ξ } is a parametric family of probability densities, and that the unobserved assignment variable ( s t ) is a K -state Markov chain:",
+      "text": "where { f ( ·| ξ ) ξ ∈ Ξ } is a parametric family of probability densities, and that the unobserved assignment variable ( s t ) is a K -state Markov chain:"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.7200499999999,
+            "t": 354.63204000000025,
+            "r": 401.877098955392,
+            "b": 344.0690081234003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "(2) p ( s t +1 = l | s t = k ) = q kl , k, l = 1 , . . . , K.",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.72082999999975,
+            "t": 337.23204000000027,
+            "r": 485.4087996455365,
+            "b": 291.50920000000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            261
+          ]
+        }
+      ],
+      "orig": "If necessary, distribution (1) can also depends on y t -1 , y t -2 , . . . The transition matrix is denoted by Q = ( q kl ), and the vector of unknown parameters, which includes both the q kl 's and the ξ k 's, is denoted by θ . Lastly, it is often assumed that",
+      "text": "If necessary, distribution (1) can also depends on y t -1 , y t -2 , . . . The transition matrix is denoted by Q = ( q kl ), and the vector of unknown parameters, which includes both the q kl 's and the ξ k 's, is denoted by θ . Lastly, it is often assumed that"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.72106999999971,
+            "t": 284.07184000000024,
+            "r": 379.19843895539185,
+            "b": 273.5091981234002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "(3) p ( s 0 = k ) = ϑ k , k = 1 , . . . , K,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.72144999999972,
+            "t": 266.6718400000002,
+            "r": 485.4112419014123,
+            "b": 220.9494000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            302
+          ]
+        }
+      ],
+      "orig": "where ϑ = ( ϑ 1 , . . . , ϑ K ) is the the stationary distribution of the chain, i.e. the solution of ϑQ = ϑ . See e.g. MacDonald and Zucchini (1997), McLachlan and Peel (2000, Chap. 13), Scott (2002) or Capp´ e et al. (2005) for more background on hidden Markov models and their numerous applications.",
+      "text": "where ϑ = ( ϑ 1 , . . . , ϑ K ) is the the stationary distribution of the chain, i.e. the solution of ϑQ = ϑ . See e.g. MacDonald and Zucchini (1997), McLachlan and Peel (2000, Chap. 13), Scott (2002) or Capp´ e et al. (2005) for more background on hidden Markov models and their numerous applications."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.72182999999967,
+            "t": 218.91204000000027,
+            "r": 485.367113616304,
+            "b": 196.9494000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "The sequentially ordered hidden Markov model introduced by Chopin (2007) has the same observation equation as (1), i.e.",
+      "text": "The sequentially ordered hidden Markov model introduced by Chopin (2007) has the same observation equation as (1), i.e."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.72182999999967,
+            "t": 177.63198,
+            "r": 387.7172869749601,
+            "b": 166.2675961,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "(4) y t |{ z t = k } ∼ f ( y t | ξ k ) t = 0 , 1 , . . .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.72019,
+            "t": 160.23198000000002,
+            "r": 485.37077566745086,
+            "b": 137.94765610000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "but differs with respect to the behaviour of the hidden process, now denoted by ( z t , m t ):",
+      "text": "but differs with respect to the behaviour of the hidden process, now denoted by ( z t , m t ):"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 269.64027,
+            "t": 135.15188,
+            "r": 342.35963128000003,
+            "b": 124.58923812340004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "( z 0 , m 0 ) = (1 , 1) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.71999999999997,
+            "t": 109.73065854000004,
+            "r": 485.11118199167123,
+            "b": 92.18295381999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "THIS PAPER HAS BEEN PUBLISHED IN STATS AND PROB. LETTERS (2008, VOL. 78, PAGES 2171-2174).",
+      "text": "THIS PAPER HAS BEEN PUBLISHED IN STATS AND PROB. LETTERS (2008, VOL. 78, PAGES 2171-2174)."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.96,
+            "t": 87.17209505000005,
+            "r": 307.92812065,
+            "b": 80.54891812339997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.72,
+            "t": 694.85235505,
+            "r": 130.68812065,
+            "b": 688.2291781234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 284.64,
+            "t": 694.85235505,
+            "r": 327.3588667519887,
+            "b": 688.2291781234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "N. CHOPIN",
+      "text": "N. CHOPIN"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.72,
+            "t": 675.2194264,
+            "r": 452.519495851136,
+            "b": 630.2073216,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "(5) p ( z t +1 = l | z t = k, m t = m ) =    q kl if k, l ≤ m ≤ K, ∑ K i = m +1 q ki if k < l = m +1 ≤ K, 0 otherwise,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 256.19992,
+            "t": 625.8323800000001,
+            "r": 355.79946128,
+            "b": 615.2693481233999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "m t +1 = max( m t , z t +1 ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.71972999999998,
+            "t": 610.23238,
+            "r": 485.37944738687156,
+            "b": 528.5091,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            554
+          ]
+        }
+      ],
+      "orig": "for t = 0 , 1 , . . . For sake of clarity, parameters in this second formulation are barred, e.g. θ , ξ k , q kl , etc. The quantity m t represents the number of states that have appeared up to time t , and z t represents the current state, as labelled with respect to the order of appearance of state values; e.g. z 0 = 1, as first state to appear is always labelled '1', then z 1 = 1 with probability q 11 , and z 1 = 2 otherwise, etc. The pair ( z t , m t ) is a K ′ -state Markov chain, with K ′ = K ( K +1) / 2, since z t ≤ m t with probability one.",
+      "text": "for t = 0 , 1 , . . . For sake of clarity, parameters in this second formulation are barred, e.g. θ , ξ k , q kl , etc. The quantity m t represents the number of states that have appeared up to time t , and z t represents the current state, as labelled with respect to the order of appearance of state values; e.g. z 0 = 1, as first state to appear is always labelled '1', then z 1 = 1 with probability q 11 , and z 1 = 2 otherwise, etc. The pair ( z t , m t ) is a K ′ -state Markov chain, with K ′ = K ( K +1) / 2, since z t ≤ m t with probability one."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.72037999999986,
+            "t": 526.5916400000001,
+            "r": 485.61053488782454,
+            "b": 420.9891,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            720
+          ]
+        }
+      ],
+      "orig": "Chopin (2007) discusses several advantages of time-ordered hidden Markov models. First, they are identifiable, provided T ≥ K , whereas standard hidden Markov models are invariant with respect to state re-labelling. Second, they are still hidden Markov models, with hidden chain ( z t , m t ), so standard algorithms for hidden Markov models (such as Gibbs sampling) can be adapted with little extra effort. Third, one may conveniently estimate m t in order to evaluate how many states are required to model the data. Fourth, in sequential settings, that is, where statistical inference is performed at each time t where a new data-point is available, states are automatically and consistently ordered at all iterations.",
+      "text": "Chopin (2007) discusses several advantages of time-ordered hidden Markov models. First, they are identifiable, provided T ≥ K , whereas standard hidden Markov models are invariant with respect to state re-labelling. Second, they are still hidden Markov models, with hidden chain ( z t , m t ), so standard algorithms for hidden Markov models (such as Gibbs sampling) can be adapted with little extra effort. Third, one may conveniently estimate m t in order to evaluate how many states are required to model the data. Fourth, in sequential settings, that is, where statistical inference is performed at each time t where a new data-point is available, states are automatically and consistently ordered at all iterations."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.72092999999984,
+            "t": 418.95174,
+            "r": 485.4096977160926,
+            "b": 384.5089981234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "A last advantage of these models, which was not mentioned by Chopin (2007) is that they are slightly more parsimonious, since they do not require the specification of a distribution for the initial state s 0 , as in (3).",
+      "text": "A last advantage of these models, which was not mentioned by Chopin (2007) is that they are slightly more parsimonious, since they do not require the specification of a distribution for the initial state s 0 , as in (3)."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.71938999999992,
+            "t": 383.07163999999995,
+            "r": 485.3992484483186,
+            "b": 325.3487999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "The rest of the paper is organised as follows. Section 1 proves that the two formulations generate equivalent posterior distributions. Section 2 shows that the two formulations lead to likelihood functions that cannot be compared with each other. Section 3 discusses this paradox, and mentions possible extensions of sequentially ordered hidden Markov models.",
+      "text": "The rest of the paper is organised as follows. Section 1 proves that the two formulations generate equivalent posterior distributions. Section 2 shows that the two formulations lead to likelihood functions that cannot be compared with each other. Section 3 discusses this paradox, and mentions possible extensions of sequentially ordered hidden Markov models."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 245.15938999999992,
+            "t": 310.7118399999999,
+            "r": 366.86865509690557,
+            "b": 300.7491999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "1. Bayesian equivalence",
+      "text": "1. Bayesian equivalence",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.71836999999982,
+            "t": 292.7118399999999,
+            "r": 485.42373686567345,
+            "b": 210.62923999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            533
+          ]
+        }
+      ],
+      "orig": "We assume that ( y t ) is the stochastic process defined by (1) and (2), i.e. a standard hidden Markov model, where dependencies on parameter θ are interpreted as conditional dependencies on random variable θ , with prior probability density π . We prove that, under the following two mild conditions, one may define a latent process ( z t , m t ) and a random parameter θ distributed according to π , such that the distribution of ( y t ) conditional on θ corresponds to (4) and (5), i.e. a sequentially ordered hidden Markov model.",
+      "text": "We assume that ( y t ) is the stochastic process defined by (1) and (2), i.e. a standard hidden Markov model, where dependencies on parameter θ are interpreted as conditional dependencies on random variable θ , with prior probability density π . We prove that, under the following two mild conditions, one may define a latent process ( z t , m t ) and a random parameter θ distributed according to π , such that the distribution of ( y t ) conditional on θ corresponds to (4) and (5), i.e. a sequentially ordered hidden Markov model."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.71980000000005,
+            "t": 208.59187999999995,
+            "r": 485.35548894000436,
+            "b": 186.74954000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "Condition 1. The prior distribution π is invariant with respect to state relabelling, that is, for any permutation τ of the first K integers, if θ ∼ π , then",
+      "text": "Condition 1. The prior distribution π is invariant with respect to state relabelling, that is, for any permutation τ of the first K integers, if θ ∼ π , then"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 202.5602400000001,
+            "t": 179.07198000000005,
+            "r": 409.46560431999995,
+            "b": 168.14917812340002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "θ τ = ( ξ τ (1) , . . . , ξ τ ( K ) , q τ (1) τ (1) , . . . , q τ ( K ) τ ( K -1) )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.72009999999995,
+            "t": 161.43218000000002,
+            "r": 273.47975127999996,
+            "b": 151.46954000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "is also distributed according to π .",
+      "text": "is also distributed according to π ."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.72029999999995,
+            "t": 149.43218000000002,
+            "r": 485.35078559999994,
+            "b": 127.46954000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "Condition 2. Under the prior distribution π , all the components of matrix Q are positive with probability one.",
+      "text": "Condition 2. Under the prior distribution π , all the components of matrix Q are positive with probability one."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 126.72025999999994,
+            "t": 125.55208000000005,
+            "r": 485.4081144009781,
+            "b": 90.98943812339996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "Let σ t be the random sequence of increasing size that records sequentially the state values as they appear for the first time in s 1: t ; e.g. if x 1:5 = (4 , 3 , 4 , 7 , 3) then σ 9 = (4 , 3 , 7). With an abuse of notations, σ t shall also stand for any permutation",
+      "text": "Let σ t be the random sequence of increasing size that records sequentially the state values as they appear for the first time in s 1: t ; e.g. if x 1:5 = (4 , 3 , 4 , 7 , 3) then σ 9 = (4 , 3 , 7). With an abuse of notations, σ t shall also stand for any permutation"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 196.32,
+            "t": 694.85235505,
+            "r": 415.75352192060507,
+            "b": 688.2291781234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "SEQUENTIALLY ORDERED HIDDEN MARKOV MODELS",
+      "text": "SEQUENTIALLY ORDERED HIDDEN MARKOV MODELS"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 481.32005563510506,
+            "t": 694.85235505,
+            "r": 485.28817628510507,
+            "b": 688.2291781234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.72,
+            "t": 673.47188,
+            "r": 485.2876513639807,
+            "b": 649.7473861000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "τ of the first K integers such that τ ( i ) = σ t ( i ), for 1 ≤ i ≤ k , where k is the length of sequence σ t . In particular, let z t = σ -1 t ( s t ) and m t = max 1 ≤ t ′ ≤ t z t ′",
+      "text": "τ of the first K integers such that τ ( i ) = σ t ( i ), for 1 ≤ i ≤ k , where k is the length of sequence σ t . In particular, let z t = σ -1 t ( s t ) and m t = max 1 ≤ t ′ ≤ t z t ′"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.71951999999993,
+            "t": 649.2320700000001,
+            "r": 485.3648288960062,
+            "b": 591.1492999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            433
+          ]
+        }
+      ],
+      "orig": "According to Condition 2 and basic properties of Markov chains, there exists almost surely a vector σ of size K and a finite time ζ such that σ t = σ for all t ≥ ζ . Let θ = σ ( θ ) and Q = σ ( Q ), which are obtained respectively by re-ordering the components of θ and Q according to σ ; e.g. Q = ( q σ ( i ) σ ( j ) ). Finally, denote by σ a : b any sub-vector ( σ ( a ) , . . . , σ ( b )) of σ , where a , b are positive integers.",
+      "text": "According to Condition 2 and basic properties of Markov chains, there exists almost surely a vector σ of size K and a finite time ζ such that σ t = σ for all t ≥ ζ . Let θ = σ ( θ ) and Q = σ ( Q ), which are obtained respectively by re-ordering the components of θ and Q according to σ ; e.g. Q = ( q σ ( i ) σ ( j ) ). Finally, denote by σ a : b any sub-vector ( σ ( a ) , . . . , σ ( b )) of σ , where a , b are positive integers."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.71903999999984,
+            "t": 589.11194,
+            "r": 485.48815911613286,
+            "b": 567.1492999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "We show now that ( z t , m t ) verify (5). Clearly, ( z 0 , m 0 ) = (1 , 1) with probability 1. Then, compare",
+      "text": "We show now that ( z t , m t ) verify (5). Clearly, ( z 0 , m 0 ) = (1 , 1) with probability 1. Then, compare"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 374.2792699999998,
+            "t": 561.03184,
+            "r": 374.2792699999998,
+            "b": 551.0691999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "̸",
+      "text": "̸"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 176.03893999999983,
+            "t": 561.03184,
+            "r": 435.8642743199998,
+            "b": 550.4688081233999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "p ( σ 2: K = τ | z 1 = 2 , s 0 = k, θ ) = p ( σ 2: K = τ | s 1 = k, s 0 = k, θ )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.71876999999984,
+            "t": 544.8318399999999,
+            "r": 146.04768661866586,
+            "b": 534.8691999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "with",
+      "text": "with"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 179.63866999999982,
+            "t": 532.8318399999999,
+            "r": 432.2378812799998,
+            "b": 522.2688081233998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "p ( σ 2: K = τ | z 1 = 1 , s 0 = k, θ ) = p ( σ 2: K = τ | s 0 = s 1 = k, θ ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 376.79996999999975,
+            "t": 482.91190999999986,
+            "r": 376.79996999999975,
+            "b": 472.9492699999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "̸",
+      "text": "̸"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.71922999999975,
+            "t": 518.7916399999999,
+            "r": 485.4384166066357,
+            "b": 460.9492699999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            371
+          ]
+        }
+      ],
+      "orig": "where τ is a vector of size K -1, and '1' and '2' are the two only possible values for z 1 . Since ( s t ) is Markov, conditional on s 0 the order of appearance σ 2: K of the states that differ from s 0 does not depend on the (random) date η where s t changes value for the first time; i.e. s 0 = s 1 = . . . = s η -1 = s η . In particular, both probabilities above equal",
+      "text": "where τ is a vector of size K -1, and '1' and '2' are the two only possible values for z 1 . Since ( s t ) is Markov, conditional on s 0 the order of appearance σ 2: K of the states that differ from s 0 does not depend on the (random) date η where s t changes value for the first time; i.e. s 0 = s 1 = . . . = s η -1 = s η . In particular, both probabilities above equal"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 260.39985999999976,
+            "t": 459.03180999999984,
+            "r": 351.6251843199998,
+            "b": 448.4687781233999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "p ( σ 2: K = τ | s 0 = k, θ )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.71967999999978,
+            "t": 444.87160999999986,
+            "r": 485.38321545729735,
+            "b": 423.02886999999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "and one deduces that, conditional on σ (1) (which equals s 0 ) and θ , σ 2: K and z 1 are independent random variables. Thus",
+      "text": "and one deduces that, conditional on σ (1) (which equals s 0 ) and θ , σ 2: K and z 1 are independent random variables. Thus"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 207.5998999999998,
+            "t": 416.79197999999997,
+            "r": 403.8085258033605,
+            "b": 405.2691781234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "p ( z 1 = 1 | σ, θ ) = p ( s 1 = s 0 | s 0 , θ ) = q s 0 s 0 = q 11",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.72038999999995,
+            "t": 400.23217999999997,
+            "r": 485.35730403176785,
+            "b": 378.26934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "almost surely. Since θ is a deterministic function of σ and θ , and q 11 is a deterministic function of θ , one has:",
+      "text": "almost surely. Since θ is a deterministic function of σ and θ , and q 11 is a deterministic function of θ , one has:"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 267.48051,
+            "t": 376.23197999999996,
+            "r": 344.52004128,
+            "b": 364.7091781234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "p ( z 1 = 1 | θ ) = q 11 ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 220.80048999999997,
+            "t": 350.9199519,
+            "r": 391.19958128,
+            "b": 320.1890781234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "p ( z 1 = 2 | θ ) = 1 -p ( z 1 = 1 | θ ) = K ∑ i =2 q 1 i .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.71942999999996,
+            "t": 318.27198,
+            "r": 485.51842696423364,
+            "b": 272.42923999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "This reasoning can be generalised to further time steps: for k, l ≤ m , where m is the length of integer sequence s , σ m +1: K and z t +1 are independent variables, conditional on z t = k , m t = m , and σ 1: m . Thus, for k, l ≤ m , and for some arbitrary permutation τ ,",
+      "text": "This reasoning can be generalised to further time steps: for k, l ≤ m , where m is the length of integer sequence s , σ m +1: K and z t +1 are independent variables, conditional on z t = k , m t = m , and σ 1: m . Thus, for k, l ≤ m , and for some arbitrary permutation τ ,"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.71996999999996,
+            "t": 266.3121799999999,
+            "r": 423.38516431999994,
+            "b": 210.5092781234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "p ( z t +1 = l | z t = k, m t = m,σ = τ, θ ) (6) = p ( s t +1 = τ ( l ) | s t = τ ( k ) , m t = m,σ = τ, θ ) = p ( s t +1 = τ ( l ) | s t = τ ( k ) , m t = m,σ 1: m = τ 1: m , θ ) = q τ ( k ) τ ( l )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.71960999999996,
+            "t": 205.23208,
+            "r": 179.1586514382497,
+            "b": 195.26944000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "which gives:",
+      "text": "which gives:"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 200.51960999999994,
+            "t": 193.35198000000003,
+            "r": 411.35988128,
+            "b": 181.86767609999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "p ( z t +1 = l | z t = k, m t = m,σ,θ ) = q σ ( k ) σ ( l ) = q kl ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 138.60023,
+            "t": 179.19178,
+            "r": 402.35600938983964,
+            "b": 169.22914000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "with probability one, and, since probabilities sum up to one,",
+      "text": "with probability one, and, since probabilities sum up to one,"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.72013000000001,
+            "t": 163.71985189999998,
+            "r": 412.79949128000004,
+            "b": 132.74907812340007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "(7) p ( z t +1 = m +1 | z t = k, m t = m,σ,θ ) = K ∑ l = m +1 q kl .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.71915999999999,
+            "t": 125.91218000000003,
+            "r": 485.52645602191,
+            "b": 91.58933999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "One can replace ( σ, θ ) with θ in the conditioning of (6) and (7), since the right-hand sides depend only on θ , a deterministic function of ( σ, θ ). This gives the desired result.",
+      "text": "One can replace ( σ, θ ) with θ in the conditioning of (6) and (7), since the right-hand sides depend only on θ , a deterministic function of ( σ, θ ). This gives the desired result."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.72038999999998,
+            "t": 362.19177999999994,
+            "r": 145.56004066091856,
+            "b": 352.22914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "and,",
+      "text": "and,"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.72,
+            "t": 694.85235505,
+            "r": 130.68812065,
+            "b": 688.2291781234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 284.64,
+            "t": 694.85235505,
+            "r": 327.3588667519887,
+            "b": 688.2291781234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "N. CHOPIN",
+      "text": "N. CHOPIN"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 236.40019999999998,
+            "t": 673.47188,
+            "r": 375.6294103463637,
+            "b": 663.50924,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "2. Frequentist equivalence",
+      "text": "2. Frequentist equivalence",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.7201,
+            "t": 655.47188,
+            "r": 485.3349003908632,
+            "b": 633.0291381234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "The two formulations define two incompatible data generating processes. For instance, under the first model, the marginal distribution of y 0 is a mixture:",
+      "text": "The two formulations define two incompatible data generating processes. For instance, under the first model, the marginal distribution of y 0 is a mixture:"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 252.00041,
+            "t": 626.0795519000001,
+            "r": 359.8800212799999,
+            "b": 595.1091781234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "p ( y 0 | θ ) = K ∑ k =1 ϑ k f ( y 0 | ξ k ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.71978999999988,
+            "t": 587.07198,
+            "r": 485.40787244785315,
+            "b": 503.06924000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            600
+          ]
+        }
+      ],
+      "orig": "whereas, under the second model, this distribution is f ( y 0 | ξ 1 ). However, this distinction seems relevant only when one would observe repeated samples y ( i ) 1: T for the same parameter value θ , which seldom happens in practice. More importantly, the two formulations define non equivalent likelihood functions, in the sense that, for t ∈ Θ, the likelihood of the first model p ( y 1: T | θ = t ) is generally not equal to the likelihood of the second model p ( y 1: T | θ = t ), if only because the former likelihood is invariant with respect to state relabelling, whereas the latter is not.",
+      "text": "whereas, under the second model, this distribution is f ( y 0 | ξ 1 ). However, this distinction seems relevant only when one would observe repeated samples y ( i ) 1: T for the same parameter value θ , which seldom happens in practice. More importantly, the two formulations define non equivalent likelihood functions, in the sense that, for t ∈ Θ, the likelihood of the first model p ( y 1: T | θ = t ) is generally not equal to the likelihood of the second model p ( y 1: T | θ = t ), if only because the former likelihood is invariant with respect to state relabelling, whereas the latter is not."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.71916000000004,
+            "t": 501.03188,
+            "r": 485.52815652354843,
+            "b": 406.94953999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            628
+          ]
+        }
+      ],
+      "orig": "In fact, our time-ordered model corresponds to a re-parametrisation of the full vector of unknowns, that is, ( θ, s 1: T ) transformed into ( θ, z 1: T ), and therefore the complete likelihood p ( y 1: T z 1: t | θ ) is a re-parametrised version of p ( y 1: T s 1: T | θ ), but this property does not extend to the marginal likelihood function p ( y 1: T | θ ). A practical consequence is that maximum likelihood (or similar) estimators obtained from either formulations cannot be compared easily; thus one should refrain in principle from applying Frequentist estimation procedures to sequentially ordered hidden Markov models.",
+      "text": "In fact, our time-ordered model corresponds to a re-parametrisation of the full vector of unknowns, that is, ( θ, s 1: T ) transformed into ( θ, z 1: T ), and therefore the complete likelihood p ( y 1: T z 1: t | θ ) is a re-parametrised version of p ( y 1: T s 1: T | θ ), but this property does not extend to the marginal likelihood function p ( y 1: T | θ ). A practical consequence is that maximum likelihood (or similar) estimators obtained from either formulations cannot be compared easily; thus one should refrain in principle from applying Frequentist estimation procedures to sequentially ordered hidden Markov models."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 233.52010000000007,
+            "t": 390.7523799999999,
+            "r": 378.35303761286696,
+            "b": 380.78973999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "3. Discussion and extensions",
+      "text": "3. Discussion and extensions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.71982000000008,
+            "t": 372.8722799999999,
+            "r": 485.64857405482775,
+            "b": 267.26973999999984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            671
+          ]
+        }
+      ],
+      "orig": "This example shows that Bayesian re-parametrisation is more powerful a concept than Frequentist re-parametrisation. Since Bayesian analysis treats equally all unknown quantities as random variables, whether they are 'parameters' or 'latent variables', one can re-parametrise (apply a one-to-one transform to) the full vector of unknowns, i.e. ( θ, z ) above, rather than re-parametrise only the parameter vector θ . This explains why both formulations are equivalent in terms of posterior distributions, but not in terms of (marginal) likelihood functions. The author believes that this is yet another example of the greater internal consistency of the Bayesian approach.",
+      "text": "This example shows that Bayesian re-parametrisation is more powerful a concept than Frequentist re-parametrisation. Since Bayesian analysis treats equally all unknown quantities as random variables, whether they are 'parameters' or 'latent variables', one can re-parametrise (apply a one-to-one transform to) the full vector of unknowns, i.e. ( θ, z ) above, rather than re-parametrise only the parameter vector θ . This explains why both formulations are equivalent in terms of posterior distributions, but not in terms of (marginal) likelihood functions. The author believes that this is yet another example of the greater internal consistency of the Bayesian approach."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.71992000000006,
+            "t": 265.2323799999998,
+            "r": 485.51944435419955,
+            "b": 147.62943999999982,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            812
+          ]
+        }
+      ],
+      "orig": "One can easily derive sequentially ordered formulations for models closely related to hidden Markov models, e.g. hidden semi-Markov models, or continuous-time jump Markov models. The proof of the validity of these sequentially ordered formulations is a simple extension of Section 1. For instance, a hidden Markov model is a semi-Markov model where times between changes are geometrically distributed, but since our proof is not based on this particular assumption, it extends readily to semi-Markov models, up to cosmetic changes in the notations. In the same way, a continuous-time jump Markov process is a process that stays in a given state k , for a random, exponentially-distributed duration, and then switch to another state according to some probability transition matrix with zeros on its main diagonal.",
+      "text": "One can easily derive sequentially ordered formulations for models closely related to hidden Markov models, e.g. hidden semi-Markov models, or continuous-time jump Markov models. The proof of the validity of these sequentially ordered formulations is a simple extension of Section 1. For instance, a hidden Markov model is a semi-Markov model where times between changes are geometrically distributed, but since our proof is not based on this particular assumption, it extends readily to semi-Markov models, up to cosmetic changes in the notations. In the same way, a continuous-time jump Markov process is a process that stays in a given state k , for a random, exponentially-distributed duration, and then switch to another state according to some probability transition matrix with zeros on its main diagonal."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 276.96064000000007,
+            "t": 131.0935502399998,
+            "r": 334.79355693101076,
+            "b": 122.03751047999981,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.72064000000006,
+            "t": 113.5521799999998,
+            "r": 485.2373027571744,
+            "b": 91.58953999999983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "Capp´ e, O., Moulines, E., and Ryd´ en, T. (2005). Inference in Hidden Markov Models . Springer-Verlag, New York.",
+      "text": "Capp´ e, O., Moulines, E., and Ryd´ en, T. (2005). Inference in Hidden Markov Models . Springer-Verlag, New York."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 196.32,
+            "t": 694.85235505,
+            "r": 415.75352192060507,
+            "b": 688.2291781234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "SEQUENTIALLY ORDERED HIDDEN MARKOV MODELS",
+      "text": "SEQUENTIALLY ORDERED HIDDEN MARKOV MODELS"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 481.32005563510506,
+            "t": 694.85235505,
+            "r": 485.28817628510507,
+            "b": 688.2291781234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 126.72,
+            "t": 673.47188,
+            "r": 485.2890263927765,
+            "b": 651.50924,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "Chopin, N. (2007). Inference and model choice for sequentially ordered hidden markov models. J. R. Statist. Soc. B , 69(2):269-284.",
+      "text": "Chopin, N. (2007). Inference and model choice for sequentially ordered hidden markov models. J. R. Statist. Soc. B , 69(2):269-284.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 126.71939999999992,
+            "t": 649.5917800000001,
+            "r": 485.15376581614856,
+            "b": 627.62914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "MacDonald, I. L. and Zucchini, W. (1997). Hidden Markov and other models for discrete-valued time series . London: Chapman & Hall.",
+      "text": "MacDonald, I. L. and Zucchini, W. (1997). Hidden Markov and other models for discrete-valued time series . London: Chapman & Hall.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 126.71839999999993,
+            "t": 625.5917800000001,
+            "r": 463.5553999015063,
+            "b": 615.62914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "McLachlan, G. and Peel, D. (2000). Finite mixture models . Wiley New York.",
+      "text": "McLachlan, G. and Peel, D. (2000). Finite mixture models . Wiley New York.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 126.7178999999999,
+            "t": 613.7116800000001,
+            "r": 485.3561360802443,
+            "b": 591.74904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "Scott, S. L. (2002). Bayesian methods for hidden Markov models: Recursive computing in the 21st Century. J. Am. Statist. Assoc. , 97(457):337-351.",
+      "text": "Scott, S. L. (2002). Bayesian methods for hidden Markov models: Recursive computing in the 21st Century. J. Am. Statist. Assoc. , 97(457):337-351.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 126.71839999999986,
+            "t": 583.0263987600001,
+            "r": 485.18080847476756,
+            "b": 565.8217987700001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "CREST-ENSAE, Timbre J120 - 3, Avenue Pierre Larousse - 92245 Malakoff CEDEX, FRANCE",
+      "text": "CREST-ENSAE, Timbre J120 - 3, Avenue Pierre Larousse - 92245 Malakoff CEDEX, FRANCE"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 138.59849999999986,
+            "t": 563.09052854,
+            "r": 297.39080034778,
+            "b": 555.50298382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "E-mail address : nicolas.chopin@ensae.fr",
+      "text": "E-mail address : nicolas.chopin@ensae.fr"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

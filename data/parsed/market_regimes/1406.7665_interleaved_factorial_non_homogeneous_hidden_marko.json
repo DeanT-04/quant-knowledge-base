@@ -1,0 +1,3665 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1406.7665_interleaved_factorial_non_homogeneous_hidden_marko",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 10801633301455269368,
+    "filename": "1406.7665_interleaved_factorial_non_homogeneous_hidden_marko.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/112"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_1_0_0",
+      "label": "unspecified"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 572.54,
+            "r": 36.206559297218156,
+            "b": 227.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "arXiv:1406.7665v1  [stat.AP]  30 Jun 2014",
+      "text": "arXiv:1406.7665v1  [stat.AP]  30 Jun 2014"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 127.435,
+            "t": 680.9696260000001,
+            "r": 484.56847300000015,
+            "b": 645.5679814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "Interleaved Factorial Non-Homogeneous Hidden Markov Models for Energy Disaggregation",
+      "text": "Interleaved Factorial Non-Homogeneous Hidden Markov Models for Energy Disaggregation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 195.7,
+            "t": 600.271194,
+            "r": 418.79250179999985,
+            "b": 591.3148166000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Mingjun Zhong, Nigel Goddard, and Charles Sutton",
+      "text": "Mingjun Zhong, Nigel Goddard, and Charles Sutton",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 257.686,
+            "t": 588.9236526000001,
+            "r": 354.31325739999966,
+            "b": 558.4537743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "School of Informatics University of Edinburgh Edinburgh, EH8 9AB",
+      "text": "School of Informatics University of Edinburgh Edinburgh, EH8 9AB"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.42200000000003,
+            "t": 556.3654558000003,
+            "r": 418.5772799999998,
+            "b": 547.8009140997336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "{ mzhong,ngoddard,csutton } @inf.ed.ac.uk",
+      "text": "{ mzhong,ngoddard,csutton } @inf.ed.ac.uk"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 283.75800000000004,
+            "t": 516.5640880000003,
+            "r": 328.2432992,
+            "b": 505.8163632000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 143.86500000000004,
+            "t": 491.7946526000003,
+            "r": 468.13813839999943,
+            "b": 296.94177439292054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1413
+          ]
+        }
+      ],
+      "orig": "To reduce energy demand in households it is useful to know which electrical appliances are in use at what times. Monitoring individual appliances is costly and intrusive, whereas data on overall household electricity use is more easily obtained. In this paper, we consider the energy disaggregation problem where a household's electricity consumption is disaggregated into the component appliances. The factorial hidden Markov model (FHMM) is a natural model to fit this data. We enhance this generic model by introducing two constraints on the state sequence of the FHMM. The first is to use a non-homogeneous Markov chain, modelling how appliance usage varies over the day, and the other is to enforce that at most one chain changes state at each time step. This yields a new model which we call the interleaved factorial non-homogeneous hidden Markov model (IFNHMM) . We evaluated the ability of this model to perform disaggregation in an ultra-low frequency setting, over a data set of 251 English households. In this new setting, the IFNHMM outperforms the FHMM in terms of recovering the energy used by the component appliances, due to that stronger constraints have been imposed on the states of the hidden Markov chains. Interestingly, we find that the variability in model performance across households is significant, underscoring the importance of using larger scale data in the disaggregation problem.",
+      "text": "To reduce energy demand in households it is useful to know which electrical appliances are in use at what times. Monitoring individual appliances is costly and intrusive, whereas data on overall household electricity use is more easily obtained. In this paper, we consider the energy disaggregation problem where a household's electricity consumption is disaggregated into the component appliances. The factorial hidden Markov model (FHMM) is a natural model to fit this data. We enhance this generic model by introducing two constraints on the state sequence of the FHMM. The first is to use a non-homogeneous Markov chain, modelling how appliance usage varies over the day, and the other is to enforce that at most one chain changes state at each time step. This yields a new model which we call the interleaved factorial non-homogeneous hidden Markov model (IFNHMM) . We evaluated the ability of this model to perform disaggregation in an ultra-low frequency setting, over a data set of 251 English households. In this new setting, the IFNHMM outperforms the FHMM in terms of recovering the energy used by the component appliances, due to that stronger constraints have been imposed on the states of the hidden Markov chains. Interestingly, we find that the variability in model performance across households is significant, underscoring the importance of using larger scale data in the disaggregation problem."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.00000000000003,
+            "t": 274.9530880000002,
+            "r": 190.8136704000001,
+            "b": 264.2053632000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.00000000000003,
+            "t": 249.94365260000018,
+            "r": 504.0033873999997,
+            "b": 153.72077439292048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            872
+          ]
+        }
+      ],
+      "orig": "Two methods for reducing energy demand in households are to provide occupants with detailed information about their energy use, disaggregated into activities; and to use intelligent agents to automate some aspects of energy use (e.g., when heating is turned on). For both these purposes, it is important to identify which appliances are in use, and when. However, it is prohibitively expensive and intrusive into householders' lives to monitor individual appliances on a mass scale. Methods to infer this data from the overall household electricity signal are therefore of interest. The literature, however, does not yet provide a reliable method for performing disaggregation in a large number of households. Furthermore, previous work uses high frequency data, readings one second apart or more frequent, which can be difficult to obtain unobtrusively over long periods.",
+      "text": "Two methods for reducing energy demand in households are to provide occupants with detailed information about their energy use, disaggregated into activities; and to use intelligent agents to automate some aspects of energy use (e.g., when heating is turned on). For both these purposes, it is important to identify which appliances are in use, and when. However, it is prohibitively expensive and intrusive into householders' lives to monitor individual appliances on a mass scale. Methods to infer this data from the overall household electricity signal are therefore of interest. The literature, however, does not yet provide a reliable method for performing disaggregation in a large number of households. Furthermore, previous work uses high frequency data, readings one second apart or more frequent, which can be difficult to obtain unobtrusively over long periods."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.00000000000003,
+            "t": 145.3366526000002,
+            "r": 504.0033873999999,
+            "b": 60.071774392920474,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            759
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 108.0,
+            "t": 706.6616526,
+            "r": 504.00338739999944,
+            "b": 676.1917743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            760,
+            1013
+          ]
+        }
+      ],
+      "orig": "In this paper we consider the energy disaggregation problem in an ultra-low frequency setting (readings once every two minutes). We propose a new model, called the interleaved factorial nonhomogeneous hidden Markov model (IFNHMM), which combines several ideas from the literature, including the use of a non-homogenous HMM [5] and a one-at-a-time constraint [8]. We are unaware of previous research which combines these two ideas into a single model. We evaluate our model over a vary large and diverse dataset that to our knowledge has not been used for this problem before, namely the UK Household Energy Survey (HES) [14], which studied 251 English households over the course of a year. Interestingly, we find that the variation of the disaggregation error across households is extremely high, of similar magnitude to the difference between our model and the baseline. We suggest that addressing the variability of energy usage across different households is a key challenge for future disaggregation research.",
+      "text": "In this paper we consider the energy disaggregation problem in an ultra-low frequency setting (readings once every two minutes). We propose a new model, called the interleaved factorial nonhomogeneous hidden Markov model (IFNHMM), which combines several ideas from the literature, including the use of a non-homogenous HMM [5] and a one-at-a-time constraint [8]. We are unaware of previous research which combines these two ideas into a single model. We evaluate our model over a vary large and diverse dataset that to our knowledge has not been used for this problem before, namely the UK Household Energy Survey (HES) [14], which studied 251 English households over the course of a year. Interestingly, we find that the variation of the disaggregation error across households is extremely high, of similar magnitude to the difference between our model and the baseline. We suggest that addressing the variability of energy usage across different households is a key challenge for future disaggregation research."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.509,
+            "t": 38.735652600000094,
+            "r": 308.4903,
+            "b": 30.18377439292044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 108.0,
+            "t": 667.9859794000001,
+            "r": 504.0033873999992,
+            "b": 603.7005267325652,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            592
+          ]
+        }
+      ],
+      "orig": "Problem Setting. Suppose we have observed a time series of energy, measured in watt hours by an electricity meter, denoted by Y = ( Y 1 , Y 2 , · · · , Y T ) where Y t ∈ R + . It is assumed that this data were aggregated from the energy consumption of individual appliances used by the household. Our aim is then to deconvolve the aggregated data Y to recover the energy which has been used by the appliances individually. Suppose there were I appliances and the energy used by each appliance are denoted by X i = ( x i 1 , x i 2 , · · · , x IT ) where x it ∈ R + , so that we have the model:",
+      "text": "Problem Setting. Suppose we have observed a time series of energy, measured in watt hours by an electricity meter, denoted by Y = ( Y 1 , Y 2 , · · · , Y T ) where Y t ∈ R + . It is assumed that this data were aggregated from the energy consumption of individual appliances used by the household. Our aim is then to deconvolve the aggregated data Y to recover the energy which has been used by the appliances individually. Suppose there were I appliances and the energy used by each appliance are denoted by X i = ( x i 1 , x i 2 , · · · , x IT ) where x it ∈ R + , so that we have the model:"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 280.67699999999996,
+            "t": 597.8951054000003,
+            "r": 504.0003916,
+            "b": 567.592526732565,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Y t = I ∑ i =1 x it (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 108.0,
+            "t": 562.7814558000002,
+            "r": 504.0033873999997,
+            "b": 499.11577439292074,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            516
+          ]
+        }
+      ],
+      "orig": "The disaggregation problem is to recover the unknown time series X i given the observed data Y . This problem is essentially a blind source separation (BSS) problem where only one mixture signal was observed [1], but this case is difficult for typical BSS algorithms. The solution for the model (1) is not unique and due to the well-known identifiability problem for the model (1), i.e., in that if the energy used over the time step by any two appliances are equal, the two appliances are exchangeable in the model.",
+      "text": "The disaggregation problem is to recover the unknown time series X i given the observed data Y . This problem is essentially a blind source separation (BSS) problem where only one mixture signal was observed [1], but this case is difficult for typical BSS algorithms. The solution for the model (1) is not unique and due to the well-known identifiability problem for the model (1), i.e., in that if the energy used over the time step by any two appliances are equal, the two appliances are exchangeable in the model."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999999,
+            "t": 490.91097940000043,
+            "r": 504.0033873999998,
+            "b": 383.5497743929207,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            969
+          ]
+        }
+      ],
+      "orig": "Previous Work. A review of different approaches to the disaggregation problem can be found in [13, 12]. A natural model for this problem, which has been used in previous work on disaggregation, is the factorial hidden Markov model (FHMM) [3]. Various approaches have been proposed to improve the original FHMM for the disaggregation problem [5, 8, 10, 6] Especially relevant to our work is Kolter and Jaakkolla [8], who use a one-at-a-time constraint for the disaggregation problem, i.e., they allow most one hidden Markov chain to change state at each time, and show that this assumption can be used to derive specialized, efficient optimization algorithms. Landwehr [9] has used a version of the one-at-time-constraint for activity recognition. Kim et al [5] take a slightly different approach to allow the state transition probabilities to vary over time in the disaggregation problem. We follow the work on non-homogeneous hidden Markov chains by Diebolt et al [2].",
+      "text": "Previous Work. A review of different approaches to the disaggregation problem can be found in [13, 12]. A natural model for this problem, which has been used in previous work on disaggregation, is the factorial hidden Markov model (FHMM) [3]. Various approaches have been proposed to improve the original FHMM for the disaggregation problem [5, 8, 10, 6] Especially relevant to our work is Kolter and Jaakkolla [8], who use a one-at-a-time constraint for the disaggregation problem, i.e., they allow most one hidden Markov chain to change state at each time, and show that this assumption can be used to derive specialized, efficient optimization algorithms. Landwehr [9] has used a version of the one-at-time-constraint for activity recognition. Kim et al [5] take a slightly different approach to allow the state transition probabilities to vary over time in the disaggregation problem. We follow the work on non-homogeneous hidden Markov chains by Diebolt et al [2]."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999999,
+            "t": 365.4820880000004,
+            "r": 163.1254272,
+            "b": 354.7343632000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "2 Models",
+      "text": "2 Models",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999991,
+            "t": 340.88545580000044,
+            "r": 504.0033873999996,
+            "b": 217.53952673256515,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1058
+          ]
+        }
+      ],
+      "orig": "The FHMM is a natural choice for modelling the generation of the total energy Y where the energy used by each appliance is assumed to be a hidden Markov chain. Each hidden Markov chain is assumed to have a finite set of states, so that for each chain i , x it ∈ { µ i 1 , · · · , µ iK i } where K i denotes the number of the states of chain i . In the FHMM, the model parameters which are denoted by θ are actually unknown, and those parameters are the initial probabilities π i = ( π i 1 , · · · , π iK i ) T for each chain, the transition probabilities p ( i ) jk = P ( S it = j | S i,t -1 = k ) where S it ∈ { 1 , 2 , · · · , K i } denotes the states for the chain i , and the µ ik . Those parameters could be estimated by using approximation methods such as the structural variational approximation [3]. However, in this paper we focus on inferring the hidden states S it for each hidden Markov chain, and simply estimate the parameters via maximum likelihood on supervised training data in which the disaggregated energy signals x it have been measured.",
+      "text": "The FHMM is a natural choice for modelling the generation of the total energy Y where the energy used by each appliance is assumed to be a hidden Markov chain. Each hidden Markov chain is assumed to have a finite set of states, so that for each chain i , x it ∈ { µ i 1 , · · · , µ iK i } where K i denotes the number of the states of chain i . In the FHMM, the model parameters which are denoted by θ are actually unknown, and those parameters are the initial probabilities π i = ( π i 1 , · · · , π iK i ) T for each chain, the transition probabilities p ( i ) jk = P ( S it = j | S i,t -1 = k ) where S it ∈ { 1 , 2 , · · · , K i } denotes the states for the chain i , and the µ ik . Those parameters could be estimated by using approximation methods such as the structural variational approximation [3]. However, in this paper we focus on inferring the hidden states S it for each hidden Markov chain, and simply estimate the parameters via maximum likelihood on supervised training data in which the disaggregated energy signals x it have been measured."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999991,
+            "t": 209.9146526000004,
+            "r": 504.0033873999997,
+            "b": 108.82152673256519,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            816
+          ]
+        }
+      ],
+      "orig": "We extend the basic FHMM in two ways. First, we believe that some appliances are rarely used in some periods of time, depending on the behaviour of the household occupants. Therefore, each household has its own pattern for using the appliances. For example the dishwasher may never be used in the morning, and thus is always in the OFF state during that period. In that case the transition probability to the ON state will be zero during the morning. Given that the basic FHMM assumes that the hidden Markov model is homogeneous where the transition probabilities are always the same at any time, it is natural to assume that the transition probabilities from time t to t -1 are changing. So we assume a factorial non-homogeneous hidden Markov model and denote the transition probabilities at time t by p ( i ) tjk .",
+      "text": "We extend the basic FHMM in two ways. First, we believe that some appliances are rarely used in some periods of time, depending on the behaviour of the household occupants. Therefore, each household has its own pattern for using the appliances. For example the dishwasher may never be used in the morning, and thus is always in the OFF state during that period. In that case the transition probability to the ON state will be zero during the morning. Given that the basic FHMM assumes that the hidden Markov model is homogeneous where the transition probabilities are always the same at any time, it is natural to assume that the transition probabilities from time t to t -1 are changing. So we assume a factorial non-homogeneous hidden Markov model and denote the transition probabilities at time t by p ( i ) tjk ."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.99999999999997,
+            "t": 101.81945580000036,
+            "r": 504.00338739999984,
+            "b": 60.0717743929207,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            385
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 108.0,
+            "t": 706.6616526,
+            "r": 504.00338739999995,
+            "b": 654.2737743929206,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            386,
+            818
+          ]
+        }
+      ],
+      "orig": "Second, we impose a further constraint on the states S , namely, that from time t to t +1 , we expect that a small number of hidden chains can change state. In this paper, we study the case that at most one chain is allowed to change state from the current time to the next. We call this model the interleaved factorial hidden Markov model (IFHMM), following Landwehr [9]. Furthermore, under this constraint we could also assume the non-homogeneous Markov chain, which is thus the interleaved factorial non-homogeneous hidden Markov model (IFNHMM). For the IFHMM and IFNHMM an extra hidden Markov chain Z ∈ { 1 , 2 , · · · , I } is added to indicate which chain is permitted to change state. All the other chains are required to remain in their current state. Generally, the IFNHMM has the following joint distribution",
+      "text": "Second, we impose a further constraint on the states S , namely, that from time t to t +1 , we expect that a small number of hidden chains can change state. In this paper, we study the case that at most one chain is allowed to change state from the current time to the next. We call this model the interleaved factorial hidden Markov model (IFHMM), following Landwehr [9]. Furthermore, under this constraint we could also assume the non-homogeneous Markov chain, which is thus the interleaved factorial non-homogeneous hidden Markov model (IFNHMM). For the IFHMM and IFNHMM an extra hidden Markov chain Z ∈ { 1 , 2 , · · · , I } is added to indicate which chain is permitted to change state. All the other chains are required to remain in their current state. Generally, the IFNHMM has the following joint distribution"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.509,
+            "t": 38.73565260000032,
+            "r": 308.4903,
+            "b": 30.183774392920668,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 148.19200000000004,
+            "t": 641.8341054000002,
+            "r": 504.00039159999983,
+            "b": 611.5315267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "p ( Y, S, Z ) = P ( Z 1 ) I ∏ i =1 P ( S i 1 ) T ∏ t =1 P ( Z t | Z t -1 ) p ( Y t | S t ) I ∏ i =1 P t ( S it | S i,t -1 , Z t ) (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 496.25099999999975,
+            "t": 583.1564558,
+            "r": 496.25099999999975,
+            "b": 574.5919140997333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "̸",
+      "text": "̸"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999974,
+            "t": 600.5141054000001,
+            "r": 504.0048173999996,
+            "b": 539.5377743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            467
+          ]
+        }
+      ],
+      "orig": "where p ( Y t | S t ) = N ( ∑ T i =1 µ i,S it , σ 2 t ) is a Gaussian distribution, and P t is the time varying transition probability where P t ( S it = j | S i,t -1 = k, Z t = i ) = p ( i ) tjk and P t ( S it = j | S i,t -1 = k, Z t = i ) = δ { j = k } . Note that the IFHMM has the similar joint distribution and the only difference is that the Markov chains are homogeneous. To infer X i , it is required to infer the optimal hidden states { S ∗ , Z ∗ } such that",
+      "text": "where p ( Y t | S t ) = N ( ∑ T i =1 µ i,S it , σ 2 t ) is a Gaussian distribution, and P t is the time varying transition probability where P t ( S it = j | S i,t -1 = k, Z t = i ) = p ( i ) tjk and P t ( S it = j | S i,t -1 = k, Z t = i ) = δ { j = k } . Note that the IFHMM has the similar joint distribution and the only difference is that the Markov chains are homogeneous. To infer X i , it is required to infer the optimal hidden states { S ∗ , Z ∗ } such that"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 238.98599999999976,
+            "t": 534.4521054,
+            "r": 504.0003915999997,
+            "b": 517.8175267325648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "{ S ∗ , Z ∗ } = arg max S,Z P ( S, Z | Y ) . (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999972,
+            "t": 506.4366526,
+            "r": 504.00338739999904,
+            "b": 475.2075267325648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            258
+          ]
+        }
+      ],
+      "orig": "For the FHMM and FNHMM the basic chainwise Viterbi algorithm is used to optimize those hidden states. For the IFHMM and IFNHMM, to infer the optimal hidden states we need to optimize the posterior with respect to any of the two chains S m and S n , such that",
+      "text": "For the FHMM and FNHMM the basic chainwise Viterbi algorithm is used to optimize those hidden states. For the IFHMM and IFNHMM, to infer the optimal hidden states we need to optimize the posterior with respect to any of the two chains S m and S n , such that"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 223.10299999999967,
+            "t": 465.59710540000003,
+            "r": 504.0003915999996,
+            "b": 448.3469449386168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "{ S ∗ m , S ∗ n , Z ∗ } = arg max S m ,S n ,Z P ( S, Z | Y ) . (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.9999999999996,
+            "t": 436.2826526,
+            "r": 399.18687279999943,
+            "b": 427.73077439292035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "A chainwise Viterbi algorithm can be derived, similarly to Landwehr [9].",
+      "text": "A chainwise Viterbi algorithm can be derived, similarly to Landwehr [9]."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.9999999999996,
+            "t": 405.352088,
+            "r": 212.9427455999996,
+            "b": 394.6043632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "3 Data and Results",
+      "text": "3 Data and Results",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.9999999999996,
+            "t": 377.6456526,
+            "r": 504.0033873999993,
+            "b": 248.5457743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1148
+          ]
+        }
+      ],
+      "orig": "We apply our models to the Household Electricity Survey (HES) data, a recent study commissioned by the UK Department of Food and Rural Affairs, which monitored a total of 251 owner-occupier households across the England from May 2010 to July 2011 [14]. The study monitored 26 households for an entire year, while the remaining 225 were monitored for one month during the year with periods selected to be representative of the different seasons. Individual appliances as well as the overall electricity consumption were monitored. The households were carefully selected to be representative of the overall population. The data were recorded every 2 or 10 minutes, depending on the household. This ultra-low frequency data presents a challenge for disaggregation techniques; typically studies rely on much higher data rates, e.g., the REDD data [8]. In our evaluation we employed data from 100 of the households, which were recorded in every 2 minutes, to compare the four models. To estimate the model parameters, 20 to 30 days data were used and another 5 to 10 days data which were not using as the training data were used to compare those models.",
+      "text": "We apply our models to the Household Electricity Survey (HES) data, a recent study commissioned by the UK Department of Food and Rural Affairs, which monitored a total of 251 owner-occupier households across the England from May 2010 to July 2011 [14]. The study monitored 26 households for an entire year, while the remaining 225 were monitored for one month during the year with periods selected to be representative of the different seasons. Individual appliances as well as the overall electricity consumption were monitored. The households were carefully selected to be representative of the overall population. The data were recorded every 2 or 10 minutes, depending on the household. This ultra-low frequency data presents a challenge for disaggregation techniques; typically studies rely on much higher data rates, e.g., the REDD data [8]. In our evaluation we employed data from 100 of the households, which were recorded in every 2 minutes, to compare the four models. To estimate the model parameters, 20 to 30 days data were used and another 5 to 10 days data which were not using as the training data were used to compare those models."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.9999999999996,
+            "t": 240.16165260000002,
+            "r": 504.0033873999996,
+            "b": 109.88477439292024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1172
+          ]
+        }
+      ],
+      "orig": "After the states were inferred for each chain, we measure the disaggregation performance using the normalized squared error E = ∑ i,t (ˆ x it -x it ) 2 / ∑ i,t x 2 it , where ˆ x it denotes the estimated energy in power used by the appliance i at time t . The results for each model applying to one hundred households are shown in Table 1. We observe that the more complex models perform better, and our final model, the IFNHMM, performed best. This suggests that the identifiability problem was slightly reduced given the constraints imposed on the hidden state sequences. It is especially interesting to examine the parenthesized numbers in Table 1, which indicate the standard deviation of the disaggregation errors across households. The standard deviations are high-the coefficient of variation for the IFNHMM error is 0.389-and are of similar magnitude to the difference in error between the different models. This suggests that the variability in energy usage across households is a key research issue for home energy disaggregation, and one that cannot be explored on the smaller scale data sets that have been most commonly used in disaggregation studies to date.",
+      "text": "After the states were inferred for each chain, we measure the disaggregation performance using the normalized squared error E = ∑ i,t (ˆ x it -x it ) 2 / ∑ i,t x 2 it , where ˆ x it denotes the estimated energy in power used by the appliance i at time t . The results for each model applying to one hundred households are shown in Table 1. We observe that the more complex models perform better, and our final model, the IFNHMM, performed best. This suggests that the identifiability problem was slightly reduced given the constraints imposed on the hidden state sequences. It is especially interesting to examine the parenthesized numbers in Table 1, which indicate the standard deviation of the disaggregation errors across households. The standard deviations are high-the coefficient of variation for the IFNHMM error is 0.389-and are of similar magnitude to the difference in error between the different models. This suggests that the variability in energy usage across households is a key research issue for home energy disaggregation, and one that cannot be explored on the smaller scale data sets that have been most commonly used in disaggregation studies to date."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 107.99999999999983,
+            "t": 101.50065259999997,
+            "r": 504.00338739999944,
+            "b": 60.07177439292025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            361
+          ]
+        }
+      ],
+      "orig": "As an example, in Figure 1 we plot, for a few appliances, the true power and the power inferred by using the IFNHMM. We show results on two different households. Obviously, the method could perform well in some houses for example the left two columns, but perform badly in some other houses for example the right two columns due to the identifiability problems.",
+      "text": "As an example, in Figure 1 we plot, for a few appliances, the true power and the power inferred by using the IFNHMM. We show results on two different households. Obviously, the method could perform well in some houses for example the left two columns, but perform badly in some other houses for example the right two columns due to the identifiability problems."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.5089999999998,
+            "t": 38.73565259999987,
+            "r": 308.49029999999976,
+            "b": 30.183774392920213,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.0,
+            "t": 699.8666526,
+            "r": 504.00338739999984,
+            "b": 680.3557743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "Table 1: Total Reconstruction Error computed by FHMM, FNHMM, IFHMM and IFNHMM for one hundred households. The values are shown in mean(std).",
+      "text": "Table 1: Total Reconstruction Error computed by FHMM, FNHMM, IFHMM and IFNHMM for one hundred households. The values are shown in mean(std)."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 190.80700000000002,
+            "t": 673.879194,
+            "r": 223.45444020000005,
+            "b": 664.9228166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "FHMM",
+      "text": "FHMM"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 253.12306300000006,
+            "t": 673.879194,
+            "r": 292.9635004,
+            "b": 664.9228166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "FNHMM",
+      "text": "FNHMM"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 320.6993788,
+            "t": 673.879194,
+            "r": 357.2222703999999,
+            "b": 664.9228166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "IFHMM",
+      "text": "IFHMM"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 383.0154417999999,
+            "t": 673.879194,
+            "r": 426.7313305999998,
+            "b": 664.9228166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "IFNHMM",
+      "text": "IFNHMM"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 180.152,
+            "t": 662.1336526,
+            "r": 234.1094416,
+            "b": 653.5817743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "1.024 (0.396)",
+      "text": "1.024 (0.396)"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 246.0645616,
+            "t": 662.1336526,
+            "r": 300.02200319999986,
+            "b": 653.5817743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "0.947 (0.368)",
+      "text": "0.947 (0.368)"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.9771231999999,
+            "t": 662.1336526,
+            "r": 365.93456479999975,
+            "b": 653.5817743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "0.892 (0.334)",
+      "text": "0.892 (0.334)"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 377.88968479999977,
+            "t": 662.1336526,
+            "r": 431.84712639999964,
+            "b": 653.5817743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "0.847 (0.289)",
+      "text": "0.847 (0.289)"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 107.99999999999999,
+            "t": 625.740088,
+            "r": 187.71727359999997,
+            "b": 614.9923632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "4 Conclusions",
+      "text": "4 Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 107.99999999999999,
+            "t": 600.3156525999999,
+            "r": 504.00338739999955,
+            "b": 536.9687743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            561
+          ]
+        }
+      ],
+      "orig": "We have applied four factorial hidden Markov models to one hundred household data to recover the energy used by every appliance. Two constraints were made on the hidden Markov chains, where one is the non-homogeneous assumption on the chain and the other is to assume that at most one chain to change its state at any time. By comparing the total disaggregation error computed from the four models, the IFNHMM performed best among the other methods. This shows that incorporating additional constraint into the model helps to reduce the identifiability problem.",
+      "text": "We have applied four factorial hidden Markov models to one hundred household data to recover the energy used by every appliance. Two constraints were made on the hidden Markov chains, where one is the non-homogeneous assumption on the chain and the other is to assume that at most one chain to change its state at any time. By comparing the total disaggregation error computed from the four models, the IFNHMM performed best among the other methods. This shows that incorporating additional constraint into the model helps to reduce the identifiability problem."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 107.99999999999999,
+            "t": 518.3930880000001,
+            "r": 206.83363840000004,
+            "b": 507.6453632000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Acknowledgements",
+      "text": "Acknowledgements",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 107.99999999999999,
+            "t": 492.9676526000002,
+            "r": 504.0033873999998,
+            "b": 473.4567743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "This work was supported by the Engineering and Physical Sciences Research Council (grant number EP/K002732/1).",
+      "text": "This work was supported by the Engineering and Physical Sciences Research Council (grant number EP/K002732/1)."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.69899999999998,
+            "t": 397.49168000000003,
+            "r": 162.1454,
+            "b": 393.42168000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.69899999999998,
+            "t": 410.28819999999996,
+            "r": 162.1454,
+            "b": 406.2182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.69899999999998,
+            "t": 423.04820000000007,
+            "r": 162.1454,
+            "b": 418.9782,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.69899999999998,
+            "t": 435.80820000000006,
+            "r": 162.1454,
+            "b": 431.7382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.69899999999998,
+            "t": 448.56820000000005,
+            "r": 162.1454,
+            "b": 444.4982,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 153.53319199999999,
+            "t": 439.7593999999999,
+            "r": 157.60319199999998,
+            "b": 409.4390000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Fridge Freezer",
+      "text": "Fridge Freezer"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 188.445608,
+            "t": 460.04472,
+            "r": 197.980408,
+            "b": 455.97472000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "True",
+      "text": "True"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 260.86248,
+            "t": 460.04472,
+            "r": 281.89008,
+            "b": 455.97472000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Estimated",
+      "text": "Estimated"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 345.12248,
+            "t": 460.04472,
+            "r": 354.65728,
+            "b": 455.97472000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "True",
+      "text": "True"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 417.53900000000004,
+            "t": 460.04472,
+            "r": 438.56659999999994,
+            "b": 455.97472000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Estimated",
+      "text": "Estimated"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.69899999999998,
+            "t": 317.6682,
+            "r": 162.1454,
+            "b": 313.5982,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 157.242392,
+            "t": 332.04168000000004,
+            "r": 162.135192,
+            "b": 327.97168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 157.242392,
+            "t": 346.41472000000005,
+            "r": 162.135192,
+            "b": 342.34472000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "40",
+      "text": "40"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 157.242392,
+            "t": 360.7882,
+            "r": 162.135192,
+            "b": 356.7182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "60",
+      "text": "60"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 157.242392,
+            "t": 375.12472,
+            "r": 162.135192,
+            "b": 371.05472,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "80",
+      "text": "80"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 151.076408,
+            "t": 350.96872,
+            "r": 155.14640799999998,
+            "b": 338.74552000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Kettle",
+      "text": "Kettle"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.69899999999998,
+            "t": 237.84472000000005,
+            "r": 162.1454,
+            "b": 233.77472,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.69899999999998,
+            "t": 247.45168,
+            "r": 162.1454,
+            "b": 243.38167999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 157.242392,
+            "t": 257.02168000000006,
+            "r": 162.135192,
+            "b": 252.95168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 157.242392,
+            "t": 266.59168,
+            "r": 162.135192,
+            "b": 262.52168000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 157.242392,
+            "t": 276.19820000000004,
+            "r": 162.135192,
+            "b": 272.1282,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 157.242392,
+            "t": 285.7682,
+            "r": 162.135192,
+            "b": 281.69820000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "25",
+      "text": "25"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 157.242392,
+            "t": 295.33820000000003,
+            "r": 162.135192,
+            "b": 291.2682,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "30",
+      "text": "30"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 151.076408,
+            "t": 276.35968,
+            "r": 155.14640799999998,
+            "b": 253.86248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Microwave",
+      "text": "Microwave"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 160.982392,
+            "t": 154.35480800000005,
+            "r": 165.875192,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "00",
+      "text": "00"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 175.795608,
+            "t": 154.35480800000005,
+            "r": 180.68840799999998,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "06",
+      "text": "06"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 190.60899999999998,
+            "t": 154.35480800000005,
+            "r": 195.5018,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 205.42248,
+            "t": 154.35480800000005,
+            "r": 210.31528,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "18",
+      "text": "18"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 220.27248,
+            "t": 154.35480800000005,
+            "r": 225.16528,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "24",
+      "text": "24"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.69899999999998,
+            "t": 158.05819999999994,
+            "r": 162.1454,
+            "b": 153.9882,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 154.785608,
+            "t": 172.43159200000002,
+            "r": 162.124808,
+            "b": 168.36159199999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 154.785608,
+            "t": 186.80480799999998,
+            "r": 162.124808,
+            "b": 182.73480800000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "200",
+      "text": "200"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 154.785608,
+            "t": 201.17820000000006,
+            "r": 162.124808,
+            "b": 197.1082,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "300",
+      "text": "300"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 154.785608,
+            "t": 215.51472,
+            "r": 162.124808,
+            "b": 211.44471999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "400",
+      "text": "400"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 148.6198,
+            "t": 193.19519200000002,
+            "r": 152.6898,
+            "b": 177.30239200000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Shower",
+      "text": "Shower"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 239.339,
+            "t": 154.35480800000005,
+            "r": 244.23180000000002,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "00",
+      "text": "00"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 254.15248000000003,
+            "t": 154.35480800000005,
+            "r": 259.04528,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "06",
+      "text": "06"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 268.96552,
+            "t": 154.35480800000005,
+            "r": 273.85832000000005,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 283.779,
+            "t": 154.35480800000005,
+            "r": 288.6718,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "18",
+      "text": "18"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 298.629,
+            "t": 154.35480800000005,
+            "r": 303.5218,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "24",
+      "text": "24"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.69552,
+            "t": 154.35480800000005,
+            "r": 322.58832000000007,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "00",
+      "text": "00"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 332.509,
+            "t": 154.35480800000005,
+            "r": 337.4018,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "06",
+      "text": "06"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 347.32248000000004,
+            "t": 154.35480800000005,
+            "r": 352.21528,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 362.13552000000004,
+            "t": 154.35480800000005,
+            "r": 367.02832,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "18",
+      "text": "18"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 376.949,
+            "t": 154.35480800000005,
+            "r": 381.8418,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "24",
+      "text": "24"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 396.05248000000006,
+            "t": 154.35480800000005,
+            "r": 400.94528,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "00",
+      "text": "00"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 410.86552,
+            "t": 154.35480800000005,
+            "r": 415.75831999999997,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "06",
+      "text": "06"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 425.67900000000003,
+            "t": 154.35480800000005,
+            "r": 430.5718,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 440.49248000000006,
+            "t": 154.35480800000005,
+            "r": 445.38527999999997,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "18",
+      "text": "18"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 455.30552,
+            "t": 154.35480800000005,
+            "r": 460.19831999999997,
+            "b": 150.284808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "24",
+      "text": "24"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.0,
+            "t": 125.58165259999998,
+            "r": 504.00338739999967,
+            "b": 84.15277439292038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            295
+          ]
+        }
+      ],
+      "orig": "Figure 1: The true energy over one day for each appliance and the disaggregated power by the IFNHMM method, for household A (left two columns) and household B (right two columns). Horizontal axes are in hours, vertical axes in watt hours, and measurements are accumulated over every two minutes.",
+      "text": "Figure 1: The true energy over one day for each appliance and the disaggregated power by the IFNHMM method, for household A (left two columns) and household B (right two columns). Horizontal axes are in hours, vertical axes in watt hours, and measurements are accumulated over every two minutes."
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.509,
+            "t": 38.73565259999998,
+            "r": 308.4903,
+            "b": 30.183774392920327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.0,
+            "t": 708.4250880000001,
+            "r": 163.54385920000007,
+            "b": 697.6773632000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.0,
+            "t": 688.1665216,
+            "r": 504.0040111999999,
+            "b": 670.3453845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "[1] Comon, P. & Jutten, C. (2010). Handbook of Blind Source Separation: Independent Component Analysis and Applications. Academic Press.",
+      "text": "Comon, P. & Jutten, C. (2010). Handbook of Blind Source Separation: Independent Component Analysis and Applications. Academic Press.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000001,
+            "t": 664.0951264,
+            "r": 504.0010560000001,
+            "b": 636.4733845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "[2] Diebolt, F.X., Lee, J.H., & Weinbach, G.C. (1994). Regime switching with time varying transition probabilities. In: C.P.Hargreaves (Ed.) Nonstationary Time Series Analysis and Cointegration (Oxford: Oxford University Press), pp. 283-302.",
+      "text": "Diebolt, F.X., Lee, J.H., & Weinbach, G.C. (1994). Regime switching with time varying transition probabilities. In: C.P.Hargreaves (Ed.) Nonstationary Time Series Analysis and Cointegration (Oxford: Oxford University Press), pp. 283-302.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000003,
+            "t": 630.3835216000001,
+            "r": 499.48387040000017,
+            "b": 622.5253845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "[3] Ghahramani, Z.& Jordan, M.I. (1997). Factorial hidden Markov models. Machine Learning , 27:245-273.",
+      "text": "Ghahramani, Z.& Jordan, M.I. (1997). Factorial hidden Markov models. Machine Learning , 27:245-273.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000006,
+            "t": 616.4355216000001,
+            "r": 447.4066224000001,
+            "b": 608.5773845097347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "[4] Hart, G. (1992). Nonintrusive appliance load monitoring. Proceedings of the IEEE , 80(12)",
+      "text": "Hart, G. (1992). Nonintrusive appliance load monitoring. Proceedings of the IEEE , 80(12)",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000006,
+            "t": 602.3261264000001,
+            "r": 504.0010559999999,
+            "b": 584.6673845097347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "[5] Kim, H., Marwah, M., Arlitt, M., Lyon, G. & Han, J. (2011). Unsupervised disaggregation of low frequency power measurements. Proceedings of the SIAM Conference on Data Mining.",
+      "text": "Kim, H., Marwah, M., Arlitt, M., Lyon, G. & Han, J. (2011). Unsupervised disaggregation of low frequency power measurements. Proceedings of the SIAM Conference on Data Mining.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000007,
+            "t": 578.5775216000002,
+            "r": 503.9992240000001,
+            "b": 560.7563845097347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "[6] Johnson, M.J., & Willsky, A.S. (2013). Bayesian nonparametric hidden semi-Markov models. Journal of Machine Learning Research , 14:673-701.",
+      "text": "Johnson, M.J., & Willsky, A.S. (2013). Bayesian nonparametric hidden semi-Markov models. Journal of Machine Learning Research , 14:673-701.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000009,
+            "t": 554.6675216000002,
+            "r": 504.0001632000001,
+            "b": 536.9754848000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "[7] Kolter, J.Z., Batra, S. & Ng,A.Y. (2010) Energy disaggregation via discriminative sparse coding. Neural Information Processing Systems.",
+      "text": "Kolter, J.Z., Batra, S. & Ng,A.Y. (2010) Energy disaggregation via discriminative sparse coding. Neural Information Processing Systems.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000009,
+            "t": 530.5951264000003,
+            "r": 504.00105599999983,
+            "b": 503.10248480000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "[8] Kolter, J.Z., & Jaakkola, T. (2012) Approximate inference in additive factorial HMMs with application to energy disaggregation. Appearing in Proceedings of the 15th International Conference on Artificial Intelligence and Statistics.",
+      "text": "Kolter, J.Z., & Jaakkola, T. (2012) Approximate inference in additive factorial HMMs with application to energy disaggregation. Appearing in Proceedings of the 15th International Conference on Artificial Intelligence and Statistics.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000009,
+            "t": 496.8835216000003,
+            "r": 504.00357760000014,
+            "b": 479.1924848000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "[9] Landwehr, N. (2008). Modeling interleaved hidden processes. Proceedings of the 25th International Conference on Machine Learning.",
+      "text": "Landwehr, N. (2008). Modeling interleaved hidden processes. Proceedings of the 25th International Conference on Machine Learning.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000009,
+            "t": 472.8121264000003,
+            "r": 504.0010560000003,
+            "b": 455.1523845097348,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "[10] Parson, O., Ghosh, S., Weal, M., & Rogers, A. (2012) Non-intrusive load monitoring using prior models of general appliance types. AAAI, 2012.",
+      "text": "Parson, O., Ghosh, S., Weal, M., & Rogers, A. (2012) Non-intrusive load monitoring using prior models of general appliance types. AAAI, 2012.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000009,
+            "t": 448.90212640000027,
+            "r": 504.00105599999995,
+            "b": 431.2423845097348,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "[11] Saul, L.K. & Jordan, M.I. (1999). Mixed memory Markov chains: decomposing complex stochastic processes as mixtures of simpler ones. Machine Learning , 37: 75-87.",
+      "text": "Saul, L.K. & Jordan, M.I. (1999). Mixed memory Markov chains: decomposing complex stochastic processes as mixtures of simpler ones. Machine Learning , 37: 75-87.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000009,
+            "t": 425.1525216000003,
+            "r": 503.9975936,
+            "b": 407.3323845097348,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[12] Ziefman, M.& Roth, K.(2011). Nonintrusive appliance load monitoring: review and outlook. IEEE transactions on Consumer Electronics , 57(1): 76-84.",
+      "text": "Ziefman, M.& Roth, K.(2011). Nonintrusive appliance load monitoring: review and outlook. IEEE transactions on Consumer Electronics , 57(1): 76-84.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000014,
+            "t": 401.0811264000003,
+            "r": 504.0010560000002,
+            "b": 383.4213845097348,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "[13] Zoha, A., Gluhak, A., Imran, M.A., & Rajasegarar, S. (2012). Non-intrusive load monitoring approaches for disaggregated energy sensing: a survey. Sensors , 12: 16838-16866.",
+      "text": "Zoha, A., Gluhak, A., Imran, M.A., & Rajasegarar, S. (2012). Non-intrusive load monitoring approaches for disaggregated energy sensing: a survey. Sensors , 12: 16838-16866.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.00000000000014,
+            "t": 377.1711264000003,
+            "r": 504.001056,
+            "b": 340.27134421504024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "[14] Zimmermann, J.-P., Evans, M., Griggs, J., King, N., Harding, L., Roberts, P., and Evans, C. Household Electricity Survey. Department of Food and Rural Affairs UK. 2012. http: //randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location= None&Completed=0&ProjectID=17359",
+      "text": "Zimmermann, J.-P., Evans, M., Griggs, J., King, N., Harding, L., Roberts, P., and Evans, C. Household Electricity Survey. Department of Food and Rural Affairs UK. 2012. http: //randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location= None&Completed=0&ProjectID=17359",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.5090000000001,
+            "t": 38.73565260000021,
+            "r": 308.4903000000001,
+            "b": 30.183774392920554,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 146.96575927734375,
+            "t": 461.5440368652344,
+            "r": 459.7948303222656,
+            "b": 151.0577392578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/groups/0"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 173.42239379882812,
+            "t": 676.1710433959961,
+            "r": 436.0650939941406,
+            "b": 653.2582702636719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/0"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

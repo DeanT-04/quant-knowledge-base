@@ -1,0 +1,6197 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2410.22346_representation_learning_for_regime_detection_in_bl",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15351940168805518431,
+    "filename": "2410.22346_representation_learning_for_regime_detection_in_bl.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/145"
+      },
+      {
+        "$ref": "#/texts/146"
+      },
+      {
+        "$ref": "#/texts/147"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/152"
+      },
+      {
+        "$ref": "#/texts/153"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/155"
+      },
+      {
+        "$ref": "#/texts/156"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/160"
+      },
+      {
+        "$ref": "#/groups/5"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_1_0_0",
+      "label": "unspecified"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/tables/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_2_0_0",
+      "label": "unspecified"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/157"
+        },
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/161"
+        },
+        {
+          "$ref": "#/texts/162"
+        },
+        {
+          "$ref": "#/texts/163"
+        },
+        {
+          "$ref": "#/texts/164"
+        },
+        {
+          "$ref": "#/texts/165"
+        },
+        {
+          "$ref": "#/texts/166"
+        },
+        {
+          "$ref": "#/texts/167"
+        },
+        {
+          "$ref": "#/texts/168"
+        },
+        {
+          "$ref": "#/texts/169"
+        },
+        {
+          "$ref": "#/texts/170"
+        },
+        {
+          "$ref": "#/texts/171"
+        },
+        {
+          "$ref": "#/texts/172"
+        },
+        {
+          "$ref": "#/texts/173"
+        },
+        {
+          "$ref": "#/texts/174"
+        },
+        {
+          "$ref": "#/texts/175"
+        },
+        {
+          "$ref": "#/texts/176"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 582.52,
+            "r": 36.206559297218156,
+            "b": 217.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "arXiv:2410.22346v1  [q-fin.ST]  14 Oct 2024",
+      "text": "arXiv:2410.22346v1  [q-fin.ST]  14 Oct 2024"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 63.467,
+            "t": 736.3336053,
+            "r": 548.5352560999997,
+            "b": 687.9140460991151,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "Representation Learning for Regime Detection in Block Hierarchical Financial Markets",
+      "text": "Representation Learning for Regime Detection in Block Hierarchical Financial Markets",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 127.019,
+            "t": 668.6242439,
+            "r": 266.9736048000001,
+            "b": 634.6187743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Alexa Orton Department of Statistical Sciences University of Cape Town",
+      "text": "Alexa Orton Department of Statistical Sciences University of Cape Town"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 131.24200000000002,
+            "t": 629.9051682000002,
+            "r": 262.7483200000002,
+            "b": 623.0508356393601,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "aorton@marketaxess.com",
+      "text": "aorton@marketaxess.com"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 131.8,
+            "t": 618.5136526000001,
+            "r": 258.7035988000001,
+            "b": 609.9617743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "ORCID: 0000-0002-4698-0660",
+      "text": "ORCID: 0000-0002-4698-0660"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96400000000004,
+            "t": 583.8588160000003,
+            "r": 300.0233824000002,
+            "b": 446.2840224000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            872
+          ]
+        }
+      ],
+      "orig": "Abstract -We consider financial market regime detection from the perspective of deep representation learning of the causal information geometry underpinning traded asset systems using a hierarchical correlation structure to characterise market evolution. We assess the robustness of three toy models: SPDNet, SPDNetBN and U-SPDNet whose architectures respect the underlying Riemannian manifold of input block hierarchical SPD correlation matrices. Market phase detection for each model is carried out using three data configurations: randomised JSE Top 60 data, synthetically-generated block hierarchical SPD matrices and block-resampled chronology-preserving JSE Top 60 data 1 . We show that using a singular performance metric is misleading in our financial market investment use cases where deep learning models overfit in learning spatio-temporal correlation dynamics.",
+      "text": "Abstract -We consider financial market regime detection from the perspective of deep representation learning of the causal information geometry underpinning traded asset systems using a hierarchical correlation structure to characterise market evolution. We assess the robustness of three toy models: SPDNet, SPDNetBN and U-SPDNet whose architectures respect the underlying Riemannian manifold of input block hierarchical SPD correlation matrices. Market phase detection for each model is carried out using three data configurations: randomised JSE Top 60 data, synthetically-generated block hierarchical SPD matrices and block-resampled chronology-preserving JSE Top 60 data 1 . We show that using a singular performance metric is misleading in our financial market investment use cases where deep learning models overfit in learning spatio-temporal correlation dynamics."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.964000000000055,
+            "t": 433.1141940000003,
+            "r": 300.02339460000024,
+            "b": 400.26377439292065,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "Keywords: deep manifold representation learning, SPD matrix classification, regime detection, block hierarchical structure",
+      "text": "Keywords: deep manifold representation learning, SPD matrix classification, regime detection, block hierarchical structure"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 135.61900000000006,
+            "t": 390.1356526000003,
+            "r": 213.3718397999999,
+            "b": 381.58377439292065,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "I. INTRODUCTION",
+      "text": "I. INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96400000000006,
+            "t": 375.0426526000003,
+            "r": 300.0219200000001,
+            "b": 282.8037743929207,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            481
+          ]
+        }
+      ],
+      "orig": "Recent financial crises have made it ever-more important to detect shifts in macroeconomic regimes as underpinned by the hierarchical latent features and non-linear causal relationships driving market evolution (Miori and Cucuringu, 2022; Papenbrock et al., 2021). Novel approaches have been developed to address the key problems related to the assumptions of Guassianity, stationarity, and the need to address robustness and reflexivity (Marti et al., 2016; Polakow et al., 2023).",
+      "text": "Recent financial crises have made it ever-more important to detect shifts in macroeconomic regimes as underpinned by the hierarchical latent features and non-linear causal relationships driving market evolution (Miori and Cucuringu, 2022; Papenbrock et al., 2021). Novel approaches have been developed to address the key problems related to the assumptions of Guassianity, stationarity, and the need to address robustness and reflexivity (Marti et al., 2016; Polakow et al., 2023)."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.964000000000055,
+            "t": 279.4006526000003,
+            "r": 300.0229428,
+            "b": 127.38677439292064,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            735
+          ]
+        }
+      ],
+      "orig": "Here we consider the SPDNet introduced by Huang and Gool (2016) to establish a benchmark for deep representation learning of the SPD manifold of hierarchical correlation matrices for regime detection. We compare this model's performance to that of the SPDNetBN of Brooks et al. (2019) to determine whether regime classification accuracy improves as a function of the batchnorm respecting the Riemannian manifold upon which the SPD correlation matrices sit. Finally, the U-SPDNet (Wang et al., 2022) is considered to evaluate model capacity for latent block hierarchical feature extraction in conjunction with regime detection accuracy as a result of an augmented Riemannian autoencoder structure and increased information pass-through.",
+      "text": "Here we consider the SPDNet introduced by Huang and Gool (2016) to establish a benchmark for deep representation learning of the SPD manifold of hierarchical correlation matrices for regime detection. We compare this model's performance to that of the SPDNetBN of Brooks et al. (2019) to determine whether regime classification accuracy improves as a function of the batchnorm respecting the Riemannian manifold upon which the SPD correlation matrices sit. Finally, the U-SPDNet (Wang et al., 2022) is considered to evaluate model capacity for latent block hierarchical feature extraction in conjunction with regime detection accuracy as a result of an augmented Riemannian autoencoder structure and increased information pass-through."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.964000000000055,
+            "t": 123.98365260000026,
+            "r": 300.02192000000014,
+            "b": 103.47677439292067,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 345.028,
+            "t": 668.6242439000001,
+            "r": 484.98260479999976,
+            "b": 634.6187743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            115,
+            184
+          ]
+        }
+      ],
+      "orig": "The real-world comparative scenario of Mean-Variance Portfolio Optimisation is then presented in Figure 11 to pro- Tim Gebbie Department of Statistical Sciences University of Cape Town",
+      "text": "The real-world comparative scenario of Mean-Variance Portfolio Optimisation is then presented in Figure 11 to pro- Tim Gebbie Department of Statistical Sciences University of Cape Town"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96400000000005,
+            "t": 91.22541760000024,
+            "r": 300.0224250000004,
+            "b": 73.90201536637198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "1 See block-resampled chronology-preserving data set evaluation at: Orton (2024)",
+      "text": "1 See block-resampled chronology-preserving data set evaluation at: Orton (2024)"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 351.552,
+            "t": 629.9051682000003,
+            "r": 478.4555987999996,
+            "b": 609.9617743929206,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "tim.gebbie@uct.ac.za ORCID: 0000-0002-4061-2621",
+      "text": "tim.gebbie@uct.ac.za ORCID: 0000-0002-4061-2621"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 584.1576526000002,
+            "r": 563.0355199999998,
+            "b": 515.8297743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            322
+          ]
+        }
+      ],
+      "orig": "vide a use-case for using these models for regime-dependent portfolio construction. Backtesting on data adjusted for information leakage using purged and embargo reveals that USPDNet provides marginally larger returns than SPDNet, while both under-perform the equally-weighted benchmark portfolio (L´ opez de Prado, 2018).",
+      "text": "vide a use-case for using these models for regime-dependent portfolio construction. Backtesting on data adjusted for information leakage using purged and embargo reveals that USPDNet provides marginally larger returns than SPDNet, while both under-perform the equally-weighted benchmark portfolio (L´ opez de Prado, 2018)."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 418.17500000000007,
+            "t": 505.70165260000005,
+            "r": 456.8419774000001,
+            "b": 497.1497743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "II. DATA",
+      "text": "II. DATA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 490.78797940000004,
+            "r": 388.7996085999998,
+            "b": 482.20021820000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "A. Empirical Data",
+      "text": "A. Empirical Data",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 475.5156526,
+            "r": 563.03552,
+            "b": 395.2327743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            388
+          ]
+        }
+      ],
+      "orig": "To conduct a real-world application of the selected manifold learning techniques for regime classification, the set of daily equity returns of the top 60 high-capitalised stocks traded on the JSE over the period January 2000 - December 2023 is considered. JALSH price data are obtained via Bloomberg (BBG) which are then filtered according to a market capitalisationdetermined ranking 2 .",
+      "text": "To conduct a real-world application of the selected manifold learning techniques for regime classification, the set of daily equity returns of the top 60 high-capitalised stocks traded on the JSE over the period January 2000 - December 2023 is considered. JALSH price data are obtained via Bloomberg (BBG) which are then filtered according to a market capitalisationdetermined ranking 2 ."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.9780000000001,
+            "t": 391.8296526000001,
+            "r": 563.0355199999999,
+            "b": 275.6807743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            540
+          ]
+        }
+      ],
+      "orig": "The JSE Top 60 stocks comprise an index of the mosttraded stocks in the South African financial market. Considered through the lens of market regime detection, it is observed that the market passes through several significantly different structural periods characterised by particular price volatility dynamics. Specifically, stressed periods seen in 20072008 (Global Financial Crises), 2015-2016 and March 2020 (Covid-19) which were characterised by market downtrends and correspond with greater volatility periods in average price action.",
+      "text": "The JSE Top 60 stocks comprise an index of the mosttraded stocks in the South African financial market. Considered through the lens of market regime detection, it is observed that the market passes through several significantly different structural periods characterised by particular price volatility dynamics. Specifically, stressed periods seen in 20072008 (Global Financial Crises), 2015-2016 and March 2020 (Covid-19) which were characterised by market downtrends and correspond with greater volatility periods in average price action."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.9780000000001,
+            "t": 272.27765260000024,
+            "r": 563.03552,
+            "b": 191.99477439292048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            393
+          ]
+        }
+      ],
+      "orig": "This conforms with the work of Ang and Bekaert (2004), where bear markets are characterised by increased volatility. It is expected that the SPDNet, SPDNetBN and U-SPDNet models will be capable of detecting the differences between these stressed market states and their normal, or rally, counterparts which feature lower levels of price action volatility. We show that this is indeed the case.",
+      "text": "This conforms with the work of Ang and Bekaert (2004), where bear markets are characterised by increased volatility. It is expected that the SPDNet, SPDNetBN and U-SPDNet models will be capable of detecting the differences between these stressed market states and their normal, or rally, counterparts which feature lower levels of price action volatility. We show that this is indeed the case."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.9780000000001,
+            "t": 182.04597940000008,
+            "r": 385.4721001999999,
+            "b": 173.45821820000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "B. Synthetic Data",
+      "text": "B. Synthetic Data",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.9780000000001,
+            "t": 166.77265260000013,
+            "r": 563.0355199999999,
+            "b": 98.4457743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            356
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 214.3836526,
+            "r": 300.0215200000001,
+            "b": 169.96577439292037,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            357,
+            555
+          ]
+        }
+      ],
+      "orig": "Synthetic correlation structures are generated using the method of Yelibi and Gebbie (2021) where multiple factors are incorporated in a nested fashion into the price time series model, or into the benchmark HNFM originally proposed by Tumminello et al. (2007). No time factor is incorporated in the generation of these timeseries or associated correlation matrices. These provide a set of counterfactual scenarios characterised only by a hierarchically nested structure, where no information lead-lag effects are present in determining the market regime.",
+      "text": "Synthetic correlation structures are generated using the method of Yelibi and Gebbie (2021) where multiple factors are incorporated in a nested fashion into the price time series model, or into the benchmark HNFM originally proposed by Tumminello et al. (2007). No time factor is incorporated in the generation of these timeseries or associated correlation matrices. These provide a set of counterfactual scenarios characterised only by a hierarchically nested structure, where no information lead-lag effects are present in determining the market regime."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 326.42400000000015,
+            "t": 82.25941760000012,
+            "r": 508.4890606,
+            "b": 73.90201536637187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "2 See data processing code at: Orton and Gebbie (2024)",
+      "text": "2 See data processing code at: Orton and Gebbie (2024)"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.963999999999885,
+            "t": 598.0805040000001,
+            "r": 563.038426,
+            "b": 527.3217743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            671
+          ]
+        }
+      ],
+      "orig": "Fig. 1: Average correlation matrices for each regime identified from the JSE Top 60 data. Distance metric: √ 2(1 -C ) , where C is the sample correlation matrix. Matrices are classified into three regimes according to the ex ante Sharpe ratio ( SR ). Stressed: SR < -0 . 5 ; normal: SR ∈ [ -0 . 5 , 2 . 0] ; rally: SR > 2 . 0 . In the stressed class we can see a large cluster in the lower left, as many assets have synchronised movements, as compared to the normal market condition where the block diagonal structure suggests improved diversification. Average rally regimes exhibit this same hierarchical structure with lower inter- and intra-block correlation strength.",
+      "text": "Fig. 1: Average correlation matrices for each regime identified from the JSE Top 60 data. Distance metric: √ 2(1 -C ) , where C is the sample correlation matrix. Matrices are classified into three regimes according to the ex ante Sharpe ratio ( SR ). Stressed: SR < -0 . 5 ; normal: SR ∈ [ -0 . 5 , 2 . 0] ; rally: SR > 2 . 0 . In the stressed class we can see a large cluster in the lower left, as many assets have synchronised movements, as compared to the normal market condition where the block diagonal structure suggests improved diversification. Average rally regimes exhibit this same hierarchical structure with lower inter- and intra-block correlation strength."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 97.462,
+            "t": 612.3355351,
+            "r": 176.0790664000001,
+            "b": 605.4940153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "(a) Stressed correlations",
+      "text": "(a) Stressed correlations"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 269.32,
+            "t": 612.3355351,
+            "r": 346.1677042,
+            "b": 605.4940153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "(b) Normal correlations",
+      "text": "(b) Normal correlations"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 442.312,
+            "t": 612.3355351,
+            "r": 511.6359298,
+            "b": 605.4940153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "(c) Rally correlations",
+      "text": "(c) Rally correlations"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.964,
+            "t": 393.0316526,
+            "r": 300.0215200000001,
+            "b": 241.0177743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            773
+          ]
+        }
+      ],
+      "orig": "Fig. 2: JSE Top 60 correlation coefficient density per class. The stressed, normal and rally regimes have mean correlations of 0.24, 0.205 and 0.17, respectively. Average correlation and standard deviation vary per regime, supporting the findings of Miori and Cucuringu (2022) in the South African market of traded stocks, where varying underlying distributions characterise different macroeconomic regimes. Interrelatedness of assets is greater in times of market stress with greater volatility, while normal and rally regimes are characterised by lower average correlation and volatility. The regime correlation asymmetries identified by Ang and Bekaert (2004) prevail in the JSE top 60 data. The average correlation matrices for each market regime are shown in Figure 1.",
+      "text": "Fig. 2: JSE Top 60 correlation coefficient density per class. The stressed, normal and rally regimes have mean correlations of 0.24, 0.205 and 0.17, respectively. Average correlation and standard deviation vary per regime, supporting the findings of Miori and Cucuringu (2022) in the South African market of traded stocks, where varying underlying distributions characterise different macroeconomic regimes. Interrelatedness of assets is greater in times of market stress with greater volatility, while normal and rally regimes are characterised by lower average correlation and volatility. The regime correlation asymmetries identified by Ang and Bekaert (2004) prevail in the JSE top 60 data. The average correlation matrices for each market regime are shown in Figure 1."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.96399999999994,
+            "t": 166.1446526000001,
+            "r": 300.02386459999997,
+            "b": 97.81677439292037,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            364
+          ]
+        }
+      ],
+      "orig": "Price returns processes are modelled with random variation in the β factor sensitivity value in conjunction with additive perturbations in η and ϵ values to construct 18,000 time series for 60 data features in order to mirror the real-world price action data set of BBG JSE top 60 equities for T = 252 per computation window (Marti, 2020; Yelibi and Gebbie, 2021).",
+      "text": "Price returns processes are modelled with random variation in the β factor sensitivity value in conjunction with additive perturbations in η and ϵ values to construct 18,000 time series for 60 data features in order to mirror the real-world price action data set of BBG JSE top 60 equities for T = 252 per computation window (Marti, 2020; Yelibi and Gebbie, 2021)."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.96399999999994,
+            "t": 93.99565259999997,
+            "r": 300.02192,
+            "b": 73.48877439292039,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.97799999999995,
+            "t": 501.8016526,
+            "r": 563.0358061999999,
+            "b": 373.69777439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            114,
+            782
+          ]
+        }
+      ],
+      "orig": "The correlation matrices computed on these synthetic time series preserve the SPD structure, and can then be used via a Cholesky factor decomposition-motivated Monte Carlo simulation to conduct the SR-guided market regime labelling (Papenbrock et al., 2021). In order to respect the empiricallydetermined and well-documented fat-tailed nature of financial asset returns time series, this simulation uses a Studentt distribution drawing from an N -variate distribution with v = 3 d.o.f such that X ∼ t v ( 0 , v -2 v Σ ) (Marti et al., 2016). Having generated these time series, the correlation matrices are allocated to their relevant stressed, normal or rally category in accordance with the method of Marti (2021) (as in Figure 1 above) using the contemporaneous stock basket SR .",
+      "text": "The correlation matrices computed on these synthetic time series preserve the SPD structure, and can then be used via a Cholesky factor decomposition-motivated Monte Carlo simulation to conduct the SR-guided market regime labelling (Papenbrock et al., 2021). In order to respect the empiricallydetermined and well-documented fat-tailed nature of financial asset returns time series, this simulation uses a Studentt distribution drawing from an N -variate distribution with v = 3 d.o.f such that X ∼ t v ( 0 , v -2 v Σ ) (Marti et al., 2016). Having generated these time series, the correlation matrices are allocated to their relevant stressed, normal or rally category in accordance with the method of Marti (2021) (as in Figure 1 above) using the contemporaneous stock basket SR ."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 370.0876526,
+            "r": 563.03552,
+            "b": 218.07377439292043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            743
+          ]
+        }
+      ],
+      "orig": "By construction, the synthetic SPD matrix correlation coefficients display distributions in line with the regime switching models introduced by Ang and Bekaert (2004) and identify different macroeconomic regimes being modeled via making draws from two or more possible underlying distributions. This set of distributions is fabricated in the interest of preserving the stylised facts of real-world regime correlation dynamics, and we report that this is evidenced by the closeness in market regime distributional patterns observed between the synthetic data and the empirical data. We note in particular that the synthetic matrices possess a hierarchical structure and their pairwise distributions are positively-shifted (See figures 2 and 4).",
+      "text": "By construction, the synthetic SPD matrix correlation coefficients display distributions in line with the regime switching models introduced by Ang and Bekaert (2004) and identify different macroeconomic regimes being modeled via making draws from two or more possible underlying distributions. This set of distributions is fabricated in the interest of preserving the stylised facts of real-world regime correlation dynamics, and we report that this is evidenced by the closeness in market regime distributional patterns observed between the synthetic data and the empirical data. We note in particular that the synthetic matrices possess a hierarchical structure and their pairwise distributions are positively-shifted (See figures 2 and 4)."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 387.73400000000004,
+            "t": 206.1826526000001,
+            "r": 487.2874731000001,
+            "b": 197.63077439292044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "III. MARKET REGIMES",
+      "text": "III. MARKET REGIMES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 189.84465260000002,
+            "r": 563.0355199999996,
+            "b": 133.47277439292043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            296
+          ]
+        }
+      ],
+      "orig": "Market-timing strategies which exploit changing regimespecific underlying data distributions have been shown to add value to portfolio protection products e.g. TIPP and risk-off investment decisions; not only confined to those concerning equities (Ang and Bekaert, 2004; Papenbrock et al., 2021).",
+      "text": "Market-timing strategies which exploit changing regimespecific underlying data distributions have been shown to add value to portfolio protection products e.g. TIPP and risk-off investment decisions; not only confined to those concerning equities (Ang and Bekaert, 2004; Papenbrock et al., 2021)."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 129.86165260000007,
+            "r": 563.03552,
+            "b": 73.48877439292039,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            297
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.964,
+            "t": 301.59565260000005,
+            "r": 300.0215200000001,
+            "b": 233.2677743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            298,
+            651
+          ]
+        }
+      ],
+      "orig": "Ang and Bekaert (2004) identify two broad market regimes, namely normal and bear markets. Using regime switching (RS) asset returns model for portfolio asset allocation, the regimes are accurately reconstructed by assuming returns data points may be drawn from differing underlying data generation distributions, which supports the empirically-observed asymmetric correlation distribution. Recently, centrality measures computed on correlation coefficients representing evolving equity financial market networks have been employed in matrix clustering, regime detection and risk-diversified portfolio construction by extension (Borghesi et al., 2007).",
+      "text": "Ang and Bekaert (2004) identify two broad market regimes, namely normal and bear markets. Using regime switching (RS) asset returns model for portfolio asset allocation, the regimes are accurately reconstructed by assuming returns data points may be drawn from differing underlying data generation distributions, which supports the empirically-observed asymmetric correlation distribution. Recently, centrality measures computed on correlation coefficients representing evolving equity financial market networks have been employed in matrix clustering, regime detection and risk-diversified portfolio construction by extension (Borghesi et al., 2007)."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.964,
+            "t": 596.5966526000001,
+            "r": 563.0342648000001,
+            "b": 540.2237743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            590
+          ]
+        }
+      ],
+      "orig": "Fig. 3: We show representative (simulated) block hierarchical SPD correlation matrices per regime. The synthetic construction uses techniques for nested factor timeseries generation as proposed by Yelibi and Gebbie (2021) to create 5 clusters with 3 hierarchies each, sampled from Student's t-distribution with v = 3 d.o.f. The SPD correlation matrices computed on these datasets are permuted to introduce realistic noise with seed = 27. The simulated correlation matrices can be visually compared with the empirical average correlation matrices for each market regime as shown in Figure 1.",
+      "text": "Fig. 3: We show representative (simulated) block hierarchical SPD correlation matrices per regime. The synthetic construction uses techniques for nested factor timeseries generation as proposed by Yelibi and Gebbie (2021) to create 5 clusters with 3 hierarchies each, sampled from Student's t-distribution with v = 3 d.o.f. The SPD correlation matrices computed on these datasets are permuted to introduce realistic noise with seed = 27. The simulated correlation matrices can be visually compared with the empirical average correlation matrices for each market regime as shown in Figure 1."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 97.462,
+            "t": 612.3355351,
+            "r": 176.0790664000001,
+            "b": 605.4940153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "(a) Stressed correlations",
+      "text": "(a) Stressed correlations"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 269.32,
+            "t": 612.3355351,
+            "r": 346.1677042,
+            "b": 605.4940153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "(b) Normal correlations",
+      "text": "(b) Normal correlations"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 442.312,
+            "t": 612.3355351,
+            "r": 511.6359298,
+            "b": 605.4940153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "(c) Rally correlations",
+      "text": "(c) Rally correlations"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.964,
+            "t": 401.2586526,
+            "r": 300.0215200000001,
+            "b": 332.9307743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            349
+          ]
+        }
+      ],
+      "orig": "Fig. 4: Synthetic block hierarchical SPD matrix correlation coefficient density per regime. By construction, the stressed, normal and rally regimes have average correlations of 0.24, 0.18 and 0.10 respectively, with descending standard deviation values. The separability of underlying distributions per regime class is preserved to emulate Figure 2.",
+      "text": "Fig. 4: Synthetic block hierarchical SPD matrix correlation coefficient density per regime. By construction, the stressed, normal and rally regimes have average correlations of 0.24, 0.18 and 0.10 respectively, with descending standard deviation values. The separability of underlying distributions per regime class is preserved to emulate Figure 2."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.964,
+            "t": 227.68365260000007,
+            "r": 300.0219200000001,
+            "b": 111.53477439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            590
+          ]
+        }
+      ],
+      "orig": "Miori and Cucuringu (2022) extend these studies to returns correlations across multiple asset classes and establish a purely data-driven technique for distinguishing regimes. Influenced by spectral analysis techniques, cophenetic correlation matrices are constructed as correlations between the distance matrix found as √ 2(1 -∥ C ∥ ) where C is Pearson's linear correlation, sitting on the Euclidean manifold, and the associated dendrogram generated by a hierarchical linkage algorithm. Six regimes are uncovered via KMeans++ clustering using the elbow method for cluster number selection.",
+      "text": "Miori and Cucuringu (2022) extend these studies to returns correlations across multiple asset classes and establish a purely data-driven technique for distinguishing regimes. Influenced by spectral analysis techniques, cophenetic correlation matrices are constructed as correlations between the distance matrix found as √ 2(1 -∥ C ∥ ) where C is Pearson's linear correlation, sitting on the Euclidean manifold, and the associated dendrogram generated by a hierarchical linkage algorithm. Six regimes are uncovered via KMeans++ clustering using the elbow method for cluster number selection."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.96400000000003,
+            "t": 105.95165259999999,
+            "r": 300.02192000000014,
+            "b": 73.48877439292028,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.978,
+            "t": 514.7036525999999,
+            "r": 563.0391613999994,
+            "b": 434.42077439292035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            181,
+            602
+          ]
+        }
+      ],
+      "orig": "Here three classes of correlation matrices are generated by augmenting the original data which correspond to stressed, normal and rally market regimes. This marries the findings of Miori and Cucuringu (2022) and Ang and Bekaert (2004), and emulates the 'rule-of-thumb' technique used by Marti (2021). By virtue of considering that three broad market regime categories have been detected in equity markets, and that the annualised SR of indices belonging to multiple asset classes differs significantly amongst six data-informed regimes, a categorisation system emerges for correlation matrix labelling.",
+      "text": "Here three classes of correlation matrices are generated by augmenting the original data which correspond to stressed, normal and rally market regimes. This marries the findings of Miori and Cucuringu (2022) and Ang and Bekaert (2004), and emulates the 'rule-of-thumb' technique used by Marti (2021). By virtue of considering that three broad market regime categories have been detected in equity markets, and that the annualised SR of indices belonging to multiple asset classes differs significantly amongst six data-informed regimes, a categorisation system emerges for correlation matrix labelling."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.978,
+            "t": 247.15065260000006,
+            "r": 563.0355199999999,
+            "b": 166.8677743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            365
+          ]
+        }
+      ],
+      "orig": "Fig. 5: U-SPDNet matrix evolutions. Here, the 60x60 input space (left), 20x20 latent space (center) and the reconstructed 60x60 layer (right) matrices of U-SPDNet trained and validated on both synthetic nested block hierarchical correlation matrices (lower row) and their JSE Top 60 data counterpart (upper row). Representational example drawn from the 600th epoch.",
+      "text": "Fig. 5: U-SPDNet matrix evolutions. Here, the 60x60 input space (left), 20x20 latent space (center) and the reconstructed 60x60 layer (right) matrices of U-SPDNet trained and validated on both synthetic nested block hierarchical correlation matrices (lower row) and their JSE Top 60 data counterpart (upper row). Representational example drawn from the 600th epoch."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 415.601,
+            "t": 349.20953510000004,
+            "r": 465.39021470000006,
+            "b": 342.3680153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "(a) JSE Top 60",
+      "text": "(a) JSE Top 60"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 410.48,
+            "t": 262.8895351000001,
+            "r": 470.5107932,
+            "b": 256.0480153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "(b) Synthetic Data",
+      "text": "(b) Synthetic Data"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 379.978,
+            "t": 137.5086526,
+            "r": 495.0375963999999,
+            "b": 128.95677439292035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "IV. LEARNING ACCURACY",
+      "text": "IV. LEARNING ACCURACY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.978,
+            "t": 117.90665259999992,
+            "r": 563.0355199999997,
+            "b": 73.48877439292028,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.964,
+            "t": 739.5756526,
+            "r": 300.02152,
+            "b": 719.0677743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            232,
+            316
+          ]
+        }
+      ],
+      "orig": "We evaluate the SPDNet-based models using both the ordered JSE top 60 correlation matrices and their block hierarchical synthetic data counterpart. Much is revealed by these initial experiments which provide a baseline specifically for market regime detection given the information contained in these datasets alone.",
+      "text": "We evaluate the SPDNet-based models using both the ordered JSE top 60 correlation matrices and their block hierarchical synthetic data counterpart. Much is revealed by these initial experiments which provide a baseline specifically for market regime detection given the information contained in these datasets alone."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.963999999999984,
+            "t": 715.8316526,
+            "r": 300.0250296,
+            "b": 623.5937743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            435
+          ]
+        }
+      ],
+      "orig": "Firstly, in comparing the 2-layer 60, 20, 3 and 4-layer 60, 40, 20, 10, 3 configurations, it is clear that the introduction of Riemannian batchnorm layers improves the market state classification accuracy, irrespective of the dataset used for training, which confirms the findings of Brooks et al. (2019) where the integration of Riemannian batchnorm layers with the original SPDNet yielded greater radar image classification accuracy.",
+      "text": "Firstly, in comparing the 2-layer 60, 20, 3 and 4-layer 60, 40, 20, 10, 3 configurations, it is clear that the introduction of Riemannian batchnorm layers improves the market state classification accuracy, irrespective of the dataset used for training, which confirms the findings of Brooks et al. (2019) where the integration of Riemannian batchnorm layers with the original SPDNet yielded greater radar image classification accuracy."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.963999999999984,
+            "t": 620.3576525999997,
+            "r": 300.02192,
+            "b": 516.1647743929198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            511
+          ]
+        }
+      ],
+      "orig": "Furthermore, as identified by Wang et al. (2022), increased depth holds no relationship with improved classification accuracy since the performance measure convergence occurs within a narrow band around 71% and 66% for the real-world and synthetic data scenarios, respectively, irrespective of model depth. Model performance is weaker when the synthetic block hierarchical correlation matrices are used as training input when compared to average validation accuracies achieved for their real-world counterparts.",
+      "text": "Furthermore, as identified by Wang et al. (2022), increased depth holds no relationship with improved classification accuracy since the performance measure convergence occurs within a narrow band around 71% and 66% for the real-world and synthetic data scenarios, respectively, irrespective of model depth. Model performance is weaker when the synthetic block hierarchical correlation matrices are used as training input when compared to average validation accuracies achieved for their real-world counterparts."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.963999999999984,
+            "t": 512.9286525999994,
+            "r": 300.02191999999997,
+            "b": 444.6007743929198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "All SPDNet benchmark models converging on training accuracy values nearing 70% which resemble, and even improve on, those achieved when the self-same models are applied in the context of allocating correlation matrices computed from S&P 500 stock price returns to the stressed, normal and rally categories - as in the work of Marti (2021).",
+      "text": "All SPDNet benchmark models converging on training accuracy values nearing 70% which resemble, and even improve on, those achieved when the self-same models are applied in the context of allocating correlation matrices computed from S&P 500 stock price returns to the stressed, normal and rally categories - as in the work of Marti (2021)."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.96399999999994,
+            "t": 433.35665259999945,
+            "r": 300.02217099999984,
+            "b": 281.3427743929199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            730
+          ]
+        }
+      ],
+      "orig": "TABLE I: Model Configurations. Model acronyms are shown in the first column. The table then provides the Transformation Matrix Dimension (TMD) that defines the architecture of the model learning systems, and the learning rate λ . The Momentum parameter η is set to 0.9 for all models. The USPDNET-6BiRe model configuration is annealed over a range of learning rate parameters, and its TMD is mirrored across the architecture (**) where the Cross-Entropy (CE) loss function is guided by the Reconstruction Error Term (RET). BN indicates the use of Riemannian Batch Normalisation (RBN); BiRe the implementation of alternating BiMap and ReEig layers. The simulation accuracy results for the configurations are summarised in Table II.",
+      "text": "TABLE I: Model Configurations. Model acronyms are shown in the first column. The table then provides the Transformation Matrix Dimension (TMD) that defines the architecture of the model learning systems, and the learning rate λ . The Momentum parameter η is set to 0.9 for all models. The USPDNET-6BiRe model configuration is annealed over a range of learning rate parameters, and its TMD is mirrored across the architecture (**) where the Cross-Entropy (CE) loss function is guided by the Reconstruction Error Term (RET). BN indicates the use of Riemannian Batch Normalisation (RBN); BiRe the implementation of alternating BiMap and ReEig layers. The simulation accuracy results for the configurations are summarised in Table II."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 57.349,
+            "t": 269.346816,
+            "r": 81.75554079999999,
+            "b": 261.2860224000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Model",
+      "text": "Model"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 137.05132959999997,
+            "t": 269.346816,
+            "r": 157.96994079999996,
+            "b": 261.2860224000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "TMD",
+      "text": "TMD"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 238.16799999999998,
+            "t": 269.2840512,
+            "r": 243.54335679999997,
+            "b": 261.44808943400585,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "λ",
+      "text": "λ"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 57.349,
+            "t": 253.14212640000005,
+            "r": 86.7408592,
+            "b": 245.44538450973448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "SPDNet",
+      "text": "SPDNet"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 137.053,
+            "t": 253.4290512,
+            "r": 141.66083296,
+            "b": 245.7209120896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "{",
+      "text": "{"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 141.661,
+            "t": 253.14212640000005,
+            "r": 174.83668000000006,
+            "b": 245.44538450973448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "60, 20, 3",
+      "text": "60, 20, 3"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 174.837,
+            "t": 253.4290512,
+            "r": 179.44483295999999,
+            "b": 245.7209120896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "}",
+      "text": "}"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 238.168,
+            "t": 253.4290512,
+            "r": 242.77583296,
+            "b": 245.59308943400583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 244.824,
+            "t": 253.4290512,
+            "r": 251.99174016,
+            "b": 245.7209120896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "×",
+      "text": "×"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 254.03900000000002,
+            "t": 253.4290512,
+            "r": 258.32314592,
+            "b": 245.59308943400583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "e",
+      "text": "e"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 258.32300000000004,
+            "t": 255.19670080000003,
+            "r": 264.0794288,
+            "b": 250.0579413930667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 264.08000000000004,
+            "t": 255.19670080000003,
+            "r": 267.73291136000006,
+            "b": 249.97272628933717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 57.349000000000046,
+            "t": 242.49212639999996,
+            "r": 99.19518880000005,
+            "b": 234.7953845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "SPDNetBN",
+      "text": "SPDNetBN"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 137.05300000000005,
+            "t": 242.77905120000003,
+            "r": 141.66083296000005,
+            "b": 235.07091208960003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "{",
+      "text": "{"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 141.66100000000006,
+            "t": 242.49212639999996,
+            "r": 174.83668000000011,
+            "b": 234.7953845097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "60, 20, 3",
+      "text": "60, 20, 3"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 174.83700000000005,
+            "t": 242.77905120000003,
+            "r": 179.44483296000004,
+            "b": 235.07091208960003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "}",
+      "text": "}"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 238.16800000000006,
+            "t": 242.77905120000003,
+            "r": 242.77583296000006,
+            "b": 234.94308943400574,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 244.82400000000007,
+            "t": 242.77905120000003,
+            "r": 251.99174016000006,
+            "b": 235.07091208960003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "×",
+      "text": "×"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 254.03900000000007,
+            "t": 242.77905120000003,
+            "r": 258.32314592000006,
+            "b": 234.94308943400574,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "e",
+      "text": "e"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 258.3230000000001,
+            "t": 244.54670080000005,
+            "r": 264.0794288000001,
+            "b": 239.40794139306672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 264.0800000000001,
+            "t": 244.54670080000005,
+            "r": 267.7329113600001,
+            "b": 239.3227262893372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 57.3490000000001,
+            "t": 231.84212639999998,
+            "r": 112.64478880000011,
+            "b": 224.14538450973453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "SPDNet-3BiRe",
+      "text": "SPDNet-3BiRe"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 137.0530000000001,
+            "t": 232.12905120000005,
+            "r": 141.6608329600001,
+            "b": 224.42091208960005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "{",
+      "text": "{"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 141.66100000000012,
+            "t": 231.84212639999998,
+            "r": 203.52916000000022,
+            "b": 224.14538450973453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "60, 40, 20, 10, 3",
+      "text": "60, 40, 20, 10, 3"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 203.5290000000001,
+            "t": 232.12905120000005,
+            "r": 208.1368329600001,
+            "b": 224.42091208960005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "}",
+      "text": "}"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 238.16800000000012,
+            "t": 232.12905120000005,
+            "r": 242.77583296000012,
+            "b": 224.29308943400576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 244.82400000000013,
+            "t": 232.12905120000005,
+            "r": 251.99174016000012,
+            "b": 224.42091208960005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "×",
+      "text": "×"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 254.03900000000013,
+            "t": 232.12905120000005,
+            "r": 258.3231459200001,
+            "b": 224.29308943400576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "e",
+      "text": "e"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 258.32300000000015,
+            "t": 233.89670079999996,
+            "r": 264.07942880000013,
+            "b": 228.75794139306663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 264.08000000000015,
+            "t": 233.89670079999996,
+            "r": 267.7329113600002,
+            "b": 228.6727262893371,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 57.34900000000016,
+            "t": 221.1921264,
+            "r": 125.09911840000018,
+            "b": 213.49538450973455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "SPDNetBN-3BiRe",
+      "text": "SPDNetBN-3BiRe"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 137.05300000000017,
+            "t": 221.47905119999996,
+            "r": 141.66083296000016,
+            "b": 213.77091208959996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "{",
+      "text": "{"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 141.66100000000017,
+            "t": 221.1921264,
+            "r": 203.52916000000027,
+            "b": 213.49538450973455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "60, 40, 20, 10, 3",
+      "text": "60, 40, 20, 10, 3"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 203.52900000000017,
+            "t": 221.47905119999996,
+            "r": 208.13683296000016,
+            "b": 213.77091208959996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "}",
+      "text": "}"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 238.16800000000018,
+            "t": 221.47905119999996,
+            "r": 242.77583296000017,
+            "b": 213.6430894340058,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 244.82400000000018,
+            "t": 221.47905119999996,
+            "r": 251.99174016000018,
+            "b": 213.77091208959996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "×",
+      "text": "×"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 254.0390000000002,
+            "t": 221.47905119999996,
+            "r": 258.3231459200002,
+            "b": 213.6430894340058,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "e",
+      "text": "e"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 258.3230000000002,
+            "t": 223.24670079999999,
+            "r": 264.0794288000002,
+            "b": 218.10794139306665,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 264.0800000000002,
+            "t": 223.24670079999999,
+            "r": 267.73291136000023,
+            "b": 218.02272628933713,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 57.34900000000022,
+            "t": 210.54212639999992,
+            "r": 122.10434080000023,
+            "b": 202.84538450973446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "U-SPDNet-6BiRe",
+      "text": "U-SPDNet-6BiRe"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 137.05300000000022,
+            "t": 210.82905119999998,
+            "r": 141.66083296000022,
+            "b": 203.12091208959998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "{",
+      "text": "{"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 141.66100000000023,
+            "t": 210.54212639999992,
+            "r": 203.52916000000033,
+            "b": 202.84538450973446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "60, 40, 20, 10, 3",
+      "text": "60, 40, 20, 10, 3"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 203.52900000000022,
+            "t": 210.82905119999998,
+            "r": 208.13683296000022,
+            "b": 203.12091208959998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "}",
+      "text": "}"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 211.27500000000023,
+            "t": 210.54212639999992,
+            "r": 226.21302240000026,
+            "b": 202.84538450973446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "(**)",
+      "text": "(**)"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 238.16800000000023,
+            "t": 210.82905119999998,
+            "r": 242.77583296000023,
+            "b": 202.9930894340057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 244.82400000000024,
+            "t": 210.82905119999998,
+            "r": 251.99174016000023,
+            "b": 203.12091208959998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "×",
+      "text": "×"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 254.03900000000024,
+            "t": 210.82905119999998,
+            "r": 256.59890720000027,
+            "b": 202.9930894340057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "[",
+      "text": "["
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 256.5990000000002,
+            "t": 210.82905119999998,
+            "r": 260.88314592000023,
+            "b": 202.9930894340057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "e",
+      "text": "e"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 260.8830000000002,
+            "t": 212.5967008,
+            "r": 266.6394288000002,
+            "b": 207.45794139306668,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 266.63900000000024,
+            "t": 212.5967008,
+            "r": 270.29191136000026,
+            "b": 207.37272628933715,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 270.79000000000025,
+            "t": 210.82905119999998,
+            "r": 279.16730752000024,
+            "b": 202.9930894340057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": ", e",
+      "text": ", e"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 279.17000000000024,
+            "t": 212.5967008,
+            "r": 284.9264288000002,
+            "b": 207.45794139306668,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 284.92700000000025,
+            "t": 212.5967008,
+            "r": 288.57991136000027,
+            "b": 207.37272628933715,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 289.07800000000026,
+            "t": 210.82905119999998,
+            "r": 291.63790720000026,
+            "b": 202.9930894340057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "]",
+      "text": "]"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 148.262,
+            "t": 180.6536526,
+            "r": 200.72889829999994,
+            "b": 172.10177439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "V. RESULTS",
+      "text": "V. RESULTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.964000000000006,
+            "t": 165.72765260000006,
+            "r": 300.02191999999997,
+            "b": 73.48877439292039,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            484
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 274.07465260000004,
+            "r": 563.0355199999999,
+            "b": 229.6567743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            485,
+            709
+          ]
+        }
+      ],
+      "orig": "Figure 5 shows how the block hierarchical structure is maintained in the latent layer in both cases. In the JSE Top 60 data case, the reconstructed matrix preserves the block hierarchical structure, but a one-to-one information mapping is not perfectly achieved OOS. The extracted latent 20-feature layers show preservation of the block-hierarchical structure and meaningful statistical factor identification. The latent space matrices have similar structures with subtle differences, pointing to the U-SPDNet model as capturing a tractable underlying correlation information set on the SPD manifold which incorporates the temporal feature of the real world data in comparison to their synthetic counterparts.",
+      "text": "Figure 5 shows how the block hierarchical structure is maintained in the latent layer in both cases. In the JSE Top 60 data case, the reconstructed matrix preserves the block hierarchical structure, but a one-to-one information mapping is not perfectly achieved OOS. The extracted latent 20-feature layers show preservation of the block-hierarchical structure and meaningful statistical factor identification. The latent space matrices have similar structures with subtle differences, pointing to the U-SPDNet model as capturing a tractable underlying correlation information set on the SPD manifold which incorporates the temporal feature of the real world data in comparison to their synthetic counterparts."
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/tables/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.978,
+            "t": 743.1616526,
+            "r": 563.03552,
+            "b": 638.9687743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            494
+          ]
+        }
+      ],
+      "orig": "TABLE II: Regime Detection Accuracy Out-Of-Sample (OOS). U-SPDNet outperforms all SPDNet benchmark models in the context of the empirical real-world data (JSE Top 60 data). The U-SPDNet OOS accuracy when trained on the synthetic dataset does not improve on the initial SPDNet model configurations. The various TMDs are shown with mirroring noted as above (**). This may suggest that the richer non-linear structure found in the real-world data is better leveraged by more complex architectures.",
+      "text": "TABLE II: Regime Detection Accuracy Out-Of-Sample (OOS). U-SPDNet outperforms all SPDNet benchmark models in the context of the empirical real-world data (JSE Top 60 data). The U-SPDNet OOS accuracy when trained on the synthetic dataset does not improve on the initial SPDNet model configurations. The various TMDs are shown with mirroring noted as above (**). This may suggest that the richer non-linear structure found in the real-world data is better leveraged by more complex architectures."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.955,
+            "t": 626.972816,
+            "r": 342.36154079999994,
+            "b": 618.9120224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Model",
+      "text": "Model"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 397.6573295999999,
+            "t": 626.972816,
+            "r": 428.79763679999985,
+            "b": 618.9120224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Configs.",
+      "text": "Configs."
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 498.77142239999984,
+            "t": 626.972816,
+            "r": 519.4479407999997,
+            "b": 618.9120224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Emp.",
+      "text": "Emp."
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 538.3760111999998,
+            "t": 626.972816,
+            "r": 563.0425775999996,
+            "b": 618.9120224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Synth.",
+      "text": "Synth."
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.955,
+            "t": 611.4551264,
+            "r": 347.34685919999987,
+            "b": 603.7583845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "SPDNet",
+      "text": "SPDNet"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 397.65999999999997,
+            "t": 611.7420512000001,
+            "r": 402.26783295999996,
+            "b": 604.0339120896001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "{",
+      "text": "{"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 402.267,
+            "t": 611.4551264,
+            "r": 435.44268000000005,
+            "b": 603.7583845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "60, 20, 3",
+      "text": "60, 20, 3"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 435.443,
+            "t": 611.7420512000001,
+            "r": 440.05083296,
+            "b": 604.0339120896001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "}",
+      "text": "}"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 498.775,
+            "t": 611.4551264,
+            "r": 526.4184111999999,
+            "b": 603.7583845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "68.95%",
+      "text": "68.95%"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 538.3706223999999,
+            "t": 611.4551264,
+            "r": 566.0140335999998,
+            "b": 603.7583845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "66.80%",
+      "text": "66.80%"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.955,
+            "t": 601.4921264000001,
+            "r": 359.80118879999986,
+            "b": 593.7953845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "SPDNetBN",
+      "text": "SPDNetBN"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 397.65999999999997,
+            "t": 601.7790512000001,
+            "r": 402.26783295999996,
+            "b": 594.0709120896001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "{",
+      "text": "{"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 402.267,
+            "t": 601.4921264000001,
+            "r": 435.44268000000005,
+            "b": 593.7953845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "60, 20, 3",
+      "text": "60, 20, 3"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 435.443,
+            "t": 601.7790512000001,
+            "r": 440.05083296,
+            "b": 594.0709120896001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "}",
+      "text": "}"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 498.775,
+            "t": 601.4921264000001,
+            "r": 526.4184111999999,
+            "b": 593.7953845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "72.46%",
+      "text": "72.46%"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 538.3706223999999,
+            "t": 601.4921264000001,
+            "r": 566.0140335999998,
+            "b": 593.7953845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "65.92%",
+      "text": "65.92%"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.955,
+            "t": 591.5301264000001,
+            "r": 373.2507887999999,
+            "b": 583.8333845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "SPDNet-3BiRe",
+      "text": "SPDNet-3BiRe"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 397.65999999999997,
+            "t": 591.8170512000002,
+            "r": 402.26783295999996,
+            "b": 584.1089120896002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "{",
+      "text": "{"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 402.267,
+            "t": 591.5301264000001,
+            "r": 464.1351600000001,
+            "b": 583.8333845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "60, 40, 20, 10, 3",
+      "text": "60, 40, 20, 10, 3"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 464.135,
+            "t": 591.8170512000002,
+            "r": 468.74283296,
+            "b": 584.1089120896002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "}",
+      "text": "}"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 498.774,
+            "t": 591.5301264000001,
+            "r": 526.4174112,
+            "b": 583.8333845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "69.50%",
+      "text": "69.50%"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 538.3696223999999,
+            "t": 591.5301264000001,
+            "r": 566.0130335999999,
+            "b": 583.8333845097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "64.94%",
+      "text": "64.94%"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 581.5671264000001,
+            "r": 385.70511839999995,
+            "b": 573.8703845097347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "SPDNetBN-3BiRe",
+      "text": "SPDNetBN-3BiRe"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 397.66,
+            "t": 581.8540512000002,
+            "r": 402.26783296,
+            "b": 574.1459120896002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "{",
+      "text": "{"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 402.26700000000005,
+            "t": 581.5671264000001,
+            "r": 464.13516000000016,
+            "b": 573.8703845097347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "60, 40, 20, 10, 3",
+      "text": "60, 40, 20, 10, 3"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 464.13500000000005,
+            "t": 581.8540512000002,
+            "r": 468.74283296000004,
+            "b": 574.1459120896002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "}",
+      "text": "}"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 498.77400000000006,
+            "t": 581.5671264000001,
+            "r": 526.4174112000001,
+            "b": 573.8703845097347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "70.71%",
+      "text": "70.71%"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 538.3696224,
+            "t": 581.5671264000001,
+            "r": 566.0130336,
+            "b": 573.8703845097347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "66.20%",
+      "text": "66.20%"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.95500000000004,
+            "t": 571.6041264000002,
+            "r": 382.7103407999999,
+            "b": 563.9073845097347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "U-SPDNet-6BiRe",
+      "text": "U-SPDNet-6BiRe"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 397.65900000000005,
+            "t": 571.8910512000002,
+            "r": 402.26683296000004,
+            "b": 564.1829120896002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "{",
+      "text": "{"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 402.26700000000005,
+            "t": 571.6041264000002,
+            "r": 464.13516000000016,
+            "b": 563.9073845097347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "60, 40, 20, 10, 3",
+      "text": "60, 40, 20, 10, 3"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 464.13500000000005,
+            "t": 571.8910512000002,
+            "r": 468.74283296000004,
+            "b": 564.1829120896002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "}",
+      "text": "}"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 471.88100000000003,
+            "t": 571.6041264000002,
+            "r": 486.81902240000005,
+            "b": 563.9073845097347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "(**)",
+      "text": "(**)"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 498.7712336000001,
+            "t": 571.6041264000002,
+            "r": 526.4146448,
+            "b": 563.9073845097347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "98.90%",
+      "text": "98.90%"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 538.3758224000001,
+            "t": 571.6041264000002,
+            "r": 566.0192336,
+            "b": 563.9073845097347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "65.11%",
+      "text": "65.11%"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.978,
+            "t": 393.83465259999997,
+            "r": 563.03645514,
+            "b": 301.5967743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            471
+          ]
+        }
+      ],
+      "orig": "Fig. 6: Accuracy of SPDNet trained on hierarchically-ordered JSE Top 60 correlation matrices. Distance metric: √ 2(1 -C ) where C is the correlation matrix. Training performed both with (w) and without (w/o) Riemannian Batch Normalisation (RBN). In both instances, training accuracy is greater for larger training sample sizes. We note that the introduction of RBN layers improves the market state classification, and that this effect is enhanced for larger sample sizes.",
+      "text": "Fig. 6: Accuracy of SPDNet trained on hierarchically-ordered JSE Top 60 correlation matrices. Distance metric: √ 2(1 -C ) where C is the correlation matrix. Training performed both with (w) and without (w/o) Riemannian Batch Normalisation (RBN). In both instances, training accuracy is greater for larger training sample sizes. We note that the introduction of RBN layers improves the market state classification, and that this effect is enhanced for larger sample sizes."
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 225.50265260000003,
+            "r": 563.0355199999999,
+            "b": 73.48877439292039,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            771
+          ]
+        }
+      ],
+      "orig": "The confusion matrices in Figure 10 show that the superior prediction accuracy of the SPDNet OOS is a product of simply converging on a corner solution. This, despite generating many additional training samples to mitigate class imbalance, results in inaccurate predictions; the SPDNet fails in learning a representation of the hierarchical structure underpinning market evolution in different regimes as evidenced by it learning to place most test observations into the normal market regime. Thus, despite achieving lower regime detection accuracy,the U-SPDNet is more likely to have learned an improved information-geometric representation of the market's hierarchical structure, which leads to marginally-greater state detection accuracy in stressed and rally classes.",
+      "text": "The confusion matrices in Figure 10 show that the superior prediction accuracy of the SPDNet OOS is a product of simply converging on a corner solution. This, despite generating many additional training samples to mitigate class imbalance, results in inaccurate predictions; the SPDNet fails in learning a representation of the hierarchical structure underpinning market evolution in different regimes as evidenced by it learning to place most test observations into the normal market regime. Thus, despite achieving lower regime detection accuracy,the U-SPDNet is more likely to have learned an improved information-geometric representation of the market's hierarchical structure, which leads to marginally-greater state detection accuracy in stressed and rally classes."
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.964,
+            "t": 590.8556526,
+            "r": 300.0215200000001,
+            "b": 474.70677439292024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            556
+          ]
+        }
+      ],
+      "orig": "Fig. 7: Accuracy of SPDNet-3BiRe trained on hierarchicallyordered JSE Top 60 correlation matrices. Distance metric: √ 2(1 -C ) where C is the correlation matrix. Training performed both with (w) and without (w/o) RBN. Similarly as found for SPDNet, we note that the introduction of RBN layers improves the market state classification. This can be compared to the SPDNet-3BiRe trained on the simulated dataset and suggests that training on empirical data is more effective, perhaps because of the enhanced existence of nonlinear patterns in real world data.",
+      "text": "Fig. 7: Accuracy of SPDNet-3BiRe trained on hierarchicallyordered JSE Top 60 correlation matrices. Distance metric: √ 2(1 -C ) where C is the correlation matrix. Training performed both with (w) and without (w/o) RBN. Similarly as found for SPDNet, we note that the introduction of RBN layers improves the market state classification. This can be compared to the SPDNet-3BiRe trained on the simulated dataset and suggests that training on empirical data is more effective, perhaps because of the enhanced existence of nonlinear patterns in real world data."
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.964,
+            "t": 309.9996526,
+            "r": 300.02152000000007,
+            "b": 241.67177439292038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            332
+          ]
+        }
+      ],
+      "orig": "Fig. 8: Accuracy of SPDNet trained on synthetic block hierarchical SPD correlation matrices. Training performed both with (w) and without (w/o) RBN. This may be compared to the SPDNet performance in Figure 6 using the empirical dataset, and we again note that the introduction of RBN layers improves the market state classification.",
+      "text": "Fig. 8: Accuracy of SPDNet trained on synthetic block hierarchical SPD correlation matrices. Training performed both with (w) and without (w/o) RBN. This may be compared to the SPDNet performance in Figure 6 using the empirical dataset, and we again note that the introduction of RBN layers improves the market state classification."
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 136.197,
+            "t": 216.60165259999997,
+            "r": 212.79749709999987,
+            "b": 208.0497743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "VI. CONCLUSION",
+      "text": "VI. CONCLUSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 58.926,
+            "t": 201.55065260000003,
+            "r": 73.8599374,
+            "b": 192.99877439292038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "[h!]",
+      "text": "[h!]"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.964,
+            "t": 189.63765260000002,
+            "r": 300.0215200000002,
+            "b": 73.48877439292028,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            613
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.978,
+            "t": 237.51165260000016,
+            "r": 563.0355199999997,
+            "b": 193.0937743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            614,
+            844
+          ]
+        }
+      ],
+      "orig": "U-SPDNet performs improved latent feature extraction with better classification performance in stressed and rally market phases, but achieves lower OOS backtest scenario accuracy than that of the benchmark SPDNet. The SPDNet-based models fail in capturing the latent spatio-temporal block hierarchical correlation dynamics and deliver corner solutions across all input data sets. However, U-SPDNet is promising in terms of its utility in regime-dependent portfolio optimisation strategy generation as a model better-suited to capturing latent block hierarchical correlation structures arising from lead-lag causal feedback information loops that often drive the evolution of market regimes. Here we highlight the importance of avoiding reliance on accuracy as a robust model performance measure in the context of complex financial markets data.",
+      "text": "U-SPDNet performs improved latent feature extraction with better classification performance in stressed and rally market phases, but achieves lower OOS backtest scenario accuracy than that of the benchmark SPDNet. The SPDNet-based models fail in capturing the latent spatio-temporal block hierarchical correlation dynamics and deliver corner solutions across all input data sets. However, U-SPDNet is promising in terms of its utility in regime-dependent portfolio optimisation strategy generation as a model better-suited to capturing latent block hierarchical correlation structures arising from lead-lag causal feedback information loops that often drive the evolution of market regimes. Here we highlight the importance of avoiding reliance on accuracy as a robust model performance measure in the context of complex financial markets data."
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.978,
+            "t": 622.6706525999999,
+            "r": 563.0355199999998,
+            "b": 530.43177439292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            446
+          ]
+        }
+      ],
+      "orig": "Fig. 9: Accuracy of SPDNet-3BiRe trained on synthetic block hierarchical SPD correlation matrices. Training performed both with (w) and without (w/o) Riemannian BatchNormalisation (RBN). This can be compared to SPDNet3BiRe trained on empirical correlation matrices in Figure 7. The introduction of RBN layers can improve the market state classification, but the effect seems moderate as compared to that seen in SPDNet empirically-trained models.",
+      "text": "Fig. 9: Accuracy of SPDNet-3BiRe trained on synthetic block hierarchical SPD correlation matrices. Training performed both with (w) and without (w/o) Riemannian BatchNormalisation (RBN). This can be compared to SPDNet3BiRe trained on empirical correlation matrices in Figure 7. The introduction of RBN layers can improve the market state classification, but the effect seems moderate as compared to that seen in SPDNet empirically-trained models."
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.978,
+            "t": 391.27765259999995,
+            "r": 563.0355199999999,
+            "b": 263.1747743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            633
+          ]
+        }
+      ],
+      "orig": "Fig. 10: The confusion matrices depicts the model's estimated regime labels, as compared to the SR-labeled correlation matrices computed on the test data set of JSE Top 60 returns on [01/2008 - 07/2012]. The SPDNet model makes most accurate predictions of normal regime labels, and inaccurately classifies stressed and rally labels as normal regimes in the majority of cases. Relative to the SPDNet-identified regimes, the stressed and rally regimes show improved predictive accuracy at the expense of marginally lower accuracy for normal regime detection when comparing the model's predictions to the true SR -determined labels OOS.",
+      "text": "Fig. 10: The confusion matrices depicts the model's estimated regime labels, as compared to the SR-labeled correlation matrices computed on the test data set of JSE Top 60 returns on [01/2008 - 07/2012]. The SPDNet model makes most accurate predictions of normal regime labels, and inaccurately classifies stressed and rally labels as normal regimes in the majority of cases. Relative to the SPDNet-identified regimes, the stressed and rally regimes show improved predictive accuracy at the expense of marginally lower accuracy for normal regime detection when comparing the model's predictions to the true SR -determined labels OOS."
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 325.875,
+            "t": 407.0165351,
+            "r": 421.46040930000004,
+            "b": 400.17501536637167,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "(a) SPDNet confusion matrix",
+      "text": "(a) SPDNet confusion matrix"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 448.315,
+            "t": 407.0165351,
+            "r": 552.7551903999998,
+            "b": 400.17501536637167,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "(b) U-SPDNet confusion matrix",
+      "text": "(b) U-SPDNet confusion matrix"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.978,
+            "t": 189.63765260000014,
+            "r": 563.0355199999999,
+            "b": 73.48877439292039,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            591
+          ]
+        }
+      ],
+      "orig": "Figure 11 shows the cumulative performance of the three portfolio optimisation strategies on the real-world JSE Top 60 dataset. Initially, the U-SPDNet delivers greatest returns; this regime-dependent daily rebalancing approach marginally outperforms the Mean-Variance portfolio until 2010. Thereafter, the Mean-Variance benchmark optimisation consistently outperforms both regime-dependent strategies. The SPDNetinformed regime-dependent optimisation performs worse particularly during market rally periods, which corresponds to this category being significantly under-detected by the model",
+      "text": "Figure 11 shows the cumulative performance of the three portfolio optimisation strategies on the real-world JSE Top 60 dataset. Initially, the U-SPDNet delivers greatest returns; this regime-dependent daily rebalancing approach marginally outperforms the Mean-Variance portfolio until 2010. Thereafter, the Mean-Variance benchmark optimisation consistently outperforms both regime-dependent strategies. The SPDNetinformed regime-dependent optimisation performs worse particularly during market rally periods, which corresponds to this category being significantly under-detected by the model"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 48.964,
+            "t": 739.5756526,
+            "r": 222.44275380000005,
+            "b": 731.0237743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "in the OOS period as shown in Figure 10.",
+      "text": "in the OOS period as shown in Figure 10."
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 48.964,
+            "t": 584.8186526,
+            "r": 300.0215200000001,
+            "b": 480.62477439292013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            522
+          ]
+        }
+      ],
+      "orig": "Fig. 11: MVPO backtesting. We perform daily-rebalanced portfolio optimisation backtesting on the OOS JSE Top 60 data set from 01-2008 - 07-2012 with no trading costs. Before 2010 the U-SPDNet regime-dependent strategy outperforms both the benchmark mean-variance and SPDNet regime-dependent strategies during the stressed market periods associated with the GFC. Thereafter, the U-SPDNet regime-dependent strategy outperforms its SPDNet counterpart; the mean-variance portfolio delivers greatest cumulative returns overall.",
+      "text": "Fig. 11: MVPO backtesting. We perform daily-rebalanced portfolio optimisation backtesting on the OOS JSE Top 60 data set from 01-2008 - 07-2012 with no trading costs. Before 2010 the U-SPDNet regime-dependent strategy outperforms both the benchmark mean-variance and SPDNet regime-dependent strategies during the stressed market periods associated with the GFC. Thereafter, the U-SPDNet regime-dependent strategy outperforms its SPDNet counterpart; the mean-variance portfolio delivers greatest cumulative returns overall."
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 48.964,
+            "t": 453.8169793999998,
+            "r": 164.10176820000007,
+            "b": 445.2292181999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "A. Research Reproducibility",
+      "text": "A. Research Reproducibility",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 48.964,
+            "t": 436.7306525999998,
+            "r": 300.02192000000014,
+            "b": 356.4477743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            393
+          ]
+        }
+      ],
+      "orig": "All code written in support of this research may be found at the Orton and Gebbie (2024) GitHub repository BH-SPDCorrMat-Nets, or on the Deep Learning Block Hierarchical SPD Correlation Matrices for Regime Detection OSF project page https://osf.io/msrgc/ where data for both SPDNet, SPDNetBH and U-SPDNet model evaluation on both real world and synthetic data is stored. Required repositories:",
+      "text": "All code written in support of this research may be found at the Orton and Gebbie (2024) GitHub repository BH-SPDCorrMat-Nets, or on the Deep Learning Block Hierarchical SPD Correlation Matrices for Regime Detection OSF project page https://osf.io/msrgc/ where data for both SPDNet, SPDNetBH and U-SPDNet model evaluation on both real world and synthetic data is stored. Required repositories:"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 58.927,
+            "t": 349.9576525999999,
+            "r": 244.82911600000014,
+            "b": 341.40577439292025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "1) https://gitlab.lip6.fr/schwander/torchspdnet",
+      "text": "https://gitlab.lip6.fr/schwander/torchspdnet",
+      "hyperlink": "https://gitlab.lip6.fr/schwander/torchspdnet",
+      "enumerated": true,
+      "marker": "1)"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 58.927,
+            "t": 338.0026525999999,
+            "r": 223.58885280000013,
+            "b": 329.45077439292027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "2) https://github.com/GitWR/U-SPDNet",
+      "text": "https://github.com/GitWR/U-SPDNet",
+      "hyperlink": "https://github.com/GitWR/U-SPDNet",
+      "enumerated": true,
+      "marker": "2)"
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 58.927,
+            "t": 326.04765259999994,
+            "r": 294.1539486000001,
+            "b": 317.4957743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "3) https://github.com/AlexaOrton/BH-SPD-CorrMat-Nets",
+      "text": "https://github.com/AlexaOrton/BH-SPD-CorrMat-Nets",
+      "hyperlink": "https://github.com/AlexaOrton/BH-SPD-CorrMat-Nets",
+      "enumerated": true,
+      "marker": "3)"
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 146.598,
+            "t": 302.96265259999996,
+            "r": 202.39846049999989,
+            "b": 294.4107743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 48.96400000000001,
+            "t": 285.27865259999993,
+            "r": 300.02152,
+            "b": 252.81677439292025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "A. Ang and G. Bekaert. How regimes affect asset allocation. Financial analysts journal , 60(2):86-99, 2004. ISSN 0015198X.",
+      "text": "Ang and G. Bekaert. How regimes affect asset allocation. Financial analysts journal , 60(2):86-99, 2004. ISSN 0015198X.",
+      "enumerated": true,
+      "marker": "A."
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 48.96400000000002,
+            "t": 249.41365259999998,
+            "r": 300.0219200000001,
+            "b": 193.0407743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "C. Borghesi, M. Marsili, and S. Miccich` e. Emergence of timehorizon invariant correlation structure in financial returns by subtraction of the market mode. Phys. Rev. E , 76:026104, Aug 2007. doi: 10.1103/PhysRevE.76.026104. URL https: //link.aps.org/doi/10.1103/PhysRevE.76.026104.",
+      "text": "Borghesi, M. Marsili, and S. Miccich` e. Emergence of timehorizon invariant correlation structure in financial returns by subtraction of the market mode. Phys. Rev. E , 76:026104, Aug 2007. doi: 10.1103/PhysRevE.76.026104. URL https: //link.aps.org/doi/10.1103/PhysRevE.76.026104.",
+      "enumerated": true,
+      "marker": "C."
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 48.96400000000002,
+            "t": 189.6376525999999,
+            "r": 300.0273245999999,
+            "b": 145.21977439292027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "D. A. Brooks, O. Schwander, F. Barbaresco, J. Schneider, and M. Cord. Riemannian batch normalization for SPD neural networks. CoRR , abs/1909.02414, 2019. URL http://arxiv. org/abs/1909.02414.",
+      "text": "A. Brooks, O. Schwander, F. Barbaresco, J. Schneider, and M. Cord. Riemannian batch normalization for SPD neural networks. CoRR , abs/1909.02414, 2019. URL http://arxiv. org/abs/1909.02414.",
+      "enumerated": true,
+      "marker": "D."
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 48.96400000000002,
+            "t": 141.81665259999988,
+            "r": 300.0222431999999,
+            "b": 109.35477439292026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "Z. Huang and L. V. Gool. A Riemannian Network for SPD Matrix Learning. CoRR , abs/1608.04233, 2016. URL http: //arxiv.org/abs/1608.04233.",
+      "text": "Huang and L. V. Gool. A Riemannian Network for SPD Matrix Learning. CoRR , abs/1608.04233, 2016. URL http: //arxiv.org/abs/1608.04233.",
+      "enumerated": true,
+      "marker": "Z."
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 48.96400000000002,
+            "t": 106.13097939999989,
+            "r": 300.02265000000006,
+            "b": 73.48877439292028,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "M. L´ opez de Prado. Advances in financial machine learning , volume 33. Wiley, New York, 2018. URL http://dx.doi.org/ 10.2139/ssrn.3257420.",
+      "text": "L´ opez de Prado. Advances in financial machine learning , volume 33. Wiley, New York, 2018. URL http://dx.doi.org/ 10.2139/ssrn.3257420.",
+      "enumerated": true,
+      "marker": "M."
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 739.5746525999998,
+            "r": 563.0355199999998,
+            "b": 695.15777439292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "G. Marti. Can we predict a market regime from correlation matrix features?, 2020. URL https://gmarti.gitlab.io/qfin/2020/ 09/04/correlation-matrix-features-market-regimes.html. Accessed on: May 20, 2024.",
+      "text": "Marti. Can we predict a market regime from correlation matrix features?, 2020. URL https://gmarti.gitlab.io/qfin/2020/ 09/04/correlation-matrix-features-market-regimes.html. Accessed on: May 20, 2024.",
+      "enumerated": true,
+      "marker": "G."
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 691.7546525999996,
+            "r": 563.0355199999999,
+            "b": 647.3367743929199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "G. Marti. Classification of correlation matrices using spdnet with riemannian batch normalization, 2021. URL https: //marti.ai/ml/2021/01/22/spdtorchnet.html. Accessed on Month Day, Year.",
+      "text": "Marti. Classification of correlation matrices using spdnet with riemannian batch normalization, 2021. URL https: //marti.ai/ml/2021/01/22/spdtorchnet.html. Accessed on Month Day, Year.",
+      "enumerated": true,
+      "marker": "G."
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 643.9336525999995,
+            "r": 563.03552,
+            "b": 611.4717743929198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "G. Marti, F. Nielsen, P. Donnat, and S. Andler. On clustering financial time series: a need for distances between dependent random variables, 2016.",
+      "text": "Marti, F. Nielsen, P. Donnat, and S. Andler. On clustering financial time series: a need for distances between dependent random variables, 2016.",
+      "enumerated": true,
+      "marker": "G."
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 608.0686525999994,
+            "r": 563.0355199999995,
+            "b": 575.6057743929197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "D. Miori and M. Cucuringu. Returns-driven macro regimes and characteristic lead-lag behaviour between asset classes, 2022.",
+      "text": "Miori and M. Cucuringu. Returns-driven macro regimes and characteristic lead-lag behaviour between asset classes, 2022.",
+      "enumerated": true,
+      "marker": "D."
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 572.2026525999993,
+            "r": 563.03552,
+            "b": 527.7847743929195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "A. Orton. Representation Learning for Regime Detection in Block Hierarchical Financial Markets. Master's thesis, Department of Statistical Sciences, University of Cape Town, 2024.",
+      "text": "Orton. Representation Learning for Regime Detection in Block Hierarchical Financial Markets. Master's thesis, Department of Statistical Sciences, University of Cape Town, 2024.",
+      "enumerated": true,
+      "marker": "A."
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 524.3816525999991,
+            "r": 563.0355199999997,
+            "b": 491.9197743929195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "A. Orton and T. Gebbie. BH-SPD-CorrMat-Nets. GitHub, 2024. URL https://github.com/AlexaOrton/ BH-SPD-CorrMat-Nets. Accessed on July 3, 2024.",
+      "text": "Orton and T. Gebbie. BH-SPD-CorrMat-Nets. GitHub, 2024. URL https://github.com/AlexaOrton/ BH-SPD-CorrMat-Nets. Accessed on July 3, 2024.",
+      "enumerated": true,
+      "marker": "A."
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 311.97800000000007,
+            "t": 488.5166525999992,
+            "r": 563.0390498000002,
+            "b": 432.14377439291957,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "J. Papenbrock, P. Schwendner, M. Jaeger, and S. Kr¨ ugel. Matrix evolutions: Synthetic correlations and explainable machine learning for constructing robust investment portfolios. The journal of financial data science , 3(2):51-69, 2021. ISSN 2640-3943.",
+      "text": "Papenbrock, P. Schwendner, M. Jaeger, and S. Kr¨ ugel. Matrix evolutions: Synthetic correlations and explainable machine learning for constructing robust investment portfolios. The journal of financial data science , 3(2):51-69, 2021. ISSN 2640-3943.",
+      "enumerated": true,
+      "marker": "J."
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 311.9780000000001,
+            "t": 428.74065259999924,
+            "r": 563.0366500000001,
+            "b": 384.3227743929196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "D. Polakow, T. Gebbie, and E. Flint. Epistemic limits of empirical finance: Causal reductionism and self-reference. SSRN , 33, 2023. doi: http://dx.doi.org/10.2139/ssrn.4646664. URL https://ssrn.com/abstract=4646664.",
+      "text": "Polakow, T. Gebbie, and E. Flint. Epistemic limits of empirical finance: Causal reductionism and self-reference. SSRN , 33, 2023. doi: http://dx.doi.org/10.2139/ssrn.4646664. URL https://ssrn.com/abstract=4646664.",
+      "enumerated": true,
+      "marker": "D."
+    },
+    {
+      "self_ref": "#/texts/174",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 311.9780000000002,
+            "t": 380.91965259999927,
+            "r": 563.0359944000002,
+            "b": 324.5477743929197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "M. Tumminello, F. Lillo, and R. N. Mantegna. Hierarchically nested factor model from multivariate data. Europhysics Letters (EPL) , 78(3):30006, apr 2007. doi: 10.1209/0295-5075/78/30006. URL https://doi.org/10.1209/ 0295-5075/78/30006.",
+      "text": "Tumminello, F. Lillo, and R. N. Mantegna. Hierarchically nested factor model from multivariate data. Europhysics Letters (EPL) , 78(3):30006, apr 2007. doi: 10.1209/0295-5075/78/30006. URL https://doi.org/10.1209/ 0295-5075/78/30006.",
+      "enumerated": true,
+      "marker": "M."
+    },
+    {
+      "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 311.9780000000002,
+            "t": 321.1436525999993,
+            "r": 563.03552,
+            "b": 252.81577439291982,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            310
+          ]
+        }
+      ],
+      "orig": "R. Wang, X.-J. Wu, T. Xu, C. Hu, and J. Kittler. U-SPDNet: An SPD manifold learning-based neural network for visual classification. Neural Networks , 161:382-396, 2022. ISSN 0893-6080. doi: https://doi.org/10.1016/j.neunet.2022.11. 030. URL https://www.sciencedirect.com/science/article/pii/ S0893608022004713.",
+      "text": "Wang, X.-J. Wu, T. Xu, C. Hu, and J. Kittler. U-SPDNet: An SPD manifold learning-based neural network for visual classification. Neural Networks , 161:382-396, 2022. ISSN 0893-6080. doi: https://doi.org/10.1016/j.neunet.2022.11. 030. URL https://www.sciencedirect.com/science/article/pii/ S0893608022004713.",
+      "enumerated": true,
+      "marker": "R."
+    },
+    {
+      "self_ref": "#/texts/176",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 311.9780000000002,
+            "t": 249.41265259999943,
+            "r": 563.0356500000001,
+            "b": 204.99577439291966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "L. Yelibi and T. Gebbie. Agglomerative likelihood clustering. Journal of Statistical Mechanics: Theory and Experiment , 2021(11):113408, nov 2021. doi: 10.1088/1742-5468/ ac3661. URL https://doi.org/10.1088/1742-5468/ac3661.",
+      "text": "Yelibi and T. Gebbie. Agglomerative likelihood clustering. Journal of Statistical Mechanics: Theory and Experiment , 2021(11):113408, nov 2021. doi: 10.1088/1742-5468/ ac3661. URL https://doi.org/10.1088/1742-5468/ac3661.",
+      "enumerated": true,
+      "marker": "L."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 60.61125946044922,
+            "t": 729.7834281921387,
+            "r": 555.0855712890625,
+            "b": 605.3862457275391,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 52.00861358642578,
+            "t": 503.1077880859375,
+            "r": 297.2693176269531,
+            "b": 402.9401550292969,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 60.49739456176758,
+            "t": 729.3675537109375,
+            "r": 555.0628051757812,
+            "b": 605.4176330566406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 52.29865264892578,
+            "t": 515.8086853027344,
+            "r": 296.1907043457031,
+            "b": 411.063720703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.3066101074219,
+            "t": 415.67706298828125,
+            "r": 566.2183227539062,
+            "b": 256.51312255859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/141"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 313.85028076171875,
+            "t": 544.9199981689453,
+            "r": 559.6441650390625,
+            "b": 402.869873046875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/141"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/143"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 52.00861358642578,
+            "t": 742.043083190918,
+            "r": 297.6312561035156,
+            "b": 601.6528930664062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/143"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/144"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.38367462158203,
+            "t": 459.4324035644531,
+            "r": 296.59881591796875,
+            "b": 320.14141845703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/144"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/148"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.07659912109375,
+            "t": 742.2231559753418,
+            "r": 558.6290283203125,
+            "b": 631.5297241210938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/148"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 313.1145324707031,
+            "t": 505.540283203125,
+            "r": 562.4345703125,
+            "b": 400.193359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/149"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/154"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 54.39860916137695,
+            "t": 715.4872970581055,
+            "r": 293.952880859375,
+            "b": 596.0781707763672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/154"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/groups/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 49.95156478881836,
+            "t": 274.21807861328125,
+            "r": 298.2129821777344,
+            "b": 198.82342529296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/2"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/groups/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 310.70953369140625,
+            "t": 631.4218902587891,
+            "r": 572.37548828125,
+            "b": 560.1591339111328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/105"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/3"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    }
+  }
+}

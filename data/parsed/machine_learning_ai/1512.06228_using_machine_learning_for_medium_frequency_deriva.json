@@ -1,0 +1,6111 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1512.06228_using_machine_learning_for_medium_frequency_deriva",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 9024001277553900054,
+    "filename": "1512.06228_using_machine_learning_for_medium_frequency_deriva.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/tables/3"
+      },
+      {
+        "$ref": "#/texts/149"
+      },
+      {
+        "$ref": "#/texts/150"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/153"
+      },
+      {
+        "$ref": "#/texts/154"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/157"
+      },
+      {
+        "$ref": "#/texts/158"
+      },
+      {
+        "$ref": "#/groups/7"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_1_0_0",
+      "label": "unspecified"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/tables/1"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_2_0_0",
+      "label": "unspecified"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/tables/2"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_3_0_0",
+      "label": "unspecified"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/tables/3"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_4_0_0",
+      "label": "unspecified"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        },
+        {
+          "$ref": "#/texts/161"
+        },
+        {
+          "$ref": "#/texts/162"
+        },
+        {
+          "$ref": "#/texts/163"
+        },
+        {
+          "$ref": "#/texts/164"
+        },
+        {
+          "$ref": "#/texts/165"
+        },
+        {
+          "$ref": "#/texts/166"
+        },
+        {
+          "$ref": "#/texts/167"
+        },
+        {
+          "$ref": "#/texts/168"
+        },
+        {
+          "$ref": "#/texts/169"
+        },
+        {
+          "$ref": "#/texts/170"
+        },
+        {
+          "$ref": "#/texts/171"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 588.0600000000001,
+            "r": 36.206559297218156,
+            "b": 217.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "arXiv:1512.06228v1  [q-fin.TR]  19 Dec 2015",
+      "text": "arXiv:1512.06228v1  [q-fin.TR]  19 Dec 2015"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.122,
+            "t": 735.2666053,
+            "r": 539.9409793,
+            "b": 686.8470460991151,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Using machine learning for medium frequency derivative portfolio trading",
+      "text": "Using machine learning for medium frequency derivative portfolio trading",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.74200000000002,
+            "t": 647.1342439,
+            "r": 270.3690964000001,
+            "b": 600.7997743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "Abhijit Sharang Department of Computer Science Stanford University Email: abhisg@stanford.edu",
+      "text": "Abhijit Sharang Department of Computer Science Stanford University Email: abhisg@stanford.edu"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.95899999999992,
+            "t": 575.4908160000002,
+            "r": 301.0672688,
+            "b": 497.6910224000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            472
+          ]
+        }
+      ],
+      "orig": "Abstract -We use machine learning for designing a medium frequency trading strategy for a portfolio of 5 year and 10 year US Treasury note futures. We formulate this as a classification problem where we predict the weekly direction of movement of the portfolio using features extracted from a deep belief network trained on technical indicators of the portfolio constituents. The experimentation shows that the resulting pipeline is effective in making a profitable trade.",
+      "text": "Abstract -We use machine learning for designing a medium frequency trading strategy for a portfolio of 5 year and 10 year US Treasury note futures. We formulate this as a classification problem where we predict the weekly direction of movement of the portfolio using features extracted from a deep belief network trained on technical indicators of the portfolio constituents. The experimentation shows that the resulting pipeline is effective in making a profitable trade."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 87.32699999999991,
+            "t": 482.9966526000003,
+            "r": 262.6990988999998,
+            "b": 474.44477439292064,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "I. INTRODUCTION AND RELATED WORK",
+      "text": "I. INTRODUCTION AND RELATED WORK",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.958999999999875,
+            "t": 466.24765260000027,
+            "r": 301.06263599999977,
+            "b": 271.3937743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1103
+          ]
+        }
+      ],
+      "orig": "Machine learning application in finance is a challenging problem owing to low signal to noise ratio. Moreover, domain expertise is essential for engineering features which assist in solving an appropriate classification or regression problem. Most prior work in this area concentrates on using popular ML techniques like SVM [7], [12], [9] and neural networks [8], [3], [13] coupled with rigorously designed features, and the general area of focus is financial time series forecasting. With deep learning techniques, we can learn the latent representation of the raw features and use this representation for further analysis [2]. In this paper, we construct a minimal risk portfolio of 5 year and 10 year T-note futures and use a machine learning pipeline to predict weekly direction of movement of the portfolio using features derived from a deep belief network. The prediction from the pipeline is then used in a day trading strategy. Using derivatives instead of the underlying entities themselves leads to a more feasible problem, since derivatives are less volatile and hence have clearer patterns.",
+      "text": "Machine learning application in finance is a challenging problem owing to low signal to noise ratio. Moreover, domain expertise is essential for engineering features which assist in solving an appropriate classification or regression problem. Most prior work in this area concentrates on using popular ML techniques like SVM [7], [12], [9] and neural networks [8], [3], [13] coupled with rigorously designed features, and the general area of focus is financial time series forecasting. With deep learning techniques, we can learn the latent representation of the raw features and use this representation for further analysis [2]. In this paper, we construct a minimal risk portfolio of 5 year and 10 year T-note futures and use a machine learning pipeline to predict weekly direction of movement of the portfolio using features derived from a deep belief network. The prediction from the pipeline is then used in a day trading strategy. Using derivatives instead of the underlying entities themselves leads to a more feasible problem, since derivatives are less volatile and hence have clearer patterns."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.958999999999875,
+            "t": 263.1966526000001,
+            "r": 301.0626359999999,
+            "b": 210.80877439292055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            285
+          ]
+        }
+      ],
+      "orig": "The rest of the paper is divided into 4 sections. In section 2, we describe the dataset and the raw features. Section 3 discusses the methodology in rigour. In section 4, we highlight the findings of the experiment. Finally, we conclude with the possible improvements in this pipeline.",
+      "text": "The rest of the paper is divided into 4 sections. In section 2, we describe the dataset and the raw features. Section 3 discusses the methodology in rigour. In section 4, we highlight the findings of the experiment. Finally, we conclude with the possible improvements in this pipeline."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 100.91499999999988,
+            "t": 196.30665260000023,
+            "r": 249.11574919999964,
+            "b": 187.75477439292058,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "II. DATASET AND RAW FEATURES",
+      "text": "II. DATASET AND RAW FEATURES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.95899999999986,
+            "t": 179.55665260000023,
+            "r": 301.06768899999986,
+            "b": 94.29277439292048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            490
+          ]
+        }
+      ],
+      "orig": "We use data for 5 year and 10 year US treasury note futures (shortcodes ZF and ZN respectively) obtained from quandl 1 . We have daily data from 1985, where each data row consists of the opening price 2 , the closing price, the high price, the low price, the open interest rate and the trading volume. Note that all these prices are mid-prices, hence the bid-ask spread is ignored. The prices on which we perform the rest of the analysis are obtained as the mid-price of the opening and the",
+      "text": "We use data for 5 year and 10 year US treasury note futures (shortcodes ZF and ZN respectively) obtained from quandl 1 . We have daily data from 1985, where each data row consists of the opening price 2 , the closing price, the high price, the low price, the open interest rate and the trading volume. Note that all these prices are mid-prices, hence the bid-ask spread is ignored. The prices on which we perform the rest of the analysis are obtained as the mid-price of the opening and the"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.93,
+            "t": 84.08141760000001,
+            "r": 173.69603130000007,
+            "b": 75.72401536637165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "1 https://www.quandl.com/data/CME",
+      "text": "1 https://www.quandl.com/data/CME"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96,
+            "t": 74.21841759999995,
+            "r": 275.83286280000027,
+            "b": 56.895015366371695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "2 https://www.cmegroup.com/education/files/understanding-treasuryfutures.pdf",
+      "text": "2 https://www.cmegroup.com/education/files/understanding-treasuryfutures.pdf"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 355.15099999999995,
+            "t": 647.1342439000001,
+            "r": 486.31859159999976,
+            "b": 613.1277743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Chetan Rao Stanford University, Netflix Inc. Email: chetanr@stanford.edu",
+      "text": "Chetan Rao Stanford University, Netflix Inc. Email: chetanr@stanford.edu"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 318.99699999999996,
+            "t": 575.7896526,
+            "r": 571.1005929999997,
+            "b": 512.4427743929206,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "closing price each for ZF and ZN. This precludes us from trading at a higher frequency than placing a single trade in the day, but simplifies classification. Figure 1 shows the historical price evolution of ZF and ZN. As expected, in the long term the bond market goes up, but the relative spread has minimal drift.",
+      "text": "closing price each for ZF and ZN. This precludes us from trading at a higher frequency than placing a single trade in the day, but simplifies classification. Figure 1 shows the historical price evolution of ZF and ZN. As expected, in the long term the bond market goes up, but the relative spread has minimal drift."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 370.614,
+            "t": 293.9076526,
+            "r": 519.4851317999996,
+            "b": 285.35577439292035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Fig. 1: Daily Instrument price series",
+      "text": "Fig. 1: Daily Instrument price series"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 318.99699999999996,
+            "t": 249.02065260000006,
+            "r": 571.1006359999994,
+            "b": 141.83777439292032,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            573
+          ]
+        }
+      ],
+      "orig": "After removing rows containing missing information and some high leverage points during the 2008 financial crisis, we are left with around 6000 data points in total. We use 80% of the data for training, the next 10% data as validation set and the remaining 10% data for testing purpose. We do not perform a k -fold validation as we are only interested in how a historical model performs on new data. The number of positive and negative examples (as defined below) are 2325 and 2608 for the training set, 280 and 310 for the validation set, and 295 and 315 for the test set.",
+      "text": "After removing rows containing missing information and some high leverage points during the 2008 financial crisis, we are left with around 6000 data points in total. We use 80% of the data for training, the next 10% data as validation set and the remaining 10% data for testing purpose. We do not perform a k -fold validation as we are only interested in how a historical model performs on new data. The number of positive and negative examples (as defined below) are 2325 and 2608 for the training set, 280 and 310 for the validation set, and 295 and 315 for the test set."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 318.9969999999999,
+            "t": 130.78665260000002,
+            "r": 571.1006359999994,
+            "b": 56.48177439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            403
+          ]
+        }
+      ],
+      "orig": "Our raw features consist of daily trend (current price -moving average) computed over the past week with weekly and biweekly moving averages each for ZF and ZN. Hence, we have 5 × 2 × 2 = 20 raw features. We perform a minmax normalization of these features for later analysis. With each data point, we associate a label +1 if the portfolio price (defined below) goes up 5 days from now and -1 otherwise.",
+      "text": "Our raw features consist of daily trend (current price -moving average) computed over the past week with weekly and biweekly moving averages each for ZF and ZN. Hence, we have 5 × 2 × 2 = 20 raw features. We perform a minmax normalization of these features for later analysis. With each data point, we associate a label +1 if the portfolio price (defined below) goes up 5 days from now and -1 otherwise."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 128.482,
+            "t": 733.5266526,
+            "r": 221.54848419999985,
+            "b": 724.9747743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "III. METHODOLOGY",
+      "text": "III. METHODOLOGY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95900000000002,
+            "t": 716.0096526,
+            "r": 301.06263599999994,
+            "b": 696.4987743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "The flowchart below shows the complete ML pipeline of the strategy. A component wise description follows.",
+      "text": "The flowchart below shows the complete ML pipeline of the strategy. A component wise description follows."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 103.33099999999996,
+            "t": 522.8576525999999,
+            "r": 246.69281400000003,
+            "b": 514.3057743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Fig. 2: ML pipeline of the strategy",
+      "text": "Fig. 2: ML pipeline of the strategy"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 118.805,
+            "t": 671.5776526,
+            "r": 140.39395420000002,
+            "b": 663.0257743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Filter",
+      "text": "Filter"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 232.845,
+            "t": 671.5776526,
+            "r": 268.27200559999994,
+            "b": 663.0257743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Portfolio",
+      "text": "Portfolio"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 112.723,
+            "t": 611.1676526,
+            "r": 146.47628880000002,
+            "b": 602.6157743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Features",
+      "text": "Features"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 94.084,
+            "t": 550.6306526,
+            "r": 155.03518680000005,
+            "b": 542.0787743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Stacked RBMs",
+      "text": "Stacked RBMs"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 231.739,
+            "t": 550.6306526,
+            "r": 269.3777028,
+            "b": 542.0787743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Classifier",
+      "text": "Classifier"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.397,
+            "t": 680.1757541999999,
+            "r": 99.3596,
+            "b": 678.512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "✲",
+      "text": "✲"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.276,
+            "t": 680.1757541999999,
+            "r": 210.23860000000002,
+            "b": 678.512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "✲",
+      "text": "✲"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 89.397,
+            "t": 660.0157542,
+            "r": 99.3596,
+            "b": 658.352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "✲",
+      "text": "✲"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.276,
+            "t": 660.0157542,
+            "r": 210.23860000000002,
+            "b": 658.352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "✲",
+      "text": "✲"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.119,
+            "t": 690.3564558,
+            "r": 83.04372602,
+            "b": 681.6498898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "ZF",
+      "text": "ZF"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 83.039,
+            "t": 686.8201054,
+            "r": 97.0389035,
+            "b": 680.7255267325648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "raw",
+      "text": "raw"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.119,
+            "t": 670.1964558000001,
+            "r": 84.64172706,
+            "b": 661.4898898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "ZN",
+      "text": "ZN"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 84.638,
+            "t": 666.6601054,
+            "r": 98.63790350000001,
+            "b": 660.5655267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "raw",
+      "text": "raw"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 169.919,
+            "t": 690.3564558,
+            "r": 183.84372602,
+            "b": 681.6498898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "ZF",
+      "text": "ZF"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 183.839,
+            "t": 686.8201054,
+            "r": 203.68085576,
+            "b": 680.7255267325648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "norm",
+      "text": "norm"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 169.919,
+            "t": 670.1964558000001,
+            "r": 185.44172706,
+            "b": 661.4898898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "ZN",
+      "text": "ZN"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 185.437,
+            "t": 666.6601054,
+            "r": 205.27885576,
+            "b": 660.5655267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "norm",
+      "text": "norm"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 119.519,
+            "t": 624.7357542,
+            "r": 129.48160000000001,
+            "b": 623.072,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "❄",
+      "text": "❄"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 139.679,
+            "t": 624.7357542,
+            "r": 149.6416,
+            "b": 623.072,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "❄",
+      "text": "❄"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 129.599,
+            "t": 564.2557542,
+            "r": 139.5616,
+            "b": 562.592,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "❄",
+      "text": "❄"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.159,
+            "t": 619.7964558,
+            "r": 205.04366278,
+            "b": 611.0898898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "y",
+      "text": "y"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 205.043,
+            "t": 616.2611053999999,
+            "r": 220.9920806,
+            "b": 610.1665267325648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "pred",
+      "text": "pred"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 221.489,
+            "t": 619.7964558,
+            "r": 225.36345514,
+            "b": 611.0898898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "(",
+      "text": "("
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 225.364,
+            "t": 619.7964558,
+            "r": 230.55052956,
+            "b": 611.0898898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "k",
+      "text": "k"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 230.55,
+            "t": 616.2611053999999,
+            "r": 234.52157910000003,
+            "b": 610.1665267325648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 237.233,
+            "t": 619.7964558,
+            "r": 242.2143,
+            "b": 611.2319140997333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "∗",
+      "text": "∗"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 244.429,
+            "t": 619.7964558,
+            "r": 258.35372602,
+            "b": 611.0898898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "ZF",
+      "text": "ZF"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 261.946,
+            "t": 619.7964558,
+            "r": 269.69491028000004,
+            "b": 611.2319140997333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 271.90900000000005,
+            "t": 619.7964558,
+            "r": 277.09552956000005,
+            "b": 611.0898898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "k",
+      "text": "k"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 277.095,
+            "t": 616.2611053999999,
+            "r": 281.0665791,
+            "b": 610.1665267325648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 283.77900000000005,
+            "t": 619.7964558,
+            "r": 288.76030000000003,
+            "b": 611.2319140997333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "∗",
+      "text": "∗"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 290.97400000000005,
+            "t": 619.7964558,
+            "r": 306.49672706,
+            "b": 611.0898898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "ZN",
+      "text": "ZN"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.57800000000003,
+            "t": 619.7964558,
+            "r": 311.45245514000004,
+            "b": 611.0898898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 129.59900000000002,
+            "t": 584.5164558,
+            "r": 134.47668896000002,
+            "b": 575.8098898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "f",
+      "text": "f"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 135.549,
+            "t": 584.5164558,
+            "r": 139.42345514000002,
+            "b": 575.8098898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "(",
+      "text": "("
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 139.423,
+            "t": 584.5164558,
+            "r": 173.57080775999998,
+            "b": 575.8098898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ZF,ZN",
+      "text": "ZF,ZN"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 174.652,
+            "t": 584.5164558,
+            "r": 178.52645514,
+            "b": 575.8098898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 245.519,
+            "t": 564.2557542,
+            "r": 255.48160000000001,
+            "b": 562.592,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "❄",
+      "text": "❄"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 210.356,
+            "t": 549.1357542,
+            "r": 220.3186,
+            "b": 547.472,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "✲",
+      "text": "✲"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 159.839,
+            "t": 559.3164558,
+            "r": 164.71668896,
+            "b": 550.6098898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "f",
+      "text": "f"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 165.789,
+            "t": 560.8911053999999,
+            "r": 168.08616972,
+            "b": 554.8959434031999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "′",
+      "text": "′"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 168.58399999999997,
+            "t": 559.3164558,
+            "r": 172.45845513999998,
+            "b": 550.6098898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "(",
+      "text": "("
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 172.45799999999997,
+            "t": 559.3164558,
+            "r": 206.60580775999995,
+            "b": 550.6098898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ZF,ZN",
+      "text": "ZF,ZN"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 207.68699999999995,
+            "t": 559.3164558,
+            "r": 211.56145513999996,
+            "b": 550.6098898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95899999999996,
+            "t": 475.8869794,
+            "r": 151.39445320000002,
+            "b": 467.2992182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "A. Portfolio construction",
+      "text": "A. Portfolio construction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.958999999999946,
+            "t": 458.19065259999996,
+            "r": 301.0686892,
+            "b": 219.5017743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1315
+          ]
+        }
+      ],
+      "orig": "For obtaining the daily price series of the portfolio, we use principal component analysis (PCA) on the price series of ZF and ZN. PCA transforms data in a higher dimensional space to a space with equal or lower dimensionality with the basis vectors ordered by the percentage of variance explained by projection of the data along them. Since treasury note derivatives depend singularly on the interest rate, around 99% of the variance in the data is explained by the first principal component. Hence, in practice, the loadings of the second principal component remain fairly constant when computed over a long duration of time. Moreover, one observes stationarity in the resultant portfolio price series, implying that the portfolio is minimal risk. Hence, P port = PC 2 5 yr ∗ P 5 yr + PC 2 10 yr ∗ P 10 yr , where PC 2 5 yr and PC 2 10 yr are expected to hold opposite signs. Subsequently, whenever we perform a single unit transaction on the portfolio, we go long on one of the futures and short on the other in proportion to the magnitude of their loadings in the second component. This ensures that our positions in the two legs of the portfolio are hedged. The daily portfolio price series for the whole data is displayed in Figure 3. Observe that the drift component of the price series is almost negligible.",
+      "text": "For obtaining the daily price series of the portfolio, we use principal component analysis (PCA) on the price series of ZF and ZN. PCA transforms data in a higher dimensional space to a space with equal or lower dimensionality with the basis vectors ordered by the percentage of variance explained by projection of the data along them. Since treasury note derivatives depend singularly on the interest rate, around 99% of the variance in the data is explained by the first principal component. Hence, in practice, the loadings of the second principal component remain fairly constant when computed over a long duration of time. Moreover, one observes stationarity in the resultant portfolio price series, implying that the portfolio is minimal risk. Hence, P port = PC 2 5 yr ∗ P 5 yr + PC 2 10 yr ∗ P 10 yr , where PC 2 5 yr and PC 2 10 yr are expected to hold opposite signs. Subsequently, whenever we perform a single unit transaction on the portfolio, we go long on one of the futures and short on the other in proportion to the magnitude of their loadings in the second component. This ensures that our positions in the two legs of the portfolio are hedged. The daily portfolio price series for the whole data is displayed in Figure 3. Observe that the drift component of the price series is almost negligible."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.959,
+            "t": 202.0299793999999,
+            "r": 139.73821120000005,
+            "b": 193.44221819999984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "B. Feature generation",
+      "text": "B. Feature generation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.959,
+            "t": 184.33365259999994,
+            "r": 301.0685893999999,
+            "b": 77.15177439292029,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            589
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.99699999999996,
+            "t": 488.8085040000001,
+            "r": 571.1060598000001,
+            "b": 295.96777439292026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            590,
+            1640
+          ]
+        }
+      ],
+      "orig": "To extract latent representation of the raw features defined from the instruments, we use a deep belief network (DBN), which consists of stacked Restricted Boltzmann machines. A Boltzmann machine is an energy based model where the energy is a linear function of the free parameters 3 . A Restricted Boltzmann machine (RBM) consists of a bipartite graph of a layer of visible units and a layer of hidden units, and can be used to learn a probability distribution over the input. Both layers of an RBM share weights, which are learned using contrastive divergence algorithm [5]. A DBN models P ( x, h 1 , . . . , h ℓ ) = ( ∏ ℓ -2 k =0 P ( h k | h k +1 ) ) P ( h ℓ -1 , h ℓ ) , where x = h 0 , P ( h k -1 | h k ) is a conditional distribution for the visible units conditioned on the hidden units of the RBM at level k, and P ( h ℓ -1 , h ℓ ) is the visible-hidden joint distribution in the top-level RBM (see figure 4) 4 . In our pipeline, the belief network consists of 2 RBMs where the first RBM is Gaussian-Bernoulli and the second RBM is Bernoulli. For best performance, both RBMs should be continuous (Gaussian is a special case), but training these RBMs is extremely difficult [4]. In practice, using continuous input in only the first visible unit seems sufficient for our application. We use the standard algorithm proposed in [6], which consists of greedily doing contrastive divergence on each RBM for learning the reconstruction weight matrix and passing the transformed input to the next RBM. The output of DBN is a binary latent representation of the original input features derived from the corresponding Bernoulli distribution.",
+      "text": "To extract latent representation of the raw features defined from the instruments, we use a deep belief network (DBN), which consists of stacked Restricted Boltzmann machines. A Boltzmann machine is an energy based model where the energy is a linear function of the free parameters 3 . A Restricted Boltzmann machine (RBM) consists of a bipartite graph of a layer of visible units and a layer of hidden units, and can be used to learn a probability distribution over the input. Both layers of an RBM share weights, which are learned using contrastive divergence algorithm [5]. A DBN models P ( x, h 1 , . . . , h ℓ ) = ( ∏ ℓ -2 k =0 P ( h k | h k +1 ) ) P ( h ℓ -1 , h ℓ ) , where x = h 0 , P ( h k -1 | h k ) is a conditional distribution for the visible units conditioned on the hidden units of the RBM at level k, and P ( h ℓ -1 , h ℓ ) is the visible-hidden joint distribution in the top-level RBM (see figure 4) 4 . In our pipeline, the belief network consists of 2 RBMs where the first RBM is Gaussian-Bernoulli and the second RBM is Bernoulli. For best performance, both RBMs should be continuous (Gaussian is a special case), but training these RBMs is extremely difficult [4]. In practice, using continuous input in only the first visible unit seems sufficient for our application. We use the standard algorithm proposed in [6], which consists of greedily doing contrastive divergence on each RBM for learning the reconstruction weight matrix and passing the transformed input to the next RBM. The output of DBN is a binary latent representation of the original input features derived from the corresponding Bernoulli distribution."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.93,
+            "t": 65.25241759999994,
+            "r": 189.2696067000002,
+            "b": 56.895015366371695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "3 http://deeplearning.net/tutorial/rbm.html",
+      "text": "3 http://deeplearning.net/tutorial/rbm.html"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 375.59,
+            "t": 525.9256526,
+            "r": 514.5084943999997,
+            "b": 517.3737743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Fig. 3: Portfolio daily price series",
+      "text": "Fig. 3: Portfolio daily price series"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 388.133,
+            "t": 180.11665259999995,
+            "r": 501.96566759999985,
+            "b": 171.5647743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Fig. 4: Representative DBN",
+      "text": "Fig. 4: Representative DBN"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.99699999999996,
+            "t": 133.86397940000006,
+            "r": 454.0400429999995,
+            "b": 125.27621820000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "C. Fine-tuning and classification",
+      "text": "C. Fine-tuning and classification",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.99699999999996,
+            "t": 116.29865259999997,
+            "r": 571.1006359999997,
+            "b": 85.82877439292031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "The latent representation of the features is then used for constructing a classifier for the prediction goal defined above. There are three classifiers which we experiment with.",
+      "text": "The latent representation of the features is then used for constructing a classifier for the prediction goal defined above. There are three classifiers which we experiment with."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.997,
+            "t": 74.21841759999995,
+            "r": 582.4582327,
+            "b": 56.895015366371695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "4 Adopted from http://www.iro.umontreal.ca/ ∼ lisa/twiki/bin/view.cgi/Public/DeepBeliefNetworks",
+      "text": "4 Adopted from http://www.iro.umontreal.ca/ ∼ lisa/twiki/bin/view.cgi/Public/DeepBeliefNetworks"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 58.922,
+            "t": 733.8454558000001,
+            "r": 301.06701739999994,
+            "b": 678.6127743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            302
+          ]
+        }
+      ],
+      "orig": "· Logistic regression -In logistic regression, we model P ( y i | x i ) = φ ( x i ) 1+ y 2 (1 -φ ( x i )) 1 -y 2 and φ ( x i ) = 1 1+exp( -θ T x i ) and maximise the log likelihood of the input. To prevent over-fitting, typically a negative ridge penalty is also associated with the objective function.",
+      "text": "Logistic regression -In logistic regression, we model P ( y i | x i ) = φ ( x i ) 1+ y 2 (1 -φ ( x i )) 1 -y 2 and φ ( x i ) = 1 1+exp( -θ T x i ) and maximise the log likelihood of the input. To prevent over-fitting, typically a negative ridge penalty is also associated with the objective function.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 58.92199999999999,
+            "t": 676.5244558000002,
+            "r": 301.0682654,
+            "b": 577.4027743929206,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            506
+          ]
+        }
+      ],
+      "orig": "· Support vector machine - An SVM discriminates between data by constructing a hyperplane w T φ ( x ) + b = 0 by minimising || w || 2 2 + C ∑ ϵ i subject to y i ( w T φ ( x i ) + b ) ≥ 1 -ϵ i , ϵ i ≥ 0 ∀ i , where φ ( x i ) is either x i or a higher dimensional representation of x i . In either case, it does not need to be computed explicitly as ( w T φ ( x ) + b ) can be obtained via 'kernel trick' for classification since w is a linear combination of a few φ ( x i ) which are called support vectors.",
+      "text": "Support vector machine - An SVM discriminates between data by constructing a hyperplane w T φ ( x ) + b = 0 by minimising || w || 2 2 + C ∑ ϵ i subject to y i ( w T φ ( x i ) + b ) ≥ 1 -ϵ i , ϵ i ≥ 0 ∀ i , where φ ( x i ) is either x i or a higher dimensional representation of x i . In either case, it does not need to be computed explicitly as ( w T φ ( x ) + b ) can be obtained via 'kernel trick' for classification since w is a linear combination of a few φ ( x i ) which are called support vectors.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 58.922000000000104,
+            "t": 575.3144558000004,
+            "r": 301.06339300000013,
+            "b": 544.5257743929208,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "· Neural Network - A neural network consists of an input layer, a few hidden layer of nodes (typically 1 or 2) and an output layer with number of nodes equal to the",
+      "text": "Neural Network - A neural network consists of an input layer, a few hidden layer of nodes (typically 1 or 2) and an output layer with number of nodes equal to the",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.8850000000001,
+            "t": 545.1991054000003,
+            "r": 301.0686050000001,
+            "b": 514.8965267325651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "cardinality of categories. It minimises m ∑ i =1 ( y i -ˆ y i ) 2 , where",
+      "text": "cardinality of categories. It minimises m ∑ i =1 ( y i -ˆ y i ) 2 , where",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.8850000000001,
+            "t": 514.5644558000002,
+            "r": 301.06405420000004,
+            "b": 396.10477439292055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            578
+          ]
+        }
+      ],
+      "orig": "ˆ y i = h ( g ( x i )) , g is some linear combination of node values in the hidden layers of the network and h is an activation function (typically sigmoid or hyperbolic tangent function). Training a neural network involves minimising the mean square error (MSE) defined above using gradient descent and back-propagating the gradient across multiple hidden layers for updating the weights between nodes. Here, instead of randomly initialising the neural network, we use the reconstruction weights learned in the deep belief network to form a neural network with 2 hidden layers.",
+      "text": "ˆ y i = h ( g ( x i )) , g is some linear combination of node values in the hidden layers of the network and h is an activation function (typically sigmoid or hyperbolic tangent function). Training a neural network involves minimising the mean square error (MSE) defined above using gradient descent and back-propagating the gradient across multiple hidden layers for updating the weights between nodes. Here, instead of randomly initialising the neural network, we use the reconstruction weights learned in the deep belief network to form a neural network with 2 hidden layers."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 92.0690000000001,
+            "t": 379.1826526000002,
+            "r": 257.9642780999999,
+            "b": 370.63077439292056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "IV. EXPERIMENTATION AND RESULTS",
+      "text": "IV. EXPERIMENTATION AND RESULTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.9590000000001,
+            "t": 362.0109794000002,
+            "r": 132.02715880000014,
+            "b": 353.42321820000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "A. Portfolio weights",
+      "text": "A. Portfolio weights",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.9590000000001,
+            "t": 344.4806526000002,
+            "r": 301.062636,
+            "b": 237.29877439292056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            620
+          ]
+        }
+      ],
+      "orig": "We perform PCA on the training data by standardising the raw price series of ZN and ZN. We use the mean and standard deviation of the training to standardise the raw price series of validation and test for computing PCA on them separately. The second component loadings come out to be 0.83 for ZF and -0.59 for ZN in the training, 0.76 and -0.62 for the validation set, and 0.81 and -0.6 for the test. The validation set loading confirms the hypothesis that the portfolio is minimal risk. We use the training loading in training, validation and test sets for generating the labels for our supervised learning algorithms.",
+      "text": "We perform PCA on the training data by standardising the raw price series of ZN and ZN. We use the mean and standard deviation of the training to standardise the raw price series of validation and test for computing PCA on them separately. The second component loadings come out to be 0.83 for ZF and -0.59 for ZN in the training, 0.76 and -0.62 for the validation set, and 0.81 and -0.6 for the test. The validation set loading confirms the hypothesis that the portfolio is minimal risk. We use the training loading in training, validation and test sets for generating the labels for our supervised learning algorithms."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.9590000000001,
+            "t": 220.55597940000018,
+            "r": 140.58503220000011,
+            "b": 211.96821820000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "B. Training the model",
+      "text": "B. Training the model",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.9590000000001,
+            "t": 203.02565260000017,
+            "r": 301.0626360000001,
+            "b": 161.59677439292057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "There are two stages of training. In the first stage the DBN parameters are learned in an unsupervised manner and in the second stage, fine-tuning of the classifier parameters is performed using supervised learning.",
+      "text": "There are two stages of training. In the first stage the DBN parameters are learned in an unsupervised manner and in the second stage, fine-tuning of the classifier parameters is performed using supervised learning."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.9590000000001,
+            "t": 152.88397940000016,
+            "r": 301.0625930000002,
+            "b": 56.481774392920556,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            534
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 318.9970000000001,
+            "t": 733.5266526000001,
+            "r": 571.100593,
+            "b": 670.1807743929207,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            535,
+            883
+          ]
+        }
+      ],
+      "orig": "1) DBN training: In our algorithm, the purpose of the belief network is to learn a hidden representation of the raw features used. Using recommendation from [1], we create a stack of 2 RBMs, with the first RBM containing 15 nodes in the hidden layer and the second RBM containing 20 nodes in the hidden layer. Each RBM is trained for 100 iterations with a mini-batch size of 100 in the contrastive divergence algorithm implemented in python. Since there is a tendency for the adjacent data points in the price series to be correlated, we shuffle the training data at the beginning of every macroiteration. All hyper-parameters, including the node sizes in the hidden layers, are selected by monitoring the average reconstruction error on the validation set. The reconstruction error evolution for the best set of hyper-parameters on training and validation sets is shown in figure 5.",
+      "text": "1) DBN training: In our algorithm, the purpose of the belief network is to learn a hidden representation of the raw features used. Using recommendation from [1], we create a stack of 2 RBMs, with the first RBM containing 15 nodes in the hidden layer and the second RBM containing 20 nodes in the hidden layer. Each RBM is trained for 100 iterations with a mini-batch size of 100 in the contrastive divergence algorithm implemented in python. Since there is a tendency for the adjacent data points in the price series to be correlated, we shuffle the training data at the beginning of every macroiteration. All hyper-parameters, including the node sizes in the hidden layers, are selected by monitoring the average reconstruction error on the validation set. The reconstruction error evolution for the best set of hyper-parameters on training and validation sets is shown in figure 5."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 318.997,
+            "t": 445.9586526,
+            "r": 571.1005929999997,
+            "b": 426.4487743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Fig. 5: Reconstruction MSE vs epochs for two stacked RBMs in the belief network",
+      "text": "Fig. 5: Reconstruction MSE vs epochs for two stacked RBMs in the belief network"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 318.99700000000007,
+            "t": 395.76297939999995,
+            "r": 571.1010081999999,
+            "b": 288.40077439292025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            550
+          ]
+        }
+      ],
+      "orig": "2) Supervised learning: We optimise the parameters for neural network by gradient descent and for logistic regression by gradient ascent. The optimal number of epochs used for the algorithm is decided by the performance on the validation set. For SVM, we use the validation set for optimising the cost parameter C . We use scikit [11] implementation of SVM with a Gaussian Kernel, own implementation of logistic regression and implementation of [10] for neural network. An example evolution of MSE with epochs for neural network is shown in figure 6.",
+      "text": "2) Supervised learning: We optimise the parameters for neural network by gradient descent and for logistic regression by gradient ascent. The optimal number of epochs used for the algorithm is decided by the performance on the validation set. For SVM, we use the validation set for optimising the cost parameter C . We use scikit [11] implementation of SVM with a Gaussian Kernel, own implementation of logistic regression and implementation of [10] for neural network. An example evolution of MSE with epochs for neural network is shown in figure 6."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 318.9970000000001,
+            "t": 269.3849793999999,
+            "r": 455.4945825999997,
+            "b": 260.79721819999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "C. Predictions from the classifier",
+      "text": "C. Predictions from the classifier",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 318.9970000000001,
+            "t": 251.3346525999999,
+            "r": 571.1006359999999,
+            "b": 56.481774392920215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1114
+          ]
+        }
+      ],
+      "orig": "The precision and recall rates for the three classifiers in shown in Table 1 and Table 2 respectively for the test data and in Table 3 and Table 4 respectively for the training data. The corresponding ROC curves for test (True positive vs False positive rates) are shown in Figure 7, 8 and 9. For our application, we lay more emphasis on recall than precision since we do not want to lose any profitable trading opportunity that exists. The average recall hovers around 60% for all three versions of classification in both training and test. This points at a nontrivial bias existing in the models. However, similar accuracies in training and test imply that the models can be generalisable enough. During training, we also observed high variance in the neural network parameters (refer figure 6 above) which we fix by introducing a momentum value of 0.5. This shrinks the existing values of the coefficients by half during every update of mini-batch gradient descent. Although the accuracy is not very high, in financial applications accuracies which are 5-10% higher than random can guarantee a profitable trade.",
+      "text": "The precision and recall rates for the three classifiers in shown in Table 1 and Table 2 respectively for the test data and in Table 3 and Table 4 respectively for the training data. The corresponding ROC curves for test (True positive vs False positive rates) are shown in Figure 7, 8 and 9. For our application, we lay more emphasis on recall than precision since we do not want to lose any profitable trading opportunity that exists. The average recall hovers around 60% for all three versions of classification in both training and test. This points at a nontrivial bias existing in the models. However, similar accuracies in training and test imply that the models can be generalisable enough. During training, we also observed high variance in the neural network parameters (refer figure 6 above) which we fix by introducing a momentum value of 0.5. This shrinks the existing values of the coefficients by half during every update of mini-batch gradient descent. Although the accuracy is not very high, in financial applications accuracies which are 5-10% higher than random can guarantee a profitable trade."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 88.008,
+            "t": 533.8826526,
+            "r": 262.0147716000001,
+            "b": 525.3307743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Fig. 6: MSE vs epochs for neural network",
+      "text": "Fig. 6: MSE vs epochs for neural network"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 502.25492199999997,
+            "r": 139.9815672,
+            "b": 495.98547579999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Algorithm",
+      "text": "Algorithm"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 177.133,
+            "t": 501.9829438,
+            "r": 195.72515080000002,
+            "b": 495.99664622300884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Actual",
+      "text": "Actual"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 198.166,
+            "t": 502.20610539999996,
+            "r": 203.10554254,
+            "b": 496.21094340319996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "⇑",
+      "text": "⇑"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 215.061,
+            "t": 501.9829438,
+            "r": 233.65315080000002,
+            "b": 495.99664622300884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Actual",
+      "text": "Actual"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 236.094,
+            "t": 502.20610539999996,
+            "r": 241.03354253999998,
+            "b": 496.21094340319996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "⇓",
+      "text": "⇓"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 493.6149438,
+            "r": 124.1022246,
+            "b": 487.62864622300884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "SVM",
+      "text": "SVM"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 183.728,
+            "t": 493.6149438,
+            "r": 196.51097539999998,
+            "b": 487.62864622300884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "60%",
+      "text": "60%"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.297,
+            "t": 493.6149438,
+            "r": 238.79722539999995,
+            "b": 487.62864622300884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "61.69%",
+      "text": "61.69%"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 485.6439438,
+            "r": 165.17790660000003,
+            "b": 479.65764622300884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Logistic Regression",
+      "text": "Logistic Regression"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 179.369,
+            "t": 485.6439438,
+            "r": 200.86922539999995,
+            "b": 479.65764622300884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "58.73%",
+      "text": "58.73%"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.297,
+            "t": 485.6439438,
+            "r": 238.79722539999995,
+            "b": 479.65764622300884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "62.37%",
+      "text": "62.37%"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 477.6739438,
+            "r": 154.738128,
+            "b": 471.68764622300887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Neural Network",
+      "text": "Neural Network"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 179.369,
+            "t": 477.6739438,
+            "r": 200.86922539999995,
+            "b": 471.68764622300887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "57.77%",
+      "text": "57.77%"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.297,
+            "t": 477.6739438,
+            "r": 238.79722539999995,
+            "b": 471.68764622300887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "59.66%",
+      "text": "59.66%"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 83.112,
+            "t": 462.0356526,
+            "r": 266.91200740000005,
+            "b": 453.48377439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "TABLE I: Test Recall rate for each direction",
+      "text": "TABLE I: Test Recall rate for each direction"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 430.40892199999996,
+            "r": 139.9815672,
+            "b": 424.13947579999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Algorithm",
+      "text": "Algorithm"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 177.133,
+            "t": 430.1369438,
+            "r": 195.72515080000002,
+            "b": 424.15064622300883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Actual",
+      "text": "Actual"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 198.166,
+            "t": 430.36010539999995,
+            "r": 203.10554254,
+            "b": 424.36494340319996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "⇑",
+      "text": "⇑"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 215.061,
+            "t": 430.1369438,
+            "r": 233.65315080000002,
+            "b": 424.15064622300883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Actual",
+      "text": "Actual"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 236.094,
+            "t": 430.36010539999995,
+            "r": 241.03354253999998,
+            "b": 424.36494340319996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "⇓",
+      "text": "⇓"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 421.7679438,
+            "r": 124.1022246,
+            "b": 415.78164622300886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "SVM",
+      "text": "SVM"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 179.369,
+            "t": 421.7679438,
+            "r": 200.86922539999995,
+            "b": 415.78164622300886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "62.58%",
+      "text": "62.58%"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.297,
+            "t": 421.7679438,
+            "r": 238.79722539999995,
+            "b": 415.78164622300886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "58.59%",
+      "text": "58.59%"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 413.7979438,
+            "r": 165.17790660000003,
+            "b": 407.81164622300884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Logistic Regression",
+      "text": "Logistic Regression"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 181.112,
+            "t": 413.7979438,
+            "r": 199.12532539999995,
+            "b": 407.81164622300884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "62.5%",
+      "text": "62.5%"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.297,
+            "t": 413.7979438,
+            "r": 238.79722539999995,
+            "b": 407.81164622300884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "59.09%",
+      "text": "59.09%"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 405.8279438,
+            "r": 154.738128,
+            "b": 399.84164622300887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Neural Network",
+      "text": "Neural Network"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 179.369,
+            "t": 405.8279438,
+            "r": 200.86922539999995,
+            "b": 399.84164622300887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "60.46%",
+      "text": "60.46%"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.297,
+            "t": 405.8279438,
+            "r": 238.79722539999995,
+            "b": 399.84164622300887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "56.95%",
+      "text": "56.95%"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 75.64,
+            "t": 390.1896526,
+            "r": 274.3839074,
+            "b": 381.63777439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "TABLE II: Test Precision rate for each direction",
+      "text": "TABLE II: Test Precision rate for each direction"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/tables/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.042,
+            "t": 318.3436526,
+            "r": 278.98138720000003,
+            "b": 309.79177439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "TABLE III: Training Recall rate for each direction",
+      "text": "TABLE III: Training Recall rate for each direction"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 358.56292199999996,
+            "r": 139.9815672,
+            "b": 352.29347579999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Algorithm",
+      "text": "Algorithm"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 177.133,
+            "t": 358.2909438,
+            "r": 195.72515080000002,
+            "b": 352.30464622300883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Actual",
+      "text": "Actual"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 198.166,
+            "t": 358.51410539999995,
+            "r": 203.10554254,
+            "b": 352.51894340319996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "⇑",
+      "text": "⇑"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 215.061,
+            "t": 358.2909438,
+            "r": 233.65315080000002,
+            "b": 352.30464622300883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Actual",
+      "text": "Actual"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 236.094,
+            "t": 358.51410539999995,
+            "r": 241.03354253999998,
+            "b": 352.51894340319996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "⇓",
+      "text": "⇓"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 349.9219438,
+            "r": 124.1022246,
+            "b": 343.93564622300886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "SVM",
+      "text": "SVM"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 179.369,
+            "t": 349.9219438,
+            "r": 200.86922539999995,
+            "b": 343.93564622300886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "61.84%",
+      "text": "61.84%"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.297,
+            "t": 349.9219438,
+            "r": 238.79722539999995,
+            "b": 343.93564622300886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "58.72%",
+      "text": "58.72%"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 341.9519438,
+            "r": 165.17790660000003,
+            "b": 335.96564622300883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Logistic Regression",
+      "text": "Logistic Regression"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 179.369,
+            "t": 341.9519438,
+            "r": 200.86922539999995,
+            "b": 335.96564622300883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "60.51%",
+      "text": "60.51%"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.297,
+            "t": 341.9519438,
+            "r": 238.79722539999995,
+            "b": 335.96564622300883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "59.45%",
+      "text": "59.45%"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 333.9819438,
+            "r": 154.738128,
+            "b": 327.99564622300886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Neural Network",
+      "text": "Neural Network"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 179.369,
+            "t": 333.9819438,
+            "r": 200.86922539999995,
+            "b": 327.99564622300886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "65.17%",
+      "text": "65.17%"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.297,
+            "t": 333.9819438,
+            "r": 238.79722539999995,
+            "b": 327.99564622300886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "54.26%",
+      "text": "54.26%"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/tables/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.95,
+            "t": 246.49665260000006,
+            "r": 285.073647,
+            "b": 237.9447743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "TABLE IV: Training Precision rate for each direction",
+      "text": "TABLE IV: Training Precision rate for each direction"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 286.715922,
+            "r": 139.9815672,
+            "b": 280.4464758,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Algorithm",
+      "text": "Algorithm"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 177.133,
+            "t": 286.4439438,
+            "r": 195.72515080000002,
+            "b": 280.45764622300885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Actual",
+      "text": "Actual"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 198.166,
+            "t": 286.66710539999997,
+            "r": 203.10554254,
+            "b": 280.6719434032,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "⇑",
+      "text": "⇑"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 215.061,
+            "t": 286.4439438,
+            "r": 233.65315080000002,
+            "b": 280.45764622300885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Actual",
+      "text": "Actual"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 236.094,
+            "t": 286.66710539999997,
+            "r": 241.03354253999998,
+            "b": 280.6719434032,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "⇓",
+      "text": "⇓"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 278.0759438,
+            "r": 124.1022246,
+            "b": 272.0896462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "SVM",
+      "text": "SVM"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 179.369,
+            "t": 278.0759438,
+            "r": 200.86922539999995,
+            "b": 272.0896462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "60.92%",
+      "text": "60.92%"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.297,
+            "t": 278.0759438,
+            "r": 238.79722539999995,
+            "b": 272.0896462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "59.65%",
+      "text": "59.65%"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 270.1049438,
+            "r": 165.17790660000003,
+            "b": 264.1186462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Logistic Regression",
+      "text": "Logistic Regression"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 179.369,
+            "t": 270.1049438,
+            "r": 200.86922539999995,
+            "b": 264.1186462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "60.45%",
+      "text": "60.45%"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.297,
+            "t": 270.1049438,
+            "r": 238.79722539999995,
+            "b": 264.1186462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "58.86%",
+      "text": "58.86%"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.99,
+            "t": 262.1349438,
+            "r": 154.738128,
+            "b": 256.1486462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Neural Network",
+      "text": "Neural Network"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 179.369,
+            "t": 262.1349438,
+            "r": 200.86922539999995,
+            "b": 256.1486462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "55.42%",
+      "text": "55.42%"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 217.297,
+            "t": 262.1349438,
+            "r": 238.79722539999995,
+            "b": 256.1486462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "66.35%",
+      "text": "66.35%"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.959,
+            "t": 204.06997939999997,
+            "r": 129.35718200000002,
+            "b": 195.48221820000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "D. Trading strategy",
+      "text": "D. Trading strategy",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.959,
+            "t": 185.58165259999998,
+            "r": 301.06263599999994,
+            "b": 56.48177439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            742
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.997,
+            "t": 252.8266526,
+            "r": 571.1005929999998,
+            "b": 167.56277439292035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            743,
+            1195
+          ]
+        }
+      ],
+      "orig": "Using the prediction of the classifier, we build a day trading strategy where at the beginning of every day we go long (buy) on the portfolio if the price is going to go down after 5 days and short (sell) otherwise. We do not need to be long before we sell the portfolio since short selling is allowed on most commodity exchanges including CME. Since the portfolio is an artificial spread of the instruments, for going long we take a long position in ZF and a hedge adjusted short position in ZN and vice-versa for going short. The trade size that we use is 10 units of ZF and 8 units of ZN, which is the approximate integer ratio of the PC 2 loadings defined earlier. Finally, at the end of 5 days, we square off the open position and accrue the resulting dollar tick difference in our PNL (Profit & Loss). A qualitative comparison of this strategy against a strategy which places trades by obtaining predictions from a random classifier is shown in Figure 10. Observe that the drawdown of the strategy is quite low, and excluding exchange transaction costs and taxes, the profitability for a trade size of 10 units for the portfolio is around 90000 dollars over a span of two and a half years.",
+      "text": "Using the prediction of the classifier, we build a day trading strategy where at the beginning of every day we go long (buy) on the portfolio if the price is going to go down after 5 days and short (sell) otherwise. We do not need to be long before we sell the portfolio since short selling is allowed on most commodity exchanges including CME. Since the portfolio is an artificial spread of the instruments, for going long we take a long position in ZF and a hedge adjusted short position in ZN and vice-versa for going short. The trade size that we use is 10 units of ZF and 8 units of ZN, which is the approximate integer ratio of the PC 2 loadings defined earlier. Finally, at the end of 5 days, we square off the open position and accrue the resulting dollar tick difference in our PNL (Profit & Loss). A qualitative comparison of this strategy against a strategy which places trades by obtaining predictions from a random classifier is shown in Figure 10. Observe that the drawdown of the strategy is quite low, and excluding exchange transaction costs and taxes, the profitability for a trade size of 10 units for the portfolio is around 90000 dollars over a span of two and a half years."
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 386.932,
+            "t": 531.4046526,
+            "r": 503.1656542,
+            "b": 522.8527743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Fig. 7: ROC curve for SVM",
+      "text": "Fig. 7: ROC curve for SVM"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 367.261,
+            "t": 294.89065259999995,
+            "r": 522.8369615999999,
+            "b": 286.3387743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Fig. 8: ROC curve for neural network",
+      "text": "Fig. 8: ROC curve for neural network"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 363.615,
+            "t": 148.60365260000003,
+            "r": 526.4923811000001,
+            "b": 140.05177439292038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "V. CONCLUSION AND FUTURE WORK",
+      "text": "V. CONCLUSION AND FUTURE WORK",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.99699999999996,
+            "t": 130.78665260000002,
+            "r": 571.1006359999997,
+            "b": 56.48177439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            412
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.959,
+            "t": 237.9796526,
+            "r": 301.0625930000001,
+            "b": 229.42777439292036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            413,
+            473
+          ]
+        }
+      ],
+      "orig": "We build a day trading strategy for a portfolio of derivatives using features learned through a deep belief network from technical indicators of the constituents of the portfolio and using them to generate a predictor of weekly direction of movement of the portfolio. We observe that the feature reconstruction algorithm converges smoothly. We obtain a 510% higher accuracy than a random predictor with the three classification techniques that we use and a much higher PNL.",
+      "text": "We build a day trading strategy for a portfolio of derivatives using features learned through a deep belief network from technical indicators of the constituents of the portfolio and using them to generate a predictor of weekly direction of movement of the portfolio. We observe that the feature reconstruction algorithm converges smoothly. We obtain a 510% higher accuracy than a random predictor with the three classification techniques that we use and a much higher PNL."
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 87.555,
+            "t": 525.8556526,
+            "r": 262.46836820000004,
+            "b": 517.3037743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Fig. 9: ROC curve for Logistic Regression",
+      "text": "Fig. 9: ROC curve for Logistic Regression"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 74.31,
+            "t": 281.9196526,
+            "r": 275.71392160000005,
+            "b": 273.3677743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Fig. 10: Portfolio PNL vs number of days traded",
+      "text": "Fig. 10: Portfolio PNL vs number of days traded"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.959,
+            "t": 218.45865260000005,
+            "r": 301.062636,
+            "b": 56.48177439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            880
+          ]
+        }
+      ],
+      "orig": "While a simplistic strategy can generate a moderately positive PNL, sophisticated algorithmic trading involves making more complex decisions for which one would want to quantify the magnitude of movement, for which building a regression based strategy can be helpful. For learning the quantified amount of portfolio price change, recurrent neural networks come in handy. Moreover, state of the art belief networks work very well for continuous inputs, and it is worthwhile to generate continuous features from RBMs for solving an appropriate classification or regression problem. The current approach for trading seems promising, and it would be interesting to use it for trading multiple spreads and butterflies of derivatives traded on multiple exchanges. Moreover, it would also be worthwhile to build a higher frequency trading strategy if one has access to tick by tick data.",
+      "text": "While a simplistic strategy can generate a moderately positive PNL, sophisticated algorithmic trading involves making more complex decisions for which one would want to quantify the magnitude of movement, for which building a regression based strategy can be helpful. For learning the quantified amount of portfolio price change, recurrent neural networks come in handy. Moreover, state of the art belief networks work very well for continuous inputs, and it is worthwhile to generate continuous features from RBMs for solving an appropriate classification or regression problem. The current approach for trading seems promising, and it would be interesting to use it for trading multiple spreads and butterflies of derivatives traded on multiple exchanges. Moreover, it would also be worthwhile to build a higher frequency trading strategy if one has access to tick by tick data."
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 417.154,
+            "t": 733.5266526,
+            "r": 472.9544605000001,
+            "b": 724.9747743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.98199999999997,
+            "t": 717.2855351000001,
+            "r": 571.0991830999997,
+            "b": 692.5110153663718,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "[1] Yoshua Bengio. Practical recommendations for gradient-based training of deep architectures. In Neural Networks: Tricks of the Trade , pages 437-478. Springer, 2012.",
+      "text": "Yoshua Bengio. Practical recommendations for gradient-based training of deep architectures. In Neural Networks: Tricks of the Trade , pages 437-478. Springer, 2012.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.982,
+            "t": 687.8955351000001,
+            "r": 571.1044799,
+            "b": 654.1550153663718,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "[2] Dumitru Erhan, Yoshua Bengio, Aaron Courville, Pierre-Antoine Manzagol, Pascal Vincent, and Samy Bengio. Why does unsupervised pre-training help deep learning? The Journal of Machine Learning Research , 11:625-660, 2010.",
+      "text": "Dumitru Erhan, Yoshua Bengio, Aaron Courville, Pierre-Antoine Manzagol, Pascal Vincent, and Samy Bengio. Why does unsupervised pre-training help deep learning? The Journal of Machine Learning Research , 11:625-660, 2010.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.982,
+            "t": 649.6829969000001,
+            "r": 571.0977227,
+            "b": 633.7320153663718,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "[3] Edward Gately. Neural networks for financial forecasting . John Wiley & Sons, Inc., 1995.",
+      "text": "Edward Gately. Neural networks for financial forecasting . John Wiley & Sons, Inc., 1995.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.98200000000014,
+            "t": 629.1165351000001,
+            "r": 571.0991830999998,
+            "b": 613.3080153663718,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "[4] Geoffrey Hinton. A practical guide to training restricted boltzmann machines. Momentum , 9(1):926, 2010.",
+      "text": "Geoffrey Hinton. A practical guide to training restricted boltzmann machines. Momentum , 9(1):926, 2010.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.98200000000014,
+            "t": 608.6925351000001,
+            "r": 571.0991831,
+            "b": 592.8850153663718,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "[5] Geoffrey E Hinton. Training products of experts by minimizing contrastive divergence. Neural computation , 14(8):1771-1800, 2002.",
+      "text": "Geoffrey E Hinton. Training products of experts by minimizing contrastive divergence. Neural computation , 14(8):1771-1800, 2002.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.98200000000014,
+            "t": 588.2695351000001,
+            "r": 571.1035707000001,
+            "b": 563.4950153663718,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "[6] Geoffrey E Hinton, Simon Osindero, and Yee-Whye Teh. A fast learning algorithm for deep belief nets. Neural computation , 18(7):1527-1554, 2006.",
+      "text": "Geoffrey E Hinton, Simon Osindero, and Yee-Whye Teh. A fast learning algorithm for deep belief nets. Neural computation , 18(7):1527-1554, 2006.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.98200000000014,
+            "t": 558.8795351000001,
+            "r": 571.1015622000001,
+            "b": 534.1050153663718,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "[7] Wei Huang, Yoshiteru Nakamori, and Shou-Yang Wang. Forecasting stock market movement direction with support vector machine. Computers & Operations Research , 32(10):2513-2522, 2005.",
+      "text": "Wei Huang, Yoshiteru Nakamori, and Shou-Yang Wang. Forecasting stock market movement direction with support vector machine. Computers & Operations Research , 32(10):2513-2522, 2005.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.9820000000001,
+            "t": 529.4895351000001,
+            "r": 571.101525,
+            "b": 504.71601536637183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "[8] Iebeling Kaastra and Milton Boyd. Designing a neural network for forecasting financial and economic time series. Neurocomputing , 10(3):215-236, 1996.",
+      "text": "Iebeling Kaastra and Milton Boyd. Designing a neural network for forecasting financial and economic time series. Neurocomputing , 10(3):215-236, 1996.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.982,
+            "t": 500.1005351000002,
+            "r": 571.0991830999999,
+            "b": 484.29201536637186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "[9] Kyoung-jae Kim. Financial time series forecasting using support vector machines. Neurocomputing , 55(1):307-319, 2003.",
+      "text": "Kyoung-jae Kim. Financial time series forecasting using support vector machines. Neurocomputing , 55(1):307-319, 2003.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 318.997,
+            "t": 479.6765351000002,
+            "r": 571.0992330999997,
+            "b": 463.86901536637185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "[10] R. B. Palm. Prediction as a candidate for learning deep hierarchical models of data. Master's thesis, 2012.",
+      "text": "R. B. Palm. Prediction as a candidate for learning deep hierarchical models of data. Master's thesis, 2012.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 318.997,
+            "t": 459.2535351000002,
+            "r": 571.0997036999998,
+            "b": 416.5460153663719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            313
+          ]
+        }
+      ],
+      "orig": "[11] F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel, B. Thirion, O. Grisel, M. Blondel, P. Prettenhofer, R. Weiss, V. Dubourg, J. Vanderplas, A. Passos, D. Cournapeau, M. Brucher, M. Perrot, and E. Duchesnay. Scikit-learn: Machine learning in Python. Journal of Machine Learning Research , 12:2825-2830, 2011.",
+      "text": "F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel, B. Thirion, O. Grisel, M. Blondel, P. Prettenhofer, R. Weiss, V. Dubourg, J. Vanderplas, A. Passos, D. Cournapeau, M. Brucher, M. Perrot, and E. Duchesnay. Scikit-learn: Machine learning in Python. Journal of Machine Learning Research , 12:2825-2830, 2011.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 318.99699999999996,
+            "t": 411.9305351000002,
+            "r": 571.0992330999998,
+            "b": 396.1230153663719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "[12] Francis EH Tay and Lijuan Cao. Application of support vector machines in financial time series forecasting. Omega , 29(4):309-317, 2001.",
+      "text": "Francis EH Tay and Lijuan Cao. Application of support vector machines in financial time series forecasting. Omega , 29(4):309-317, 2001.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 318.9969999999999,
+            "t": 391.65099690000017,
+            "r": 571.1029049999997,
+            "b": 366.7330153663719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "[13] Robert R Trippi and Efraim Turban. Neural networks in finance and investing: Using artificial intelligence to improve real world performance . McGraw-Hill, Inc., 1992.",
+      "text": "Robert R Trippi and Efraim Turban. Neural networks in finance and investing: Using artificial intelligence to improve real world performance . McGraw-Hill, Inc., 1992.",
+      "enumerated": true,
+      "marker": "[13]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 332.2205505371094,
+            "t": 484.7151794433594,
+            "r": 564.0482788085938,
+            "b": 307.3360900878906,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.33385467529297,
+            "t": 692.4297180175781,
+            "r": 311.6357727050781,
+            "b": 531.4407043457031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/68"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 334.765869140625,
+            "t": 722.5196685791016,
+            "r": 563.9251708984375,
+            "b": 545.5231628417969,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/68"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/69"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 363.6211242675781,
+            "t": 269.72137451171875,
+            "r": 524.092041015625,
+            "b": 194.41998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/69"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/84"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.96588134765625,
+            "t": 649.7751617431641,
+            "r": 574.7577514648438,
+            "b": 455.6192321777344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/84"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 49.71528625488281,
+            "t": 734.4930534362793,
+            "r": 304.6090087890625,
+            "b": 544.1419830322266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/151"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 332.54541015625,
+            "t": 723.6836090087891,
+            "r": 561.4349975585938,
+            "b": 545.0429229736328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/151"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/152"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 332.7091979980469,
+            "t": 485.9504089355469,
+            "r": 561.48779296875,
+            "b": 308.11749267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/152"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/155"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.86687088012695,
+            "t": 738.2989349365234,
+            "r": 303.8595275878906,
+            "b": 545.8187255859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/155"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/156"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.12981414794922,
+            "t": 494.78515625,
+            "r": 317.57452392578125,
+            "b": 295.20928955078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/156"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 101.55154418945312,
+            "t": 504.23712158203125,
+            "r": 247.8695068359375,
+            "b": 470.0384521484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/3"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 101.50230407714844,
+            "t": 432.4178771972656,
+            "r": 247.65994262695312,
+            "b": 398.33544921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/4"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/groups/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 101.64735412597656,
+            "t": 360.3867492675781,
+            "r": 248.0350341796875,
+            "b": 326.72711181640625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/119"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/5"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/groups/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 101.54166412353516,
+            "t": 288.79248046875,
+            "r": 247.90634155273438,
+            "b": 254.424560546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/134"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/6"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

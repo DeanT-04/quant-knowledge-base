@@ -1,0 +1,2887 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2309.03736_tradinggpt_multi_agent_system_with_layered_memory_",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7654331812374189346,
+    "filename": "2309.03736_tradinggpt_multi_agent_system_with_layered_memory_.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/86"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 584.2,
+            "r": 36.206559297218156,
+            "b": 222.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:2309.03736v1  [q-fin.PM]  7 Sep 2023",
+      "text": "arXiv:2309.03736v1  [q-fin.PM]  7 Sep 2023"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 101.19100000000003,
+            "t": 692.4282254,
+            "r": 510.81675340000027,
+            "b": 637.8005565097346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "TRADINGGPT: MULTI-AGENT SYSTEM WITH LAYERED MEMORY AND DISTINCT CHARACTERS FOR ENHANCED FINANCIAL TRADING PERFORMANCE",
+      "text": "TRADINGGPT: MULTI-AGENT SYSTEM WITH LAYERED MEMORY AND DISTINCT CHARACTERS FOR ENHANCED FINANCIAL TRADING PERFORMANCE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 159.76,
+            "t": 587.627194,
+            "r": 454.73266079999985,
+            "b": 578.6708166000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "Yang Li, Yangyang Yu, Haohang Li, Zhi Chen, Khaldoun Khashanah",
+      "text": "Yang Li, Yangyang Yu, Haohang Li, Zhi Chen, Khaldoun Khashanah",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 202.35999999999999,
+            "t": 576.3296526,
+            "r": 449.79934053999966,
+            "b": 545.8143028000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "School of Business, Stevens Institute of Technology Hoboken, NJ, United States kkhashan}@stevens.edu",
+      "text": "School of Business, Stevens Institute of Technology Hoboken, NJ, United States kkhashan}@stevens.edu"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 162.2,
+            "t": 554.1131486,
+            "r": 334.7621946,
+            "b": 545.8143028000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "{yli269, yyu44, hli113, zchen100,",
+      "text": "{yli269, yyu44, hli113, zchen100,"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 277.296,
+            "t": 504.37308800000005,
+            "r": 334.70893579999995,
+            "b": 493.6253632000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "ABSTRACT",
+      "text": "ABSTRACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 107.557,
+            "t": 486.22165259999997,
+            "r": 505.8795212768001,
+            "b": 259.4877743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2071
+          ]
+        }
+      ],
+      "orig": "Large Language Models (LLMs), prominently highlighted by the recent evolution in the Generative Pre-trained Transformers (GPT) series, have displayed significant prowess across various domains, such as aiding in healthcare diagnostics and curating analytical business reports. The efficacy of GPTs lies in their ability to decode human instructions, achieved through comprehensively processing historical inputs as an entirety within their memory system. Yet, the memory processing of GPTs does not precisely emulate the hierarchical nature of human memory, which is categorized into long, medium, and short-term layers. This can result in LLMs struggling to prioritize immediate and critical tasks efficiently. To bridge this gap, we introduce an innovative LLM multi-agent framework endowed with layered memories. We assert that this framework is well-suited for stock and fund trading, where the extraction of highly relevant insights from hierarchical financial data is imperative to inform trading decisions. Within this framework, one agent organizes memory into three distinct layers, each governed by a custom decay mechanism, aligning more closely with human cognitive processes. Agents can also engage in inter-agent communication and debate. In financial trading contexts, LLMs serve as the decision core for trading agents, leveraging their layered memory system to integrate multi-source historical actions and market insights. This equips them to navigate financial changes, formulate strategies, and debate with peer agents about investment decisions. Another standout feature of our approach is to enable agents with individualized trading characters, which enrich the diversity of their highlighted essential memories and improve decision-making robustness. By leveraging agents' layered memory processing and consistent information interchange, the entire trading system demonstrates augmented adaptability to historical trades and real-time market cues. This synergistic approach guarantees premier automated trading with heightened execution accuracy.",
+      "text": "Large Language Models (LLMs), prominently highlighted by the recent evolution in the Generative Pre-trained Transformers (GPT) series, have displayed significant prowess across various domains, such as aiding in healthcare diagnostics and curating analytical business reports. The efficacy of GPTs lies in their ability to decode human instructions, achieved through comprehensively processing historical inputs as an entirety within their memory system. Yet, the memory processing of GPTs does not precisely emulate the hierarchical nature of human memory, which is categorized into long, medium, and short-term layers. This can result in LLMs struggling to prioritize immediate and critical tasks efficiently. To bridge this gap, we introduce an innovative LLM multi-agent framework endowed with layered memories. We assert that this framework is well-suited for stock and fund trading, where the extraction of highly relevant insights from hierarchical financial data is imperative to inform trading decisions. Within this framework, one agent organizes memory into three distinct layers, each governed by a custom decay mechanism, aligning more closely with human cognitive processes. Agents can also engage in inter-agent communication and debate. In financial trading contexts, LLMs serve as the decision core for trading agents, leveraging their layered memory system to integrate multi-source historical actions and market insights. This equips them to navigate financial changes, formulate strategies, and debate with peer agents about investment decisions. Another standout feature of our approach is to enable agents with individualized trading characters, which enrich the diversity of their highlighted essential memories and improve decision-making robustness. By leveraging agents' layered memory processing and consistent information interchange, the entire trading system demonstrates augmented adaptability to historical trades and real-time market cues. This synergistic approach guarantees premier automated trading with heightened execution accuracy."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.671,
+            "t": 239.81219399999998,
+            "r": 503.9178639999995,
+            "b": 230.85581660000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "K eywords Financial AI, Multi-Modal Learning, Trading Algorithms, Deep Learning, Financial Technology",
+      "text": "K eywords Financial AI, Multi-Modal Learning, Trading Algorithms, Deep Learning, Financial Technology"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 205.76308799999993,
+            "r": 154.8136704,
+            "b": 195.0153631999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.641,
+            "t": 176.6676526,
+            "r": 541.7416709260002,
+            "b": 69.93377439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1135
+          ]
+        }
+      ],
+      "orig": "As the influx of diverse data streams continues to rise, there is a growing need for individuals to effectively harness information. This trend is particularly pronounced in the realm of finance, where traders must consider multiple sources to inform their investment decisions. In light of this demand, researchers design intelligent trading robot-agents that can synthesize and interpret data objectively[14, 5]. These robot-agents harness diverse machine algorithms, assimilate a broader spectrum of data, autonomously refine trading strategies via methodical planning, and even potentially collaborate [7]. Here, we introduce an advanced LLM-powered multi-agent trading agent framework, supported by layered memories and customized characters. By employing a collaborative multi-agent system and capturing the intricate market dynamics from varied perspectives, this approach significantly enhances automated trading outcomes. This approach substantially elevates the performance of automated trading by fostering collaborative interactions among agents and capturing the intricate dynamics of the market from diverse perspectives.",
+      "text": "As the influx of diverse data streams continues to rise, there is a growing need for individuals to effectively harness information. This trend is particularly pronounced in the realm of finance, where traders must consider multiple sources to inform their investment decisions. In light of this demand, researchers design intelligent trading robot-agents that can synthesize and interpret data objectively[14, 5]. These robot-agents harness diverse machine algorithms, assimilate a broader spectrum of data, autonomously refine trading strategies via methodical planning, and even potentially collaborate [7]. Here, we introduce an advanced LLM-powered multi-agent trading agent framework, supported by layered memories and customized characters. By employing a collaborative multi-agent system and capturing the intricate market dynamics from varied perspectives, this approach significantly enhances automated trading outcomes. This approach substantially elevates the performance of automated trading by fostering collaborative interactions among agents and capturing the intricate dynamics of the market from diverse perspectives."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 716.5226526,
+            "r": 539.9969407131998,
+            "b": 675.2437743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            422
+          ]
+        }
+      ],
+      "orig": "Previous studies have introduced multi-agent trading algorithms that employ machine learning techniques, such as reinforcement learning and have reported significant performance outcomes [5]. Yet, these methods exhibit limitations in precisely identifying, representing, and emulating crucial components of trading systems. This includes aspects like agents' memory archives and the evolving social interplay among agents.",
+      "text": "Previous studies have introduced multi-agent trading algorithms that employ machine learning techniques, such as reinforcement learning and have reported significant performance outcomes [5]. Yet, these methods exhibit limitations in precisely identifying, representing, and emulating crucial components of trading systems. This includes aspects like agents' memory archives and the evolving social interplay among agents."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 667.4076526,
+            "r": 541.2466691823995,
+            "b": 571.5827743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            940
+          ]
+        }
+      ],
+      "orig": "LLMs, with a particular focus on their recent advancements, such as the Generative Pre-trained Transformer (GPT), have demonstrated remarkable effectiveness in enhancing human decision-making across various domains [9]. Notably, a growing body of research has focused on harnessing this technology to make informed trading decisions for stocks and funds by continuously interacting with financial environment information [17, 16]. While current financial LLM applications predominantly operate within single-agent systems based on textual uni-modality, their immense potential to elevate trading performance is becoming increasingly evident. Moreover, these financial agent systems make trading decisions relying solely on pre-trained LLMs or a memory system processing received information streams as an entirety. This can lead to a challenge for LLMs in efficiently prioritizing immediate and critical memory events for optimized trading.",
+      "text": "LLMs, with a particular focus on their recent advancements, such as the Generative Pre-trained Transformer (GPT), have demonstrated remarkable effectiveness in enhancing human decision-making across various domains [9]. Notably, a growing body of research has focused on harnessing this technology to make informed trading decisions for stocks and funds by continuously interacting with financial environment information [17, 16]. While current financial LLM applications predominantly operate within single-agent systems based on textual uni-modality, their immense potential to elevate trading performance is becoming increasingly evident. Moreover, these financial agent systems make trading decisions relying solely on pre-trained LLMs or a memory system processing received information streams as an entirety. This can lead to a challenge for LLMs in efficiently prioritizing immediate and critical memory events for optimized trading."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 563.7456526,
+            "r": 540.3528247104006,
+            "b": 457.01277439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1115
+          ]
+        }
+      ],
+      "orig": "Park et al. [10] recently introduced a generative agent framework aiming to enhance the efficient retrieval of critical events from agents empowered by LLMs. This structure comprises several agents, each distinguished by separate memory streams and unique character profiles configured by LLMs. Each agent, owning its seed memories, not only tracks its actions but also monitors other agents and environmental behaviors. Faced with a task, agents sift through memory segments to input into the language model, ranking them by recency, significance, and relevance. By archiving an agent's experiences, the system integrates individual weighted memories and the nuances of group dynamics. As a result, agents can collaboratively strategize, leveraging their collective knowledge. Moreover, Du et al. [3] presented a debate mechanism for LLM agents, emphasizing enhanced cooperative decision-making through debate phases in inter-agent memory interactions. These advancements align the LLM-driven multi-agent system more with human memory structures, paving the way for a more adept financial automated trading system.",
+      "text": "Park et al. [10] recently introduced a generative agent framework aiming to enhance the efficient retrieval of critical events from agents empowered by LLMs. This structure comprises several agents, each distinguished by separate memory streams and unique character profiles configured by LLMs. Each agent, owning its seed memories, not only tracks its actions but also monitors other agents and environmental behaviors. Faced with a task, agents sift through memory segments to input into the language model, ranking them by recency, significance, and relevance. By archiving an agent's experiences, the system integrates individual weighted memories and the nuances of group dynamics. As a result, agents can collaboratively strategize, leveraging their collective knowledge. Moreover, Du et al. [3] presented a debate mechanism for LLM agents, emphasizing enhanced cooperative decision-making through debate phases in inter-agent memory interactions. These advancements align the LLM-driven multi-agent system more with human memory structures, paving the way for a more adept financial automated trading system."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 449.1756526,
+            "r": 540.0040938599991,
+            "b": 407.89677439292035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            409
+          ]
+        }
+      ],
+      "orig": "Leveraging the capabilities of LLMs, we propose a novel trading agent framework, \"TradingGPT\". It offers a realistic scenario simulation through the integration of the trader's layered memory streams and character analysis. This framework is characterized by remarkable self-enhancement ability and performance to conduct automated trading and optimal execution. The primary contributions of our work include:",
+      "text": "Leveraging the capabilities of LLMs, we propose a novel trading agent framework, \"TradingGPT\". It offers a realistic scenario simulation through the integration of the trader's layered memory streams and character analysis. This framework is characterized by remarkable self-enhancement ability and performance to conduct automated trading and optimal execution. The primary contributions of our work include:"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.671,
+            "t": 400.448194,
+            "r": 541.2489854079998,
+            "b": 336.9627743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            637
+          ]
+        }
+      ],
+      "orig": "This represents a pioneering multi-agent trading system that integrates memory streams and debate mechanisms, anchored on LLMs. Building on Park et al.'s weighted memory mechanisms, our system innovatively categorizes the agent's memories into short-term, middle-term, and long-term layers, which are closely aligned with the structure of the human cognitive system. We adapt this layered memory framework to the financial trading system, equipping agents to reflect on past and present events, derive insights from trading performance, and leverage collective wisdom for future decisions. This approach improves the system's robustness.",
+      "text": "This represents a pioneering multi-agent trading system that integrates memory streams and debate mechanisms, anchored on LLMs. Building on Park et al.'s weighted memory mechanisms, our system innovatively categorizes the agent's memories into short-term, middle-term, and long-term layers, which are closely aligned with the structure of the human cognitive system. We adapt this layered memory framework to the financial trading system, equipping agents to reflect on past and present events, derive insights from trading performance, and leverage collective wisdom for future decisions. This approach improves the system's robustness."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.671,
+            "t": 329.514194,
+            "r": 540.0044072679998,
+            "b": 287.84677439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            415
+          ]
+        }
+      ],
+      "orig": "This marks the debut of the LLM agent trading system that incorporates the character design. The design assigns agents with different varying risk preferences, such as risk-seeking, risk-neutral, and risk-averse, and various investment subscopes across industries. This design enables these collaborative agents to resonate more with human intuition and possess the potential to uncover latent market opportunities.",
+      "text": "This marks the debut of the LLM agent trading system that incorporates the character design. The design assigns agents with different varying risk preferences, such as risk-seeking, risk-neutral, and risk-averse, and various investment subscopes across industries. This design enables these collaborative agents to resonate more with human intuition and possess the potential to uncover latent market opportunities."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 280.398194,
+            "r": 540.0033765527998,
+            "b": 238.73077439292035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            420
+          ]
+        }
+      ],
+      "orig": "Our trading system also integrates real-time multi-modal data from diverse information sources , offering a comprehensive view of the financial landscape by encompassing both macro and micro perspectives, as well as historical trading records. With updates available on both daily and minute-by-minute frequencies, our system ensures prompt reactions to daily trades and offers the capability for high-frequency trading.",
+      "text": "Our trading system also integrates real-time multi-modal data from diverse information sources , offering a comprehensive view of the financial landscape by encompassing both macro and micro perspectives, as well as historical trading records. With updates available on both daily and minute-by-minute frequencies, our system ensures prompt reactions to daily trades and offers the capability for high-frequency trading."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.641,
+            "t": 230.89465259999997,
+            "r": 540.310593249,
+            "b": 189.61477439292037,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            407
+          ]
+        }
+      ],
+      "orig": "In this paper, we commence with an in-depth exposition of TradingGPT. We then present multi-modal datasets for the effective training of TradingGPT. We methodically evaluate the pivotal components of the system, illustrating their ability to yield notable results. We prospect that, when deployed on representative fund firms like ARK, TradingGPT will markedly outperform other automated trading strategies.",
+      "text": "In this paper, we commence with an in-depth exposition of TradingGPT. We then present multi-modal datasets for the effective training of TradingGPT. We methodically evaluate the pivotal components of the system, illustrating their ability to yield notable results. We prospect that, when deployed on representative fund firms like ARK, TradingGPT will markedly outperform other automated trading strategies."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 163.80108800000005,
+            "r": 161.0901504,
+            "b": 153.05336320000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "2 Related Work",
+      "text": "2 Related Work",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 134.671194,
+            "r": 228.53237120000009,
+            "b": 125.71481660000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "2.1 Large language models (LLMs)",
+      "text": "2.1 Large language models (LLMs)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.641,
+            "t": 111.21265259999996,
+            "r": 540.0040938599992,
+            "b": 69.93377439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            414
+          ]
+        }
+      ],
+      "orig": "The evolution of LLMs has reshaped artificial intelligence and natural language processing. From foundational embeddings like Word2Vec [4] and GloVe [11], the field advanced with the introduction of BERT [2]. Today, the new-generation LLMs, like Generative Pre-trained Transformer series (GPTs) [12, 9] and Large Language Model Meta AI (Llamas) [15], demonstrate expressive proficiency across diverse applications.",
+      "text": "The evolution of LLMs has reshaped artificial intelligence and natural language processing. From foundational embeddings like Word2Vec [4] and GloVe [11], the field advanced with the introduction of BERT [2]. Today, the new-generation LLMs, like Generative Pre-trained Transformer series (GPTs) [12, 9] and Large Language Model Meta AI (Llamas) [15], demonstrate expressive proficiency across diverse applications."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.509,
+            "t": 48.59765259999995,
+            "r": 308.4903,
+            "b": 40.04577439292029,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 716.911194,
+            "r": 434.63863999999995,
+            "b": 707.9548166000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "2.2 Generative agent system with memory streams and customized character design",
+      "text": "2.2 Generative agent system with memory streams and customized character design",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 694.7806525999999,
+            "r": 540.0042432990002,
+            "b": 642.5917743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            535
+          ]
+        }
+      ],
+      "orig": "Park et al. [10] introduced generative agents' memory streams and innovatively employed character design concepts from gaming, expanding LLM capabilities for the multi-agent system [13]. In their design, agents display human-like behaviors while retaining individual characters. They dynamically interact with peers and their environment, forging memories and relationships. Moreover, these agents coordinate collaborative tasks through natural language, creating a captivating fusion of artificial intelligence and interactive design.",
+      "text": "Park et al. [10] introduced generative agents' memory streams and innovatively employed character design concepts from gaming, expanding LLM capabilities for the multi-agent system [13]. In their design, agents display human-like behaviors while retaining individual characters. They dynamically interact with peers and their environment, forging memories and relationships. Moreover, these agents coordinate collaborative tasks through natural language, creating a captivating fusion of artificial intelligence and interactive design."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 622.655194,
+            "r": 226.13138460000008,
+            "b": 613.6988166000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "2.3 Multi-agent debate mechanism",
+      "text": "2.3 Multi-agent debate mechanism",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 600.5236526,
+            "r": 540.004243299,
+            "b": 570.1537743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "Du et al. [3] introduced a debate mechanism leveraging multiple language models in a multi-agent system. Within this framework, various model instances propose debate and collaboratively converge to a unified answer. This approach bolsters mathematical and strategic reasoning while enhancing the factual accuracy of the generated content.",
+      "text": "Du et al. [3] introduced a debate mechanism leveraging multiple language models in a multi-agent system. Within this framework, various model instances propose debate and collaboratively converge to a unified answer. This approach bolsters mathematical and strategic reasoning while enhancing the factual accuracy of the generated content."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 226.175,
+            "t": 338.0696526,
+            "r": 385.8256649999998,
+            "b": 329.51777439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Figure 1: TradingGPT Data Warehouse.",
+      "text": "Figure 1: TradingGPT Data Warehouse."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 295.501088,
+            "r": 252.7506688000001,
+            "b": 284.7533632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "3 Dataset and Database Structure",
+      "text": "3 Dataset and Database Structure",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.641,
+            "t": 267.97265259999995,
+            "r": 541.7439623239999,
+            "b": 139.4207743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1315
+          ]
+        }
+      ],
+      "orig": "For TradingGPT's development, we systematically integrated an extensive array of multi-modal financial data from August 15, 2020, to August 15, 2023. These datasets were sourced from financial databases and APIs, exemplified by the Databento Stock Price Database, Alpaca News API, publicly available daily holdings history records from ARK, etc. This data serves two purposes: (a) to formulate multi-layer memories for agents, and (b) to train, guide, and back-test the agents using ARK funds' historical trading records, refining their trading decisions and actions. In our study, we employed FAISS[6], an open-source vector database, due to its capacity to store data as high-dimensional vectors, enabling semantic searches based on exact matches. Two primary reasons informed our decision: (a) The majority of our data, including audio transcriptions from ARK Invest videos (translated to texts via the Whisper API), benefits from FAISS's unique underlying structure to fast query data. (b) FAISS's compatibility incorporating OpenAI and efficient computation of cosine similarities for specific tickers. the Raw Input schema. This data is then channeled into the Agents' Cognition Schema, guided by both the system's foundational logic and LLM-agent processing. A comprehensive schema structure is in Figure. 1.",
+      "text": "For TradingGPT's development, we systematically integrated an extensive array of multi-modal financial data from August 15, 2020, to August 15, 2023. These datasets were sourced from financial databases and APIs, exemplified by the Databento Stock Price Database, Alpaca News API, publicly available daily holdings history records from ARK, etc. This data serves two purposes: (a) to formulate multi-layer memories for agents, and (b) to train, guide, and back-test the agents using ARK funds' historical trading records, refining their trading decisions and actions. In our study, we employed FAISS[6], an open-source vector database, due to its capacity to store data as high-dimensional vectors, enabling semantic searches based on exact matches. Two primary reasons informed our decision: (a) The majority of our data, including audio transcriptions from ARK Invest videos (translated to texts via the Whisper API), benefits from FAISS's unique underlying structure to fast query data. (b) FAISS's compatibility incorporating OpenAI and efficient computation of cosine similarities for specific tickers. the Raw Input schema. This data is then channeled into the Agents' Cognition Schema, guided by both the system's foundational logic and LLM-agent processing. A comprehensive schema structure is in Figure. 1."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 116.923088,
+            "r": 180.37388800000005,
+            "b": 106.17536319999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "4 Proposed Method",
+      "text": "4 Proposed Method",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 89.39465259999997,
+            "r": 539.9975982447997,
+            "b": 69.93377439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "Our methodology integrates LLM across multiple facets of the trading agent workflow. Details and associated notation are provided in the subsequent sections.",
+      "text": "Our methodology integrates LLM across multiple facets of the trading agent workflow. Details and associated notation are provided in the subsequent sections."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.509,
+            "t": 48.59765259999995,
+            "r": 308.4903,
+            "b": 40.04577439292029,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 716.911194,
+            "r": 342.2654127999999,
+            "b": 707.9548166000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "4.1 Trading Agents Layered Generative Memory Formulation",
+      "text": "4.1 Trading Agents Layered Generative Memory Formulation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 696.5476526,
+            "r": 540.0021013399999,
+            "b": 677.0867743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "In our LLM-based trading system, agents autonomously manage their actions and memory trajectories, engaging in communication and deliberation as needed.",
+      "text": "In our LLM-based trading system, agents autonomously manage their actions and memory trajectories, engaging in communication and deliberation as needed."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 663.319194,
+            "r": 217.3443714000001,
+            "b": 654.3628166000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "4.1.1 Layered-memory structure",
+      "text": "4.1.1 Layered-memory structure",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.641,
+            "t": 644.3006526,
+            "r": 541.3861057319989,
+            "b": 548.4767743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1023
+          ]
+        }
+      ],
+      "orig": "Each agent within TradingGPT discerns and categorizes perceived information into three distinct memory layers: long-term, middle-term, and short-term. Compared to the approach of extracting key insights through the computation of ranked retrieval scores from all memories in the generative agent system [10], this layered memory approach introduces a more nuanced ranking mechanism for retrieving crucial events from individual layers. This closely aligns with the human cognition proposed by Atkinson et al.[1]. Our framework initially categorizes memories into separate lists for each layer, guided by predefined rules tailored to specific situations and the nature of events. Subsequently, within each memory layer, we leverage three crucial metrics, inspired by the work of Park et al. - recency, relevancy, and importance - to establish the hierarchical arrangement of events within an agent's memory. However, we have reconstructed their mathematical representations to attain a more logical and advanced formulation.",
+      "text": "Each agent within TradingGPT discerns and categorizes perceived information into three distinct memory layers: long-term, middle-term, and short-term. Compared to the approach of extracting key insights through the computation of ranked retrieval scores from all memories in the generative agent system [10], this layered memory approach introduces a more nuanced ranking mechanism for retrieving crucial events from individual layers. This closely aligns with the human cognition proposed by Atkinson et al.[1]. Our framework initially categorizes memories into separate lists for each layer, guided by predefined rules tailored to specific situations and the nature of events. Subsequently, within each memory layer, we leverage three crucial metrics, inspired by the work of Park et al. - recency, relevancy, and importance - to establish the hierarchical arrangement of events within an agent's memory. However, we have reconstructed their mathematical representations to attain a more logical and advanced formulation."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 540.9584558,
+            "r": 541.2451032499999,
+            "b": 403.3527743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1420
+          ]
+        }
+      ],
+      "orig": "For a memory event E within the memory layer i ∈ { short, middle, long } , upon the arrival of a prompt P from the LLM, the agent computes the recency score S E Recency as per Equation.1. This score inversely correlates with the time difference between the prompt's arrival and the event's memory timestamp, aligning with Ebbinghaus's forgetting curve on memory decay [8]. Q i Equation.1 represents the stability term, employed to control the memory decay rates across layers. A higher stability value in the long-term memory layer compared to the short-term layer suggests that memories persist longer in the former. The relevancy score S E relevancy represents the cosine similarity between the embedding vectors for the textual content of the memory event m E and the prompt query m P . The importance score S E Importance is determined using a uniform piecewise function as described in Equation.3, adhering to the relationship c short < c middle < c long. After normalizing their values to the [0,1] range using min-max scaling, these scores, S E Recency , S E Relevancy and S E Importance are linearly combined to produce the final ranking score γ E i for each memory layer in the Equation. 4 (equivalent to retrieval score in the study of Park et al.). In our setup, the ranking score thresholds, γ E i , are 80 for long-term, 60 for middle-term, and 40 for short-term memory. Events scoring below 20 are removed.",
+      "text": "For a memory event E within the memory layer i ∈ { short, middle, long } , upon the arrival of a prompt P from the LLM, the agent computes the recency score S E Recency as per Equation.1. This score inversely correlates with the time difference between the prompt's arrival and the event's memory timestamp, aligning with Ebbinghaus's forgetting curve on memory decay [8]. Q i Equation.1 represents the stability term, employed to control the memory decay rates across layers. A higher stability value in the long-term memory layer compared to the short-term layer suggests that memories persist longer in the former. The relevancy score S E relevancy represents the cosine similarity between the embedding vectors for the textual content of the memory event m E and the prompt query m P . The importance score S E Importance is determined using a uniform piecewise function as described in Equation.3, adhering to the relationship c short < c middle < c long. After normalizing their values to the [0,1] range using min-max scaling, these scores, S E Recency , S E Relevancy and S E Importance are linearly combined to produce the final ranking score γ E i for each memory layer in the Equation. 4 (equivalent to retrieval score in the study of Park et al.). In our setup, the ranking score thresholds, γ E i , are 80 for long-term, 60 for middle-term, and 40 for short-term memory. Events scoring below 20 are removed."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 240.0,
+            "t": 382.9652279,
+            "r": 540.6673916000001,
+            "b": 365.8896462230088,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "S E Recency = e -δ E Qi δ E = t P -t E (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00000000000017,
+            "t": 360.1054558,
+            "r": 481.1114722000001,
+            "b": 350.3606462230088,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": ", where Q long = 365 for long-term, Q middle = 90 for middle-term, and Q short = 3 for short-term events.",
+      "text": ", where Q long = 365 for long-term, Q middle = 90 for middle-term, and Q short = 3 for short-term events."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 243.79400000000018,
+            "t": 333.6023436,
+            "r": 540.6673915999999,
+            "b": 310.3626783873199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "S E Relevancy = m E · m P ∥ m E ∥ 2 ×∥ m P ∥ 2 (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 211.31299999999993,
+            "t": 288.833504,
+            "r": 540.6673915999999,
+            "b": 251.85264622300883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "S E Importance =    c short if short-term memory c middle if middle-term memory c long if long-term memory (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 245.1994558,
+            "r": 256.92468180000003,
+            "b": 235.45364622300883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": ", where c short , c middle and c long are all constants.",
+      "text": ", where c short , c middle and c long are all constants."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 186.44099999999997,
+            "t": 219.9731054,
+            "r": 540.6673916,
+            "b": 205.6749449386167,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "γ E i = α E i × S E Recency i + β E i × S E Relevancy i + λ E i × S E Importance i (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.64100000000002,
+            "t": 202.72765260000006,
+            "r": 513.9405895999996,
+            "b": 194.1757743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "where each memory event is only associated with one score, as it can only belong to one of the memory layers.",
+      "text": "where each memory event is only associated with one score, as it can only belong to one of the memory layers."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.691,
+            "t": 186.33965260000002,
+            "r": 541.7444504913998,
+            "b": 122.1807743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            713
+          ]
+        }
+      ],
+      "orig": "To ensure dynamic interactions across memory layers, we define upper and lower thresholds for memory event ranking scores in each layer. We also utilize an add-counter function to boost the scores of events that are triggered by trading executions resulting from significant trading profits and losses. This promotes frequent events to transition from short-term to potentially longer-term memory, enhancing their retention and recall by agents. The hyperparameters α E i , β E i , and λ E i exhibit variations across different layers. The transferable layered memory system allows the agents to capture and prioritize crucial memory events by considering both their types and frequencies when conducting queries.",
+      "text": "To ensure dynamic interactions across memory layers, we define upper and lower thresholds for memory event ranking scores in each layer. We also utilize an add-counter function to boost the scores of events that are triggered by trading executions resulting from significant trading profits and losses. This promotes frequent events to transition from short-term to potentially longer-term memory, enhancing their retention and recall by agents. The hyperparameters α E i , β E i , and λ E i exhibit variations across different layers. The transferable layered memory system allows the agents to capture and prioritize crucial memory events by considering both their types and frequencies when conducting queries."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 108.41319399999998,
+            "r": 294.69399780000003,
+            "b": 99.45681660000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "4.1.2 Memory formulated by individual experience",
+      "text": "4.1.2 Memory formulated by individual experience",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 89.39465259999997,
+            "r": 540.0040938599989,
+            "b": 69.93377439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "In the trading paradigm, macro-level market indicators are stored in the long-term memory, quarterly investment strategies are allocated to the mid-term memory, and daily investment messages are channeled into the short-term",
+      "text": "In the trading paradigm, macro-level market indicators are stored in the long-term memory, quarterly investment strategies are allocated to the mid-term memory, and daily investment messages are channeled into the short-term"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.335,
+            "t": 48.59765259999995,
+            "r": 308.31629999999996,
+            "b": 40.04577439292041,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 206.892,
+            "t": 554.3796526,
+            "r": 405.1078895999996,
+            "b": 545.8277743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Figure 2: TradingGPT training and test workflow.",
+      "text": "Figure 2: TradingGPT training and test workflow."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 304.007,
+            "t": 543.4369438,
+            "r": 307.4939,
+            "b": 537.4506462230089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.641,
+            "t": 510.8066526,
+            "r": 540.0032393673999,
+            "b": 480.4367743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            350
+          ]
+        }
+      ],
+      "orig": "memory. These three memory classes constitute the initial structure within the Agents' Cognition Schema of our data warehouse in Figure. 1. In our trading system, agents make informed trading decisions relying on the outcomes of two distinct workflows: the single-agent workflow and the multi-agent workflow, as depicted on the left side of Figure 2.",
+      "text": "memory. These three memory classes constitute the initial structure within the Agents' Cognition Schema of our data warehouse in Figure. 1. In our trading system, agents make informed trading decisions relying on the outcomes of two distinct workflows: the single-agent workflow and the multi-agent workflow, as depicted on the left side of Figure 2."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.675,
+            "t": 472.6006526,
+            "r": 541.3831169519998,
+            "b": 322.23077439292035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1574
+          ]
+        }
+      ],
+      "orig": "In the single-agent workflow, when presented with a specific stock ticker, agents' LLM core generates evaluations and reflections, which encompass trading recommendations and the reasons behind them, based on the essential events retrieved from their layered memory. Subsequently, the agent can proceed to execute trading actions in accordance with these generated insights. The key features that empower our system are (a) Immediate reflection: Conducted daily, this mechanism allows agents to consolidate top-ranked events of each memory layer and market facts, such as daily stock prices and ARK fund trading records. Using LLM and specific prompts, agents generate five trading recommendations: 'significantly increase position', 'slightly increase position\", 'hold', 'slightly decrease position', and 'significantly decrease position', with its justification. Each option is associated with a predetermined trade value. which can be adjusted to suit the business scale represented by the agents. Additionally, this reflection captures the agent's trade volumes and returns. (b)Extended reflection: This provides a broader performance overview over a designated period, like a week. It includes stock prices, the agent's trading trends, and self-evaluation. The immediate reflection guides trade execution directly, while the extended reflection acts as a supplementary reference for recalling recent investment transactions. Both types of reflections are stored in the Agents' Cognition Schema's reflection index, as shown in Figure 1, distinguished by a specific flag.",
+      "text": "In the single-agent workflow, when presented with a specific stock ticker, agents' LLM core generates evaluations and reflections, which encompass trading recommendations and the reasons behind them, based on the essential events retrieved from their layered memory. Subsequently, the agent can proceed to execute trading actions in accordance with these generated insights. The key features that empower our system are (a) Immediate reflection: Conducted daily, this mechanism allows agents to consolidate top-ranked events of each memory layer and market facts, such as daily stock prices and ARK fund trading records. Using LLM and specific prompts, agents generate five trading recommendations: 'significantly increase position', 'slightly increase position\", 'hold', 'slightly decrease position', and 'significantly decrease position', with its justification. Each option is associated with a predetermined trade value. which can be adjusted to suit the business scale represented by the agents. Additionally, this reflection captures the agent's trade volumes and returns. (b)Extended reflection: This provides a broader performance overview over a designated period, like a week. It includes stock prices, the agent's trading trends, and self-evaluation. The immediate reflection guides trade execution directly, while the extended reflection acts as a supplementary reference for recalling recent investment transactions. Both types of reflections are stored in the Agents' Cognition Schema's reflection index, as shown in Figure 1, distinguished by a specific flag."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 306.851194,
+            "r": 307.2070234,
+            "b": 297.8948166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "4.1.3 Memory gained by interacting with other agents",
+      "text": "4.1.3 Memory gained by interacting with other agents",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 287.3506526,
+            "r": 540.0016131726001,
+            "b": 224.2527743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            619
+          ]
+        }
+      ],
+      "orig": "For stocks that appear in multiple agents' trading portfolios, TradingGPT enables inter-agent dialogue via a debate mechanism. This mechanism encourages collaboration between agents typically specializing in distinct sectors, with the goal of optimizing trading outcomes. Within these debates, agents present their top-K layered memories as well as immediate reflections, encompassing recommendations, trade values, volumes, and returns, inviting feedback from their peers. All feedback is subsequently stored in the debate class of the Agents' Cognition Schema, tagged with the receiver's index, as shown in Figure. 1.",
+      "text": "For stocks that appear in multiple agents' trading portfolios, TradingGPT enables inter-agent dialogue via a debate mechanism. This mechanism encourages collaboration between agents typically specializing in distinct sectors, with the goal of optimizing trading outcomes. Within these debates, agents present their top-K layered memories as well as immediate reflections, encompassing recommendations, trade values, volumes, and returns, inviting feedback from their peers. All feedback is subsequently stored in the debate class of the Agents' Cognition Schema, tagged with the receiver's index, as shown in Figure. 1."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 207.52919399999996,
+            "r": 273.2046696,
+            "b": 198.5728166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "4.2 Design of Training and Testing Workflows",
+      "text": "4.2 Design of Training and Testing Workflows",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.691,
+            "t": 186.68265259999998,
+            "r": 539.999949419999,
+            "b": 167.22177439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "The distinct design of our training and testing workflows is crucial for curating valuable past memory events and strategizing optimal future trading actions.",
+      "text": "The distinct design of our training and testing workflows is crucial for curating valuable past memory events and strategizing optimal future trading actions."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 151.84319400000004,
+            "r": 138.79923300000004,
+            "b": 142.88681659999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "4.2.1 Training",
+      "text": "4.2.1 Training",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.691,
+            "t": 132.34165259999997,
+            "r": 540.1652488776001,
+            "b": 91.06277439292035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            474
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 716.5226526,
+            "r": 540.0040938599992,
+            "b": 686.1527743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            475,
+            795
+          ]
+        }
+      ],
+      "orig": "The training process is twofold: a single-agent workflow followed by a multi-agent phase, as detailed in the left section of Fig. 2. In the single-agent phase, the LLM-driven agent is prompted with key data like stock ticker, date, and trader characters. Using this context, it evaluates top-K-ranked memories across each layer to derive preliminary investment signals, where K is a predefined hyperparameter. The LLM then synchronizes and analyzes these signals with market data, such as daily records from fund firms like ARK and stock closing prices, leading the agent to formulate an immediate reflection and trade accordingly. Subsequently, the agent collaborates in the multi-agent phase, joining debates with agents trading the same stock from varied sectors on that day (refer to 4.1.3).",
+      "text": "The training process is twofold: a single-agent workflow followed by a multi-agent phase, as detailed in the left section of Fig. 2. In the single-agent phase, the LLM-driven agent is prompted with key data like stock ticker, date, and trader characters. Using this context, it evaluates top-K-ranked memories across each layer to derive preliminary investment signals, where K is a predefined hyperparameter. The LLM then synchronizes and analyzes these signals with market data, such as daily records from fund firms like ARK and stock closing prices, leading the agent to formulate an immediate reflection and trade accordingly. Subsequently, the agent collaborates in the multi-agent phase, joining debates with agents trading the same stock from varied sectors on that day (refer to 4.1.3)."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 86.446,
+            "t": 79.70041760000004,
+            "r": 456.3628687999999,
+            "b": 70.14038450973453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "1 Data entities without specific timestamps are extracted as per the date displayed at the top of the plots.",
+      "text": "1 Data entities without specific timestamps are extracted as per the date displayed at the top of the plots."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.509,
+            "t": 48.59765259999995,
+            "r": 308.4903,
+            "b": 40.04577439292029,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 671.980194,
+            "r": 119.23268660000004,
+            "b": 663.0238166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "4.2.2 Test",
+      "text": "4.2.2 Test",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.691,
+            "t": 652.9616526,
+            "r": 540.6648134919999,
+            "b": 578.9547743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            734
+          ]
+        }
+      ],
+      "orig": "The testing process, illustrated in the right section of Figure. 2, blends single-agent and multi-agent operations. Both individually processed memories and insights from inter-agent exchanges are concurrently inputted into the LLM to inform trading decisions. Key differences from the training phase include: (a) During testing, agents operate without the guidance of trading records from the representative fund firm, relying solely on daily stock prices as market facts. (b) Time series patterns of prior training reflections and debates, covering a week in our setup, act as auxiliary references in the absence of substantial market ground truths, as noted in (a). Other aspects of the test workflow align with the training phase.",
+      "text": "The testing process, illustrated in the right section of Figure. 2, blends single-agent and multi-agent operations. Both individually processed memories and insights from inter-agent exchanges are concurrently inputted into the LLM to inform trading decisions. Key differences from the training phase include: (a) During testing, agents operate without the guidance of trading records from the representative fund firm, relying solely on daily stock prices as market facts. (b) Time series patterns of prior training reflections and debates, covering a week in our setup, act as auxiliary references in the absence of substantial market ground truths, as noted in (a). Other aspects of the test workflow align with the training phase."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 173.951,
+            "t": 309.94565259999996,
+            "r": 438.0495633999997,
+            "b": 301.3937743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Figure 3: Prompt template for key steps of TradingGPT workflow.",
+      "text": "Figure 3: Prompt template for key steps of TradingGPT workflow."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 275.72408799999994,
+            "r": 254.7471872000001,
+            "b": 264.9763631999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "5 Current Stage And Future work",
+      "text": "5 Current Stage And Future work",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.691,
+            "t": 250.84665259999997,
+            "r": 541.6535218428005,
+            "b": 220.47677439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            346
+          ]
+        }
+      ],
+      "orig": "Our research consists of two phases: prompt design and ablation studies. We've crafted efficient LLM prompts using GPT3.5 turbo as the backbone. Examples of prompts that encapsulate the necessary insights for each phase of the TradingGPT training and testing workflow. The specific design of these prompts is illustrated by examples in Figure. 3.",
+      "text": "Our research consists of two phases: prompt design and ablation studies. We've crafted efficient LLM prompts using GPT3.5 turbo as the backbone. Examples of prompts that encapsulate the necessary insights for each phase of the TradingGPT training and testing workflow. The specific design of these prompts is illustrated by examples in Figure. 3."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.532,
+            "t": 212.64065260000007,
+            "r": 540.0040938599991,
+            "b": 160.45177439292036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            583
+          ]
+        }
+      ],
+      "orig": "With our established prompt template, we're poised to undertake ablation studies to assess the trading efficacy of agent systems based on various backbone models. This will involve comparisons within LLMs, such as GPT3.5 turbo versus CodeLlama 34B, and against models like multi-agent reinforcement learning. The training phase will utilize data spanning from August 15, 2020, to February 15, 2023, while the testing phase will extend until August 15, 2023. We'll assess performance using financial metrics like cumulative trade returns, volatility, and the Sharpe Ratio (see 4.1.2).",
+      "text": "With our established prompt template, we're poised to undertake ablation studies to assess the trading efficacy of agent systems based on various backbone models. This will involve comparisons within LLMs, such as GPT3.5 turbo versus CodeLlama 34B, and against models like multi-agent reinforcement learning. The training phase will utilize data spanning from August 15, 2020, to February 15, 2023, while the testing phase will extend until August 15, 2023. We'll assess performance using financial metrics like cumulative trade returns, volatility, and the Sharpe Ratio (see 4.1.2)."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 152.61565259999998,
+            "r": 541.7417705519991,
+            "b": 78.6087743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            744
+          ]
+        }
+      ],
+      "orig": "Harnessing an innovative multi-layer memory system and character design, our main goal is to establish a state-of-the-art LLM-based multi-agent automated trading system adaptable to various LLMs as its core. This system aspires to achieve superior trading performance over other leading trading agent systems by emulating human traders' cognitive behaviors and ensuring responsiveness in the constantly changing market scenario. We also posit that this LLM-based multi-agent design can improve working efficiency and collaborative performance in artificial systems across diverse sectors. Potential applications range from character development in video games to the creation of robo-consultants in business, healthcare, and technology domains.",
+      "text": "Harnessing an innovative multi-layer memory system and character design, our main goal is to establish a state-of-the-art LLM-based multi-agent automated trading system adaptable to various LLMs as its core. This system aspires to achieve superior trading performance over other leading trading agent systems by emulating human traders' cognitive behaviors and ensuring responsiveness in the constantly changing market scenario. We also posit that this LLM-based multi-agent design can improve working efficiency and collaborative performance in artificial systems across diverse sectors. Potential applications range from character development in video games to the creation of robo-consultants in business, healthcare, and technology domains."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 303.509,
+            "t": 48.59765259999995,
+            "r": 308.4903,
+            "b": 40.04577439292029,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 718.2860880000001,
+            "r": 127.5438592,
+            "b": 707.5383632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 76.981,
+            "t": 693.4096526,
+            "r": 541.3864118879994,
+            "b": 673.9487743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "[1] Richard C Atkinson and Richard M Shiffrin. 'Human memory: A proposed system and its control processes'. In: Psychology of learning and motivation . Vol. 2. Elsevier, 1968, pp. 89-195.",
+      "text": "Richard C Atkinson and Richard M Shiffrin. 'Human memory: A proposed system and its control processes'. In: Psychology of learning and motivation . Vol. 2. Elsevier, 1968, pp. 89-195.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 76.981,
+            "t": 669.7779794,
+            "r": 540.0006651251999,
+            "b": 650.1377743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[2] Jacob Devlin et al. 'Bert: Pre-training of deep bidirectional transformers for language understanding'. In: arXiv preprint arXiv:1810.04805 (2018).",
+      "text": "Jacob Devlin et al. 'Bert: Pre-training of deep bidirectional transformers for language understanding'. In: arXiv preprint arXiv:1810.04805 (2018).",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 76.981,
+            "t": 645.9679794,
+            "r": 540.000159256,
+            "b": 626.3277743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "[3] Yilun Du et al. 'Improving Factuality and Reasoning in Language Models through Multiagent Debate'. In: arXiv preprint arXiv:2305.14325 (2023).",
+      "text": "Yilun Du et al. 'Improving Factuality and Reasoning in Language Models through Multiagent Debate'. In: arXiv preprint arXiv:2305.14325 (2023).",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 76.981,
+            "t": 621.9776525999999,
+            "r": 541.6573946079991,
+            "b": 602.5167743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "[4] Yoav Goldberg and Omer Levy. 'word2vec Explained: deriving Mikolov et al.'s negative-sampling wordembedding method'. In: arXiv preprint arXiv:1402.3722 (2014).",
+      "text": "Yoav Goldberg and Omer Levy. 'word2vec Explained: deriving Mikolov et al.'s negative-sampling wordembedding method'. In: arXiv preprint arXiv:1402.3722 (2014).",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 76.981,
+            "t": 598.1666526,
+            "r": 541.6500222839995,
+            "b": 578.7057743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "[5] Zhenhan Huang and Fumihide Tanaka. 'MSPM: A modularized and scalable multi-agent reinforcement learningbased system for financial portfolio management'. In: Plos one 17.2 (2022), e0263689.",
+      "text": "Zhenhan Huang and Fumihide Tanaka. 'MSPM: A modularized and scalable multi-agent reinforcement learningbased system for financial portfolio management'. In: Plos one 17.2 (2022), e0263689.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 76.98100000000005,
+            "t": 574.5359794,
+            "r": 541.6560792320003,
+            "b": 554.8947743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "[6] Jeff Johnson, Matthijs Douze, and Hervé Jégou. 'Billion-scale similarity search with GPUs'. In: IEEE Transactions on Big Data 7.3 (2019), pp. 535-547.",
+      "text": "Jeff Johnson, Matthijs Douze, and Hervé Jégou. 'Billion-scale similarity search with GPUs'. In: IEEE Transactions on Big Data 7.3 (2019), pp. 535-547.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 76.98100000000001,
+            "t": 550.7249793999999,
+            "r": 541.6499389578,
+            "b": 531.0847743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "[7] Yang Liu et al. 'Adaptive quantitative trading: An imitative deep reinforcement learning approach'. In: Proceedings of the AAAI conference on artificial intelligence . Vol. 34. 02. 2020, pp. 2128-2135.",
+      "text": "Yang Liu et al. 'Adaptive quantitative trading: An imitative deep reinforcement learning approach'. In: Proceedings of the AAAI conference on artificial intelligence . Vol. 34. 02. 2020, pp. 2128-2135.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 76.98099999999997,
+            "t": 526.9139794,
+            "r": 540.4980682500002,
+            "b": 507.2737743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "[8] Jaap MJ Murre and Joeri Dros. 'Replication and analysis of Ebbinghaus' forgetting curve'. In: PloS one 10.7 (2015), e0120644.",
+      "text": "Jaap MJ Murre and Joeri Dros. 'Replication and analysis of Ebbinghaus' forgetting curve'. In: PloS one 10.7 (2015), e0120644.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 76.981,
+            "t": 503.1029794,
+            "r": 383.79765000000003,
+            "b": 494.2263028,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "[9] OpenAI. GPT-4 Technical Report . 2023. arXiv: 2303.08774 [cs.CL] .",
+      "text": "OpenAI. GPT-4 Technical Report . 2023. arXiv: 2303.08774 [cs.CL] .",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 490.20197939999997,
+            "r": 539.9998227239998,
+            "b": 470.5617743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "[10] Joon Sung Park et al. 'Generative agents: Interactive simulacra of human behavior'. In: arXiv preprint arXiv:2304.03442 (2023).",
+      "text": "Joon Sung Park et al. 'Generative agents: Interactive simulacra of human behavior'. In: arXiv preprint arXiv:2304.03442 (2023).",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 466.2116526,
+            "r": 541.7476557639994,
+            "b": 435.84177439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "[11] Jeffrey Pennington, Richard Socher, and Christopher D Manning. 'Glove: Global vectors for word representation'. In: Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) . 2014, pp. 1532-1543.",
+      "text": "Jeffrey Pennington, Richard Socher, and Christopher D Manning. 'Glove: Global vectors for word representation'. In: Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) . 2014, pp. 1532-1543.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 431.4916526,
+            "r": 478.1652393999996,
+            "b": 422.93977439292036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "[12] Alec Radford et al. 'Improving language understanding by generative pre-training'. In: (2018).",
+      "text": "Alec Radford et al. 'Improving language understanding by generative pre-training'. In: (2018).",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 418.5906526,
+            "r": 540.1647978759999,
+            "b": 399.12977439292035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        }
+      ],
+      "orig": "[13] Mark Riedl and Vadim Bulitko. 'Interactive narrative: A novel application of artificial intelligence for computer games'. In: Proceedings of the AAAI Conference on Artificial Intelligence . Vol. 26. 1. 2012, pp. 2160-2165.",
+      "text": "Mark Riedl and Vadim Bulitko. 'Interactive narrative: A novel application of artificial intelligence for computer games'. In: Proceedings of the AAAI Conference on Artificial Intelligence . Vol. 26. 1. 2012, pp. 2160-2165.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 394.7796526,
+            "r": 540.0010127319991,
+            "b": 375.3187743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "[14] Wonsup Shin, Seok-Jun Bu, and Sung-Bae Cho. 'Automatic financial trading agent for low-risk portfolio management using deep reinforcement learning'. In: arXiv preprint arXiv:1909.03278 (2019).",
+      "text": "Wonsup Shin, Seok-Jun Bu, and Sung-Bae Cho. 'Automatic financial trading agent for low-risk portfolio management using deep reinforcement learning'. In: arXiv preprint arXiv:1909.03278 (2019).",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 371.1479794,
+            "r": 539.9967653439998,
+            "b": 351.50777439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "[15] Hugo Touvron et al. 'Llama: Open and efficient foundation language models'. In: arXiv preprint arXiv:2302.13971 (2023).",
+      "text": "Hugo Touvron et al. 'Llama: Open and efficient foundation language models'. In: arXiv preprint arXiv:2302.13971 (2023).",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 347.3379794,
+            "r": 539.9952097559996,
+            "b": 327.69777439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "[16] Shijie Wu et al. 'Bloomberggpt: A large language model for finance'. In: arXiv preprint arXiv:2303.17564 (2023).",
+      "text": "Shijie Wu et al. 'Bloomberggpt: A large language model for finance'. In: arXiv preprint arXiv:2303.17564 (2023).",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.0,
+            "t": 323.3476526,
+            "r": 539.9950949476001,
+            "b": 303.8867743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "[17] Hongyang Yang, Xiao-Yang Liu, and Christina Dan Wang. 'FinGPT: Open-Source Financial Large Language Models'. In: arXiv preprint arXiv:2306.06031 (2023).",
+      "text": "Hongyang Yang, Xiao-Yang Liu, and Christina Dan Wang. 'FinGPT: Open-Source Financial Large Language Models'. In: arXiv preprint arXiv:2306.06031 (2023).",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 303.38500000000005,
+            "t": 48.59765259999995,
+            "r": 308.3663,
+            "b": 40.04577439292029,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 132.06715393066406,
+            "t": 555.3788299560547,
+            "r": 479.9394226074219,
+            "b": 346.0010681152344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.86331176757812,
+            "t": 721.050163269043,
+            "r": 547.9335327148438,
+            "b": 563.1802978515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/62"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 206.06179809570312,
+            "t": 568.3686218261719,
+            "r": 404.5683898925781,
+            "b": 318.489501953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/62"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    }
+  }
+}

@@ -1,0 +1,5519 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1212.2358_hidden_markov_model_for_the_detection_of_a_degrade",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4824860317385249465,
+    "filename": "1212.2358_hidden_markov_model_for_the_detection_of_a_degrade.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/texts/121"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/texts/141"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/texts/143"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/texts/146"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/texts/150"
+      },
+      {
+        "$ref": "#/texts/151"
+      },
+      {
+        "$ref": "#/groups/12"
+      },
+      {
+        "$ref": "#/texts/159"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/59"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/63"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_1_0_0",
+      "label": "unspecified"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        },
+        {
+          "$ref": "#/texts/154"
+        },
+        {
+          "$ref": "#/texts/155"
+        },
+        {
+          "$ref": "#/texts/156"
+        },
+        {
+          "$ref": "#/texts/157"
+        },
+        {
+          "$ref": "#/texts/158"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 576.959990234375,
+            "r": 36.206559297218156,
+            "b": 226.999990234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "arXiv:1212.2358v1  [stat.AP]  11 Dec 2012",
+      "text": "arXiv:1212.2358v1  [stat.AP]  11 Dec 2012"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 120.755,
+            "t": 702.971400834375,
+            "r": 503.50154511999983,
+            "b": 665.852202634375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "Hidden Markov Model for the detection of a degraded operating mode of optronic equipment",
+      "text": "Hidden Markov Model for the detection of a degraded operating mode of optronic equipment",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 174.191,
+            "t": 648.541123034375,
+            "r": 450.07039072000015,
+            "b": 610.0896814343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Camille Baysse, Anne Gégout-Petit, Jérôme Saracco Université de Bordeaux, IMB CNRS UMR 5251 and INRIA Bordeaux Sud Ouest team CQFD, France",
+      "text": "Camille Baysse, Anne Gégout-Petit, Jérôme Saracco Université de Bordeaux, IMB CNRS UMR 5251 and INRIA Bordeaux Sud Ouest team CQFD, France"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 231.919,
+            "t": 600.847123034375,
+            "r": 392.33985120000006,
+            "b": 576.342681434375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Didier Bihannic, Michel Prenat Thales Optronique",
+      "text": "Didier Bihannic, Michel Prenat Thales Optronique"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 264.992,
+            "t": 563.5241230343751,
+            "r": 359.27429376000003,
+            "b": 552.967681434375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "September 7, 2021",
+      "text": "September 7, 2021"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 291.841,
+            "t": 527.464806234375,
+            "r": 332.4193398400001,
+            "b": 519.538508634375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.11900000000003,
+            "t": 513.690839834375,
+            "r": 500.14479775999945,
+            "b": 352.348508634375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1291
+          ]
+        }
+      ],
+      "orig": "As part of optimizing the reliability, Thales Optronics now includes systems that examine the state of its equipment. The aim of this paper is to use hidden Markov Model to detect as soon as possible a change of state of optronic equipment in order to propose maintenance before failure. For this, we carefully observe the dynamic of a variable called \"cool down time\" and noted Tmf, which reflects the state of the cooling system. Indeed, the Tmf is an indirect observation of the hidden state of the system. This one is modelled by a Markov chain and the Tmf is a noisy function of it. Thanks to filtering equations, we obtain results on the probability that an appliance is in degraded state at time t , knowing the history of the Tmf until this moment. We have evaluated the numerical behavior of our approach on simulated data. Then we have applied this methodology on our real data and we have checked that the results are consistent with the reality. This method can be implemented in a HUMS (Health and Usage Monitoring System). This simple example of HUMS would allow the Thales Optronics Company to improve its maintenance system. This company will be able to recall appliances which are estimated to be in degraded state and do not control to soon those estimated in stable state.",
+      "text": "As part of optimizing the reliability, Thales Optronics now includes systems that examine the state of its equipment. The aim of this paper is to use hidden Markov Model to detect as soon as possible a change of state of optronic equipment in order to propose maintenance before failure. For this, we carefully observe the dynamic of a variable called \"cool down time\" and noted Tmf, which reflects the state of the cooling system. Indeed, the Tmf is an indirect observation of the hidden state of the system. This one is modelled by a Markov chain and the Tmf is a noisy function of it. Thanks to filtering equations, we obtain results on the probability that an appliance is in degraded state at time t , knowing the history of the Tmf until this moment. We have evaluated the numerical behavior of our approach on simulated data. Then we have applied this methodology on our real data and we have checked that the results are consistent with the reality. This method can be implemented in a HUMS (Health and Usage Monitoring System). This simple example of HUMS would allow the Thales Optronics Company to improve its maintenance system. This company will be able to recall appliances which are estimated to be in degraded state and do not control to soon those estimated in stable state."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 99.21300000000002,
+            "t": 331.363868234375,
+            "r": 209.5869243200001,
+            "b": 318.681827434375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 99.21300000000002,
+            "t": 306.51122163437503,
+            "r": 525.0474005800004,
+            "b": 249.89324583437497,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            467
+          ]
+        }
+      ],
+      "orig": "Thales Optronics aims to optimize the ratio availability - cost. The company wants to reduce the failure rate of these appliances by the evolution of its maintenance concept which passes from a logic of repair to a logic of anticipation of these defects. As part of optimizing the reliability, Thales Optronics now includes systems that examine the state of its equipment. This function is performed by HUMS (Health and Usage Monitoring System). The role of HUMS is :",
+      "text": "Thales Optronics aims to optimize the ratio availability - cost. The company wants to reduce the failure rate of these appliances by the evolution of its maintenance concept which passes from a logic of repair to a logic of anticipation of these defects. As part of optimizing the reliability, Thales Optronics now includes systems that examine the state of its equipment. This function is performed by HUMS (Health and Usage Monitoring System). The role of HUMS is :"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.39100000000002,
+            "t": 240.2472216343749,
+            "r": 375.53240258000005,
+            "b": 231.45024583437498,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "1. to record environmental conditions and use of equipment,",
+      "text": "to record environmental conditions and use of equipment,",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.39100000000002,
+            "t": 221.06222163437496,
+            "r": 277.83615820000006,
+            "b": 212.26524583437504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "2. to evaluate the state of the system,",
+      "text": "to evaluate the state of the system,",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.39100000000002,
+            "t": 201.878221634375,
+            "r": 364.2138927200002,
+            "b": 193.08124583437495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "3. to anticipate and alert about the excesses of operation,",
+      "text": "to anticipate and alert about the excesses of operation,",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.39100000000002,
+            "t": 182.69422163437503,
+            "r": 282.45780834000004,
+            "b": 173.89724583437498,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "4. to optimize maintenance operations.",
+      "text": "to optimize maintenance operations.",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 99.21300000000002,
+            "t": 164.25122163437493,
+            "r": 525.0503893600002,
+            "b": 71.76824583437497,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            735
+          ]
+        }
+      ],
+      "orig": "Our approach comes within a specific context. In this paper, we focus on point 2. We have at our disposal a variable that reflects the state of the system and we want to detect a change in mode of this variable (which is a change of slope in our case). There exist different methods for this kind of detection as the CUSUM, presented for instance by Basseville & al in [5]. But in this paper we focus on hidden Markov chains to detect this change of mode. The state of our system at time t is then modeled by a Markov chain X t . In our case we do not observe directly this chain but indirectly through the Tmf variable, a noisy function of this chain. We will see in this paper how we can address this issue by using filtering theory.",
+      "text": "Our approach comes within a specific context. In this paper, we focus on point 2. We have at our disposal a variable that reflects the state of the system and we want to detect a change in mode of this variable (which is a change of slope in our case). There exist different methods for this kind of detection as the CUSUM, presented for instance by Basseville & al in [5]. But in this paper we focus on hidden Markov chains to detect this change of mode. The state of our system at time t is then modeled by a Markov chain X t . In our case we do not observe directly this chain but indirectly through the Tmf variable, a noisy function of this chain. We will see in this paper how we can address this issue by using filtering theory."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 309.64000000000004,
+            "t": 49.38422163437497,
+            "r": 314.62030374000005,
+            "b": 40.587245834374926,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.21299999999997,
+            "t": 739.812221634375,
+            "r": 525.05161426,
+            "b": 707.1052458343748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            237
+          ]
+        }
+      ],
+      "orig": "For this, we will first introduce the industrial problem in section 2 and the mathematical model in a general case in section 3 . Section 4 presents a simulation study and section 5 the implementation of the methodology on our real data.",
+      "text": "For this, we will first introduce the industrial problem in section 2 and the mathematical model in a general case in section 3 . Section 4 presents a simulation study and section 5 the implementation of the methodology on our real data."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.21299999999997,
+            "t": 686.0338682343748,
+            "r": 252.18079212000006,
+            "b": 673.3518274343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "2 Industrial problem",
+      "text": "2 Industrial problem",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.21299999999997,
+            "t": 661.1802216343749,
+            "r": 525.0493930999999,
+            "b": 568.6972458343746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            744
+          ]
+        }
+      ],
+      "orig": "Each of the appliances has a logbook which provides the following information at each start-up: number of uses, cumulative operating time of appliance, initial temperature and the 'cool down time' (Tmf for 'temps de mise en froid' in french). This Tmf is the transit time for the system from ambient temperature to a very low one. This temperature decrease is required to operate appliance and this is done on every boot. According to experts, a Tmf increase results from deterioration in the system. According to this hypothesis, a careful observation of Tmf evolution would allow us to determine the state of the system and prevent the breakdown. So we will look at the evolution of Tmf which seems to be a good indicator of the system state.",
+      "text": "Each of the appliances has a logbook which provides the following information at each start-up: number of uses, cumulative operating time of appliance, initial temperature and the 'cool down time' (Tmf for 'temps de mise en froid' in french). This Tmf is the transit time for the system from ambient temperature to a very low one. This temperature decrease is required to operate appliance and this is done on every boot. According to experts, a Tmf increase results from deterioration in the system. According to this hypothesis, a careful observation of Tmf evolution would allow us to determine the state of the system and prevent the breakdown. So we will look at the evolution of Tmf which seems to be a good indicator of the system state."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.15699999999997,
+            "t": 565.5392216343746,
+            "r": 349.02330248000015,
+            "b": 556.7422458343746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "We suppose that the system has three possible states:",
+      "text": "We suppose that the system has three possible states:"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.15699999999997,
+            "t": 545.7942216343746,
+            "r": 525.0439118000002,
+            "b": 525.0422458343745,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "· Stable state: Tmf is constant. This reflects a system in good working order. There is no anomaly to report.",
+      "text": "Stable state: Tmf is constant. This reflects a system in good working order. There is no anomaly to report.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.15699999999997,
+            "t": 514.0042216343746,
+            "r": 501.66467838000017,
+            "b": 505.2072458343746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "· Degraded state: the Tmf increases. This reflects a specific deterioration in the system.",
+      "text": "Degraded state: the Tmf increases. This reflects a specific deterioration in the system.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.15699999999997,
+            "t": 494.1692216343746,
+            "r": 258.41584426000003,
+            "b": 485.3722458343746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "· Failure: the system is stopped.",
+      "text": "Failure: the system is stopped.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.21299999999997,
+            "t": 474.42522163437457,
+            "r": 525.0513856200001,
+            "b": 429.76324583437463,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        }
+      ],
+      "orig": "Appliances move from stable state to degraded state, to reach failure. It is important to detect the beginning of a degradation to prevent as soon as possible occurrence of failure. As explained above, we would not observe directly the state of our system but indirectly through the Tmf. Our objectives are:",
+      "text": "Appliances move from stable state to degraded state, to reach failure. It is important to detect the beginning of a degradation to prevent as soon as possible occurrence of failure. As explained above, we would not observe directly the state of our system but indirectly through the Tmf. Our objectives are:"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.15699999999997,
+            "t": 418.8152216343746,
+            "r": 525.0498893599995,
+            "b": 398.06324583437464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "· to estimate at every moment the state of the system by the evaluation of the probability of being in degraded state knowing the history of Tmf until this moment,",
+      "text": "to estimate at every moment the state of the system by the evaluation of the probability of being in degraded state knowing the history of Tmf until this moment,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.15699999999997,
+            "t": 387.02522163437465,
+            "r": 525.0439118000002,
+            "b": 366.2732458343747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "· to detect as soon as possible the degradation of the system for a maintenance action before failure.",
+      "text": "to detect as soon as possible the degradation of the system for a maintenance action before failure.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.15699999999997,
+            "t": 355.32522163437466,
+            "r": 344.62082953999993,
+            "b": 346.5282458343747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "To solve this problem, we use hidden Markov chains.",
+      "text": "To solve this problem, we use hidden Markov chains."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.21299999999997,
+            "t": 325.4568682343747,
+            "r": 278.29517997999994,
+            "b": 312.77482743437463,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "3 Hidden Markov model",
+      "text": "3 Hidden Markov model",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.21299999999997,
+            "t": 300.60422163437465,
+            "r": 525.0513856200002,
+            "b": 196.16524583437467,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            827
+          ]
+        }
+      ],
+      "orig": "In this section, we provide a general mathematical framework to tackle our problem. We have to detect a rupture in the behavior of the variable Tmf. There exist different methods for this kind of detection (see for instance Basseville and Nikiforov [5]). We choose to use Hidden Markov Model (HMM). HMM are frequently used to detect point mutations in DNA in genomics (see for instance Fridlyand [3]) or in speech recognition (see Rabiner [4]). In the domain of reliability, HMM are also used in a context of high frequencies data (see Wang [6]). In our context, the size of our data is not large (28 appliances, maximum 400 recordings in a logbook). But in the following, we will see that this tool is also powerful in our context. We first present the model in a general case and the estimation of the parameters of interest.",
+      "text": "In this section, we provide a general mathematical framework to tackle our problem. We have to detect a rupture in the behavior of the variable Tmf. There exist different methods for this kind of detection (see for instance Basseville and Nikiforov [5]). We choose to use Hidden Markov Model (HMM). HMM are frequently used to detect point mutations in DNA in genomics (see for instance Fridlyand [3]) or in speech recognition (see Rabiner [4]). In the domain of reliability, HMM are also used in a context of high frequencies data (see Wang [6]). In our context, the size of our data is not large (28 appliances, maximum 400 recordings in a logbook). But in the following, we will see that this tool is also powerful in our context. We first present the model in a general case and the estimation of the parameters of interest."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.21299999999997,
+            "t": 178.50107823437463,
+            "r": 184.961672,
+            "b": 167.93268143437467,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "3.1 Modeling",
+      "text": "3.1 Modeling",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.21299999999997,
+            "t": 158.73818423437456,
+            "r": 200.52267940000002,
+            "b": 149.93124583437464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "3.1.1 Main process",
+      "text": "3.1.1 Main process",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.21299999999985,
+            "t": 140.34022163437464,
+            "r": 525.0476140200001,
+            "b": 94.78451696693946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            397
+          ]
+        }
+      ],
+      "orig": "Consider ( X t ) t> 0 a Markov chain in continuous time, defined on a probability space ( Ω , F , P ) with discrete state space S= { e 1 , e 2 , . . . , e N } ∈ R N . So X t = ( X 1 t , . . . , X N t ) is a vector of R N . For convenience, we follow Elliott's assumptions [2] and we set e i = (0 , 0 , . . . , 1 , 0 , . . . , 0) so that ( e 1 , e 2 , . . . , e N ) is an orthonormal basis of R N .",
+      "text": "Consider ( X t ) t> 0 a Markov chain in continuous time, defined on a probability space ( Ω , F , P ) with discrete state space S= { e 1 , e 2 , . . . , e N } ∈ R N . So X t = ( X 1 t , . . . , X N t ) is a vector of R N . For convenience, we follow Elliott's assumptions [2] and we set e i = (0 , 0 , . . . , 1 , 0 , . . . , 0) so that ( e 1 , e 2 , . . . , e N ) is an orthonormal basis of R N ."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.21299999999985,
+            "t": 94.03409563437458,
+            "r": 525.04725704,
+            "b": 70.87451696693938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "Let us denote the probability p i t = P ( X t = e i ) for 0 ≤ i ≤ N and p t = ( p 1 t , . . . , p N t ) . The motion of the chain X t depends on A = ( a ij ) , the Q-matrix of the process (see C.Cocozza-Thivent",
+      "text": "Let us denote the probability p i t = P ( X t = e i ) for 0 ≤ i ≤ N and p t = ( p 1 t , . . . , p N t ) . The motion of the chain X t depends on A = ( a ij ) , the Q-matrix of the process (see C.Cocozza-Thivent"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 309.6399999999999,
+            "t": 49.383221634374536,
+            "r": 314.6203037399999,
+            "b": 40.58624583437461,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.213,
+            "t": 742.156095634375,
+            "r": 525.04675982,
+            "b": 718.1675169669397,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "[1] for definition). The vector p t is linked to matrix A by the Kolmogorov equation dp t dt = A and X t has the semimartingale representation:",
+      "text": "[1] for definition). The vector p t is linked to matrix A by the Kolmogorov equation dp t dt = A and X t has the semimartingale representation:"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 253.79700000000003,
+            "t": 709.162095634375,
+            "r": 525.0472215000001,
+            "b": 682.8925169669399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "X t = X 0 + ∫ t 0 AX r dr + V t (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.21300000000002,
+            "t": 673.858221634375,
+            "r": 192.11186914000004,
+            "b": 664.1685169669398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "with V t a martingale.",
+      "text": "with V t a martingale."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.21300000000002,
+            "t": 648.077184234375,
+            "r": 234.6924048800001,
+            "b": 639.2702458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "3.1.2 Observation process",
+      "text": "3.1.2 Observation process",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.21300000000002,
+            "t": 629.680221634375,
+            "r": 435.4739308399999,
+            "b": 619.9895169669398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "X t is not directly observed, but through the process Y t given by the formula:",
+      "text": "X t is not directly observed, but through the process Y t given by the formula:"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 263.389,
+            "t": 610.984095634375,
+            "r": 525.0472215,
+            "b": 584.7155169669398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Y t = ∫ t 0 c ( X r ) dr + W t (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.21299999999991,
+            "t": 575.681221634375,
+            "r": 121.34591215999991,
+            "b": 566.884245834375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "with:",
+      "text": "with:"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.15699999999991,
+            "t": 556.228221634375,
+            "r": 449.6186140199999,
+            "b": 546.5385169669398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "· ( W t ) t> 0 a standard Brownian motion on (Ω , F, P ) independent of ( X t ) t> 0 ,",
+      "text": "( W t ) t> 0 a standard Brownian motion on (Ω , F, P ) independent of ( X t ) t> 0 ,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.15699999999987,
+            "t": 538.053095634375,
+            "r": 495.09261401999987,
+            "b": 526.8495169669399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "· c ( X t ) = < X t ; c > where < ; > is the scalar product in R N and c = ( c 1 , . . . , c N ) ∈ R N .",
+      "text": "c ( X t ) = < X t ; c > where < ; > is the scalar product in R N and c = ( c 1 , . . . , c N ) ∈ R N .",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.21299999999985,
+            "t": 517.0862216343751,
+            "r": 525.0498910999999,
+            "b": 495.4415169669399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "So, in mean, the increase of the observed process Y t depends on the state of X t through c ( X t ) . A Brownian noise is added to the slope c ( X t ) .",
+      "text": "So, in mean, the increase of the observed process Y t depends on the state of X t through c ( X t ) . A Brownian noise is added to the slope c ( X t ) ."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.15699999999993,
+            "t": 493.1762216343751,
+            "r": 176.32760903999994,
+            "b": 484.3792458343751,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Let us denote:",
+      "text": "Let us denote:"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.15699999999993,
+            "t": 473.72322163437514,
+            "r": 467.71161402,
+            "b": 464.03351696693994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "· ( Y t ) t ≥ 0 the right-continuous complete filtration generated by σ ( Y s : 0 ≤ s ≤ t ) ,",
+      "text": "( Y t ) t ≥ 0 the right-continuous complete filtration generated by σ ( Y s : 0 ≤ s ≤ t ) ,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.15699999999998,
+            "t": 454.0342216343751,
+            "r": 483.9196140200001,
+            "b": 444.3445169669399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "· ( G t ) t> 0 the right-continuous complete filtration generated by σ ( X s , Y s : 0 ≤ s ≤ t ) .",
+      "text": "( G t ) t> 0 the right-continuous complete filtration generated by σ ( X s , Y s : 0 ≤ s ≤ t ) .",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.21300000000002,
+            "t": 434.58122163437514,
+            "r": 525.0487731799999,
+            "b": 400.01251696694004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            275
+          ]
+        }
+      ],
+      "orig": "Recall that our aim is to determine the probability of the system to be in a particular state knowing the trajectories of Y until t . The best L 2 -approximation of this quantity is given by the conditional probability ˆ p i t = P ( X t = e i |Y t ) for 0 ≤ i ≤ N . Note that",
+      "text": "Recall that our aim is to determine the probability of the system to be in a particular state knowing the trajectories of Y until t . The best L 2 -approximation of this quantity is given by the conditional probability ˆ p i t = P ( X t = e i |Y t ) for 0 ≤ i ≤ N . Note that"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 180.8350000000001,
+            "t": 391.35609563437527,
+            "r": 443.4256102800001,
+            "b": 378.1595169669401,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "P ( X t = e i |Y t ) = P ( X i t = 1 |Y t ) = E [ X i t |Y t ] = ( E [ X t |Y t ]) i .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.21300000000014,
+            "t": 368.01722163437523,
+            "r": 525.0487318200002,
+            "b": 347.26424583437523,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "So we have to compute the N -dimensional conditional expectation E [ X t |Y t ] . This is the aim of the next section.",
+      "text": "So we have to compute the N -dimensional conditional expectation E [ X t |Y t ] . This is the aim of the next section."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.21300000000014,
+            "t": 329.66307823437523,
+            "r": 402.4937091200001,
+            "b": 319.09468143437516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "3.2 Filtering equations and parameters estimation",
+      "text": "3.2 Filtering equations and parameters estimation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.21300000000002,
+            "t": 309.89022163437517,
+            "r": 525.05261422,
+            "b": 276.29051696694,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "First, we give filtering equations which provide conditional expectations of functions of X t , knowing the story of Y t . Then we will see how these equations allow us to estimate parameters A , c and the probability of being in a state e i given Y t .",
+      "text": "First, we give filtering equations which provide conditional expectations of functions of X t , knowing the story of Y t . Then we will see how these equations allow us to estimate parameters A , c and the probability of being in a state e i given Y t ."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.213,
+            "t": 260.19918423437525,
+            "r": 228.76963918000007,
+            "b": 251.39224583437522,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "3.2.1 Filtering equations",
+      "text": "3.2.1 Filtering equations",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.21299999999997,
+            "t": 241.80122163437522,
+            "r": 525.0487028599999,
+            "b": 209.09424583437522,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            271
+          ]
+        }
+      ],
+      "orig": "Elliott [2] gives unnormalized filtering equations of different fonctionnals of X t . To write these equations, let us denote σ ( F ( X s , s ≤ t )) = ¯ E [ ¯ ∧ t F ( X s , s ≤ t ) |Y t ] with ¯ P and ¯ ∧ t associated with the absolutely continuous probability of change:",
+      "text": "Elliott [2] gives unnormalized filtering equations of different fonctionnals of X t . To write these equations, let us denote σ ( F ( X s , s ≤ t )) = ¯ E [ ¯ ∧ t F ( X s , s ≤ t ) |Y t ] with ¯ P and ¯ ∧ t associated with the absolutely continuous probability of change:"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 176.709,
+            "t": 199.19509563437498,
+            "r": 449.94261027999994,
+            "b": 171.4249351729917,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "dP d ¯ P ∣ ∣ ∣ ∣ G t = ¯ ∧ t = exp (∫ t 0 < c ; X r > dY r -1 2 ∫ t 0 < c ; X r > 2 dr ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.21299999999991,
+            "t": 163.15544603437502,
+            "r": 525.04484872,
+            "b": 139.05151696693974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "This change of probability is a standard method in filtering because under ¯ P , Y t is independent of X t . Under ¯ P , the dynamic of unnormalized filter satisfies stochastic differential equation.",
+      "text": "This change of probability is a standard method in filtering because under ¯ P , Y t is independent of X t . Under ¯ P , the dynamic of unnormalized filter satisfies stochastic differential equation."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.1569999999999,
+            "t": 136.787221634375,
+            "r": 244.16893,
+            "b": 127.99024583437495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Filtering equations are about:",
+      "text": "Filtering equations are about:"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.1569999999999,
+            "t": 117.3342216343749,
+            "r": 209.50047451999987,
+            "b": 108.53724583437497,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "· state of the system:",
+      "text": "state of the system:",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 216.1469999999999,
+            "t": 98.63809563437496,
+            "r": 433.0196102800001,
+            "b": 72.36951696693984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "σ ( X t ) = σ ( X 0 ) + ∫ t 0 Aσ ( X r ) dr + ∫ t 0 Cσ ( X r ) dY r ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 309.6400000000001,
+            "t": 49.38422163437497,
+            "r": 314.6203037400001,
+            "b": 40.587245834374926,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.157,
+            "t": 742.499095634375,
+            "r": 421.6836140200001,
+            "b": 729.1645169669398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "· number of jumps from e i to e j in the time interval [0 , t ] denoted ς ij t :",
+      "text": "number of jumps from e i to e j in the time interval [0 , t ] denoted ς ij t :",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 157.7270000000001,
+            "t": 719.6130956343749,
+            "r": 491.4396102800002,
+            "b": 693.3435169669398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "σ ( ς ij t X t ) = ∫ t 0 < σ ( X r ); e i > a ji e i dr + ∫ t 0 Aσ ( ς ij r X r ) dr + ∫ t 0 Cσ ( ς ij r X r ) dY r ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.15700000000021,
+            "t": 679.879095634375,
+            "r": 367.8806140200002,
+            "b": 667.7065169669398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "· waiting time in state e i on the interval [0 , t ] denoted ϑ i t :",
+      "text": "waiting time in state e i on the interval [0 , t ] denoted ϑ i t :",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 166.0050000000002,
+            "t": 658.5250956343749,
+            "r": 483.16161028000033,
+            "b": 632.2555169669398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "σ ( ϑ i t X t ) = ∫ t 0 < σ ( X r ); e i > e i dr + ∫ t 0 Aσ ( ϑ i r X r ) dr + ∫ t 0 Cσ ( ϑ i r X r ) dY r ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.15700000000032,
+            "t": 619.1170956343749,
+            "r": 298.9706140200003,
+            "b": 603.9175169669397,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "· drift defined by T i t = ∫ t 0 < X r ; e i > dY r :",
+      "text": "drift defined by T i t = ∫ t 0 < X r ; e i > dY r :",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 124.11900000000028,
+            "t": 594.764095634375,
+            "r": 534.9046102800005,
+            "b": 568.4945169669397,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "σ ( T i t X t ) = c i ∫ t 0 σ ( < X r , e i > e i ) dr + ∫ t 0 Aσ ( T i t X r ) dr + ∫ t 0 [ < σ ( X r ); e i > e i + Cσ ( T i r X r ) ] dY r .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.21300000000048,
+            "t": 555.0300956343751,
+            "r": 525.0437455400006,
+            "b": 532.7642458343751,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "These equations about ς ij , ϑ i , T i are useful for the estimation of A and c when Y t is observed in a long time.",
+      "text": "These equations about ς ij , ϑ i , T i are useful for the estimation of A and c when Y t is observed in a long time."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.21300000000048,
+            "t": 515.6781842343751,
+            "r": 188.72696100000053,
+            "b": 506.8712458343751,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "3.2.2 Estimation",
+      "text": "3.2.2 Estimation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.21300000000048,
+            "t": 497.2812216343751,
+            "r": 391.7910539200006,
+            "b": 488.4842458343751,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Maximum likelihood estimation of A and c leads to the estimators:",
+      "text": "Maximum likelihood estimation of A and c leads to the estimators:"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 234.33300000000048,
+            "t": 479.60609563437504,
+            "r": 525.0472215,
+            "b": 452.5825169669398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "ˆ a ij ( t ) = σ ( ς ij t ) σ ( ϑ i t ) and ˆ c i ( t ) = σ ( T i t ) σ ( ϑ i t ) . (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.2129999999999,
+            "t": 442.31022163437495,
+            "r": 525.0495922200001,
+            "b": 408.7095169669398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "These estimators converge with t according to R.J. Elliott [2]. Using filtering equations and the estimators of A and c , it is possible to compute the estimated probability of the system to be in state e i thanks to the following formula:",
+      "text": "These estimators converge with t according to R.J. Elliott [2]. Using filtering equations and the estimators of A and c , it is possible to compute the estimated probability of the system to be in state e i thanks to the following formula:"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 269.37799999999993,
+            "t": 397.972446034375,
+            "r": 525.0472215000001,
+            "b": 375.69188011160844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "E [ X t |Y t ] = σ ( X t ) σ (1) . (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.21300000000002,
+            "t": 363.67709563437495,
+            "r": 307.75861402000004,
+            "b": 349.3155169669398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Indeed, P ( X t = e i |Y t ) = ( E [ X t |Y t ]) i = ( σ ( X t ) σ (1) ) i .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.21300000000025,
+            "t": 348.0560956343751,
+            "r": 525.0506709200002,
+            "b": 299.81351696694014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            428
+          ]
+        }
+      ],
+      "orig": "Note that filtering equations don't give directly σ ( ς ij t ) , σ ( T i t ) , σ ( ϑ i t ) and σ (1) but σ ( ς ij t X t ) , σ ( T i t X t ) , σ ( ϑ i t X t ) and σ ( X t ) . To pass from one to another, we just have to multiply these elements by vector (1 , 1 , .., 1) T to obtain σ ( ς ij t ) , σ ( T i t ) , σ ( ϑ i t ) and σ (1) . Indeed, thanks to assumptions on X t ∈ ( e 1 , . . . , e N ) , 〈 X t ; (1 , 1 , .., 1) 〉 = 1 .",
+      "text": "Note that filtering equations don't give directly σ ( ς ij t ) , σ ( T i t ) , σ ( ϑ i t ) and σ (1) but σ ( ς ij t X t ) , σ ( T i t X t ) , σ ( ϑ i t X t ) and σ ( X t ) . To pass from one to another, we just have to multiply these elements by vector (1 , 1 , .., 1) T to obtain σ ( ς ij t ) , σ ( T i t ) , σ ( ϑ i t ) and σ (1) . Indeed, thanks to assumptions on X t ∈ ( e 1 , . . . , e N ) , 〈 X t ; (1 , 1 , .., 1) 〉 = 1 ."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.15700000000021,
+            "t": 297.5482216343753,
+            "r": 351.1244148200003,
+            "b": 288.75124583437537,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Let us now illustrate this approach on simulated data.",
+      "text": "Let us now illustrate this approach on simulated data."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.2130000000002,
+            "t": 267.6408682343754,
+            "r": 240.41116964000025,
+            "b": 254.95882743437528,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "4 Simulation study",
+      "text": "4 Simulation study",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.2130000000002,
+            "t": 242.78722163437533,
+            "r": 525.0457421000003,
+            "b": 198.1252458343754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "In this section, the framework is the following. We assume that the process has two possible states: first X t = e 1 and second X t = e 2 with transitions from e 1 to e 2 and conversely. For instance, e 1 (respectively e 2 ) could correspond to the stable state (respectively the degraded state). So X t oscillates between these two states.",
+      "text": "In this section, the framework is the following. We assume that the process has two possible states: first X t = e 1 and second X t = e 2 with transitions from e 1 to e 2 and conversely. For instance, e 1 (respectively e 2 ) could correspond to the stable state (respectively the degraded state). So X t oscillates between these two states."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.2130000000003,
+            "t": 180.42207823437536,
+            "r": 430.89328672000033,
+            "b": 169.8536814343754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "4.1 Probability estimation of being in a degraded state",
+      "text": "4.1 Probability estimation of being in a degraded state",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 99.2130000000003,
+            "t": 160.6492216343753,
+            "r": 525.0504261000004,
+            "b": 80.12124583437526,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            681
+          ]
+        }
+      ],
+      "orig": "We first suppose that we know matrix A and vector c . The component a 12 of A is the parameter of the exponential distribution of the time in stable state (before degraded state) and a 21 is the parameter of the exponential distribution of the time in degraded state. Using these values, we can simulate X t . Then, using values of c and X t , we simulate Y t thanks to equation (2) and Euler scheme approximation to simulate stochastic differential equations. Now that our data are simulated and our parameters known we can compute the conditional probability that the system is in degraded state. For this, we use equation (4) for the computation of the conditional probabilities",
+      "text": "We first suppose that we know matrix A and vector c . The component a 12 of A is the parameter of the exponential distribution of the time in stable state (before degraded state) and a 21 is the parameter of the exponential distribution of the time in degraded state. Using these values, we can simulate X t . Then, using values of c and X t , we simulate Y t thanks to equation (2) and Euler scheme approximation to simulate stochastic differential equations. Now that our data are simulated and our parameters known we can compute the conditional probability that the system is in degraded state. For this, we use equation (4) for the computation of the conditional probabilities"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 309.64000000000044,
+            "t": 49.38422163437531,
+            "r": 314.62030374000045,
+            "b": 40.58724583437527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.21300000000001,
+            "t": 741.3270956343749,
+            "r": 525.0434097,
+            "b": 719.0602458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "ˆ p 2 t and ˆ p 1 t = 1 -ˆ p 2 t . This computation is made again by a recursive algorithm that uses the Euler scheme to approximate stochastic differential equations.",
+      "text": "ˆ p 2 t and ˆ p 1 t = 1 -ˆ p 2 t . This computation is made again by a recursive algorithm that uses the Euler scheme to approximate stochastic differential equations."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.21300000000002,
+            "t": 715.9022216343749,
+            "r": 525.0500726600001,
+            "b": 669.3785169669396,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            346
+          ]
+        }
+      ],
+      "orig": "An illustration of the good numerical behavior of the computational process is given in Figure 1. This figure zooms on a part of the trajectory of X 2 t and ˆ p 2 t = E [ X 2 t |Y t ] . We clearly observe that the filter correctly provides the evaluation of X 2 t that is close to 1 (respectively 0) when X 2 t = 1 (respectively when X 2 t = 0 ).",
+      "text": "An illustration of the good numerical behavior of the computational process is given in Figure 1. This figure zooms on a part of the trajectory of X 2 t and ˆ p 2 t = E [ X 2 t |Y t ] . We clearly observe that the filter correctly provides the evaluation of X 2 t that is close to 1 (respectively 0) when X 2 t = 1 (respectively when X 2 t = 0 )."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 129.493,
+            "t": 377.8764942343751,
+            "r": 494.7658595799999,
+            "b": 365.61351696693987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Figure 1: Evolution of X 2 t and estimation of conditional probability P ( X 2 t = 1 |Y t )",
+      "text": "Figure 1: Evolution of X 2 t and estimation of conditional probability P ( X 2 t = 1 |Y t )"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.21299999999985,
+            "t": 343.2942216343751,
+            "r": 525.0468746399998,
+            "b": 308.72551696694006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "Note that in this simulation study, we assume that parameters A and c are known. This is not the case in practice and these parameters must be estimated before estimating probability ˆ p 1 t and ˆ p 2 t .",
+      "text": "Note that in this simulation study, we assume that parameters A and c are known. This is not the case in practice and these parameters must be estimated before estimating probability ˆ p 1 t and ˆ p 2 t ."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.21299999999988,
+            "t": 293.6980782343752,
+            "r": 262.4971215999999,
+            "b": 283.12968143437524,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "4.2 Parameters estimation",
+      "text": "4.2 Parameters estimation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.21299999999988,
+            "t": 273.93518423437524,
+            "r": 315.4238132799999,
+            "b": 265.1282458343753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "4.2.1 Estimation of matrix A and vector c",
+      "text": "4.2.1 Estimation of matrix A and vector c",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.21299999999982,
+            "t": 255.53722163437521,
+            "r": 525.0432194399998,
+            "b": 234.78524583437525,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "With simulations of process X t in a long time, it is possible to use formula (3) to estimate parameters A and c .",
+      "text": "With simulations of process X t in a long time, it is possible to use formula (3) to estimate parameters A and c ."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.21299999999985,
+            "t": 231.62722163437525,
+            "r": 525.0511494199998,
+            "b": 175.00924583437518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            480
+          ]
+        }
+      ],
+      "orig": "We first suppose vector c known and we seek to estimate the matrix A from observations of Y t . However, one difficulty of this estimation step is the fact that σ ( ς ij t ) and σ ( θ i t ) are governed by A . So we developed an iterative algorithm to approximate A starting with an arbitrary A 0 , operating in the following way: at step k , we use ˆ A k -1 to compute ˆ A k via filtering equation (3). The convergence of this estimator has been proved by Zeitouni and Dembo [7].",
+      "text": "We first suppose vector c known and we seek to estimate the matrix A from observations of Y t . However, one difficulty of this estimation step is the fact that σ ( ς ij t ) and σ ( θ i t ) are governed by A . So we developed an iterative algorithm to approximate A starting with an arbitrary A 0 , operating in the following way: at step k , we use ˆ A k -1 to compute ˆ A k via filtering equation (3). The convergence of this estimator has been proved by Zeitouni and Dembo [7]."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.21299999999974,
+            "t": 171.85122163437518,
+            "r": 525.0469746399997,
+            "b": 126.29551696694,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            326
+          ]
+        }
+      ],
+      "orig": "Now we assume matrix A known and we seek to estimate vector c from observations of Y t . For this, we also use formula (3). Once again, σ ( T i t ) and σ ( θ i t ) are governed by c itself. So, by the same method as previously, we developed again an iterative algorithm to approximate c starting with an arbitrary vector c 0 .",
+      "text": "Now we assume matrix A known and we seek to estimate vector c from observations of Y t . For this, we also use formula (3). Once again, σ ( T i t ) and σ ( θ i t ) are governed by c itself. So, by the same method as previously, we developed again an iterative algorithm to approximate c starting with an arbitrary vector c 0 ."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.21299999999975,
+            "t": 110.91818423437519,
+            "r": 412.35381327999977,
+            "b": 101.21751696694002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "4.2.2 Sensitivity of filter P ( X t = e 2 |Y t ) to parameters A and c",
+      "text": "4.2.2 Sensitivity of filter P ( X t = e 2 |Y t ) to parameters A and c",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.21299999999974,
+            "t": 92.52022163437516,
+            "r": 525.0515042799997,
+            "b": 70.87451696693995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.21299999999997,
+            "t": 742.910494234375,
+            "r": 525.0430860800001,
+            "b": 709.2102458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            201,
+            344
+          ]
+        }
+      ],
+      "orig": "Since the values of A and c are unknown in practice, it seems important to study the impact of a poor estimation of A and c in calculation of probability P ( X t = e 2 |Y t ) . We simulate X t and Y t for given values of A and c : A = ( -0 . 1 0 . 1 0 . 05 -0 . 05 ) and c = ( -1; 1) . We then estimate probability of being in a degraded state.",
+      "text": "Since the values of A and c are unknown in practice, it seems important to study the impact of a poor estimation of A and c in calculation of probability P ( X t = e 2 |Y t ) . We simulate X t and Y t for given values of A and c : A = ( -0 . 1 0 . 1 0 . 05 -0 . 05 ) and c = ( -1; 1) . We then estimate probability of being in a degraded state."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 309.6399999999999,
+            "t": 49.38422163437508,
+            "r": 314.6203037399999,
+            "b": 40.58724583437515,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.15699999999997,
+            "t": 708.2094942343749,
+            "r": 525.04746986,
+            "b": 685.9838801116083,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "In a first step, we consider small deviations from the true matrix A : A 1 = ( -0 . 01 0 . 01 0 . 04 -0 . 04 )",
+      "text": "In a first step, we consider small deviations from the true matrix A : A 1 = ( -0 . 01 0 . 01 0 . 04 -0 . 04 )"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.21299999999992,
+            "t": 683.3024942343749,
+            "r": 525.0455531800002,
+            "b": 637.6462458343747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "and A 2 = ( -0 . 2 0 . 2 0 . 08 -0 . 08 ) . With these two matrices, we again compute probability of being in a degraded state. Figure 2 gives these estimations. We clearly observe that deviations do not severely impact on the probability of interest.",
+      "text": "and A 2 = ( -0 . 2 0 . 2 0 . 08 -0 . 08 ) . With these two matrices, we again compute probability of being in a degraded state. Figure 2 gives these estimations. We clearly observe that deviations do not severely impact on the probability of interest."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 120.673,
+            "t": 355.58122163437497,
+            "r": 503.59051230000017,
+            "b": 346.784245834375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "Figure 2: Evolution of probability of being in a degraded state for different matrices A",
+      "text": "Figure 2: Evolution of probability of being in a degraded state for different matrices A"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.21300000000002,
+            "t": 321.7082216343749,
+            "r": 525.04691028,
+            "b": 289.001245834375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            284
+          ]
+        }
+      ],
+      "orig": "In a second step, we estimate this probability with deviations from the true value c : c 1 = ( -0 . 5 , 0 . 5) , c 2 = ( -1 , 0 . 5) et c 3 = (0 , 1) . Figure 3 gives these corresponding estimations. Again we observe that deviations do not severely impact the probability of interest.",
+      "text": "In a second step, we estimate this probability with deviations from the true value c : c 1 = ( -0 . 5 , 0 . 5) , c 2 = ( -1 , 0 . 5) et c 3 = (0 , 1) . Figure 3 gives these corresponding estimations. Again we observe that deviations do not severely impact the probability of interest."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.213,
+            "t": 285.843221634375,
+            "r": 525.0474005799999,
+            "b": 228.33251696693992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            437
+          ]
+        }
+      ],
+      "orig": "In our real data study we do not estimate parameters A and c by the method given in section 4 . 2 . 1 , indeed the process is stopped at its first transition to a degraded state and we do not observe X t in long time with many transitions as in the simulation study. But from the previous simulations, we have noticed that a misspecification of these parameters does not seem to strongly impact on the filter value P ( X t = e 2 |Y t ) .",
+      "text": "In our real data study we do not estimate parameters A and c by the method given in section 4 . 2 . 1 , indeed the process is stopped at its first transition to a degraded state and we do not observe X t in long time with many transitions as in the simulation study. But from the previous simulations, we have noticed that a misspecification of these parameters does not seem to strongly impact on the filter value P ( X t = e 2 |Y t ) ."
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.21299999999991,
+            "t": 208.11486823437508,
+            "r": 327.34914163999986,
+            "b": 195.43282743437499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "5 Application to industrial case",
+      "text": "5 Application to industrial case",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.21299999999991,
+            "t": 182.654078234375,
+            "r": 158.45221151999988,
+            "b": 172.08568143437503,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "5.1 Data",
+      "text": "5.1 Data",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 99.21299999999988,
+            "t": 162.88122163437504,
+            "r": 525.0493931000001,
+            "b": 82.353245834375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            604
+          ]
+        }
+      ],
+      "orig": "We have logbooks of 28 appliances: five of them failed at the end of the study, due to a mechanical malfunction in the cooling system. For other appliances, the failures were not mechanical and are considered to be unpredictable (not related to a degradation effect and often due to an electronic failure). From the logbooks, we recover Tmf value and initial temperature at each startup of the system. The time unit of the model is the number of startups and we assume a common model for all appliances ( A and c are the same for all of them) and the motion of the 28 appliances are mutually independent.",
+      "text": "We have logbooks of 28 appliances: five of them failed at the end of the study, due to a mechanical malfunction in the cooling system. For other appliances, the failures were not mechanical and are considered to be unpredictable (not related to a degradation effect and often due to an electronic failure). From the logbooks, we recover Tmf value and initial temperature at each startup of the system. The time unit of the model is the number of startups and we assume a common model for all appliances ( A and c are the same for all of them) and the motion of the 28 appliances are mutually independent."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 309.6399999999999,
+            "t": 49.38422163437497,
+            "r": 314.6203037399999,
+            "b": 40.58724583437504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 125.238,
+            "t": 472.80522163437496,
+            "r": 499.0237931400001,
+            "b": 464.008245834375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Figure 3: Evolution of probability of being in a degraded state for different vectors c",
+      "text": "Figure 3: Evolution of probability of being in a degraded state for different vectors c"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.213,
+            "t": 432.4020782343749,
+            "r": 295.1013430399999,
+            "b": 421.83368143437497,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "5.2 Preliminary data processing",
+      "text": "5.2 Preliminary data processing",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.21299999999994,
+            "t": 412.63022163437495,
+            "r": 525.0513856200001,
+            "b": 307.2985169669398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            846
+          ]
+        }
+      ],
+      "orig": "The two variables, Tmf and initial temperature are linked together. Indeed, a high (resp. low) initial temperature increases (resp. decreases) the Tmf. So it was necessary to correct this crude Tmf by a standard linear regression according to initial temperature of appliance. We use this regression to bring the Tmf to a setting where initial temperature is constant and equals 10 ◦ C. This corrected Tmf is denoted by Tmf r in the following. In Figure 4, we provide the corrected Tmf evolution of one appliance. We can see a very noisy phenomenon. Down peaks may be the result of 'on/off/on' too brutal for appliance: the system is on, turned off and back on instantly so that initial temperature remains low. To soften this phenomenon, we decide to smooth the corrected Tmf ( Tmf r ). For this, we compute a moving average of Tmf r as follows:",
+      "text": "The two variables, Tmf and initial temperature are linked together. Indeed, a high (resp. low) initial temperature increases (resp. decreases) the Tmf. So it was necessary to correct this crude Tmf by a standard linear regression according to initial temperature of appliance. We use this regression to bring the Tmf to a setting where initial temperature is constant and equals 10 ◦ C. This corrected Tmf is denoted by Tmf r in the following. In Figure 4, we provide the corrected Tmf evolution of one appliance. We can see a very noisy phenomenon. Down peaks may be the result of 'on/off/on' too brutal for appliance: the system is on, turned off and back on instantly so that initial temperature remains low. To soften this phenomenon, we decide to smooth the corrected Tmf ( Tmf r ). For this, we compute a moving average of Tmf r as follows:"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 246.22699999999992,
+            "t": 296.824095634375,
+            "r": 378.03361028,
+            "b": 270.0858801116085,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Tmf l ( j ) = ∑ 20+ j -1 i = j Tmf r ( i ) 20 ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.21299999999997,
+            "t": 260.949095634375,
+            "r": 525.0502102800002,
+            "b": 190.86124583437504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            598
+          ]
+        }
+      ],
+      "orig": "where Tmf r ( i ) is the value of corrected Tmf at the i th startup. Let us denote by Tmf l the smoothing correcting Tmf value. In our modeling, we set Y t = Tmf l ( t ) . A theoretical interest of this smoothing step is that the filtering method works well with a not too noisy signal. Note that the Tmf l starts at the 20 th startup because it is necessary to have 20 Tmf r to compute Tmf l . In practice it is necessary to wait 20 startups before the first computation of the probability of being in a degraded state. In Figure 4, we plot the evolution of smooth corrected Tmf of this appliance.",
+      "text": "where Tmf r ( i ) is the value of corrected Tmf at the i th startup. Let us denote by Tmf l the smoothing correcting Tmf value. In our modeling, we set Y t = Tmf l ( t ) . A theoretical interest of this smoothing step is that the filtering method works well with a not too noisy signal. Note that the Tmf l starts at the 20 th startup because it is necessary to have 20 Tmf r to compute Tmf l . In practice it is necessary to wait 20 startups before the first computation of the probability of being in a degraded state. In Figure 4, we plot the evolution of smooth corrected Tmf of this appliance."
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.21300000000008,
+            "t": 187.70322163437493,
+            "r": 525.0507546400003,
+            "b": 143.04124583437488,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            382
+          ]
+        }
+      ],
+      "orig": "We can notice on the bottom graph of Figure 4 that Tmf l remains constant for a while and then gradually increases. This change in slope was not obvious in the top graph of Figure 4. This is another interest of the smoothing step. Now, from these Tmf l values, we are able to calculate probability of being in degraded state. For this, we first need to estimate parameters A and c .",
+      "text": "We can notice on the bottom graph of Figure 4 that Tmf l remains constant for a while and then gradually increases. This change in slope was not obvious in the top graph of Figure 4. This is another interest of the smoothing step. Now, from these Tmf l values, we are able to calculate probability of being in degraded state. For this, we first need to estimate parameters A and c ."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.21300000000008,
+            "t": 125.33807823437496,
+            "r": 330.2125699200001,
+            "b": 114.76968143437489,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "5.3 Estimation of parameters A and c",
+      "text": "5.3 Estimation of parameters A and c",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 99.21300000000008,
+            "t": 105.5652216343749,
+            "r": 525.0464043200005,
+            "b": 84.81324583437492,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        },
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 99.21299999999991,
+            "t": 335.86422163437504,
+            "r": 525.0469499999999,
+            "b": 315.112245834375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            195,
+            372
+          ]
+        }
+      ],
+      "orig": "The estimation method presented in section 4.2.1 using the observation of the process in a long time is not possible here. Indeed the real system does not oscillate between two states because it is stopped at its first transition to degraded state. Then we propose a practical choice for c and A mixing estimation using the data from the 28 appliances and expert opinions.",
+      "text": "The estimation method presented in section 4.2.1 using the observation of the process in a long time is not possible here. Indeed the real system does not oscillate between two states because it is stopped at its first transition to degraded state. Then we propose a practical choice for c and A mixing estimation using the data from the 28 appliances and expert opinions."
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 309.6400000000001,
+            "t": 49.38422163437497,
+            "r": 314.6203037400001,
+            "b": 40.587245834374926,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 120.614,
+            "t": 379.16609563437504,
+            "r": 503.6471231400001,
+            "b": 368.85524583437507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "Figure 4: Evolution of corrected Tmf over uses at 10 o C and smoothing data associated",
+      "text": "Figure 4: Evolution of corrected Tmf over uses at 10 o C and smoothing data associated"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 99.21299999999995,
+            "t": 311.954221634375,
+            "r": 525.0475005800002,
+            "b": 267.2922458343751,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            309
+          ]
+        }
+      ],
+      "orig": "According to experts, slope of smoothed curve is close to 0 when the system is in stable state and it is strictly positive when it degrades. In addition, according to graphs of the evolution of the Tmf l , the slope is close to 1 when the system is in a degraded state. So we can naturally set ˆ c = (0 , 1) .",
+      "text": "According to experts, slope of smoothed curve is close to 0 when the system is in stable state and it is strictly positive when it degrades. In addition, according to graphs of the evolution of the Tmf l , the slope is close to 1 when the system is in a degraded state. So we can naturally set ˆ c = (0 , 1) ."
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 114.15699999999995,
+            "t": 265.73749423437516,
+            "r": 525.0492137399999,
+            "b": 242.58751696693992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "About the Q -matrix A = ( -a 12 a 12 a 21 -a 21 ) , a 12 is the parameter of the exponential distribution",
+      "text": "About the Q -matrix A = ( -a 12 a 12 a 21 -a 21 ) , a 12 is the parameter of the exponential distribution"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 99.21299999999997,
+            "t": 240.2252216343751,
+            "r": 525.0503893599997,
+            "b": 180.77251696693986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            463
+          ]
+        }
+      ],
+      "orig": "of the time in stable state (before degraded state). We have estimated this parameter using our data (28 appliances: 5 times of failure and 23 censures). By standard survival method taking censures into account, we have first estimated a 12 by 1 1000 . In order to detect as soon as possible a change of state (contraint requested by Thales) and according to our study of sensitivity (see Section 4.2.2), we chose to put a value 10 times greater: ˆ a 12 = 1 100 .",
+      "text": "of the time in stable state (before degraded state). We have estimated this parameter using our data (28 appliances: 5 times of failure and 23 censures). By standard survival method taking censures into account, we have first estimated a 12 by 1 1000 . In order to detect as soon as possible a change of state (contraint requested by Thales) and according to our study of sensitivity (see Section 4.2.2), we chose to put a value 10 times greater: ˆ a 12 = 1 100 ."
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 99.21299999999997,
+            "t": 180.44922163437502,
+            "r": 525.0506346399998,
+            "b": 135.786245834375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            330
+          ]
+        }
+      ],
+      "orig": "The coefficient a 21 should equal zero because system in degraded state can not return to a stable state. But in our equations, our filter P ( X t = e 2 |Y t ) must be versatile, so we have chosen a small value ˆ a 21 = 1 1000 . With this choice, the chance that an appliance in degraded state comes to stable state is very small.",
+      "text": "The coefficient a 21 should equal zero because system in degraded state can not return to a stable state. But in our equations, our filter P ( X t = e 2 |Y t ) must be versatile, so we have chosen a small value ˆ a 21 = 1 1000 . With this choice, the chance that an appliance in degraded state comes to stable state is very small."
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 114.157,
+            "t": 132.628221634375,
+            "r": 341.49556192,
+            "b": 123.83124583437507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Now, we are able to estimate probability of interest.",
+      "text": "Now, we are able to estimate probability of interest."
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 309.64,
+            "t": 49.38422163437508,
+            "r": 314.62030374,
+            "b": 40.58724583437504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.213,
+            "t": 741.197078234375,
+            "r": 173.04951072,
+            "b": 730.6286814343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "5.4 Results",
+      "text": "5.4 Results",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.21299999999991,
+            "t": 721.4252216343749,
+            "r": 525.0502017200001,
+            "b": 652.8522458343747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            560
+          ]
+        }
+      ],
+      "orig": "With this choice for A and c and using the filtering equation ( 4 ), we computed the probability of being in a given state, at each startup t , knowing the story Y t . We first consider appliance noted E h . A posteriori, we can see that E h was trouble-free during its whole history. Figure 5 gives the evolution of its Tmf l . At each time t , we compute its probability of being in degraded state through (4) using values of Tmf l before t . We clearly observe a Tmf l quite constant during uses and a probability of being in a degraded state close to zero.",
+      "text": "With this choice for A and c and using the filtering equation ( 4 ), we computed the probability of being in a given state, at each startup t , knowing the story Y t . We first consider appliance noted E h . A posteriori, we can see that E h was trouble-free during its whole history. Figure 5 gives the evolution of its Tmf l . At each time t , we compute its probability of being in degraded state through (4) using values of Tmf l before t . We clearly observe a Tmf l quite constant during uses and a probability of being in a degraded state close to zero."
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 119.104,
+            "t": 306.561221634375,
+            "r": 504.65807744000006,
+            "b": 296.8715169669398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Figure 5: Smoothing data and evolution of probability to be in a degraded state for E h",
+      "text": "Figure 5: Smoothing data and evolution of probability to be in a degraded state for E h"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.21300000000008,
+            "t": 272.68822163437494,
+            "r": 525.0484457000002,
+            "b": 215.17751696693972,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            466
+          ]
+        }
+      ],
+      "orig": "Now, we consider an appliance denoted E d . A posteriori, we see that E d degrades and breaks down at the end of the study. In Figure 6, we see a Tmf l quite constant during the first uses; then, Tmf l increases and then decreases to return to starting level. Finally, we notice an abrupt rise of Tmf l . Simultaneously, we note that the computed probability of being in degraded state is very low when Tmf l is constant and then sharply increases with Tmf l to one.",
+      "text": "Now, we consider an appliance denoted E d . A posteriori, we see that E d degrades and breaks down at the end of the study. In Figure 6, we see a Tmf l quite constant during the first uses; then, Tmf l increases and then decreases to return to starting level. Finally, we notice an abrupt rise of Tmf l . Simultaneously, we note that the computed probability of being in degraded state is very low when Tmf l is constant and then sharply increases with Tmf l to one."
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.21300000000015,
+            "t": 212.91222163437487,
+            "r": 525.0513856200001,
+            "b": 180.20524583437486,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "To conclude, these two examples illustrate a good numerical behavior of the proposed approach. Now we are interested in a decision criterion that allows us to detect as soon as possible a degraded state in order to return appliances to perform maintenance action before failure.",
+      "text": "To conclude, these two examples illustrate a good numerical behavior of the proposed approach. Now we are interested in a decision criterion that allows us to detect as soon as possible a degraded state in order to return appliances to perform maintenance action before failure."
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.21300000000015,
+            "t": 159.09486823437487,
+            "r": 244.60026004000022,
+            "b": 146.4128274343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "6 Decision criterion",
+      "text": "6 Decision criterion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 99.21300000000015,
+            "t": 134.24122163437482,
+            "r": 525.0513856200005,
+            "b": 77.62424583437485,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            483
+          ]
+        },
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 99.21300000000002,
+            "t": 313.37522163437495,
+            "r": 525.0493931000001,
+            "b": 280.66824583437506,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            484,
+            740
+          ]
+        }
+      ],
+      "orig": "The increase of the probability of being in a degraded state is not sufficient to detect a future failure. We have to propose a decision criterion for maintenance. For this, we have tested different rules based on the fact that probability has to cross a threshold during a number of consecutive uses. We have tried different thresholds combined with different numbers of crossing. At each time, we have recorded the number of false and good detections. It is important to limit both false-positive and false-negative detections. According to the comparison of these rules, we have chosen the following criterion: when the probability to be in degraded state equals 1 over a period of three uses, the appliance is sent back for maintenance.",
+      "text": "The increase of the probability of being in a degraded state is not sufficient to detect a future failure. We have to propose a decision criterion for maintenance. For this, we have tested different rules based on the fact that probability has to cross a threshold during a number of consecutive uses. We have tried different thresholds combined with different numbers of crossing. At each time, we have recorded the number of false and good detections. It is important to limit both false-positive and false-negative detections. According to the comparison of these rules, we have chosen the following criterion: when the probability to be in degraded state equals 1 over a period of three uses, the appliance is sent back for maintenance."
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 309.64000000000016,
+            "t": 49.38422163437485,
+            "r": 314.62030374000017,
+            "b": 40.587245834374926,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 119.362,
+            "t": 355.162221634375,
+            "r": 504.39931886,
+            "b": 345.4725169669398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Figure 6: Smoothing data and evolution of probability to be in a degraded state for E d",
+      "text": "Figure 6: Smoothing data and evolution of probability to be in a degraded state for E d"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 114.15700000000002,
+            "t": 277.50922163437497,
+            "r": 503.8226150600001,
+            "b": 268.7122458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "We applied this rule on our 28 appliances and we obtain the results presented in Table 1.",
+      "text": "We applied this rule on our 28 appliances and we obtain the results presented in Table 1."
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 99.21300000000001,
+            "t": 265.5542216343749,
+            "r": 525.0513856199999,
+            "b": 196.98124583437493,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            506
+          ]
+        }
+      ],
+      "orig": "The decision criterion provides 26 good detections over 28. It does not provide false detection: the 23 appliances without observed failure were not detected as degraded. For the five appliances that failed during the study, the criterion identifies three of them as degraded (before failure). We suppose that for the two appliances which have not been correctly identified, the failure may be not related to a degradation effect of the cooling system and then can not be detected by our proposed approach.",
+      "text": "The decision criterion provides 26 good detections over 28. It does not provide false detection: the 23 appliances without observed failure were not detected as degraded. For the five appliances that failed during the study, the criterion identifies three of them as degraded (before failure). We suppose that for the two appliances which have not been correctly identified, the failure may be not related to a degradation effect of the cooling system and then can not be detected by our proposed approach."
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 195.056,
+            "t": 116.28322163437497,
+            "r": 429.2079840600001,
+            "b": 107.48624583437504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Table 1: Results obtained with the decision criterion",
+      "text": "Table 1: Results obtained with the decision criterion"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 105.19,
+            "t": 175.14922163437495,
+            "r": 181.51945616000003,
+            "b": 166.35224583437503,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Decision criterion",
+      "text": "Decision criterion"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 229.945,
+            "t": 175.14922163437495,
+            "r": 301.16463862,
+            "b": 166.35224583437503,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Observed failure",
+      "text": "Observed failure"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 313.115,
+            "t": 175.14922163437495,
+            "r": 397.33583162,
+            "b": 166.35224583437503,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "No observed failure",
+      "text": "No observed failure"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 105.19,
+            "t": 162.796221634375,
+            "r": 200.27803569999995,
+            "b": 153.99924583437496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Futur failure detected",
+      "text": "Futur failure detected"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 262.689,
+            "t": 162.806184234375,
+            "r": 268.41649874,
+            "b": 153.99924583437496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 392.354,
+            "t": 162.796221634375,
+            "r": 397.33430374,
+            "b": 153.99924583437496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 105.19,
+            "t": 150.44222163437496,
+            "r": 217.99253475999996,
+            "b": 141.64524583437503,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Futur failure not detected",
+      "text": "Futur failure not detected"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 263.062,
+            "t": 150.44222163437496,
+            "r": 268.04230374,
+            "b": 141.64524583437503,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 385.88,
+            "t": 150.45218423437495,
+            "r": 397.33499747999997,
+            "b": 141.64524583437503,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "23",
+      "text": "23"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 105.19,
+            "t": 138.08822163437503,
+            "r": 128.15678178,
+            "b": 129.291245834375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Total",
+      "text": "Total"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 263.062,
+            "t": 138.08822163437503,
+            "r": 268.04230374,
+            "b": 129.291245834375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 387.374,
+            "t": 138.08822163437503,
+            "r": 397.33460748000005,
+            "b": 129.291245834375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "23",
+      "text": "23"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 307.15,
+            "t": 49.38422163437497,
+            "r": 317.11060748,
+            "b": 40.58724583437504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.213,
+            "t": 742.8468682343749,
+            "r": 261.7109727800001,
+            "b": 730.164827434375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "7 Concluding remarks",
+      "text": "7 Concluding remarks",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.213,
+            "t": 717.994221634375,
+            "r": 525.0483968400002,
+            "b": 697.2422458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "Using this model, Thales is now working to implement in its HUMS in operating system a new maintenance algorithm.",
+      "text": "Using this model, Thales is now working to implement in its HUMS in operating system a new maintenance algorithm."
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 114.157,
+            "t": 694.0832216343749,
+            "r": 461.4353033200001,
+            "b": 685.2862458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "There are two technical solutions according to the system embedded calculator:",
+      "text": "There are two technical solutions according to the system embedded calculator:"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 114.157,
+            "t": 674.158221634375,
+            "r": 478.8951560800001,
+            "b": 665.3612458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "· system capitalizes data, assesses and provides information about the cooler state,",
+      "text": "system capitalizes data, assesses and provides information about the cooler state,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 114.157,
+            "t": 654.233221634375,
+            "r": 525.04789684,
+            "b": 633.4812458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "· system capitalizes data but the cooler state is assessed by a maintenance laptop plugged periodically on its maintenance socket.",
+      "text": "system capitalizes data but the cooler state is assessed by a maintenance laptop plugged periodically on its maintenance socket.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.213,
+            "t": 622.3522216343749,
+            "r": 525.04640432,
+            "b": 601.6002458343748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "This model will allow us to improve the maintenance and the usage policies of monitored system. The improvements are:",
+      "text": "This model will allow us to improve the maintenance and the usage policies of monitored system. The improvements are:"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 114.157,
+            "t": 590.4722216343749,
+            "r": 525.0429155400001,
+            "b": 569.7202458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "· moving from a preventive or corrective maintenance to a predictive maintenance, this evolution allows to reduce the support cost,",
+      "text": "moving from a preventive or corrective maintenance to a predictive maintenance, this evolution allows to reduce the support cost,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 114.157,
+            "t": 558.5922216343749,
+            "r": 326.1684980800001,
+            "b": 549.7952458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "· ability to create a degraded operational mode,",
+      "text": "ability to create a degraded operational mode,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 114.157,
+            "t": 538.6662216343749,
+            "r": 525.0439118000003,
+            "b": 517.9142458343748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "· increase the mission success probability (systems will be chosen according to their real status for critical mission).",
+      "text": "increase the mission success probability (systems will be chosen according to their real status for critical mission).",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.213,
+            "t": 506.78622163437484,
+            "r": 525.0514856200001,
+            "b": 486.0342458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "The performance of the new maintenance policy is possible thanks to combination of mathematical, high technology and new maintenance organization.",
+      "text": "The performance of the new maintenance policy is possible thanks to combination of mathematical, high technology and new maintenance organization."
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.213,
+            "t": 464.9228682343749,
+            "r": 172.85491384000002,
+            "b": 452.24082743437486,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.213,
+            "t": 440.0702216343749,
+            "r": 522.23123618,
+            "b": 431.2732458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "[1] C. Cocozza-Thivent. Processus stochastiques et fiabilité des systèmes . Edition Springer, 1997.",
+      "text": "C. Cocozza-Thivent. Processus stochastiques et fiabilité des systèmes . Edition Springer, 1997.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.21300000000002,
+            "t": 420.1452216343749,
+            "r": 508.6862361800001,
+            "b": 411.3482458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "[2] R.J. Elliott, L. Aggoun, and J. B. Moore. Hidden Markov Models . Edition Springer, 1995.",
+      "text": "R.J. Elliott, L. Aggoun, and J. B. Moore. Hidden Markov Models . Edition Springer, 1995.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.21299999999997,
+            "t": 400.2192216343749,
+            "r": 525.0510021000001,
+            "b": 379.4672458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "[3] J.Fridlyand, A. M. Snijders, D. Pinkel, D.G. Albertson, and A. N. Jain l. Hidden markov models approach to the analysis of array cgh data. Journal of Multivariate Analysis , 90:132-153, 2004.",
+      "text": "J.Fridlyand, A. M. Snijders, D. Pinkel, D.G. Albertson, and A. N. Jain l. Hidden markov models approach to the analysis of array cgh data. Journal of Multivariate Analysis , 90:132-153, 2004.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.21300000000002,
+            "t": 368.3392216343749,
+            "r": 525.0483968400001,
+            "b": 347.5872458343749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "[4] L.R.Rabiner. A tutorial on hidden markov models and selected applications in speech recognition. Proceedings of the IEEE , 77:257-285, 1989.",
+      "text": "L.R.Rabiner. A tutorial on hidden markov models and selected applications in speech recognition. Proceedings of the IEEE , 77:257-285, 1989.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.21300000000005,
+            "t": 336.4582216343749,
+            "r": 525.0476140200001,
+            "b": 315.70624583437495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "[5] M.Basseville and I.V.Nikiforov. Detection of Abrupt Changes: Theory and Application . Prentice-Hall, 1993.",
+      "text": "M.Basseville and I.V.Nikiforov. Detection of Abrupt Changes: Theory and Application . Prentice-Hall, 1993.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.21300000000008,
+            "t": 304.5782216343749,
+            "r": 525.04839684,
+            "b": 271.87124583437503,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "[6] W. Wang, X. Guan, and X.Zhang. Modeling program behaviors by hidden markov models for intrusion detection. The Third IEEE International Conference on Machine Learning and Cybernetics (ICMLC' 2004), Shanghai, China , 77:2830-2835, 2004.",
+      "text": "W. Wang, X. Guan, and X.Zhang. Modeling program behaviors by hidden markov models for intrusion detection. The Third IEEE International Conference on Machine Learning and Cybernetics (ICMLC' 2004), Shanghai, China , 77:2830-2835, 2004.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 99.21300000000008,
+            "t": 260.742221634375,
+            "r": 525.0483968400002,
+            "b": 228.03524583437502,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "[7] O. Zeitouni and A. Dembo. Exact filters for the estimation of the number of transitions of finite-state continuous time markov processes. IEEE Transactions on Information Theory , 34:890-893, 1988.",
+      "text": "O. Zeitouni and A. Dembo. Exact filters for the estimation of the number of transitions of finite-state continuous time markov processes. IEEE Transactions on Information Theory , 34:890-893, 1988.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 307.1500000000001,
+            "t": 49.38422163437497,
+            "r": 317.1106074800001,
+            "b": 40.587245834374926,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "11",
+      "text": "11"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/81"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 159.8329315185547,
+            "t": 645.3118743896484,
+            "r": 457.13568115234375,
+            "b": 394.82147216796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/81"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/93"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 159.9892120361328,
+            "t": 614.60498046875,
+            "r": 478.42474365234375,
+            "b": 372.2177429199219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/93"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/100"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 159.7110595703125,
+            "t": 731.5904006958008,
+            "r": 478.134521484375,
+            "b": 489.1789855957031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/100"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/109"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 121.65536499023438,
+            "t": 735.0327987670898,
+            "r": 489.08056640625,
+            "b": 394.3224792480469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/109"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/118"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 108.07818603515625,
+            "t": 632.7400054931641,
+            "r": 490.1549377441406,
+            "b": 325.988525390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/118"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/124"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 114.424560546875,
+            "t": 732.0987319946289,
+            "r": 488.8955078125,
+            "b": 375.6025695800781,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/124"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/groups/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 98.3950424194336,
+            "t": 177.83447265625,
+            "r": 403.7274475097656,
+            "b": 126.95794677734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/127"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/9"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.9130249023438,
+        "height": 842.739990234375
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.9130249023438,
+        "height": 842.739990234375
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.9130249023438,
+        "height": 842.739990234375
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.9130249023438,
+        "height": 842.739990234375
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.9130249023438,
+        "height": 842.739990234375
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.9130249023438,
+        "height": 842.739990234375
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.9130249023438,
+        "height": 842.739990234375
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 595.9130249023438,
+        "height": 842.739990234375
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 595.9130249023438,
+        "height": 842.739990234375
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 595.9130249023438,
+        "height": 842.739990234375
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 595.9130249023438,
+        "height": 842.739990234375
+      },
+      "page_no": 11
+    }
+  }
+}

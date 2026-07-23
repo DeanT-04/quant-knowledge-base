@@ -1,0 +1,4407 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1910.09202_conservation_laws_in_a_limit_order_book",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6229885090837132574,
+    "filename": "1910.09202_conservation_laws_in_a_limit_order_book.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/132"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 583.0600146484376,
+            "r": 36.206559297218156,
+            "b": 222.0000146484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:1910.09202v2  [q-fin.TR]  8 Dec 2020",
+      "text": "arXiv:1910.09202v2  [q-fin.TR]  8 Dec 2020"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 152.026,
+            "t": 700.8141328484376,
+            "r": 443.24342794,
+            "b": 685.7522206297056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Conservation Laws in a Limit Order Book",
+      "text": "Conservation Laws in a Limit Order Book",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 257.28700000000003,
+            "t": 668.3304162484376,
+            "r": 337.9893820800002,
+            "b": 657.882467227112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Jan Rosenzweig",
+      "text": "Jan Rosenzweig"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 168.61400000000003,
+            "t": 658.0309684484375,
+            "r": 430.89492011000004,
+            "b": 643.934467227112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Pine Tree Funds, j.rosenzweig@pinetree-funds.com ∗",
+      "text": "Pine Tree Funds, j.rosenzweig@pinetree-funds.com ∗"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 277.34400000000005,
+            "t": 606.0909650484376,
+            "r": 317.93220288000003,
+            "b": 598.2205847095327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.19900000000004,
+            "t": 590.4480658484376,
+            "r": 481.07718880000016,
+            "b": 538.7761040824436,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            419
+          ]
+        }
+      ],
+      "orig": "We present a class of macroscopic models of the Limit Order Book to simulate the aggregate behaviour of market makers in response to trading flows. The resulting models are solved numerically and asymptotically, and a class of similarity solutions linked to order book formation and recovery is explored. The main result is that order book recovery from aggressive liquidity taking follows a simple t 1 / 3 scaling law.",
+      "text": "We present a class of macroscopic models of the Limit Order Book to simulate the aggregate behaviour of market makers in response to trading flows. The resulting models are solved numerically and asymptotically, and a class of similarity solutions linked to order book formation and recovery is explored. The main result is that order book recovery from aggressive liquidity taking follows a simple t 1 / 3 scaling law."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 519.0002774484378,
+            "r": 206.81376334000012,
+            "b": 506.26085184843777,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 495.33006584843775,
+            "r": 481.0807753600002,
+            "b": 465.5761040824435,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "Limit order book is at the heart of trading on any organised venue. Dynamics of the order book is central to understanding the price and liquidity impact of any trading strategy, and it is important in a number of intraday trading strategies.",
+      "text": "Limit order book is at the heart of trading on any organised venue. Dynamics of the order book is central to understanding the price and liquidity impact of any trading strategy, and it is important in a number of intraday trading strategies."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 462.45306584843775,
+            "r": 481.07539552000014,
+            "b": 432.6991040824435,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "Several models of the orderbook dynamics have been proposed over the years, most notably [3], [4], [5], [10], [14] and others. These models generally assume a generic shape of the order book, and a process for its recovery when liquidity is taken out through trading.",
+      "text": "Several models of the orderbook dynamics have been proposed over the years, most notably [3], [4], [5], [10], [14] and others. These models generally assume a generic shape of the order book, and a process for its recovery when liquidity is taken out through trading."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 429.57606584843774,
+            "r": 481.07898208,
+            "b": 388.8631040824435,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            299
+          ]
+        }
+      ],
+      "orig": "We take a slightly different approach, inspired by concepts from fluid dynamics. Separating the order book dynamics into conserved and non-conserved components, we get a generic framework into which we can plug in increasingly complex assumptions about interactions between limit orders in the book.",
+      "text": "We take a slightly different approach, inspired by concepts from fluid dynamics. Separating the order book dynamics into conserved and non-conserved components, we get a generic framework into which we can plug in increasingly complex assumptions about interactions between limit orders in the book."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 385.7410658484377,
+            "r": 481.07848319999977,
+            "b": 366.94610408244347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "The result is a model which is sufficiently simple to allow analytical insight, and sufficiently realistic to provide a number of features of real life order books.",
+      "text": "The result is a model which is sufficiently simple to allow analytical insight, and sufficiently realistic to provide a number of features of real life order books."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 363.8230658484377,
+            "r": 481.07400000000024,
+            "b": 334.06910408244346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "We are specifically interested in processes governing order book formation and recovery, and we look at some simple solutions to the resulting transport equation which are relevant in that context.",
+      "text": "We are specifically interested in processes governing order book formation and recovery, and we look at some simple solutions to the resulting transport equation which are relevant in that context."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 314.29227744843774,
+            "r": 372.10207201999987,
+            "b": 301.55285184843774,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "2 Basic dynamics of the Limit Order Book",
+      "text": "2 Basic dynamics of the Limit Order Book",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.19900000000001,
+            "t": 290.6220658484376,
+            "r": 481.07630080000007,
+            "b": 260.44274093777483,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            266
+          ]
+        }
+      ],
+      "orig": "Simple schematics of the limit order book is shown in Figure 1. We denote by S the price level, and by h ( S, t ) the total quantity of limit orders available at level S at time t . We use subscript to denote partial differentiation, so h t = ∂h/∂t and h S = ∂h/∂S .",
+      "text": "Simple schematics of the limit order book is shown in Figure 1. We denote by S the price level, and by h ( S, t ) the total quantity of limit orders available at level S at time t . We use subscript to denote partial differentiation, so h t = ∂h/∂t and h S = ∂h/∂S ."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.19899999999996,
+            "t": 244.38292344843762,
+            "r": 228.03880544000003,
+            "b": 233.7667058484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "2.1 Conservation laws",
+      "text": "2.1 Conservation laws",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.19899999999996,
+            "t": 225.46106584843767,
+            "r": 356.8713427200001,
+            "b": 217.1987409377748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "The quantity between two price levels S 1 and S 2 is given by",
+      "text": "The quantity between two price levels S 1 and S 2 is given by"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 238.698,
+            "t": 207.37971544843765,
+            "r": 481.07757312,
+            "b": 181.02413698849523,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "V ( S 1 , S 2 , t ) = ∫ S 2 S 1 h ( S, t ) dS (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.29200000000002,
+            "t": 174.83486904843755,
+            "r": 505.9801698899998,
+            "b": 155.39332273172283,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "∗ JR is a Fund Manager at Pine Tree and a Visiting Senior Research Fellow at King's College London, jan.rosenzweig@kcl.ac.uk",
+      "text": "∗ JR is a Fund Manager at Pine Tree and a Visiting Senior Research Fellow at King's College London, jan.rosenzweig@kcl.ac.uk"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 295.147,
+            "t": 128.45847044843754,
+            "r": 300.12829999999997,
+            "b": 119.75190452567097,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.199,
+            "t": 737.0230658484376,
+            "r": 252.28514655999996,
+            "b": 729.1871040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "and the quantity flux is defined as",
+      "text": "and the quantity flux is defined as"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 238.606,
+            "t": 720.0240658484375,
+            "r": 481.0765731200001,
+            "b": 700.3081040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Q ( S 1 , S 2 , t ) = d dt V ( S 1 , S 2 , t ) , (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.19900000000013,
+            "t": 692.8890658484376,
+            "r": 481.0809462400002,
+            "b": 663.1351040824434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "the instantaneous rate of flow of quantity through the given part of the order book. Then, differentiating (1) with respect to time and using integration by parts, we get the law of conservation of quantity in the form",
+      "text": "the instantaneous rate of flow of quantity through the given part of the order book. Then, differentiating (1) with respect to time and using integration by parts, we get the law of conservation of quantity in the form"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 241.3200000000001,
+            "t": 651.9790658484377,
+            "r": 481.0742128000001,
+            "b": 643.7177409377748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "h t ( S, t ) -Q S ( S, t ) = P ( S, t ) (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.19899999999998,
+            "t": 632.9880658484377,
+            "r": 481.07810112,
+            "b": 592.2751040824436,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            367
+          ]
+        }
+      ],
+      "orig": "where Q ( S, t ) is taken to mean Q ( -∞ , S, t ) for the bid side, and Q ( S, ∞ , t ) for the ask side. Note that it is unusual to make the underlying dynamics lognormal in orderbook models, since the effects of lognormality are tiny on relevant price and time scales. Hence we formally allow bids lower than zero, but this has no meaningful effects on the analysis.",
+      "text": "where Q ( S, t ) is taken to mean Q ( -∞ , S, t ) for the bid side, and Q ( S, ∞ , t ) for the ask side. Note that it is unusual to make the underlying dynamics lognormal in orderbook models, since the effects of lognormality are tiny on relevant price and time scales. Hence we formally allow bids lower than zero, but this has no meaningful effects on the analysis."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.19899999999998,
+            "t": 589.1520658484379,
+            "r": 481.07808544000005,
+            "b": 526.5211040824439,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            497
+          ]
+        }
+      ],
+      "orig": "Equation (3) is analogous to the standard physical conservation of mass. The left hand side contains the conserved terms, or flow of quantity through the orderbook, and the right hand side denotes any creation or destruction of quantity in the orderbook. Equation (3) has a simple interpretation, namely that any changes of quantity at a given price level (term h t ) correspond to quantity migrating between levels (term Q S ), or quantity being added to or taken out of the order book (term P ).",
+      "text": "Equation (3) is analogous to the standard physical conservation of mass. The left hand side contains the conserved terms, or flow of quantity through the orderbook, and the right hand side denotes any creation or destruction of quantity in the orderbook. Equation (3) has a simple interpretation, namely that any changes of quantity at a given price level (term h t ) correspond to quantity migrating between levels (term Q S ), or quantity being added to or taken out of the order book (term P )."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.19900000000003,
+            "t": 523.3990658484382,
+            "r": 481.0794137600001,
+            "b": 493.64510408244394,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            248
+          ]
+        }
+      ],
+      "orig": "The source/sink term P does not correspond to quantity being extinguished through aggressive liquidity taking, which would be handled through boundary condition to the equation (3), but it purely corresponds to quantity changes away from the touch.",
+      "text": "The source/sink term P does not correspond to quantity being extinguished through aggressive liquidity taking, which would be handled through boundary condition to the equation (3), but it purely corresponds to quantity changes away from the touch."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.19900000000001,
+            "t": 490.52206584843816,
+            "r": 481.08167200000014,
+            "b": 460.7681040824439,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "The case where orders can be created or cancelled, but quantity is never moved between levels encompasses a number of well known order book models. If there is no quantity flow between levels, then Q ≡ 0 and equation (3) becomes",
+      "text": "The case where orders can be created or cancelled, but quantity is never moved between levels encompasses a number of well known order book models. If there is no quantity flow between levels, then Q ≡ 0 and equation (3) becomes"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 263.36500000000007,
+            "t": 449.61206584843814,
+            "r": 481.07859040000005,
+            "b": 441.35074093777536,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "h t ( S, t ) = P ( S, t ) (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 430.62106584843815,
+            "r": 481.07539551999986,
+            "b": 411.8261040824439,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "This formulation includes all of the models from [3], [4], [7], [9], [10], [12], [13], [14], and many others.",
+      "text": "This formulation includes all of the models from [3], [4], [7], [9], [10], [12], [13], [14], and many others."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 395.4249234484381,
+            "r": 211.4414012800001,
+            "b": 384.80870584843814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "2.2 Flowing orders",
+      "text": "2.2 Flowing orders",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 376.5020658484381,
+            "r": 481.07898208,
+            "b": 346.74910408244386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "To analyse the flow of orders inside the order book, we borrow a few ideas from fluid dynamics. We introduce the cocnept of velocity u ( S, q, t ) of volume at a price level S , orderbook priority queue q and time t . The velocity u is related to the flow rate Q through",
+      "text": "To analyse the flow of orders inside the order book, we borrow a few ideas from fluid dynamics. We introduce the cocnept of velocity u ( S, q, t ) of volume at a price level S , orderbook priority queue q and time t . The velocity u is related to the flow rate Q through"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 238.74800000000008,
+            "t": 337.28771544843806,
+            "r": 481.07757312,
+            "b": 311.8887409377753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Q ( S, t ) = ∫ h ( S,t ) 0 u ( S, q, t ) dq (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.19900000000001,
+            "t": 303.8990658484381,
+            "r": 479.2094876800002,
+            "b": 296.06310408244383,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "and it has the interpretation of the rate at which quantity flows from one level to another.",
+      "text": "and it has the interpretation of the rate at which quantity flows from one level to another."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.19900000000001,
+            "t": 292.94006584843805,
+            "r": 481.0780854399999,
+            "b": 252.22710408244382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "Having introduced the model in which quantity is free to flow between levels, we now need a constitutive equation to provide a microstructural mechanism driving such movement. Continuing the fluid dynamical analogy, we introduce the concept of pressure p ( S, q, t ) at a price level S at time t driving the flow of quantity.",
+      "text": "Having introduced the model in which quantity is free to flow between levels, we now need a constitutive equation to provide a microstructural mechanism driving such movement. Continuing the fluid dynamical analogy, we introduce the concept of pressure p ( S, q, t ) at a price level S at time t driving the flow of quantity."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.19900000000004,
+            "t": 249.10406584843804,
+            "r": 481.0760060799998,
+            "b": 219.35010408244375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "We can now formulate the constitutive equation. We assume that pressure is uniform within each level ( p ( S, q, t ) = p ( S, t ) and that it is proportional to the occupancy of the level,",
+      "text": "We can now formulate the constitutive equation. We assume that pressure is uniform within each level ( p ( S, q, t ) = p ( S, t ) and that it is proportional to the occupancy of the level,"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 264.023,
+            "t": 216.22806584843806,
+            "r": 481.07513759999995,
+            "b": 208.39210408244378,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "p ( S, t ) = θh ( S, t ) (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.19899999999998,
+            "t": 201.50106584843797,
+            "r": 238.70190719999997,
+            "b": 193.6651040824438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "for some constant coefficient θ .",
+      "text": "for some constant coefficient θ ."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 114.19899999999996,
+            "t": 190.54206584843803,
+            "r": 481.08077535999996,
+            "b": 149.83010408244377,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            289
+          ]
+        }
+      ],
+      "orig": "The interpretation of equation (6) is that traders look to avoid adverse selection by looking for empty or near-empty levels. The more quantity is already available at the level, the higher the pressure at that level, and the lower the likelihood of new quantity being added to that level.",
+      "text": "The interpretation of equation (6) is that traders look to avoid adverse selection by looking for empty or near-empty levels. The more quantity is already available at the level, the higher the pressure at that level, and the lower the likelihood of new quantity being added to that level."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 295.14699999999993,
+            "t": 128.458470448438,
+            "r": 300.1282999999999,
+            "b": 119.75190452567142,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.19899999999998,
+            "t": 737.0230658484376,
+            "r": 481.0811731200002,
+            "b": 718.2281040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "To that, we still have to add another constitutive equation providing the velocity profile. We use an algebraic velocity profile of the form",
+      "text": "To that, we still have to add another constitutive equation providing the velocity profile. We use an algebraic velocity profile of the form"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 204.976,
+            "t": 709.5955186484375,
+            "r": 481.07757312,
+            "b": 684.6171040824432,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "u ( S, q, t ) = 1 ρ p S ( S, t ) [ ( q h ( S, t ) ) β + u 0 ( S, t ) ] (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.19899999999993,
+            "t": 670.5060658484374,
+            "r": 481.07998144,
+            "b": 574.9991040824435,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            807
+          ]
+        }
+      ],
+      "orig": "for some constants ρ, β > 0, as shown in Figure 2. The interpretation of (7) is that the force trying to move orders is proportional to the pressure gradient (term p S ), while the ability of orders to be moved depends on their relative place in the queue at their level. Orders at the front of the queue ( q = 0) are relatively immobile, and they can only move at some slip rate u 0 . The orders at the end of the queue are most mobile, and they are most likely to move around to avoid adverse selection. Finally, the division by h ensures that the dependence on the place in the queue is relative rather than absolute. In other words, an order with q lots in front of it may be either very immobile if there is a long queue behind it ( q ≪ h ), or very mobile if it is the last lot in the queue ( q = h ).",
+      "text": "for some constants ρ, β > 0, as shown in Figure 2. The interpretation of (7) is that the force trying to move orders is proportional to the pressure gradient (term p S ), while the ability of orders to be moved depends on their relative place in the queue at their level. Orders at the front of the queue ( q = 0) are relatively immobile, and they can only move at some slip rate u 0 . The orders at the end of the queue are most mobile, and they are most likely to move around to avoid adverse selection. Finally, the division by h ensures that the dependence on the place in the queue is relative rather than absolute. In other words, an order with q lots in front of it may be either very immobile if there is a long queue behind it ( q ≪ h ), or very mobile if it is the last lot in the queue ( q = h )."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 128.02199999999993,
+            "t": 571.8760658484379,
+            "r": 350.43086208,
+            "b": 564.0401040824436,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Putting equations (3), (5), (6) and (7) together, we get",
+      "text": "Putting equations (3), (5), (6) and (7) together, we get"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 179.76999999999992,
+            "t": 557.1730658484379,
+            "r": 481.07757312,
+            "b": 537.4571040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "h t ( S, t ) = ρ θ ( β +1) [ h ( S, t ) h S ( S, t ) + u 0 h ( S, t )] S + P ( S, t ) . (8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.19900000000001,
+            "t": 528.2230658484376,
+            "r": 481.0780854399999,
+            "b": 509.4281040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "Finally, we can group the constants into a single time scale to which we rescale the time to get the transport equation",
+      "text": "Finally, we can group the constants into a single time scale to which we rescale the time to get the transport equation"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 206.38100000000003,
+            "t": 500.9667154484376,
+            "r": 481.07757312000007,
+            "b": 488.69574093777476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "h t ( S, t ) = h 2 ( S, t ) SS +( u 0 h ( S, t )) S + P ( S, t ) , (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 480.13706584843754,
+            "r": 349.65347520000023,
+            "b": 461.3421040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "where t now denotes the rescaled time, t ↦→ t/θ ( β +1). The boundary conditions usually take one of the forms",
+      "text": "where t now denotes the rescaled time, t ↦→ t/θ ( β +1). The boundary conditions usually take one of the forms"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 199.92000000000007,
+            "t": 452.43171544843756,
+            "r": 481.0774060800002,
+            "b": 442.40274093777475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "h ( S 0 , t ) = h 0 ; h S ( S 0 , t ) = p 0 ; h 2 ( S 0 , t ) S = Q 0 (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.19900000000018,
+            "t": 432.0510658484376,
+            "r": 481.07690720000016,
+            "b": 402.29710408244335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            268
+          ]
+        }
+      ],
+      "orig": "The boundary conditions specify the orderbook thickness, slope or flux at the level S 0 , respectivel, and S 0 denotes an appropriate price level. S 0 is usually, but not necessarily, chosen as either the touch level, or some appropriate price level inside the spread.",
+      "text": "The boundary conditions specify the orderbook thickness, slope or flux at the level S 0 , respectivel, and S 0 denotes an appropriate price level. S 0 is usually, but not necessarily, chosen as either the touch level, or some appropriate price level inside the spread."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 128.02200000000022,
+            "t": 399.1740658484376,
+            "r": 386.62490432000027,
+            "b": 390.9127409377748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "In most practical cases, the slip term can be set to zero, u 0 = 0.",
+      "text": "In most practical cases, the slip term can be set to zero, u 0 = 0."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.19900000000027,
+            "t": 388.2150658484376,
+            "r": 481.08167200000014,
+            "b": 347.50210408244334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "The transport equation (9) is well known in fluid dynamics, where it describes the propagation of gravity driven thin layer of an inviscid fluid. The derivation in the fluid dynamics case is somewhat different, in that inviscid fluid has a steady profile which is not normalised to film height h , u ( S, q, t ) = u ( S, t ).",
+      "text": "The transport equation (9) is well known in fluid dynamics, where it describes the propagation of gravity driven thin layer of an inviscid fluid. The derivation in the fluid dynamics case is somewhat different, in that inviscid fluid has a steady profile which is not normalised to film height h , u ( S, q, t ) = u ( S, t )."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.19900000000024,
+            "t": 344.37906584843756,
+            "r": 481.0816720000003,
+            "b": 292.70810408244324,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            451
+          ]
+        }
+      ],
+      "orig": "Transport equation is a second order, nonlinear isotropic diffusion equation. Isotropy is sometimes considered to be a problem, because flow of orders towards the touch level is not the same as the flow of orders away from the touch levels. On the other hand, anisotropy can be provided through the boundary conditions. Intuitively, flows in deep book are generally dominated by competition for queue priority, and they are at leading order isotropic.",
+      "text": "Transport equation is a second order, nonlinear isotropic diffusion equation. Isotropy is sometimes considered to be a problem, because flow of orders towards the touch level is not the same as the flow of orders away from the touch levels. On the other hand, anisotropy can be provided through the boundary conditions. Intuitively, flows in deep book are generally dominated by competition for queue priority, and they are at leading order isotropic."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.19900000000024,
+            "t": 273.09927744843753,
+            "r": 318.6223076600002,
+            "b": 260.35985184843753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "3 Solving the Transport Equation",
+      "text": "3 Solving the Transport Equation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.19900000000024,
+            "t": 250.09759294843752,
+            "r": 300.88721376000035,
+            "b": 237.9967058484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "3.1 Steady state and the S 1 / 2 profile",
+      "text": "3.1 Steady state and the S 1 / 2 profile",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.19900000000024,
+            "t": 229.6900658484376,
+            "r": 427.7421708800004,
+            "b": 221.4287409377747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Setting u 0 ≡ P ≡ 0, we can find a family of steady state solutions of the form",
+      "text": "Setting u 0 ≡ P ≡ 0, we can find a family of steady state solutions of the form"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 240.16000000000028,
+            "t": 212.82071544843757,
+            "r": 481.07740608000034,
+            "b": 199.24645464843752,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "h ( S, t ) = ± ∣ ∣ ± a 2 ( S -S b ) ∣ ∣ 1 / 2 (11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.19900000000035,
+            "t": 190.54206584843757,
+            "r": 172.33090720000033,
+            "b": 182.21474093777465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "for some a, S b .",
+      "text": "for some a, S b ."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.19900000000035,
+            "t": 179.5840658484376,
+            "r": 481.0767401600003,
+            "b": 149.3377409377747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "The only set of solutions with finite total order book quantity is the one with negative ± sign inside the square root, and it implies a decaying square root profile maximised at the touch level, and zero beyond the point S b , as shown in figure 3.",
+      "text": "The only set of solutions with finite total order book quantity is the one with negative ± sign inside the square root, and it implies a decaying square root profile maximised at the touch level, and zero beyond the point S b , as shown in figure 3."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 295.14700000000033,
+            "t": 128.45847044843754,
+            "r": 300.1283000000003,
+            "b": 119.75190452567097,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.19899999999998,
+            "t": 737.0230658484376,
+            "r": 481.07758656000027,
+            "b": 718.2281040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "In this solution, the pressure is maximised at the touch level, and pressure falls off in deep book. The book thickness reaches zero after a finite number of levels.",
+      "text": "In this solution, the pressure is maximised at the touch level, and pressure falls off in deep book. The book thickness reaches zero after a finite number of levels."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.19899999999998,
+            "t": 715.1060658484377,
+            "r": 481.07898207999983,
+            "b": 663.4341040824436,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            397
+          ]
+        }
+      ],
+      "orig": "While this is not a particularly interesting family of solutions in its own right, it serves as a set of long time attractors for various solutions. One of the parameters in (11) can be eliminated through the requirement that the orderbook quantity is retained, but this still leaves a one-parameter family of solutions. This remaining parameter is usually determined from the boundary conditions.",
+      "text": "While this is not a particularly interesting family of solutions in its own right, it serves as a set of long time attractors for various solutions. One of the parameters in (11) can be eliminated through the requirement that the orderbook quantity is retained, but this still leaves a one-parameter family of solutions. This remaining parameter is usually determined from the boundary conditions."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.19899999999998,
+            "t": 648.4335929484378,
+            "r": 331.2210198399999,
+            "b": 636.3327058484377,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "3.2 Similarity solutions and the t 1 / 3 scaling",
+      "text": "3.2 Similarity solutions and the t 1 / 3 scaling",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.19899999999987,
+            "t": 628.0260658484378,
+            "r": 360.0146492799999,
+            "b": 620.1901040824436,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "We look for more interesting solutions in the similarity form,",
+      "text": "We look for more interesting solutions in the similarity form,"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 234.52499999999986,
+            "t": 610.6910658484378,
+            "r": 481.07740608,
+            "b": 590.9751040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "h ( S, t ) = H ( t ) v ( s ) , s = S -S 0 L ( t ) (12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 128.022,
+            "t": 580.8780658484376,
+            "r": 283.35770687999997,
+            "b": 573.0421040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "All terms are balanced if the scaling is",
+      "text": "All terms are balanced if the scaling is"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 218.79899999999998,
+            "t": 563.7167154484375,
+            "r": 481.07740608,
+            "b": 553.1897409377747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "H ( t ) ∝ t -1 / 3 , L ( t ) ∝ t 1 / 3 , S 0 ( t ) ∝ t 1 / 3 (13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.19900000000001,
+            "t": 542.0240658484375,
+            "r": 284.85024416,
+            "b": 534.1881040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "and the similarity function v then satisfies",
+      "text": "and the similarity function v then satisfies"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 244.835,
+            "t": 524.8627154484375,
+            "r": 481.07923840000007,
+            "b": 514.7611040824432,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "3( v 2 ) ′′ + v ′ s -γv ′ + v = 0 (14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 264.1700000000001,
+            "t": 503.17006584843745,
+            "r": 481.08005728,
+            "b": 495.3341040824432,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "v (0) = v ( ∞ ) = 0 (15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 271.8860000000001,
+            "t": 481.1020658484374,
+            "r": 481.07740608000006,
+            "b": 460.0481040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "γ = -H L ˙ H ˙ S 0 (16)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 488.22606584843743,
+            "r": 137.77794208000006,
+            "b": 480.3901040824432,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.19900000000004,
+            "t": 456.6760658484375,
+            "r": 481.0805446400001,
+            "b": 405.0051040824432,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            387
+          ]
+        }
+      ],
+      "orig": "is the dimensionless speed of the touch level. The minus sign, combined with the substitution (12) keeps the intuitive distinction that γ > 0 corresponds to the advancing touch level (increasing best bid, or decreasing best ask), and γ < 0 corresponds to retreating touch level (decreasing best bid, or increasing best ask). If the touch level is neither advancing nor retreating, γ = 0.",
+      "text": "is the dimensionless speed of the touch level. The minus sign, combined with the substitution (12) keeps the intuitive distinction that γ > 0 corresponds to the advancing touch level (increasing best bid, or decreasing best ask), and γ < 0 corresponds to retreating touch level (decreasing best bid, or increasing best ask). If the touch level is neither advancing nor retreating, γ = 0."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.19900000000001,
+            "t": 401.88206584843743,
+            "r": 481.07758655999993,
+            "b": 383.0871040824432,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Equations (14), (15) do not have analytical solutions, but they can be solved asymptotically and numerically.",
+      "text": "Equations (14), (15) do not have analytical solutions, but they can be solved asymptotically and numerically."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 128.02200000000002,
+            "t": 379.96406584843743,
+            "r": 373.65819392,
+            "b": 372.1281040824432,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Around the touch, the leading order asymptotics for γ ≥ 0 is",
+      "text": "Around the touch, the leading order asymptotics for γ ≥ 0 is"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 227.72199999999998,
+            "t": 362.9780658484375,
+            "r": 481.07740607999995,
+            "b": 343.2621040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "v ( s ) ≈ γ 6 s -1 4 s 2 + γ 118 s 3 + O ( s 4 ) . (17)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 128.02199999999993,
+            "t": 335.4070658484375,
+            "r": 325.55874015999996,
+            "b": 327.5711040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "There is no positive similarity solution for γ < 0.",
+      "text": "There is no positive similarity solution for γ < 0."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 128.02199999999996,
+            "t": 324.4480658484375,
+            "r": 231.1938815999999,
+            "b": 316.61210408244324,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "In the deep book, we find",
+      "text": "In the deep book, we find"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 221.03899999999996,
+            "t": 307.1155186484375,
+            "r": 481.07740608,
+            "b": 285.12610408244336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "v ( s ) ≈ v ∞ ( 1 s + γ s 2 + γ 2 s 3 + O ( s -4 ) ) . (18)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.19900000000001,
+            "t": 273.1400658484374,
+            "r": 481.0811766400001,
+            "b": 221.46810408244323,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            415
+          ]
+        }
+      ],
+      "orig": "for some deep book constant v ∞ > 0. The far field decays like h ∝ 1 /s at leading order, with the motion of the touch only providing a higher order correction. Note that the similarity solution formally implies infinite order book volume, due to its deep book decay being only 1 /s . In practice, there are no fractional quantities in a real life order books, so the corresponding sum would be finite in real life.",
+      "text": "for some deep book constant v ∞ > 0. The far field decays like h ∝ 1 /s at leading order, with the motion of the touch only providing a higher order correction. Note that the similarity solution formally implies infinite order book volume, due to its deep book decay being only 1 /s . In practice, there are no fractional quantities in a real life order books, so the corresponding sum would be finite in real life."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.19900000000004,
+            "t": 218.34506584843746,
+            "r": 481.08077535999996,
+            "b": 166.67410408244325,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            360
+          ]
+        }
+      ],
+      "orig": "The similarity equation (14) is symmetric for γ = 0, hence at leading orders symmetric terms are independent of γ near the touch (17), while the antisymmetric terms depend strongly on γ and vanish for γ = 0. At higher orders, the effect of γ begins to mix into symmetric terms due to nonlinearity of (14), and the mixing is obvious in the deep book limit (18).",
+      "text": "The similarity equation (14) is symmetric for γ = 0, hence at leading orders symmetric terms are independent of γ near the touch (17), while the antisymmetric terms depend strongly on γ and vanish for γ = 0. At higher orders, the effect of γ begins to mix into symmetric terms due to nonlinearity of (14), and the mixing is obvious in the deep book limit (18)."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 295.14700000000005,
+            "t": 128.45847044843742,
+            "r": 300.1283,
+            "b": 119.75190452567085,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.19900000000001,
+            "t": 737.0230658484376,
+            "r": 481.07600192,
+            "b": 717.8879560415043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "Substituting (17), (18) back into (9), we get the touch similarity solution h 0 and the deep book similarity solution h ∞ as",
+      "text": "Substituting (17), (18) back into (9), we get the touch similarity solution h 0 and the deep book similarity solution h ∞ as"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 153.27700000000004,
+            "t": 708.7325186484375,
+            "r": 481.07740608,
+            "b": 686.6141040824433,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "h 0 ( S, t ) ≈ S -S 0 t 2 / 3 [ γ 6 -1 4 S -S 0 t 1 / 3 + γ 118 ( S -S 0 ) 2 t 2 / 3 + O ( ( S -S 0 ) 4 t )] , (19)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 153.781,
+            "t": 675.3575186484375,
+            "r": 481.07740607999995,
+            "b": 652.9417409377746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "h ∞ ( S, t ) ≈ v ∞ ( 1 S -S 0 + γt 1 / 3 ( S -S 0 ) 2 + γ 2 t 2 / 3 ( S -S 0 ) 3 + O ( t ( S -S 0 ) 4 )) . (20)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.19899999999986,
+            "t": 646.3630658484375,
+            "r": 481.0802764799999,
+            "b": 605.6501040824434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            362
+          ]
+        }
+      ],
+      "orig": "There is an entire family of similarity solutions satisfying the deep book boundary condition (18), parametrized by the deep book constant v ∞ . Only one of them satisfies the touch condition (17) for any γ , and it has to be calculated numerically. The profiles of the similarity function for various values of touch speed / touch angle γ are shown in Figure 4.",
+      "text": "There is an entire family of similarity solutions satisfying the deep book boundary condition (18), parametrized by the deep book constant v ∞ . Only one of them satisfies the touch condition (17) for any γ , and it has to be calculated numerically. The profiles of the similarity function for various values of touch speed / touch angle γ are shown in Figure 4."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.19899999999978,
+            "t": 602.5270658484377,
+            "r": 481.07758655999976,
+            "b": 550.8561040824436,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            446
+          ]
+        }
+      ],
+      "orig": "The numerical solution for the similarity function behaves as expected from the asymptotics. It leaves the dimensionless touch at zero with finite angle γ , it peaks at some point beyond the dimensionless touch, and then it decays as 1 /s into the deep book. Its assosiacted pressure peaks at the touch, and it is balanced by negative pressure at a point beyond the peak of the profile. The pressure then relaxes to uniform pressure in deep book.",
+      "text": "The numerical solution for the similarity function behaves as expected from the asymptotics. It leaves the dimensionless touch at zero with finite angle γ , it peaks at some point beyond the dimensionless touch, and then it decays as 1 /s into the deep book. Its assosiacted pressure peaks at the touch, and it is balanced by negative pressure at a point beyond the peak of the profile. The pressure then relaxes to uniform pressure in deep book."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.19899999999978,
+            "t": 547.733065848438,
+            "r": 481.08167199999974,
+            "b": 485.10210408244376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            528
+          ]
+        }
+      ],
+      "orig": "The interpretation is that orders several layers behind the touch find a possibility to improve their queue position by migrating towards the touch, leaving their original place in the queue and generating negative presure there. The accumulaton of these competing orders near the touch generates a high degree of competition for a place in the queue, manifested as high pressure, and this moves the touch forward. Orders sufficiently deep in the book do not participate in this queue competition, and their pressure is uniform.",
+      "text": "The interpretation is that orders several layers behind the touch find a possibility to improve their queue position by migrating towards the touch, leaving their original place in the queue and generating negative presure there. The accumulaton of these competing orders near the touch generates a high degree of competition for a place in the queue, manifested as high pressure, and this moves the touch forward. Orders sufficiently deep in the book do not participate in this queue competition, and their pressure is uniform."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.19899999999978,
+            "t": 481.979065848438,
+            "r": 481.0793615999998,
+            "b": 430.3081040824437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            412
+          ]
+        }
+      ],
+      "orig": "It is of note that the profile of the solutions to (14) looks very similar to the order density of Gatheral [7], Bouchaud et al [5] and many others. This is not entirely surprising; this profile is largely dictated by the boundary conditions (15); the simplest non-negative function subject to boundary conditions (15) rises from v (0) = 0, reaches a finite positive maximum, and then decays back to v ( ∞ ) ∼ 0.",
+      "text": "It is of note that the profile of the solutions to (14) looks very similar to the order density of Gatheral [7], Bouchaud et al [5] and many others. This is not entirely surprising; this profile is largely dictated by the boundary conditions (15); the simplest non-negative function subject to boundary conditions (15) rises from v (0) = 0, reaches a finite positive maximum, and then decays back to v ( ∞ ) ∼ 0."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.19899999999976,
+            "t": 413.82192344843793,
+            "r": 197.06288223999982,
+            "b": 403.20570584843796,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "3.3 Simulations",
+      "text": "3.3 Simulations",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.19899999999976,
+            "t": 394.9000658484379,
+            "r": 481.0816719999999,
+            "b": 354.1871040824437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            346
+          ]
+        }
+      ],
+      "orig": "We have performed simulations for the advancing order book in two scenarios. In the first scenario, the ask order book was filled with uniform quantity above a fixed price level, and left to evolve. In the second, everything was the same but the touch was blocked from advancing below a fixed level, chosen to simulate the effect of the bid book.",
+      "text": "We have performed simulations for the advancing order book in two scenarios. In the first scenario, the ask order book was filled with uniform quantity above a fixed price level, and left to evolve. In the second, everything was the same but the touch was blocked from advancing below a fixed level, chosen to simulate the effect of the bid book."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.19899999999976,
+            "t": 351.0640658484379,
+            "r": 481.0748966400001,
+            "b": 332.2691040824437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "The effect we simulate is the recovery of the order book after a large execution has wiped out a number of ask levels.",
+      "text": "The effect we simulate is the recovery of the order book after a large execution has wiped out a number of ask levels."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.19899999999976,
+            "t": 329.14606584843796,
+            "r": 481.0731033599997,
+            "b": 310.3511040824437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "The orderbook profiles and corresponding pressures for the two scenarios are shown in Figures 5 and 6.",
+      "text": "The orderbook profiles and corresponding pressures for the two scenarios are shown in Figures 5 and 6."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.19899999999976,
+            "t": 307.22806584843784,
+            "r": 481.08167199999974,
+            "b": 277.47510408244364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "The initial profile has a high pressure point due to the sharp cut-off at the initial touch level, and the initial stage consists of smoothing out this kink by pushing quantity both inside the spread and into deep book.",
+      "text": "The initial profile has a high pressure point due to the sharp cut-off at the initial touch level, and the initial stage consists of smoothing out this kink by pushing quantity both inside the spread and into deep book."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.19899999999976,
+            "t": 274.35206584843786,
+            "r": 481.0784831999996,
+            "b": 255.55710408244363,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "Once the effect of the initial cut off has worn out, the orderbook profile assumes the form of the self similar pressure wave advancing according to the t 1 / 3 similarity solution.",
+      "text": "Once the effect of the initial cut off has worn out, the orderbook profile assumes the form of the self similar pressure wave advancing according to the t 1 / 3 similarity solution."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.19899999999973,
+            "t": 252.43406584843785,
+            "r": 481.0800979199997,
+            "b": 211.72110408244362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            345
+          ]
+        }
+      ],
+      "orig": "In both examples, we have put a firm stop to advancing touch at the price level S = 0, simulating the effect of the bid book. In the first example, the simulation was started sufficiently far from the firm stop so that its effects are not felt. In the second example, the simulation was started near the stop so that the stop is reached quickly.",
+      "text": "In both examples, we have put a firm stop to advancing touch at the price level S = 0, simulating the effect of the bid book. In the first example, the simulation was started sufficiently far from the firm stop so that its effects are not felt. In the second example, the simulation was started near the stop so that the stop is reached quickly."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.19899999999973,
+            "t": 208.59806584843784,
+            "r": 481.07449887999985,
+            "b": 178.84510408244364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "The first example maintains the self similar pressure wave, and it would continue to maintain it for ever in the absence of a firm stop. It continues to spread ever smaller quantities deper and deeper into the spread according to the t 1 / 3 similarity solution.",
+      "text": "The first example maintains the self similar pressure wave, and it would continue to maintain it for ever in the absence of a firm stop. It continues to spread ever smaller quantities deper and deeper into the spread according to the t 1 / 3 similarity solution."
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 114.19899999999973,
+            "t": 175.72206584843786,
+            "r": 481.08077535999973,
+            "b": 156.92710408244363,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.199,
+            "t": 737.0230658484376,
+            "r": 481.0798787200001,
+            "b": 674.3931040824435,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            187,
+            658
+          ]
+        }
+      ],
+      "orig": "The second example reaches the firm stop relatively soon after the simulation was started. Self similar propagation ends once the firm stop has been hit, the touch level stops advancing, and pressure builds up at the touch level. In the limit, the pressure is maximised at the constrained touch level, and it falls off in deep book. The pressure gradient is imposed by the firm stop to the advancing contact line. The only way to releave the pressure at the touch would be to release the firm stop by crossing the spread from the ask side and taking out levels from the bid book, or by reducing the quantity at touch by crossing the spread from the bid side.",
+      "text": "The second example reaches the firm stop relatively soon after the simulation was started. Self similar propagation ends once the firm stop has been hit, the touch level stops advancing, and pressure builds up at the touch level. In the limit, the pressure is maximised at the constrained touch level, and it falls off in deep book. The pressure gradient is imposed by the firm stop to the advancing contact line. The only way to releave the pressure at the touch would be to release the firm stop by crossing the spread from the ask side and taking out levels from the bid book, or by reducing the quantity at touch by crossing the spread from the bid side."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 295.1469999999997,
+            "t": 128.45847044843788,
+            "r": 300.1282999999997,
+            "b": 119.7519045256713,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.19899999999998,
+            "t": 671.2700658484379,
+            "r": 481.0811731199998,
+            "b": 641.5161040824437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "Once the similarity scaling breaks down due to the imposition of hard stop, the soluction begins slow convergence to the steady S 1 / 2 profile from Figure 3. This convergence is very slow, and it is of no practical importance for understanding real life order books.",
+      "text": "Once the similarity scaling breaks down due to the imposition of hard stop, the soluction begins slow convergence to the steady S 1 / 2 profile from Figure 3. This convergence is very slow, and it is of no practical importance for understanding real life order books."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 622.3962774484379,
+            "r": 203.52848354000008,
+            "b": 609.6568518484379,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "4 Conclusions",
+      "text": "4 Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 598.726065848438,
+            "r": 481.0798787200001,
+            "b": 514.1781040824441,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            724
+          ]
+        }
+      ],
+      "orig": "We have presented a simple model of quantity flows in a limit order book. We are primarily interested in quantity-conserving flows, and we only use a simple assumption about the behaviour of market makers. Namely, we assume that market makers would rather join relatively empty levels than relatively full levels, and that orders' ability to move around depends on their place in the queue - the first order in the queue is the least mobile, and last order in the queue is the most mobile. We use an algebraic velocity profile, but the form of the resulting transport equation comes out independent of the choice of the algebraic profile. The choice of the algebraic profile only affects the resulting relaxation time scale.",
+      "text": "We have presented a simple model of quantity flows in a limit order book. We are primarily interested in quantity-conserving flows, and we only use a simple assumption about the behaviour of market makers. Namely, we assume that market makers would rather join relatively empty levels than relatively full levels, and that orders' ability to move around depends on their place in the queue - the first order in the queue is the least mobile, and last order in the queue is the most mobile. We use an algebraic velocity profile, but the form of the resulting transport equation comes out independent of the choice of the algebraic profile. The choice of the algebraic profile only affects the resulting relaxation time scale."
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 511.0550658484383,
+            "r": 481.07937984,
+            "b": 481.30110408244406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "The model is not intended to simulate a real world order book with all its complexities. Instead, it is intended to simulate, in a statistical ensemble sense, the collective behaviour of market makers and their reactions to each other and other traders.",
+      "text": "The model is not intended to simulate a real world order book with all its complexities. Instead, it is intended to simulate, in a statistical ensemble sense, the collective behaviour of market makers and their reactions to each other and other traders."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 478.1780658484383,
+            "r": 481.07937984,
+            "b": 448.42410408244405,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "As such, it would be foolish to take a snapshot of any real world order book, feed it to our model as the initial condition, and expect a realistic prediction of the shape of the order book in the future.",
+      "text": "As such, it would be foolish to take a snapshot of any real world order book, feed it to our model as the initial condition, and expect a realistic prediction of the shape of the order book in the future."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.19900000000007,
+            "t": 445.30106584843827,
+            "r": 481.0789820800003,
+            "b": 404.589104082444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            329
+          ]
+        }
+      ],
+      "orig": "The model is, however, useful in isolating various effects that make up the behaviour of real life order books. The specific worked out example concerns the reaction of the order book after significant quantity has been taken out by aggressive traders, and the way the interaction between market makers decays the initial impact.",
+      "text": "The model is, however, useful in isolating various effects that make up the behaviour of real life order books. The specific worked out example concerns the reaction of the order book after significant quantity has been taken out by aggressive traders, and the way the interaction between market makers decays the initial impact."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.1990000000001,
+            "t": 403.23371544843826,
+            "r": 481.08147872,
+            "b": 349.794104082444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            380
+          ]
+        }
+      ],
+      "orig": "We show that the relaxation is self similar with the t 1 / 3 scaling until the suitably chosen mid point ('mid point' being used in the most general sense) has been reached, building up a new steady state. The resulting steady state has high pressure at the thus formed touch level, and it is this high pressure that leads subsequent reactions of the order book to new situations.",
+      "text": "We show that the relaxation is self similar with the t 1 / 3 scaling until the suitably chosen mid point ('mid point' being used in the most general sense) has been reached, building up a new steady state. The resulting steady state has high pressure at the thus formed touch level, and it is this high pressure that leads subsequent reactions of the order book to new situations."
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.19900000000015,
+            "t": 348.43871544843824,
+            "r": 481.0798787200003,
+            "b": 295.00010408244395,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            406
+          ]
+        }
+      ],
+      "orig": "There is a limiting steady state solution with S 1 / 2 profile , having peak pressure at the touch evel and square root decay to zero after finitely many levels. This steady state serves as a long time attractor to the solutions with fixed touch level. However, the time scales in which the steady state is reached are very long, and they exceed any reasonable time scales related to real life order books.",
+      "text": "There is a limiting steady state solution with S 1 / 2 profile , having peak pressure at the touch evel and square root decay to zero after finitely many levels. This steady state serves as a long time attractor to the solutions with fixed touch level. However, the time scales in which the steady state is reached are very long, and they exceed any reasonable time scales related to real life order books."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.19900000000015,
+            "t": 275.88027744843816,
+            "r": 176.1143299600002,
+            "b": 263.14085184843816,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.19900000000015,
+            "t": 252.21006584843815,
+            "r": 388.3368169600002,
+            "b": 244.37410408244398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "[1] Robert Almgren, Equity market impact, Risk July 2005, 57(62).",
+      "text": "Robert Almgren, Equity market impact, Risk July 2005, 57(62).",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.19900000000015,
+            "t": 238.96006584843815,
+            "r": 481.08167199999997,
+            "b": 220.16510408244392,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "[2] Robert Almgren and Neil Chriss, Optimal execution of portfolio transactions, Journal of Risk 3 540 (2001).",
+      "text": "Robert Almgren and Neil Chriss, Optimal execution of portfolio transactions, Journal of Risk 3 540 (2001).",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.19900000000015,
+            "t": 214.7510658484382,
+            "r": 481.0771888000004,
+            "b": 184.9971040824439,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "[3] Aurelien Alfonsi, Antje Fruth and Alexander Schied, Optimal execution strategies in limit order books with general shape functions, Quantitative Finance 10(2) 143-157 (2010).",
+      "text": "Aurelien Alfonsi, Antje Fruth and Alexander Schied, Optimal execution strategies in limit order books with general shape functions, Quantitative Finance 10(2) 143-157 (2010).",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 114.19900000000015,
+            "t": 179.58406584843817,
+            "r": 481.07591296000015,
+            "b": 149.55147384843815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "[4] Aurelien Alfonsi, Alexander Schied and Alla Slynko, Order book resilience, price manipulation, and the positive portfolio problem, http://papers.ssrn.com/sol3/papers.cfm?abstract id=1498514 (2009).",
+      "text": "Aurelien Alfonsi, Alexander Schied and Alla Slynko, Order book resilience, price manipulation, and the positive portfolio problem, http://papers.ssrn.com/sol3/papers.cfm?abstract id=1498514 (2009).",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 295.14700000000016,
+            "t": 128.45847044843822,
+            "r": 300.12830000000014,
+            "b": 119.75190452567153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 114.199,
+            "t": 737.0230658484376,
+            "r": 481.0816720000001,
+            "b": 707.2701040824434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "[5] .Jean-Philippe Bouchaud, Yuval Gefen, Marc Potters, and Matthieu Wyart.Fluctuations and response in financial markets: the subtle nature of 'random' price changes.Quantitative Finance, 4:176-190, April 2004",
+      "text": ".Jean-Philippe Bouchaud, Yuval Gefen, Marc Potters, and Matthieu Wyart.Fluctuations and response in financial markets: the subtle nature of 'random' price changes.Quantitative Finance, 4:176-190, April 2004",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 114.19899999999998,
+            "t": 700.1620658484377,
+            "r": 481.07808544000005,
+            "b": 681.3671040824435,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[6] P.A. Forsyth, J.S. Kennedy, S. T. Tse, and H. Windcli, Optimal Trade Execution: A Mean-Quadratic-Variation Approach, University of Waterloo (2011).",
+      "text": "P.A. Forsyth, J.S. Kennedy, S. T. Tse, and H. Windcli, Optimal Trade Execution: A Mean-Quadratic-Variation Approach, University of Waterloo (2011).",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 114.19899999999998,
+            "t": 674.2590658484378,
+            "r": 481.07629216,
+            "b": 655.4641040824436,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "[7] Jim Gatheral, No-dynamic-arbitrage and market impact, Quantitative Finance 10(7) 749-759(2010).",
+      "text": "Jim Gatheral, No-dynamic-arbitrage and market impact, Quantitative Finance 10(7) 749-759(2010).",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 114.19899999999998,
+            "t": 648.3560658484379,
+            "r": 481.08167200000014,
+            "b": 618.6021040824437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "[8] Jim Gatheral and Alexander Schied, Optimal Trade Execution under Geometric Brownian Motion in the Almgren and Chriss Framework, International Journal of Theoretical and Applied Finance 14(3) 353-368 (2011).",
+      "text": "Jim Gatheral and Alexander Schied, Optimal Trade Execution under Geometric Brownian Motion in the Almgren and Chriss Framework, International Journal of Theoretical and Applied Finance 14(3) 353-368 (2011).",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 114.19899999999998,
+            "t": 611.494065848438,
+            "r": 481.07860287999995,
+            "b": 581.4614738484381,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "[9] Jim Gatheral, Alexander Schied and Alla Slynko, Transient linear price impact and Fredholm integral equations, Mathematical Finance http://papers.ssrn.com/sol3/papers.cfm?abstract id=1531466 (2011).",
+      "text": "Jim Gatheral, Alexander Schied and Alla Slynko, Transient linear price impact and Fredholm integral equations, Mathematical Finance http://papers.ssrn.com/sol3/papers.cfm?abstract id=1531466 (2011).",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 114.19899999999996,
+            "t": 574.6320658484382,
+            "r": 481.0744988799999,
+            "b": 555.837104082444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "[10] Anna Obizhaeva and Jiang Wang, Optimal trading strategy and supply/demand dynamics, MIT working paper (2005).",
+      "text": "Anna Obizhaeva and Jiang Wang, Optimal trading strategy and supply/demand dynamics, MIT working paper (2005).",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 114.19899999999996,
+            "t": 548.7290658484383,
+            "r": 481.0762921599999,
+            "b": 529.935104082444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "[11] Silviu Predoiu, Gennady Shaikhet and Steven Shreve, Optimal execution in a general one-sided limit-order book, SIAM Journal on Finance Mathematics 2 183-212 (2011).",
+      "text": "Silviu Predoiu, Gennady Shaikhet and Steven Shreve, Optimal execution in a general one-sided limit-order book, SIAM Journal on Finance Mathematics 2 183-212 (2011).",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 114.19899999999996,
+            "t": 522.8270658484383,
+            "r": 481.0807753600001,
+            "b": 493.07310408244405,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            240
+          ]
+        }
+      ],
+      "orig": "[12] Bence Toth, Yves Lemperiere, Cyril Deremble, Joachim de Lataillade, Julien Kockelkoren, and Jean-Philippe Bouchaud, Anomalous price impact and the critical nature of liquidity in financial markets, Physical Review X 021006, 1-11(2011).",
+      "text": "Bence Toth, Yves Lemperiere, Cyril Deremble, Joachim de Lataillade, Julien Kockelkoren, and Jean-Philippe Bouchaud, Anomalous price impact and the critical nature of liquidity in financial markets, Physical Review X 021006, 1-11(2011).",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 114.19899999999996,
+            "t": 485.96506584843826,
+            "r": 481.0736022399998,
+            "b": 466.89147384843824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "[13] Alexander Weiss, Executing large orders in a microscopic market model, http://arxiv.org/abs/0904.4131v2 (2010).",
+      "text": "Alexander Weiss, Executing large orders in a microscopic market model, http://arxiv.org/abs/0904.4131v2 (2010).",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 114.19899999999996,
+            "t": 460.06206584843824,
+            "r": 481.0759129599999,
+            "b": 430.308104082444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "[14] Yoshihiro Yura, Hideki Takayasu,Didier Sornette, and Misako Takayasu, Financial Brownian Particle in the Layered Order-Book Fluid and Fluctuation-Dissipation Relations, Phys Rev Lett 112, 098703 (2014)",
+      "text": "Yoshihiro Yura, Hideki Takayasu,Didier Sornette, and Misako Takayasu, Financial Brownian Particle in the Layered Order-Book Fluid and Fluctuation-Dissipation Relations, Phys Rev Lett 112, 098703 (2014)",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 236.506,
+            "t": 270.2684704484375,
+            "r": 358.76901972,
+            "b": 261.561904525671,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Figure 1: Limit Order Book",
+      "text": "Figure 1: Limit Order Book"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 295.147,
+            "t": 128.45847044843754,
+            "r": 300.12829999999997,
+            "b": 119.75190452567097,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 190.968,
+            "t": 489.94547044843756,
+            "r": 404.3120977000001,
+            "b": 481.238904525671,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Figure 2: Quantity flow profile in the order book",
+      "text": "Figure 2: Quantity flow profile in the order book"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 89.292,
+            "t": 197.27847044843747,
+            "r": 505.9857150799999,
+            "b": 176.61590452567089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "Figure 3: Square root steady state profile of the ask order book. Quantities are shown as blue bars, pressure is shown as amber line. Price levels are shown as distance from the touch.",
+      "text": "Figure 3: Square root steady state profile of the ask order book. Quantities are shown as blue bars, pressure is shown as amber line. Price levels are shown as distance from the touch."
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 295.147,
+            "t": 128.45847044843754,
+            "r": 300.12829999999997,
+            "b": 119.75190452567097,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 89.292,
+            "t": 208.56312004843755,
+            "r": 505.98444430000006,
+            "b": 186.3269045256709,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "Figure 4: Similarity function v ( s ) and similarity pressure gradient v ′ ( s ) for different values of dimensionless touch speed γ .",
+      "text": "Figure 4: Similarity function v ( s ) and similarity pressure gradient v ′ ( s ) for different values of dimensionless touch speed γ ."
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 295.14700000000005,
+            "t": 128.45847044843754,
+            "r": 300.1283,
+            "b": 119.75190452567097,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 89.292,
+            "t": 263.1874704484376,
+            "r": 505.9867113400001,
+            "b": 230.57090452567093,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            229
+          ]
+        }
+      ],
+      "orig": "Figure 5: Advancing Ask book, no limits. The touch pressure gradient is initially high due to the sharp cut-off, and it is quickly smoothed out. Subsequently, the self similar pressure wave propagates the touch level as t 1 / 3 .",
+      "text": "Figure 5: Advancing Ask book, no limits. The touch pressure gradient is initially high due to the sharp cut-off, and it is quickly smoothed out. Subsequently, the self similar pressure wave propagates the touch level as t 1 / 3 ."
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 292.656,
+            "t": 128.45847044843754,
+            "r": 302.61859999999996,
+            "b": 119.75190452567085,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 89.29199999999997,
+            "t": 269.16547044843753,
+            "r": 505.9857150799999,
+            "b": 224.59290452567097,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            378
+          ]
+        }
+      ],
+      "orig": "Figure 6: Advancing Ask book, limited at fixed price level.The touch pressure gradient is initially high due to the sharp cut-off, and it is quickly smoothed out. Subsequently, the self similar pressure wave propagates the touch level as t 1 / 3 . Once the limit has been reached, the pressure wave can propagate no further and pressure builds up at the constrained touch level.",
+      "text": "Figure 6: Advancing Ask book, limited at fixed price level.The touch pressure gradient is initially high due to the sharp cut-off, and it is quickly smoothed out. Subsequently, the self similar pressure wave propagates the touch level as t 1 / 3 . Once the limit has been reached, the pressure wave can propagate no further and pressure builds up at the constrained touch level."
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 292.65599999999995,
+            "t": 128.45847044843754,
+            "r": 302.6185999999999,
+            "b": 119.75190452567097,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "11",
+      "text": "11"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/122"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 87.60820007324219,
+            "t": 412.19122314453125,
+            "r": 515.8805541992188,
+            "b": 280.7847900390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/122"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/124"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 87.84868621826172,
+            "t": 718.3449172973633,
+            "r": 450.4944152832031,
+            "b": 501.3538513183594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/124"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/125"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 87.66065216064453,
+            "t": 425.8589172363281,
+            "r": 449.72021484375,
+            "b": 209.44439697265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/125"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/127"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 87.25289154052734,
+            "t": 707.9539642333984,
+            "r": 470.7803039550781,
+            "b": 218.61297607421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/127"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/129"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 87.86322784423828,
+            "t": 664.5055541992188,
+            "r": 560.1937255859375,
+            "b": 274.693359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/129"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/131"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 87.35680389404297,
+            "t": 670.4452972412109,
+            "r": 554.5728149414062,
+            "b": 280.48516845703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/131"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 11
+    }
+  }
+}

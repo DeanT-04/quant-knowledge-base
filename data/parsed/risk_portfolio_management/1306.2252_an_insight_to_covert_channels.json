@@ -1,0 +1,2276 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1306.2252_an_insight_to_covert_channels",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 28182671282031646,
+    "filename": "1306.2252_an_insight_to_covert_channels.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/groups/9"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 188.4,
+            "t": 717.432,
+            "r": 423.40800000000013,
+            "b": 699.8989090909091,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "An Insight to Covert Channels",
+      "text": "An Insight to Covert Channels",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 147.0,
+            "t": 685.0226544000001,
+            "r": 464.93955,
+            "b": 670.9192727272728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Nitish Salwan 1 , Sandeep Singh 2 , Suket Arora 3 , Amarpreet Singh 4",
+      "text": "Nitish Salwan 1 , Sandeep Singh 2 , Suket Arora 3 , Amarpreet Singh 4"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 143.64,
+            "t": 658.960712,
+            "r": 468.16882950000036,
+            "b": 647.426825309091,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "1 Student, Department of CSE, Amritsar College of Engg & Technology, Amritsar",
+      "text": "1 Student, Department of CSE, Amritsar College of Engg & Technology, Amritsar"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 143.64,
+            "t": 647.440712,
+            "r": 468.16882950000036,
+            "b": 635.9068253090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "2 Student, Department of CSE, Amritsar College of Engg & Technology, Amritsar",
+      "text": "2 Student, Department of CSE, Amritsar College of Engg & Technology, Amritsar"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.88,
+            "t": 635.920712,
+            "r": 123.12025,
+            "b": 629.6083122424243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 123.12,
+            "t": 634.0893456,
+            "r": 491.91236160000045,
+            "b": 624.3868253090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Assistant Professor, Department of CSE, Amritsar College of Engg & Technology, Amritsar",
+      "text": "Assistant Professor, Department of CSE, Amritsar College of Engg & Technology, Amritsar"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 118.8,
+            "t": 624.520712,
+            "r": 122.04025,
+            "b": 618.2083122424243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 122.04,
+            "t": 622.6893456,
+            "r": 493.1034468000004,
+            "b": 612.9868253090909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Associate Professor, Department of CSE, Amritsar College of Engg & Technology, Amritsar",
+      "text": "Associate Professor, Department of CSE, Amritsar College of Engg & Technology, Amritsar"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.92,
+            "t": 600.6239999999999,
+            "r": 489.06030000000004,
+            "b": 578.3694545454546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "E-mail : 1 salvishu5050@gmail.com, 2 sandeep.sandhu50@yahoo.com, 3 suket.arora@yahoo.com, 4 amarmandeep@yahoo.com",
+      "text": "E-mail : 1 salvishu5050@gmail.com, 2 sandeep.sandhu50@yahoo.com, 3 suket.arora@yahoo.com, 4 amarmandeep@yahoo.com"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 548.208,
+            "r": 137.34,
+            "b": 536.5192727272727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "ABSTRACT",
+      "text": "ABSTRACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.99889608999996,
+            "t": 532.8146544,
+            "r": 290.93847029999995,
+            "b": 376.6239672836363,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            499
+          ]
+        }
+      ],
+      "orig": "This paper presents an overview of different concepts regarding covert channels. It discusses the  various  classifications  and  the  detailing  of various fields used to manipulate for the covert channel execution. Different evaluation criteria's are presented for measuring the strength  of  covert  channels. The  defenses  and prevention schemes for this covert channel will also be discussed. This paper also discuss about an  advanced  timing  channel  i.e.  Temperature Based Covert Channel.",
+      "text": "This paper presents an overview of different concepts regarding covert channels. It discusses the  various  classifications  and  the  detailing  of various fields used to manipulate for the covert channel execution. Different evaluation criteria's are presented for measuring the strength  of  covert  channels. The  defenses  and prevention schemes for this covert channel will also be discussed. This paper also discuss about an  advanced  timing  channel  i.e.  Temperature Based Covert Channel."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.99960715,
+            "t": 358.21465440000003,
+            "r": 290.90496014999985,
+            "b": 318.42244550363637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "Keywords: Covert  Channel,  Storage  Channel, Timing  Channels,  Temperature  based  Covert Channel",
+      "text": "Keywords: Covert  Channel,  Storage  Channel, Timing  Channels,  Temperature  based  Covert Channel"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 300.408,
+            "r": 149.34,
+            "b": 288.7192727272727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.99964354,
+            "t": 284.89465440000004,
+            "r": 290.96019203999987,
+            "b": 85.14478259363636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            659
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 324.00132225,
+            "t": 548.65959807,
+            "r": 542.9618707499999,
+            "b": 494.3476609436364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            660,
+            832
+          ]
+        }
+      ],
+      "orig": "Often it is thought that encryption is sufficient  to  secure  communication.  However, encryption  only  prevents  unauthorized parties from  decoding  the  communication.  In  many cases  the  mere  existence  of  communication  or changes in  communication  patterns,  such  as  an increased  message  frequency,  are  enough  to raise  suspicion  and  reveal  the  onset  of  events. Covert channels attempt to hide the very existence of communication. Typically, they use means of communication not normally intended to  be  used. Even the  most  securely  designed computer  systems  may  inadvertently  contain covert (communication)  channels  between specific users/processes of different security levels. Several  definitions  for  covert  channels have  been  proposed  depending  on  the  context, such as the following:",
+      "text": "Often it is thought that encryption is sufficient  to  secure  communication.  However, encryption  only  prevents  unauthorized parties from  decoding  the  communication.  In  many cases  the  mere  existence  of  communication  or changes in  communication  patterns,  such  as  an increased  message  frequency,  are  enough  to raise  suspicion  and  reveal  the  onset  of  events. Covert channels attempt to hide the very existence of communication. Typically, they use means of communication not normally intended to  be  used. Even the  most  securely  designed computer  systems  may  inadvertently  contain covert (communication)  channels  between specific users/processes of different security levels. Several  definitions  for  covert  channels have  been  proposed  depending  on  the  context, such as the following:"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 324.0,
+            "t": 489.7346544,
+            "r": 542.8343462999999,
+            "b": 435.30239108363634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": " According to Lampson [1], a communication  channel  is  covert  if  it  is neither  designed  nor  intended  to  transfer information at all.",
+      "text": " According to Lampson [1], a communication  channel  is  covert  if  it  is neither  designed  nor  intended  to  transfer information at all.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 324.0,
+            "t": 430.81465440000005,
+            "r": 542.9314903799999,
+            "b": 361.74233666363637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": " According to Schaefer [2], A communication channel is covert (e.g., indirect)  if  it  is  based  on  \"transmission  by storage into variables that describe resource states.'",
+      "text": " According to Schaefer [2], A communication channel is covert (e.g., indirect)  if  it  is  based  on  \"transmission  by storage into variables that describe resource states.'",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 324.0,
+            "t": 357.25465440000005,
+            "r": 542.9292825599999,
+            "b": 302.8223910836364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": " According to Kemmerer [3], Covert channels  are  those  that  \"use  entities  not normally viewed as data objects  to transfer information from one subject to another.\"",
+      "text": " According to Kemmerer [3], Covert channels  are  those  that  \"use  entities  not normally viewed as data objects  to transfer information from one subject to another.\"",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 323.99964354,
+            "t": 284.41536087000003,
+            "r": 542.8619440499998,
+            "b": 186.42391286363636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "Indeed  any  of  these  definitions  is  correct  in  a particular  situation,  but  together they  help  to understand  the concept  of  covert  channels. In simple words, a covert channel is a communication channel that can be exploited by a  process  to  transfer  information  in  a  manner that violates a system's security policy [4].",
+      "text": "Indeed  any  of  these  definitions  is  correct  in  a particular  situation,  but  together they  help  to understand  the concept  of  covert  channels. In simple words, a covert channel is a communication channel that can be exploited by a  process  to  transfer  information  in  a  manner that violates a system's security policy [4]."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 324.0,
+            "t": 166.36799999999994,
+            "r": 507.65999999999997,
+            "b": 154.67927272727275,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "2. Classification of Covert Channels",
+      "text": "2. Classification of Covert Channels",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 324.00039099,
+            "t": 150.85465439999996,
+            "r": 542.8406132999996,
+            "b": 125.58217373363641,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Covert channels can classified into two categories",
+      "text": "Covert channels can classified into two categories"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 342.0,
+            "t": 121.09465439999997,
+            "r": 465.7766561999998,
+            "b": 110.34190196363636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": " Covert Storage Channel",
+      "text": " Covert Storage Channel",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 342.0,
+            "t": 105.73465439999995,
+            "r": 464.5954724999999,
+            "b": 94.98190196363635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": " Covert Timing Channel",
+      "text": " Covert Timing Channel",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 718.368,
+            "r": 218.65200000000002,
+            "b": 706.6792727272727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "2.1 Covert Storage Channels",
+      "text": "2.1 Covert Storage Channels",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 704.8946544,
+            "r": 290.96054849999985,
+            "b": 592.2623910836363,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            369
+          ]
+        }
+      ],
+      "orig": "A potential covert channel is a storage channel if its scenario of use \"involves the direct or indirect writing of a storage location by one process and the  direct  or  indirect  reading  of  the  storage location by another process\" [5]. Storage channels  use  memory  locations,  such  as  object attributes, its existence and shared resources, for transmission [6].",
+      "text": "A potential covert channel is a storage channel if its scenario of use \"involves the direct or indirect writing of a storage location by one process and the  direct  or  indirect  reading  of  the  storage location by another process\" [5]. Storage channels  use  memory  locations,  such  as  object attributes, its existence and shared resources, for transmission [6]."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99999999999997,
+            "t": 576.2546544,
+            "r": 290.7684681599999,
+            "b": 550.9821737336365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "2.1.1 Classification of Covert Storage channels",
+      "text": "2.1.1 Classification of Covert Storage channels",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99964354,
+            "t": 537.3746544,
+            "r": 290.86746359999995,
+            "b": 512.1021737336364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "Storage channels  mainly manipulate  two aspects of information to embed covert data.",
+      "text": "Storage channels  mainly manipulate  two aspects of information to embed covert data."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 497.6546544,
+            "r": 290.9107921199999,
+            "b": 355.86336932363633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            442
+          ]
+        }
+      ],
+      "orig": " Entity  Attributes : File  names  can be  used for  storage  channels  [6].  It  can  be  changed by one process. A message transfer between the  processes occurs when a read operation performed by any other process. File attributes, which contains properties about a file, can also be manipulated. Even if we are asking  for  a  file  which  does  not  exist,  the feedback status returned by file  system can be used for storage channels.",
+      "text": " Entity  Attributes : File  names  can be  used for  storage  channels  [6].  It  can  be  changed by one process. A message transfer between the  processes occurs when a read operation performed by any other process. File attributes, which contains properties about a file, can also be manipulated. Even if we are asking  for  a  file  which  does  not  exist,  the feedback status returned by file  system can be used for storage channels.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 351.37465440000005,
+            "r": 290.9449362899999,
+            "b": 282.30233666363637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": " Shared  Resources : Such  resources  as  disk blocks, physical memory, I/O buffers, allocated  I/O  devices,  and  various  queues for  shared  devices,  such  as  printers  and plotters, can be used as storage channels [6].",
+      "text": " Shared  Resources : Such  resources  as  disk blocks, physical memory, I/O buffers, allocated  I/O  devices,  and  various  queues for  shared  devices,  such  as  printers  and plotters, can be used as storage channels [6].",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 263.77465440000003,
+            "r": 267.04985790000006,
+            "b": 253.0219019636363,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "2.1.2 Prevention against Storage channels",
+      "text": "2.1.2 Prevention against Storage channels",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 248.77465440000003,
+            "r": 290.9550298199998,
+            "b": 77.94217373363631,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            530
+          ]
+        }
+      ],
+      "orig": " Mandatory Access Controls : Usage of mandatory  access  controls  that  cannot  be directly or indirectly bypassed [6]. Whenever  a  subject  attempts  to  access  an object, an authorization rule enforced by the operating system kernel examines these security  attributes  and  decides  whether  the access can take place. Any operation by any subject on any object will be tested against the set of authorization rules (aka policy )  to determine  if  the  operation  is  allowed. This will allow the system  to assign special",
+      "text": " Mandatory Access Controls : Usage of mandatory  access  controls  that  cannot  be directly or indirectly bypassed [6]. Whenever  a  subject  attempts  to  access  an object, an authorization rule enforced by the operating system kernel examines these security  attributes  and  decides  whether  the access can take place. Any operation by any subject on any object will be tested against the set of authorization rules (aka policy )  to determine  if  the  operation  is  allowed. This will allow the system  to assign special",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 342.0005748,
+            "t": 718.6974670799999,
+            "r": 542.9121947999998,
+            "b": 693.4249864136364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "security attributes which cannot be changed on request as other attributes can.",
+      "text": "security attributes which cannot be changed on request as other attributes can."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 324.0,
+            "t": 688.9346544,
+            "r": 542.8998615299998,
+            "b": 605.3426084336365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": " Shared  Resource  Overflow : In  order  to minimize  any  shared  resource  from  being able to fill the resource queue, a per-process quota  can  be  used  [6].  The  main  problem with this method is that the resources are no longer shared between processes.",
+      "text": " Shared  Resource  Overflow : In  order  to minimize  any  shared  resource  from  being able to fill the resource queue, a per-process quota  can  be  used  [6].  The  main  problem with this method is that the resources are no longer shared between processes.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 324.0,
+            "t": 589.3346544,
+            "r": 421.79538689999987,
+            "b": 578.5819019636364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "2.2 Timing Channels",
+      "text": "2.2 Timing Channels",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 324.0,
+            "t": 571.9346544,
+            "r": 542.8943138999999,
+            "b": 473.9419019636364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            300
+          ]
+        }
+      ],
+      "orig": "A potential covert channel is a timing channel if its scenario of use involves a process that \"signals  information  to  another  by  modulating its own use of system resources (e.g., CPU time) in such a way that this manipulation affects the real response time  observed  by the second process.\" [5]",
+      "text": "A potential covert channel is a timing channel if its scenario of use involves a process that \"signals  information  to  another  by  modulating its own use of system resources (e.g., CPU time) in such a way that this manipulation affects the real response time  observed  by the second process.\" [5]"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 324.0,
+            "t": 455.4146544,
+            "r": 505.10747459999976,
+            "b": 444.66190196363635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "2.2.1 Classification of Timing channels",
+      "text": "2.2.1 Classification of Timing channels",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 324.0,
+            "t": 431.0546544,
+            "r": 542.7287273999999,
+            "b": 391.26244550363634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "Based on the source of the network connection that  is  used, Timing channels can be  classified as:",
+      "text": "Based on the source of the network connection that  is  used, Timing channels can be  classified as:"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 323.99938368,
+            "t": 377.4156675,
+            "r": 542.9488930799997,
+            "b": 279.4232063936363,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "· Passive : Timing channels that use an existing connection  established  by  the  user  to  transfer covert data. Their capacity to transfer is limited by  the  throughput  of  the base  connection.  As passive timing channels do not create any additional network  connections,  they  are  less prone to detection.",
+      "text": "Passive : Timing channels that use an existing connection  established  by  the  user  to  transfer covert data. Their capacity to transfer is limited by  the  throughput  of  the base  connection.  As passive timing channels do not create any additional network  connections,  they  are  less prone to detection.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 323.99933538000005,
+            "t": 261.01617618,
+            "r": 542.8936492799996,
+            "b": 177.54293462363637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            274
+          ]
+        }
+      ],
+      "orig": "· Active : Timing channels that spawn a separate connection  to  transfer  covert  data.  They are capable of achieving significantly higher throughput as compared to passive timing channels. As the attacker has to create his own connection they are more prone to detection.",
+      "text": "Active : Timing channels that spawn a separate connection  to  transfer  covert  data.  They are capable of achieving significantly higher throughput as compared to passive timing channels. As the attacker has to create his own connection they are more prone to detection.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 324.0,
+            "t": 159.01465440000004,
+            "r": 510.05299139999966,
+            "b": 148.26190196363632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "2.2.2 Defenses against Timing Channels",
+      "text": "2.2.2 Defenses against Timing Channels",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 324.0,
+            "t": 134.65465440000003,
+            "r": 542.8391183999997,
+            "b": 94.86244550363631,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "Defenses against timing channels can be classified  as  Prevention-based  and  Detectionbased.",
+      "text": "Defenses against timing channels can be classified  as  Prevention-based  and  Detectionbased."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.12,
+            "t": 717.8546544000001,
+            "r": 290.9891,
+            "b": 590.7019019636364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            377
+          ]
+        }
+      ],
+      "orig": " Prevention  Based : The  primary  goal of prevention-based defenses is to eliminate the possibility  of  timing  channels or  make  it impractical  to  establish  a  timing  channel. The working of timing channel depends on timing  information;  therefore,  preventionbased  defenses  erode  these  properties  of  a channel  by  distorting  the  timing  of  traffic streams.",
+      "text": " Prevention  Based : The  primary  goal of prevention-based defenses is to eliminate the possibility  of  timing  channels or  make  it impractical  to  establish  a  timing  channel. The working of timing channel depends on timing  information;  therefore,  preventionbased  defenses  erode  these  properties  of  a channel  by  distorting  the  timing  of  traffic streams.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.12,
+            "t": 585.72,
+            "r": 291.0403775999997,
+            "b": 341.58190196363637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            758
+          ]
+        }
+      ],
+      "orig": " Detection Based : In case of Detection, anomalies in statistical properties of network traffic are used to differentiate covert traffic from legitimate traffic. The most commonly used statistical properties are shape and regularity. In general, passive timing channels are more prone to shape detection as  they  add  delay  in  legitimate streams. They almost follow the same recurrence  of patterns  as  in  legitimate  traffic  and  are  not prone to regularity tests. On the other hand, since active timing channels generate traffic, they can  easily  maintain  the  shape  of  the distribution and  are  less  prone  to  shape detection test. However, they cannot maintain  the  recurrence  of  patterns  and  are easily detectable by regularity test.",
+      "text": " Detection Based : In case of Detection, anomalies in statistical properties of network traffic are used to differentiate covert traffic from legitimate traffic. The most commonly used statistical properties are shape and regularity. In general, passive timing channels are more prone to shape detection as  they  add  delay  in  legitimate streams. They almost follow the same recurrence  of patterns  as  in  legitimate  traffic  and  are  not prone to regularity tests. On the other hand, since active timing channels generate traffic, they can  easily  maintain  the  shape  of  the distribution and  are  less  prone  to  shape detection test. However, they cannot maintain  the  recurrence  of  patterns  and  are easily detectable by regularity test.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.12,
+            "t": 321.528,
+            "r": 190.51372860000006,
+            "b": 309.8392727272727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "3. Evaluation Criteria",
+      "text": "3. Evaluation Criteria",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.12,
+            "t": 306.01465440000004,
+            "r": 290.9264949999999,
+            "b": 280.74190196363634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "We use three main criteria for evaluating covert channels in network protocols.",
+      "text": "We use three main criteria for evaluating covert channels in network protocols."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.12,
+            "t": 276.25465440000005,
+            "r": 290.95695099999995,
+            "b": 202.14190196363643,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            246
+          ]
+        }
+      ],
+      "orig": " Capacity determines  the  maximum  errorfree  transmission  rate  of  a  covert  channel [7].  Capacity  is  typically  measured  in  bits per second, but for network covert channels it  can  also  be  expressed  in  bits  per  overt packet.[8]",
+      "text": " Capacity determines  the  maximum  errorfree  transmission  rate  of  a  covert  channel [7].  Capacity  is  typically  measured  in  bits per second, but for network covert channels it  can  also  be  expressed  in  bits  per  overt packet.[8]",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.12,
+            "t": 199.5746544,
+            "r": 290.9018617999999,
+            "b": 159.6619019636364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": " Robustness determines how easily a covert channel is eliminated or its capacity is limited by channel noise.[8]",
+      "text": " Robustness determines how easily a covert channel is eliminated or its capacity is limited by channel noise.[8]",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.12,
+            "t": 155.1746544,
+            "r": 290.9274005999998,
+            "b": 100.62190196363633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": " Stealth determines how  easily a covert channel  can  be  detected  by  comparing  the characteristics of traffic with covert channel and unmodified legitimate traffic.[8]",
+      "text": " Stealth determines how  easily a covert channel  can  be  detected  by  comparing  the characteristics of traffic with covert channel and unmodified legitimate traffic.[8]",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 324.12,
+            "t": 718.128,
+            "r": 416.61880600000006,
+            "b": 706.4392727272727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "4. Effect of Noise",
+      "text": "4. Effect of Noise",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 324.12,
+            "t": 692.6546544,
+            "r": 543.0516339999995,
+            "b": 477.1192727272727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            705
+          ]
+        }
+      ],
+      "orig": "As  with  any  communication  channel,  covert channels can be noisy or noiseless. A channel is said to be noiseless if the symbols transmitted by the sender are the same as those received by the receiver with probability 1. With covert channels, each symbol is usually represented by one bit and, therefore, a covert channel is noiseless  if  any  bit  transmitted  by  a  sender  is decoded correctly by the receiver with probability 1. Noise increases the error rates in a communication channel. The capacity of a channel is its maximum  possible error-free information  rate  in  bits  per  second.  By  using error-correcting codes, one can substantially reduce the error rates of noisy channels [9].",
+      "text": "As  with  any  communication  channel,  covert channels can be noisy or noiseless. A channel is said to be noiseless if the symbols transmitted by the sender are the same as those received by the receiver with probability 1. With covert channels, each symbol is usually represented by one bit and, therefore, a covert channel is noiseless  if  any  bit  transmitted  by  a  sender  is decoded correctly by the receiver with probability 1. Noise increases the error rates in a communication channel. The capacity of a channel is its maximum  possible error-free information  rate  in  bits  per  second.  By  using error-correcting codes, one can substantially reduce the error rates of noisy channels [9]."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 324.12,
+            "t": 462.76800000000003,
+            "r": 531.5211773000001,
+            "b": 451.0792727272727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "5. Temperature based Covert Channels",
+      "text": "5. Temperature based Covert Channels",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 324.12,
+            "t": 437.2946544,
+            "r": 543.0626521999997,
+            "b": 178.43700712727275,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            840
+          ]
+        }
+      ],
+      "orig": "Temperature based covert channel is an example of an advance covert channel. It is noisy indirect timing  channels  that  transmit  covert  data  via changes of temperature (referred to as temperature-based  covert  channels),  exploiting the fact  that a  host's CPU temperature depends on the number of service requests processed per time unit and the skew of a host's system clock depends on the temperature. Clock skew changes can be estimated remotely from a series of a clock's timestamps [8].It is not possible to directly  measure  a  remote  host's  true clock skew.  However,  the  attacker  can  measure  the offset  between  the  target's  clock  and  a  local clock, and then estimate the relative clock skew. For  a  packet  i,  containing  a  timestamp  of  the target's clock received by the attacker, the offset õi is [10]:",
+      "text": "Temperature based covert channel is an example of an advance covert channel. It is noisy indirect timing  channels  that  transmit  covert  data  via changes of temperature (referred to as temperature-based  covert  channels),  exploiting the fact  that a  host's CPU temperature depends on the number of service requests processed per time unit and the skew of a host's system clock depends on the temperature. Clock skew changes can be estimated remotely from a series of a clock's timestamps [8].It is not possible to directly  measure  a  remote  host's  true clock skew.  However,  the  attacker  can  measure  the offset  between  the  target's  clock  and  a  local clock, and then estimate the relative clock skew. For  a  packet  i,  containing  a  timestamp  of  the target's clock received by the attacker, the offset õi is [10]:"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 350.17730712890625,
+            "t": 158.42340087890625,
+            "r": 515.3447875976562,
+            "b": 118.668701171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 324.12,
+            "t": 101.65465440000003,
+            "r": 543.0040769999996,
+            "b": 75.59700712727272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99905257,
+            "t": 718.6946544,
+            "r": 290.9187563999999,
+            "b": 649.7421737336365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            93,
+            294
+          ]
+        }
+      ],
+      "orig": "Where ˜ t i is the estimated time at the intermediate, t ri is the local time the packet was received, s c is the constant clock-skew component, the integral over s (t) is the variable clock  skew  component,  c i /h  is  the  quantization noise for random sampling and di is the network delay.",
+      "text": "Where ˜ t i is the estimated time at the intermediate, t ri is the local time the packet was received, s c is the constant clock-skew component, the integral over s (t) is the variable clock  skew  component,  c i /h  is  the  quantization noise for random sampling and di is the network delay."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99905257,
+            "t": 645.97519794,
+            "r": 290.98278317999984,
+            "b": 562.5034781636364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "Temperature-based  channels  could  possibly  be used for general-purpose covert communications,  even  in  scenarios  where  most other simpler covert channels are not available, because it is difficult to eliminate them completely [10].",
+      "text": "Temperature-based  channels  could  possibly  be used for general-purpose covert communications,  even  in  scenarios  where  most other simpler covert channels are not available, because it is difficult to eliminate them completely [10]."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 543.648,
+            "r": 132.348,
+            "b": 531.9592727272727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Conclusion",
+      "text": "Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 528.2546544,
+            "r": 290.96054849999985,
+            "b": 430.2632063936364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            288
+          ]
+        }
+      ],
+      "orig": "In  this  paper,  we  presented  an  overview  of covert channels, their classification, and methods for preventing them which will help the beginners  to understand  it. We  have  briefly discussed effect of noise in covert channels. We also explored covert channel based on temperature.",
+      "text": "In  this  paper,  we  presented  an  overview  of covert channels, their classification, and methods for preventing them which will help the beginners  to understand  it. We  have  briefly discussed effect of noise in covert channels. We also explored covert channel based on temperature."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 415.968,
+            "r": 131.96400000000003,
+            "b": 404.2792727272727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "References:",
+      "text": "References:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99924457,
+            "t": 390.6146544,
+            "r": 290.9266925999999,
+            "b": 350.70217373363636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "[1] B. W. Lampson, \" A Note on the Confinement Problem ,\" Communications of the ACM, 16:10, pp. 613-615, October 1973",
+      "text": "B. W. Lampson, \" A Note on the Confinement Problem ,\" Communications of the ACM, 16:10, pp. 613-615, October 1973",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99896023000002,
+            "t": 346.93519794,
+            "r": 290.93743052999986,
+            "b": 277.98239108363634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "[2]  M.  Schaefer,  B.  Gold,  R.  Linde,  and  J. Scheid,  \" Program  Confinement  in  KVM/370 \" Proceedings of the 1977 Annual ACM Conference,  Seattle,  Washington,  ACM,  New York, pp. 404-410, October 1977",
+      "text": " M.  Schaefer,  B.  Gold,  R.  Linde,  and  J. Scheid,  \" Program  Confinement  in  KVM/370 \" Proceedings of the 1977 Annual ACM Conference,  Seattle,  Washington,  ACM,  New York, pp. 404-410, October 1977",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99896023000002,
+            "t": 274.21541529,
+            "r": 290.94677541,
+            "b": 205.2624455036364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "[3]  R.  A.  Kemmerer,  \" Shared Resource Matrix Methodology: An Approach to Identifying Storage and Timing Channels \" ACM Transactions  on  Computer  Systems,  1:3,  pp. 256-277, August 1983",
+      "text": " R.  A.  Kemmerer,  \" Shared Resource Matrix Methodology: An Approach to Identifying Storage and Timing Channels \" ACM Transactions  on  Computer  Systems,  1:3,  pp. 256-277, August 1983",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99904339000003,
+            "t": 201.49546970999995,
+            "r": 290.94942437999987,
+            "b": 88.86266285363638,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            310
+          ]
+        }
+      ],
+      "orig": "[4] Steven Gianvecchio, Haining Wang, Duminda Wijesekera, and Sushil Jajodia. ModelBased Covert Timing Channels: Automated Modeling and Evasion . In RAID '08: Proceedings of the 11th international symposium on Recent  Advances  in  Intrusion  Detection, pages 211-230, Berlin, Heidelberg, 2008. Springer-Verlag",
+      "text": "Steven Gianvecchio, Haining Wang, Duminda Wijesekera, and Sushil Jajodia. ModelBased Covert Timing Channels: Automated Modeling and Evasion . In RAID '08: Proceedings of the 11th international symposium on Recent  Advances  in  Intrusion  Detection, pages 211-230, Berlin, Heidelberg, 2008. Springer-Verlag",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 324.0,
+            "t": 718.6946544,
+            "r": 542.9561328599999,
+            "b": 664.2619019636364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "[5]  NCSC-TG-030, Covert Channel Analysis of Trusted Systems (Light Pink Book) from the United States Department of Defense (DoD) Rainbow Series publications.",
+      "text": " NCSC-TG-030, Covert Channel Analysis of Trusted Systems (Light Pink Book) from the United States Department of Defense (DoD) Rainbow Series publications.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.99924916,
+            "t": 660.4946544000001,
+            "r": 542.7655094999999,
+            "b": 620.7021737336365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "[6] M.  Gasser. Building  a  secure  computer system ,  New  York:  Van  Nostrand  Reinhold, 1988.",
+      "text": "M.  Gasser. Building  a  secure  computer system ,  New  York:  Van  Nostrand  Reinhold, 1988.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.9979168599999,
+            "t": 616.8148717500002,
+            "r": 542.93803527,
+            "b": 504.30244550363636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "[7] T.  M.  Cover,  J.  A.  Thomas.  Elements  of Information Theory. Wiley Series in Telecommunications. John Wiley & Sons, 1991 [8]  Sebastian  Zander, Performance  of  Selected Noisy Covert Channels and Their Countermeasures in IP Networks , thesis submitted at Swinburne University of Technology, Melbourne.",
+      "text": "T.  M.  Cover,  J.  A.  Thomas.  Elements  of Information Theory. Wiley Series in Telecommunications. John Wiley & Sons, 1991 [8]  Sebastian  Zander, Performance  of  Selected Noisy Covert Channels and Their Countermeasures in IP Networks , thesis submitted at Swinburne University of Technology, Melbourne.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.9979168599999,
+            "t": 500.53546971000003,
+            "r": 542.8599125999998,
+            "b": 460.6221737336364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "[9]  R.  G.  Gallager, Information  Theory  and Reliable Communications , John Wiley and Sons, New York, 1968",
+      "text": " R.  G.  Gallager, Information  Theory  and Reliable Communications , John Wiley and Sons, New York, 1968",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.99883948,
+            "t": 456.85519794000004,
+            "r": 542.9744172000001,
+            "b": 387.90239108363636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "[10]  S.  J.  Murdoch. Hot  or  Not:  Revealing Hidden Services by Their Clock Skew . In Proceedings of 13th ACM  Conference on Computer and Communications Security (CCS), pages 27-36, November 2006",
+      "text": " S.  J.  Murdoch. Hot  or  Not:  Revealing Hidden Services by Their Clock Skew . In Proceedings of 13th ACM  Conference on Computer and Communications Security (CCS), pages 27-36, November 2006",
+      "enumerated": true,
+      "marker": "[10]"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    }
+  }
+}

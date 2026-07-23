@@ -1,0 +1,1580 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1907.12093_taxable_stock_trading_with_deep_reinforcement_lear",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6368237848092247931,
+    "filename": "1907.12093_taxable_stock_trading_with_deep_reinforcement_lear.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/groups/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 579.1999999999999,
+            "r": 36.206559297218156,
+            "b": 217.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "arXiv:1907.12093v2  [q-fin.TR]  31 Jul 2019",
+      "text": "arXiv:1907.12093v2  [q-fin.TR]  31 Jul 2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 139.69,
+            "t": 698.028878,
+            "r": 497.51292039999976,
+            "b": 685.1316442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Taxable Stock Trading with Deep Reinforcement Learning",
+      "text": "Taxable Stock Trading with Deep Reinforcement Learning",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 293.405,
+            "t": 619.219194,
+            "r": 346.28648079999994,
+            "b": 610.2628166000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Shan Huang",
+      "text": "Shan Huang",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 196.265,
+            "t": 606.8756526,
+            "r": 440.9350799999997,
+            "b": 598.3237743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "National University of Singapore, a0120756@u.nus.edu",
+      "text": "National University of Singapore, a0120756@u.nus.edu"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 170.358,
+            "t": 547.2860880000001,
+            "r": 214.84329920000005,
+            "b": 536.5383632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 95.52600000000001,
+            "t": 515.2406526000001,
+            "r": 289.6771488000001,
+            "b": 387.1367743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            488
+          ]
+        }
+      ],
+      "orig": "In this paper, we propose stock trading based on the average tax basis. Recall that when selling stocks, capital gain should be taxed while capital loss can earn certain tax rebate. We learn the optimal trading strategies with and without considering taxes by reinforcement learning. The result shows that tax ignorance could induce more than 62% loss on the average portfolio returns, implying that taxes should be embedded in the environment of continuous stock trading on AI platforms.",
+      "text": "In this paper, we propose stock trading based on the average tax basis. Recall that when selling stocks, capital gain should be taxed while capital loss can earn certain tax rebate. We learn the optimal trading strategies with and without considering taxes by reinforcement learning. The result shows that tax ignorance could induce more than 62% loss on the average portfolio returns, implying that taxes should be embedded in the environment of continuous stock trading on AI platforms."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.60000000000001,
+            "t": 357.42508800000013,
+            "r": 156.42910720000003,
+            "b": 346.6773632000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "1 Background",
+      "text": "1 Background",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.60000000000001,
+            "t": 330.38765260000014,
+            "r": 309.6025501999998,
+            "b": 82.73177439292044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1144
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 327.6,
+            "t": 545.5226526,
+            "r": 561.6015487999999,
+            "b": 465.2397743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1145,
+            1525
+          ]
+        }
+      ],
+      "orig": "Stochastic control over time is one of the most important topics in financial trading, portfolio selection, and asset allocation. In stochastic control, an agent optimally makes the decision (action) based on the observed state variables, in order to maximize his objective function. Recent years have seen a lot of successful applications of deep reinforcement learning to train a self learning AI-Agents. For example, AlphaGo, a hybrid DRL system, defeated a human world champion in Go (David Silver, 2016). DRL algorithms have already been applied to a wide range of problems, such as robotics (Sergey Levine & Abbeel, 2016; Yan Duan & Abbeel, 2016) and video games (Volodymyr Mnih, 2015). Moreover, several different approaches have been proposed for reinforcement learning with neural network function approximators (Volodymyr Mnih, 2015; John Schulman & region policy optimization, 2015; John Schulman & Abbeel, 2016; John Schulman & Klimov, 2017) Trading stocks by reinforcement learning can guide and help agents to increase their portfolio returns. Though transaction cost is considered when buying and selling stocks 1 , those results are still questionable since tax is never considered. Paying tax should be the one of the main concerns in stock trading because tax is much higher compared to transaction costs. Notice that reinforcement learning is developed based the Markovian Decision Process (MDP), while the exact tax calculation is not Markovian and thus can not be directly used in reinforcement learning.",
+      "text": "Stochastic control over time is one of the most important topics in financial trading, portfolio selection, and asset allocation. In stochastic control, an agent optimally makes the decision (action) based on the observed state variables, in order to maximize his objective function. Recent years have seen a lot of successful applications of deep reinforcement learning to train a self learning AI-Agents. For example, AlphaGo, a hybrid DRL system, defeated a human world champion in Go (David Silver, 2016). DRL algorithms have already been applied to a wide range of problems, such as robotics (Sergey Levine & Abbeel, 2016; Yan Duan & Abbeel, 2016) and video games (Volodymyr Mnih, 2015). Moreover, several different approaches have been proposed for reinforcement learning with neural network function approximators (Volodymyr Mnih, 2015; John Schulman & region policy optimization, 2015; John Schulman & Abbeel, 2016; John Schulman & Klimov, 2017) Trading stocks by reinforcement learning can guide and help agents to increase their portfolio returns. Though transaction cost is considered when buying and selling stocks 1 , those results are still questionable since tax is never considered. Paying tax should be the one of the main concerns in stock trading because tax is much higher compared to transaction costs. Notice that reinforcement learning is developed based the Markovian Decision Process (MDP), while the exact tax calculation is not Markovian and thus can not be directly used in reinforcement learning."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.6,
+            "t": 71.6634176,
+            "r": 309.60072,
+            "b": 52.82534421503999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "1 See https://github.com/hackthemarket/ gym-trading",
+      "text": "1 See https://github.com/hackthemarket/ gym-trading",
+      "hyperlink": "https://github.com/hackthemarket/gym-trading"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 327.59999999999985,
+            "t": 455.85965259999995,
+            "r": 561.6034506000001,
+            "b": 52.78677439292039,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1941
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.59999999999997,
+            "t": 716.5226526,
+            "r": 309.60154880000005,
+            "b": 612.3297743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1942,
+            2459
+          ]
+        }
+      ],
+      "orig": "Investors in U.S. stock markets are subject to capital gains tax when gains or losses are realized. When gains are realized, a lower long-term tax rate α L = 15% applies if stock holding period is at least one year and a higher short-term tax rate α S = 25% applies if stock holding period is less than one year. In contrast, when losses are realized, the investors can get a tax rebate with the short-term rate regardless of the length of the holding period. Tax rebate means that the loss can be deducted from gains and only the remained gains are taxed. We use the average-basis and average-holding-time system to simplify the path-dependent tax calculation without affecting main quantitative results. The average basis technique can make the tax calculation Markovian since the average-basis and average-holding-period at current step are updated only using the state variables on the last time step. The average tax basis is one of many methods that investors can use to arrive at the cost of their stock holding, mutual fund holdings, and other taxable financial goods. It is known that Australia is the country using average tax basis. To understand the average-basis and average-holding-period scheme, we give an example as follows. Assume that the investor bought 300 shares of stock SPY at price $200 per share two years ago and purchased 100 more shares at $300 per share half a year ago. Now he sells the total 400 shares at price $350 per share. The total cost basis equals $200 × 300 +$300 × 100 = $90 , 000 and the average basis is $90 , 000 / (300 + 100) = $225 per share. The basis-weighted total holding time is $200 × 300 × 2 + $300 × 100 × 0 . 5 = 135 , 000 (dollar year) and the average holding period equals 135 , 000 / 90 , 000 = 1 . 5 years. In this way, the total capital gain after selling equals ($350 × 400 -$225 × 400) = $50 , 000 . Since the average holding period is above one year, the capital gain should be taxed at the long-term rate and thus, the tax being charged equals $50 , 000 × 15% = $7 , 500 . Compared to taxes, transaction cost per trading is only around 0 . 1% ∼ 0 . 5% . Therefore the maximum transaction costs involved equal ($200 × 300 × 0 . 005 + $300 × 100 × 0 . 005 + $350 × 400 × 0 . 005) = $1 , 150 , which is much lower than the tax charged. This example demonstrates the indispensability of tax consideration in stock trading. A continuous stochastic dynamic model can be found in Min Dai & Fei (2015).",
+      "text": "Investors in U.S. stock markets are subject to capital gains tax when gains or losses are realized. When gains are realized, a lower long-term tax rate α L = 15% applies if stock holding period is at least one year and a higher short-term tax rate α S = 25% applies if stock holding period is less than one year. In contrast, when losses are realized, the investors can get a tax rebate with the short-term rate regardless of the length of the holding period. Tax rebate means that the loss can be deducted from gains and only the remained gains are taxed. We use the average-basis and average-holding-time system to simplify the path-dependent tax calculation without affecting main quantitative results. The average basis technique can make the tax calculation Markovian since the average-basis and average-holding-period at current step are updated only using the state variables on the last time step. The average tax basis is one of many methods that investors can use to arrive at the cost of their stock holding, mutual fund holdings, and other taxable financial goods. It is known that Australia is the country using average tax basis. To understand the average-basis and average-holding-period scheme, we give an example as follows. Assume that the investor bought 300 shares of stock SPY at price $200 per share two years ago and purchased 100 more shares at $300 per share half a year ago. Now he sells the total 400 shares at price $350 per share. The total cost basis equals $200 × 300 +$300 × 100 = $90 , 000 and the average basis is $90 , 000 / (300 + 100) = $225 per share. The basis-weighted total holding time is $200 × 300 × 2 + $300 × 100 × 0 . 5 = 135 , 000 (dollar year) and the average holding period equals 135 , 000 / 90 , 000 = 1 . 5 years. In this way, the total capital gain after selling equals ($350 × 400 -$225 × 400) = $50 , 000 . Since the average holding period is above one year, the capital gain should be taxed at the long-term rate and thus, the tax being charged equals $50 , 000 × 15% = $7 , 500 . Compared to taxes, transaction cost per trading is only around 0 . 1% ∼ 0 . 5% . Therefore the maximum transaction costs involved equal ($200 × 300 × 0 . 005 + $300 × 100 × 0 . 005 + $350 × 400 × 0 . 005) = $1 , 150 , which is much lower than the tax charged. This example demonstrates the indispensability of tax consideration in stock trading. A continuous stochastic dynamic model can be found in Min Dai & Fei (2015)."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.59999999999998,
+            "t": 590.6690879999998,
+            "r": 126.07485439999998,
+            "b": 579.9213631999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "2 Model",
+      "text": "2 Model",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.59999999999998,
+            "t": 562.7164557999997,
+            "r": 309.6015488000001,
+            "b": 482.1147743929199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            374
+          ]
+        }
+      ],
+      "orig": "Taking the stock price s t , average-basis b t , and averageholding-time h t as state variables, the stock trading problem becomes a MDP problem and we can program an AI-agent with reinforcement learning. The policy gradient method for reinforcement learning works by computing an estimator of the policy gradient and plugging it into a stochastic gradient ascent algorithm:",
+      "text": "Taking the stock price s t , average-basis b t , and averageholding-time h t as state variables, the stock trading problem becomes a MDP problem and we can program an AI-agent with reinforcement learning. The policy gradient method for reinforcement learning works by computing an estimator of the policy gradient and plugging it into a stochastic gradient ascent algorithm:"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 113.37900000000002,
+            "t": 467.32510539999964,
+            "r": 309.60039159999997,
+            "b": 437.14352673256445,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "g = E [ T ∑ t =0 A t ∇ θ log π θ ( a t | s t , b t , h t ) ] , (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.6,
+            "t": 423.78845579999967,
+            "r": 309.60411819999996,
+            "b": 379.05177439292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            240
+          ]
+        }
+      ],
+      "orig": "where a t is the action of stock trading following a t ∼ π θ ( a t | s t , b t , h t ) and A t is an estimator of the advantage function at timestep t , The advantage function A π ( s, b, h, a ) = Q π ( s, b, h, a ) -V π ( s, b, h ) , where",
+      "text": "where a t is the action of stock trading following a t ∼ π θ ( a t | s t , b t , h t ) and A t is an estimator of the advantage function at timestep t , The advantage function A π ( s, b, h, a ) = Q π ( s, b, h, a ) -V π ( s, b, h ) , where"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.60000000000008,
+            "t": 365.6911053999996,
+            "r": 318.1489102800001,
+            "b": 335.1605267325645,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Q π ( s, b, h, a ) = E π [ ∞ ∑ l =0 γ l r t + l | s t = s, b t = b, h t = h, a t =",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.60000000000014,
+            "t": 321.4866525999997,
+            "r": 89.98599440000015,
+            "b": 312.93477439292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "and",
+      "text": "and"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.60500000000013,
+            "t": 301.95010539999964,
+            "r": 299.59533972000014,
+            "b": 271.41952673256446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "V π ( s, b, h ) = E π [ ∞ ∑ l =0 γ l r t + l | s t = s, b t = b, h t = h ]",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.60000000000008,
+            "t": 258.0644557999997,
+            "r": 309.60305020000015,
+            "b": 129.64177439291996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            639
+          ]
+        }
+      ],
+      "orig": "with γ the discounted factor and r t the reward at timestep t . Notice that the advantage function measures whether or not the action is better or worse than the policy's default behavior. The multiplication of A t and ∇ θ log π θ implies that a step in the policy gradient direction should increase the probability of better-than-average actions and decrease the probability of worse than average actions. We choose proximal policy optimization algorithms (PPO) in Schulman et al. (2017), which outperforms other online policy gradient methods, and overall strikes a favorable balance between sample complexity, simplicity, and wall-time.",
+      "text": "with γ the discounted factor and r t the reward at timestep t . Notice that the advantage function measures whether or not the action is better or worse than the policy's default behavior. The multiplication of A t and ∇ θ log π θ implies that a step in the policy gradient direction should increase the probability of better-than-average actions and decrease the probability of worse than average actions. We choose proximal policy optimization algorithms (PPO) in Schulman et al. (2017), which outperforms other online policy gradient methods, and overall strikes a favorable balance between sample complexity, simplicity, and wall-time."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.60000000000005,
+            "t": 120.58045579999964,
+            "r": 309.60313020000007,
+            "b": 51.933774392919986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 327.6,
+            "t": 716.5226525999997,
+            "r": 370.4989555999999,
+            "b": 707.97077439292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            360,
+            371
+          ]
+        }
+      ],
+      "orig": "We can show that the state process ( s t , b t , h t ) are Markovian satifying s t , b t , h t ≥ 0 . Recall the definition of average-basis b and average-holding-period h for taxes. The evolution of b and h depends on action a and the observed stock price s . If we denote by a t the the shares of stock holdings at timestep t , then the average-basis at next timestep is",
+      "text": "We can show that the state process ( s t , b t , h t ) are Markovian satifying s t , b t , h t ≥ 0 . Recall the definition of average-basis b and average-holding-period h for taxes. The evolution of b and h depends on action a and the observed stock price s . If we denote by a t the the shares of stock holdings at timestep t , then the average-basis at next timestep is"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 335.42900000000003,
+            "t": 699.1575039999997,
+            "r": 561.6003916,
+            "b": 622.3797743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "b t +1 =              s t +1 a t a t +1 ≤ 0 , b t a t + s t +1 ( a t +1 -a t ) a t +1 a t +1 < a t < 0 , b t a t + s t +1 ( a t +1 -a t ) + max( a t , a t +1 ) otherwise , (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 320.9160000000001,
+            "t": 355.2794557999997,
+            "r": 326.1822303600001,
+            "b": 346.57288987723314,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "a",
+      "text": "a"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 326.18200000000013,
+            "t": 619.2944557999999,
+            "r": 561.6046051999996,
+            "b": 299.5897743929201,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1630
+          ]
+        }
+      ],
+      "orig": "] where s t +1 and a t +1 are the stock price and stock positions at timestep t +1 respectively. The update of average-basis depends on the relation among a t , 0 , and a t +1 . All history basis record will be waived when stock position goes across 0 . For example, if a t a t +1 ≤ 0 , the stock position changes from short to long, or long to short, the average-basis is reset to be s t +1 since all history transactions are finished. When a t +1 < a t < 0 , the agent decides to continue shorting stocks so that the average-basis of shorting is the total cost basis b t a t + s t +1 ( a t +1 -a t ) (negative value) divided by current position a t +1 (negative value). For other cases, stock buying can change the average-basis by varying total cost basis and stock holdings differently, while stock selling does not change the average-basis because stock selling proportionally decreases the total cost basis and stock positions. That gives the last equality in (2). We have embedded short selling into our average basis system. In finance, short selling is the sale of a security that the seller has borrowed. When shorting stocks, the investor borrows the shares and immediately sells them. To close the transaction, the investor covers the position by buying the shares later and delivering the securities back to lender. Capital gain is made when the purchase price is lower than the selling price at borrowing and loss is made when the purchase price is higher than the initial selling price. Gain or loss is taxed at the time of the close of transaction. Similarly, we can get the average-holding-period at next timestep",
+      "text": "] where s t +1 and a t +1 are the stock price and stock positions at timestep t +1 respectively. The update of average-basis depends on the relation among a t , 0 , and a t +1 . All history basis record will be waived when stock position goes across 0 . For example, if a t a t +1 ≤ 0 , the stock position changes from short to long, or long to short, the average-basis is reset to be s t +1 since all history transactions are finished. When a t +1 < a t < 0 , the agent decides to continue shorting stocks so that the average-basis of shorting is the total cost basis b t a t + s t +1 ( a t +1 -a t ) (negative value) divided by current position a t +1 (negative value). For other cases, stock buying can change the average-basis by varying total cost basis and stock holdings differently, while stock selling does not change the average-basis because stock selling proportionally decreases the total cost basis and stock positions. That gives the last equality in (2). We have embedded short selling into our average basis system. In finance, short selling is the sale of a security that the seller has borrowed. When shorting stocks, the investor borrows the shares and immediately sells them. To close the transaction, the investor covers the position by buying the shares later and delivering the securities back to lender. Capital gain is made when the purchase price is lower than the selling price at borrowing and loss is made when the purchase price is higher than the initial selling price. Gain or loss is taxed at the time of the close of transaction. Similarly, we can get the average-holding-period at next timestep"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 340.53300000000013,
+            "t": 291.0065039999998,
+            "r": 561.6003916,
+            "b": 223.98052673256484,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "h t +1 =              0 a t a t +1 ≤ 0 , b t a t ( h t + dt ) b t +1 a t +1 a t +1 < a t < 0 , b t a t ( h t + dt ) b t +1 max( a t , a t +1 ) otherwise . (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 327.6,
+            "t": 209.6776526,
+            "r": 561.6015487999998,
+            "b": 153.3047743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            293
+          ]
+        }
+      ],
+      "orig": "Given the average-basis and average-holding period, we now calculate the tax costs at timestep t + 1 . We first assume that s t +1 ≥ b t . Capital gain is realized when selling stocks or buying stocks to attenuate the previous short exposure. Thus, the capital gain tax at timestep t +1 equals",
+      "text": "Given the average-basis and average-holding period, we now calculate the tax costs at timestep t + 1 . We first assume that s t +1 ≥ b t . Capital gain is realized when selling stocks or buying stocks to attenuate the previous short exposure. Thus, the capital gain tax at timestep t +1 equals"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 329.26099999999997,
+            "t": 144.86250399999994,
+            "r": 587.8346102800001,
+            "b": 107.49952673256485,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "( s t +1 -b t ) [ ( a t -a + t +1 ) 1 { a t ≥ a t +1 ,a t ≥ 0 } -( a t + a -t +1 ) 1 { a t ≤ a t +1 ,a t ≤ 0 } ] ( α S 1 { h t < 252 } + α L 1 { h t ≥ 252 } ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 327.60000000000014,
+            "t": 96.69934360000002,
+            "r": 561.6019174,
+            "b": 51.93377439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.59999999999985,
+            "t": 716.5226526,
+            "r": 309.60398659999976,
+            "b": 516.6887743929198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            229,
+            1250
+          ]
+        }
+      ],
+      "orig": "where 1 {} is the indicator function. The capital gain is taxed at the long-term rate if the average-holding-period is above one year (252 trading days) and at the shortterm rate if the average-holding-period is shorter than one year. Now we explain the formulas in the bracket above. When investors sell owned stocks at price s t +1 , it implies that a t ≥ a t +1 ≥ 0 . Then the total capital gain equals ( s t +1 -b t )( a t -a t +1 ) . When investors wash sell all the stocks and then continue to short stocks, that is, a t ≥ 0 > a t +1 , the capital gain only comes from washsell and equals ( s t +1 -b t ) a t . Combining these two cases gives the first formula in the bracket above. Alternatively, capital gain can be realized when buying stocks to attenuate the previous short exposure. When investors buy back part of the shorted stocks, that is, a t ≤ a t +1 ≤ 0 , the realized capital gain equals ( s t +1 -b t )( a t +1 -a t ) . When investors buy back all the shorted stocks and continue to purchase stocks to gain positive exposure, that is, a t ≤ 0 < a t +1 , the capital gain only comes from the compensation of short selling and equals ( s t +1 -b t )( -a t ) . Combining these two cases gives the second formula in the bracket above.",
+      "text": "where 1 {} is the indicator function. The capital gain is taxed at the long-term rate if the average-holding-period is above one year (252 trading days) and at the shortterm rate if the average-holding-period is shorter than one year. Now we explain the formulas in the bracket above. When investors sell owned stocks at price s t +1 , it implies that a t ≥ a t +1 ≥ 0 . Then the total capital gain equals ( s t +1 -b t )( a t -a t +1 ) . When investors wash sell all the stocks and then continue to short stocks, that is, a t ≥ 0 > a t +1 , the capital gain only comes from washsell and equals ( s t +1 -b t ) a t . Combining these two cases gives the first formula in the bracket above. Alternatively, capital gain can be realized when buying stocks to attenuate the previous short exposure. When investors buy back part of the shorted stocks, that is, a t ≤ a t +1 ≤ 0 , the realized capital gain equals ( s t +1 -b t )( a t +1 -a t ) . When investors buy back all the shorted stocks and continue to purchase stocks to gain positive exposure, that is, a t ≤ 0 < a t +1 , the capital gain only comes from the compensation of short selling and equals ( s t +1 -b t )( -a t ) . Combining these two cases gives the second formula in the bracket above."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.59999999999987,
+            "t": 507.62645579999946,
+            "r": 309.59640799999977,
+            "b": 486.8007743929198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "Similarly, if s t +1 < b t , there is a capital loss and the tax rebate from capital loss equals",
+      "text": "Similarly, if s t +1 < b t , there is a capital loss and the tax rebate from capital loss equals"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 86.16599999999987,
+            "t": 475.99350399999946,
+            "r": 280.7696102799998,
+            "b": 438.6305267325643,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "( b t -s t +1 ) [ ( a t -a + t +1 ) 1 { a t ≥ a t +1 ,a t ≥ 0 } -( a t + a -t +1 ) 1 { a t ≤ a t +1 ,a t ≤ 0 } ] α S .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.59999999999985,
+            "t": 425.4374557999995,
+            "r": 309.60154879999993,
+            "b": 237.23877439291994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            941
+          ]
+        }
+      ],
+      "orig": "The tax rate on capital loss is α S since when losses are realized, the investors get a tax rebate with the short-term rate regardless of the length of the holding period. The tax rebate implies that the agent can use capital losses (stock losses) to offset capital gains during a taxable year. If the agent does not have enough capital gains to offset the capital loss, a capital loss can be used as an offset to ordinary income (assume taxing at short-term tax rate), up to $3,000 per year. Note that if we do not distinguish the long-term tax and short-term tax, the state variable can be chosen as ( s, b ) and the average-holding-period is not needed. The tax rebate of capital loss feeds to the reward and the capital gain tax makes a leakage from it. As the capital gain tax and tax rebate affect the reward at each times step, the policy to maximize the expected total reward should be different from those without considering taxes.",
+      "text": "The tax rate on capital loss is α S since when losses are realized, the investors get a tax rebate with the short-term rate regardless of the length of the holding period. The tax rebate implies that the agent can use capital losses (stock losses) to offset capital gains during a taxable year. If the agent does not have enough capital gains to offset the capital loss, a capital loss can be used as an offset to ordinary income (assume taxing at short-term tax rate), up to $3,000 per year. Note that if we do not distinguish the long-term tax and short-term tax, the state variable can be chosen as ( s, b ) and the average-holding-period is not needed. The tax rebate of capital loss feeds to the reward and the capital gain tax makes a leakage from it. As the capital gain tax and tax rebate affect the reward at each times step, the policy to maximize the expected total reward should be different from those without considering taxes."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 75.59999999999982,
+            "t": 227.8576525999996,
+            "r": 309.6018389999997,
+            "b": 51.93377439291987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            877
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 327.5999999999999,
+            "t": 716.5226525999996,
+            "r": 561.6015487999995,
+            "b": 672.1057743929198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            878,
+            1089
+          ]
+        }
+      ],
+      "orig": "For simplicity, we consider the representative SPY stock trading. Our data set includes SPY's daily closed price and volumes from 13/11/2008 to 13/11/2018, as shown in Fig 1. We choose the time step dt = 1 representing one trading day and the total trading days per year is 252 trading days. When the average-holding-period h is larger (smaller) than 252, 15% (25%) of the capital gain is charged and 25% of capital loss is rebated. That is, α L = 0 . 15% and α S = 0 . 25% . Each time the agent can short, long, or not trade stocks. We assume the basic stocks shares per trading is 100 shares and the agent keeps his stock position -100 , 0 , or 100 over time. The length of trading period is set to be 5 years, totally T = 252 × 5 = 1260 trading days. Transaction cost is also included, which equals 0 . 1% of the gain or loss per trading. We create a new OpenAI Gym environ- ment where the observation in each timestep is SPY's daily closed price, trading volume, averaged-basis, and averageholding-period. The action-based evolution of the average basis system is given by (2) and (3).",
+      "text": "For simplicity, we consider the representative SPY stock trading. Our data set includes SPY's daily closed price and volumes from 13/11/2008 to 13/11/2018, as shown in Fig 1. We choose the time step dt = 1 representing one trading day and the total trading days per year is 252 trading days. When the average-holding-period h is larger (smaller) than 252, 15% (25%) of the capital gain is charged and 25% of capital loss is rebated. That is, α L = 0 . 15% and α S = 0 . 25% . Each time the agent can short, long, or not trade stocks. We assume the basic stocks shares per trading is 100 shares and the agent keeps his stock position -100 , 0 , or 100 over time. The length of trading period is set to be 5 years, totally T = 252 × 5 = 1260 trading days. Transaction cost is also included, which equals 0 . 1% of the gain or loss per trading. We create a new OpenAI Gym environ- ment where the observation in each timestep is SPY's daily closed price, trading volume, averaged-basis, and averageholding-period. The action-based evolution of the average basis system is given by (2) and (3)."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 327.6,
+            "t": 476.8306526,
+            "r": 561.6015487999995,
+            "b": 456.32377439292037,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Figure 1: SPDR S&P 500 ETF Trust (SPY) from 13/11/2008 to 13/11/2018.",
+      "text": "Figure 1: SPDR S&P 500 ETF Trust (SPY) from 13/11/2008 to 13/11/2018."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 327.6,
+            "t": 443.05065260000003,
+            "r": 561.6019631999999,
+            "b": 51.933774392920554,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1911
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 75.6,
+            "t": 716.5226526,
+            "r": 237.20333460000006,
+            "b": 707.9707743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1912,
+            1953
+          ]
+        }
+      ],
+      "orig": "To represent the policy, we use the same default neural network architecture as PPO with fixed-length trajectory segments, which was a fully-connected MLP with two hidden layers of 64 and 64 tanh units respectively. The final output layer has a linear activation. policy and value function are estimated through separated network. The number of steps of interaction (state-action pairs) for the agent and the environment in each epoch is 5000 and the number of epochs is 50. The hyperparameter for clipping in the policy objective is chosen to be 0.2 and the GAE-Lambda is 0.97. The learning rate for policy and value function optimizer is 0.001 and 0.0003 respectively. If tax is not included in the model, the average expected return is 0.44, as shown in the top panel of Fig 2, which seems quite promising. This considerable return is the result of exploiting price trending and frequently adjusting holding positions correspondingly, similar as the results of other AI platforms. However, this is not compelling since tax is heavily charged in a taxable year. Rather than ignoring taxes, the learning of stock trading should consider the effect of tax costs. We use PPO to train the stock trading policy in the environment with tax costs, as shown in the down panel of Fig 2. The optimal stock trading policy in the model with taxes can achieve 0.13 average returns. To illustrate the suboptimality of the policy trained in the model without considering taxes (the policy obtained in the top panel of Fig 2), we apply this trained policy in the environment with tax costs, the average expected return drops to only 0.05. This implies that tax ignorance could induce more than (0 . 13 -0 . 05) / 0 . 13 = 62% loss on average portfolio returns. In the testing environment, we consider the daily trading, which allows frequent stock holding adjustment. The effect of taxes could be weakened if the time step of trading is chosen to per month or longer.",
+      "text": "To represent the policy, we use the same default neural network architecture as PPO with fixed-length trajectory segments, which was a fully-connected MLP with two hidden layers of 64 and 64 tanh units respectively. The final output layer has a linear activation. policy and value function are estimated through separated network. The number of steps of interaction (state-action pairs) for the agent and the environment in each epoch is 5000 and the number of epochs is 50. The hyperparameter for clipping in the policy objective is chosen to be 0.2 and the GAE-Lambda is 0.97. The learning rate for policy and value function optimizer is 0.001 and 0.0003 respectively. If tax is not included in the model, the average expected return is 0.44, as shown in the top panel of Fig 2, which seems quite promising. This considerable return is the result of exploiting price trending and frequently adjusting holding positions correspondingly, similar as the results of other AI platforms. However, this is not compelling since tax is heavily charged in a taxable year. Rather than ignoring taxes, the learning of stock trading should consider the effect of tax costs. We use PPO to train the stock trading policy in the environment with tax costs, as shown in the down panel of Fig 2. The optimal stock trading policy in the model with taxes can achieve 0.13 average returns. To illustrate the suboptimality of the policy trained in the model without considering taxes (the policy obtained in the top panel of Fig 2), we apply this trained policy in the environment with tax costs, the average expected return drops to only 0.05. This implies that tax ignorance could induce more than (0 . 13 -0 . 05) / 0 . 13 = 62% loss on average portfolio returns. In the testing environment, we consider the daily trading, which allows frequent stock holding adjustment. The effect of taxes could be weakened if the time step of trading is chosen to per month or longer."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 75.6,
+            "t": 385.7776526,
+            "r": 309.6015488,
+            "b": 305.4947743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            360
+          ]
+        }
+      ],
+      "orig": "Figure 2: Average expected returns on SPY investment. The length of trading period is 5 years with totally 252 × 5 = 1260 trading days. Long and short tax is considered. When the average-holding-period is larger (smaller) than 252, 15% (25%) of the capital gain is charged and 25% of capital loss is rebated. Small transaction cost ( 0 . 1% ) is also included.",
+      "text": "Figure 2: Average expected returns on SPY investment. The length of trading period is 5 years with totally 252 × 5 = 1260 trading days. Long and short tax is considered. When the average-holding-period is larger (smaller) than 252, 15% (25%) of the capital gain is charged and 25% of capital loss is rebated. Small transaction cost ( 0 . 1% ) is also included."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 75.6,
+            "t": 261.1990880000001,
+            "r": 181.21223680000003,
+            "b": 250.45136320000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "3 CONCLUSIONS",
+      "text": "3 CONCLUSIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 75.59999999999994,
+            "t": 227.85765260000016,
+            "r": 309.6051465999999,
+            "b": 51.93377439292044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            895
+          ]
+        }
+      ],
+      "orig": "In this paper, we are among the first to embed taxes into reinforcement learning via average basis system. Notice that the exact tax calculation at timestep t + 1 depends on the whole history path { s i , a i } i =1 , 2 ,..,t , which is impossible to be used in reinforcement learning as the state dimension will explode when time period goes long. By introducing the average-basis b t and the average-holding-time h t , the augmented state variables ( s t , b t , h t ) becomes Markovian and further the action and tax cos at timestep t + 1 only depend on ( s t , b t , h t ) . Our result shows that tax ignorance could induce more than 62% loss on the average portfolio returns, implying the importance of tax consideration in the environment of stock trading on AI platforms. Our model could be combined with other deep learning models of stock prediction or ranking for better stock trading.",
+      "text": "In this paper, we are among the first to embed taxes into reinforcement learning via average basis system. Notice that the exact tax calculation at timestep t + 1 depends on the whole history path { s i , a i } i =1 , 2 ,..,t , which is impossible to be used in reinforcement learning as the state dimension will explode when time period goes long. By introducing the average-basis b t and the average-holding-time h t , the augmented state variables ( s t , b t , h t ) becomes Markovian and further the action and tax cos at timestep t + 1 only depend on ( s t , b t , h t ) . Our result shows that tax ignorance could induce more than 62% loss on the average portfolio returns, implying the importance of tax consideration in the environment of stock trading on AI platforms. Our model could be combined with other deep learning models of stock prediction or ranking for better stock trading."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.59999999999997,
+            "t": 718.2860880000001,
+            "r": 383.1438592,
+            "b": 707.5383632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.59999999999997,
+            "t": 697.8426526000001,
+            "r": 561.6044410000001,
+            "b": 629.5147743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            274
+          ]
+        }
+      ],
+      "orig": "David Silver, Aja Huang, Chris J Maddison Arthur Guez Laurent Sifre George van den Driessche Julian Schrittwieser Ioannis Antonoglou Veda Panneershelvam Marc Lanctot et al. Mastering the game of go with deep neural networks and tree search. Nature , 529(7587):484-489, 2016.",
+      "text": "David Silver, Aja Huang, Chris J Maddison Arthur Guez Laurent Sifre George van den Driessche Julian Schrittwieser Ioannis Antonoglou Veda Panneershelvam Marc Lanctot et al. Mastering the game of go with deep neural networks and tree search. Nature , 529(7587):484-489, 2016.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.59999999999997,
+            "t": 622.1266525999999,
+            "r": 561.6019487999997,
+            "b": 577.70977439292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "John Schulman, Sergey Levine, Pieter Abbeel Michael Jordan and region policy optimization, Philipp Moritz. Trust. Trust region policy optimization. pp. 1889-1897, 2015.",
+      "text": "John Schulman, Sergey Levine, Pieter Abbeel Michael Jordan and region policy optimization, Philipp Moritz. Trust. Trust region policy optimization. pp. 1889-1897, 2015.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.59999999999997,
+            "t": 570.3206525999997,
+            "r": 561.6019487999998,
+            "b": 537.8587743929199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "John Schulman, Filip Wolski, Prafulla Dhariwal Alec Radford and Klimov, Oleg. Proximal policy optimization algorithms. arXiv preprint arXiv:1707.06347 , 2017.",
+      "text": "John Schulman, Filip Wolski, Prafulla Dhariwal Alec Radford and Klimov, Oleg. Proximal policy optimization algorithms. arXiv preprint arXiv:1707.06347 , 2017.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.6,
+            "t": 530.4706525999995,
+            "r": 561.6019487999998,
+            "b": 486.0527743929199,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "John Schulman, Philipp Moritz, Sergey Levine Michael I. Jordan and Abbeel, Pieter. High-dimensional continuous control using generalized advantage estimation. ICLR , 2016.",
+      "text": "John Schulman, Philipp Moritz, Sergey Levine Michael I. Jordan and Abbeel, Pieter. High-dimensional continuous control using generalized advantage estimation. ICLR , 2016.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.6,
+            "t": 478.66465259999956,
+            "r": 561.6019487999995,
+            "b": 446.20277439291993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "Min Dai, Hong Liu, Chen Yang and Fei, Yizhong. Optimal tax-timing with asymmetric long-term/short-term capital gains tax. volume 28, pp. 2687-2721, 2015.",
+      "text": "Min Dai, Hong Liu, Chen Yang and Fei, Yizhong. Optimal tax-timing with asymmetric long-term/short-term capital gains tax. volume 28, pp. 2687-2721, 2015.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.6,
+            "t": 438.8146525999996,
+            "r": 561.6019487999997,
+            "b": 406.35177439291994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Sergey Levine, Chelsea Finn, Trevor Darrell and Abbeel, Pieter. End-to-end training of deep visuomotor policies. JMLR , 17(39):1-40, 2016.",
+      "text": "Sergey Levine, Chelsea Finn, Trevor Darrell and Abbeel, Pieter. End-to-end training of deep visuomotor policies. JMLR , 17(39):1-40, 2016.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.6000000000001,
+            "t": 398.9636525999996,
+            "r": 561.6019488,
+            "b": 342.59077439291997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "Volodymyr Mnih, Koray Kavukcuoglu, David Silver Andrei A Rusu Joel Veness Marc G Bellemare Alex Graves Martin Riedmiller Andreas K Fidjeland Georg Ostrovski et al. Human-level control through deep reinforcement learning. Nature , 518(7540):529-533, 2015.",
+      "text": "Volodymyr Mnih, Koray Kavukcuoglu, David Silver Andrei A Rusu Joel Veness Marc G Bellemare Alex Graves Martin Riedmiller Andreas K Fidjeland Georg Ostrovski et al. Human-level control through deep reinforcement learning. Nature , 518(7540):529-533, 2015.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.6000000000001,
+            "t": 335.2026525999996,
+            "r": 561.6019487999998,
+            "b": 290.78577439292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "Yan Duan, John Schulman, Xi Chen Peter L Bartlett Ilya Sutskever and Abbeel, Pieter. Rl: Fast reinforcement learning via slow reinforcement learning. In NIPS Workshop on Deep Reinforcement Learning , 2016.",
+      "text": "Yan Duan, John Schulman, Xi Chen Peter L Bartlett Ilya Sutskever and Abbeel, Pieter. Rl: Fast reinforcement learning via slow reinforcement learning. In NIPS Workshop on Deep Reinforcement Learning , 2016.",
+      "enumerated": false,
+      "marker": ""
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 346.75677490234375,
+            "t": 643.3439178466797,
+            "r": 558.8384399414062,
+            "b": 517.4357299804688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 107.4979476928711,
+            "t": 682.6623687744141,
+            "r": 275.23876953125,
+            "b": 404.39453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    }
+  }
+}

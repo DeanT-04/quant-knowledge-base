@@ -1,0 +1,1953 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2403.13429_detecting_and_triaging_spoofing_using_temporal_con",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6942859802494498466,
+    "filename": "2403.13429_detecting_and_triaging_spoofing_using_temporal_con.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_1_0_0",
+      "label": "unspecified"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 589.18,
+            "r": 36.206559297218156,
+            "b": 217.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "arXiv:2403.13429v1  [q-fin.TR]  20 Mar 2024",
+      "text": "arXiv:2403.13429v1  [q-fin.TR]  20 Mar 2024"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 81.448,
+            "t": 693.014878,
+            "r": 530.5557909999995,
+            "b": 680.1176442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Detecting and Triaging Spoofing using Temporal Convolutional Networks",
+      "text": "Detecting and Triaging Spoofing using Temporal Convolutional Networks",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 206.827,
+            "t": 658.239088,
+            "r": 408.1645231999998,
+            "b": 647.4913632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Kaushalya Kularatnam, Tania Stathaki",
+      "text": "Kaushalya Kularatnam, Tania Stathaki"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 138.54500000000002,
+            "t": 637.5346526,
+            "r": 473.45772419999963,
+            "b": 628.9827743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "Department of Electrical and Electronic Engineering, Imperial College London, UK",
+      "text": "Department of Electrical and Electronic Engineering, Imperial College London, UK"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 154.71500000000003,
+            "t": 572.911194,
+            "r": 191.78583460000007,
+            "b": 563.9548166000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 63.96300000000004,
+            "t": 553.8281264,
+            "r": 282.5369328000003,
+            "b": 336.9163845097344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1331
+          ]
+        }
+      ],
+      "orig": "As algorithmic trading and electronic markets continue to transform the landscape of financial markets, detecting and deterring rogue agents to maintain a fair and efficient marketplace is crucial. The explosion of large datasets and the continually changing tricks of the trade make it difficult to adapt to new market conditions and detect bad actors. To that end, we propose a framework that can be adapted easily to various problems in the space of detecting market manipulation. Our approach entails initially employing a labelling algorithm which we use to create a training set to learn a weakly supervised model to identify potentially suspicious sequences of order book states. The main goal here is to learn a representation of the order-book that can be used to easily compare future events. Subsequently, we posit the incorporation of expert assessment to scrutinize specific flagged order book states. In the event of an expert's unavailability, recourse is taken to the application of a more complex algorithm on the identified suspicious order book states. We then conduct a similarity search between any new representation of the order book against the expert labelled representations to rank the results of the weak learner. We show some preliminary results that are promising to explore further in this direction.",
+      "text": "As algorithmic trading and electronic markets continue to transform the landscape of financial markets, detecting and deterring rogue agents to maintain a fair and efficient marketplace is crucial. The explosion of large datasets and the continually changing tricks of the trade make it difficult to adapt to new market conditions and detect bad actors. To that end, we propose a framework that can be adapted easily to various problems in the space of detecting market manipulation. Our approach entails initially employing a labelling algorithm which we use to create a training set to learn a weakly supervised model to identify potentially suspicious sequences of order book states. The main goal here is to learn a representation of the order-book that can be used to easily compare future events. Subsequently, we posit the incorporation of expert assessment to scrutinize specific flagged order book states. In the event of an expert's unavailability, recourse is taken to the application of a more complex algorithm on the identified suspicious order book states. We then conduct a similarity search between any new representation of the order book against the expert labelled representations to rank the results of the weak learner. We show some preliminary results that are promising to explore further in this direction."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 100.07900000000004,
+            "t": 317.49408799999986,
+            "r": 246.42260320000005,
+            "b": 306.7463631999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Introduction and Motivation",
+      "text": "Introduction and Motivation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.000000000000036,
+            "t": 300.75065259999985,
+            "r": 292.5046440000002,
+            "b": 149.7327743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            825
+          ]
+        }
+      ],
+      "orig": "The proliferation of algorithmic trading in modern financial markets brings about new challenges for the regulators and the regulated. Technological hurdles in processing vast amounts of data at very high speeds, identifying price manipulation occurring at micro-second level granularity and adapting to new market conditions and increasing number of players are some of the challenges faced by several entities. While technological shortcomings can be addressed, the process of identifying various forms of market manipulation is a highly challenging task. Accurately identifying market manipulation is crucial because false prices can have a detrimental impact on the price formation process. This distortion of prices, induced by bad agents, can create a chain of non-optimal trades and can affect other connected markets.",
+      "text": "The proliferation of algorithmic trading in modern financial markets brings about new challenges for the regulators and the regulated. Technological hurdles in processing vast amounts of data at very high speeds, identifying price manipulation occurring at micro-second level granularity and adapting to new market conditions and increasing number of players are some of the challenges faced by several entities. While technological shortcomings can be addressed, the process of identifying various forms of market manipulation is a highly challenging task. Accurately identifying market manipulation is crucial because false prices can have a detrimental impact on the price formation process. This distortion of prices, induced by bad agents, can create a chain of non-optimal trades and can affect other connected markets."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.000000000000036,
+            "t": 146.98165259999985,
+            "r": 292.50504400000005,
+            "b": 116.51177439292019,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 319.5,
+            "t": 572.5226526,
+            "r": 558.004644,
+            "b": 432.4647743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            170,
+            884
+          ]
+        }
+      ],
+      "orig": "One such price manipulation technique is known as Spoofing. The financial crash of 2010 first brought this technique to prominence and has since been a concern for vari- ous regulators across the globe. Previous research on spoofing has generally followed two approaches: (i) Empirical analysis of spoofing cases and the accompanying deviation in market variables. e.g Handcrafted rules that attend to detect a large order by comparing it against historic averages (Leea, Eomb, and Parkd 2013) (ii) Detection based on known cases of spoofing (Qureshi 2019). There are also some early attempts of using labelled data, clustering and anomaly detection techniques to detect spoofing(Inc 2016). In this work, we lay the foundations for learning a representation of spoofing using weak supervision, which has the potential to assist in detecting various forms of spoofing in stock markets.",
+      "text": "One such price manipulation technique is known as Spoofing. The financial crash of 2010 first brought this technique to prominence and has since been a concern for vari- ous regulators across the globe. Previous research on spoofing has generally followed two approaches: (i) Empirical analysis of spoofing cases and the accompanying deviation in market variables. e.g Handcrafted rules that attend to detect a large order by comparing it against historic averages (Leea, Eomb, and Parkd 2013) (ii) Detection based on known cases of spoofing (Qureshi 2019). There are also some early attempts of using labelled data, clustering and anomaly detection techniques to detect spoofing(Inc 2016). In this work, we lay the foundations for learning a representation of spoofing using weak supervision, which has the potential to assist in detecting various forms of spoofing in stock markets."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 105.80012639999995,
+            "r": 292.49727359999997,
+            "b": 88.14038450973453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "Copyright © 2024, Association for the Advancement of Artificial Intelligence (www.aaai.org). All rights reserved.",
+      "text": "Copyright © 2024, Association for the Advancement of Artificial Intelligence (www.aaai.org). All rights reserved."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 319.5,
+            "t": 430.05765260000015,
+            "r": 558.0050439999999,
+            "b": 289.99877439292044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            723
+          ]
+        }
+      ],
+      "orig": "Spoofing is a form of market manipulation and involves placing non-bona fide orders on one side of the book misleading investors and algorithms into believing that there is excessive demand or supply for an asset. This in turn may incentivize investors into placing further orders which may artificially inflate or depress the price of the stock momentarily and possibly lock investors into an unfavourable price. The European regulator ESMA defines Layering and Spoofing as 'submitting multiple orders often away from the inside on one side of the order book with the intention of executing a trade on the other side of the order book. Once that trade has taken place, the manipulative orders will be removed.' (ESMA 2018)",
+      "text": "Spoofing is a form of market manipulation and involves placing non-bona fide orders on one side of the book misleading investors and algorithms into believing that there is excessive demand or supply for an asset. This in turn may incentivize investors into placing further orders which may artificially inflate or depress the price of the stock momentarily and possibly lock investors into an unfavourable price. The European regulator ESMA defines Layering and Spoofing as 'submitting multiple orders often away from the inside on one side of the order book with the intention of executing a trade on the other side of the order book. Once that trade has taken place, the manipulative orders will be removed.' (ESMA 2018)"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 319.5,
+            "t": 196.6196526,
+            "r": 558.0046439999995,
+            "b": 166.14977439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "Figure 1: Eg. Spoofing the Limit Order Book. The four states of the order book do not always have to be consecutive and there can be multiple book updates in between these states",
+      "text": "Figure 1: Eg. Spoofing the Limit Order Book. The four states of the order book do not always have to be consecutive and there can be multiple book updates in between these states"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 319.5,
+            "t": 151.28065259999994,
+            "r": 558.0050439999995,
+            "b": 87.93377439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            347
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 734.5226526,
+            "r": 292.50464400000016,
+            "b": 693.0947743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            348,
+            572
+          ]
+        }
+      ],
+      "orig": "Spoofing can be very difficult to detect as it can be camouflaged among a high number of updates to a Limit Order Book (LOB). Not only do price manipulation activities such as spoofing affect the asset prices, if identified and prosecuted they involve hefty fines for the parties involved. In 2010, FINRA fined nine proprietary traders at Trillium Brokerage Services for spoofing. On June 25, the US Commission Futures Trading Commission (CFTC) fined Merrill Lynch Commodities $25m for spoofing, manipulation, and attempted manipulation over a six year period (CFTC 2019).",
+      "text": "Spoofing can be very difficult to detect as it can be camouflaged among a high number of updates to a Limit Order Book (LOB). Not only do price manipulation activities such as spoofing affect the asset prices, if identified and prosecuted they involve hefty fines for the parties involved. In 2010, FINRA fined nine proprietary traders at Trillium Brokerage Services for spoofing. On June 25, the US Commission Futures Trading Commission (CFTC) fined Merrill Lynch Commodities $25m for spoofing, manipulation, and attempted manipulation over a six year period (CFTC 2019)."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 122.208,
+            "t": 679.9350880000002,
+            "r": 224.2934528,
+            "b": 669.1873632000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Model and Training",
+      "text": "Model and Training",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 663.7076526000001,
+            "r": 292.50464400000016,
+            "b": 611.3197743929206,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "In order to be able to achieve our ultimate goal of using learned representations to identify similarities between various order book states, we need to determine if our target can be learned. With this in mind we conducted some initial experiments which show promising results:",
+      "text": "In order to be able to achieve our ultimate goal of using learned representations to identify similarities between various order book states, we need to determine if our target can be learned. With this in mind we conducted some initial experiments which show promising results:"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.483,
+            "t": 603.5006526000003,
+            "r": 292.50447400000013,
+            "b": 573.0307743929208,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "· Westack a series of market order book states together and processed them through a labelling algorithm that creates windowed time series data with labels.",
+      "text": "Westack a series of market order book states together and processed them through a labelling algorithm that creates windowed time series data with labels.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.48299999999999,
+            "t": 567.7886526000004,
+            "r": 292.50447400000013,
+            "b": 537.3187743929209,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "· Subsequently, we conducted experiments with a validation set, whose labelling algorithm was slightly different to the training labelling algorithm.",
+      "text": "Subsequently, we conducted experiments with a validation set, whose labelling algorithm was slightly different to the training labelling algorithm.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.48299999999999,
+            "t": 532.0766526000006,
+            "r": 292.504474,
+            "b": 512.565774392921,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "· We show that we can predict the correct labels with 91% accuracy.",
+      "text": "We show that we can predict the correct labels with 91% accuracy.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.48299999999999,
+            "t": 507.3236526000006,
+            "r": 292.50447399999996,
+            "b": 487.81277439292097,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "· We propose that these highlighted potentially suspicious activities be labelled by an expert.",
+      "text": "We propose that these highlighted potentially suspicious activities be labelled by an expert.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.48299999999999,
+            "t": 482.57065260000064,
+            "r": 292.5044740000001,
+            "b": 441.141774392921,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "· Additionally, we suggest learning a similarity measure between any new potentially suspicious states identified by our weak learner and the high confidence annotations we have from our experts.",
+      "text": "Additionally, we suggest learning a similarity measure between any new potentially suspicious states identified by our weak learner and the high confidence annotations we have from our experts.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.48299999999999,
+            "t": 435.89965260000065,
+            "r": 292.504474,
+            "b": 416.388774392921,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "· We rank the results of the weak learner based on its proximity to the high confidence annotations.",
+      "text": "We rank the results of the weak learner based on its proximity to the high confidence annotations.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.99999999999999,
+            "t": 408.56965260000067,
+            "r": 292.50504399999994,
+            "b": 202.75777439292096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1133
+          ]
+        }
+      ],
+      "orig": "Our modelling task now involves a time-series, which is our MOB x 0 .....x T and labels y 0 .....y T where y i ∈ 0 , 1 , 2 where label 0 has no classification, 1 is buy side spoofing and 2 is sell side spoofing. x 0 is a matrix ( h, w, d ) where h is 30, w is 2, and d is 2. Here d 1 will be 2 d matrix with representing the quantity present on the book and d 2 will be a 2 d matrix with the corresponding prices on the book. We stack our time series market order book data on top of each other for the desired number of frames (or timesteps) to predict an outcome. After this operation x 0 will be a matrix n, h, w, d where n is the number of frames and the other dimensions remain. Our model is causal, y t only depends on x 0: t and not on x t +1: T - i.e information from the future is not injected into the past. In our modelling we use a temporal convolutional network (TCN) which has 128 filters with a kernel size k = 2 and dilations d of 1 , 2 , 4 , 8 , 16 , 32 , 64 . We use the swish activation function in our TCN layers as described in (Ramachandran, Zoph, and Le 2017) which worked better than ReLU for our predictions.",
+      "text": "Our modelling task now involves a time-series, which is our MOB x 0 .....x T and labels y 0 .....y T where y i ∈ 0 , 1 , 2 where label 0 has no classification, 1 is buy side spoofing and 2 is sell side spoofing. x 0 is a matrix ( h, w, d ) where h is 30, w is 2, and d is 2. Here d 1 will be 2 d matrix with representing the quantity present on the book and d 2 will be a 2 d matrix with the corresponding prices on the book. We stack our time series market order book data on top of each other for the desired number of frames (or timesteps) to predict an outcome. After this operation x 0 will be a matrix n, h, w, d where n is the number of frames and the other dimensions remain. Our model is causal, y t only depends on x 0: t and not on x t +1: T - i.e information from the future is not injected into the past. In our modelling we use a temporal convolutional network (TCN) which has 128 filters with a kernel size k = 2 and dilations d of 1 , 2 , 4 , 8 , 16 , 32 , 64 . We use the swish activation function in our TCN layers as described in (Ramachandran, Zoph, and Le 2017) which worked better than ReLU for our predictions."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 108.44200000000006,
+            "t": 189.59908800000062,
+            "r": 238.0602784000001,
+            "b": 178.8513632000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Preliminary Experiments",
+      "text": "Preliminary Experiments",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.000000000000064,
+            "t": 173.54997940000067,
+            "r": 292.5046440000001,
+            "b": 120.98277439292099,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "Our dataset consisted of five stocks: SPY , GOOG , IBM , VOD , ABEO , trading on five exchanges: NASDAQ , EDGX , BATS , EDGA and ARCA . All data was capped to 30 levels from the top of the book. We also have a mix of liquid and illiquid instruments in our training, test and validation sets.",
+      "text": "Our dataset consisted of five stocks: SPY , GOOG , IBM , VOD , ABEO , trading on five exchanges: NASDAQ , EDGX , BATS , EDGA and ARCA . All data was capped to 30 levels from the top of the book. We also have a mix of liquid and illiquid instruments in our training, test and validation sets."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.000000000000085,
+            "t": 118.40365260000056,
+            "r": 292.5050440000001,
+            "b": 87.9337743929209,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "The table can be read as 10 market order book states trained with cross entropy loss. E=256 indicates that the learnt internal representation was 256 dimensional and c=2",
+      "text": "The table can be read as 10 market order book states trained with cross entropy loss. E=256 indicates that the learnt internal representation was 256 dimensional and c=2"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 335.02,
+            "t": 623.9686525999999,
+            "r": 542.4811823999999,
+            "b": 615.4167743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Figure 2: Framework we propose to detect Spoofing",
+      "text": "Figure 2: Framework we propose to detect Spoofing"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 319.5,
+            "t": 591.4266525999999,
+            "r": 558.0046439999996,
+            "b": 539.0387743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            299
+          ]
+        }
+      ],
+      "orig": "would include only buy side and sell side spoofing instances while c=3 would include neutral instances along with buy side and sell side. We log the accuracy and F1 score in this order, i.e ( x, y ) is the tuple of metrics listed below, where x represents the accuracy and y represents the F1 score.",
+      "text": "would include only buy side and sell side spoofing instances while c=3 would include neutral instances along with buy side and sell side. We log the accuracy and F1 score in this order, i.e ( x, y ) is the tuple of metrics listed below, where x represents the accuracy and y represents the F1 score."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 359.656,
+            "t": 517.6594558,
+            "r": 367.01039132,
+            "b": 508.9528898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "E",
+      "text": "E"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 370.35200000000003,
+            "t": 517.6594558,
+            "r": 395.81441307999995,
+            "b": 508.9528898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "= 256",
+      "text": "= 256"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 453.709,
+            "t": 517.6594558,
+            "r": 461.06339132,
+            "b": 508.9528898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "E",
+      "text": "E"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 464.40500000000003,
+            "t": 517.6594558,
+            "r": 494.8487130799999,
+            "b": 508.9528898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "= 1024",
+      "text": "= 1024"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 339.425,
+            "t": 499.80345580000005,
+            "r": 343.73681328000004,
+            "b": 491.0968898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "c",
+      "text": "c"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 346.504,
+            "t": 499.80345580000005,
+            "r": 362.00381308,
+            "b": 491.0968898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "= 2",
+      "text": "= 2"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 387.697,
+            "t": 499.80345580000005,
+            "r": 392.00881328,
+            "b": 491.0968898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "c",
+      "text": "c"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 394.776,
+            "t": 499.80345580000005,
+            "r": 410.27581308,
+            "b": 491.0968898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "= 3",
+      "text": "= 3"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 435.969,
+            "t": 499.80345580000005,
+            "r": 440.28081328,
+            "b": 491.0968898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "c",
+      "text": "c"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 443.04699999999997,
+            "t": 499.80345580000005,
+            "r": 458.54681307999994,
+            "b": 491.0968898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "= 2",
+      "text": "= 2"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 484.241,
+            "t": 499.80345580000005,
+            "r": 488.55281328,
+            "b": 491.0968898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "c",
+      "text": "c"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 491.31899999999996,
+            "t": 499.80345580000005,
+            "r": 506.8188130799999,
+            "b": 491.0968898772335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "= 3",
+      "text": "= 3"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 339.425,
+            "t": 481.62865259999995,
+            "r": 367.64904579999995,
+            "b": 473.0767743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "(90.97,",
+      "text": "(90.97,"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 339.425,
+            "t": 470.66965259999995,
+            "r": 365.15839579999994,
+            "b": 462.1177743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "80.40)",
+      "text": "80.40)"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 387.697,
+            "t": 481.62865259999995,
+            "r": 415.92104579999994,
+            "b": 473.0767743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "(86.02,",
+      "text": "(86.02,"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 387.697,
+            "t": 470.66965259999995,
+            "r": 413.4303957999999,
+            "b": 462.1177743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "46.08)",
+      "text": "46.08)"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 435.969,
+            "t": 481.62865259999995,
+            "r": 464.19304579999994,
+            "b": 473.0767743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "(90.18,",
+      "text": "(90.18,"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 435.969,
+            "t": 470.66965259999995,
+            "r": 461.7023957999999,
+            "b": 462.1177743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "56.90)",
+      "text": "56.90)"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 484.241,
+            "t": 481.62865259999995,
+            "r": 512.4650457999999,
+            "b": 473.0767743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "(84.36,",
+      "text": "(84.36,"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 484.241,
+            "t": 470.66965259999995,
+            "r": 509.9743957999999,
+            "b": 462.1177743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "45.85)",
+      "text": "45.85)"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 374.306,
+            "t": 445.193088,
+            "r": 503.19501119999984,
+            "b": 434.44536320000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Conclusions and Outlook",
+      "text": "Conclusions and Outlook",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 319.5,
+            "t": 429.6396526,
+            "r": 558.0046439999999,
+            "b": 256.70477439292017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            931
+          ]
+        }
+      ],
+      "orig": "We have introduced a framework for detecting market manipulation and, more importantly, ranking potential spoofing activity based on expert input. We conducted a preliminary experiment to demonstrate the predictability of our target. We propose to use the learnt representations of the suspicious activity annotated by experts to rank future discoveries. Where experts are unavailable, we would employ a secondary algorithm to detect more complex scenarios of spoofing. For example, this algorithm would provide additional attention to multi deletion scenarios, top of the book spoof orders, and continuous patterns of spoofing. We will use this algorithm in place of an expert to test our hypothesis whether we can effectively identify and rank future complex scenarios of spoofing. To the best of our knowledge this is the first work exploring the idea of learning potential market order book abstractions to understand spoofing.",
+      "text": "We have introduced a framework for detecting market manipulation and, more importantly, ranking potential spoofing activity based on expert input. We conducted a preliminary experiment to demonstrate the predictability of our target. We propose to use the learnt representations of the suspicious activity annotated by experts to rank future discoveries. Where experts are unavailable, we would employ a secondary algorithm to detect more complex scenarios of spoofing. For example, this algorithm would provide additional attention to multi deletion scenarios, top of the book spoof orders, and continuous patterns of spoofing. We will use this algorithm in place of an expert to test our hypothesis whether we can effectively identify and rank future complex scenarios of spoofing. To the best of our knowledge this is the first work exploring the idea of learning potential market order book abstractions to understand spoofing."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 410.978,
+            "t": 244.24808799999994,
+            "r": 466.52185920000005,
+            "b": 233.50036319999992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 319.5,
+            "t": 228.6956525999999,
+            "r": 479.7085705999998,
+            "b": 220.14377439292025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "CFTC. 2019. Release Number 7946-19.",
+      "text": "CFTC. 2019. Release Number 7946-19."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 319.5,
+            "t": 215.4036526,
+            "r": 481.06348419999995,
+            "b": 206.85177439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "ESMA. 2018. MAR. Paper. Regulation.",
+      "text": "ESMA. 2018. MAR. Paper. Regulation."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 319.5,
+            "t": 202.11265259999993,
+            "r": 558.004644,
+            "b": 171.64277439292027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "Inc, T. T. I. 2016. Applied Artificial Intelligence Technology For Processing Trade Data To Detect Patterns Indicative Of Potential Trade Spoofing. USA. ISBN US10552735B1.",
+      "text": "Inc, T. T. I. 2016. Applied Artificial Intelligence Technology For Processing Trade Data To Detect Patterns Indicative Of Potential Trade Spoofing. USA. ISBN US10552735B1."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 319.5,
+            "t": 166.9036526,
+            "r": 558.0046439999998,
+            "b": 136.4337743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "Leea, E.; Eomb, K. S.; and Parkd, K. S. 2013. Microstructure-based manipulation: Strategic behavior and performance of spoofing traders.",
+      "text": "Leea, E.; Eomb, K. S.; and Parkd, K. S. 2013. Microstructure-based manipulation: Strategic behavior and performance of spoofing traders."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 319.5,
+            "t": 131.69465259999993,
+            "r": 558.0046439999995,
+            "b": 112.18377439292021,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "Qureshi, F. 2019. Stock Market Layering Fraud as a Stochastic Optimal Stopping Problem. Presentation.",
+      "text": "Qureshi, F. 2019. Stock Market Layering Fraud as a Stochastic Optimal Stopping Problem. Presentation."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 319.5,
+            "t": 107.44465259999993,
+            "r": 558.004644,
+            "b": 87.93377439292021,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "Ramachandran, P.; Zoph, B.; and Le, Q. V. 2017. Searching for Activation Functions. arXiv:1710.05941.",
+      "text": "Ramachandran, P.; Zoph, B.; and Le, Q. V. 2017. Searching for Activation Functions. arXiv:1710.05941."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 318.5280456542969,
+            "t": 280.5733337402344,
+            "r": 557.5050659179688,
+            "b": 207.51397705078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.861572265625,
+            "t": 739.3582229614258,
+            "r": 559.4921264648438,
+            "b": 634.5642852783203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/1"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 328.170654296875,
+            "t": 524.7982177734375,
+            "r": 523.3521118164062,
+            "b": 457.5005187988281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/1"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

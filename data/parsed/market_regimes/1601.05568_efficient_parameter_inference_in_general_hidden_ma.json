@@ -1,0 +1,6334 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1601.05568_efficient_parameter_inference_in_general_hidden_ma",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6552465405218410194,
+    "filename": "1601.05568_efficient_parameter_inference_in_general_hidden_ma.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/186"
+      },
+      {
+        "$ref": "#/texts/187"
+      },
+      {
+        "$ref": "#/texts/188"
+      },
+      {
+        "$ref": "#/texts/189"
+      },
+      {
+        "$ref": "#/texts/190"
+      },
+      {
+        "$ref": "#/texts/191"
+      },
+      {
+        "$ref": "#/texts/192"
+      },
+      {
+        "$ref": "#/groups/1"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/193"
+        },
+        {
+          "$ref": "#/texts/194"
+        },
+        {
+          "$ref": "#/texts/195"
+        },
+        {
+          "$ref": "#/texts/196"
+        },
+        {
+          "$ref": "#/texts/197"
+        },
+        {
+          "$ref": "#/texts/198"
+        },
+        {
+          "$ref": "#/texts/199"
+        },
+        {
+          "$ref": "#/texts/200"
+        },
+        {
+          "$ref": "#/texts/201"
+        },
+        {
+          "$ref": "#/texts/202"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 602.98,
+            "r": 36.206559297218156,
+            "b": 243.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:1601.05568v2  [stat.CO]  24 Feb 2016",
+      "text": "arXiv:1601.05568v2  [stat.CO]  24 Feb 2016",
+      "hyperlink": "http://arxiv.org/abs/1601.05568v2"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.5199,
+            "t": 694.2417151999999,
+            "r": 556.8620254164481,
+            "b": 669.5521101048315,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "EFFICIENT PARAMETER INFERENCE IN GENERAL HIDDEN MARKOV MODELS USING THE FILTER DERIVATIVES.",
+      "text": "EFFICIENT PARAMETER INFERENCE IN GENERAL HIDDEN MARKOV MODELS USING THE FILTER DERIVATIVES.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 217.5609,
+            "t": 651.1265456,
+            "r": 396.0988232968706,
+            "b": 640.8394723349927,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Jimmy Olsson and Johan Westerborn",
+      "text": "Jimmy Olsson and Johan Westerborn"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 221.52067,
+            "t": 623.2743424,
+            "r": 392.01858223398403,
+            "b": 585.0052871144949,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "KTH Royal Institute of Technology Department of Mathematics SE-100 44 Stockholm, Sweden",
+      "text": "KTH Royal Institute of Technology Department of Mathematics SE-100 44 Stockholm, Sweden"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.2399399999999,
+            "t": 554.99520768,
+            "r": 559.3295539199999,
+            "b": 390.90441820415805,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            872
+          ]
+        }
+      ],
+      "orig": "initial distribution and transition density (with respect to some reference measure denoted by d x for simplicity), respectively, of the hidden Markov chain, where θ ∈ Θ denotes a parameter vector that fully determines the dynamics of model and Θ is the parameter space. Conditioned on the state process, the observations are assumed to be independent with conditional distribution of Y t depending on X t only. We denote by g θ the density of the latter conditional distribution. Before using the HMM in practice, e.g. for prediction, the model needs to be calibrated through estimation of the parameters θ given observations y 0: t = ( y 0 , . . . , y t ) (this will be our standard notation for vectors). There are several different approaches to this problem, based on either frequentist or Bayesian inference, and [2] provides a good expos´ e of some current methods.",
+      "text": "initial distribution and transition density (with respect to some reference measure denoted by d x for simplicity), respectively, of the hidden Markov chain, where θ ∈ Θ denotes a parameter vector that fully determines the dynamics of model and Θ is the parameter space. Conditioned on the state process, the observations are assumed to be independent with conditional distribution of Y t depending on X t only. We denote by g θ the density of the latter conditional distribution. Before using the HMM in practice, e.g. for prediction, the model needs to be calibrated through estimation of the parameters θ given observations y 0: t = ( y 0 , . . . , y t ) (this will be our standard notation for vectors). There are several different approaches to this problem, based on either frequentist or Bayesian inference, and [2] provides a good expos´ e of some current methods."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.23969999999986,
+            "t": 387.11500767999996,
+            "r": 559.2905150978158,
+            "b": 330.664518204158,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            274
+          ]
+        }
+      ],
+      "orig": "The maximum likelihood approach aims at finding the parameter vector that maximizes the likelihood function θ ↦→ L θ ( y 0: t ) or, equivalently, the log-likelihood function θ ↦→ ℓ θ ( y 0: t ) = log L θ ( y 0: t ) . For the model specified above, the likelihood is given by",
+      "text": "The maximum likelihood approach aims at finding the parameter vector that maximizes the likelihood function θ ↦→ L θ ( y 0: t ) or, equivalently, the log-likelihood function θ ↦→ ℓ θ ( y 0: t ) = log L θ ( y 0: t ) . For the model specified above, the likelihood is given by"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 325.1998799999998,
+            "t": 314.3120199999999,
+            "r": 548.9993232799997,
+            "b": 261.5203882399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "L θ ( y 0: t ) = ∫ g θ ( x 0 , y 0 ) χ ( x 0 ) t ∏ s =1 g θ ( x s , y s ) q θ ( x s -1 , x s ) d x 0: t .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.2396719999997,
+            "t": 256.7951076799999,
+            "r": 559.2612152709578,
+            "b": 68.82423420415796,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            958
+          ]
+        }
+      ],
+      "orig": "The log-likelihood function and its gradient are generally intractable, as closed-form expressions are obtainable only in the linear Gaussian case or in the case where the state space X is a finite set. Still, maximization of the log-likelihood function can be performed using the following Robbins-Monro scheme : at iteration n , let θ n = θ n -1 + γ n Z n , where Z n is a noisy measurement of ∇ ℓ θ n -1 ( y 0: t ) , i.e. the gradient of the log-likelihood with respect to θ evaluated at θ = θ n -1 , and the sequence { γ n } n ∈ N ∗ of positive step sizes satisfies the regular stochastic approximation requirements ∑ ∞ n =1 γ n = ∞ and ∑ ∞ n =1 γ 2 n < ∞ . Note that this approach requires the approximation Z n to be recomputed at every iteration of the algorithm. However, if the number of observations is very large, computing Z n is costly. Thus, since many iterations may generally be required for convergence, this yields an impractical algorithm.",
+      "text": "The log-likelihood function and its gradient are generally intractable, as closed-form expressions are obtainable only in the linear Gaussian case or in the case where the state space X is a finite set. Still, maximization of the log-likelihood function can be performed using the following Robbins-Monro scheme : at iteration n , let θ n = θ n -1 + γ n Z n , where Z n is a noisy measurement of ∇ ℓ θ n -1 ( y 0: t ) , i.e. the gradient of the log-likelihood with respect to θ evaluated at θ = θ n -1 , and the sequence { γ n } n ∈ N ∗ of positive step sizes satisfies the regular stochastic approximation requirements ∑ ∞ n =1 γ n = ∞ and ∑ ∞ n =1 γ 2 n < ∞ . Note that this approach requires the approximation Z n to be recomputed at every iteration of the algorithm. However, if the number of observations is very large, computing Z n is costly. Thus, since many iterations may generally be required for convergence, this yields an impractical algorithm."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 149.52068,
+            "t": 555.13464464,
+            "r": 203.08566322524683,
+            "b": 546.2601641480527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "ABSTRACT",
+      "text": "ABSTRACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.480879999999985,
+            "t": 536.27526768,
+            "r": 298.5023332011306,
+            "b": 348.3043782041579,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            920
+          ]
+        }
+      ],
+      "orig": "Estimating online the parameters of general state-space hidden Markov models is a topic of importance in many scientific and engineering disciplines. In this paper we present an online parameter estimation algorithm obtained by casting our recently proposed particle-based, rapid incremental smoother (PaRIS) into the framework of recursive maximum likelihood estimation for general hidden Markov models. Previous such particle implementations suffer from either quadratic complexity in the number of particles or from the well-known degeneracy of the genealogical particle paths. By using the computational efficient and numerically stable PaRIS algorithm for estimating the needed prediction filter derivatives we obtain a fast algorithm with a computational complexity that grows only linearly with the number of particles. The efficiency and stability of the proposed algorithm are illustrated in a simulation study.",
+      "text": "Estimating online the parameters of general state-space hidden Markov models is a topic of importance in many scientific and engineering disciplines. In this paper we present an online parameter estimation algorithm obtained by casting our recently proposed particle-based, rapid incremental smoother (PaRIS) into the framework of recursive maximum likelihood estimation for general hidden Markov models. Previous such particle implementations suffer from either quadratic complexity in the number of particles or from the well-known degeneracy of the genealogical particle paths. By using the computational efficient and numerically stable PaRIS algorithm for estimating the needed prediction filter derivatives we obtain a fast algorithm with a computational complexity that grows only linearly with the number of particles. The efficiency and stability of the proposed algorithm are illustrated in a simulation study."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.48097999999999,
+            "t": 339.7345446399998,
+            "r": 298.2784903165764,
+            "b": 295.0242782041579,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "Index Terms -Hidden Markov models, maximum likelihood estimation, online parameter estimation, particle filters, recursive estimation, sequential Monte Carlo methods, statespace models",
+      "text": "Index Terms -Hidden Markov models, maximum likelihood estimation, online parameter estimation, particle filters, recursive estimation, sequential Monte Carlo methods, statespace models"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 129.84078000000002,
+            "t": 273.73454463999974,
+            "r": 222.71363685458408,
+            "b": 264.8600641480525,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. INTRODUCTION",
+      "text": "1. INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.480280000000036,
+            "t": 250.4352676799998,
+            "r": 298.47652625336156,
+            "b": 157.98437820415802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            425
+          ]
+        }
+      ],
+      "orig": "This paper deals with the problem of online parameter estimation in general state-space hidden Markov models (HMMs) using sequential Monte Carlo (SMC) methods and a recursive maximum likelihood (RML) algorithm. HMMs with general state spaces, also referred to as state-space models , are currently applied within a large variety of scientific and engineering disciplines, see, e.g., [1, Chapter 1] and the references therein.",
+      "text": "This paper deals with the problem of online parameter estimation in general state-space hidden Markov models (HMMs) using sequential Monte Carlo (SMC) methods and a recursive maximum likelihood (RML) algorithm. HMMs with general state spaces, also referred to as state-space models , are currently applied within a large variety of scientific and engineering disciplines, see, e.g., [1, Chapter 1] and the references therein."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.48124000000004,
+            "t": 154.3148676799999,
+            "r": 298.45231973954077,
+            "b": 97.09690459999979,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.48009999999999,
+            "t": 716.63526768,
+            "r": 298.50169329015426,
+            "b": 636.1847782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            308,
+            712
+          ]
+        }
+      ],
+      "orig": "A hidden Markov model (HMM)is a bivariate model consisting of an observable process { Y t } t ∈ N , known as the observation process , and an unobservable Markov chain { X t } t ∈ N , known as the state process , taking values in some general state spaces Y and X , respectively. We let χ and q θ denote the Hence, rather than incorporating the full observation record into each parameter update, it is preferable to update the parameters little by little as the data is processed. This is of course of particular importance in online applications where the observations become available 'on-the-fly'. One such scheme is the following RML approach, where we instead update iteratively the parameters according to",
+      "text": "A hidden Markov model (HMM)is a bivariate model consisting of an observable process { Y t } t ∈ N , known as the observation process , and an unobservable Markov chain { X t } t ∈ N , known as the state process , taking values in some general state spaces Y and X , respectively. We let χ and q θ denote the Hence, rather than incorporating the full observation record into each parameter update, it is preferable to update the parameters little by little as the data is processed. This is of course of particular importance in online applications where the observations become available 'on-the-fly'. One such scheme is the following RML approach, where we instead update iteratively the parameters according to"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.480200000000025,
+            "t": 85.55631282000002,
+            "r": 298.0941434823128,
+            "b": 69.24360298398244,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "This work is supported by the Swedish Research Council, Grant 20115577.",
+      "text": "This work is supported by the Swedish Research Council, Grant 20115577."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 130.5602,
+            "t": 624.2720800000001,
+            "r": 298.39754838754794,
+            "b": 613.6237713500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "θ t +1 = θ t + γ t +1 ζ t +1 , (1.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.47931000000003,
+            "t": 602.7919840000001,
+            "r": 298.3031906528501,
+            "b": 521.4647822041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            400
+          ]
+        }
+      ],
+      "orig": "where ζ t +1 is a noisy observation of ∇ ℓ θ t ( y t +1 | y 0: t ) , i.e. the gradient (with respect to θ ), evaluated at θ = θ t , of the log-density of Y t +1 given Y 0: t . This technique was, in the case of a finite state space X , studied in [3]. The same work also establishes, under certain conditions, the convergence of the output { θ t } t ∈ N towards the parameter θ ∗ generating the data.",
+      "text": "where ζ t +1 is a noisy observation of ∇ ℓ θ t ( y t +1 | y 0: t ) , i.e. the gradient (with respect to θ ), evaluated at θ = θ t , of the log-density of Y t +1 given Y 0: t . This technique was, in the case of a finite state space X , studied in [3]. The same work also establishes, under certain conditions, the convergence of the output { θ t } t ∈ N towards the parameter θ ∗ generating the data."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.47931000000003,
+            "t": 518.1554716800001,
+            "r": 298.5299810480009,
+            "b": 366.0646822041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            768
+          ]
+        }
+      ],
+      "orig": "In this note we present an efficient particle implementation of the previous RML scheme based on the particle-based, rapid incremental smoother (PaRIS) introduced in [4] and analyzed further in [5]. Compared with previous implementations, which suffer typically from quadratic complexity in the number of particles [6, 7], our new algorithm is significantly faster as it has a computational complexity that grows only linearly in the particle population size. The rest of the paper is organized as follows. After having introduced some basic notation in Section 2, we delve deeper into the RML algorithm in Section 3. In Section 4 we present our new algorithm and finally we present, in Section 5, a simulation study, comparing our algorithm with an existing approach.",
+      "text": "In this note we present an efficient particle implementation of the previous RML scheme based on the particle-based, rapid incremental smoother (PaRIS) introduced in [4] and analyzed further in [5]. Compared with previous implementations, which suffer typically from quadratic complexity in the number of particles [6, 7], our new algorithm is significantly faster as it has a computational complexity that grows only linearly in the particle population size. The rest of the paper is organized as follows. After having introduced some basic notation in Section 2, we delve deeper into the RML algorithm in Section 3. In Section 4 we present our new algorithm and finally we present, in Section 5, a simulation study, comparing our algorithm with an existing approach."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.67931000000003,
+            "t": 347.29484863999994,
+            "r": 224.99200516634997,
+            "b": 338.42036814805266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "2. SOME NOTATION",
+      "text": "2. SOME NOTATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.47931000000003,
+            "t": 325.0642124,
+            "r": 298.26135895874654,
+            "b": 303.869444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "In the following we let N denote the set natural numbers and set N ∗ = N \\ { 0 } .",
+      "text": "In the following we let N denote the set natural numbers and set N ∗ = N \\ { 0 } ."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.47959000000006,
+            "t": 301.83208399999995,
+            "r": 298.3973213460447,
+            "b": 268.38458420415805,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "The conditional distribution of X s : s ′ given fixed observations Y 0: t = y 0: t (with ( s, s ′ ) ∈ N 2 and s ≤ s ′ ≤ t ) is given by",
+      "text": "The conditional distribution of X s : s ′ given fixed observations Y 0: t = y 0: t (with ( s, s ′ ) ∈ N 2 and s ≤ s ′ ≤ t ) is given by"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.43936000000006,
+            "t": 255.15861359999997,
+            "r": 288.23912128000006,
+            "b": 190.84045623999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "φ s : s ′ | t ; θ ( x s : s ′ ) = L -1 θ ( y 0: t ) ∫∫ g θ ( x 0 , y 0 ) χ ( x 0 ) × t ∏ u =1 g θ ( x u , y u ) q θ ( x u -1 , x u ) d x 0: s -1 d x s ′ +1: t .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.47947000000005,
+            "t": 188.31218799999988,
+            "r": 298.32917629700114,
+            "b": 154.74478620415812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "We refer to φ t ; θ = φ t | t ; θ and φ 0: t | t ; θ as the fi lter and joint smoothing distributions at time t , respectively. The distribution",
+      "text": "We refer to φ t ; θ = φ t | t ; θ and φ 0: t | t ; θ as the fi lter and joint smoothing distributions at time t , respectively. The distribution"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 76.31935000000001,
+            "t": 146.67861359999995,
+            "r": 276.35915128,
+            "b": 116.80065623999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "φ t +1 | t ; θ ( x t +1 ) = ∫ q θ ( x t , x t +1 ) φ t +1 | t ; θ ( x t ) d x t ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.47947999999997,
+            "t": 114.15208799999994,
+            "r": 298.38078699816793,
+            "b": 68.824486204158,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            259
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.23918,
+            "t": 717.511888,
+            "r": 559.0196613236801,
+            "b": 694.4964455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            260,
+            395
+          ]
+        }
+      ],
+      "orig": "i.e., the conditional distribution of X t +1 given Y 0: t = y 0: t is referred to as the prediction filter at time t . In general, these distributions are intractable and need to be approximated. We will often consider expectations of some integrable function f with respect to the posterior above and write φ s : s ′ | t ; θ ( f ) = f ( x s : s ′ ) φ s : s ′ | t ; θ ( x s : s ′ ) d x s : s ′ .",
+      "text": "i.e., the conditional distribution of X t +1 given Y 0: t = y 0: t is referred to as the prediction filter at time t . In general, these distributions are intractable and need to be approximated. We will often consider expectations of some integrable function f with respect to the posterior above and write φ s : s ′ | t ; θ ( f ) = f ( x s : s ′ ) φ s : s ′ | t ; θ ( x s : s ′ ) d x s : s ′ ."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 338.75908999999973,
+            "t": 618.0148526400001,
+            "r": 535.4321218365068,
+            "b": 609.1403721480527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "3. RECURSIVE MAXIMUM LIKELIHOOD",
+      "text": "3. RECURSIVE MAXIMUM LIKELIHOOD",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.23872,
+            "t": 706.4786435999999,
+            "r": 559.2591475332954,
+            "b": 616.2404962400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            280
+          ]
+        }
+      ],
+      "orig": "∫ For a vector of non-negative numbers { a ℓ } N i =1 we let Pr ( { a ℓ } N i =1 ) denote the categorical distribution induced by { a ℓ } N ℓ =1 . In other words, J ∼ Pr ( { a ℓ } N ℓ =1 ) means that the random variable J takes on the value i with probability a i / ∑ N ℓ =1 a ℓ .",
+      "text": "∫ For a vector of non-negative numbers { a ℓ } N i =1 we let Pr ( { a ℓ } N i =1 ) denote the categorical distribution induced by { a ℓ } N ℓ =1 . In other words, J ∼ Pr ( { a ℓ } N ℓ =1 ) means that the random variable J takes on the value i with probability a i / ∑ N ℓ =1 a ℓ ."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.2386899999997,
+            "t": 595.5554756800001,
+            "r": 559.1566039692893,
+            "b": 549.6589414000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "As mentioned in the introduction, the RML approach updates the parameter for each new observation y t +1 using (1.1). The algorithm that we propose is based on the fact that ∇ ℓ θ t ( y t +1 | y 0: t ) can be decomposed as",
+      "text": "As mentioned in the introduction, the RML approach updates the parameter for each new observation y t +1 using (1.1). The algorithm that we propose is based on the fact that ∇ ℓ θ t ( y t +1 | y 0: t ) can be decomposed as"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 325.67889999999966,
+            "t": 541.9520960000001,
+            "r": 559.156548387547,
+            "b": 438.76074424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "∇ ℓ θ t ( y t +1 | y 0: t ) = (∫ φ t +1 | t ; θ t ( x t +1 ) ∇ g θ t ( x t +1 , y t +1 ) d x t +1 + ∫ ∇ φ t +1 | t ; θ t ( x t +1 ) g θ t ( x t +1 , y t +1 ) d x t +1 ) × (∫ φ t +1 | t ; θ t ( x t +1 ) g θ t ( x t +1 , y t +1 ) d x t +1 ) -1 , (3.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.2384599999989,
+            "t": 437.43207799999993,
+            "r": 559.2603395122652,
+            "b": 379.58933799999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "where ∇ φ t +1 | t ; θ t ( x t +1 ) is known as the prediction filter derivative [6, 7] or tangent filter . In order to compute the second integral in (3.1) we follow the lines of [7, Section 2]; more specifically, write, for some φ t +1 | t ; θ -integrable function f ,",
+      "text": "where ∇ φ t +1 | t ; θ t ( x t +1 ) is known as the prediction filter derivative [6, 7] or tangent filter . In order to compute the second integral in (3.1) we follow the lines of [7, Section 2]; more specifically, write, for some φ t +1 | t ; θ -integrable function f ,"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 326.87932999999884,
+            "t": 369.75860359999996,
+            "r": 559.1572883875468,
+            "b": 316.7435293499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "∫ ∇ φ t +1 | t ; θ ( x t +1 ) f ( x t +1 ) d x t +1 = E [ f ( X t +1 ) h t +1 ( X 0: t +1 ; θ ) | y 0: t ] -E [ f ( X t +1 ) | y 0: t ] E [ h t +1 ( X 0: t +1 ; θ ) | y 0: t ] , (3.2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.2397099999988,
+            "t": 309.3103954999999,
+            "r": 499.50093665428074,
+            "b": 277.1204762399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "where h t ( x 0: t ; θ ) = ∑ t -1 s =0 ˜ h s ( x s : s +1 ; θ ) , with",
+      "text": "where h t ( x 0: t ; θ ) = ∑ t -1 s =0 ˜ h s ( x s : s +1 ; θ ) , with"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.2394749999987,
+            "t": 288.2784335999999,
+            "r": 571.3195262799985,
+            "b": 258.4004762399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "˜ h s ( x s : s +1 ; θ ) = { ∇ log { g θ ( x s , y s ) q θ ( x s , x s +1 ) } for s ∈ N ∗ , ∇ log g θ ( x 0 , y 0 ) for s = 0 ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.2397549999985,
+            "t": 250.43539567999994,
+            "r": 559.0373278240418,
+            "b": 217.864606204158,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "is of additive form. In addition, using the tower property of conditional expectations, we may elaborate further (3.2) according to",
+      "text": "is of additive form. In addition, using the tower property of conditional expectations, we may elaborate further (3.2) according to"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.11977499999847,
+            "t": 207.3983335999999,
+            "r": 559.6376233875463,
+            "b": 117.664636204158,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "∫ ∇ φ t +1 | t ; θ ( x t +1 ) f ( x t +1 ) d x t +1 = ∫ φ t +1 | t ; θ ( x t +1 ) { τ t +1 ( x t +1 ; θ ) -∫ τ t +1 ( x t +1 ; θ ) φ t +1 | t ; θ ( x t +1 ) d x t +1 } f ( x t +1 ) d x t +1 , (3.3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.2400449999983,
+            "t": 108.11512567999989,
+            "r": 332.9413874780284,
+            "b": 99.42443620415804,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "with",
+      "text": "with"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 322.6802749999983,
+            "t": 90.27193799999986,
+            "r": 559.1580633875462,
+            "b": 68.82443620415802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "τ t +1 ( x t +1 ; θ ) = E [ h t +1 ( X 0: t +1 ; θ ) | X t +1 = x t +1 , y 0: t ] . (3.4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.4801,
+            "t": 716.63526768,
+            "r": 298.39793872396046,
+            "b": 648.1847842041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            361
+          ]
+        }
+      ],
+      "orig": "Combining the updating scheme (1.1) with (3.1) and (3.3), with f ( x t +1 ) playing the role of g θ t ( x t +1 , y t +1 ) in (3.3), gives us an RML algorithm, in which the noisy measurements { ζ t } t ∈ N ∗ are produced via (3.1) and (3.3) using a particle-based approach approximating online the prediction filter distributions as well as the statistics (3.4).",
+      "text": "Combining the updating scheme (1.1) with (3.1) and (3.3), with f ( x t +1 ) playing the role of g θ t ( x t +1 , y t +1 ) in (3.3), gives us an RML algorithm, in which the noisy measurements { ζ t } t ∈ N ∗ are produced via (3.1) and (3.3) using a particle-based approach approximating online the prediction filter distributions as well as the statistics (3.4)."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 124.08014,
+            "t": 630.1348506400001,
+            "r": 228.52505836775507,
+            "b": 621.2603701480527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "4. PARIS-BASED RML",
+      "text": "4. PARIS-BASED RML",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.479666000000094,
+            "t": 607.79537368,
+            "r": 298.3033899527984,
+            "b": 537.7765435000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            385
+          ]
+        }
+      ],
+      "orig": "A particle filter updates sequentially, using importance sampling and resampling techniques, a set { ( ξ i t , ω i t ) } N i =1 of particles and associated weights targeting a sequence of distributions. In our case we will use the particle filter to target the prediction filter flow { φ t +1 | t ; θ } t ∈ N in the sense that for all t ∈ N and φ t +1 | t ; θ -integrable functions f ,",
+      "text": "A particle filter updates sequentially, using importance sampling and resampling techniques, a set { ( ξ i t , ω i t ) } N i =1 of particles and associated weights targeting a sequence of distributions. In our case we will use the particle filter to target the prediction filter flow { φ t +1 | t ; θ } t ∈ N in the sense that for all t ∈ N and φ t +1 | t ; θ -integrable functions f ,"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 57.479246000000074,
+            "t": 530.5094903999999,
+            "r": 295.1993552800001,
+            "b": 493.1204482399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "φ N t +1 | t ; θ ( f ) = 1 N N ∑ i =1 f ( ξ i t +1 ) ⋍ φ t +1 | t ; θ ( f ) as N →∞ .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.47942400000005,
+            "t": 493.6753676799998,
+            "r": 298.51728231033263,
+            "b": 388.2564974999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            555
+          ]
+        }
+      ],
+      "orig": "While particle filters are generally well-suited for approximation of filter and prediction filter flows, estimation of the sequence { τ t } t ∈ N , where each τ t is a conditional expectation over a path space , is a considerably more challenging task. As established in several papers (see, e.g., [5, 8, 9]), standard sequential Monte Carlo methods fall generally short when used for path-space approximation due to particle ancestral lineage degeneracy. Since h t ( x 0: t ; θ ) is additive, we express however the sequence { τ t } t ∈ N recursively as",
+      "text": "While particle filters are generally well-suited for approximation of filter and prediction filter flows, estimation of the sequence { τ t } t ∈ N , where each τ t is a conditional expectation over a path space , is a considerably more challenging task. As established in several papers (see, e.g., [5, 8, 9]), standard sequential Monte Carlo methods fall generally short when used for path-space approximation due to particle ancestral lineage degeneracy. Since h t ( x 0: t ; θ ) is additive, we express however the sequence { τ t } t ∈ N recursively as"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.51961400000007,
+            "t": 378.3918799999997,
+            "r": 298.3971103875479,
+            "b": 350.9435713499997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "τ t +1 ( x t +1 ; θ ) = E [ τ t ( X t ; θ ) + ˜ h t ( X t : t +1 ; θ ) | X t +1 = x t +1 , y 0: t ] . (4.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.479532000000006,
+            "t": 343.1952676799997,
+            "r": 298.5172463991749,
+            "b": 298.7447782041578,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "Our aim is to approximate the recursion (4.1) on a grid of particles. Thus, letting, for i ∈ { 1 , . . . , N } , ˜ τ i t be approximations of τ t ( ξ i t ; θ ) , we may approximate the recursion (4.1) by",
+      "text": "Our aim is to approximate the recursion (4.1) on a grid of particles. Thus, letting, for i ∈ { 1 , . . . , N } , ˜ τ i t be approximations of τ t ( ξ i t ; θ ) , we may approximate the recursion (4.1) by"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 60.599608,
+            "t": 291.2294903999997,
+            "r": 298.39738038754797,
+            "b": 243.28054823999992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "˜ τ i t +1 = N ∑ j =1 ω j t q θ ( ξ j t , ξ i t +1 ) ∑ N ℓ =1 ω ℓ t q θ ( ξ ℓ t , ξ i t +1 ) ( ˜ τ j t + ˜ h t ( ξ j t , ξ i t +1 ; θ ) ) , (4.2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.47944200000006,
+            "t": 246.71501767999985,
+            "r": 298.32945792000004,
+            "b": 165.86924999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            429
+          ]
+        }
+      ],
+      "orig": "where the ratio serves as a particle approximation of the backward kernel , i.e., the conditional distribution of X t given y 0: t and X t +1 = ξ i t +1 ; see [9, 10]. The recursion (4.2) is the key component of the particle RML proposed in [7, Alg. 2]. However, since each update requires a sum of N terms to be computed, this approach has a computational complexity that grows quadratically with the the number of particles N .",
+      "text": "where the ratio serves as a particle approximation of the backward kernel , i.e., the conditional distribution of X t given y 0: t and X t +1 = ξ i t +1 ; see [9, 10]. The recursion (4.2) is the key component of the particle RML proposed in [7, Alg. 2]. However, since each update requires a sum of N terms to be computed, this approach has a computational complexity that grows quadratically with the the number of particles N ."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.479664000000014,
+            "t": 162.9551776799999,
+            "r": 298.41040863804,
+            "b": 106.504288204158,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            289
+          ]
+        }
+      ],
+      "orig": "As an alternative, the PaRIS algorithm [5] provides an efficient and numerically stable estimator of smoothed expectations of additive form and hence a more convenient way of approximating the updating formula (4.1). More specifically, we replace each update (4.2) by the PaRIS-type update",
+      "text": "As an alternative, the PaRIS algorithm [5] provides an efficient and numerically stable estimator of smoothed expectations of additive form and hence a more convenient way of approximating the updating formula (4.1). More specifically, we replace each update (4.2) by the PaRIS-type update"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 77.15976400000001,
+            "t": 99.4300874999999,
+            "r": 275.5192832800001,
+            "b": 59.920248239999864,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "τ i t +1 = ˜ N -1 ˜ N ∑ j =1 ( τ J ( i,j ) t +1 t + ˜ h t ( ξ J ( i,j ) t +1 t , ξ i t +1 ; θ ) ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 315.23922000000005,
+            "t": 720.1903874999998,
+            "r": 559.2616247818648,
+            "b": 442.9843782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1397
+          ]
+        }
+      ],
+      "orig": "where ˜ N ∈ N ∗ is typically small and { J ( i,j ) t +1 } ˜ N j =1 are i.i.d. indices drawn from Pr ( { ω ℓ t q ( ξ ℓ t , ξ i t ) } N ℓ =1 ) . Using an acceptreject sampling approach proposed in [9], each index can be drawn efficiently with a cost that can be proven to be uniformly bounded in N and t . This yields an algorithm with complexity O ( N ˜ N ) instead of O ( N 2 ) . A key discovery made in [5] is that the PaRIS algorithm converges, as N tends to infinity, for all fi xed ˜ N ∈ N ∗ and stays numerically stable, as t tends to infinity, when ˜ N ≥ 2 ; in particular, it is, for large N and when ˜ N ≥ 2 , possible to derive a timeuniform O ( { 1 + 1 / ( ˜ N -1) } /N ) bound on the variance of the PaRIS estimator, suggesting that ˜ N should be kept at a moderate value (as increasing ˜ N will not lead to significant reduction of variance). In fact, using only ˜ N = 2 draws has turned out to work well in simulations (see [5, Section 4]). We refer to [5] for a detailed discussion. Compared to the O ( N 2 ) algorithm based on the updates (4.2), the extra randomness introduced by the PaRIS-based algorithm adds some variance to the estimates; still, it will be clear in the simulations that follow that the linear computational complexity of our approach allows considerably more particles to be used, resulting in a significantly smaller variance for a given computational budget.",
+      "text": "where ˜ N ∈ N ∗ is typically small and { J ( i,j ) t +1 } ˜ N j =1 are i.i.d. indices drawn from Pr ( { ω ℓ t q ( ξ ℓ t , ξ i t ) } N ℓ =1 ) . Using an acceptreject sampling approach proposed in [9], each index can be drawn efficiently with a cost that can be proven to be uniformly bounded in N and t . This yields an algorithm with complexity O ( N ˜ N ) instead of O ( N 2 ) . A key discovery made in [5] is that the PaRIS algorithm converges, as N tends to infinity, for all fi xed ˜ N ∈ N ∗ and stays numerically stable, as t tends to infinity, when ˜ N ≥ 2 ; in particular, it is, for large N and when ˜ N ≥ 2 , possible to derive a timeuniform O ( { 1 + 1 / ( ˜ N -1) } /N ) bound on the variance of the PaRIS estimator, suggesting that ˜ N should be kept at a moderate value (as increasing ˜ N will not lead to significant reduction of variance). In fact, using only ˜ N = 2 draws has turned out to work well in simulations (see [5, Section 4]). We refer to [5] for a detailed discussion. Compared to the O ( N 2 ) algorithm based on the updates (4.2), the extra randomness introduced by the PaRIS-based algorithm adds some variance to the estimates; still, it will be clear in the simulations that follow that the linear computational complexity of our approach allows considerably more particles to be used, resulting in a significantly smaller variance for a given computational budget."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 315.24031000000036,
+            "t": 420.25434463999994,
+            "r": 461.8992756965487,
+            "b": 411.37986414805266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "4.1. PaRIS-based RML algorithm",
+      "text": "4.1. PaRIS-based RML algorithm",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 315.2400700000004,
+            "t": 400.47167999999994,
+            "r": 559.1402059834725,
+            "b": 355.0241782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "In the algorithm below, all operations involving the index i should be performed for all i ∈ { 1 , . . . , N } . The precision parameter ˜ N is to be set by the user. In addition ζ 1 t , ζ 2 t and ζ 3 t correspond to the three terms of (3.1).",
+      "text": "In the algorithm below, all operations involving the index i should be performed for all i ∈ { 1 , . . . , N } . The precision parameter ˜ N is to be set by the user. In addition ζ 1 t , ζ 2 t and ζ 3 t correspond to the three terms of (3.1)."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 321.00063200000034,
+            "t": 350.6716800000001,
+            "r": 518.4086426500003,
+            "b": 340.0233713500001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "1: Initialize the algorithm by setting arbitrarily θ 0",
+      "text": "1: Initialize the algorithm by setting arbitrarily θ 0",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.04057400000033,
+            "t": 339.8291704000001,
+            "r": 524.6660783200003,
+            "b": 218.70424420415816,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            308
+          ]
+        }
+      ],
+      "orig": "2: Draw ξ i 0 ∼ χ 3: Set τ i 0 ← 0 4: for t ← 0 , 1 , 2 , . . . do 5: Set ω i t ← g θ t ( ξ i t , y t ) 6: Draw I i ∼ Pr ( { ω i t } N i =1 ) 7: Draw ξ i t +1 ∼ q θ t ( ξ I i t , · ) 8: for j ← 1 , . . . , ˜ N do 9: Draw J ( i,j ) t +1 ∼ Pr ( { ω ℓ t q θ t ( ξ ℓ t , ξ i t +1 ) } N ℓ =1 ) 10: end for 11: Set",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 345.9608840000003,
+            "t": 207.43003350000015,
+            "r": 545.1726350400004,
+            "b": 167.92019424000011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "τ i t +1 ← ˜ N -1 ˜ N ∑ j =1 ( τ J ( i,j ) t +1 t + ˜ h t ( ξ J ( i,j ) t +1 t , ξ i t +1 ; θ t ) )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.04009200000036,
+            "t": 161.14946640000016,
+            "r": 562.5856463200003,
+            "b": 68.90048414805267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            320
+          ]
+        }
+      ],
+      "orig": "12: Set ¯ τ t +1 ← N -1 ∑ N ℓ =1 τ ℓ t +1 13: Set ζ 1 t +1 ← N -1 ∑ N ℓ =1 ∇ g θ t ( ξ ℓ t +1 , y t +1 ) 14: Set ζ 2 t +1 ← N -1 ∑ N ℓ =1 ( τ ℓ t +1 -¯ τ t +1 ) g θ t ( ξ ℓ t +1 , y t +1 ) 15: Set ζ 3 t +1 ← N -1 ∑ N ℓ =1 g θ t ( ξ ℓ t +1 , y t +1 ) 16: Set θ t +1 ← θ t + γ t +1 ζ 1 t +1 + ζ 2 t +1 ζ 3 t +1 17: end for",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.47994,
+            "t": 443.29494464,
+            "r": 559.2613709016036,
+            "b": 398.5846782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            418
+          ]
+        }
+      ],
+      "orig": "Fig. 1 . Particle learning trajectories produced by the PaRIS-based (left panel) and standard particle (right-panel) RML for, from top to bottom, φ , σ 2 and β 2 . For each algorithm, 12 replicates were generated on the same data set with different, randomized initial parameters (being the same for both algorithms). For the particle RML, the plot of β 2 does not contain the full trajectories due to very high peaks.",
+      "text": "Fig. 1 . Particle learning trajectories produced by the PaRIS-based (left panel) and standard particle (right-panel) RML for, from top to bottom, φ , σ 2 and β 2 . For each algorithm, 12 replicates were generated on the same data set with different, randomized initial parameters (being the same for both algorithms). For the particle RML, the plot of β 2 does not contain the full trajectories due to very high peaks."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 175.362,
+            "t": 643.57254728,
+            "r": 184.30067244,
+            "b": 639.19548428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "time",
+      "text": "time"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 262.4261,
+            "t": 641.1988939799999,
+            "r": 265.76858306,
+            "b": 639.0867199999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "×",
+      "text": "×"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 265.86751000000004,
+            "t": 643.70844674,
+            "r": 272.94305508,
+            "b": 638.1962515399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "10 5",
+      "text": "10 5"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 85.2867,
+            "t": 647.89667804,
+            "r": 87.67848968,
+            "b": 643.91753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.16245388659999,
+            "t": 647.89667804,
+            "r": 108.14192808659999,
+            "b": 643.91753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.5",
+      "text": "0.5"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 122.62610738219999,
+            "t": 647.89667804,
+            "r": 125.01789706219999,
+            "b": 643.91753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 139.50186126879998,
+            "t": 647.89667804,
+            "r": 145.48133546879995,
+            "b": 643.91753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.5",
+      "text": "1.5"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.96551476439996,
+            "t": 647.89667804,
+            "r": 162.35730444439994,
+            "b": 643.91753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 176.84126865099995,
+            "t": 647.89667804,
+            "r": 182.82074285099992,
+            "b": 643.91753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2.5",
+      "text": "2.5"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 197.30492214659992,
+            "t": 647.89667804,
+            "r": 199.6967118265999,
+            "b": 643.91753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 214.18106319339992,
+            "t": 647.89667804,
+            "r": 220.1605373933999,
+            "b": 643.91753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3.5",
+      "text": "3.5"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 234.6443295287999,
+            "t": 647.89667804,
+            "r": 237.03611920879987,
+            "b": 643.91753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 251.5204705755999,
+            "t": 647.89667804,
+            "r": 257.4999447755999,
+            "b": 643.91753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "4.5",
+      "text": "4.5"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 271.9837369109999,
+            "t": 647.89667804,
+            "r": 274.37552659099987,
+            "b": 643.91753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.5323682,
+            "t": 677.1765162,
+            "r": 75.83845179999999,
+            "b": 674.361,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "φ",
+      "text": "φ"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 80.9371,
+            "t": 651.55367804,
+            "r": 84.76138242,
+            "b": 647.5745315400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "-1",
+      "text": "-1"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.34999,
+            "t": 664.56657804,
+            "r": 84.76195694,
+            "b": 660.58743154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "-0.5",
+      "text": "-0.5"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.36952000000001,
+            "t": 677.5794780399999,
+            "r": 84.76130968000001,
+            "b": 673.60033154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.78241000000001,
+            "t": 690.5923780399999,
+            "r": 84.76188420000001,
+            "b": 686.6132315399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.5",
+      "text": "0.5"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.36952000000001,
+            "t": 703.6052780399998,
+            "r": 84.76130968000001,
+            "b": 699.6261315399998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 175.362,
+            "t": 570.87254728,
+            "r": 184.30067244,
+            "b": 566.49548428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "time",
+      "text": "time"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 262.4261,
+            "t": 568.4988939799999,
+            "r": 265.76858306,
+            "b": 566.38672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "×",
+      "text": "×"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 265.86751000000004,
+            "t": 571.0084467400001,
+            "r": 272.94305508,
+            "b": 565.49625154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "10 5",
+      "text": "10 5"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 85.2867,
+            "t": 575.1966780399999,
+            "r": 87.67848968,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.16245388659999,
+            "t": 575.1966780399999,
+            "r": 108.14192808659999,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.5",
+      "text": "0.5"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 122.62610738219999,
+            "t": 575.1966780399999,
+            "r": 125.01789706219999,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 139.50186126879998,
+            "t": 575.1966780399999,
+            "r": 145.48133546879995,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.5",
+      "text": "1.5"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.96551476439996,
+            "t": 575.1966780399999,
+            "r": 162.35730444439994,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 176.84126865099995,
+            "t": 575.1966780399999,
+            "r": 182.82074285099992,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2.5",
+      "text": "2.5"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 197.30492214659992,
+            "t": 575.1966780399999,
+            "r": 199.6967118265999,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 214.18106319339992,
+            "t": 575.1966780399999,
+            "r": 220.1605373933999,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3.5",
+      "text": "3.5"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 234.6443295287999,
+            "t": 575.1966780399999,
+            "r": 237.03611920879987,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 251.5204705755999,
+            "t": 575.1966780399999,
+            "r": 257.4999447755999,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "4.5",
+      "text": "4.5"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 271.9837369109999,
+            "t": 575.1966780399999,
+            "r": 274.37552659099987,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 73.2530682,
+            "t": 603.5029491600001,
+            "r": 77.5591518,
+            "b": 600.801,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "σ",
+      "text": "σ"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.96698326,
+            "t": 605.7257650800001,
+            "r": 75.15030601000001,
+            "b": 603.8123300000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.3695,
+            "t": 578.85267804,
+            "r": 84.76128968,
+            "b": 574.87353154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.78239,
+            "t": 587.52806804,
+            "r": 84.7618642,
+            "b": 583.54892154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.1",
+      "text": "0.1"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.78239,
+            "t": 596.20345804,
+            "r": 84.7618642,
+            "b": 592.22431154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.2",
+      "text": "0.2"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.78239,
+            "t": 604.8784580399999,
+            "r": 84.7618642,
+            "b": 600.89931154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.3",
+      "text": "0.3"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.78239,
+            "t": 613.5538480399999,
+            "r": 84.7618642,
+            "b": 609.57470154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.4",
+      "text": "0.4"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.78239,
+            "t": 622.2292380399999,
+            "r": 84.7618642,
+            "b": 618.25009154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.5",
+      "text": "0.5"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.78239,
+            "t": 630.9042380399999,
+            "r": 84.7618642,
+            "b": 626.9250915399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.6",
+      "text": "0.6"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 175.362,
+            "t": 498.60254728,
+            "r": 184.30067244,
+            "b": 494.22548428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "time",
+      "text": "time"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 262.4261,
+            "t": 496.22889398,
+            "r": 265.76858306,
+            "b": 494.11672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "×",
+      "text": "×"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 265.86751000000004,
+            "t": 498.73844674,
+            "r": 272.94305508,
+            "b": 493.22625153999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "10 5",
+      "text": "10 5"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 85.2867,
+            "t": 502.92667804,
+            "r": 87.67848968,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 102.16245388659999,
+            "t": 502.92667804,
+            "r": 108.14192808659999,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.5",
+      "text": "0.5"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 122.62610738219999,
+            "t": 502.92667804,
+            "r": 125.01789706219999,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 139.50186126879998,
+            "t": 502.92667804,
+            "r": 145.48133546879995,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.5",
+      "text": "1.5"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.96551476439996,
+            "t": 502.92667804,
+            "r": 162.35730444439994,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 176.84126865099995,
+            "t": 502.92667804,
+            "r": 182.82074285099992,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2.5",
+      "text": "2.5"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 197.30492214659992,
+            "t": 502.92667804,
+            "r": 199.6967118265999,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 214.18106319339992,
+            "t": 502.92667804,
+            "r": 220.1605373933999,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3.5",
+      "text": "3.5"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 234.6443295287999,
+            "t": 502.92667804,
+            "r": 237.03611920879987,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 251.5204705755999,
+            "t": 502.92667804,
+            "r": 257.4999447755999,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "4.5",
+      "text": "4.5"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 271.9837369109999,
+            "t": 502.92667804,
+            "r": 274.37552659099987,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 73.2530682,
+            "t": 531.2045574,
+            "r": 77.5591518,
+            "b": 528.531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "β",
+      "text": "β"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.96698326,
+            "t": 533.45576508,
+            "r": 75.15030601000001,
+            "b": 531.54233,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.3695,
+            "t": 506.58367804,
+            "r": 84.76128968,
+            "b": 502.60453154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.78239,
+            "t": 519.5965780399999,
+            "r": 84.7618642,
+            "b": 515.61743154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.5",
+      "text": "0.5"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.3695,
+            "t": 532.6094780399999,
+            "r": 84.76128968,
+            "b": 528.6303315399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.78239,
+            "t": 545.6223780399998,
+            "r": 84.7618642,
+            "b": 541.6432315399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.5",
+      "text": "1.5"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.3695,
+            "t": 558.6352780399998,
+            "r": 84.76128968,
+            "b": 554.6561315399998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 131.04,
+            "t": 472.79526768,
+            "r": 219.92747597289355,
+            "b": 464.1045782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "(a) PaRIS-based RML",
+      "text": "(a) PaRIS-based RML"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 420.042,
+            "t": 643.14254728,
+            "r": 428.98067244,
+            "b": 638.76548428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "time",
+      "text": "time"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 507.10569999999996,
+            "t": 640.7688939799999,
+            "r": 510.44818305999996,
+            "b": 638.65672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "×",
+      "text": "×"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 510.54749999999996,
+            "t": 643.27844674,
+            "r": 517.62304508,
+            "b": 637.76625154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "10 5",
+      "text": "10 5"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 329.967,
+            "t": 647.46667804,
+            "r": 332.35878968,
+            "b": 643.4875315400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 346.84275388659995,
+            "t": 647.46667804,
+            "r": 352.8222280865999,
+            "b": 643.4875315400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.5",
+      "text": "0.5"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 367.30640738219995,
+            "t": 647.46667804,
+            "r": 369.69819706219994,
+            "b": 643.4875315400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 384.1821612687999,
+            "t": 647.46667804,
+            "r": 390.1616354687999,
+            "b": 643.4875315400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.5",
+      "text": "1.5"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 404.6458147643999,
+            "t": 647.46667804,
+            "r": 407.0376044443999,
+            "b": 643.4875315400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 421.5215686509999,
+            "t": 647.46667804,
+            "r": 427.50104285099985,
+            "b": 643.4875315400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2.5",
+      "text": "2.5"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 441.9852221465999,
+            "t": 647.46667804,
+            "r": 444.37701182659987,
+            "b": 643.4875315400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 458.86097603319985,
+            "t": 647.46667804,
+            "r": 464.8404502331998,
+            "b": 643.4875315400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3.5",
+      "text": "3.5"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 479.32462952879985,
+            "t": 647.46667804,
+            "r": 481.71641920879983,
+            "b": 643.4875315400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 496.2003834153998,
+            "t": 647.46667804,
+            "r": 502.1798576153998,
+            "b": 643.4875315400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "4.5",
+      "text": "4.5"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 516.6640369109998,
+            "t": 647.46667804,
+            "r": 519.0558265909998,
+            "b": 643.4875315400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 316.2119682,
+            "t": 676.7465162000001,
+            "r": 320.5180518,
+            "b": 673.931,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "φ",
+      "text": "φ"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 325.617,
+            "t": 651.12267804,
+            "r": 329.44128242,
+            "b": 647.14353154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "-1",
+      "text": "-1"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 322.02989,
+            "t": 664.1355780399999,
+            "r": 329.44185694,
+            "b": 660.15643154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "-0.5",
+      "text": "-0.5"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.04942,
+            "t": 677.1484780399999,
+            "r": 329.44120968,
+            "b": 673.1693315399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.46231,
+            "t": 690.1613780399998,
+            "r": 329.4417842,
+            "b": 686.1822315399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.5",
+      "text": "0.5"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.04942,
+            "t": 703.1742780399998,
+            "r": 329.44120968,
+            "b": 699.1951315399998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 420.042,
+            "t": 570.87254728,
+            "r": 428.98067244,
+            "b": 566.49548428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "time",
+      "text": "time"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 507.10569999999996,
+            "t": 568.4988939799999,
+            "r": 510.44818305999996,
+            "b": 566.38672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "×",
+      "text": "×"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 510.54749999999996,
+            "t": 571.0084467400001,
+            "r": 517.62304508,
+            "b": 565.49625154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "10 5",
+      "text": "10 5"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 329.967,
+            "t": 575.1966780399999,
+            "r": 332.35878968,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 346.84275388659995,
+            "t": 575.1966780399999,
+            "r": 352.8222280865999,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.5",
+      "text": "0.5"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 367.30640738219995,
+            "t": 575.1966780399999,
+            "r": 369.69819706219994,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 384.1821612687999,
+            "t": 575.1966780399999,
+            "r": 390.1616354687999,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.5",
+      "text": "1.5"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 404.6458147643999,
+            "t": 575.1966780399999,
+            "r": 407.0376044443999,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 421.5215686509999,
+            "t": 575.1966780399999,
+            "r": 427.50104285099985,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2.5",
+      "text": "2.5"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 441.9852221465999,
+            "t": 575.1966780399999,
+            "r": 444.37701182659987,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 458.86097603319985,
+            "t": 575.1966780399999,
+            "r": 464.8404502331998,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3.5",
+      "text": "3.5"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 479.32462952879985,
+            "t": 575.1966780399999,
+            "r": 481.71641920879983,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 496.2003834153998,
+            "t": 575.1966780399999,
+            "r": 502.1798576153998,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "4.5",
+      "text": "4.5"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 516.6640369109998,
+            "t": 575.1966780399999,
+            "r": 519.0558265909998,
+            "b": 571.21753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.9329682,
+            "t": 603.5029491600001,
+            "r": 322.2390518,
+            "b": 600.801,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "σ",
+      "text": "σ"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 316.64727326,
+            "t": 605.7257650800001,
+            "r": 319.83059601,
+            "b": 603.8123300000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.05,
+            "t": 578.85267804,
+            "r": 329.44178968,
+            "b": 574.87353154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.46289,
+            "t": 587.52806804,
+            "r": 329.4423642,
+            "b": 583.54892154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.1",
+      "text": "0.1"
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.46289,
+            "t": 596.20345804,
+            "r": 329.4423642,
+            "b": 592.22431154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.2",
+      "text": "0.2"
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.46289,
+            "t": 604.8784580399999,
+            "r": 329.4423642,
+            "b": 600.89931154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.3",
+      "text": "0.3"
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.46289,
+            "t": 613.5538480399999,
+            "r": 329.4423642,
+            "b": 609.57470154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.4",
+      "text": "0.4"
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.46289,
+            "t": 622.2292380399999,
+            "r": 329.4423642,
+            "b": 618.25009154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.5",
+      "text": "0.5"
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.46289,
+            "t": 630.9042380399999,
+            "r": 329.4423642,
+            "b": 626.9250915399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.6",
+      "text": "0.6"
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 420.042,
+            "t": 498.60254728,
+            "r": 428.98067244,
+            "b": 494.22548428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "time",
+      "text": "time"
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 507.10569999999996,
+            "t": 496.22889398,
+            "r": 510.44818305999996,
+            "b": 494.11672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "×",
+      "text": "×"
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 510.54749999999996,
+            "t": 498.73844674,
+            "r": 517.62304508,
+            "b": 493.22625153999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "10 5",
+      "text": "10 5"
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 329.967,
+            "t": 502.92667804,
+            "r": 332.35878968,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 346.84275388659995,
+            "t": 502.92667804,
+            "r": 352.8222280865999,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.5",
+      "text": "0.5"
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 367.30640738219995,
+            "t": 502.92667804,
+            "r": 369.69819706219994,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 384.1821612687999,
+            "t": 502.92667804,
+            "r": 390.1616354687999,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.5",
+      "text": "1.5"
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 404.6458147643999,
+            "t": 502.92667804,
+            "r": 407.0376044443999,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 421.5215686509999,
+            "t": 502.92667804,
+            "r": 427.50104285099985,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2.5",
+      "text": "2.5"
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 441.9852221465999,
+            "t": 502.92667804,
+            "r": 444.37701182659987,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/174",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 458.86097603319985,
+            "t": 502.92667804,
+            "r": 464.8404502331998,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3.5",
+      "text": "3.5"
+    },
+    {
+      "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 479.32462952879985,
+            "t": 502.92667804,
+            "r": 481.71641920879983,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/176",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 496.2003834153998,
+            "t": 502.92667804,
+            "r": 502.1798576153998,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "4.5",
+      "text": "4.5"
+    },
+    {
+      "self_ref": "#/texts/177",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 516.6640369109998,
+            "t": 502.92667804,
+            "r": 519.0558265909998,
+            "b": 498.94753154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/178",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.9329682,
+            "t": 531.2045574,
+            "r": 322.2390518,
+            "b": 528.531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "β",
+      "text": "β"
+    },
+    {
+      "self_ref": "#/texts/179",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 316.64727326,
+            "t": 533.45576508,
+            "r": 319.83059601,
+            "b": 531.54233,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/180",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.05,
+            "t": 506.58367804,
+            "r": 329.44178968,
+            "b": 502.60453154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/181",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.46289,
+            "t": 519.5965780399999,
+            "r": 329.4423642,
+            "b": 515.61743154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.5",
+      "text": "0.5"
+    },
+    {
+      "self_ref": "#/texts/182",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.05,
+            "t": 532.6094780399999,
+            "r": 329.44178968,
+            "b": 528.6303315399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/183",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 323.46289,
+            "t": 545.6223780399998,
+            "r": 329.4423642,
+            "b": 541.6432315399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.5",
+      "text": "1.5"
+    },
+    {
+      "self_ref": "#/texts/184",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.05,
+            "t": 558.6352780399998,
+            "r": 329.44178968,
+            "b": 554.6561315399998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/185",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 385.92,
+            "t": 472.79526768,
+            "r": 454.40748322048,
+            "b": 464.1045782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "(b) Particle RML",
+      "text": "(b) Particle RML"
+    },
+    {
+      "self_ref": "#/texts/186",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.63974000000002,
+            "t": 375.37464464,
+            "r": 217.8189463014583,
+            "b": 366.5001641480527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "5. SIMULATIONS",
+      "text": "5. SIMULATIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/187",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.47994000000001,
+            "t": 352.43516768,
+            "r": 276.1301220823776,
+            "b": 343.7444782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "We tested our method on the stochastic volatility model",
+      "text": "We tested our method on the stochastic volatility model"
+    },
+    {
+      "self_ref": "#/texts/188",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.11974000000001,
+            "t": 331.11188,
+            "r": 244.56002128000003,
+            "b": 305.8973046,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "X t +1 = φX t + σV t +1 , Y t = β exp( X t / 2) U t , t ∈ N ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/189",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.48007000000001,
+            "t": 293.552102,
+            "r": 298.56968392,
+            "b": 68.42916200000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1159
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.24097000000006,
+            "t": 375.23508968000004,
+            "r": 559.2624396195606,
+            "b": 247.02440020415804,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1160,
+            1793
+          ]
+        }
+      ],
+      "orig": "where { V t } t ∈ N ∗ and { U t } t ∈ N are independent sequences of mutually independent standard Gaussian noise variables. Parameters to be estimated were θ = ( φ, σ 2 , β 2 ) , and we compared the performance of our PaRIS-based RML to that of the particle RML proposed in [7]. To get a fair comparison of the algorithms we set the number of particles used in each algorithm such that both algorithms ran in the same computational time. With our implementation, N = 100 for the particle RML corresponded to N = 1400 and ˜ N = 2 for the PaRISbased RML. For both algorithms we set γ t = t -0 . 6 . The algorithms were executed on data comprising 500 000 observations generated under the parameter θ ∗ = (0 . 8 , 0 . 1 , 1) . Each algorithm ran 12 times with the same observation input but with randomized starting parameters (still, the same starting parameters were used for both algorithms). In Fig. 1 we present the resulting learning trajectories, and it can clearly be seen that the PaRIS-based RML exhibits significantly less variance in its estimates, especially for the β 2 variable. In the particle RML we notice some large jumps in the β 2 variable, originating from the fact that the corresponding estimate of ζ 3 t gets very small. This is due to the low number of particles failing to cover the support of the emission density. In contrast, since we can utilize considerably more particles in the PaRIS-based RML, we see only a single, comparably small, jump in β 2 . Judging by the estimated (on the basis of the 12 trajectories) variances ( . 054 , . 164 , . 063) × 10 -3 and ( . 069 , . 181 , . 095) × 10 -4 of the final parameter estimates for the particle RML and the PaRIS-based RML, respectively, the PaRIS-based RML is roughly ten times more precise than the particle RML.",
+      "text": "where { V t } t ∈ N ∗ and { U t } t ∈ N are independent sequences of mutually independent standard Gaussian noise variables. Parameters to be estimated were θ = ( φ, σ 2 , β 2 ) , and we compared the performance of our PaRIS-based RML to that of the particle RML proposed in [7]. To get a fair comparison of the algorithms we set the number of particles used in each algorithm such that both algorithms ran in the same computational time. With our implementation, N = 100 for the particle RML corresponded to N = 1400 and ˜ N = 2 for the PaRISbased RML. For both algorithms we set γ t = t -0 . 6 . The algorithms were executed on data comprising 500 000 observations generated under the parameter θ ∗ = (0 . 8 , 0 . 1 , 1) . Each algorithm ran 12 times with the same observation input but with randomized starting parameters (still, the same starting parameters were used for both algorithms). In Fig. 1 we present the resulting learning trajectories, and it can clearly be seen that the PaRIS-based RML exhibits significantly less variance in its estimates, especially for the β 2 variable. In the particle RML we notice some large jumps in the β 2 variable, originating from the fact that the corresponding estimate of ζ 3 t gets very small. This is due to the low number of particles failing to cover the support of the emission density. In contrast, since we can utilize considerably more particles in the PaRIS-based RML, we see only a single, comparably small, jump in β 2 . Judging by the estimated (on the basis of the 12 trajectories) variances ( . 054 , . 164 , . 063) × 10 -3 and ( . 069 , . 181 , . 095) × 10 -4 of the final parameter estimates for the particle RML and the PaRIS-based RML, respectively, the PaRIS-based RML is roughly ten times more precise than the particle RML."
+    },
+    {
+      "self_ref": "#/texts/190",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 399.96178799999984,
+            "t": 203.89476663999994,
+            "r": 474.23469737433163,
+            "b": 195.02028614805272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "6. DISCUSSION",
+      "text": "6. DISCUSSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/191",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.2414879999998,
+            "t": 173.1552896799999,
+            "r": 559.1597449182264,
+            "b": 68.82430020415813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            472
+          ]
+        }
+      ],
+      "orig": "We have proposed a novel algorithm for online parameter learning in general HMMs using an RML method based on the PaRIS algorithm [5]. The new method has a linear computational complexity in the number of particles, which allows considerably more particles to be used for a given computational budget compared to previous methods. The performance of the algorithm is illustrated by simulations indicating clearly improved convergence properties of the parameter estimates.",
+      "text": "We have proposed a novel algorithm for online parameter learning in general HMMs using an RML method based on the PaRIS algorithm [5]. The new method has a linear computational complexity in the number of particles, which allows considerably more particles to be used for a given computational budget compared to previous methods. The performance of the algorithm is illustrated by simulations indicating clearly improved convergence properties of the parameter estimates."
+    },
+    {
+      "self_ref": "#/texts/192",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 136.08,
+            "t": 716.77474464,
+            "r": 216.37903959551522,
+            "b": 707.9002641480527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "7. REFERENCES",
+      "text": "7. REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/193",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.39990000000002,
+            "t": 694.31536768,
+            "r": 298.2775752154155,
+            "b": 673.7445782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "[1] O. Capp´ e, E. Moulines, and T. Ryd´ en, Inference in Hidden Markov Models , Springer, 2005.",
+      "text": "O. Capp´ e, E. Moulines, and T. Ryd´ en, Inference in Hidden Markov Models , Springer, 2005.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/194",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.3998,
+            "t": 662.51536768,
+            "r": 298.29098547564445,
+            "b": 617.9445782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "[2] N. Kantas, A. Doucet, S. S. Singh, J. Maciejowski, and N. Chopin, 'On particle methods for parameter estimation in state-space models,' Statist. Sci. , vol. 30, no. 3, pp. 328-351, 08 2015.",
+      "text": "N. Kantas, A. Doucet, S. S. Singh, J. Maciejowski, and N. Chopin, 'On particle methods for parameter estimation in state-space models,' Statist. Sci. , vol. 30, no. 3, pp. 328-351, 08 2015.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/195",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.399799999999985,
+            "t": 606.7153676800001,
+            "r": 298.29076507865193,
+            "b": 574.1449782041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "[3] F. Le Gland and L. Mevel, 'Recursive estimation in HMMs,' in Proc. IEEE Conf. Decis. Control , 1997, pp. 3468-3473.",
+      "text": "F. Le Gland and L. Mevel, 'Recursive estimation in HMMs,' in Proc. IEEE Conf. Decis. Control , 1997, pp. 3468-3473.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/196",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.39990000000002,
+            "t": 562.9153676800001,
+            "r": 298.3817093362092,
+            "b": 518.3449782041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "[4] J. Olsson and J. Westerborn, 'Efficient particle-based online smoothing in general hidden Markov models,' in IEEE 2014 International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2014) , 2014.",
+      "text": "J. Olsson and J. Westerborn, 'Efficient particle-based online smoothing in general hidden Markov models,' in IEEE 2014 International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2014) , 2014.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/197",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.40010000000001,
+            "t": 507.1153676800002,
+            "r": 298.3819093362092,
+            "b": 474.4246782041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "[5] J. Olsson and J. Westerborn, 'Efficient particle-based online smoothing in general hidden Markov models: the PaRIS algorithm,' Bernoulli , 2016, to appear.",
+      "text": "J. Olsson and J. Westerborn, 'Efficient particle-based online smoothing in general hidden Markov models: the PaRIS algorithm,' Bernoulli , 2016, to appear.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/198",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.40010000000001,
+            "t": 463.1954676800002,
+            "r": 298.410608431837,
+            "b": 406.74457820415824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "[6] G. Poyiadjis, A. Doucet, and S. S. Singh, 'Particle methods for optimal filter derivative: application to parameter estimation,' in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. , 18-23 March 2005, pp. v/925v/928.",
+      "text": "G. Poyiadjis, A. Doucet, and S. S. Singh, 'Particle methods for optimal filter derivative: application to parameter estimation,' in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. , 18-23 March 2005, pp. v/925v/928.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/199",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.40010000000002,
+            "t": 395.51536768000017,
+            "r": 298.41086,
+            "b": 350.94457820415823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "[7] P. Del Moral, A. Doucet, and S. S. Singh, 'Uniform stability of a particle approximation of the optimal filter derivative,' SIAM Journal on Control and Optimization , vol. 53, no. 3, pp. 1278-1304, 2015.",
+      "text": "P. Del Moral, A. Doucet, and S. S. Singh, 'Uniform stability of a particle approximation of the optimal filter derivative,' SIAM Journal on Control and Optimization , vol. 53, no. 3, pp. 1278-1304, 2015.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/200",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.40000000000002,
+            "t": 339.71536768000016,
+            "r": 298.303550762868,
+            "b": 295.1445782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "[8] J. Olsson, O. Capp´ e, R. Douc, and E. Moulines, 'Sequential Monte Carlo smoothing with application to parameter estimation in non-linear state space models,' Bernoulli , vol. 14, no. 1, pp. 155-179, 2008.",
+      "text": "J. Olsson, O. Capp´ e, R. Douc, and E. Moulines, 'Sequential Monte Carlo smoothing with application to parameter estimation in non-linear state space models,' Bernoulli , vol. 14, no. 1, pp. 155-179, 2008.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/201",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.40000000000001,
+            "t": 283.91496768000013,
+            "r": 298.30378735564267,
+            "b": 239.3445782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "[9] R. Douc, A. Garivier, E. Moulines, and J. Olsson, 'Sequential Monte Carlo smoothing for general state space hidden Markov models,' Ann. Appl. Probab. , vol. 21, no. 6, pp. 2109-2145, 2011.",
+      "text": "R. Douc, A. Garivier, E. Moulines, and J. Olsson, 'Sequential Monte Carlo smoothing for general state space hidden Markov models,' Ann. Appl. Probab. , vol. 21, no. 6, pp. 2109-2145, 2011.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/202",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.48019999999999,
+            "t": 228.11496768000006,
+            "r": 298.3810521064459,
+            "b": 195.54457820415826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "[10] P. Del Moral, A. Doucet, and S. Singh, 'Forward smoothing using sequential Monte Carlo,' Tech. Rep., Cambridge University, 2010.",
+      "text": "P. Del Moral, A. Doucet, and S. Singh, 'Forward smoothing using sequential Monte Carlo,' Tech. Rep., Cambridge University, 2010.",
+      "enumerated": true,
+      "marker": "[10]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 69.60696411132812,
+            "t": 705.046501159668,
+            "r": 275.4642639160156,
+            "b": 463.4610290527344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/55"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        },
+        {
+          "$ref": "#/texts/154"
+        },
+        {
+          "$ref": "#/texts/155"
+        },
+        {
+          "$ref": "#/texts/156"
+        },
+        {
+          "$ref": "#/texts/157"
+        },
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        },
+        {
+          "$ref": "#/texts/161"
+        },
+        {
+          "$ref": "#/texts/162"
+        },
+        {
+          "$ref": "#/texts/163"
+        },
+        {
+          "$ref": "#/texts/164"
+        },
+        {
+          "$ref": "#/texts/165"
+        },
+        {
+          "$ref": "#/texts/166"
+        },
+        {
+          "$ref": "#/texts/167"
+        },
+        {
+          "$ref": "#/texts/168"
+        },
+        {
+          "$ref": "#/texts/169"
+        },
+        {
+          "$ref": "#/texts/170"
+        },
+        {
+          "$ref": "#/texts/171"
+        },
+        {
+          "$ref": "#/texts/172"
+        },
+        {
+          "$ref": "#/texts/173"
+        },
+        {
+          "$ref": "#/texts/174"
+        },
+        {
+          "$ref": "#/texts/175"
+        },
+        {
+          "$ref": "#/texts/176"
+        },
+        {
+          "$ref": "#/texts/177"
+        },
+        {
+          "$ref": "#/texts/178"
+        },
+        {
+          "$ref": "#/texts/179"
+        },
+        {
+          "$ref": "#/texts/180"
+        },
+        {
+          "$ref": "#/texts/181"
+        },
+        {
+          "$ref": "#/texts/182"
+        },
+        {
+          "$ref": "#/texts/183"
+        },
+        {
+          "$ref": "#/texts/184"
+        },
+        {
+          "$ref": "#/texts/185"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.1335754394531,
+            "t": 705.2320022583008,
+            "r": 520.1210327148438,
+            "b": 463.6170959472656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

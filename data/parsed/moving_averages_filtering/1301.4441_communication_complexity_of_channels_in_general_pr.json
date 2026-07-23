@@ -1,0 +1,3589 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1301.4441_communication_complexity_of_channels_in_general_pr",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 65191468918422349,
+    "filename": "1301.4441_communication_complexity_of_channels_in_general_pr.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/groups/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 605.7200000000001,
+            "r": 36.206559297218156,
+            "b": 243.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:1301.4441v2  [quant-ph]  20 Dec 2013",
+      "text": "arXiv:1301.4441v2  [quant-ph]  20 Dec 2013",
+      "hyperlink": "http://arxiv.org/abs/1301.4441v2"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 88.6801,
+            "t": 738.3047296000001,
+            "r": 527.2962697593474,
+            "b": 727.5757915428571,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Communication Complexity of Channels in General Probabilistic Theories",
+      "text": "Communication Complexity of Channels in General Probabilistic Theories",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 223.8001,
+            "t": 713.0717800000001,
+            "r": 392.1959859573861,
+            "b": 703.10914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "A. Montina, M. Pfaffhauser, S. Wolf",
+      "text": "A. Montina, M. Pfaffhauser, S. Wolf"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 100.92009999999999,
+            "t": 701.3608979,
+            "r": 514.9388608803903,
+            "b": 693.2014921000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "Facolt` a di Informatica, Universit` a della Svizzera Italiana, Via G. Buffi 13, 6900 Lugano, Switzerland",
+      "text": "Facolt` a di Informatica, Universit` a della Svizzera Italiana, Via G. Buffi 13, 6900 Lugano, Switzerland"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 251.76049999999998,
+            "t": 691.3245850000001,
+            "r": 364.17798161428686,
+            "b": 682.3582050000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "(Dated: September 5, 2018)",
+      "text": "(Dated: September 5, 2018)"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.84049999999996,
+            "t": 673.9245850000001,
+            "r": 507.37790806253884,
+            "b": 591.7584050000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            720
+          ]
+        }
+      ],
+      "orig": "The communication complexity of a quantum channel is the minimal amount of classical communication required for classically simulating the process of preparation, transmission through the channel, and subsequent measurement of a quantum state. At present, only little is known about this quantity. In this paper, we present a procedure for systematically evaluating the communication complexity of channels in any general probabilistic theory, in particular quantum theory. The procedure is constructive and provides the most efficient classical protocols. We illustrate this procedure by evaluating the communication complexity of a quantum depolarizing channel with some finite sets of quantum states and measurements.",
+      "text": "The communication complexity of a quantum channel is the minimal amount of classical communication required for classically simulating the process of preparation, transmission through the channel, and subsequent measurement of a quantum state. At present, only little is known about this quantity. In this paper, we present a procedure for systematically evaluating the communication complexity of channels in any general probabilistic theory, in particular quantum theory. The procedure is constructive and provides the most efficient classical protocols. We illustrate this procedure by evaluating the communication complexity of a quantum depolarizing channel with some finite sets of quantum states and measurements."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.00063999999999,
+            "t": 569.7918800000001,
+            "r": 299.23550622012954,
+            "b": 368.54904000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            926
+          ]
+        }
+      ],
+      "orig": "Quantum communication has proved to be much more powerful than its classical counterpart. Indeed, quantum channels can provide an exponential saving of communication resources in some distributed computing problems [1], where the task is to evaluate a function of data held by two or more parties. A natural measure of power of quantum communication in a two-party scenario is provided by the communication complexity of a quantum channel, which is defined as the minimal amount of classical communication required for classically simulating the process of preparation, transmission through the channel, and subsequent measurement of a quantum state. Indeed, it is clear that a quantum channel cannot replace an amount of classical communication greater than its communication complexity. Thus, this quantity sets an ultimate limit to the power of quantum communication in a two-party scenario in terms of classical resources.",
+      "text": "Quantum communication has proved to be much more powerful than its classical counterpart. Indeed, quantum channels can provide an exponential saving of communication resources in some distributed computing problems [1], where the task is to evaluate a function of data held by two or more parties. A natural measure of power of quantum communication in a two-party scenario is provided by the communication complexity of a quantum channel, which is defined as the minimal amount of classical communication required for classically simulating the process of preparation, transmission through the channel, and subsequent measurement of a quantum state. Indeed, it is clear that a quantum channel cannot replace an amount of classical communication greater than its communication complexity. Thus, this quantity sets an ultimate limit to the power of quantum communication in a two-party scenario in terms of classical resources."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.00063999999999,
+            "t": 364.71168,
+            "r": 299.2871065085301,
+            "b": 247.10914000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            508
+          ]
+        }
+      ],
+      "orig": "At present, only little is known about the communication complexity of quantum channels. Toner and Bacon proved that two classical bits are sufficient to simulate the communication of a single qubit [2]. In the case of parallel simulations, the communication can be compressed so that the asymptotic cost per simulation is about 1 . 28 bits [3]. Simulating the communication of n qubits requires an amount of classical communication greater than or equal to 2 n -1 bits [4]. However, no upper bound is known.",
+      "text": "At present, only little is known about the communication complexity of quantum channels. Toner and Bacon proved that two classical bits are sufficient to simulate the communication of a single qubit [2]. In the case of parallel simulations, the communication can be compressed so that the asymptotic cost per simulation is about 1 . 28 bits [3]. Simulating the communication of n qubits requires an amount of classical communication greater than or equal to 2 n -1 bits [4]. However, no upper bound is known."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.00079999999997,
+            "t": 243.27177999999992,
+            "r": 299.16908845740807,
+            "b": 65.90904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            778
+          ]
+        }
+      ],
+      "orig": "In this paper, we present a general procedure for systematically evaluating the communication complexity of channels in any general probabilistic theory, in particular quantum theory. The procedure relies on the reverse Shannon theorem [5] and a strategy discussed in Refs. [3, 6]. There, it was shown that any classical simulation protocol can be turned into a protocol with communication cost equal to the classical mutual information between the quantum state and the communicated variable of the parent protocol. A similar role of the mutual information is played in the context of classical simulations of measurements [7]. We illustrate the procedure by evaluating the communication complexity of a quantum channel with some finite sets of quantum states and measurements.",
+      "text": "In this paper, we present a general procedure for systematically evaluating the communication complexity of channels in any general probabilistic theory, in particular quantum theory. The procedure relies on the reverse Shannon theorem [5] and a strategy discussed in Refs. [3, 6]. There, it was shown that any classical simulation protocol can be turned into a protocol with communication cost equal to the classical mutual information between the quantum state and the communicated variable of the parent protocol. A similar role of the mutual information is played in the context of classical simulations of measurements [7]. We illustrate the procedure by evaluating the communication complexity of a quantum channel with some finite sets of quantum states and measurements."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.0405240000001,
+            "t": 569.79168,
+            "r": 562.2086372394783,
+            "b": 368.54879999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            906
+          ]
+        }
+      ],
+      "orig": "A protocol simulating a quantum channel actually simulates a process of preparation, transmission through the channel and subsequent measurement of a quantum state. For the sake of simplicity, we will focus on quantum channels, but the following discussion can be easily generalized to any probabilistic theory, as pointed out later. The simulated quantum scenario is as follows. A party, say Alice, prepares n qubits in some quantum state | ψ 〉〈 ψ | ≡ ˆ ρ according to an unknown probability distribution ρ ( ψ ). Then, she sends the qubits to another party, say Bob, through a quantum channel with associated superoperator L . Finally, Bob generates an outcome by performing a measurement M = { ˆ E 1 , ˆ E 2 , . . . } , where ˆ E i are positive semidefinite self-adjoint operators labeling events of the measurement M . The quantum probability of getting the w -th outcome ˆ E w , given | ψ 〉 and M , is",
+      "text": "A protocol simulating a quantum channel actually simulates a process of preparation, transmission through the channel and subsequent measurement of a quantum state. For the sake of simplicity, we will focus on quantum channels, but the following discussion can be easily generalized to any probabilistic theory, as pointed out later. The simulated quantum scenario is as follows. A party, say Alice, prepares n qubits in some quantum state | ψ 〉〈 ψ | ≡ ˆ ρ according to an unknown probability distribution ρ ( ψ ). Then, she sends the qubits to another party, say Bob, through a quantum channel with associated superoperator L . Finally, Bob generates an outcome by performing a measurement M = { ˆ E 1 , ˆ E 2 , . . . } , where ˆ E i are positive semidefinite self-adjoint operators labeling events of the measurement M . The quantum probability of getting the w -th outcome ˆ E w , given | ψ 〉 and M , is"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 375.6007240000001,
+            "t": 363.7582656,
+            "r": 562.1063569111504,
+            "b": 339.85786224000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "P L ( w | ψ, M ) ≡ Tr [ ˆ E w L (ˆ ρ ) ] . (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.0408740000001,
+            "t": 338.55170999999996,
+            "r": 562.2195916391912,
+            "b": 244.94916999999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            407
+          ]
+        }
+      ],
+      "orig": "In a classical simulation, the quantum channel between Alice and Bob is replaced by classical communication. A classical protocol is as follows. Alice sets a variable, say k , according to a probability distribution ρ ( k | y, ψ ) that depends on the quantum state | ψ 〉 and, possibly, a random variable y shared with Bob. Thus, there is a mapping from the quantum state to a probability distribution of k ,",
+      "text": "In a classical simulation, the quantum channel between Alice and Bob is replaced by classical communication. A classical protocol is as follows. Alice sets a variable, say k , according to a probability distribution ρ ( k | y, ψ ) that depends on the quantum state | ψ 〉 and, possibly, a random variable y shared with Bob. Thus, there is a mapping from the quantum state to a probability distribution of k ,"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 404.5219340000001,
+            "t": 238.87022749999994,
+            "r": 562.1068369111504,
+            "b": 217.95539559999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "| ψ 〉 y - → ρ ( k | y, ψ ) . (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.040554,
+            "t": 216.2716099999999,
+            "r": 562.2263271005522,
+            "b": 158.54917,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            260
+          ]
+        }
+      ],
+      "orig": "Alice sends k to Bob, who simulates a measurement M by generating an outcome ˆ E w with a probability P ( w | k, y, M ). The protocol exactly simulates the quantum channel if the probability of ˆ E w given | ψ 〉 is equal to the quantum probability, that is, if",
+      "text": "Alice sends k to Bob, who simulates a measurement M by generating an outcome ˆ E w with a probability P ( w | k, y, M ). The protocol exactly simulates the quantum channel if the probability of ˆ E w given | ψ 〉 is equal to the quantum probability, that is, if"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 330.000754,
+            "t": 151.7180355999999,
+            "r": 562.1064569111504,
+            "b": 113.78896999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "∑ k ∫ dyP ( w | k, y, M ) ρ ( k | y, ψ ) ρ ( y ) = P L ( w | ψ, M ) , (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.0404340000001,
+            "t": 111.75160999999991,
+            "r": 562.1566836783666,
+            "b": 58.83539559999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            243
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.99993999999994,
+            "t": 737.43208,
+            "r": 299.116096586825,
+            "b": 696.5158656000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            244,
+            403
+          ]
+        }
+      ],
+      "orig": "where ρ ( y ) is the probability density of the random variable y . Let us denote by ρ ( k | y ) ≡ ∫ dψ ∑ ρ ( k | y, ψ ) ρ ( ψ ) the marginal conditional probability of k given y . As defined in Ref. [6], the communication cost, say C , of the classical simulation is the maximum, over the space of distributions ρ ( ψ ), of the Shannon entropy of the distribution ρ ( k | y ) averaged over y , that is,",
+      "text": "where ρ ( y ) is the probability density of the random variable y . Let us denote by ρ ( k | y ) ≡ ∫ dψ ∑ ρ ( k | y, ψ ) ρ ( ψ ) the marginal conditional probability of k given y . As defined in Ref. [6], the communication cost, say C , of the classical simulation is the maximum, over the space of distributions ρ ( ψ ), of the Shannon entropy of the distribution ρ ( k | y ) averaged over y , that is,"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 557.16,
+            "t": 763.35198,
+            "r": 562.14132,
+            "b": 753.38934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 137.1600799999999,
+            "t": 691.601046,
+            "r": 299.06496731961835,
+            "b": 674.3158656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "C ≡ max ρ ( ψ ) H ( K | Y ) , (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.99945999999994,
+            "t": 663.3984456000001,
+            "r": 274.0791628729824,
+            "b": 638.89807224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "where H ( K | Y ) ≡ -∫ dyρ ( y ) ∑ k ρ ( k | y ) log 2 ρ ( k | y ).",
+      "text": "where H ( K | Y ) ≡ -∫ dyρ ( y ) ∑ k ρ ( k | y ) log 2 ρ ( k | y )."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.99797999999984,
+            "t": 470.7918200000001,
+            "r": 299.18358942707374,
+            "b": 286.4759056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            821
+          ]
+        }
+      ],
+      "orig": "We define the communication complexity [denoted by C min ( L )] of a quantum channel L as the minimal amount of classical communication C required by an exact classical simulation of the quantum channel, given any measurement M (in a possible alternative definition, only projective measurements would be allowed). Let S ≡ {| ψ 1 〉 , . . . , | ψ S 〉} and M ≡ {M 1 , . . . , M M } be a set of S quantum states and M measurements, respectively. We define the communication complexity, say C min ( G ), of the quantum game ( L , S , M ) ≡ G as the minimal amount of classical communication required to simulate the quantum channel L with the restriction that the quantum states and the measurements are elements of S and M , respectively. The quantities C min ( L ) and C min ( G ) are functionals of L and G , respectively.",
+      "text": "We define the communication complexity [denoted by C min ( L )] of a quantum channel L as the minimal amount of classical communication C required by an exact classical simulation of the quantum channel, given any measurement M (in a possible alternative definition, only projective measurements would be allowed). Let S ≡ {| ψ 1 〉 , . . . , | ψ S 〉} and M ≡ {M 1 , . . . , M M } be a set of S quantum states and M measurements, respectively. We define the communication complexity, say C min ( G ), of the quantum game ( L , S , M ) ≡ G as the minimal amount of classical communication required to simulate the quantum channel L with the restriction that the quantum states and the measurements are elements of S and M , respectively. The quantities C min ( L ) and C min ( G ) are functionals of L and G , respectively."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.998839999999944,
+            "t": 650.31182,
+            "r": 299.38227734554494,
+            "b": 465.8760056000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            839
+          ]
+        }
+      ],
+      "orig": "Shannon's source coding theorem [8] establishes an operational meaning of C , as discussed in Ref. [6]. Indeed, suppose that N independent simulations of N quantum channels are performed in parallel. Let k i be the variable prepared with probability ρ ( k i | y, ψ i ), where | ψ i 〉 is the quantum state prepared for the i -th quantum channel. Instead of communicating directly the variables k i , we can encode them into a global k , so that the average number of communicated bits per simulation approaches C with vanishing error as N goes to infinity. The quantity C is the minimal compression rate for the worst case distribution ρ ( ψ ). Furthermore, it is possible to show that there is an compression code that is optimal for the worst case and has a compression rate independent of the actual distribution ρ ( ψ ) and equal to C .",
+      "text": "Shannon's source coding theorem [8] establishes an operational meaning of C , as discussed in Ref. [6]. Indeed, suppose that N independent simulations of N quantum channels are performed in parallel. Let k i be the variable prepared with probability ρ ( k i | y, ψ i ), where | ψ i 〉 is the quantum state prepared for the i -th quantum channel. Instead of communicating directly the variables k i , we can encode them into a global k , so that the average number of communicated bits per simulation approaches C with vanishing error as N goes to infinity. The quantity C is the minimal compression rate for the worst case distribution ρ ( ψ ). Furthermore, it is possible to show that there is an compression code that is optimal for the worst case and has a compression rate independent of the actual distribution ρ ( ψ ) and equal to C ."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.99826999999988,
+            "t": 291.39171999999996,
+            "r": 299.11349829164,
+            "b": 221.66927999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            328
+          ]
+        }
+      ],
+      "orig": "Let us consider the case of N quantum channels. In a general parallel simulation, the communicated variable k is generated according to a probability distribution ρ ( k | y, ψ 1 , ψ 2 , . . . , ψ N ) depending on the whole set of N prepared quantum states | ψ 1 〉 , . . . , | ψ N 〉 . Thus, the single-shot map (2) is replaced by",
+      "text": "Let us consider the case of N quantum channels. In a general parallel simulation, the communicated variable k is generated according to a probability distribution ρ ( k | y, ψ 1 , ψ 2 , . . . , ψ N ) depending on the whole set of N prepared quantum states | ψ 1 〉 , . . . , | ψ N 〉 . Thus, the single-shot map (2) is replaced by"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 84.23806999999994,
+            "t": 211.63014750000002,
+            "r": 299.0636673196184,
+            "b": 190.71570559999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "{| ψ 1 〉 , . . . , | ψ N 〉} y - → ρ ( k | y, ψ 1 , ψ 2 , . . . , ψ N ) . (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.99771999999999,
+            "t": 186.91022750000002,
+            "r": 299.2855820591635,
+            "b": 67.94928000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            560
+          ]
+        }
+      ],
+      "orig": "The asymptotic communication cost, say C asym , is equal to lim N →∞ C par /N , C par being the cost of the parallelized simulation. The definition of C par is similar to that of C , with the difference that the maximization is made over the space of the distributions ρ ( ψ 1 , . . . , ψ N ). We define the asymptotic communication complexity, C asym min ( L ), of a quantum channel L as the minimal asymptotic communication cost required for simulating the channel. The asymptotic communication complexity C asym min ( G ) of the game G is similarly defined.",
+      "text": "The asymptotic communication cost, say C asym , is equal to lim N →∞ C par /N , C par being the cost of the parallelized simulation. The definition of C par is similar to that of C , with the difference that the maximization is made over the space of the distributions ρ ( ψ 1 , . . . , ψ N ). We define the asymptotic communication complexity, C asym min ( L ), of a quantum channel L as the minimal asymptotic communication cost required for simulating the channel. The asymptotic communication complexity C asym min ( G ) of the game G is similarly defined."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.0378499999998,
+            "t": 737.680986,
+            "r": 562.1622119687923,
+            "b": 643.82898,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            409
+          ]
+        }
+      ],
+      "orig": "Given a game G = ( L , S , M ), let w = { w 1 , . . . , w M } be an M -dimensional array whose m -th element is one of the possible outcomes of the m -th measurement M m ∈ M . We denote by s = 1 , . . . , S and m = 1 , . . . , M discrete indices labelling the elements of S and M , respectively. The summation over every index in w but the m -th one, which is set equal to w , is concisely written as follows,",
+      "text": "Given a game G = ( L , S , M ), let w = { w 1 , . . . , w M } be an M -dimensional array whose m -th element is one of the possible outcomes of the m -th measurement M m ∈ M . We denote by s = 1 , . . . , S and m = 1 , . . . , M discrete indices labelling the elements of S and M , respectively. The summation over every index in w but the m -th one, which is set equal to w , is concisely written as follows,"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 368.63852999999966,
+            "t": 632.0783696000001,
+            "r": 562.1042829111499,
+            "b": 608.17797224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "∑ w 1 ,...,w m -1 ,w m = w,...,w M → ∑ w ,w m = w (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.0384799999994,
+            "t": 592.1208100000001,
+            "r": 562.1570965674306,
+            "b": 503.0758296000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            399
+          ]
+        }
+      ],
+      "orig": "Definition. Given a game G = ( L , S , M ), the set V ( G ) contains any conditional probability ρ ( w | s ) over the sequence w = { w 1 , . . . , w M } whose marginal distribution of the m -th variable is the quantum distribution of the outcome w m given the quantum state s and the measurement m , for any s , m . In other words, the set V ( G ) contains any ρ ( w | s ) satisfying the constraints",
+      "text": "Definition. Given a game G = ( L , S , M ), the set V ( G ) contains any conditional probability ρ ( w | s ) over the sequence w = { w 1 , . . . , w M } whose marginal distribution of the m -th variable is the quantum distribution of the outcome w m given the quantum state s and the measurement m , for any s , m . In other words, the set V ( G ) contains any ρ ( w | s ) satisfying the constraints"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 346.67945999999915,
+            "t": 497.9181696000002,
+            "r": 562.1041929111494,
+            "b": 474.0177962400002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "∑ w ,w m = w ρ ( w | s ) = P G ( w | s, m ) , ∀ s, m and w, (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.03870999999907,
+            "t": 463.23184400000014,
+            "r": 342.58212412065456,
+            "b": 453.2692040000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 375.4789099999991,
+            "t": 440.92071000000016,
+            "r": 503.54439431999907,
+            "b": 423.63552960000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "P G ( w | s, m ) ≡ P L ( w | ψ s , M m )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.0388099999991,
+            "t": 417.99154400000015,
+            "r": 562.1821124635395,
+            "b": 389.07532960000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "is the quantum probability of getting the w -th outcome of the measurement M m given the quantum state | ψ s 〉 .",
+      "text": "is the quantum probability of getting the w -th outcome of the measurement M m given the quantum state | ψ s 〉 ."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.03819999999916,
+            "t": 388.72071000000017,
+            "r": 562.1804188773411,
+            "b": 282.8687040000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            523
+          ]
+        }
+      ],
+      "orig": "The set V ( G ) is surely non-empty. A function in V ( G ) is ρ ( w | s ) = P G ( w 1 | s, 1) ×··· × P G ( w M | s, M ), where the variables w 1 , . . . , w M are uncorrelated. The definition of V ( G ) can be easily extended to any general probabilistic theory, where P G ( w | s, m ) is replaced by different conditional probabilities. For the sake of concreteness, we will refer to the quantum case, but the following discussion does not rely on any precise form of P G ( w | s, m ) and applies to more general theories.",
+      "text": "The set V ( G ) is surely non-empty. A function in V ( G ) is ρ ( w | s ) = P G ( w 1 | s, 1) ×··· × P G ( w M | s, M ), where the variables w 1 , . . . , w M are uncorrelated. The definition of V ( G ) can be easily extended to any general probabilistic theory, where P G ( w | s, m ) is replaced by different conditional probabilities. For the sake of concreteness, we will refer to the quantum case, but the following discussion does not rely on any precise form of P G ( w | s, m ) and applies to more general theories."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.0393399999989,
+            "t": 280.47114400000004,
+            "r": 562.0855665599988,
+            "b": 258.62840400000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "A pivotal classical protocol for the quantum game G is as follows.",
+      "text": "A pivotal classical protocol for the quantum game G is as follows."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.0393399999989,
+            "t": 250.9512440000001,
+            "r": 562.2774779090723,
+            "b": 198.03502960000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "Master protocol. Alice generates the array w according to a conditional probability ρ ( w | s ) ∈ V ( G ). Then, she sends w to Bob. Bob simulates the measurement M m by outputting the outcome w m .",
+      "text": "Master protocol. Alice generates the array w according to a conditional probability ρ ( w | s ) ∈ V ( G ). Then, she sends w to Bob. Bob simulates the measurement M m by outputting the outcome w m ."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.04047999999875,
+            "t": 197.68041000000005,
+            "r": 562.2184639817507,
+            "b": 60.87522960000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            625
+          ]
+        }
+      ],
+      "orig": "The definition of V ( G ) implies that this protocol exactly simulates the quantum game G . A classical channel from a variable x 1 to x 2 is defined by the conditional probability of getting x 2 given x 1 . Its capacity is the maximum of the mutual information between x 1 and x 2 over the space of probability distributions ρ ( x 1 ) [8]. Using the strategy discussed in Ref. [3] and the reverse Shannon theorem [5], it is possible to prove that a master protocol can be turned into a child protocol for parallel simulations whose asymptotic communication cost is equal to the capacity of the classical channel ρ ( w | s ).",
+      "text": "The definition of V ( G ) implies that this protocol exactly simulates the quantum game G . A classical channel from a variable x 1 to x 2 is defined by the conditional probability of getting x 2 given x 1 . Its capacity is the maximum of the mutual information between x 1 and x 2 over the space of probability distributions ρ ( x 1 ) [8]. Using the strategy discussed in Ref. [3] and the reverse Shannon theorem [5], it is possible to prove that a master protocol can be turned into a child protocol for parallel simulations whose asymptotic communication cost is equal to the capacity of the classical channel ρ ( w | s )."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 557.16,
+            "t": 763.35198,
+            "r": 562.14132,
+            "b": 753.38934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.99993999999991,
+            "t": 737.681146,
+            "r": 299.27509512009374,
+            "b": 672.6357656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "Lemma 1. Given a conditional probability ρ ( w | s ) ∈ V ( G ), there is a child protocol, simulating in parallel N quantum games G , whose asymptotic communication cost per game is equal to the capacity of the channel ρ ( w | s ) as N goes to infinity.",
+      "text": "Lemma 1. Given a conditional probability ρ ( w | s ) ∈ V ( G ), there is a child protocol, simulating in parallel N quantum games G , whose asymptotic communication cost per game is equal to the capacity of the channel ρ ( w | s ) as N goes to infinity."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.99769999999981,
+            "t": 672.0320800000001,
+            "r": 299.2395575027495,
+            "b": 487.59586560000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            823
+          ]
+        }
+      ],
+      "orig": "Proof. In a parallel simulation of N games G through N master protocols, Alice sends an array w to Bob for each game. This array is generated with probability ρ ( w | s ). Let C ( W | S ) be the capacity of the channel T : s → w . The child protocol is as follows. Instead of sending w , Alice sends an amount of information, say C ( N ), that allows Bob to generate w for every game G according to the probability ρ ( w | s ). The reverse Shannon theorem states that this can be accomplished with a cost C ( N ) such that lim N →∞ C ( N ) /N = C ( W | S ), provided that the receiver and sender share some random variable. □ A constructive proof of the reverse Shannon theorem and its one-shot version were provided in Ref. [9]. This gives an explicit procedure for deriving the child protocol associated with ρ ( w | s ).",
+      "text": "Proof. In a parallel simulation of N games G through N master protocols, Alice sends an array w to Bob for each game. This array is generated with probability ρ ( w | s ). Let C ( W | S ) be the capacity of the channel T : s → w . The child protocol is as follows. Instead of sending w , Alice sends an amount of information, say C ( N ), that allows Bob to generate w for every game G according to the probability ρ ( w | s ). The reverse Shannon theorem states that this can be accomplished with a cost C ( N ) such that lim N →∞ C ( N ) /N = C ( W | S ), provided that the receiver and sender share some random variable. □ A constructive proof of the reverse Shannon theorem and its one-shot version were provided in Ref. [9]. This gives an explicit procedure for deriving the child protocol associated with ρ ( w | s )."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.997679999999846,
+            "t": 489.9917800000001,
+            "r": 299.13839589479454,
+            "b": 456.14944000000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "The first main result is the following theorem about the asymptotic communication complexity. Later on, we will consider the single-shot case.",
+      "text": "The first main result is the following theorem about the asymptotic communication complexity. Later on, we will consider the single-shot case."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.997679999999846,
+            "t": 448.4718800000001,
+            "r": 299.11362857089284,
+            "b": 407.5556656000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "Theorem 1. The asymptotic communication complexity of the game G = ( L , S , M ) is the minimum of the capacity of the classical channels ρ ( w | s ) in the set V ( G ).",
+      "text": "Theorem 1. The asymptotic communication complexity of the game G = ( L , S , M ) is the minimum of the capacity of the classical channels ρ ( w | s ) in the set V ( G )."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.99819999999988,
+            "t": 397.8319800000001,
+            "r": 299.166325319178,
+            "b": 375.86934000000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "Theorem 1 states that the asymptotic communication complexity of the game G is equal to the quantity",
+      "text": "Theorem 1 states that the asymptotic communication complexity of the game G is equal to the quantity"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 95.39829999999988,
+            "t": 360.0381656000002,
+            "r": 299.06360731961837,
+            "b": 336.03566560000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "D ( G ) ≡ min ρ ( w | s ) ∈V ( G ) ( max ρ ( s ) I ( W ; S ) ) , (8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.998059999999974,
+            "t": 319.7116400000001,
+            "r": 299.28506572147995,
+            "b": 99.39492560000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            978
+          ]
+        }
+      ],
+      "orig": "where I ( W ; S ) is the mutual information between the stochastic variables w and s . This theorem and Lemma 1 provide a constructive method for deriving the best protocol with communication cost equal to D ( G ). It is sufficient to evaluate the conditional probability ρ ( w | s ) that solves the minimax problem stated in Eq. (8) and to use the procedure in Ref. [9] for deriving the associated child protocol. The proof of the theorem is provided in the appendix. It relies on Lemma 1 and the dataprocessing inequality [8]. Lemma 1 implies that there is a protocol whose communication cost is D ( G ), that is, C asym min ( G ) ≤ D ( G ). Furthermore, the communication cost of any simulation cannot be strictly smaller than D ( G ). This is proved by showing through the dataprocessing inequality that any simulation protocol with communication cost C induces a master protocol with associated capacity C ( W | S ) smaller or equal to C . Thus, C asym min ( G ) = D ( G ).",
+      "text": "where I ( W ; S ) is the mutual information between the stochastic variables w and s . This theorem and Lemma 1 provide a constructive method for deriving the best protocol with communication cost equal to D ( G ). It is sufficient to evaluate the conditional probability ρ ( w | s ) that solves the minimax problem stated in Eq. (8) and to use the procedure in Ref. [9] for deriving the associated child protocol. The proof of the theorem is provided in the appendix. It relies on Lemma 1 and the dataprocessing inequality [8]. Lemma 1 implies that there is a protocol whose communication cost is D ( G ), that is, C asym min ( G ) ≤ D ( G ). Furthermore, the communication cost of any simulation cannot be strictly smaller than D ( G ). This is proved by showing through the dataprocessing inequality that any simulation protocol with communication cost C induces a master protocol with associated capacity C ( W | S ) smaller or equal to C . Thus, C asym min ( G ) = D ( G )."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.99909999999993,
+            "t": 101.79084000000012,
+            "r": 299.2782422861721,
+            "b": 60.875025600000185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.03891999999996,
+            "t": 737.4311400000001,
+            "r": 494.9049152093804,
+            "b": 727.4685000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            164,
+            201
+          ]
+        }
+      ],
+      "orig": "Theorem 1 and Lemma 1 have their one-shot versions. Lemma 2 (One-shot version of Lemma 1). Given a conditional probability ρ ( w | s ) ∈ V ( G ), there is protocol simulating a quantum game G such that",
+      "text": "Theorem 1 and Lemma 1 have their one-shot versions. Lemma 2 (One-shot version of Lemma 1). Given a conditional probability ρ ( w | s ) ∈ V ( G ), there is protocol simulating a quantum game G such that"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 346.43912,
+            "t": 713.8001060000001,
+            "r": 532.6785921671975,
+            "b": 696.5149256000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "C ch ≤ C ≤ C ch +2log 2 ( C ch +1) + 2 log 2 e,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.03894999999994,
+            "t": 689.9200060000002,
+            "r": 562.0356415164948,
+            "b": 660.6348256000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "where C and C ch are the communication cost of the simulation and the capacity of the channel ρ ( w | s ).",
+      "text": "where C and C ch are the communication cost of the simulation and the capacity of the channel ρ ( w | s )."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.03927000000004,
+            "t": 660.0311400000002,
+            "r": 562.328037549603,
+            "b": 626.1884000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "The proof is similar to that of Lemma 1 and relies on the one-shot version of the reverse Shannon theorem proved in Ref. [9].",
+      "text": "The proof is similar to that of Lemma 1 and relies on the one-shot version of the reverse Shannon theorem proved in Ref. [9]."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.0388899999999,
+            "t": 618.5108400000001,
+            "r": 562.1564246827584,
+            "b": 584.6685000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "Theorem 2 (One-shot version of Theorem 1). The communication complexity C min ( G ) of the game G satisfies the inequalities",
+      "text": "Theorem 2 (One-shot version of Theorem 1). The communication complexity C min ( G ) of the game G satisfies the inequalities"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 318.4791199999999,
+            "t": 570.8802060000002,
+            "r": 560.6386221671974,
+            "b": 553.5950256000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "D ( G ) ≤ C min ( G ) ≤ D ( G ) + 2 log 2 [ D ( G ) + 1] + 2 log 2 e,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.0389799999998,
+            "t": 547.0001060000002,
+            "r": 562.0852665599997,
+            "b": 512.9083000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "where D ( G ) is given by Eq. (8) and it is equal to the asymptotic communication complexity of the game G (Theorem 1).",
+      "text": "where D ( G ) is given by Eq. (8) and it is equal to the asymptotic communication complexity of the game G (Theorem 1)."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.0390399999998,
+            "t": 505.2307400000002,
+            "r": 562.2059488609084,
+            "b": 459.3880000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "The first inequality is a trivial consequence of Theorem 1, as the asymptotic communication complexity cannot be larger than the communication complexity. The second inequality comes from Lemma 2.",
+      "text": "The first inequality is a trivial consequence of Theorem 1, as the asymptotic communication complexity cannot be larger than the communication complexity. The second inequality comes from Lemma 2."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.0390399999998,
+            "t": 456.3904400000002,
+            "r": 562.2066874113368,
+            "b": 350.78790000000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            433
+          ]
+        }
+      ],
+      "orig": "Thus, the communication complexity of a quantum channel is about equal to the asymptotic communication complexity, apart from a possible additional cost that does not grow more than the logarithm of the asymptotic communication complexity. The asymptotic communication complexity of a quantum channel is obtained in the limit S, M → ∞ with the sets S and M densely covering the space of quantum states and measurements, respectively.",
+      "text": "Thus, the communication complexity of a quantum channel is about equal to the asymptotic communication complexity, apart from a possible additional cost that does not grow more than the logarithm of the asymptotic communication complexity. The asymptotic communication complexity of a quantum channel is obtained in the limit S, M → ∞ with the sets S and M densely covering the space of quantum states and measurements, respectively."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.03923999999984,
+            "t": 347.7903400000001,
+            "r": 562.3183241499534,
+            "b": 194.42922,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            749
+          ]
+        }
+      ],
+      "orig": "To illustrate these results, we have evaluated the communication complexity of the following game G for a binary quantum depolarizing channel. The channel is a map from a Bloch vector ⃗ v to γ⃗ v , where 0 ≤ γ ≤ 1. The channel is noiseless or completely erasing if γ = 1 or 0, respectively. Let us denote by ⃗ v x the tridimensional vectorial function ( cos πx M , sin πx M , 0 ) , where x is a real number. The measurements are projections in a two-dimensional Hilbert space. The eigenvectors of the m -th measurement in M correspond to the Bloch vectors ± ⃗ v m with m = 1 , . . . , M and outcomes w = ± 1. The set S contains all the 2 M eigenvectors, that is, ⃗ v s with s = 1 , . . . , 2 M . the quantum probability of getting w given s and m is",
+      "text": "To illustrate these results, we have evaluated the communication complexity of the following game G for a binary quantum depolarizing channel. The channel is a map from a Bloch vector ⃗ v to γ⃗ v , where 0 ≤ γ ≤ 1. The channel is noiseless or completely erasing if γ = 1 or 0, respectively. Let us denote by ⃗ v x the tridimensional vectorial function ( cos πx M , sin πx M , 0 ) , where x is a real number. The measurements are projections in a two-dimensional Hilbert space. The eigenvectors of the m -th measurement in M correspond to the Bloch vectors ± ⃗ v m with m = 1 , . . . , M and outcomes w = ± 1. The set S contains all the 2 M eigenvectors, that is, ⃗ v s with s = 1 , . . . , 2 M . the quantum probability of getting w given s and m is"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 343.3198699999998,
+            "t": 183.03215999999998,
+            "r": 562.1053429111503,
+            "b": 156.37816223999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "P G ( w | s, m ) = 1 2 { 1 + wγ cos [ π M ( s -m ) ]} . (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.0398599999999,
+            "t": 149.92107599999997,
+            "r": 562.1963469531678,
+            "b": 60.876095599999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            392
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.99884000000003,
+            "t": 490.71227999999996,
+            "r": 223.5663120079369,
+            "b": 480.74964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            393,
+            430
+          ]
+        }
+      ],
+      "orig": "Since P G is invariant under the transformation s → s +1 and m → m +1, the distribution ρ ( s ) solving the minimax problem in Eq. (8) is, by symmetry, uniform. Thus the minimax problem is reduced to a minimization problem. We have evaluated algebraically the asymptotic communication complexity up to M = 4. The distributions ρ ( w | s ) ∈ V ( G ) with minimal capacity for M = 2 , 3 , 4 are summarized by the analytical equation",
+      "text": "Since P G is invariant under the transformation s → s +1 and m → m +1, the distribution ρ ( s ) solving the minimax problem in Eq. (8) is, by symmetry, uniform. Thus the minimax problem is reduced to a minimization problem. We have evaluated algebraically the asymptotic communication complexity up to M = 4. The distributions ρ ( w | s ) ∈ V ( G ) with minimal capacity for M = 2 , 3 , 4 are summarized by the analytical equation"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 557.16,
+            "t": 763.35198,
+            "r": 562.14132,
+            "b": 753.38934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.99884000000003,
+            "t": 585.604785,
+            "r": 299.17749168366583,
+            "b": 513.878405,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            420
+          ]
+        }
+      ],
+      "orig": "FIG. 1: Asymptotic communication complexity for γ = 1 (solid line) and γ = 0 . 95 (dashed-dot line) as a function of the number M of measurements (the lines interpolate the data as a guide to the eyes). The dot line represents the asymptotic limit of the solid line for M → ∞ . The dashed line is the communication cost of the model in Ref. [3], working for any projective measurement on the qubit and noiseless channel.",
+      "text": "FIG. 1: Asymptotic communication complexity for γ = 1 (solid line) and γ = 0 . 95 (dashed-dot line) as a function of the number M of measurements (the lines interpolate the data as a guide to the eyes). The dot line represents the asymptotic limit of the solid line for M → ∞ . The dashed line is the communication cost of the model in Ref. [3], working for any projective measurement on the qubit and noiseless channel."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 95.2512,
+            "t": 613.5634048,
+            "r": 99.7364,
+            "b": 605.7382740240117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 138.8219,
+            "t": 613.4993423,
+            "r": 143.3071,
+            "b": 605.6742115240118,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 179.8453,
+            "t": 613.5634048,
+            "r": 188.8157,
+            "b": 605.7382740240117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 223.416,
+            "t": 613.4993423,
+            "r": 232.38639999999998,
+            "b": 605.6742115240118,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 266.666,
+            "t": 613.5634048,
+            "r": 275.63640000000004,
+            "b": 605.7382740240117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 180.34179999999998,
+            "t": 605.7942648,
+            "r": 188.31648559999996,
+            "b": 597.9691340240117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "M",
+      "text": "M"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 85.0313,
+            "t": 618.2724047999999,
+            "r": 96.24430000000001,
+            "b": 610.4472740240117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.8",
+      "text": "0.8"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 92.25591,
+            "t": 667.7220047999999,
+            "r": 96.74111,
+            "b": 659.8968740240117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 84.79107,
+            "t": 717.2993048,
+            "r": 96.00407000000001,
+            "b": 709.4741740240117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.2",
+      "text": "1.2"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.8435952,
+            "t": 710.9769999999999,
+            "r": 85.66872597598828,
+            "b": 643.699,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "comm. complexity",
+      "text": "comm. complexity"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 118.43864000000004,
+            "t": 470.59058749999997,
+            "r": 299.18384155858655,
+            "b": 438.85833224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "ρ ( w | s ) = 2 M ∑ k =1 P ( w | k ) ρ ( k | s ) (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.998547000000144,
+            "t": 430.35207999999994,
+            "r": 73.32746972576446,
+            "b": 420.38944,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "with",
+      "text": "with"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.35874700000014,
+            "t": 412.27028749999994,
+            "r": 299.1840913177865,
+            "b": 379.09817223999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "P ( w | k ) = M ∏ m =1 θ ( w m ⃗ v m · ⃗ v k + p/ 2 ) , (11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.95859700000011,
+            "t": 377.55870559999994,
+            "r": 299.1849844737864,
+            "b": 353.65833223999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "ρ ( k | s ) = f ( k, s ) + √ λ + f ( k, s ) (12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 104.52012000000002,
+            "t": 323.43208999999996,
+            "r": 299.1853743177864,
+            "b": 296.77816224000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "f ( k, s ) ≡ γ 2 sin ( π 2 M ) ⃗ v k + p/ 2 · ⃗ v s . (13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.99964,
+            "t": 354.51168,
+            "r": 299.1847993356513,
+            "b": 317.77806224000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "where p = 0 (1) if M is odd (even), λ is a constant determined by the normalization ∑ 2 M k =1 ρ ( k | s ) = 1 and",
+      "text": "where p = 0 (1) if M is odd (even), λ is a constant determined by the normalization ∑ 2 M k =1 ρ ( k | s ) = 1 and"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.639863999999974,
+            "t": 292.48124599999994,
+            "r": 299.3335758330904,
+            "b": 233.45653749999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            269
+          ]
+        }
+      ],
+      "orig": "It is easy to prove that ρ ( w | s ) is an element of V ( G ) for any M ≥ 2. For γ = 1 (noiseless channel), these equations are the discrete version of the Kochen-Specker model [10] with the constraint that the hidden variable ⃗ v k + p/ 2 is a vector lying on a plane.",
+      "text": "It is easy to prove that ρ ( w | s ) is an element of V ( G ) for any M ≥ 2. For γ = 1 (noiseless channel), these equations are the discrete version of the Kochen-Specker model [10] with the constraint that the hidden variable ⃗ v k + p/ 2 is a vector lying on a plane."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.999363999999986,
+            "t": 232.7210459999999,
+            "r": 299.0760941819342,
+            "b": 198.62923999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "Since P ( w | k ) is a noiseless channel, the capacity of ρ ( w | s ) is equal to the capacity of ρ ( k | s ). Thus, the asymptotic communication complexity is",
+      "text": "Since P ( w | k ) is a noiseless channel, the capacity of ρ ( w | s ) is equal to the capacity of ρ ( k | s ). Thus, the asymptotic communication complexity is"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 124.79936399999998,
+            "t": 190.03038749999996,
+            "r": 299.1848675609865,
+            "b": 170.43586559999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "C asym min ( G ) = max ρ ( s ) I ( k ; s ) (14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.99932400000006,
+            "t": 160.83217999999988,
+            "r": 211.7972232439389,
+            "b": 150.86953999999992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "In particular, for a noiseless channel",
+      "text": "In particular, for a noiseless channel"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 57.71924400000006,
+            "t": 140.32214155999986,
+            "r": 299.1854943177865,
+            "b": 91.82903999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "C asym min ( G ) = N M -1 2 ∑ n = 1 -M 2 cos ( πn M ) log [ 2 M N cos ( πn M )] , (15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.999930000000006,
+            "t": 91.51022750000004,
+            "r": 299.1670155772124,
+            "b": 66.97797223999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.04003,
+            "t": 737.43224,
+            "r": 562.3443842172751,
+            "b": 691.5894999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            115,
+            341
+          ]
+        }
+      ],
+      "orig": "where N = sin ( π 2 M ) . Note that the sum index n is not an integer when M is even. We have numerically verified the validity of the analytical equations for M up to 20 and some values of γ . The simulations are in agreement with Eqs. (12,13,14) within the machine precision. The numerical data for γ = 1 and 0 . 95 are reported in Fig. 1.",
+      "text": "where N = sin ( π 2 M ) . Note that the sum index n is not an integer when M is even. We have numerically verified the validity of the analytical equations for M up to 20 and some values of γ . The simulations are in agreement with Eqs. (12,13,14) within the machine precision. The numerical data for γ = 1 and 0 . 95 are reported in Fig. 1."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.03995999999995,
+            "t": 689.07204,
+            "r": 562.2078166467049,
+            "b": 535.70914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            678
+          ]
+        }
+      ],
+      "orig": "If we extrapolate Eq. (15) to arbitrary M , we have lim M →∞ C asym min ( G ) = 1 + log 2 π e ≃ 1 . 2088 (dot line in Fig. 1). This value is the asymptotic communication complexity of a noiseless quantum channel with the constraint that the quantum states and the eigenstates of the measurements correspond to Bloch vectors lying on a plane. In Ref. [3], we found a protocol for any quantum state and projective measurements with communication cost equal to log 2 (4 / √ e ) ≃ 1 . 2786, which is about 6% higher (dashed line in Fig. 1). It is not known if this value is actually the asymptotic communication complexity of the quantum channel for general projective measurements.",
+      "text": "If we extrapolate Eq. (15) to arbitrary M , we have lim M →∞ C asym min ( G ) = 1 + log 2 π e ≃ 1 . 2088 (dot line in Fig. 1). This value is the asymptotic communication complexity of a noiseless quantum channel with the constraint that the quantum states and the eigenstates of the measurements correspond to Bloch vectors lying on a plane. In Ref. [3], we found a protocol for any quantum state and projective measurements with communication cost equal to log 2 (4 / √ e ) ≃ 1 . 2786, which is about 6% higher (dashed line in Fig. 1). It is not known if this value is actually the asymptotic communication complexity of the quantum channel for general projective measurements."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.0396599999999,
+            "t": 533.1916800000001,
+            "r": 562.3173304388802,
+            "b": 248.30853999999988,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1323
+          ]
+        }
+      ],
+      "orig": "In conclusion, we have presented a general procedure for evaluating the communication complexity of channels in any general probabilistic theory, in particular quantum theory. This procedure, which relies on the reverse Shannon theorem and a strategy introduced in Refs. [3, 6], is constructive and provides a method to derive the most efficient protocol that classically simulates a channel. More explicitly, given a quantum channel, we have defined a set V of classical channels and proved that the minimal classical capacity in V is the asymptotic communication complexity of the quantum channel. Thus, the problem of evaluating the communication complexity is reduced to a minimax problem. The channel in V with minimal capacity can be turned into the most efficient classical protocol for simulating the quantum channel. We have illustrated this procedure by evaluating the asymptotic communication complexity of a binary quantum depolarizing channel for some finite for sets of quantum states and measurements. The procedure is numerically very stable, but the computational time of the minimax routine can grow exponentially with the number of quantum states and measurements. Thus, specific strategies reducing the computational complexity need to be devised in the case of a high number of states and measurements.",
+      "text": "In conclusion, we have presented a general procedure for evaluating the communication complexity of channels in any general probabilistic theory, in particular quantum theory. This procedure, which relies on the reverse Shannon theorem and a strategy introduced in Refs. [3, 6], is constructive and provides a method to derive the most efficient protocol that classically simulates a channel. More explicitly, given a quantum channel, we have defined a set V of classical channels and proved that the minimal classical capacity in V is the asymptotic communication complexity of the quantum channel. Thus, the problem of evaluating the communication complexity is reduced to a minimax problem. The channel in V with minimal capacity can be turned into the most efficient classical protocol for simulating the quantum channel. We have illustrated this procedure by evaluating the asymptotic communication complexity of a binary quantum depolarizing channel for some finite for sets of quantum states and measurements. The procedure is numerically very stable, but the computational time of the minimax routine can grow exponentially with the number of quantum states and measurements. Thus, specific strategies reducing the computational complexity need to be devised in the case of a high number of states and measurements."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.0397599999999,
+            "t": 245.79107999999997,
+            "r": 562.2082346989752,
+            "b": 140.18813999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            456
+          ]
+        }
+      ],
+      "orig": "At the present, it not known if the communication complexity of noiseless quantum channels is finite, unless the quantum channel capacity is 1 qubit. Our method can help to solve this open problem and, furthermore, to construct explicit simulation protocols. As discussed in Ref. [3], the existence of finite classical communication protocols is also deeply related to the existence of ψ -epistemic theories, which are being object of recent intense study.",
+      "text": "At the present, it not known if the communication complexity of noiseless quantum channels is finite, unless the quantum channel capacity is 1 qubit. Our method can help to solve this open problem and, furthermore, to construct explicit simulation protocols. As discussed in Ref. [3], the existence of finite classical communication protocols is also deeply related to the existence of ψ -epistemic theories, which are being object of recent intense study."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.0401199999999,
+            "t": 137.67067999999995,
+            "r": 562.2238869528946,
+            "b": 67.94823999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 53.99999999999994,
+            "t": 737.43208,
+            "r": 299.168835296755,
+            "b": 703.58934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            308,
+            468
+          ]
+        }
+      ],
+      "orig": "Acknowledgments. This work is supported by the Swiss National Science Foundation, the NCCR QSIT, and the COST action on Fundamental Problems in Quantum Physics. A. M. acknowledges a support in part from Perimeter Institute for Theoretical Physics, where a sketch of the proof of Theorem 1 was conceived. Re- search at Perimeter Institute for Theoretical Physics is supported in part by the Government of Canada through NSERC and by the Province of Ontario through MRI.",
+      "text": "Acknowledgments. This work is supported by the Swiss National Science Foundation, the NCCR QSIT, and the COST action on Fundamental Problems in Quantum Physics. A. M. acknowledges a support in part from Perimeter Institute for Theoretical Physics, where a sketch of the proof of Theorem 1 was conceived. Re- search at Perimeter Institute for Theoretical Physics is supported in part by the Government of Canada through NSERC and by the Province of Ontario through MRI."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 557.16,
+            "t": 763.35198,
+            "r": 562.14132,
+            "b": 753.38934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 153.83979999999994,
+            "t": 679.236566,
+            "r": 199.15468813591653,
+            "b": 671.22062228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Appendix",
+      "text": "Appendix",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.00022999999996,
+            "t": 654.27188,
+            "r": 299.2359661198539,
+            "b": 453.02859600000016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            934
+          ]
+        }
+      ],
+      "orig": "Proof of Theorem 1 . Lemma 1 implies that C asym min ( G ) ≤ D ( G ). We show that C asym min ( G ) is actually equal to D ( G ) by proving that the asymptotic communication cost cannot be smaller than D ( G ). Let C 0 be the asymptotic communication cost of a parallel simulation of the game G . We denote by N the number of games G that are simulated in parallel. In the simulation, Alice sends a variable k generated with conditional probability ρ ( k | y, s 1 , . . . , s N ), where s i is an index labelling the quantum state of the i -th game (hereafter superscripts label the game). Bob simulates the measurements M m 1 , . . . , M m N by generating the outcomes w 1 , . . . , w N according to a conditional probability P ( w 1 , . . . , w N | k, y, m 1 , . . . , m N ). Let us denote by P i ( w i | k, y, m 1 , . . . , m N ) the marginal probability of the outcome of the i -th game. We introduce the conditional probabilities",
+      "text": "Proof of Theorem 1 . Lemma 1 implies that C asym min ( G ) ≤ D ( G ). We show that C asym min ( G ) is actually equal to D ( G ) by proving that the asymptotic communication cost cannot be smaller than D ( G ). Let C 0 be the asymptotic communication cost of a parallel simulation of the game G . We denote by N the number of games G that are simulated in parallel. In the simulation, Alice sends a variable k generated with conditional probability ρ ( k | y, s 1 , . . . , s N ), where s i is an index labelling the quantum state of the i -th game (hereafter superscripts label the game). Bob simulates the measurements M m 1 , . . . , M m N by generating the outcomes w 1 , . . . , w N according to a conditional probability P ( w 1 , . . . , w N | k, y, m 1 , . . . , m N ). Let us denote by P i ( w i | k, y, m 1 , . . . , m N ) the marginal probability of the outcome of the i -th game. We introduce the conditional probabilities"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 75.12087999999997,
+            "t": 443.1098435000002,
+            "r": 299.1865543177864,
+            "b": 404.89750824000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "P i ( w 1 , w 2 , . . . , w M | k, y ) ≡ ∏ M m =1 P i ( w m | k, y, 1 , 1 , . . . , m i = m,..., 1) , (16)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.000080000000054,
+            "t": 406.98990350000014,
+            "r": 299.131092151624,
+            "b": 335.7887560000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "We will concisely denote P i ( w 1 , w 2 , . . . , w M | k, y ) by P i ( w | k, y ). Note that we have multiplied over the index m i and set the other indices equal to 1. For our purposes, any other choice of the values of the N -1 indices would be fine. We use P i ( w | k, y ) to build the conditional probability",
+      "text": "We will concisely denote P i ( w 1 , w 2 , . . . , w M | k, y ) by P i ( w | k, y ). Note that we have multiplied over the index m i and set the other indices equal to 1. For our purposes, any other choice of the values of the N -1 indices would be fine. We use P i ( w | k, y ) to build the conditional probability"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 94.80008000000005,
+            "t": 324.8779016000001,
+            "r": 299.18512431778646,
+            "b": 300.9775282400001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "P ( w 1 , . . . , w N | k, y ) = ∏ i P i ( w i | k, y ) . (17)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 53.99963000000005,
+            "t": 291.66998350000006,
+            "r": 299.1430993109425,
+            "b": 268.468836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "Finally, from this distribution and ρ ( k | y, s 1 , . . . , s N ), we build the conditional probability",
+      "text": "Finally, from this distribution and ρ ( k | y, s 1 , . . . , s N ), we build the conditional probability"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.76005000000006,
+            "t": 258.5496035,
+            "r": 299.1853823177865,
+            "b": 218.77750823999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "ρ ( w 1 , . . . , w N | s 1 , . . . , s N ) = ∑ k ∫ dyρ ( y ) P ( w 1 , . . . , w N | k, y ) ρ ( k | y, s 1 , . . . , s N ) . (18)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 53.999808000000144,
+            "t": 218.31151599999998,
+            "r": 299.26066936806484,
+            "b": 177.39530160000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.03979800000013,
+            "t": 737.6804820000001,
+            "r": 498.47889064564924,
+            "b": 720.3953016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            196,
+            240
+          ]
+        }
+      ],
+      "orig": "From the data-processing inequality [8], we have that the capacity, say C ( W 1 , . . . , W N | S 1 , . . . , S N ), of ρ ( w 1 , . . . , w N | s 1 , . . . , s N ) is smaller than or equal to the communication cost N C 0 + o ( N ), that is,",
+      "text": "From the data-processing inequality [8], we have that the capacity, say C ( W 1 , . . . , W N | S 1 , . . . , S N ), of ρ ( w 1 , . . . , w N | s 1 , . . . , s N ) is smaller than or equal to the communication cost N C 0 + o ( N ), that is,"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 333.4798180000001,
+            "t": 715.9898235000002,
+            "r": 562.2251511347224,
+            "b": 696.9953016000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "C ( W 1 , . . . , W N | S 1 , . . . , S N ) ≤ N C 0 + o ( N ) . (19)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.03960800000004,
+            "t": 690.7513160000002,
+            "r": 494.96410838762927,
+            "b": 680.7886760000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "By construction, we have the constraints",
+      "text": "By construction, we have the constraints"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 318.839608,
+            "t": 668.3176416000002,
+            "r": 562.2252371347223,
+            "b": 631.9483660000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "∑ w 1 ,..., w N ,w i m = w ρ ( w 1 , . . . , w N | s 1 , . . . , s N ) = P G ( w | s i , m ) , (20)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.03969399999994,
+            "t": 629.9110060000003,
+            "r": 562.1560083183442,
+            "b": 572.1885660000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            266
+          ]
+        }
+      ],
+      "orig": "the left-hand side being the marginal distribution of the variable w i m (renamed w ) given s 1 , . . . , s N . Let ρ 0 ( w | s ) be the probability distribution in V ( G ) with minimal capacity D ( G ). Then, it is easy to realized that the probability distribution",
+      "text": "the left-hand side being the marginal distribution of the variable w i m (renamed w ) given s 1 , . . . , s N . Let ρ 0 ( w | s ) be the probability distribution in V ( G ) with minimal capacity D ( G ). Then, it is easy to realized that the probability distribution"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 332.76008999999976,
+            "t": 559.7176216000004,
+            "r": 562.2254531347221,
+            "b": 535.8172482400004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "ρ min ( w 1 , . . . , w N | s 1 , . . . , s N ) ≡ ∏ i ρ 0 ( w i | s i ) , (21)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.03990999999974,
+            "t": 524.6712960000004,
+            "r": 562.0770384387941,
+            "b": 495.7554816000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "is the channel satisfying constraints (20) with minimal capacity. The minimum is equal to N D ( G ). Thus,",
+      "text": "is the channel satisfying constraints (20) with minimal capacity. The minimum is equal to N D ( G ). Thus,"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 342.9597699999997,
+            "t": 491.23008350000043,
+            "r": 562.2250631347221,
+            "b": 472.3554816000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "N D ( G ) ≤ C ( W 1 , . . . , W N | S 1 , . . . , S N ) . (22)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.0395199999997,
+            "t": 465.9915960000004,
+            "r": 552.1432814447279,
+            "b": 456.02895600000045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "From this inequality and Inequality (19) we have that",
+      "text": "From this inequality and Inequality (19) we have that"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 388.3196199999997,
+            "t": 442.96096200000045,
+            "r": 562.225003134722,
+            "b": 425.67578160000045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "N D ( G ) ≤ N C 0 + o ( N ) . (23)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.0394599999996,
+            "t": 419.31189600000044,
+            "r": 430.26043127999964,
+            "b": 409.3492560000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "The theorem is proved. □",
+      "text": "The theorem is proved. □"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 321.6,
+            "t": 363.244785,
+            "r": 562.2357246499697,
+            "b": 343.838605,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "[1] H. Buhrman, R. Cleve, S. Massar, and R. de Wolf, Rev. Mod. Phys. 82 , 665 (2010).",
+      "text": "H. Buhrman, R. Cleve, S. Massar, and R. de Wolf, Rev. Mod. Phys. 82 , 665 (2010).",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 321.6,
+            "t": 342.364785,
+            "r": 561.8799350143084,
+            "b": 322.958605,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "[2] B. F. Toner and D. Bacon, Phys. Rev. Lett. 91 , 187904 (2003).",
+      "text": "B. F. Toner and D. Bacon, Phys. Rev. Lett. 91 , 187904 (2003).",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 321.6001000000001,
+            "t": 321.364785,
+            "r": 536.7964301035097,
+            "b": 312.39840499999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "[3] A. Montina, Phys. Rev. Lett. 109 , 110501 (2012).",
+      "text": "A. Montina, Phys. Rev. Lett. 109 , 110501 (2012).",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 321.5999000000001,
+            "t": 310.924985,
+            "r": 532.8364879225844,
+            "b": 301.958605,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "[4] A. Montina, Phys. Rev. A 84 , 060303(R) (2011).",
+      "text": "A. Montina, Phys. Rev. A 84 , 060303(R) (2011).",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 321.6001000000001,
+            "t": 300.485185,
+            "r": 561.9957076296856,
+            "b": 281.078605,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "[5] C. H. Bennett, P. Shor, J. Smolin, and A. V. Thapliyal, IEEE Trans. Inf. Theory, 48 2637 (2002).",
+      "text": "C. H. Bennett, P. Shor, J. Smolin, and A. V. Thapliyal, IEEE Trans. Inf. Theory, 48 2637 (2002).",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 321.6003000000001,
+            "t": 279.605185,
+            "r": 518.9169554360094,
+            "b": 270.63880500000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "[6] A. Montina, Phys. Rev. A 87 , 042331 (2013).",
+      "text": "A. Montina, Phys. Rev. A 87 , 042331 (2013).",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 321.6005000000001,
+            "t": 269.165385,
+            "r": 561.9961755231146,
+            "b": 239.19900500000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "[7] M. Berta, J. M. Renes, and M. M. Wilde, arXiv:1301.1594; M. M. Wilde, P. Hayden, F. Buscemi, M-H. Hsieh, arXiv:1206.4121.",
+      "text": "M. Berta, J. M. Renes, and M. M. Wilde, arXiv:1301.1594; M. M. Wilde, P. Hayden, F. Buscemi, M-H. Hsieh, arXiv:1206.4121.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 321.6005000000001,
+            "t": 237.725185,
+            "r": 562.0940437787098,
+            "b": 218.31900500000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "[8] T. M. Cover and J. A. Thomas, Elements of Information Theory (Wiley, New York, 1991).",
+      "text": "T. M. Cover and J. A. Thomas, Elements of Information Theory (Wiley, New York, 1991).",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 321.60040000000015,
+            "t": 216.84518500000001,
+            "r": 562.2360662340036,
+            "b": 197.43900500000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "[9] P. Harsha, R. Jain, D. McAllester, J. Radhakrishnan, IEEE Trans. Inf. Theory 56 , 438 (2010).",
+      "text": "P. Harsha, R. Jain, D. McAllester, J. Radhakrishnan, IEEE Trans. Inf. Theory 56 , 438 (2010).",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.04070000000013,
+            "t": 195.84518500000001,
+            "r": 561.8765974562219,
+            "b": 186.87880500000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "[10] S. Kochen and E. Specker, J. Math. Mech. 17 , 59 (1967).",
+      "text": "S. Kochen and E. Specker, J. Math. Mech. 17 , 59 (1967).",
+      "enumerated": true,
+      "marker": "[10]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 74.56582641601562,
+            "t": 742.4779586791992,
+            "r": 277.27117919921875,
+            "b": 598.0725555419922,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

@@ -1,0 +1,824 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "0809.1949_protocol_channels",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8173494844830322263,
+    "filename": "0809.1949_protocol_channels.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/24"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 600.42,
+            "r": 36.206559297218156,
+            "b": 256.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "arXiv:0809.1949v5  [cs.CR]  14 May 2011",
+      "text": "arXiv:0809.1949v5  [cs.CR]  14 May 2011",
+      "hyperlink": "http://arxiv.org/abs/0809.1949v5"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 242.16,
+            "t": 627.3935646,
+            "r": 368.94003175617587,
+            "b": 615.0845536,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Protocol Channels",
+      "text": "Protocol Channels",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 264.8397,
+            "t": 595.0960128,
+            "r": 350.43202841,
+            "b": 584.1211392,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Steffen Wendzel ∗",
+      "text": "Steffen Wendzel ∗"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 204.9599,
+            "t": 581.0557328000001,
+            "r": 406.1199699905538,
+            "b": 570.0808592000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Kempten University of Applied Science",
+      "text": "Kempten University of Applied Science"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 278.2798,
+            "t": 558.2557328000001,
+            "r": 333.20605356800013,
+            "b": 547.2808592000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "2009-07-26",
+      "text": "2009-07-26"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 285.35988000000003,
+            "t": 510.87628600000016,
+            "r": 325.84443107841986,
+            "b": 502.80654400000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 158.63987999999998,
+            "t": 496.08480500000013,
+            "r": 452.58760182163985,
+            "b": 410.3186250000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            558
+          ]
+        }
+      ],
+      "orig": "Covert channel techniques are used by attackers to transfer data in a way prohibited by the security policy. There are two main categories of covert channels: timing channels and storage channels. This paper introduces a new storage channel technique called a protocol channel . A protocol channel switches one of at least two protocols to send a bit combination to a destination. The main goal of a protocol channel is that packets containing covert information look equal to all other packets within a network, what makes a protocol channel hard to detect.",
+      "text": "Covert channel techniques are used by attackers to transfer data in a way prohibited by the security policy. There are two main categories of covert channels: timing channels and storage channels. This paper introduces a new storage channel technique called a protocol channel . A protocol channel switches one of at least two protocols to send a bit combination to a destination. The main goal of a protocol channel is that packets containing covert information look equal to all other packets within a network, what makes a protocol channel hard to detect."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 148.68091,
+            "t": 402.60490500000014,
+            "r": 383.44024238609745,
+            "b": 393.63852500000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Keywords: protocol channel, covert channel, data hiding",
+      "text": "Keywords: protocol channel, covert channel, data hiding"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.80081,
+            "t": 374.57386760000014,
+            "r": 263.8757302939011,
+            "b": 364.38855746971444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Protocol Channels",
+      "text": "Protocol Channels",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.80081,
+            "t": 351.36470500000013,
+            "r": 477.551920326138,
+            "b": 287.67852500000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            500
+          ]
+        }
+      ],
+      "orig": "For attackers, it is usual to transfer different kinds of hidden information trough hacked or public networks. The solution for this task can be to use a network covert channel technique like they are well known since years. There are currently two different types of covert channels, so called storage channels (which include hidden information in attributes of transfered network packets) and timing channels (which make use of the timings of sent packets to transfer hidden information) [Owens02].",
+      "text": "For attackers, it is usual to transfer different kinds of hidden information trough hacked or public networks. The solution for this task can be to use a network covert channel technique like they are well known since years. There are currently two different types of covert channels, so called storage channels (which include hidden information in attributes of transfered network packets) and timing channels (which make use of the timings of sent packets to transfer hidden information) [Owens02]."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.80191000000002,
+            "t": 285.60510500000015,
+            "r": 477.6374511862359,
+            "b": 167.07882500000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            898
+          ]
+        }
+      ],
+      "orig": "A new storage channel technique called a 'protocol channel' includes hidden information only in the header part of protocols that specify an embedded protocol (e.g. the field 'Ether Type' in Ethernet, the 'Protocol' value in PPP, the 'Next Header' value in IPv6 or the source/destination port of TCP and UDP). For instance, if a protocol channel would use the two protocols ICMP and ARP, while ICMP means that a 0 bit was transfered and ARP means that a 1 bit was transfered, then the packet combination sent to transfer the bit combination '0011' would be ICMP, ICMP, ARP, ARP. A protocol channel must not contain any other information that identifies the channel. It is also important that a protocol channel only uses usual protocols of the given network. An algorithm to identify such usual protocols for adaptive covert channels (protocol hopping covert channels) was introduced by [YADALI08].",
+      "text": "A new storage channel technique called a 'protocol channel' includes hidden information only in the header part of protocols that specify an embedded protocol (e.g. the field 'Ether Type' in Ethernet, the 'Protocol' value in PPP, the 'Next Header' value in IPv6 or the source/destination port of TCP and UDP). For instance, if a protocol channel would use the two protocols ICMP and ARP, while ICMP means that a 0 bit was transfered and ARP means that a 1 bit was transfered, then the packet combination sent to transfer the bit combination '0011' would be ICMP, ICMP, ARP, ARP. A protocol channel must not contain any other information that identifies the channel. It is also important that a protocol channel only uses usual protocols of the given network. An algorithm to identify such usual protocols for adaptive covert channels (protocol hopping covert channels) was introduced by [YADALI08]."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.80190999999996,
+            "t": 165.12530500000014,
+            "r": 477.51292428091506,
+            "b": 134.19922500000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        }
+      ],
+      "orig": "The higher the number of available protocols for a protocol channel, the higher amount of information can be transfered within one packet since more states are available. Given the above example, two different states are available, what represents",
+      "text": "The higher the number of available protocols for a protocol channel, the higher amount of information can be transfered within one packet since more states are available. Given the above example, two different states are available, what represents"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 144.72,
+            "t": 124.81957469999998,
+            "r": 360.2716446675102,
+            "b": 117.51047558000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "∗ swendzel (at) ploetner-it (dot) de, www.wendzel.de",
+      "text": "∗ swendzel (at) ploetner-it (dot) de, www.wendzel.de"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.11992,
+            "t": 96.03485823999995,
+            "r": 308.10123999999996,
+            "b": 89.39974000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.8,
+            "t": 663.964785,
+            "r": 477.4309083290915,
+            "b": 644.0785050000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "1 bit per packet. If the attacker could use four different protocols, a packet would represent two bits.",
+      "text": "1 bit per packet. If the attacker could use four different protocols, a packet would represent two bits."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.80009999999996,
+            "t": 642.005085,
+            "r": 477.55689125336994,
+            "b": 578.3189050000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            454
+          ]
+        }
+      ],
+      "orig": "Short bit combinations do not allow high covert channel transfer rates but are enough to transfer sniffed passwords or other tiny information. Specially if the attacker uses some compressing algorithm (like converting 7 bit ASCII input to a 6 bit representation of the most important printable characters), the need for a high transfer rate decreases. The proof of concept code 'pct' uses a minimalized 5 bit ASCII encoding and a 6th bit as a parity bit.",
+      "text": "Short bit combinations do not allow high covert channel transfer rates but are enough to transfer sniffed passwords or other tiny information. Specially if the attacker uses some compressing algorithm (like converting 7 bit ASCII input to a 6 bit representation of the most important printable characters), the need for a high transfer rate decreases. The proof of concept code 'pct' uses a minimalized 5 bit ASCII encoding and a 6th bit as a parity bit."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.8001,
+            "t": 559.1339476,
+            "r": 200.03530294455462,
+            "b": 548.9486374697143,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Problems",
+      "text": "Problems",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.80009999999996,
+            "t": 535.925185,
+            "r": 477.5517001910657,
+            "b": 461.19920500000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            521
+          ]
+        }
+      ],
+      "orig": "Since a protocol channel only contains one or two (usually not more) bits of hidden information per packet, it is not possibly to include reliability information (like an ACK flag or a sequence number). If a normal packet, that does not belong to the protocol channel, would be accepted by the receiver of a protocol channel, the whole channel would become desyncronized. It is not possibly to identify packets which (not) belong to the protocol channel if they use one of the protocols exploited by the protocol channel.",
+      "text": "Since a protocol channel only contains one or two (usually not more) bits of hidden information per packet, it is not possibly to include reliability information (like an ACK flag or a sequence number). If a normal packet, that does not belong to the protocol channel, would be accepted by the receiver of a protocol channel, the whole channel would become desyncronized. It is not possibly to identify packets which (not) belong to the protocol channel if they use one of the protocols exploited by the protocol channel."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.8002,
+            "t": 459.2452850000001,
+            "r": 477.5388223394223,
+            "b": 384.5193050000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            528
+          ]
+        }
+      ],
+      "orig": "Another problem is the defragmentation as well as the loss of packets. If a packet is getting fragmented, the receiver receives it two times what means that the bit combination would be used twice and the receiver-side bit combination would be destroyed. The channel would end up desyncronized in this case too. The receiver could check for packets that include the 'More Fragments' flag of IPv4 as a solution for this problem. Lost packets create a hole in the bit combination what results in the same desyncronization problem.",
+      "text": "Another problem is the defragmentation as well as the loss of packets. If a packet is getting fragmented, the receiver receives it two times what means that the bit combination would be used twice and the receiver-side bit combination would be destroyed. The channel would end up desyncronized in this case too. The receiver could check for packets that include the 'More Fragments' flag of IPv4 as a solution for this problem. Lost packets create a hole in the bit combination what results in the same desyncronization problem."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.80020000000002,
+            "t": 365.3343476000001,
+            "r": 210.92640241920228,
+            "b": 355.1490374697144,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Conclusion",
+      "text": "Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.80020000000002,
+            "t": 342.2454850000001,
+            "r": 477.55099404051316,
+            "b": 267.5195050000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            514
+          ]
+        }
+      ],
+      "orig": "Protocol channels provide attackers a new way to send hidden information through networks. Even if a detection by network security monitoring systems is possible e.g. because of unusual protocols used by the attacker - a regeneration of the hidden data is as good as impossible since it would need information about the transfered data type, the way the sent protocol combinations are interpreted (e.g. big-endian or little-endian) and a recording of all sent packets to enable a regeneration of a channel's input.",
+      "text": "Protocol channels provide attackers a new way to send hidden information through networks. Even if a detection by network security monitoring systems is possible e.g. because of unusual protocols used by the attacker - a regeneration of the hidden data is as good as impossible since it would need information about the transfered data type, the way the sent protocol combinations are interpreted (e.g. big-endian or little-endian) and a recording of all sent packets to enable a regeneration of a channel's input."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.80020000000013,
+            "t": 248.33454760000018,
+            "r": 209.15536809061152,
+            "b": 238.14923746971442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.80020000000013,
+            "t": 225.12578500000018,
+            "r": 477.55124903858825,
+            "b": 205.23950500000012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "[OWENS02] M. Owens: A Discussion of Covert Channels and Steganography, SANS Institute, 2002.",
+      "text": "[OWENS02] M. Owens: A Discussion of Covert Channels and Steganography, SANS Institute, 2002.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 133.80010000000013,
+            "t": 199.3257850000001,
+            "r": 477.4265520558021,
+            "b": 168.39970500000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "[YADALI08] F. Yarochkin, S.-Y. Dai, C.-H. Lin, Y. Huang, S.-Y. Kuo: Towards Adaptive Covert Communication System, Dep. of Electrical Engineering, National Taiwan University, 2008.",
+      "text": "[YADALI08] F. Yarochkin, S.-Y. Dai, C.-H. Lin, Y. Huang, S.-Y. Kuo: Towards Adaptive Covert Communication System, Dep. of Electrical Engineering, National Taiwan University, 2008.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.12010000000015,
+            "t": 96.03621824000004,
+            "r": 308.10142000000013,
+            "b": 89.40110000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

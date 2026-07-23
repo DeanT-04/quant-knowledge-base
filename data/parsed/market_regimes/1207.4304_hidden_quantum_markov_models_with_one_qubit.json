@@ -1,0 +1,3136 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1207.4304_hidden_quantum_markov_models_with_one_qubit",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7854561835753879980,
+    "filename": "1207.4304_hidden_quantum_markov_models_with_one_qubit.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/84"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 575.86,
+            "r": 36.206559297218156,
+            "b": 222.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:1207.4304v1  [quant-ph]  18 Jul 2012",
+      "text": "arXiv:1207.4304v1  [quant-ph]  18 Jul 2012"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 160.945,
+            "t": 672.627457,
+            "r": 451.057368,
+            "b": 633.7936123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Hidden Quantum Markov Models with one qubit",
+      "text": "Hidden Quantum Markov Models with one qubit",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 109.65599999999998,
+            "t": 618.6200512,
+            "r": 501.84620000000007,
+            "b": 604.5402717061946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Ben O'Neill ∗ , Tom M. Barlow ∗ , Dominik Šafránek † and Almut Beige ∗",
+      "text": "Ben O'Neill ∗ , Tom M. Barlow ∗ , Dominik Šafránek † and Almut Beige ∗"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.73000000000008,
+            "t": 591.9021054,
+            "r": 492.2714243999997,
+            "b": 570.6412182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "∗ The School of Physics and Astronomy, University of Leeds, Leeds, LS2 9JT, United Kingdom † Czech Technical University in Prague, Bˇ rehová 1, 115 19 Praha 1, Czech Republic",
+      "text": "∗ The School of Physics and Astronomy, University of Leeds, Leeds, LS2 9JT, United Kingdom † Czech Technical University in Prague, Bˇ rehová 1, 115 19 Praha 1, Czech Republic"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.7400000000001,
+            "t": 551.5431940000001,
+            "r": 503.2589599999998,
+            "b": 476.8487743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            660
+          ]
+        }
+      ],
+      "orig": "Abstract. Hidden Markov Models (HMMs) have become very popular as a computational tool for the analysis of sequential data. They are memoryless machines which transition from one internal state to another, while producing symbols. These symbols constitute the output of the machine and form an infinite time series. Analogously, Hidden Quantum Markov Models (HQMM) produce an infinite time series, while progressing from one quantum state to another through stochastic quantum operations. Here we compare 1-bit HMMs and 1-qubit HQMMs and show that the latter can produce stronger correlations, although both machines are, in principle, comparable in resources.",
+      "text": "Abstract. Hidden Markov Models (HMMs) have become very popular as a computational tool for the analysis of sequential data. They are memoryless machines which transition from one internal state to another, while producing symbols. These symbols constitute the output of the machine and form an infinite time series. Analogously, Hidden Quantum Markov Models (HQMM) produce an infinite time series, while progressing from one quantum state to another through stochastic quantum operations. Here we compare 1-bit HMMs and 1-qubit HQMMs and show that the latter can produce stronger correlations, although both machines are, in principle, comparable in resources."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.7400000000001,
+            "t": 469.8491940000002,
+            "r": 154.87680060000014,
+            "b": 460.8928166000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Keywords:",
+      "text": "Keywords:"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 159.8580000000001,
+            "t": 469.4606526000002,
+            "r": 368.0863025999999,
+            "b": 460.9087743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Quantum Information Processing, Complex systems",
+      "text": "Quantum Information Processing, Complex systems"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.7400000000001,
+            "t": 458.8901940000002,
+            "r": 136.78471900000008,
+            "b": 449.93381660000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "PACS:",
+      "text": "PACS:"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 141.7660000000001,
+            "t": 458.50165260000017,
+            "r": 215.9176318000001,
+            "b": 449.9497743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "03.67.-a, 03.67.Ac",
+      "text": "03.67.-a, 03.67.Ac"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 250.4190000000001,
+            "t": 424.3799130000002,
+            "r": 361.5821690000001,
+            "b": 411.8409307000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "INTRODUCTION",
+      "text": "INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 96.78500000000011,
+            "t": 395.43983520000023,
+            "r": 515.2180560000002,
+            "b": 249.6865126796464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            847
+          ]
+        }
+      ],
+      "orig": "Hidden Markov Models (HMMs) are useful computational tools for the simulation of stochastic processes [1, 2, 3]. They are stochastic finite-state generators which can be used to model a wide range of situations. Applications include speech recognition, image analysis, and the modelling of biological systems. This paper concerns their quantum mechanical counterparts [4, 5, 6]. We especially discuss Hidden Quantum Markov Models (HQMMs) which have recently been introduced by Monras et al. [5]. Analogously to HMMs, we expect HQMMs to find a wide range of applications, including the simulation of quantum systems and the modelling of biological processes [7]. As shown in Ref. [5], HQMMs naturally encompass HMMs in the sense that they are able to simulate the same and even more complex output sequences with the same number of internal states.",
+      "text": "Hidden Markov Models (HMMs) are useful computational tools for the simulation of stochastic processes [1, 2, 3]. They are stochastic finite-state generators which can be used to model a wide range of situations. Applications include speech recognition, image analysis, and the modelling of biological systems. This paper concerns their quantum mechanical counterparts [4, 5, 6]. We especially discuss Hidden Quantum Markov Models (HQMMs) which have recently been introduced by Monras et al. [5]. Analogously to HMMs, we expect HQMMs to find a wide range of applications, including the simulation of quantum systems and the modelling of biological processes [7]. As shown in Ref. [5], HQMMs naturally encompass HMMs in the sense that they are able to simulate the same and even more complex output sequences with the same number of internal states."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 96.78500000000014,
+            "t": 246.39883520000035,
+            "r": 515.2170000000003,
+            "b": 127.7435126796463,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            706
+          ]
+        }
+      ],
+      "orig": "In the next section, we present a widely used and relatively intuitive definition of HMMs. Afterwards, we introduce HQMMs by following the ideas of Ref. [5]. For simplicity, we focus our attention on 1-bit and 1-qubit versions of these machines and assume output alphabets which contain only two symbols. These specific machines can be characterised relatively easily by a countable set of parameters which allows us to study their properties analytically and numerically. Calculating for example the maximum probabilities for certain words to occur, one can show that 1-qubit HQMMs are able to produce stronger correlations than 1-bit HMMs, although requiring, in principle, a similar amount of resources.",
+      "text": "In the next section, we present a widely used and relatively intuitive definition of HMMs. Afterwards, we introduce HQMMs by following the ideas of Ref. [5]. For simplicity, we focus our attention on 1-bit and 1-qubit versions of these machines and assume output alphabets which contain only two symbols. These specific machines can be characterised relatively easily by a countable set of parameters which allows us to study their properties analytically and numerically. Calculating for example the maximum probabilities for certain words to occur, one can show that 1-qubit HQMMs are able to produce stronger correlations than 1-bit HMMs, although requiring, in principle, a similar amount of resources."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 96.78500000000014,
+            "t": 67.74065260000032,
+            "r": 231.84796820000022,
+            "b": 59.188774392920664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Hidden Quantum Markov Models",
+      "text": "Hidden Quantum Markov Models"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 283.96232880000025,
+            "t": 67.74065260000032,
+            "r": 341.5262316,
+            "b": 59.188774392920664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "with one qubit",
+      "text": "with one qubit"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 393.6505548,
+            "t": 67.74065260000032,
+            "r": 458.11853939999986,
+            "b": 59.188774392920664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "October 9, 2018",
+      "text": "October 9, 2018"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 510.23289999999986,
+            "t": 67.74065260000032,
+            "r": 515.2141999999999,
+            "b": 59.188774392920664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 130.16444265322372,
+            "t": 594.5450878929602,
+            "r": 133.52362169050372,
+            "b": 587.6136960356802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 191.13285839999998,
+            "t": 638.58135497392,
+            "r": 194.96302380544,
+            "b": 628.6793382086935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "i",
+      "text": "i"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 420.67724894,
+            "t": 765.369012223652,
+            "r": 426.856482250304,
+            "b": 755.9590838721161,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "T",
+      "text": "T"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 426.86056225999994,
+            "t": 761.6650465366761,
+            "r": 429.852826247312,
+            "b": 755.078115581108,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "i",
+      "text": "i"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 423.70730612,
+            "t": 718.336747183652,
+            "r": 427.34712848086394,
+            "b": 708.926818832116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "i",
+      "text": "i"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 112.96009119999998,
+            "t": 703.2892773739201,
+            "r": 122.84726236287999,
+            "b": 693.3872606086935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "a)",
+      "text": "a)"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 122.67316985322368,
+            "t": 678.5690829739201,
+            "r": 131.89228891050368,
+            "b": 668.6670662086934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "X",
+      "text": "X"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 131.8978402532237,
+            "t": 674.6714198929601,
+            "r": 135.2570192905037,
+            "b": 667.7400280356801,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 244.64689919999995,
+            "t": 679.03288697392,
+            "r": 253.86601825727996,
+            "b": 669.1308702086934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "X",
+      "text": "X"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 253.8715696,
+            "t": 675.1352238929601,
+            "r": 257.23074863728,
+            "b": 668.2038320356802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 257.23554559999997,
+            "t": 675.1352238929601,
+            "r": 268.50555230048,
+            "b": 668.2038320356802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "+1",
+      "text": "+1"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 187.94434560000002,
+            "t": 688.07315337392,
+            "r": 194.44671942783998,
+            "b": 678.1711366086935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "T",
+      "text": "T"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 194.4510128,
+            "t": 684.17549029296,
+            "r": 197.59975602751996,
+            "b": 677.24409843568,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "i",
+      "text": "i"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 349.41939529999996,
+            "t": 702.112718623652,
+            "r": 359.403490846928,
+            "b": 692.702790272116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "b)",
+      "text": "b)"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 360.2980920857505,
+            "t": 680.193924343652,
+            "r": 365.7684065060025,
+            "b": 670.7839959921162,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ρ",
+      "text": "ρ"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 365.7687631457505,
+            "t": 676.4888965966761,
+            "r": 368.9610051718185,
+            "b": 669.9019656411081,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 476.21024222,
+            "t": 680.3990081296521,
+            "r": 481.68055664025195,
+            "b": 670.9890797781161,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ρ",
+      "text": "ρ"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 481.68091327999997,
+            "t": 676.6949362366761,
+            "r": 484.873155306068,
+            "b": 670.108005281108,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 484.87665182,
+            "t": 676.6949362366761,
+            "r": 495.586586784488,
+            "b": 670.108005281108,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "+1",
+      "text": "+1"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 419.7383879,
+            "t": 687.8855510606841,
+            "r": 427.79043678551596,
+            "b": 671.5648524578626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "K",
+      "text": "K"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 427.80048536,
+            "t": 683.948806036676,
+            "r": 430.792749347312,
+            "b": 677.3618750811081,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "i",
+      "text": "i"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 423.70730612,
+            "t": 640.620506683652,
+            "r": 427.34712848086394,
+            "b": 631.210578332116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "i",
+      "text": "i"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 112.96009119999998,
+            "t": 621.50889737392,
+            "r": 123.46630100288,
+            "b": 611.6068806086934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "b)",
+      "text": "b)"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 141.98199999999994,
+            "t": 614.889194,
+            "r": 470.01977879999976,
+            "b": 605.9328166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "FIGURE 1. Schematic view of the time evolution of a) HMMs and b) HQMMs.",
+      "text": "FIGURE 1. Schematic view of the time evolution of a) HMMs and b) HQMMs."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.40768505322372,
+            "t": 598.4438685739201,
+            "r": 130.16406736314372,
+            "b": 588.5418518086935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ρ",
+      "text": "ρ"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 195.4400888,
+            "t": 602.3951102929601,
+            "r": 198.58883202751997,
+            "b": 595.4637184356801,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "i",
+      "text": "i"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 246.38141439999998,
+            "t": 598.65967713392,
+            "r": 252.13779670992,
+            "b": 588.7576603686935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ρ",
+      "text": "ρ"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 252.138172,
+            "t": 594.76190229296,
+            "r": 255.49735103728,
+            "b": 587.8305104356801,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 255.50103040000005,
+            "t": 594.76190229296,
+            "r": 266.77103710048004,
+            "b": 587.8305104356801,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "+1",
+      "text": "+1"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 212.41199999999995,
+            "t": 576.801913,
+            "r": 399.59013399999986,
+            "b": 564.2629307,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "HIDDEN MARKOV MODELS",
+      "text": "HIDDEN MARKOV MODELS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 96.78499999999995,
+            "t": 556.80097497392,
+            "r": 515.2197792,
+            "b": 442.7555126796461,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            646
+          ]
+        }
+      ],
+      "orig": "i Hidden Markov Models (HMMs) are machines which transition from one state of a finite set S to another state, while producing a symbol of an output alphabet A [1, 2, 3]. Although the actual state Y ∈ S of the machine remains hidden, it fully determines the probability for the system to progress to a certain state X ∈ S and to generate a certain output symbol i ∈ A in the next time step (cf. Fig. 1.a). Different definitions of HMMs can be found in the literature. The HMMs which we consider here are known as Mealy (or transition-emitting) HMMs [2]. Mealy HMMs encompass Moore (or state-emitting) HMMs, i.e. they contain them as a subset [3].",
+      "text": "i Hidden Markov Models (HMMs) are machines which transition from one state of a finite set S to another state, while producing a symbol of an output alphabet A [1, 2, 3]. Although the actual state Y ∈ S of the machine remains hidden, it fully determines the probability for the system to progress to a certain state X ∈ S and to generate a certain output symbol i ∈ A in the next time step (cf. Fig. 1.a). Different definitions of HMMs can be found in the literature. The HMMs which we consider here are known as Mealy (or transition-emitting) HMMs [2]. Mealy HMMs encompass Moore (or state-emitting) HMMs, i.e. they contain them as a subset [3]."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 96.48599999999993,
+            "t": 439.4688352000001,
+            "r": 515.2192768000002,
+            "b": 333.0963845097347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            694
+          ]
+        }
+      ],
+      "orig": "For simplicity, we consider in the following 1-bit versions of transition-emitting HMMs. These produce either a 0 or a 1, while evolving between two states A and B . Concrete versions of 1-bit HMMs are fully characterised by eight conditional probabilities P ( X , i | Y ) . Given these probabilities, the probability to obtain the output symbol i at t + 1 equals Pt + 1 ( i ) = X = A , B Y = A , B P ( X , i | Y ) Pt ( Y ) , if the machine is in state Y at time t with probability Pt ( Y ) . Analogously, one can show that the probability to transition to X at t + 1 equals Pt + 1 ( X ) = i = 0 , 1 Y = A , B P ( X , i | Y ) Pt ( Y ) . Introducing the stochastic matrices T 0 and T 1 such that",
+      "text": "For simplicity, we consider in the following 1-bit versions of transition-emitting HMMs. These produce either a 0 or a 1, while evolving between two states A and B . Concrete versions of 1-bit HMMs are fully characterised by eight conditional probabilities P ( X , i | Y ) . Given these probabilities, the probability to obtain the output symbol i at t + 1 equals Pt + 1 ( i ) = X = A , B Y = A , B P ( X , i | Y ) Pt ( Y ) , if the machine is in state Y at time t with probability Pt ( Y ) . Analogously, one can show that the probability to transition to X at t + 1 equals Pt + 1 ( X ) = i = 0 , 1 Y = A , B P ( X , i | Y ) Pt ( Y ) . Introducing the stochastic matrices T 0 and T 1 such that"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 222.8110000000002,
+            "t": 324.0542080000002,
+            "r": 515.2157632000001,
+            "b": 297.9096464000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Ti ≡ ( P ( A , i | A ) P ( A , i | B ) P ( B , i | A ) P ( B , i | B ) ) , (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 96.7850000000002,
+            "t": 283.78540160000017,
+            "r": 515.2217936,
+            "b": 246.04251267964628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "the above probability Pt + 1 ( X ) can be written in a more compact way. Combining all of the above equations, one can show that the probability to find for example the word 10001 with the first letter being produced at t + 1 equals",
+      "text": "the above probability Pt + 1 ( X ) can be written in a more compact way. Combining all of the above equations, one can show that the probability to find for example the word 10001 with the first letter being produced at t + 1 equals"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 167.57000000000022,
+            "t": 235.1712080000002,
+            "r": 515.2157632000001,
+            "b": 207.81048480000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "Pt + 1 ,..., t + 5 ( 10001 ) = ( 1 1 ) T 1 T 0 T 0 T 0 T 1 ( Pt ( A ) Pt ( B ) ) , (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 96.7850000000002,
+            "t": 194.9024016000002,
+            "r": 518.7142020379999,
+            "b": 167.30702919271607,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "1 if the machine is at time t with probability Pt ( Y ) in Y . Moreover, one can show that the machine is at t + 1 in the statistical mixture described by",
+      "text": "1 if the machine is at time t with probability Pt ( Y ) in Y . Moreover, one can show that the machine is at t + 1 in the statistical mixture described by"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 207.01600000000028,
+            "t": 159.83720800000015,
+            "r": 515.2157632000003,
+            "b": 132.25438450973468,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "( Pt + 1 ( A ) Pt + 1 ( B ) ) = ( T 0 + T 1 ) ( Pt ( A ) Pt ( B ) ) , (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 96.78500000000042,
+            "t": 120.04683520000015,
+            "r": 346.7443216000005,
+            "b": 109.78451267964624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "when the respective output symbols are disregarded.",
+      "text": "when the respective output symbols are disregarded."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 96.78500000000042,
+            "t": 106.49783520000017,
+            "r": 515.2168000000004,
+            "b": 81.71738461538484,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "In summary, a Mealy HMM is a stochastic finite-state generator [4] which is characterised by a tuple { S , A , T } , where S denotes a finite set of states, A = { i } is a",
+      "text": "In summary, a Mealy HMM is a stochastic finite-state generator [4] which is characterised by a tuple { S , A , T } , where S denotes a finite set of states, A = { i } is a"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 186.9563872,
+            "t": 606.5377258126401,
+            "r": 195.42951473936,
+            "b": 589.3635428488591,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "K",
+      "text": "K"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 349.41939529999996,
+            "t": 779.8289591236521,
+            "r": 358.815215812928,
+            "b": 770.4190307721161,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "a)",
+      "text": "a)"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 358.64977496575045,
+            "t": 756.3372539836521,
+            "r": 367.4107427413185,
+            "b": 746.9273256321161,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "X",
+      "text": "X"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 367.4160182057505,
+            "t": 752.633288296676,
+            "r": 370.6082602318185,
+            "b": 746.0463573411081,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 474.56192509999994,
+            "t": 756.778008883652,
+            "r": 483.32289287556796,
+            "b": 747.368080532116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "X",
+      "text": "X"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 483.32816834,
+            "t": 753.0740431966761,
+            "r": 486.52041036606795,
+            "b": 746.4871122411081,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 486.52496893999995,
+            "t": 753.0740431966761,
+            "r": 497.23490390448796,
+            "b": 746.4871122411081,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "+1",
+      "text": "+1"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 96.78500000000042,
+            "t": 67.7406526000002,
+            "r": 231.8479682000005,
+            "b": 59.18877439292055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Hidden Quantum Markov Models",
+      "text": "Hidden Quantum Markov Models"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 283.96232880000053,
+            "t": 68.63777654992009,
+            "r": 341.5262316000003,
+            "b": 58.735759784693414,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "1 with one qubit",
+      "text": "1 with one qubit"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 393.6505548000003,
+            "t": 67.7406526000002,
+            "r": 458.11853940000015,
+            "b": 59.18877439292055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "October 9, 2018",
+      "text": "October 9, 2018"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 510.23290000000014,
+            "t": 67.7406526000002,
+            "r": 515.2142000000001,
+            "b": 59.18877439292055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.78499999999985,
+            "t": 703.24764,
+            "r": 515.2205439999999,
+            "b": 611.1045126796463,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            538
+          ]
+        }
+      ],
+      "orig": "countable alphabet of output symbols, while T = { Ti : i ∈ A } is a set of square substochastic matrices of the same dimension as S [4]. The machine undergoes transitions from one internal state to another. Each transition has an associated output symbol. The matrices Ti summarise the probabilities for certain transitions to occur and fully characterise the machine. As illustrated in Eq. (3), the sum T = i ∈ A Ti is a stochastic matrix which describes a Markovian evolution of the state space, when the output symbols are disregarded.",
+      "text": "countable alphabet of output symbols, while T = { Ti : i ∈ A } is a set of square substochastic matrices of the same dimension as S [4]. The machine undergoes transitions from one internal state to another. Each transition has an associated output symbol. The matrices Ti summarise the probabilities for certain transitions to occur and fully characterise the machine. As illustrated in Eq. (3), the sum T = i ∈ A Ti is a stochastic matrix which describes a Markovian evolution of the state space, when the output symbols are disregarded."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 174.35599999999985,
+            "t": 585.9479130000003,
+            "r": 437.6467328999998,
+            "b": 573.4089307000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "HIDDEN QUANTUM MARKOV MODELS",
+      "text": "HIDDEN QUANTUM MARKOV MODELS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.78499999999985,
+            "t": 557.0088352000004,
+            "r": 515.217,
+            "b": 464.18438450973497,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            526
+          ]
+        }
+      ],
+      "orig": "Let us now have a closer look at possible quantum versions of HMMs. For example, a quantum finite-state generator [4] which produces a similar output of 0's and 1's as a 1-bit HMM consists of a single qubit. The qubit evolves in time according to a unitary operator U and undergoes projective measurements. A straightforward generalisation of a quantum finite-state generator is a 1-qubit machine which experiences generalised quantum measurements [8]. These are, for example, described by two Kraus operators K 0 and K 1 with",
+      "text": "Let us now have a closer look at possible quantum versions of HMMs. For example, a quantum finite-state generator [4] which produces a similar output of 0's and 1's as a 1-bit HMM consists of a single qubit. The qubit evolves in time according to a unitary operator U and undergoes projective measurements. A straightforward generalisation of a quantum finite-state generator is a 1-qubit machine which experiences generalised quantum measurements [8]. These are, for example, described by two Kraus operators K 0 and K 1 with"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 253.50999999999988,
+            "t": 452.7301264000005,
+            "r": 515.2157632,
+            "b": 435.76838450973503,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "K † 0 K 0 + K † 1 K 1 = 1 . (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.78499999999988,
+            "t": 424.0874016000005,
+            "r": 515.22475456,
+            "b": 345.69651267964656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            528
+          ]
+        }
+      ],
+      "orig": "Suppose the qubit is at time t in a pure state | y t 〉 . Then it changes at t + 1 into | y t + 1 〉 = Ki | y t 〉 / ‖ · ‖ , if the output symbol i ∈ { 0 , 1 } is detected. The corresponding output probability is ‖ Ki | y t 〉‖ 2 . One way of implementing K 0 and K 1 in the laboratory is to entangle the qubit with an ancilla qubit. The ancilla subsequently undergoes a projective measurement which produces either a 0 or a 1. Before the next time step, the ancilla should be resetted, if we want to realise a memory-less machines.",
+      "text": "Suppose the qubit is at time t in a pure state | y t 〉 . Then it changes at t + 1 into | y t + 1 〉 = Ki | y t 〉 / ‖ · ‖ , if the output symbol i ∈ { 0 , 1 } is detected. The corresponding output probability is ‖ Ki | y t 〉‖ 2 . One way of implementing K 0 and K 1 in the laboratory is to entangle the qubit with an ancilla qubit. The ancilla subsequently undergoes a projective measurement which produces either a 0 or a 1. Before the next time step, the ancilla should be resetted, if we want to realise a memory-less machines."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.78499999999985,
+            "t": 342.4098352000006,
+            "r": 515.2201296,
+            "b": 250.85251267964668,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            541
+          ]
+        }
+      ],
+      "orig": "In order to obtain 1-qubit machines which cannot be outperformed by 1-bit HMMs, we need to consider the most general transformation which a qubit can undergo [5]. The general definition of Hidden Quantum Markov Models (HQMMs) by Monras et al. [5] hence involves complete sets of Kraus operators K . Each HQMM is characterised by a set { H , A , K } , where H is the Hilbert space of a quantum system, A is again a countable alphabet of output symbols, and K = { K m i : i ∈ A , 1 ≥ m ≥ Mi } is a complete set of Kraus operators [8] such that",
+      "text": "In order to obtain 1-qubit machines which cannot be outperformed by 1-bit HMMs, we need to consider the most general transformation which a qubit can undergo [5]. The general definition of Hidden Quantum Markov Models (HQMMs) by Monras et al. [5] hence involves complete sets of Kraus operators K . Each HQMM is characterised by a set { H , A , K } , where H is the Hilbert space of a quantum system, A is again a countable alphabet of output symbols, and K = { K m i : i ∈ A , 1 ≥ m ≥ Mi } is a complete set of Kraus operators [8] such that"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 249.09500000000003,
+            "t": 236.7765216000007,
+            "r": 515.2157632000001,
+            "b": 202.31153846153916,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "i ∈ A Mi m = 1 K m † i K m i = 1 . (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.78499999999997,
+            "t": 190.43764000000067,
+            "r": 515.216536,
+            "b": 131.1493845097351,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            385
+          ]
+        }
+      ],
+      "orig": "In each time step, an output symbol i ∈ A is generated which depends only on the input state r t of the machine. If the output symbol i ∈ A is recorded, then the machine transitions into Mi m = 1 K m i r tK m † i / Tr ( · ) . The corresponding output probability Pt + 1 ( i ) equals Mi m = 1 Tr ( K m i r tK m † i ) . If the output is ignored, the density matrix of the machine becomes",
+      "text": "In each time step, an output symbol i ∈ A is generated which depends only on the input state r t of the machine. If the output symbol i ∈ A is recorded, then the machine transitions into Mi m = 1 K m i r tK m † i / Tr ( · ) . The corresponding output probability Pt + 1 ( i ) equals Mi m = 1 Tr ( K m i r tK m † i ) . If the output is ignored, the density matrix of the machine becomes"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 238.73899999999998,
+            "t": 118.94352160000062,
+            "r": 515.2157632,
+            "b": 84.47853846153907,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "r t + 1 = i ∈ A Mi m = 1 K m i r tK m † i (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 96.78500000000003,
+            "t": 67.74065260000066,
+            "r": 231.8479682000001,
+            "b": 59.188774392921005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Hidden Quantum Markov Models",
+      "text": "Hidden Quantum Markov Models"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 283.96232880000014,
+            "t": 67.74065260000066,
+            "r": 341.5262315999999,
+            "b": 59.188774392921005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "with one qubit",
+      "text": "with one qubit"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 393.6505547999999,
+            "t": 67.74065260000066,
+            "r": 458.11853939999975,
+            "b": 59.188774392921005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "October 9, 2018",
+      "text": "October 9, 2018"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 510.23289999999974,
+            "t": 67.74065260000066,
+            "r": 515.2141999999998,
+            "b": 59.188774392921005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.785,
+            "t": 703.0444016,
+            "r": 515.2170000000001,
+            "b": 638.2035126796461,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            429
+          ]
+        }
+      ],
+      "orig": "at t + 1, as illustrated in Fig. 1.b. For example, one way of realising a 1-qubit HQMM is to select a set of Kraus operators { K 0 , K 1 } which fulfills Eq. (4) with a certain classical probability and to apply the corresponding Kraus operation K to the qubit. This means, HQMMs have been defined such that they can exploit quantum coherences as well as classical stochastic processes to generate relatively complex time series.",
+      "text": "at t + 1, as illustrated in Fig. 1.b. For example, one way of realising a 1-qubit HQMM is to select a set of Kraus operators { K 0 , K 1 } which fulfills Eq. (4) with a certain classical probability and to apply the corresponding Kraus operation K to the qubit. This means, HQMMs have been defined such that they can exploit quantum coherences as well as classical stochastic processes to generate relatively complex time series."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 258.09000000000003,
+            "t": 613.0459130000002,
+            "r": 353.91069899999997,
+            "b": 600.5069307000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "COMPARISON",
+      "text": "COMPARISON",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.78499999999997,
+            "t": 584.1068352000002,
+            "r": 515.2201551999999,
+            "b": 492.54951267964634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            544
+          ]
+        }
+      ],
+      "orig": "The time evolution of HMMs and HQMMs is Markovian. This means, the states and output symbols of these machines depend only on the respective state of the machine in the previous time step. However, a 1-qubit HQMM can be prepared in a huge variety of states, while a 1-bit HMM is always either in A or B . The state of a 1-qubit HQMM hence depends in general in a more complex way on the history of the machine. We therefore expect that HQMMs are able to produce more complex time series than HMMs, even when using a similar amount of resources.",
+      "text": "The time evolution of HMMs and HQMMs is Markovian. This means, the states and output symbols of these machines depend only on the respective state of the machine in the previous time step. However, a 1-qubit HQMM can be prepared in a huge variety of states, while a 1-bit HMM is always either in A or B . The state of a 1-qubit HQMM hence depends in general in a more complex way on the history of the machine. We therefore expect that HQMMs are able to produce more complex time series than HMMs, even when using a similar amount of resources."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.78499999999997,
+            "t": 489.2628352000004,
+            "r": 515.2170000000001,
+            "b": 370.60651267964647,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            701
+          ]
+        }
+      ],
+      "orig": "It has already been shown that HQMMs encompass HMMs [5]. This means, they are able to simulate the same output sequences as HMMs with the same number of internal states. However, it is not known how much more efficient HQMMs are in producing long-range correlations. To show that HQMMs are indeed more efficient, we recently determined the maximum probability for HQMMs and for HMMs to generate words of the form 100...0001 as a function of the words length. As reported in Ref. [9], we found that 1-qubit HQMMs are able to produce stronger correlations than 1-bit HMMs. However, a systematic study of the efficiency and the information theoretic and physical properties of HQMMs is still outstanding.",
+      "text": "It has already been shown that HQMMs encompass HMMs [5]. This means, they are able to simulate the same output sequences as HMMs with the same number of internal states. However, it is not known how much more efficient HQMMs are in producing long-range correlations. To show that HQMMs are indeed more efficient, we recently determined the maximum probability for HQMMs and for HMMs to generate words of the form 100...0001 as a function of the words length. As reported in Ref. [9], we found that 1-qubit HQMMs are able to produce stronger correlations than 1-bit HMMs. However, a systematic study of the efficiency and the information theoretic and physical properties of HQMMs is still outstanding."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 229.23999999999998,
+            "t": 345.4499130000005,
+            "r": 382.7623339,
+            "b": 332.91093070000045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "ACKNOWLEDGMENTS",
+      "text": "ACKNOWLEDGMENTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.78499999999997,
+            "t": 316.5098352000005,
+            "r": 474.35412640000004,
+            "b": 306.2475126796465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "T. B. acknowledges financial support from a White Rose Studentship Network.",
+      "text": "B. acknowledges financial support from a White Rose Studentship Network.",
+      "enumerated": true,
+      "marker": "T."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 259.115,
+            "t": 281.0909130000005,
+            "r": 352.88538710000006,
+            "b": 268.5519307000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.785,
+            "t": 253.8331940000005,
+            "r": 284.2707915999999,
+            "b": 244.87681660000044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "1. L. R. Rabiner, Proc. IEEE 77 , 257 (1989).",
+      "text": "L. R. Rabiner, Proc. IEEE 77 , 257 (1989).",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.785,
+            "t": 242.87419400000044,
+            "r": 473.1397915999999,
+            "b": 233.9178166000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "2. H. Xue, IEEE Transactions on Pattern Analysis and Machine Intelligence 28 , 458 (2006).",
+      "text": "H. Xue, IEEE Transactions on Pattern Analysis and Machine Intelligence 28 , 458 (2006).",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.78500000000003,
+            "t": 231.9151940000005,
+            "r": 470.4107916,
+            "b": 222.95881660000055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "3. B. Vanluyten, J. C. Willems, and B. D. Moor, Systems & Control Letters 57 , 410 (2008).",
+      "text": "B. Vanluyten, J. C. Willems, and B. D. Moor, Systems & Control Letters 57 , 410 (2008).",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.78500000000008,
+            "t": 220.95619400000044,
+            "r": 366.4120916,
+            "b": 211.99981660000049,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "4. K. Wiesner and C. P. Crutchfield, Physica D 237 , 1173 (2008).",
+      "text": "K. Wiesner and C. P. Crutchfield, Physica D 237 , 1173 (2008).",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.78500000000011,
+            "t": 209.9971940000005,
+            "r": 457.0814916000001,
+            "b": 201.04081660000043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "5. A. Monras, A. Beige, and K. Wiesner, Appl. Math. and Comp. Sciences 3 , 93 (2011).",
+      "text": "A. Monras, A. Beige, and K. Wiesner, Appl. Math. and Comp. Sciences 3 , 93 (2011).",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.7850000000002,
+            "t": 198.82897940000043,
+            "r": 515.2156500000001,
+            "b": 179.1397743929208,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "6. P. Gmeiner, Equality conditions for internal entropies of certain classical and quantum models , arXiv:1108.5303 (2011).",
+      "text": "P. Gmeiner, Equality conditions for internal entropies of certain classical and quantum models , arXiv:1108.5303 (2011).",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.78500000000015,
+            "t": 177.12119400000051,
+            "r": 409.39079160000006,
+            "b": 168.16481660000045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "7. N. Goldenfeld and C. Woese, Ann. Rev. Cond. Matt. Phys. 2 , 375 (2011).",
+      "text": "N. Goldenfeld and C. Woese, Ann. Rev. Cond. Matt. Phys. 2 , 375 (2011).",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.78500000000014,
+            "t": 165.95297940000046,
+            "r": 515.2150536,
+            "b": 146.26277439292085,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "8. K. Kraus, Operations and Effects in the Hilbert Space Formulation of Quantum Theory , Springer (1974).",
+      "text": "K. Kraus, Operations and Effects in the Hilbert Space Formulation of Quantum Theory , Springer (1974).",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.78500000000015,
+            "t": 144.03497940000045,
+            "r": 511.77653579999986,
+            "b": 135.3037743929208,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "9. B. O'Neill, Hidden Quantum Markov Models , final year project report, University of Leeds (2012).",
+      "text": "B. O'Neill, Hidden Quantum Markov Models , final year project report, University of Leeds (2012).",
+      "enumerated": true,
+      "marker": "9."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.78500000000017,
+            "t": 67.74065260000043,
+            "r": 231.84796820000025,
+            "b": 59.18877439292078,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Hidden Quantum Markov Models",
+      "text": "Hidden Quantum Markov Models"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 283.96232880000025,
+            "t": 67.74065260000043,
+            "r": 341.5262316,
+            "b": 59.18877439292078,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "with one qubit",
+      "text": "with one qubit"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 393.6505548,
+            "t": 67.74065260000043,
+            "r": 458.11853939999986,
+            "b": 59.18877439292078,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "October 9, 2018",
+      "text": "October 9, 2018"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 510.23289999999986,
+            "t": 67.74065260000043,
+            "r": 515.2141999999999,
+            "b": 59.18877439292078,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 111.43701171875,
+            "t": 705.9074478149414,
+            "r": 502.6186828613281,
+            "b": 630.9417877197266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    }
+  }
+}

@@ -1,0 +1,3825 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1305.0321_hidden_markov_model_identifiability_via_tensors",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8241188037185111909,
+    "filename": "1305.0321_hidden_markov_model_identifiability_via_tensors.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/groups/1"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 587.6200000000001,
+            "r": 36.206559297218156,
+            "b": 261.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "arXiv:1305.0321v1  [cs.IT]  2 May 2013",
+      "text": "arXiv:1305.0321v1  [cs.IT]  2 May 2013",
+      "hyperlink": "http://arxiv.org/abs/1305.0321v1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.4398,
+            "t": 729.5886848,
+            "r": 547.6220466892802,
+            "b": 708.7309742289898,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Hidden Markov Model Identifiability via Tensors",
+      "text": "Hidden Markov Model Identifiability via Tensors",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 188.6398,
+            "t": 689.5745918,
+            "r": 423.5588034998616,
+            "b": 680.0148368658857,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Paul Tune, Hung X. Nguyen and Matthew Roughan",
+      "text": "Paul Tune, Hung X. Nguyen and Matthew Roughan"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 187.31988,
+            "t": 676.31506768,
+            "r": 424.89124394059996,
+            "b": 667.6243782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "School of Mathematical Sciences, University of Adelaide,",
+      "text": "School of Mathematical Sciences, University of Adelaide,"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 256.19998,
+            "t": 663.95526768,
+            "r": 355.89072119985434,
+            "b": 655.2645782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Adelaide, SA, Australia.",
+      "text": "Adelaide, SA, Australia."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 165.83977999999996,
+            "t": 652.4717800000001,
+            "r": 446.8208921196651,
+            "b": 642.50914,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "Email: { paul.tune, hung.nguyen, matthew.roughan } @adelaide.edu.au",
+      "text": "Email: { paul.tune, hung.nguyen, matthew.roughan } @adelaide.edu.au"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96055999999996,
+            "t": 612.5411728800001,
+            "r": 300.185881181423,
+            "b": 475.0747868741435,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            875
+          ]
+        }
+      ],
+      "orig": "Abstract -The prevalence of hidden Markov models (HMMs) in various applications of statistical signal processing and communications is a testament to the power and flexibility of the model. In this paper, we link the identifiability problem with tensor decomposition, in particular, the Canonical Polyadic decomposition. Using recent results in deriving uniqueness conditions for tensor decomposition, we are able to provide a necessary and sufficient condition for the identification of the parameters of discrete time finite alphabet HMMs. This result resolves a long standing open problem regarding the derivation of a necessary and sufficient condition for uniquely identifying an HMM. We then further extend recent preliminary work on the identification of HMMs with multiple observers by deriving necessary and sufficient conditions for identifiability in this setting.",
+      "text": "Abstract -The prevalence of hidden Markov models (HMMs) in various applications of statistical signal processing and communications is a testament to the power and flexibility of the model. In this paper, we link the identifiability problem with tensor decomposition, in particular, the Canonical Polyadic decomposition. Using recent results in deriving uniqueness conditions for tensor decomposition, we are able to provide a necessary and sufficient condition for the identification of the parameters of discrete time finite alphabet HMMs. This result resolves a long standing open problem regarding the derivation of a necessary and sufficient condition for uniquely identifying an HMM. We then further extend recent preliminary work on the identification of HMMs with multiple observers by deriving necessary and sufficient conditions for identifiability in this setting."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 135.60035999999997,
+            "t": 462.83601768000005,
+            "r": 213.23366376326302,
+            "b": 454.14532820415815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "I. INTRODUCTION",
+      "text": "I. INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96048999999997,
+            "t": 446.1559176800001,
+            "r": 300.22385758948354,
+            "b": 270.185028204158,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            855
+          ]
+        }
+      ],
+      "orig": "The hidden Markov model (HMM) was first introduced in the late 1950s by Blackwell and Koopmans [4] and generalised later by Baum and Petrie [2]. HMMs have been applied to a variety of domains, such as signal processing, machine learning, communications and many more, with particular emphasis on the inference of the parameters of the HMM, in particular, the hidden states of the system. Typically, an unbiased, or asymptotically unbiased, estimator such as a maximum likelihood estimator, is used to infer these states, using algorithms such as the famed Baum-Welch algorithm [3]. However, identifiability conditions, required to ensure the existence of an unbiased estimator, are generally not wellknown, with only a select number of works proposing these conditions [1], [6], [7]. These conditions are probabilistic and difficult to verify in practice.",
+      "text": "The hidden Markov model (HMM) was first introduced in the late 1950s by Blackwell and Koopmans [4] and generalised later by Baum and Petrie [2]. HMMs have been applied to a variety of domains, such as signal processing, machine learning, communications and many more, with particular emphasis on the inference of the parameters of the HMM, in particular, the hidden states of the system. Typically, an unbiased, or asymptotically unbiased, estimator such as a maximum likelihood estimator, is used to infer these states, using algorithms such as the famed Baum-Welch algorithm [3]. However, identifiability conditions, required to ensure the existence of an unbiased estimator, are generally not wellknown, with only a select number of works proposing these conditions [1], [6], [7]. These conditions are probabilistic and difficult to verify in practice."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96049000000002,
+            "t": 266.6359176799999,
+            "r": 300.3954989227607,
+            "b": 102.545128204158,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            820
+          ]
+        }
+      ],
+      "orig": "In this paper, we derive an identifiability condition for a stationary discrete time HMM, where the observations are the realisations of a probabilistic function. We show a strong connection between the identifiability of HMMs and the uniqueness of the Canonical Polyadic (CP) tensor decomposition (see [9]). Specifically through a tensor model called the restricted CP model, we derive a necessary and sufficient condition by using a result by Kruskal [10], called the permutation lemma. Our main result resolves an open problem regarding the derivation of a necessary and sufficient condition for uniquely identifying an HMM. A highlight of our results is that the condition is deterministic, compared to generic (probabilisitic) identifiability results. They are also easier to verify compared to previous conditions.",
+      "text": "In this paper, we derive an identifiability condition for a stationary discrete time HMM, where the observations are the realisations of a probabilistic function. We show a strong connection between the identifiability of HMMs and the uniqueness of the Canonical Polyadic (CP) tensor decomposition (see [9]). Specifically through a tensor model called the restricted CP model, we derive a necessary and sufficient condition by using a result by Kruskal [10], called the permutation lemma. Our main result resolves an open problem regarding the derivation of a necessary and sufficient condition for uniquely identifying an HMM. A highlight of our results is that the condition is deterministic, compared to generic (probabilisitic) identifiability results. They are also easier to verify compared to previous conditions."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.96049000000002,
+            "t": 98.9956176799999,
+            "r": 300.2750355686513,
+            "b": 66.42482820415808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.00009,
+            "t": 613.07551768,
+            "r": 563.409228128498,
+            "b": 484.86482820415813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            175,
+            818
+          ]
+        }
+      ],
+      "orig": "These results are particularly helpful in studying the recently proposed multi-observer HMMs [11], [12]. We consider two settings: the homogeneous setting where all observers possess the same observation matrix, and the heterogeneous setting, where at least two observers have distinct observation matrices. Surprisingly, the condition for identifiability in the homogeneous setting is equivalent to having just a single observer of the HMM. Thus, if the HMM cannot be identified with a single observer, no additional number of independent homogeneous observers can hope to identify the hidden states. The heterogeneous setting is shown to provide a significant advantage over the homogeneous setting, due to sufficient variability of the observations, contributed by different viewpoints of the independent observers.",
+      "text": "These results are particularly helpful in studying the recently proposed multi-observer HMMs [11], [12]. We consider two settings: the homogeneous setting where all observers possess the same observation matrix, and the heterogeneous setting, where at least two observers have distinct observation matrices. Surprisingly, the condition for identifiability in the homogeneous setting is equivalent to having just a single observer of the HMM. Thus, if the HMM cannot be identified with a single observer, no additional number of independent homogeneous observers can hope to identify the hidden states. The heterogeneous setting is shown to provide a significant advantage over the homogeneous setting, due to sufficient variability of the observations, contributed by different viewpoints of the independent observers."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.00025000000005,
+            "t": 480.95551768,
+            "r": 563.3578693435721,
+            "b": 364.744428204158,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            572
+          ]
+        }
+      ],
+      "orig": "The rest of this section introduces the notation used throughout the paper. Section II formulates our problem and defines the HMM. Section III provides an overview of the CP decomposition and some important results in tensor decomposition that we will invoke when proving our results. Section IV derives the identifiability condition of HMMs with only one observer present. Section V further extends our framework to the multi-observer setting. Finally, we conclude and outline some future work in Section VI. We defer proofs and more details to our technical report [16].",
+      "text": "The rest of this section introduces the notation used throughout the paper. Section II formulates our problem and defines the HMM. Section III provides an overview of the CP decomposition and some important results in tensor decomposition that we will invoke when proving our results. Section IV derives the identifiability condition of HMMs with only one observer present. Section V further extends our framework to the multi-observer setting. Finally, we conclude and outline some future work in Section VI. We defer proofs and more details to our technical report [16]."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.00025000000005,
+            "t": 360.8351176799999,
+            "r": 563.264109953114,
+            "b": 256.50452820415785,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            506
+          ]
+        }
+      ],
+      "orig": "Some notation and definitions are in order. All vectors and matrices are represented with lower and upper case boldface fonts respectively. Sets are represented with calligraphic font. Random variables are represented with italic fonts while their realisation is represented by lower case italic fonts. Tensors are represented by upper case, calligraphic boldface fonts. Let I n be the identity matrix of size n × n , while 1 n denotes a column vector of n ones. supp( x ) denotes the support of vector x .",
+      "text": "Some notation and definitions are in order. All vectors and matrices are represented with lower and upper case boldface fonts respectively. Sets are represented with calligraphic font. Random variables are represented with italic fonts while their realisation is represented by lower case italic fonts. Tensors are represented by upper case, calligraphic boldface fonts. Let I n be the identity matrix of size n × n , while 1 n denotes a column vector of n ones. supp( x ) denotes the support of vector x ."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.00063,
+            "t": 252.71511767999982,
+            "r": 563.3714214986057,
+            "b": 184.26467620415792,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            357
+          ]
+        }
+      ],
+      "orig": "The Kronecker, or tensor, product between two matrices A ∈ R m × n and B ∈ R p × q is denoted by A ⊗ B ∈ R mp × nq . We also define a row-wise tensor product, which we borrow from [1], where with matrices A ∈ R m × n 1 and B ∈ R m × n 2 with rows a 1 , a 2 , · · · , a m and b 1 , b 2 , · · · , b m respectively, the row-wise tensor product is equivalent to",
+      "text": "The Kronecker, or tensor, product between two matrices A ∈ R m × n and B ∈ R p × q is denoted by A ⊗ B ∈ R mp × nq . We also define a row-wise tensor product, which we borrow from [1], where with matrices A ∈ R m × n 1 and B ∈ R m × n 2 with rows a 1 , a 2 , · · · , a m and b 1 , b 2 , · · · , b m respectively, the row-wise tensor product is equivalent to"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 381.36128,
+            "t": 174.51830359999974,
+            "r": 493.68070128000005,
+            "b": 120.8257815999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "A ⊗ row B =      a 1 ⊗ b 1 a 2 ⊗ b 2 . . . a m ⊗ b m      .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.0010500000001,
+            "t": 110.99513567999975,
+            "r": 563.2227348286486,
+            "b": 66.42434620415793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "This definition is related to the Khatri-Rao product, which is the column-wise tensor product. Note that for row vectors a and b , a ⊗ row b = a ⊗ b . All other notation will be defined on an as needed basis.",
+      "text": "This definition is related to the Khatri-Rao product, which is the column-wise tensor product. Note that for row vectors a and b , a ⊗ row b = a ⊗ b . All other notation will be defined on an as needed basis."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 108.48,
+            "t": 732.59526768,
+            "r": 240.59110895842605,
+            "b": 723.9045782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "II. HIDDEN MARKOV MODELS",
+      "text": "II. HIDDEN MARKOV MODELS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.959890000000115,
+            "t": 712.55546768,
+            "r": 300.33101463804,
+            "b": 595.82924,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            590
+          ]
+        }
+      ],
+      "orig": "Throughout the paper, we only consider the discrete time finite alphabet HMM. Time is organised into regularly spaced discrete intervals. Let { X t } t ≥ 1 be the non-observable states of an irreducible, aperiodic Markov chain and { Y t } t ≥ 1 be the observable states, both at time t , called an observation process . Thus, { X t } t ≥ 1 constitutes the hidden Markov chain, as it cannot be directly measured. Without loss of generality, let the alphabets of X t and Y t be the sets X = { 1 , 2 , · · · , q } and Y = { 1 , 2 , · · · , κ } respectively. We further assume q ≥ 2 and κ ≥ 2 .",
+      "text": "Throughout the paper, we only consider the discrete time finite alphabet HMM. Time is organised into regularly spaced discrete intervals. Let { X t } t ≥ 1 be the non-observable states of an irreducible, aperiodic Markov chain and { Y t } t ≥ 1 be the observable states, both at time t , called an observation process . Thus, { X t } t ≥ 1 constitutes the hidden Markov chain, as it cannot be directly measured. Without loss of generality, let the alphabets of X t and Y t be the sets X = { 1 , 2 , · · · , q } and Y = { 1 , 2 , · · · , κ } respectively. We further assume q ≥ 2 and κ ≥ 2 ."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95962000000013,
+            "t": 592.9520800000001,
+            "r": 300.1974504370477,
+            "b": 511.7447782041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            386
+          ]
+        }
+      ],
+      "orig": "We assume { X t } t ≥ 1 is stationary for simplicity of exposition, although our results apply to non-stationary Markov chains as well, with appropriate modifications. The observations { Y t } t ≥ 1 are assumed to be i.i.d. with Y t only dependent on X t . The HMM is described by the joint process ( X t , Y t ) ∈ X × Y for all t = 1 , 2 , · · · , N , in terms of the state space model",
+      "text": "We assume { X t } t ≥ 1 is stationary for simplicity of exposition, although our results apply to non-stationary Markov chains as well, with appropriate modifications. The observations { Y t } t ≥ 1 are assumed to be i.i.d. with Y t only dependent on X t . The HMM is described by the joint process ( X t , Y t ) ∈ X × Y for all t = 1 , 2 , · · · , N , in terms of the state space model"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 115.19968000000011,
+            "t": 498.4236612000002,
+            "r": 233.63891128000014,
+            "b": 488.3950048968002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "X t +1 = f ( X t ) , Y t = g ( X t ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95724000000018,
+            "t": 475.5554676800002,
+            "r": 300.22181135033276,
+            "b": 311.4646782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            886
+          ]
+        }
+      ],
+      "orig": "with the initial state described by an initial random variable X 1 , from an initial distribution Pr( X 1 = i ) = π i , denoted by the q -length row vector π . The function f ( · ) is probabilistic, and obeys the q × q transition matrix A , where its ( i, j ) -th element is a i,j := Pr( X t +1 = j | X t = i ) . The function g ( · ) may be deterministic, but here, we consider it a probabilistic function, with the transition of observation states described by the q × κ observation matrix B , where the ( i, j ) -th element is b i,j := Pr( Y t = j | X t = i ) . The function g ( · ) is assumed to be surjective. Since the Markov chain is assumed to be stationary, the observation process { Y t } t ≥ 1 is stationary as well. Also, the observation process { Y t } t ≥ 1 may not be a Markov chain in general, even though the input process is. We are now in a position to formalise HMMs.",
+      "text": "with the initial state described by an initial random variable X 1 , from an initial distribution Pr( X 1 = i ) = π i , denoted by the q -length row vector π . The function f ( · ) is probabilistic, and obeys the q × q transition matrix A , where its ( i, j ) -th element is a i,j := Pr( X t +1 = j | X t = i ) . The function g ( · ) may be deterministic, but here, we consider it a probabilistic function, with the transition of observation states described by the q × κ observation matrix B , where the ( i, j ) -th element is b i,j := Pr( Y t = j | X t = i ) . The function g ( · ) is assumed to be surjective. Since the Markov chain is assumed to be stationary, the observation process { Y t } t ≥ 1 is stationary as well. Also, the observation process { Y t } t ≥ 1 may not be a Markov chain in general, even though the input process is. We are now in a position to formalise HMMs."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95721000000019,
+            "t": 303.4752676800001,
+            "r": 300.07431319093996,
+            "b": 282.3893400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "Definition 1: A discrete time finite alphabet HMM is parameterised by the set λ = { π ; q, κ, A , B } :",
+      "text": "Definition 1: A discrete time finite alphabet HMM is parameterised by the set λ = { π ; q, κ, A , B } :"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.91733000000016,
+            "t": 276.0741721600001,
+            "r": 300.1014109240986,
+            "b": 255.0646782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "· π : initial state probabilities, which may or may not be sampled from a stationary distribution,",
+      "text": "π : initial state probabilities, which may or may not be sampled from a stationary distribution,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.91733000000016,
+            "t": 252.75198000000012,
+            "r": 261.80756000000014,
+            "b": 242.41749460000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "· q : number of hidden states of X t , i.e. |X| = q ,",
+      "text": "q : number of hidden states of X t , i.e. |X| = q ,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.91690000000014,
+            "t": 240.75198000000012,
+            "r": 286.28714000000014,
+            "b": 230.41749460000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "· κ : number of observation states of Y t , i.e. |Y| = κ ,",
+      "text": "κ : number of observation states of Y t , i.e. |Y| = κ ,",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.91648000000015,
+            "t": 228.75198000000012,
+            "r": 280.0180706048513,
+            "b": 218.41749460000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "· A : q × q transition matrix of hidden states X t , and",
+      "text": "A : q × q transition matrix of hidden states X t , and",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.916740000000175,
+            "t": 216.87188000000015,
+            "r": 295.5270400000002,
+            "b": 206.53739460000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "· B : q × κ observation matrix of observation process Y t .",
+      "text": "B : q × κ observation matrix of observation process Y t .",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.956510000000264,
+            "t": 196.31506768000008,
+            "r": 300.24612251210976,
+            "b": 139.4693400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            265
+          ]
+        }
+      ],
+      "orig": "One way of measuring the complexity of the HMM is by the number of states required to describe the Markov chain. The order of an HMM is minimum of |X| amongst all representations [6]. An HMM is minimal if it has a representation such that |X| is equal to its order.",
+      "text": "One way of measuring the complexity of the HMM is by the number of states required to describe the Markov chain. The order of an HMM is minimum of |X| amongst all representations [6]. An HMM is minimal if it has a representation such that |X| is equal to its order."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.955940000000226,
+            "t": 136.14346120000005,
+            "r": 300.07338750953994,
+            "b": 79.26463820415825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            277
+          ]
+        }
+      ],
+      "orig": "An observation letter y t is defined as a single realisation of the observation process at time t . A sequence from time t 1 to t 2 is defined as a series of consecutive observation letters from time t 1 to t 2 . A sequence has length N if it consists of N observation letters.",
+      "text": "An observation letter y t is defined as a single realisation of the observation process at time t . A sequence from time t 1 to t 2 is defined as a series of consecutive observation letters from time t 1 to t 2 . A sequence has length N if it consists of N observation letters."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.915710000000225,
+            "t": 75.11512768000011,
+            "r": 300.2183235371609,
+            "b": 66.42443820415826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99571000000026,
+            "t": 733.4718400000002,
+            "r": 460.01669252841657,
+            "b": 722.9948648968001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            56,
+            99
+          ]
+        }
+      ],
+      "orig": "The joint probability of a particular observed sequence y 1 , y 2 , · · · , y N may be described by",
+      "text": "The joint probability of a particular observed sequence y 1 , y 2 , · · · , y N may be described by"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 321.5956600000003,
+            "t": 714.6320400000002,
+            "r": 563.1129413274074,
+            "b": 661.6746928968,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "P λ ( Y 1 = y 1 , Y 2 = y 2 , · · · , Y N = y N ) = ∑ x ∈X N π x 1 a x 1 ,x 2 b x 1 ,y 1 a x 2 ,x 3 b x 2 ,y 2 · · · a x N -1 ,x N b x N ,y N = π WE ( y 1 ) WE ( y 2 ) · · · WE ( y N ) 1 q , (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9951400000002,
+            "t": 653.3118580000001,
+            "r": 563.09632638938,
+            "b": 631.8647562041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "where E ( k ) is a κq × q matrix with the q × q identity matrix in the k -th row partition, and",
+      "text": "where E ( k ) is a κq × q matrix with the q × q identity matrix in the k -th row partition, and"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 320.9951600000002,
+            "t": 623.9143006000002,
+            "r": 554.0350612800001,
+            "b": 605.6258916000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "W = B ⊗ row A = [ D 1 ( B ) A D 2 ( B ) A · · · D κ ( B ) A ] ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9953700000001,
+            "t": 603.1838392000002,
+            "r": 563.0966755826358,
+            "b": 582.1846562041584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "where D k ( B ) denotes the diagonal matrix with the k -th column of B lying on its diagonal.",
+      "text": "where D k ( B ) denotes the diagonal matrix with the k -th column of B lying on its diagonal."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99527000000006,
+            "t": 571.7055819200002,
+            "r": 492.1510817077813,
+            "b": 563.1330438116547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "A. Equivalence and identifiability of HMMs",
+      "text": "A. Equivalence and identifiability of HMMs",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9955140000001,
+            "t": 557.4321580000003,
+            "r": 563.3789976615243,
+            "b": 488.10455620415837,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            343
+          ]
+        }
+      ],
+      "orig": "The observation process { Y t } t ≥ 1 is assumed to admit a representation of a Markov chain with q states. It is possible to construct an HMM with more states that generates the same observation process. Let the process be alternatively parameterised by the set ˜ λ = { ˜ π ; ˜ q, ˜ κ, ˜ A , ˜ B } . Equivalence of HMMs is defined as follows:",
+      "text": "The observation process { Y t } t ≥ 1 is assumed to admit a representation of a Markov chain with q states. It is possible to construct an HMM with more states that generates the same observation process. Let the process be alternatively parameterised by the set ˜ λ = { ˜ π ; ˜ q, ˜ κ, ˜ A , ˜ B } . Equivalence of HMMs is defined as follows:"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.994696,
+            "t": 487.67382072000026,
+            "r": 563.1904107717754,
+            "b": 451.3148828968002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "Definition 2: Two HMMs with parameterisations λ and ˜ λ respectively are equivalent if and only if for all sequences y 1 , y 2 , · · · , y N ,",
+      "text": "Definition 2: Two HMMs with parameterisations λ and ˜ λ respectively are equivalent if and only if for all sequences y 1 , y 2 , · · · , y N ,"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 338.754906,
+            "t": 442.83205800000025,
+            "r": 536.1546712799999,
+            "b": 416.3162618000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "P λ ( Y 1 = y 1 , Y 2 = y 2 , · · · , Y N = y N ) = P ˜ λ ( ˜ Y 1 = y 1 , ˜ Y 2 = y 2 , · · · , ˜ Y N = y N ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99501999999995,
+            "t": 408.27195800000027,
+            "r": 405.68562,
+            "b": 398.3093180000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "for any integer N ≥ 1 .",
+      "text": "for any integer N ≥ 1 ."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99526,
+            "t": 395.3952456800003,
+            "r": 563.3786669418645,
+            "b": 303.0646562041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            482
+          ]
+        }
+      ],
+      "orig": "There are two types of identifiability: deterministic and generic identifiability . Deterministic identifiability implies that an HMM satisfying the condition can always be identified. Generic identifiability means that the HMM is identified with probability 1, i.e. identifiability holds everywhere except for some model parameters that lie in a set of Lebesgue measure zero. Allman et al. [1] defines it as all nonidentifiable parameters of the model lying in a proper subvariety.",
+      "text": "There are two types of identifiability: deterministic and generic identifiability . Deterministic identifiability implies that an HMM satisfying the condition can always be identified. Generic identifiability means that the HMM is identified with probability 1, i.e. identifiability holds everywhere except for some model parameters that lie in a set of Lebesgue measure zero. Allman et al. [1] defines it as all nonidentifiable parameters of the model lying in a proper subvariety."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99526,
+            "t": 299.75534568000023,
+            "r": 563.2852212828408,
+            "b": 279.0646562041584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Our main result is a condition when an HMM can or cannot be deterministically identified.",
+      "text": "Our main result is a condition when an HMM can or cannot be deterministically identified."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 371.51516,
+            "t": 268.79514568000025,
+            "r": 503.38555236274186,
+            "b": 260.1044562041584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "III. A SUMMARY ON TENSORS",
+      "text": "III. A SUMMARY ON TENSORS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99530000000004,
+            "t": 253.43534568000018,
+            "r": 563.2459288781633,
+            "b": 208.86455620415836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "As shown in (1), the joint probability of a sequence can be expressed as matrix multiplication of row tensor products. Identifiability then simply boils down to decomposing the product into factors via tensor decomposition.",
+      "text": "As shown in (1), the joint probability of a sequence can be expressed as matrix multiplication of row tensor products. Identifiability then simply boils down to decomposing the product into factors via tensor decomposition."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99530000000004,
+            "t": 205.5552456800002,
+            "r": 563.2328740554693,
+            "b": 160.9844562041584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "The tensor is essentially a multidimensional array of numbers, with a general overview found in [9]. The tensor order is the number of indices required to unambiguously label a component of the tensor, called a way .",
+      "text": "The tensor is essentially a multidimensional array of numbers, with a general overview found in [9]. The tensor order is the number of indices required to unambiguously label a component of the tensor, called a way ."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99518999999987,
+            "t": 157.67514568000024,
+            "r": 563.4305213910013,
+            "b": 101.22425620415834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "One particular important decomposition of a tensor is the Canonical Polyadic (CP) decomposition. Let the components of a tensor be A ∈ R q × m , B ∈ R q × n and C ∈ R q × p , written succinctly as [ A , B , C ] . Then a tensor X constructed from these components is expressed as",
+      "text": "One particular important decomposition of a tensor is the Canonical Polyadic (CP) decomposition. Let the components of a tensor be A ∈ R q × m , B ∈ R q × n and C ∈ R q × p , written succinctly as [ A , B , C ] . Then a tensor X constructed from these components is expressed as"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 368.9955699999998,
+            "t": 95.14966840000022,
+            "r": 563.113124327407,
+            "b": 63.95464289680024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "[ X ; A , B , C ] = q ∑ i =1 a i ⊗ b i ⊗ c i , (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.958299999999866,
+            "t": 733.47198,
+            "r": 300.3315954828211,
+            "b": 567.8694100000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            840
+          ]
+        }
+      ],
+      "orig": "where a i , b i , c i , i = 1 , 2 · · · , q are the rows of A , B and C respectively, essentially a decomposition to q single rank tensors. A tensor is irreducible with q components if and only if it cannot be decomposed to fewer than q components. A tensor X is permutation and scaling indeterminate if its components are unique up to a scaling and permutation of rows. Hence, for any alternative decomposition of X with components [ ˜ A , ˜ B , ˜ C ] , there exists a permutation matrix Π and nonsingular scaling matrices Λ A , Λ B and Λ C where Λ A Λ B Λ C = I q , such that ˜ A = ΠΛ A A , ˜ B = ΠΛ B B and ˜ C = ΠΛ C C . Finally, an equivalent representation of a tensor is given by its mode matricisation . For example, the first mode matricisation of X is A T ( B ⊗ row C ) , while its second mode matricisation is B T ( C ⊗ row A ) .",
+      "text": "where a i , b i , c i , i = 1 , 2 · · · , q are the rows of A , B and C respectively, essentially a decomposition to q single rank tensors. A tensor is irreducible with q components if and only if it cannot be decomposed to fewer than q components. A tensor X is permutation and scaling indeterminate if its components are unique up to a scaling and permutation of rows. Hence, for any alternative decomposition of X with components [ ˜ A , ˜ B , ˜ C ] , there exists a permutation matrix Π and nonsingular scaling matrices Λ A , Λ B and Λ C where Λ A Λ B Λ C = I q , such that ˜ A = ΠΛ A A , ˜ B = ΠΛ B B and ˜ C = ΠΛ C C . Finally, an equivalent representation of a tensor is given by its mode matricisation . For example, the first mode matricisation of X is A T ( B ⊗ row C ) , while its second mode matricisation is B T ( C ⊗ row A ) ."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.95793999999989,
+            "t": 565.0752376800002,
+            "r": 300.3294076033462,
+            "b": 508.50484820415835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        }
+      ],
+      "orig": "Surprisingly, under certain mild conditions, a tensor of order 3 and above can yield a unique CP decomposition, up to a scaling and permutation of rows of the components, unlike matrices. A general sufficient condition was proposed by Kruskal [10], with its generalisation in [14].",
+      "text": "Surprisingly, under certain mild conditions, a tensor of order 3 and above can yield a unique CP decomposition, up to a scaling and permutation of rows of the components, unlike matrices. A general sufficient condition was proposed by Kruskal [10], with its generalisation in [14]."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.957939999999894,
+            "t": 505.31543768000023,
+            "r": 300.10089874134377,
+            "b": 484.6247482041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "Central to Kruskal's and our results is the concept of the Kruskal rank defined below:",
+      "text": "Central to Kruskal's and our results is the concept of the Kruskal rank defined below:"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.957919999999945,
+            "t": 481.7943927200002,
+            "r": 299.90242431999997,
+            "b": 448.8649482041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "Definition 3: The Kruskal rank of a matrix X , krank( X ) is defined as the largest integer K such that any subset of K rows is linearly independent.",
+      "text": "Definition 3: The Kruskal rank of a matrix X , krank( X ) is defined as the largest integer K such that any subset of K rows is linearly independent."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.95801999999995,
+            "t": 445.5556376800002,
+            "r": 300.10101737898094,
+            "b": 400.98484820415825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "Unlike the rank of a matrix, the Kruskal rank changes when one defines it for columns instead. Here, we stick to the above definition for rows, since this is directly relevant to our discussions.",
+      "text": "Unlike the rank of a matrix, the Kruskal rank changes when one defines it for columns instead. Here, we stick to the above definition for rows, since this is directly relevant to our discussions."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.95801999999995,
+            "t": 397.79543768000013,
+            "r": 300.08938627573474,
+            "b": 365.1047482041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "The cornerstone of Kruskal's result, as pointed out by [8], [15] is Kruskal's permutation lemma, here modified for rows. The lemma is key to our proposed identifiability condition.",
+      "text": "The cornerstone of Kruskal's result, as pointed out by [8], [15] is Kruskal's permutation lemma, here modified for rows. The lemma is key to our proposed identifiability condition."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.95718999999988,
+            "t": 362.2739927200001,
+            "r": 300.17861506462344,
+            "b": 317.3445482041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "Lemma 4 (Permutation lemma): Given two matrices H and ¯ H , both with size q × r , suppose that H has no identically zero rows, and assume the following implication holds for all column vectors x :",
+      "text": "Lemma 4 (Permutation lemma): Given two matrices H and ¯ H , both with size q × r , suppose that H has no identically zero rows, and assume the following implication holds for all column vectors x :"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 76.07708999999988,
+            "t": 310.16477312000006,
+            "r": 272.75664127999994,
+            "b": 283.46961000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "| supp( ¯ Hx ) | ≤ q -rank( ¯ H ) + 1 implies that | supp( Hx ) | ≤ | supp( ¯ Hx ) | .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.956779999999924,
+            "t": 276.68467312000007,
+            "r": 299.9767051999999,
+            "b": 253.26484820415817,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "Then, ¯ H = ΠΛH , where Π is a permutation matrix and Λ is a nonsingular diagonal scaling matrix.",
+      "text": "Then, ¯ H = ΠΛH , where Π is a permutation matrix and Λ is a nonsingular diagonal scaling matrix."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 91.19657999999993,
+            "t": 243.35553768,
+            "r": 257.870489114127,
+            "b": 234.66484820415815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "IV. SINGLE OBSERVER HMM SETTING",
+      "text": "IV. SINGLE OBSERVER HMM SETTING",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.956489999999974,
+            "t": 228.23563768000008,
+            "r": 300.3268831798017,
+            "b": 135.50941,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            442
+          ]
+        }
+      ],
+      "orig": "Intuitively, the identifiability of an HMM rests on the number of states q and the number of observation states κ , both having a direct relationship with A and B respectively. Our reformulation using the properties of tensors allows us to explore this relationship. Since the underlying Markov chain is assumed to be irreducible and aperiodic and assuming all alphabets in Y are not redundant, krank( A ) ≥ 1 and krank( B ) ≥ 1 respectively.",
+      "text": "Intuitively, the identifiability of an HMM rests on the number of states q and the number of observation states κ , both having a direct relationship with A and B respectively. Our reformulation using the properties of tensors allows us to explore this relationship. Since the underlying Markov chain is assumed to be irreducible and aperiodic and assuming all alphabets in Y are not redundant, krank( A ) ≥ 1 and krank( B ) ≥ 1 respectively."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.95663000000004,
+            "t": 125.90567392000003,
+            "r": 109.32655445732195,
+            "b": 117.33313581165453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "A. Main result",
+      "text": "A. Main result",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 58.91640000000004,
+            "t": 110.99533768000003,
+            "r": 194.28613815315205,
+            "b": 102.30464820415818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Our main result is the following:",
+      "text": "Our main result is the following:"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.956120000000055,
+            "t": 99.31414216000007,
+            "r": 300.21952978517305,
+            "b": 66.02931000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "Theorem 5: For an HMM parameterised by λ to be unique up to a scaling and permutation of states, it is necessary and sufficient that krank( B ⊗ row A ) = q .",
+      "text": "Theorem 5: For an HMM parameterised by λ to be unique up to a scaling and permutation of states, it is necessary and sufficient that krank( B ⊗ row A ) = q ."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.99555,
+            "t": 732.5952376800001,
+            "r": 563.3661713667418,
+            "b": 616.3845482041584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            588
+          ]
+        }
+      ],
+      "orig": "Previous work [6], [7] studied the class of regular HMMs. An HMM is regular if there exists a set of 2 q sequences whose joint probabilities can be described by a product of two linear subspaces of dimension q . A regular HMM is permutation and scaling indeterminate. Finesso [6] provided a simple sufficient condition for equivalence between two HMMs. Additionally, the author proved a necessary condition for a regular HMM to be equivalent to another HMM. The proof is probabilistic as he showed the set of parameters λ of HMMs almost surely leads to regularity in the Lebesgue measure.",
+      "text": "Previous work [6], [7] studied the class of regular HMMs. An HMM is regular if there exists a set of 2 q sequences whose joint probabilities can be described by a product of two linear subspaces of dimension q . A regular HMM is permutation and scaling indeterminate. Finesso [6] provided a simple sufficient condition for equivalence between two HMMs. Additionally, the author proved a necessary condition for a regular HMM to be equivalent to another HMM. The proof is probabilistic as he showed the set of parameters λ of HMMs almost surely leads to regularity in the Lebesgue measure."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.99555,
+            "t": 612.8350376800003,
+            "r": 563.3662144051881,
+            "b": 484.6243482041584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            636
+          ]
+        }
+      ],
+      "orig": "Our result differs from Finesso's in the sense that we show an interaction between the hidden and the observation states, dispensing with assumption of regularity of the HMM and replacing it with a deterministic condition. Furthermore, regular HMMs are also minimal, implying krank( A ) = q (see [16]). The result shows there is no longer any restriction to regular HMMs, or as coined by Finesso [6], a Petrie point after Petrie's work [13] on regular HMMs, since the deterministic condition covers all possible cases. In this sense, the result is the strongest to date on the identifiability, whether deterministic or generic, of HMMs.",
+      "text": "Our result differs from Finesso's in the sense that we show an interaction between the hidden and the observation states, dispensing with assumption of regularity of the HMM and replacing it with a deterministic condition. Furthermore, regular HMMs are also minimal, implying krank( A ) = q (see [16]). The result shows there is no longer any restriction to regular HMMs, or as coined by Finesso [6], a Petrie point after Petrie's work [13] on regular HMMs, since the deterministic condition covers all possible cases. In this sense, the result is the strongest to date on the identifiability, whether deterministic or generic, of HMMs."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.99514999999997,
+            "t": 481.19513768000036,
+            "r": 563.4058116384673,
+            "b": 423.8572646000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            296
+          ]
+        }
+      ],
+      "orig": "Theorem 5 is a consequence of the properties of a specific restricted CP tensor, where one mode of the tensor is full rank [8], which we call the per letter tensor . Let us consider L , a three way tensor of dimensions q × q × κ , with component matrices [ A , I q , B ] . For each element of L ,",
+      "text": "Theorem 5 is a consequence of the properties of a specific restricted CP tensor, where one mode of the tensor is full rank [8], which we call the per letter tensor . Let us consider L , a three way tensor of dimensions q × q × κ , with component matrices [ A , I q , B ] . For each element of L ,"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 324.9553199999999,
+            "t": 414.6319500000003,
+            "r": 549.9809543199998,
+            "b": 389.1545848968003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "L i,j,k := P λ ( X t +1 = i | X t = j ) · P λ ( Y t = k | X t = j ) = P λ ( Y t = k, X t +1 = i | X t = j ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.9943299999999,
+            "t": 379.6035059200003,
+            "r": 563.2313766967917,
+            "b": 322.6242482041584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            288
+          ]
+        }
+      ],
+      "orig": "Then, each slice of the third mode L k := L · , · ,k = I q D k ( B ) A , k = 1 , 2 , · · · , κ is the per observation letter and state probability of the set Y arranged in ascending order 1 . A key observation is the equivalence of L and I q ( B ⊗ row A ) , its second mode matricisation.",
+      "text": "Then, each slice of the third mode L k := L · , · ,k = I q D k ( B ) A , k = 1 , 2 , · · · , κ is the per observation letter and state probability of the set Y arranged in ascending order 1 . A key observation is the equivalence of L and I q ( B ⊗ row A ) , its second mode matricisation."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.9943299999999,
+            "t": 319.1950376800003,
+            "r": 563.0175613029425,
+            "b": 298.5043482041584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "We now prove a necessary and sufficient condition on the uniqueness of the decomposition of L .",
+      "text": "We now prove a necessary and sufficient condition on the uniqueness of the decomposition of L ."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.99462999999986,
+            "t": 295.48360592000034,
+            "r": 563.2325117142587,
+            "b": 273.9892100000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "Lemma 6: The per letter tensor L is unique up to a permutation and scaling of rows if and only if krank( B ⊗ row A ) = q .",
+      "text": "Lemma 6: The per letter tensor L is unique up to a permutation and scaling of rows if and only if krank( B ⊗ row A ) = q ."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.99399400000004,
+            "t": 258.9552376800003,
+            "r": 563.257477073867,
+            "b": 166.62424820415845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            461
+          ]
+        }
+      ],
+      "orig": "Proof: Crucial to our argument is the central claim that it is necessary and sufficient that none of the non-trivial linear combinations of rows of B ⊗ row A is expressible by a tensor product of two row vectors, that is, krank( B ⊗ row A ) = q . Necessity is proven by contradiction. We borrow a counterexample from [8]. If the first two rows can be expressed as a vector b 1 ⊗ a 1 + b 2 ⊗ a 2 = ˜ b 1 ⊗ a ˜ 1 , an alternative decomposition of L is as follows:",
+      "text": "Proof: Crucial to our argument is the central claim that it is necessary and sufficient that none of the non-trivial linear combinations of rows of B ⊗ row A is expressible by a tensor product of two row vectors, that is, krank( B ⊗ row A ) = q . Necessity is proven by contradiction. We borrow a counterexample from [8]. If the first two rows can be expressed as a vector b 1 ⊗ a 1 + b 2 ⊗ a 2 = ˜ b 1 ⊗ a ˜ 1 , an alternative decomposition of L is as follows:"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 339.1138940000001,
+            "t": 158.99365272000034,
+            "r": 563.1117713274074,
+            "b": 88.70845000000031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "I q ( B ⊗ row A ) =   1 0 0 -1 1 0 0 0 I q -2   T      ˜ b 1 ⊗ ˜ a 1 b 2 ⊗ a 2 . . . b q ⊗ a q      = C T ( ˜ B ⊗ row ˜ A ) . (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 319.91421000000014,
+            "t": 75.23636796000028,
+            "r": 541.8658084679154,
+            "b": 66.84271298398278,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "1 This is one way of labelling the letters, as labelling is non-unique.",
+      "text": "1 This is one way of labelling the letters, as labelling is non-unique."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.960179999999994,
+            "t": 734.4342426,
+            "r": 300.2238936112035,
+            "b": 712.0244782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "As C T is not a permutation or scaling, there is no unique decomposition for L .",
+      "text": "As C T is not a permutation or scaling, there is no unique decomposition for L ."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.96107999999995,
+            "t": 709.5918800000001,
+            "r": 300.0789091717856,
+            "b": 639.6292400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            344
+          ]
+        }
+      ],
+      "orig": "For sufficiency, we only need to verify | supp( x ) | = | supp( I q x ) | ≤ | supp( ˜ Cx ) | for all | supp( ˜ Cx ) | = 1 (since x = 0 is the only zero support vector) for some ˜ C , a component of an alternative decomposition of L , to satisfy Lemma 4. With an alternative decomposition I q ( B ⊗ row A ) = ˜ C T ( ˜ B ⊗ row ˜ A ) , then ∀ x ,",
+      "text": "For sufficiency, we only need to verify | supp( x ) | = | supp( I q x ) | ≤ | supp( ˜ Cx ) | for all | supp( ˜ Cx ) | = 1 (since x = 0 is the only zero support vector) for some ˜ C , a component of an alternative decomposition of L , to satisfy Lemma 4. With an alternative decomposition I q ( B ⊗ row A ) = ˜ C T ( ˜ B ⊗ row ˜ A ) , then ∀ x ,"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 97.08105000000006,
+            "t": 632.8738227200001,
+            "r": 251.88002128000014,
+            "b": 621.0292400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "x T ( B ⊗ row A ) = x T ˜ C T ( ˜ B ⊗ row ˜ A ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.959550000000206,
+            "t": 614.2738227200001,
+            "r": 300.249443385222,
+            "b": 483.06425820415825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            673
+          ]
+        }
+      ],
+      "orig": "Consider x with | supp( ˜ Cx ) | = 1 . Then, x T ˜ C T ( ˜ B ⊗ row ˜ A ) is just a scaled tensor product of one row of ˜ A and the corresponding row of ˜ B , by the above equation. If | supp( x ) | > 1 , then more than one row of B ⊗ row A is needed to represent a row of ˜ B ⊗ row ˜ A . This means a row of ˜ B ⊗ row ˜ A is not just a scaling and permutation, so | supp( x ) | ≤ 1 must hold. Kruskal's permutation lemma (Lemma 4) then implies I q and ˜ C are equivalent up to a permutation and scaling of rows. Putting these arguments together implies the components of L , i.e. A , B and I q are all unique up to a permutation and scaling of rows, and the result follows.",
+      "text": "Consider x with | supp( ˜ Cx ) | = 1 . Then, x T ˜ C T ( ˜ B ⊗ row ˜ A ) is just a scaled tensor product of one row of ˜ A and the corresponding row of ˜ B , by the above equation. If | supp( x ) | > 1 , then more than one row of B ⊗ row A is needed to represent a row of ˜ B ⊗ row ˜ A . This means a row of ˜ B ⊗ row ˜ A is not just a scaling and permutation, so | supp( x ) | ≤ 1 must hold. Kruskal's permutation lemma (Lemma 4) then implies I q and ˜ C are equivalent up to a permutation and scaling of rows. Putting these arguments together implies the components of L , i.e. A , B and I q are all unique up to a permutation and scaling of rows, and the result follows."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.95966999999999,
+            "t": 479.75526768000003,
+            "r": 300.1975071024211,
+            "b": 398.9446782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            417
+          ]
+        }
+      ],
+      "orig": "The above implies a sufficient condition. For necessity, suppose krank( B ⊗ row A ) < q , but the HMM is identifiable. However, one can construct π = ˜ π ˜ C T , 1 q = ( ˜ C T ) -1 ˜ 1 q , ( B ⊗ row A ) E ( k ) = ( ˜ B ⊗ row ˜ A )( E ( k ) ˜ C T ) , ∀ k, with ˜ C as above in the proof of Lemma 6, resulting in a contradiction. Thus, krank( B ⊗ row A ) = q is a necessary and sufficient condition for identifiability.",
+      "text": "The above implies a sufficient condition. For necessity, suppose krank( B ⊗ row A ) < q , but the HMM is identifiable. However, one can construct π = ˜ π ˜ C T , 1 q = ( ˜ C T ) -1 ˜ 1 q , ( B ⊗ row A ) E ( k ) = ( ˜ B ⊗ row ˜ A )( E ( k ) ˜ C T ) , ∀ k, with ˜ C as above in the proof of Lemma 6, resulting in a contradiction. Thus, krank( B ⊗ row A ) = q is a necessary and sufficient condition for identifiability."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.96063800000013,
+            "t": 397.35442260000013,
+            "r": 300.42221600009225,
+            "b": 303.30477820415814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            450
+          ]
+        }
+      ],
+      "orig": "Evaluating the Kruskal rank of B ⊗ row A is computationally difficult as it requires checking over all possible combinations of rows of a matrix. The computational complexity worsens as q and κ become large. The conditions above may be weakened using the concept of coherence [5], found in compressed sensing and dictionary learning literature to derive polynomial time algorithms for verifying HMM identifiability. Further details are found in [16].",
+      "text": "Evaluating the Kruskal rank of B ⊗ row A is computationally difficult as it requires checking over all possible combinations of rows of a matrix. The computational complexity worsens as q and κ become large. The conditions above may be weakened using the concept of coherence [5], found in compressed sensing and dictionary learning literature to derive polynomial time algorithms for verifying HMM identifiability. Further details are found in [16]."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.9603980000002,
+            "t": 299.99546768000005,
+            "r": 300.4213813353157,
+            "b": 219.66487820415819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            407
+          ]
+        }
+      ],
+      "orig": "Remark 7: The results may be extended to non-stationary Markov chains. In this case, let A ( t ) and B ( t ) be the timeheterogeneous transition and observation matrices respectively. Then, Theorem 5 may be modified, essentially asserting that for each t = 1 , 2 , · · · , N , the conditions krank( B ( t ) ⊗ row A ( t )) = q must hold for the non-stationary HMM to be permutation and scaling indeterminate.",
+      "text": "Remark 7: The results may be extended to non-stationary Markov chains. In this case, let A ( t ) and B ( t ) be the timeheterogeneous transition and observation matrices respectively. Then, Theorem 5 may be modified, essentially asserting that for each t = 1 , 2 , · · · , N , the conditions krank( B ( t ) ⊗ row A ( t )) = q must hold for the non-stationary HMM to be permutation and scaling indeterminate."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 94.2001980000002,
+            "t": 209.75556768,
+            "r": 254.75464711412727,
+            "b": 201.06487820415816,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "V. MULTI-OBSERVER HMM SETTING",
+      "text": "V. MULTI-OBSERVER HMM SETTING",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.96043800000015,
+            "t": 194.63566767999998,
+            "r": 300.43799712000015,
+            "b": 138.1847782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "The above results prove useful in the study of multi-observer HMMs, which have applications in machine learning [11], and detecting attacks on Internet Service providers [12]. We shall study identifiability in this setting, but first, we need to lay the foundations for the multi-observer case.",
+      "text": "The above results prove useful in the study of multi-observer HMMs, which have applications in machine learning [11], and detecting attacks on Internet Service providers [12]. We shall study identifiability in this setting, but first, we need to lay the foundations for the multi-observer case."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.96008800000013,
+            "t": 135.75217999999995,
+            "r": 300.3176471200001,
+            "b": 65.65749460000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            349
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.00025800000014,
+            "t": 732.91407216,
+            "r": 563.2637448569116,
+            "b": 674.7772946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            350,
+            699
+          ]
+        }
+      ],
+      "orig": "In the multi-observer setting, there are m ≥ 2 observers of an underlying Markov chain. The observers are assumed independent to each other, since dependence would weaken the information content of their observations. The underlying irreducible, aperiodic Markov chain { X t } t ≥ 1 is being observed by all m observers, with each X t ∈ X , starting from initial state probabilities π , drawn from a stationary distribution. Each observer j may have a different perspective of the chain, denoted by the processes { Y ( j ) t } t ≥ 1 , with each Y ( j ) ∈ Y ( j ) ∀ j = 1 , 2 , · · · , m . Without loss of generality, let X = { 1 , 2 , · · · , q } and for each j , Y ( j ) = { 1 , 2 , · · · , κ j } .",
+      "text": "In the multi-observer setting, there are m ≥ 2 observers of an underlying Markov chain. The observers are assumed independent to each other, since dependence would weaken the information content of their observations. The underlying irreducible, aperiodic Markov chain { X t } t ≥ 1 is being observed by all m observers, with each X t ∈ X , starting from initial state probabilities π , drawn from a stationary distribution. Each observer j may have a different perspective of the chain, denoted by the processes { Y ( j ) t } t ≥ 1 , with each Y ( j ) ∈ Y ( j ) ∀ j = 1 , 2 , · · · , m . Without loss of generality, let X = { 1 , 2 , · · · , q } and for each j , Y ( j ) = { 1 , 2 , · · · , κ j } ."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 500.16063800000006,
+            "t": 637.4718800000002,
+            "r": 500.16063800000006,
+            "b": 627.5092400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "̸",
+      "text": "̸"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.0004080000001,
+            "t": 672.7140227200001,
+            "r": 563.4366135891253,
+            "b": 507.86934000000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            846
+          ]
+        }
+      ],
+      "orig": "While the transition matrix of the hidden states A remains the same for all observers, their associated observation matrices may differ. If at least two observation matrices are distinct, i.e. there exists indices ℓ and ℓ ′ such that B ( ℓ ) = B ( ℓ ′ ) , the set of independent observers are called heterogeneous observers, otherwise they are called homogeneous observers. We model the separate observation matrices B ( j ) for each observer j = 1 , 2 , · · · , m , each of size q × κ j in the heterogeneous case, and B ( j ) := B for all j in the homogeneous case. In either setting, the HMM is described by the parameter set λ multi := { π ; m,q, { κ j } j m =1 , A , { B ( j ) } j m =1 } , with appropriate modifications to the observation matrix depending on the setting. For the homogeneous setting, we let κ j := κ and B ( j ) := B , ∀ j .",
+      "text": "While the transition matrix of the hidden states A remains the same for all observers, their associated observation matrices may differ. If at least two observation matrices are distinct, i.e. there exists indices ℓ and ℓ ′ such that B ( ℓ ) = B ( ℓ ′ ) , the set of independent observers are called heterogeneous observers, otherwise they are called homogeneous observers. We model the separate observation matrices B ( j ) for each observer j = 1 , 2 , · · · , m , each of size q × κ j in the heterogeneous case, and B ( j ) := B for all j in the homogeneous case. In either setting, the HMM is described by the parameter set λ multi := { π ; m,q, { κ j } j m =1 , A , { B ( j ) } j m =1 } , with appropriate modifications to the observation matrix depending on the setting. For the homogeneous setting, we let κ j := κ and B ( j ) := B , ∀ j ."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.0010280000003,
+            "t": 505.19506768000025,
+            "r": 563.1197587291362,
+            "b": 472.6242782041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "As we shall see, whether the observers are heterogenous or homogenous makes a significant difference to the identifiability of the HMM.",
+      "text": "As we shall see, whether the observers are heterogenous or homogenous makes a significant difference to the identifiability of the HMM."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.00102800000036,
+            "t": 463.46550392000023,
+            "r": 401.5567002601097,
+            "b": 454.8929658116547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "A. Multi-letter tensor",
+      "text": "A. Multi-letter tensor",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.00102800000036,
+            "t": 448.55516768000024,
+            "r": 563.1967999573208,
+            "b": 378.1146248968002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            328
+          ]
+        }
+      ],
+      "orig": "Unlike the single observer scenario, there are multiple observations in a single time step. We first consider the heterogeneous case, where, without loss of generality, we define the multi-letter tensor M ∗ , an order m + 2 tensor of dimensions q × q × κ 1 ×··· × κ m , with component matrices [ A , I q , { B ( j ) } j m =1 ] .",
+      "text": "Unlike the single observer scenario, there are multiple observations in a single time step. We first consider the heterogeneous case, where, without loss of generality, we define the multi-letter tensor M ∗ , an order m + 2 tensor of dimensions q × q × κ 1 ×··· × κ m , with component matrices [ A , I q , { B ( j ) } j m =1 ] ."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.0009180000004,
+            "t": 377.03476768000024,
+            "r": 563.3421151978887,
+            "b": 320.4643782041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            287
+          ]
+        }
+      ],
+      "orig": "Just as in the case of a single observer, the multi-letter tensor is connected to the HMM via its matricisation. Let κ ′ := ∏ m j =1 κ j . Thus, the joint probability of a particular observed sequence y 1 , y 2 , · · · , y N , noting each observation is now a vector, may be described by",
+      "text": "Just as in the case of a single observer, the multi-letter tensor is connected to the HMM via its matricisation. Let κ ′ := ∏ m j =1 κ j . Thus, the joint probability of a particular observed sequence y 1 , y 2 , · · · , y N , noting each observation is now a vector, may be described by"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 328.5611180000004,
+            "t": 312.1516800000002,
+            "r": 563.1182593274076,
+            "b": 286.6747048968002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "P λ ( Y 1 = y 1 , Y 2 = y 2 , · · · , Y N = y N ) = π W ∗ E ( y 1 ) W ∗ E ( y 2 ) · · · W ∗ E ( y N ) 1 q , (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.0003180000004,
+            "t": 280.0567872500003,
+            "r": 563.2514821047846,
+            "b": 245.30894000000023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "where E ( k ) is a κ ′ q × q matrix, divided to κ ′ row partitions, with the q × q identity matrix in the k -th row partition, 1 q is the q × 1 vector of ones, and",
+      "text": "where E ( k ) is a κ ′ q × q matrix, divided to κ ′ row partitions, with the q × q identity matrix in the k -th row partition, 1 q is the q × 1 vector of ones, and"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 324.00035800000035,
+            "t": 240.70919040000024,
+            "r": 563.1181593274079,
+            "b": 194.42884000000026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "W ∗ := m ⊗ j =1 row B ( j ) ⊗ row A = B (1) ⊗ row B (2) ⊗ row · · · ⊗ row B ( m ) ⊗ row A . (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.0004380000006,
+            "t": 185.5147676800002,
+            "r": 563.5561102640197,
+            "b": 104.53565005000019,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            443
+          ]
+        }
+      ],
+      "orig": "In this formulation, all possible output sequences from space Y (1) ×Y (2) ×··· × Y ( m ) are ordered lexicographically, with E ( y ) selecting the correct position of y out of this ordering. Note that W ∗ is equivalent to M ∗ since it is the second mode matricisation of the tensor. Similarly, in the homogeneous setting, let W ◦ have the same structure as (5), with B ( j ) := B , ∀ j , and κ ′ = κ m . We have the following result for M ∗ .",
+      "text": "In this formulation, all possible output sequences from space Y (1) ×Y (2) ×··· × Y ( m ) are ordered lexicographically, with E ( y ) selecting the correct position of y out of this ordering. Note that W ∗ is equivalent to M ∗ since it is the second mode matricisation of the tensor. Similarly, in the homogeneous setting, let W ◦ have the same structure as (5), with B ( j ) := B , ∀ j , and κ ′ = κ m . We have the following result for M ∗ ."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.00184800000085,
+            "t": 100.23168000000021,
+            "r": 563.197470594784,
+            "b": 58.785193600000184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "Lemma 8: Assume m ≥ 2 . The heterogeneous multi-letter tensor M ∗ is unique up to permutation and scaling of rows if and only if krank( ⊗ m j =1 row B ( j ) ⊗ row A ) = q .",
+      "text": "Lemma 8: Assume m ≥ 2 . The heterogeneous multi-letter tensor M ∗ is unique up to permutation and scaling of rows if and only if krank( ⊗ m j =1 row B ( j ) ⊗ row A ) = q ."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.959220000000045,
+            "t": 732.59526768,
+            "r": 300.3693349245771,
+            "b": 579.3044782041585,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            762
+          ]
+        }
+      ],
+      "orig": "Proof: The proof is similar to the proof of Lemma 6, extended to the multidimensional case, thus, we only need to sketch the proof here. We claim that it is necessary and sufficient that none of the non-trivial linear combinations of rows of ⊗ m j =1 row B ( j ) ⊗ row A is expressed by a tensor product of two row vectors, i.e. krank( ⊗ m j =1 row B ( j ) ⊗ row A ) = q . The chief ingredients are, (1) show a counterexample to proof necessity, where the same example from the proof of Lemma 6 can be used, appropriately modified to account for additional dimensions, to construct an alternative decomposition of M ∗ , and (2) for sufficiency, show that I q , the full rank component of M ∗ satisfies Kruskal's permutation lemma. Then, the claim is established.",
+      "text": "Proof: The proof is similar to the proof of Lemma 6, extended to the multidimensional case, thus, we only need to sketch the proof here. We claim that it is necessary and sufficient that none of the non-trivial linear combinations of rows of ⊗ m j =1 row B ( j ) ⊗ row A is expressed by a tensor product of two row vectors, i.e. krank( ⊗ m j =1 row B ( j ) ⊗ row A ) = q . The chief ingredients are, (1) show a counterexample to proof necessity, where the same example from the proof of Lemma 6 can be used, appropriately modified to account for additional dimensions, to construct an alternative decomposition of M ∗ , and (2) for sufficiency, show that I q , the full rank component of M ∗ satisfies Kruskal's permutation lemma. Then, the claim is established."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96013,
+            "t": 575.99526768,
+            "r": 300.2238006629548,
+            "b": 519.4244782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            246
+          ]
+        }
+      ],
+      "orig": "We must, however, be careful when the observers are independent and homogeneous. In this scenario, the above result no longer holds. Instead, the homogeneous setting is equivalent to the single observer setting, evidenced by the following result.",
+      "text": "We must, however, be careful when the observers are independent and homogeneous. In this scenario, the above result no longer holds. Instead, the homogeneous setting is equivalent to the single observer setting, evidenced by the following result."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.960019999999986,
+            "t": 517.8342226,
+            "r": 300.1034282934605,
+            "b": 483.54477820415815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "Lemma 9: It is necessary and sufficient that krank( B ⊗ row A ) = q for the homogeneous multi-letter tensor M ◦ to be unique up to permutation and scaling of rows.",
+      "text": "Lemma 9: It is necessary and sufficient that krank( B ⊗ row A ) = q for the homogeneous multi-letter tensor M ◦ to be unique up to permutation and scaling of rows."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.95953999999999,
+            "t": 480.23546768000006,
+            "r": 300.33045,
+            "b": 387.90447820415807,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            436
+          ]
+        }
+      ],
+      "orig": "An intuitive explanation is that each additional component, B , is exactly the same and do not provide sufficient variability for unique decomposition. Thus, even if the tensor M ◦ is matricised in different ways, one can always find an alternative decomposition of M ◦ , similar to an example by Stegeman et al. [15] for the 3-way tensor. It is for this reason, decomposition-wise, M ◦ is no different from the single letter tensor L .",
+      "text": "An intuitive explanation is that each additional component, B , is exactly the same and do not provide sufficient variability for unique decomposition. Thus, even if the tensor M ◦ is matricised in different ways, one can always find an alternative decomposition of M ◦ , similar to an example by Stegeman et al. [15] for the 3-way tensor. It is for this reason, decomposition-wise, M ◦ is no different from the single letter tensor L ."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.95953999999998,
+            "t": 377.54530392,
+            "r": 161.43504396117282,
+            "b": 368.9727658116544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "B. Identifiability conditions",
+      "text": "B. Identifiability conditions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.959209999999985,
+            "t": 362.9434612,
+            "r": 300.10307772946055,
+            "b": 305.54904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "Theorem 10: Suppose the m observers are independent and homogeneous. For an HMM parameterised by λ multi to be unique up to a scaling and permutation of states, it is necessary and sufficient that the per letter tensor of the HMM satisfies Lemma 9, i.e. krank( B ⊗ row A ) = q .",
+      "text": "Theorem 10: Suppose the m observers are independent and homogeneous. For an HMM parameterised by λ multi to be unique up to a scaling and permutation of states, it is necessary and sufficient that the per letter tensor of the HMM satisfies Lemma 9, i.e. krank( B ⊗ row A ) = q ."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.959119999999984,
+            "t": 303.04343592,
+            "r": 300.248760107278,
+            "b": 246.18407820415803,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "Proof: The proof follows from the properties of M ◦ . Then, it is clear krank( B ⊗ row A ) = q if and only if krank( ⊗ m row B ⊗ row A ) = q , from Lemma 9, otherwise an equivalent HMM can be constructed, such that the original HMM is no longer permutation and scaling indeterminate.",
+      "text": "Proof: The proof follows from the properties of M ◦ . Then, it is clear krank( B ⊗ row A ) = q if and only if krank( ⊗ m row B ⊗ row A ) = q , from Lemma 9, otherwise an equivalent HMM can be constructed, such that the original HMM is no longer permutation and scaling indeterminate."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.959900000000005,
+            "t": 242.87526767999998,
+            "r": 300.5150535292806,
+            "b": 150.54467820415812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            483
+          ]
+        }
+      ],
+      "orig": "The result shows that the homogeneous setting is essentially equivalent to the single observer setting. As mentioned in [12], if an HMM is unidentifiable in the single observer case, it is also unidentifiable in the multiple independent homogenous observer case, as there is not enough variability in M ◦ . Thus, no matter how many independent homogeneous observers are present, if the model cannot be identified in the single observer setting, then the model remains unidentifiable.",
+      "text": "The result shows that the homogeneous setting is essentially equivalent to the single observer setting. As mentioned in [12], if an HMM is unidentifiable in the single observer case, it is also unidentifiable in the multiple independent homogenous observer case, as there is not enough variability in M ◦ . Thus, no matter how many independent homogeneous observers are present, if the model cannot be identified in the single observer setting, then the model remains unidentifiable."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.960260000000005,
+            "t": 147.23536768000008,
+            "r": 299.9832622792806,
+            "b": 126.54467820415812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "We next turn our attention to the heterogeneous case, a consequence of Lemma 8.",
+      "text": "We next turn our attention to the heterogeneous case, a consequence of Lemma 8."
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.95926,
+            "t": 123.66376120000007,
+            "r": 300.1026682874606,
+            "b": 58.785493599999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            300
+          ]
+        }
+      ],
+      "orig": "Theorem 11: Suppose the m observers are independent and heterogenous. For an HMM parameterised by λ multi to be unique up to a scaling and permutation of states, it is necessary and sufficient that the multi-letter tensor of the HMM satisfies Lemma 8, i.e. krank( ⊗ m j =1 row B ( j ) ⊗ row A ) = q .",
+      "text": "Theorem 11: Suppose the m observers are independent and heterogenous. For an HMM parameterised by λ multi to be unique up to a scaling and permutation of states, it is necessary and sufficient that the multi-letter tensor of the HMM satisfies Lemma 8, i.e. krank( ⊗ m j =1 row B ( j ) ⊗ row A ) = q ."
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.99987,
+            "t": 733.0036359200001,
+            "r": 563.3159823535917,
+            "b": 640.2645782041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            459
+          ]
+        }
+      ],
+      "orig": "The extra dimensions of M ∗ are related to the additional advantage of having multiple independent observers. Each single observer j = 1 , 2 , · · · , m is essentially restricted to a per letter tensor L ( j ) which may not satisfy Lemma 6 individually, but satisfies Lemma 8 when their observations are jointly considered. This proves a natural advantage multiple independent heterogeneous observers have over a single observer, used to great effect in [12].",
+      "text": "The extra dimensions of M ∗ are related to the additional advantage of having multiple independent observers. Each single observer j = 1 , 2 , · · · , m is essentially restricted to a per letter tensor L ( j ) which may not satisfy Lemma 6 individually, but satisfies Lemma 8 when their observations are jointly considered. This proves a natural advantage multiple independent heterogeneous observers have over a single observer, used to great effect in [12]."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 399.24004,
+            "t": 631.0751676800002,
+            "r": 475.6736258050338,
+            "b": 622.3844782041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "VI. CONCLUSION",
+      "text": "VI. CONCLUSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.99994000000004,
+            "t": 616.0751676800002,
+            "r": 563.3423027961521,
+            "b": 487.86447820415833,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            635
+          ]
+        }
+      ],
+      "orig": "In this paper, we revisit the identifiability of hidden Markov models, via tensor decomposition, where there are well-known results regarding the permutation and scaling indeterminacy of tensors. We proved deterministic identifiability conditions of single and multi-observer HMMs using well-established results on the Kruskal rank. Our results are stronger than previous results, where only generic identifiability based on the regularity of the HMM is assumed. Future work includes using our framework to provide insights in the inference of the transition and observation matrices of HMMs and extend the work to dependent observers.",
+      "text": "In this paper, we revisit the identifiability of hidden Markov models, via tensor decomposition, where there are well-known results regarding the permutation and scaling indeterminacy of tensors. We proved deterministic identifiability conditions of single and multi-observer HMMs using well-established results on the Kruskal rank. Our results are stronger than previous results, where only generic identifiability based on the regularity of the HMM is assumed. Future work includes using our framework to provide insights in the inference of the transition and observation matrices of HMMs and extend the work to dependent observers."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 409.56014000000005,
+            "t": 478.6750676800002,
+            "r": 465.35167767540287,
+            "b": 469.9843782041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96022000000005,
+            "t": 462.71621282000024,
+            "r": 562.9925475000001,
+            "b": 437.88358298398265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "[1] E. S. Allman, C. Matias, and J. A. Rhodes. Identifiability of parameters in latent structure models with many observed variables. Ann. Stats. , 37(6A):3099-3132, 2009.",
+      "text": "E. S. Allman, C. Matias, and J. A. Rhodes. Identifiability of parameters in latent structure models with many observed variables. Ann. Stats. , 37(6A):3099-3132, 2009.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96132000000006,
+            "t": 435.8361328200002,
+            "r": 562.7817615230924,
+            "b": 420.0035029839826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[2] L. E. Baum and T. Petrie. Statistical inference for probabilistic functions of finite state Markov chains. Ann. Math. Statist. , 37:15541563, 1966.",
+      "text": "L. E. Baum and T. Petrie. Statistical inference for probabilistic functions of finite state Markov chains. Ann. Math. Statist. , 37:15541563, 1966.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96092000000004,
+            "t": 417.9560528200002,
+            "r": 562.7811712196968,
+            "b": 393.0035029839826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "[3] L. E. Baum, T. Petrie, G. Soules, and N. Weiss. A maximization technique occurring in the statistical analysis of probabilistic functions of Markov chains. Ann. Math. Statist. , 41:164-171, 1970.",
+      "text": "L. E. Baum, T. Petrie, G. Soules, and N. Weiss. A maximization technique occurring in the statistical analysis of probabilistic functions of Markov chains. Ann. Math. Statist. , 41:164-171, 1970.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96122,
+            "t": 391.0759728200002,
+            "r": 562.935353037124,
+            "b": 366.1234229839826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "[4] D. Blackwell and L. Koopmans. On the identifiability problem for functions of finite Markov chains. Ann. Math. Stat. , 28(4):1011-1015, 1957.",
+      "text": "D. Blackwell and L. Koopmans. On the identifiability problem for functions of finite Markov chains. Ann. Math. Stat. , 28(4):1011-1015, 1957.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96052000000003,
+            "t": 364.19589282000015,
+            "r": 562.9933075000001,
+            "b": 339.2433429839826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "[5] D. Donoho and M. Elad. Optimally sparse representation in general (nonorthogonal) dictionaries via ℓ 1 minimization. Proc. Nat. Acad. Sci. , 100(5):2197-2202, March 2003.",
+      "text": "D. Donoho and M. Elad. Optimally sparse representation in general (nonorthogonal) dictionaries via ℓ 1 minimization. Proc. Nat. Acad. Sci. , 100(5):2197-2202, March 2003.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.9610800000001,
+            "t": 337.19589282000015,
+            "r": 562.8262432427106,
+            "b": 321.36326298398257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "[6] L. Finesso. Consistent Estimation of the Order for Markov and Hidden Markov Chains . PhD thesis, University of Maryland, 1990.",
+      "text": "L. Finesso. Consistent Estimation of the Order for Markov and Hidden Markov Chains . PhD thesis, University of Maryland, 1990.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.9610800000001,
+            "t": 319.31581282000013,
+            "r": 562.8597091079121,
+            "b": 303.36326298398257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "[7] E. J. Gilbert. On the identifiability problem for functions of finite Markov chains. Ann. Math. Statist. , 30:688697, 1959.",
+      "text": "E. J. Gilbert. On the identifiability problem for functions of finite Markov chains. Ann. Math. Statist. , 30:688697, 1959.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96158000000014,
+            "t": 301.4357328200001,
+            "r": 563.0671434093271,
+            "b": 267.4831829839825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "[8] T. Jiang and N. D. Sidiropoulos. Kruskal's permutation lemma and the identification of CANDECOMP/PARAFAC and bilinear models with constant modulus constraints. IEEE Trans. Sig. Proc. , 52(9):2625 -2636, September 2004.",
+      "text": "T. Jiang and N. D. Sidiropoulos. Kruskal's permutation lemma and the identification of CANDECOMP/PARAFAC and bilinear models with constant modulus constraints. IEEE Trans. Sig. Proc. , 52(9):2625 -2636, September 2004.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 315.96218000000005,
+            "t": 265.5556528200001,
+            "r": 562.5147561002918,
+            "b": 249.60310298398258,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "[9] T. G. Kolda and B. W. Bader. Tensor decompositions and applications. SIAM Review , 51(3):455-500, September 2009.",
+      "text": "T. G. Kolda and B. W. Bader. Tensor decompositions and applications. SIAM Review , 51(3):455-500, September 2009.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 312.0012800000001,
+            "t": 247.5556528200001,
+            "r": 562.7539685298436,
+            "b": 222.72302298398256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "[10] J. B. Kruskal. Three-way arrays: rank and uniqueness of trilinear decompositions, with application to arithmetic complexity and statistics. Linear Algebra and Appl. , 18(2):95-138, 1977.",
+      "text": "J. B. Kruskal. Three-way arrays: rank and uniqueness of trilinear decompositions, with application to arithmetic complexity and statistics. Linear Algebra and Appl. , 18(2):95-138, 1977.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 312.0011800000001,
+            "t": 220.67557282000007,
+            "r": 562.993665702017,
+            "b": 195.84294298398254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "[11] X. Li, M. Parizeau, and R. Plamondon. Training hidden Markov models with multiple observations: A combinatorial method. IEEE Trans. Pattern Anal. Mach. Intell. , 22(4):371-377, April 2000.",
+      "text": "X. Li, M. Parizeau, and R. Plamondon. Training hidden Markov models with multiple observations: A combinatorial method. IEEE Trans. Pattern Anal. Mach. Intell. , 22(4):371-377, April 2000.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 312.00098,
+            "t": 193.79549282000016,
+            "r": 562.9938390417715,
+            "b": 168.84294298398254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "[12] H. X. Nguyen and M. Roughan. Improving hidden Markov model inferences with private data from multiple observers. IEEE Sig. Proc. Letters , 19(10):696-699, October 2012.",
+      "text": "H. X. Nguyen and M. Roughan. Improving hidden Markov model inferences with private data from multiple observers. IEEE Sig. Proc. Letters , 19(10):696-699, October 2012.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 312.00108000000006,
+            "t": 166.91541282000014,
+            "r": 562.9925012006221,
+            "b": 150.96286298398252,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "[13] T. Petrie. Probabilistic functions of finite state Markov chains. Ann. Math. Statist. , 40(1):97-115, 1969.",
+      "text": "T. Petrie. Probabilistic functions of finite state Markov chains. Ann. Math. Statist. , 40(1):97-115, 1969.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 312.0000800000002,
+            "t": 148.91541282000014,
+            "r": 562.9788759810292,
+            "b": 124.0827829839825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "[14] N. D. Sidiropoulos and R. Bro. On the uniqueness of multilinear decomposition of N -way arrays. J. Chemometrics , 14(3):229-239, June 2000.",
+      "text": "N. D. Sidiropoulos and R. Bro. On the uniqueness of multilinear decomposition of N -way arrays. J. Chemometrics , 14(3):229-239, June 2000.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 312.0003400000003,
+            "t": 122.03533282000012,
+            "r": 562.9926675000003,
+            "b": 97.20270298398259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "[15] A. Stegeman and N. Sidiropoulos. On Kruskal's uniqueness condition for Candecomp/Parafac decomposition. Linear Algebra and Appl. , 420(2-3):540-552, January 2007.",
+      "text": "A. Stegeman and N. Sidiropoulos. On Kruskal's uniqueness condition for Candecomp/Parafac decomposition. Linear Algebra and Appl. , 420(2-3):540-552, January 2007.",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 312.0013400000002,
+            "t": 95.1552528200001,
+            "r": 562.9354824276934,
+            "b": 70.32262298398257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "[16] P. Tune, H. X. Nguyen, and M. Roughan. Identifiability of Hidden Markov Models via tensor decomposition: Single and multiple observers. Technical report, University of Adelaide, 2012.",
+      "text": "P. Tune, H. X. Nguyen, and M. Roughan. Identifiability of Hidden Markov Models via tensor decomposition: Single and multiple observers. Technical report, University of Adelaide, 2012.",
+      "enumerated": true,
+      "marker": "[16]"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

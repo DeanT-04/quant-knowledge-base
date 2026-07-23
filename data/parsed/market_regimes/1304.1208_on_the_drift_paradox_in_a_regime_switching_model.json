@@ -1,0 +1,2678 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1304.1208_on_the_drift_paradox_in_a_regime_switching_model",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8907452865530515551,
+    "filename": "1304.1208_on_the_drift_paradox_in_a_regime_switching_model.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/82"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 581.98,
+            "r": 36.206559297218156,
+            "b": 232.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "arXiv:1304.1208v1  [math.PR]  3 Apr 2013",
+      "text": "arXiv:1304.1208v1  [math.PR]  3 Apr 2013"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.8,
+            "t": 676.5122253999999,
+            "r": 487.2013854000002,
+            "b": 661.7345565097345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "On The Drift Paradox in a Regime-Switching Model",
+      "text": "On The Drift Paradox in a Regime-Switching Model",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 198.881,
+            "t": 644.7755782999999,
+            "r": 275.35951413,
+            "b": 632.5145126796459,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "William Felder ∗",
+      "text": "William Felder ∗"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.589,
+            "t": 644.7755782999999,
+            "r": 416.88248122000005,
+            "b": 632.5145126796459,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Edward C. Waymire †",
+      "text": "Edward C. Waymire †"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 258.53200000000004,
+            "t": 618.3178351999999,
+            "r": 353.4682432000001,
+            "b": 608.0555126796459,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "November 27, 2024",
+      "text": "November 27, 2024"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 287.46500000000003,
+            "t": 565.1801939999998,
+            "r": 324.5358346,
+            "b": 556.2238165999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 99.27300000000004,
+            "t": 545.8626525999998,
+            "r": 512.7309625999998,
+            "b": 429.71477439292016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            951
+          ]
+        }
+      ],
+      "orig": "This note is motivated by the article by F. Lutscher, E. Pachepsky, and M. Lewis (2005), The Effect of Dispersal Patterns on Stream Populations SIAM Rev. Vol. 47 No. 4 pp. 749-772 on the drift paradox. We consider the case of a regime switching probabilistic model for a population of organisms living in a one dimensional environment with drift towards an absorbing boundary of the type introduced by Lutscher et al. (2005). In particular, the two regimes consist of birth/death style demographics governing the evolution of the immobile regime, and some form of advection-dispersion governing the evolution of the mobile regime, together with a regime-switching mechanism linking the two. In the present note it is shown for the regime-switching model, and in contrast to the results in the afore cited work, for any finite advection speed, no matter how large, there is a finite critical length of the domain above which the population can persist.",
+      "text": "This note is motivated by the article by F. Lutscher, E. Pachepsky, and M. Lewis (2005), The Effect of Dispersal Patterns on Stream Populations SIAM Rev. Vol. 47 No. 4 pp. 749-772 on the drift paradox. We consider the case of a regime switching probabilistic model for a population of organisms living in a one dimensional environment with drift towards an absorbing boundary of the type introduced by Lutscher et al. (2005). In particular, the two regimes consist of birth/death style demographics governing the evolution of the immobile regime, and some form of advection-dispersion governing the evolution of the mobile regime, together with a regime-switching mechanism linking the two. In the present note it is shown for the regime-switching model, and in contrast to the results in the afore cited work, for any finite advection speed, no matter how large, there is a finite critical length of the domain above which the population can persist."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000004,
+            "t": 406.56487799999985,
+            "r": 284.2950676000001,
+            "b": 393.6676441999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "1 Introduction and Preliminaries",
+      "text": "1 Introduction and Preliminaries",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000004,
+            "t": 378.92782409999984,
+            "r": 540.0057609000005,
+            "b": 288.26847196814157,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            719
+          ]
+        }
+      ],
+      "orig": "In the paper Lutscher et al. (2005), a benthos-drift model is presented, wherein a population of organisms existing in an environment subject to uni-directional flow is modeled as occupying two regimes: the benthic organisms are reproductive and non-mobile (these organisms are said to occupy regime 0 in our terminology), and the mobile organisms are non-reproductive (regime 1, here). Switching from the non-mobile to the mobile regimes is taken to occur at some constant rate, here called λ 0 , and switching from the mobile to the non-mobile regime also occurs with with constant rate, here called λ 1 ; such models fall within a general class of so-called regime or hybrid switching models, see Yin and Zhu (2010).",
+      "text": "In the paper Lutscher et al. (2005), a benthos-drift model is presented, wherein a population of organisms existing in an environment subject to uni-directional flow is modeled as occupying two regimes: the benthic organisms are reproductive and non-mobile (these organisms are said to occupy regime 0 in our terminology), and the mobile organisms are non-reproductive (regime 1, here). Switching from the non-mobile to the mobile regimes is taken to occur at some constant rate, here called λ 0 , and switching from the mobile to the non-mobile regime also occurs with with constant rate, here called λ 1 ; such models fall within a general class of so-called regime or hybrid switching models, see Yin and Zhu (2010)."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 284.08382409999996,
+            "r": 540.0054668000007,
+            "b": 234.07147196814162,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            354
+          ]
+        }
+      ],
+      "orig": "It is argued in (Lutscher et al. (2005), p. 755) that, 'if the rate at which individuals move times the probability that they leave the domain during dispersal exceeds the population growth rate, then the population will go extinct'. In particular, this provides a critical equation for length as a function of the growth rate and drift speed in the form",
+      "text": "It is argued in (Lutscher et al. (2005), p. 755) that, 'if the rate at which individuals move times the probability that they leave the domain during dispersal exceeds the population growth rate, then the population will go extinct'. In particular, this provides a critical equation for length as a function of the growth rate and drift speed in the form"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 264.53200000000004,
+            "t": 230.2359153,
+            "r": 539.9998356000001,
+            "b": 219.62730808328524,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "r = λ 0 π ( λ 1 , L, Y ) (1.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 210.2109152999999,
+            "r": 540.0003900000005,
+            "b": 173.3994719681416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "where L ('length') is the location of an absorbing boundary, Y = { Y t : t ≥ 0 } is a stochastic process (to be described further) that describes the motion of individuals in the mobile regime, and the 'wash-out probability'is given by",
+      "text": "where L ('length') is the location of an absorbing boundary, Y = { Y t : t ≥ 0 } is a stochastic process (to be described further) that describes the motion of individuals in the mobile regime, and the 'wash-out probability'is given by"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 243.37600000000006,
+            "t": 169.56391529999996,
+            "r": 539.9998356000002,
+            "b": 158.90230808328522,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "π ( λ 1 , L, Y ) = P ( T L < S 1 ) , (1.2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000006,
+            "t": 149.53891529999987,
+            "r": 540.0058939000002,
+            "b": 112.72647196814148,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            324
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 716.4919153000001,
+            "r": 539.9991423000001,
+            "b": 693.2294719681416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            325,
+            458
+          ]
+        }
+      ],
+      "orig": "where T L is the first passage time to the absorbing boundary at L , and S 1 , the regime switching time, is an exponentially distributed random variable with parameter λ 1 representing the amount of time an individual will remain motile before settling back into the benthos. In Lutscher et al. (2005) this formula (1.2) is obtained by means of a spectral analysis of another model (1.3) for population density u that in turn is argued to yield (1.1), where",
+      "text": "where T L is the first passage time to the absorbing boundary at L , and S 1 , the regime switching time, is an exponentially distributed random variable with parameter λ 1 representing the amount of time an individual will remain motile before settling back into the benthos. In Lutscher et al. (2005) this formula (1.2) is obtained by means of a spectral analysis of another model (1.3) for population density u that in turn is argued to yield (1.1), where"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 83.822,
+            "t": 102.8857008,
+            "r": 398.3854064,
+            "b": 93.13438450973456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "∗ Department of Mathematics, 368 Kidder Hall, Oregon State University, Corvallis, OR.",
+      "text": "∗ Department of Mathematics, 368 Kidder Hall, Oregon State University, Corvallis, OR."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000001,
+            "t": 91.63770079999995,
+            "r": 540.000728,
+            "b": 71.61234421504003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "† Department of Mathematics, 368 Kidder Hall, Oregon State University, Corvallis, OR. Corresponding author. waymire@math.oregonstate.edu.",
+      "text": "† Department of Mathematics, 368 Kidder Hall, Oregon State University, Corvallis, OR. Corresponding author. waymire@math.oregonstate.edu."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.273,
+            "t": 49.21382410000001,
+            "r": 308.72755,
+            "b": 39.84947196814164,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 181.58000000000004,
+            "t": 682.5235782999999,
+            "r": 539.9998356000002,
+            "b": 653.9723080832853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "∂u ( x, t ) ∂t = ru ( x, t ) -λu ( x, t ) + ∫ L 0 λk ( y, x ) u ( y, t ) dy, (1.3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 644.1589153,
+            "r": 540.0003900000005,
+            "b": 593.7974719681416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            434
+          ]
+        }
+      ],
+      "orig": "for r, λ > 0 , and a transition probability kernel k ( y, x ) . Weconsider the underlying regime switching model for the mobile and immobile populations from (Lutscher et al. (2005), p. 755) together with this formula (1.1), in place of (1.3), as the starting point for an alternative analysis of the drift paradox. In particular, we will see that the critical length so-determined differs substantially from that determined by (1.3).",
+      "text": "for r, λ > 0 , and a transition probability kernel k ( y, x ) . Weconsider the underlying regime switching model for the mobile and immobile populations from (Lutscher et al. (2005), p. 755) together with this formula (1.1), in place of (1.3), as the starting point for an alternative analysis of the drift paradox. In particular, we will see that the critical length so-determined differs substantially from that determined by (1.3)."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 576.0638241000001,
+            "r": 540.0054668000004,
+            "b": 553.1494719681417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "The drift speed is determined by the following general assumption regarding the nature of the advectiondispersion in the mobile regime.",
+      "text": "The drift speed is determined by the following general assumption regarding the nature of the advectiondispersion in the mobile regime."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 549.3902790000002,
+            "r": 540.0015431000002,
+            "b": 512.6595437000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            264
+          ]
+        }
+      ],
+      "orig": "The Drift Hypothesis (DH): Assume Y = { Y t : t ≥ 0 } is a stochastic process starting at Y 0 = 0 and having independent, stationary increments with E ( Y t + s -Y s ) = vt 0 < v < ∞ . Moreover, assume that the paths of Y are right-continuous without upward jumps.",
+      "text": "The Drift Hypothesis (DH): Assume Y = { Y t : t ≥ 0 } is a stochastic process starting at Y 0 = 0 and having independent, stationary increments with E ( Y t + s -Y s ) = vt 0 < v < ∞ . Moreover, assume that the paths of Y are right-continuous without upward jumps."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.00000000000011,
+            "t": 495.11691530000024,
+            "r": 540.0001571000006,
+            "b": 444.7564719681419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            375
+          ]
+        }
+      ],
+      "orig": "The stochastic process Y represents the motion of individuals in the mobile phase. Such processes are said to be spectrally negative L´ evy processes . The point of the spectral negativity assumption is to exclude motile particles that can jump over L without being absorbed there. We note that such a process is nonexplosive under the assumption of right-continuity in (DH).",
+      "text": "The stochastic process Y represents the motion of individuals in the mobile phase. Such processes are said to be spectrally negative L´ evy processes . The point of the spectral negativity assumption is to exclude motile particles that can jump over L without being absorbed there. We note that such a process is nonexplosive under the assumption of right-continuity in (DH)."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.00000000000011,
+            "t": 440.75727880000034,
+            "r": 273.78424570000016,
+            "b": 431.20747196814193,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "The L´ evy-Itˆ o decomposition for this process is",
+      "text": "The L´ evy-Itˆ o decomposition for this process is"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 254.19400000000007,
+            "t": 427.5319153000003,
+            "r": 539.9998356000001,
+            "b": 407.1543080832853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Y t = ˜ vt + √ DB t + J t , (1.4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 394.60591530000005,
+            "r": 539.9997404000001,
+            "b": 371.34347196814167,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "where ˜ v > 0 is deterministic drift to the right, D ≥ 0 , B t is a standard Brownian motion, and J t is a L´ evy process, which jumps only to the left.",
+      "text": "where ˜ v > 0 is deterministic drift to the right, D ≥ 0 , B t is a standard Brownian motion, and J t is a L´ evy process, which jumps only to the left."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 367.5079153000001,
+            "r": 268.4569548,
+            "b": 357.7944719681417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "With v defined by (DH), it can be shown that",
+      "text": "With v defined by (DH), it can be shown that"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 257.429,
+            "t": 349.1025783000001,
+            "r": 539.9998356000001,
+            "b": 320.5513080832854,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "v = ˜ v + ∫ ∞ 0 xn ( dx ) , (1.5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 310.7379153000001,
+            "r": 336.0733328000002,
+            "b": 301.0244719681417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "where n ( · ) is the L´ evy measure associated with this process.",
+      "text": "where n ( · ) is the L´ evy measure associated with this process."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99999999999989,
+            "t": 297.18891530000013,
+            "r": 540.0001321000001,
+            "b": 273.92647196814175,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "This quantity v is called the effective velocity , and it accounts for both deterministic drift to the right, and average L´ evy drift. Our assumption in (DH) that v > 0 , amounts to a constraint on the pair ˜ v, n ( · ) .",
+      "text": "This quantity v is called the effective velocity , and it accounts for both deterministic drift to the right, and average L´ evy drift. Our assumption in (DH) that v > 0 , amounts to a constraint on the pair ˜ v, n ( · ) ."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99999999999997,
+            "t": 256.1918241000001,
+            "r": 540.0054668000004,
+            "b": 218.83430808328546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "The following simple lemma provides an alternative approach to the calculation of wash-out probabilities for this model in terms of the Laplace transform of the first passage time to the boundary evaluated at λ 1 .",
+      "text": "The following simple lemma provides an alternative approach to the calculation of wash-out probabilities for this model in terms of the Laplace transform of the first passage time to the boundary evaluated at λ 1 ."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99999999999997,
+            "t": 208.1292790000001,
+            "r": 293.15567990000017,
+            "b": 198.3219981000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Lemma 1.1. The wash-out probability is given by,",
+      "text": "Lemma 1.1. The wash-out probability is given by,"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 251.66999999999996,
+            "t": 187.3925783000002,
+            "r": 539.9998356000001,
+            "b": 174.28630808328546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "π ( λ 1 , L, Y ) = E e -λ 1 T L . (1.6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 161.5752788000001,
+            "r": 99.08729529999995,
+            "b": 152.1825437000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Proof.",
+      "text": "Proof."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 161.56899999999996,
+            "t": 150.68657830000006,
+            "r": 539.9998356000001,
+            "b": 137.52830808328542,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "π ( λ 1 , L, Y ) = P ( T L < S 1 ) = E ( P ( T L < S 1 | T L )) = E ( e -λ 1 T L ) . (1.7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 106.1998241,
+            "r": 540.0054668000002,
+            "b": 69.73747196814156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 159.62582410000005,
+            "r": 100.7891149,
+            "b": 150.26147196814156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            226,
+            233
+          ]
+        }
+      ],
+      "orig": "This is especially relevant when viewed in terms of the results obtained by Pakes (1996) that can be used to provide an explicit role of the parameters in connection with the wash-out probability in Lemma 1.1. Namely, one has so that",
+      "text": "This is especially relevant when viewed in terms of the results obtained by Pakes (1996) that can be used to provide an explicit role of the parameters in connection with the wash-out probability in Lemma 1.1. Namely, one has so that"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.273,
+            "t": 49.21382410000001,
+            "r": 308.72755,
+            "b": 39.84947196814164,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 282.3520000000001,
+            "t": 580.1619153000001,
+            "r": 540.0003856000002,
+            "b": 555.7651792965418,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "E T L = L v , (1.10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 552.3875783,
+            "r": 306.3162750000001,
+            "b": 535.9583080832853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "where v is the effective velocity, v = ˜ v + ∫ ∞ 0 xn ( dx ) .",
+      "text": "where v is the effective velocity, v = ˜ v + ∫ ∞ 0 xn ( dx ) ."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.00000000000006,
+            "t": 526.323279,
+            "r": 539.9961453000001,
+            "b": 502.03630808328523,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "Lemma 1.2. The function L → π ( λ 1 , L, Y ) , for a fixed value of λ 1 , is continuous and non-increasing, with π ( λ 1 , 0 , Y ) = 1 and lim L →∞ π ( λ 1 , L, Y ) = 0 .",
+      "text": "Lemma 1.2. The function L → π ( λ 1 , L, Y ) , for a fixed value of λ 1 , is continuous and non-increasing, with π ( λ 1 , 0 , Y ) = 1 and lim L →∞ π ( λ 1 , L, Y ) = 0 ."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.00000000000006,
+            "t": 490.18191529999996,
+            "r": 540.0036925000006,
+            "b": 399.17347196814165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            654
+          ]
+        }
+      ],
+      "orig": "Proof. To see that π ( λ 1 , 0 , Y ) = 1 , note that Y 0 = 0 implies T 0 = 0 so that π ( λ 1 , 0 , v ) = P (0 < S 1 ) = 1 . That π is a non-increasing function of L follows easily from the fact that L 1 < L 2 implies T L 1 < T L 2 so that T L 2 < S 1 implies T L 1 < S 1 and we have P ( T L 2 < S 1 ) ≤ P ( T L 1 < S 1 ) . To prove that lim L →∞ π ( λ 1 , L, Y ) = 0 , first note that T L →∞ as L →∞ by the non-explosivity of the underlying L´ evy process Y under hypothesis (DH). So the asserted limit follows from Lemma 1.1 and the dominated convergence theorem. The continuity of π as a function of L is also evident from the formulae of Pakes (1996).",
+      "text": "Proof. To see that π ( λ 1 , 0 , Y ) = 1 , note that Y 0 = 0 implies T 0 = 0 so that π ( λ 1 , 0 , v ) = P (0 < S 1 ) = 1 . That π is a non-increasing function of L follows easily from the fact that L 1 < L 2 implies T L 1 < T L 2 so that T L 2 < S 1 implies T L 1 < S 1 and we have P ( T L 2 < S 1 ) ≤ P ( T L 1 < S 1 ) . To prove that lim L →∞ π ( λ 1 , L, Y ) = 0 , first note that T L →∞ as L →∞ by the non-explosivity of the underlying L´ evy process Y under hypothesis (DH). So the asserted limit follows from Lemma 1.1 and the dominated convergence theorem. The continuity of π as a function of L is also evident from the formulae of Pakes (1996)."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 386.37091530000004,
+            "r": 540.0040846000002,
+            "b": 349.5594719681417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            272
+          ]
+        }
+      ],
+      "orig": "In the case that 0 < λ 0 < r , as noted in Lutscher et al. (2005), the population growth is obviously sufficient to prevent extinction without further need for analysis. Thus we restict attention to λ 0 > r and obtain the following main consequence of the previous lemmas.",
+      "text": "In the case that 0 < λ 0 < r , as noted in Lutscher et al. (2005), the population growth is obviously sufficient to prevent extinction without further need for analysis. Thus we restict attention to λ 0 > r and obtain the following main consequence of the previous lemmas."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 336.83327900000006,
+            "r": 540.0002750000001,
+            "b": 326.1483080832853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "Theorem 1.1. Under (DH) with λ 0 , λ 1 , r > 0 and r < λ 0 , there is an L = L c such that r = λ 0 π ( λ 1 , L c , Y ) .",
+      "text": "Theorem 1.1. Under (DH) with λ 0 , λ 1 , r > 0 and r < λ 0 , there is an L = L c such that r = λ 0 π ( λ 1 , L c , Y ) ."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.00000000000011,
+            "t": 314.0782788000001,
+            "r": 495.1522346000007,
+            "b": 304.5284719681417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "Proof. The asssertion follows immediately from Lemma 1.2 and the intermediate value theorem.",
+      "text": "Proof. The asssertion follows immediately from Lemma 1.2 and the intermediate value theorem."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 291.802279,
+            "r": 539.9997404000002,
+            "b": 268.4634719681417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "Example 1: Suppose that the process governing the mobile phase is Brownian motion with drift v and dispersion coefficient D ≥ 0 . Then we have",
+      "text": "Example 1: Suppose that the process governing the mobile phase is Brownian motion with drift v and dispersion coefficient D ≥ 0 . Then we have"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 184.44200000000006,
+            "t": 262.98691529999996,
+            "r": 540.0003856000002,
+            "b": 229.75517929654177,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "P ( T L < S 1 ) = ˆ f T L ( λ 1 ) = exp( vL D -√ v 2 +2 Dλ 1 D L ) (1.11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 219.54482409999991,
+            "r": 278.8256269,
+            "b": 210.18047196814155,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "so that the critical equation (1.1) takes the form",
+      "text": "so that the critical equation (1.1) takes the form"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 231.55,
+            "t": 204.70491530000004,
+            "r": 540.0003856000002,
+            "b": 170.39730808328534,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "ln( r λ 0 ) = ( v D -√ v 2 +2 Dλ 1 D ) L, (1.12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 232.313,
+            "t": 151.06357830000002,
+            "r": 540.0003856000002,
+            "b": 122.47430808328534,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "L = ln( λ 0 r ) 2 λ 1 ( √ 1 + 2 Dλ 1 v 2 +1) v. (1.13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 116.53491529999997,
+            "r": 340.1224053000001,
+            "b": 106.82147196814162,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "In particular it follows that in the limit as v →∞ one obtains",
+      "text": "In particular it follows that in the limit as v →∞ one obtains"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 267.47600000000006,
+            "t": 94.64191530000005,
+            "r": 540.0003856000002,
+            "b": 69.17030808328536,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "L ≈ 1 λ 1 ln( λ 0 r ) v. (1.14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 261.196,
+            "t": 705.4395783,
+            "r": 539.9998356000001,
+            "b": 693.2294719681415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "E ( e -sT L ) = e Lη ( s ) , (1.8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 682.9179153,
+            "r": 531.5467298,
+            "b": 673.2044719681415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "where θ = η ( s ) is the unique solution to ϕ ( θ ) = -s , and ϕ ( θ ) is the cumulant function of the process Y :",
+      "text": "where θ = η ( s ) is the unique solution to ϕ ( θ ) = -s , and ϕ ( θ ) is the cumulant function of the process Y :"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 93.23000000000002,
+            "t": 661.0915783000002,
+            "r": 539.9998356000002,
+            "b": 632.5403080832854,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "ϕ ( θ ) = ( ˜ v + ∫ 1 0 xn ( dx ) ) θ -Dθ 2 2 + ∫ 1 0 (1 -e -θx -θx ) n ( dx ) + ∫ ∞ 1 (1 -e -θx ) n ( dx ) . (1.9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 88.93600000000009,
+            "t": 612.9988241000002,
+            "r": 257.9070499000001,
+            "b": 603.6344719681417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "In particular, using (1.8) it follows that",
+      "text": "In particular, using (1.8) it follows that"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.00000000000009,
+            "t": 590.9092790000002,
+            "r": 136.34187180000006,
+            "b": 581.1019981000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Corollary 1.1.",
+      "text": "Corollary 1.1.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.273,
+            "t": 49.21382410000001,
+            "r": 308.72755,
+            "b": 39.84947196814164,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 716.4919153000001,
+            "r": 540.0017563000005,
+            "b": 679.6804719681417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "Observe that if D = 0 then the asymptotic formula (1.14) is in fact the exact equation. So this example also covers the case of deterministic motion in the mobile phase but, more to the point, also shows that large enough v nuliifies the dispersion effect.",
+      "text": "Observe that if D = 0 then the asymptotic formula (1.14) is in fact the exact equation. So this example also covers the case of deterministic motion in the mobile phase but, more to the point, also shows that large enough v nuliifies the dispersion effect."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 675.4958241000002,
+            "r": 540.0054668000004,
+            "b": 584.8354719681419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            718
+          ]
+        }
+      ],
+      "orig": "We see here that, although these results are based on both the underlying regime switching model introduced in (Lutscher et al. (2005), Sec 3.1), and the characterization of the critical length given by expression (3.8) there, the conclusions above differ qualitatively from Lutscher et al. (2005) concerning equation (1.1) when calculated in the context of (1.3). Specifically, for any finite advection velocity, no matter how large, there will be a length that satisfies (1.1), whereas in Lutscher et al. (2005) it was found that there was a critical advection velocity v c such that L → ∞ as v → v -c , and above which no length will satisfy (1.1); see Figure 1 for comparison to (Lutscher et al. (2005), Figure 1).",
+      "text": "We see here that, although these results are based on both the underlying regime switching model introduced in (Lutscher et al. (2005), Sec 3.1), and the characterization of the critical length given by expression (3.8) there, the conclusions above differ qualitatively from Lutscher et al. (2005) concerning equation (1.1) when calculated in the context of (1.3). Specifically, for any finite advection velocity, no matter how large, there will be a length that satisfies (1.1), whereas in Lutscher et al. (2005) it was found that there was a critical advection velocity v c such that L → ∞ as v → v -c , and above which no length will satisfy (1.1); see Figure 1 for comparison to (Lutscher et al. (2005), Figure 1)."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 188.342,
+            "t": 239.57682409999995,
+            "r": 423.6621961000004,
+            "b": 230.21247196814159,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Figure 1: Critical length as a function of drift velocity",
+      "text": "Figure 1: Critical length as a function of drift velocity"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00000000000001,
+            "t": 195.30487800000003,
+            "r": 260.8964154000001,
+            "b": 182.40764420000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "2 Some Concluding Remarks",
+      "text": "2 Some Concluding Remarks",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.00000000000001,
+            "t": 167.66682409999999,
+            "r": 540.0003900000003,
+            "b": 131.20447196814155,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "While the main result of this paper is somewhat surprisingly at odds with the formula (4.6) for the critical length obtained by Lutscher et al. (2005) as a function of drift speed, the resolution appears to be that the the regime-switching model and the model (1.3) are in fact quite different.",
+      "text": "While the main result of this paper is somewhat surprisingly at odds with the formula (4.6) for the critical length obtained by Lutscher et al. (2005) as a function of drift speed, the resolution appears to be that the the regime-switching model and the model (1.3) are in fact quite different."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 127.01982409999994,
+            "r": 540.0054668000004,
+            "b": 77.00747196814154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            433
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 716.1428241000001,
+            "r": 540.0003900000006,
+            "b": 652.5814719681417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            434,
+            873
+          ]
+        }
+      ],
+      "orig": "In a still different but somewhat related framework to that of Lutscher et al. (2005), Kesten (1978) obtained the existence of a finite critical drift speed for a system of branching Brownian motions with negative drift and absorbed at the origin. While such results capture the spirit of the result in Lutscher et al. (2005), this involves non-linear production of offspring but without regime-switching. The following simple result is provided to simply clarify the respective roles of linear and non-linear production from a probabilistic perspective. The case of non-linear production goes back to Henry McKean's probabilistic representation of solutions to the Kolmogorov-Petrovski-Piskunov-Fisher (KPPF) reaction-diffusion equation 1 in McKean (1975). While we expect that the description given below for the linear case is known, we are unable to find a reference. 2",
+      "text": "In a still different but somewhat related framework to that of Lutscher et al. (2005), Kesten (1978) obtained the existence of a finite critical drift speed for a system of branching Brownian motions with negative drift and absorbed at the origin. While such results capture the spirit of the result in Lutscher et al. (2005), this involves non-linear production of offspring but without regime-switching. The following simple result is provided to simply clarify the respective roles of linear and non-linear production from a probabilistic perspective. The case of non-linear production goes back to Henry McKean's probabilistic representation of solutions to the Kolmogorov-Petrovski-Piskunov-Fisher (KPPF) reaction-diffusion equation 1 in McKean (1975). While we expect that the description given below for the linear case is known, we are unable to find a reference. 2"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.273,
+            "t": 49.21382410000001,
+            "r": 308.72755,
+            "b": 39.84947196814153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99999999999983,
+            "t": 642.2625783000001,
+            "r": 540.0060002000004,
+            "b": 571.8693080832853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            502
+          ]
+        }
+      ],
+      "orig": "Theorem 2.1. Let A r f ( x ) = 1 2 Df ′′ ( x ) + vf ′ ( x ) + rf ( x ) be the infintesimal generator of the transition operator T r t , where r > 0 , D ≥ 0 , v ∈ R . Also let Y be a Markov process with infinitesimal generator A 0 = 1 2 D ∂ 2 ∂x 2 + v ∂ ∂x and transition operator T 0 t , and let N = { N t : t ≥ 0 } be a Yule-Furry branching process with rate r > 0 , which is independent of Y . Then for f ∈ D A one has that M t = N t f ( Y ( t )) -∫ t 0 A r N s f ( Y s ) ds, t ≥ 0 , is a martingale.",
+      "text": "Theorem 2.1. Let A r f ( x ) = 1 2 Df ′′ ( x ) + vf ′ ( x ) + rf ( x ) be the infintesimal generator of the transition operator T r t , where r > 0 , D ≥ 0 , v ∈ R . Also let Y be a Markov process with infinitesimal generator A 0 = 1 2 D ∂ 2 ∂x 2 + v ∂ ∂x and transition operator T 0 t , and let N = { N t : t ≥ 0 } be a Yule-Furry branching process with rate r > 0 , which is independent of Y . Then for f ∈ D A one has that M t = N t f ( Y ( t )) -∫ t 0 A r N s f ( Y s ) ds, t ≥ 0 , is a martingale."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99999999999984,
+            "t": 562.3539152999999,
+            "r": 372.1062749999998,
+            "b": 551.7443080832853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Proof. Let F t = σ ( N s , Y s : s ≤ t ) . Then we have, for all 0 ≤ s ≤ t ,",
+      "text": "Proof. Let F t = σ ( N s , Y s : s ≤ t ) . Then we have, for all 0 ≤ s ≤ t ,"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 92.4769999999998,
+            "t": 540.9955783000001,
+            "r": 539.9998356,
+            "b": 405.7183080832853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            477
+          ]
+        }
+      ],
+      "orig": "E ( M t |F s ) = E ( N t |F s ) E ( f ( Y t ) |F s ) -∫ s 0 N s ′ f ( Y s ′ ) ds ′ -∫ t s E ( N s ′ A r f ( Y s ′ ) |F s ) ds ′ = N s e r ( t -s ) T 0 t -s f ( Y s ) -∫ s 0 A r N s ′ f ( Y s ′ ) ds ′ -∫ t s e r ( s ′ -s ) N s ( ∂T 0 s ′ -s f ( Y s ′ ) ∂s ′ + rT 0 s ′ -s f ( Y s )) ds ′ = N s e r ( t -s ) T 0 t -s f ( Y s ) -∫ s 0 A r N s ′ f ( Y s ′ ) ds ′ -( e r ( t -s ) N s T 0 t -s f ( Y s ) -N s f ( Y s )) = N s f ( Y s ) -∫ s 0 A r N s ′ f ( Y s ′ ) ds ′ = M s . (2.1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 88.936,
+            "t": 375.0815783,
+            "r": 378.81227500000006,
+            "b": 362.5203080832853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "It follows from Theorem 2.1 that letting Y ( j ) = Y, j = 1 , . . . , N t ,",
+      "text": "It follows from Theorem 2.1 that letting Y ( j ) = Y, j = 1 , . . . , N t ,"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 199.64400000000003,
+            "t": 350.5025783,
+            "r": 539.9998356000002,
+            "b": 316.78730808328527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "u ( x, t ) = E N t ∑ j =1 f ( Y ( j ) t ) ≡ E x N t f ( Y t ) , t ≥ 0 , (2.2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 192.79600000000005,
+            "t": 295.2339153,
+            "r": 539.9998356000002,
+            "b": 270.8361792965418,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "∂u ∂t = A r u ( x, t ) , u ( x, 0 + ) = f ( x ) , x ∈ R , t > 0 . (2.3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.00000000000006,
+            "t": 303.60882409999994,
+            "r": 99.10911350000006,
+            "b": 294.24447196814157,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "solves",
+      "text": "solves"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.0,
+            "t": 265.22682409999993,
+            "r": 540.0054668000006,
+            "b": 133.91947196814158,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1040
+          ]
+        }
+      ],
+      "orig": "In the case of KPPF the branching offspring evolve independently along paths distributed as their parent, whereas in the case of linear production the offspring particles are clones following precisely the same path as their parent. This is an essential difference between the stochastic branching and (linearized) dynamic growth models. In the case of branching Brownian motions with negative drift and in the absence of regime switching, Kesten (1978) shows that at sufficiently high drift rate all particles will eventually be absorbed at the outlet regardless of L , namely | v | > √ 2 Dr , while there is a chance to persist at lower drift speeds toward the absorbing boundary. For the linear production rates analyzed here and in Lutscher et al. (2005), because of regime switching and cloning the eventual absorption is sure to occur for any positive drift speed only if L is too small, i.e., it is always possible to find a (finite) length L large enough for persistence under arbitrarily specified drift and regime switching rates.",
+      "text": "In the case of KPPF the branching offspring evolve independently along paths distributed as their parent, whereas in the case of linear production the offspring particles are clones following precisely the same path as their parent. This is an essential difference between the stochastic branching and (linearized) dynamic growth models. In the case of branching Brownian motions with negative drift and in the absence of regime switching, Kesten (1978) shows that at sufficiently high drift rate all particles will eventually be absorbed at the outlet regardless of L , namely | v | > √ 2 Dr , while there is a chance to persist at lower drift speeds toward the absorbing boundary. For the linear production rates analyzed here and in Lutscher et al. (2005), because of regime switching and cloning the eventual absorption is sure to occur for any positive drift speed only if L is too small, i.e., it is always possible to find a (finite) length L large enough for persistence under arbitrarily specified drift and regime switching rates."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.00000000000001,
+            "t": 123.75041759999999,
+            "r": 540.0012479999997,
+            "b": 92.27238450973448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            364
+          ]
+        }
+      ],
+      "orig": "1 The KPPF equation is a reaction-diffusion independently introduced by Kolmogorov, Petrovski and Piskunov on one hand, and by Fisher on the other. It is sometimes simply referred to as KPP in the older mathematics literature. However Fisher's considerations in populaton genetics lead to the same equation, and more modern references either refer to FKPP or KPPF.",
+      "text": "1 The KPPF equation is a reaction-diffusion independently introduced by Kolmogorov, Petrovski and Piskunov on one hand, and by Fisher on the other. It is sometimes simply referred to as KPP in the older mathematics literature. However Fisher's considerations in populaton genetics lead to the same equation, and more modern references either refer to FKPP or KPPF."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 90.65941759999998,
+            "r": 540.0007279999995,
+            "b": 70.14038450973453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "2 Of course, in the case of a negative rate in the linear case, the probabilistic representation is also well known in terms of 'particle killing'via the Feynman-Kac formula.",
+      "text": "2 Of course, in the case of a negative rate in the linear case, the probabilistic representation is also well known in terms of 'particle killing'via the Feynman-Kac formula."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.273,
+            "t": 49.21382410000001,
+            "r": 308.72755,
+            "b": 39.84947196814153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 718.939878,
+            "r": 184.23032260000005,
+            "b": 706.0426442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Acknowledgments",
+      "text": "Acknowledgments",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 691.3028241000001,
+            "r": 540.0003900000004,
+            "b": 668.3894719681416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "The authors wish to thank Enrique Thomann for helpful discussions about this problem, and for calling our attention to regime switching theory.",
+      "text": "The authors wish to thank Enrique Thomann for helpful discussions about this problem, and for calling our attention to regime switching theory."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 645.435878,
+            "r": 138.65244520000002,
+            "b": 632.5386442,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 617.9842788,
+            "r": 539.9987495000001,
+            "b": 594.8854719681416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "H. Kesten. Branching brownian motion with absorption. Stochastic Processes and their Applications , 7(1): 9-47, 1978.",
+      "text": "Kesten. Branching brownian motion with absorption. Stochastic Processes and their Applications , 7(1): 9-47, 1978.",
+      "enumerated": true,
+      "marker": "H."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.00000000000004,
+            "t": 581.9192788,
+            "r": 540.0000207000002,
+            "b": 545.2714719681417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "F. Lutscher, E. Pachepsky, and M.A. Lewis. The effect of dispersal patterns on stream populations. SIAM Journal of Applied Mathematics , 65(4):1305-1327, 2005. Reprinted in SIAM Review , v. 47(4), (2005), 749-772.",
+      "text": "Lutscher, E. Pachepsky, and M.A. Lewis. The effect of dispersal patterns on stream populations. SIAM Journal of Applied Mathematics , 65(4):1305-1327, 2005. Reprinted in SIAM Review , v. 47(4), (2005), 749-772.",
+      "enumerated": true,
+      "marker": "F."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0000000000001,
+            "t": 532.3052788000001,
+            "r": 539.9999351000001,
+            "b": 509.2064719681418,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "H. P. McKean. Application of Brownian motion to the equation of Kolmogorov-Petrovskii-Piskunov. Comm. Pure Appl. Math. , 28:323-331, 1975.",
+      "text": "P. McKean. Application of Brownian motion to the equation of Kolmogorov-Petrovskii-Piskunov. Comm. Pure Appl. Math. , 28:323-331, 1975.",
+      "enumerated": true,
+      "marker": "H."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0000000000001,
+            "t": 496.2412788000002,
+            "r": 539.9998351000002,
+            "b": 473.1414719681418,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "A. G. Pakes. A hitting time for L´ evy processes, with applications to dams and branching processes. Ann. Fac. Sci. Toulouse Math. (6) , 5(3):521-544, 1996.",
+      "text": "G. Pakes. A hitting time for L´ evy processes, with applications to dams and branching processes. Ann. Fac. Sci. Toulouse Math. (6) , 5(3):521-544, 1996.",
+      "enumerated": true,
+      "marker": "A."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.00000000000011,
+            "t": 460.1762788000002,
+            "r": 497.71315240000007,
+            "b": 450.6264719681418,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "G.G. Yin and C.. Zhu. Hybrid switching diffusions: Properties and applications . Springer, 2010.",
+      "text": "G.G. Yin and C.. Zhu. Hybrid switching diffusions: Properties and applications . Springer, 2010.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 303.2730000000001,
+            "t": 49.21382410000024,
+            "r": 308.72755000000006,
+            "b": 39.849471968141756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/58"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 86.53025817871094,
+            "t": 489.3707580566406,
+            "r": 293.5987854003906,
+            "b": 329.2342224121094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/58"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    }
+  }
+}

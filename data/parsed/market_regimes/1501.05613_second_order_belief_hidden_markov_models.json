@@ -1,0 +1,6932 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1501.05613_second_order_belief_hidden_markov_models",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7046207611764504540,
+    "filename": "1501.05613_second_order_belief_hidden_markov_models.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/groups/12"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/214"
+      },
+      {
+        "$ref": "#/texts/215"
+      },
+      {
+        "$ref": "#/texts/216"
+      },
+      {
+        "$ref": "#/texts/217"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/58"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/67"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/75"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 570.8400146484375,
+            "r": 36.206559297218156,
+            "b": 232.0000146484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "arXiv:1501.05613v1  [cs.AI]  22 Jan 2015",
+      "text": "arXiv:1501.05613v1  [cs.AI]  22 Jan 2015"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 171.972,
+            "t": 724.9938926484375,
+            "r": 443.3877577999998,
+            "b": 712.0966588484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Second-order Belief Hidden Markov Models",
+      "text": "Second-order Belief Hidden Markov Models",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 157.014,
+            "t": 689.5832396484375,
+            "r": 457.8431499999999,
+            "b": 678.3717890413578,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "Jungyeul Park 1 , Mouna Chebbah 1 , 2 and Siwar Jendoubi 1 , 2 , Arnaud Martin 1",
+      "text": "Jungyeul Park 1 , Mouna Chebbah 1 , 2 and Siwar Jendoubi 1 , 2 , Arnaud Martin 1"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 196.04099999999994,
+            "t": 667.3519584484375,
+            "r": 419.31704479999985,
+            "b": 657.698399158172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "1 UMR6074 IRISA, Université de Rennes1, Lannion, France",
+      "text": "1 UMR6074 IRISA, Université de Rennes1, Lannion, France"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 148.2259999999999,
+            "t": 656.3929584484374,
+            "r": 467.1339488,
+            "b": 636.4653588634775,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "2 LARODEC Laboratory, University of Tunis, ISG Tunis, Tunisia {jungyeul.park,mouna.chebbah,arnaud.martin}@univ-rennes1.fr",
+      "text": "2 LARODEC Laboratory, University of Tunis, ISG Tunis, Tunisia {jungyeul.park,mouna.chebbah,arnaud.martin}@univ-rennes1.fr"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 202.5219999999999,
+            "t": 631.6752994484375,
+            "r": 412.8378783999999,
+            "b": 625.5063588634775,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "jendoubi.siwar@etudiant.univ-rennes1.fr",
+      "text": "jendoubi.siwar@etudiant.univ-rennes1.fr"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 163.11099999999988,
+            "t": 591.8628306484376,
+            "r": 452.2456079999998,
+            "b": 518.0633991581724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            523
+          ]
+        }
+      ],
+      "orig": "Abstract. Hidden Markov Models (HMMs) are learning methods for pattern recognition. The probabilistic HMMs have been one of the most used techniques based on the Bayesian model. First-order probabilistic HMMs were adapted to the theory of belief functions such that Bayesian probabilities were replaced with mass functions. In this paper, we present a second-order Hidden Markov Model using belief functions. Previous works in belief HMMs have been focused on the first-order HMMs. We extend them to the second-order model.",
+      "text": "Abstract. Hidden Markov Models (HMMs) are learning methods for pattern recognition. The probabilistic HMMs have been one of the most used techniques based on the Bayesian model. First-order probabilistic HMMs were adapted to the theory of belief functions such that Bayesian probabilities were replaced with mass functions. In this paper, we present a second-order Hidden Markov Model using belief functions. Previous works in belief HMMs have been focused on the first-order HMMs. We extend them to the second-order model."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 163.11099999999988,
+            "t": 504.1668306484379,
+            "r": 452.2499023999997,
+            "b": 485.1613991581724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "Keywords: Belief functions, Dempster-Shafer theory, first-order belief HMM, second-order belief HMM, probabilistic HMM",
+      "text": "Keywords: Belief functions, Dempster-Shafer theory, first-order belief HMM, second-order belief HMM, probabilistic HMM"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 134.76499999999987,
+            "t": 461.33910264843786,
+            "r": 217.5786703999999,
+            "b": 450.5913778484379,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 134.76499999999987,
+            "t": 435.54066724843784,
+            "r": 480.5958879999994,
+            "b": 295.465831248438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1031
+          ]
+        }
+      ],
+      "orig": "AHidden Markov Model (HMM) is one of the most important statistical models in machine learning [ ? ]. A HMM is a classifier or labeler that can assign label or class to each unit in a sequence [ ? ]. It has been successfully utilized over several decades in many applications for processing text and speech such as Part-of-Speech (POS) tagging [ ? ], named entity recognition [ ? ] and speech recognition [ ? ]. However, such works in the early part of the period are mainly based on first-order HMMs. As a matter of fact, the assumption in the first-order HMM, where the state transition and output observation depend only on one previous state, does not exactly match with the real applications [ ? ]. Therefore, they require a number of sophistications. For example, even though the first-order HMM for POS tagging in early 1990s performs reasonably well, it captures a more limited amount of the contextual information than is available [ ? ]. As consequence, most modern statistical POS taggers use a second-order model [ ? ].",
+      "text": "AHidden Markov Model (HMM) is one of the most important statistical models in machine learning [ ? ]. A HMM is a classifier or labeler that can assign label or class to each unit in a sequence [ ? ]. It has been successfully utilized over several decades in many applications for processing text and speech such as Part-of-Speech (POS) tagging [ ? ], named entity recognition [ ? ] and speech recognition [ ? ]. However, such works in the early part of the period are mainly based on first-order HMMs. As a matter of fact, the assumption in the first-order HMM, where the state transition and output observation depend only on one previous state, does not exactly match with the real applications [ ? ]. Therefore, they require a number of sophistications. For example, even though the first-order HMM for POS tagging in early 1990s performs reasonably well, it captures a more limited amount of the contextual information than is available [ ? ]. As consequence, most modern statistical POS taggers use a second-order model [ ? ]."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 134.7649999999999,
+            "t": 292.05366724843793,
+            "r": 480.5917105999996,
+            "b": 175.9047890413583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            871
+          ]
+        }
+      ],
+      "orig": "Uncertainty theories can be integrated in statistical models such as HMMs: The probability theory has been used to classify units in a sequence with the Bayesian model. Then, the theory of belief functions is employed to this statistical model because the fusion proposed in this theory simplifies computations of a posteriori distributions of hidden data in Markov models. This theory can provide rules to combine evidences from different sources to reach a certain level of belief [ ? , ? , ? , ? , ? ]. Belief HMMs introduced in [ ? , ? , ? , ? , ? , ? , ? , ? , ? ], use combination rules proposed in the framework of the theory of belief functions. This paper is an extension of previous ideas for second-order belief HMMs. For the current work, we focus on explaining a second-order model. However, the proposed method can be easily extended to higher-order models.",
+      "text": "Uncertainty theories can be integrated in statistical models such as HMMs: The probability theory has been used to classify units in a sequence with the Bayesian model. Then, the theory of belief functions is employed to this statistical model because the fusion proposed in this theory simplifies computations of a posteriori distributions of hidden data in Markov models. This theory can provide rules to combine evidences from different sources to reach a certain level of belief [ ? , ? , ? , ? , ? ]. Belief HMMs introduced in [ ? , ? , ? , ? , ? , ? , ? , ? , ? ], use combination rules proposed in the framework of the theory of belief functions. This paper is an extension of previous ideas for second-order belief HMMs. For the current work, we focus on explaining a second-order model. However, the proposed method can be easily extended to higher-order models."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 134.765,
+            "t": 746.8351410484375,
+            "r": 139.2482,
+            "b": 739.1383991581721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 167.8151504,
+            "t": 746.8351410484375,
+            "r": 203.78834720000003,
+            "b": 739.1383991581721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Park et al.",
+      "text": "Park et al."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 134.765,
+            "t": 721.5806672484375,
+            "r": 480.58687119999945,
+            "b": 677.1637890413577,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            277
+          ]
+        }
+      ],
+      "orig": "This paper is organized as follows: In Sections 2 and 3, we detail probabilistic HMMs for the problem of POS tagging where HMMs have been widely used. Then, we describe the first-order belief HMM in Section 4. Finally, before concluding, we propose the second-order belief HMM.",
+      "text": "This paper is organized as follows: In Sections 2 and 3, we detail probabilistic HMMs for the problem of POS tagging where HMMs have been widely used. Then, we describe the first-order belief HMM in Section 4. Finally, before concluding, we propose the second-order belief HMM."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 134.765,
+            "t": 652.0921026484374,
+            "r": 316.5199056000001,
+            "b": 641.3443778484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "2 First-order probabilistic HMMs",
+      "text": "2 First-order probabilistic HMMs",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 134.765,
+            "t": 623.0909940484373,
+            "r": 480.5916697999999,
+            "b": 590.4487890413576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "POS tagging is a task of finding the most probable estimated sequence of n tags given the observation sequence of v words. According to [ ? ], a first-order probabilistic HMM can be characterized as follows:",
+      "text": "POS tagging is a task of finding the most probable estimated sequence of n tags given the observation sequence of v words. According to [ ? ], a first-order probabilistic HMM can be characterized as follows:"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 151.10299999999998,
+            "t": 588.0630833484372,
+            "r": 465.27765000000016,
+            "b": 574.9950126767559,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "N The number of states in a model St = { s t 1 , s t 2 , · · · s t N } at the time t .",
+      "text": "N The number of states in a model St = { s t 1 , s t 2 , · · · s t N } at the time t ."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 151.10300000000012,
+            "t": 575.0319646484372,
+            "r": 470.2056500000002,
+            "b": 564.5260126767558,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "M The number of distinct observation symbols. V = { v 1 , v 2 , · · · , vM } .",
+      "text": "M The number of distinct observation symbols. V = { v 1 , v 2 , · · · , vM } ."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 151.10300000000018,
+            "t": 563.0759646484372,
+            "r": 397.03121479999953,
+            "b": 552.6871607484372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "A = { aij } The set of N transition probability distributions.",
+      "text": "A = { aij } The set of N transition probability distributions."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 151.10300000000018,
+            "t": 551.1209646484372,
+            "r": 409.54265000000015,
+            "b": 540.7321607484372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "B = { bj ( ot ) } The observation probability distributions in state j .",
+      "text": "B = { bj ( ot ) } The observation probability distributions in state j ."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 151.10300000000012,
+            "t": 539.1659646484371,
+            "r": 344.68826199999967,
+            "b": 528.7771607484372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "p = { p i } The initial probability distribution.",
+      "text": "p = { p i } The initial probability distribution."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 134.76499999999996,
+            "t": 523.3056672484371,
+            "r": 480.59190279999996,
+            "b": 405.05383124843723,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            830
+          ]
+        }
+      ],
+      "orig": "Figure 1 illustrates the first-order probabilistic HMM allowing to estimate the probability of the sequence s t -1 i and s t j where aij is the transition probability from s t -1 i to s t j and bj ( ot ) is the observation probability on the state s t j . Regarding POS tagging, the number of possible POS tags that are hidden states St of the HMM is N . The number of words in the lexicons V is M . The transition probability aij is the probability that the model moves from one tag s t -1 i to another tag s t j . This probability can be estimated using a training data set in supervised learning for the HMM. The probability of a current POS tag appearing in the first-order HMM depends only on the previous tag. In general, first-order probabilistic HMMs should be characterized by three fundamental problems as follows [ ? ]:",
+      "text": "Figure 1 illustrates the first-order probabilistic HMM allowing to estimate the probability of the sequence s t -1 i and s t j where aij is the transition probability from s t -1 i to s t j and bj ( ot ) is the observation probability on the state s t j . Regarding POS tagging, the number of possible POS tags that are hidden states St of the HMM is N . The number of words in the lexicons V is M . The transition probability aij is the probability that the model moves from one tag s t -1 i to another tag s t j . This probability can be estimated using a training data set in supervised learning for the HMM. The probability of a current POS tag appearing in the first-order HMM depends only on the previous tag. In general, first-order probabilistic HMMs should be characterized by three fundamental problems as follows [ ? ]:"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 141.73900000000006,
+            "t": 388.58620864843726,
+            "r": 480.60045513999995,
+            "b": 299.77416074843734,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            591
+          ]
+        }
+      ],
+      "orig": "-Likelihood: Given a set of transition probability distributions A , an observation sequence O = o 1 , o 2 , · · · , oT and its observation probability distribution B , how do we determine the likelihood P ( O | A , B ) ? The first-order model relies on only one observation where bj ( ot ) = P ( oj | s t j ) and the transition probability based on one previous tag where aij = P ( s t j | s t -1 i ) . Using the forward path probability, the likelihood a t ( j ) of a given state s t j can be computed by using the likelihood a t -1 ( i ) of the previous state s t -1 i as described below:",
+      "text": "-Likelihood: Given a set of transition probability distributions A , an observation sequence O = o 1 , o 2 , · · · , oT and its observation probability distribution B , how do we determine the likelihood P ( O | A , B ) ? The first-order model relies on only one observation where bj ( ot ) = P ( oj | s t j ) and the transition probability based on one previous tag where aij = P ( s t j | s t -1 i ) . Using the forward path probability, the likelihood a t ( j ) of a given state s t j can be computed by using the likelihood a t -1 ( i ) of the previous state s t -1 i as described below:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 261.536,
+            "t": 284.9049646484374,
+            "r": 480.5913915999999,
+            "b": 265.89016074843744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "a t ( j ) = i a t -1 ( i ) aij b j ( ot ) (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 141.73899999999992,
+            "t": 256.5762086484374,
+            "r": 480.5963137999993,
+            "b": 175.90478904135773,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            526
+          ]
+        }
+      ],
+      "orig": "-Decoding: Given a set of transition probability distributions A , an observation sequence O = o 1 , o 2 , · · · , oT and its observation probability distribution B , how do we discover the best hidden state sequence? The Viterbi algorithm is widely used for calculating the most likely tag sequence for the decoding problem. The Viterbi algorithm can calculate the most probable path d t ( j ) which contains the sequence of y t ( j ) . It can select the path that maximizes the likelihood of the sequence as described below:",
+      "text": "-Decoding: Given a set of transition probability distributions A , an observation sequence O = o 1 , o 2 , · · · , oT and its observation probability distribution B , how do we discover the best hidden state sequence? The Viterbi algorithm is widely used for calculating the most likely tag sequence for the decoding problem. The Viterbi algorithm can calculate the most probable path d t ( j ) which contains the sequence of y t ( j ) . It can select the path that maximizes the likelihood of the sequence as described below:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 346.938,
+            "t": 746.8351410484375,
+            "r": 447.54100799999986,
+            "b": 739.1383991581721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Second-order Belief HMMs",
+      "text": "Second-order Belief HMMs"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 476.10795839999986,
+            "t": 746.8351410484375,
+            "r": 480.59115839999987,
+            "b": 739.1383991581721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 259.43399999999997,
+            "t": 713.2019646484375,
+            "r": 480.5913915999999,
+            "b": 690.7410126767561,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "d t ( j ) = max d t -1 ( i ) aij b j ( ot ) y t ( j ) = argmax y t -1 ( i ) aij (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 141.7379999999999,
+            "t": 685.2979646484374,
+            "r": 480.5989102799999,
+            "b": 639.8947890413576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            314
+          ]
+        }
+      ],
+      "orig": "-Learning: Given an observation sequence O = o 1 , o 2 , · · · , oT and a set of states S = { s t 1 , s t 2 , · · · , s t N } , how do we learn the HMM parameters for A and B ? The parameter learning task usually uses the Baum-Welch algorithm which is a special case of the Expectation-Maximization (EM) algorithm.",
+      "text": "-Learning: Given an observation sequence O = o 1 , o 2 , · · · , oT and a set of states S = { s t 1 , s t 2 , · · · , s t N } , how do we learn the HMM parameters for A and B ? The parameter learning task usually uses the Baum-Welch algorithm which is a special case of the Expectation-Maximization (EM) algorithm.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 134.76499999999982,
+            "t": 628.2356672484373,
+            "r": 480.5868711999992,
+            "b": 607.7287890413576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "In this paper, we focus on the likelihood and decoding problems by assuming a supervised learning paradigm where labeled training data are already available.",
+      "text": "In this paper, we focus on the likelihood and decoding problems by assuming a supervised learning paradigm where labeled training data are already available."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 134.76499999999982,
+            "t": 587.5291026484373,
+            "r": 328.48706079999994,
+            "b": 576.7813778484373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "3 Second-order probabilistic HMMs",
+      "text": "3 Second-order probabilistic HMMs",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 134.76499999999967,
+            "t": 565.1513819484372,
+            "r": 480.5938571999991,
+            "b": 491.2407890413576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            501
+          ]
+        }
+      ],
+      "orig": "Now, we explain the extension of the first-order model to a trigram 3 in the second-order model. Figure 2 illustrates the second-order probabilistic HMM allowing to estimate the probability of the sequence of three states s t -2 i , s t -1 j and s t k where aijk is the transition probability from s t -2 i and s t -1 j to s t k , and bk ( ot ) is the observation probability on the state s t k . Therefore, the second-order probabilistic HMM is characterized by three fundamental problems as follows:",
+      "text": "Now, we explain the extension of the first-order model to a trigram 3 in the second-order model. Figure 2 illustrates the second-order probabilistic HMM allowing to estimate the probability of the sequence of three states s t -2 i , s t -1 j and s t k where aijk is the transition probability from s t -2 i and s t -1 j to s t k , and bk ( ot ) is the observation probability on the state s t k . Therefore, the second-order probabilistic HMM is characterized by three fundamental problems as follows:"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 141.73899999999966,
+            "t": 480.91096464843724,
+            "r": 480.5896571999996,
+            "b": 443.76916074843723,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        }
+      ],
+      "orig": "-Likelihood: The second-order model relies on one observation bk ( ot ) . Unlike the first-order model, the transition probability is based on two previous tags where aijk = P ( s t k | s t -2 i , s t -1 j ) as described below:",
+      "text": "-Likelihood: The second-order model relies on one observation bk ( ot ) . Unlike the first-order model, the transition probability is based on two previous tags where aijk = P ( s t k | s t -2 i , s t -1 j ) as described below:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 258.8959999999997,
+            "t": 432.2299646484372,
+            "r": 480.5913915999996,
+            "b": 413.2151607484372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "a t ( k ) = j a t -1 ( j ) aijkbk ( ot ) (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 151.70099999999928,
+            "t": 406.2246672484372,
+            "r": 480.5963137999993,
+            "b": 316.2621607484373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            614
+          ]
+        }
+      ],
+      "orig": "However, it will be more difficult to find a sequence of three tags than a sequence of two tags. Any particular sequence of tags s t -2 i , s t -1 j , s t k that occurs in the test set may simply never have occurred in the training set because of data sparsity [ ? ]. Therefore, a method for estimating P ( s t k | s t -2 i , s t -1 j ) , even if the sequence s t -2 i , s t -1 j , s t k never occurs, is required. The simplest method to solve this problem is to combine the trigram ˆ P ( s t k | s t -2 i , s t -1 j ) , the bigram ˆ P ( s t k | s t -1 j ) , and even the unigram ˆ P ( s t k ) probabilities [ ? ]:",
+      "text": "However, it will be more difficult to find a sequence of three tags than a sequence of two tags. Any particular sequence of tags s t -2 i , s t -1 j , s t k that occurs in the test set may simply never have occurred in the training set because of data sparsity [ ? ]. Therefore, a method for estimating P ( s t k | s t -2 i , s t -1 j ) , even if the sequence s t -2 i , s t -1 j , s t k never occurs, is required. The simplest method to solve this problem is to combine the trigram ˆ P ( s t k | s t -2 i , s t -1 j ) , the bigram ˆ P ( s t k | s t -1 j ) , and even the unigram ˆ P ( s t k ) probabilities [ ? ]:"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 193.50199999999927,
+            "t": 306.4002955484374,
+            "r": 480.59139159999927,
+            "b": 292.95216074843734,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "P ( s t k | s t -2 i , s t -1 j ) = l 1 ˆ P ( s t k | s t -2 i , s t -1 j ) + l 2 ˆ P ( s t k | s t -1 j ) + l 3 ˆ P ( s t k ) (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 151.70099999999928,
+            "t": 287.0466672484372,
+            "r": 480.5999102799994,
+            "b": 240.35187844843722,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            316
+          ]
+        }
+      ],
+      "orig": "Note that ˆ P is the maximum likelihood probabilities which are derived from the relative frequencies of the sequence of tags. Values of l are such that l 1 + l 2 + l 3 = 1 and they can be estimated by the deleted interpolation algorithm [ ? ]. Otherwise, [ ? ] describes a different method for values of l as below:",
+      "text": "Note that ˆ P is the maximum likelihood probabilities which are derived from the relative frequencies of the sequence of tags. Values of l are such that l 1 + l 2 + l 3 = 1 and they can be estimated by the deleted interpolation algorithm [ ? ]. Otherwise, [ ? ] describes a different method for values of l as below:"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 270.3559999999994,
+            "t": 229.20696464843718,
+            "r": 480.59139159999967,
+            "b": 194.79101267675583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "l 1 = k 3 l 2 = ( 1 -k 3 ) · k 2 l 3 = ( 1 -k 3 ) · ( 1 -k 2 ) (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 138.501,
+            "t": 185.76595844843746,
+            "r": 408.78541919999986,
+            "b": 176.11139915817205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "3 The trigram is the sequence of three elements, i.e. three states in our case.",
+      "text": "3 The trigram is the sequence of three elements, i.e. three states in our case."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 167.8151504,
+            "t": 746.8351410484375,
+            "r": 203.78834720000003,
+            "b": 739.1383991581721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Park et al.",
+      "text": "Park et al."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.765,
+            "t": 746.8351410484375,
+            "r": 139.2482,
+            "b": 739.1383991581721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 151.701,
+            "t": 725.1417154484378,
+            "r": 480.58931039999976,
+            "b": 702.1163378484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "where k 2 = log ( C ( s t -1 j , s t k )+ 1 )+ 1 log ( C ( s t -1 j , s t k )+ 1 )+ 2 , k 3 = log ( C ( s t -2 i , s t -1 j , s t k )+ 1 )+ 1 log ( C ( s t -2 i , s t -1 j , s t k )+ 1 )+ 2 , and C ( s t -2 i , s t -1 j , s t k ) is the",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 151.70099999999985,
+            "t": 701.3632955484378,
+            "r": 480.59184299999924,
+            "b": 663.8221607484378,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            264
+          ]
+        }
+      ],
+      "orig": "frequency of a sequence s t -2 i , s t -1 j , s t k in the training data. Note that l 1 + l 2 + l 3 is not always equal to one in [ ? ]. The likelihood of the observation probability for the second-order model uses B where bk ( ot ) = P ( ok | s t k , s t -1 j ) .",
+      "text": "frequency of a sequence s t -2 i , s t -1 j , s t k in the training data. Note that l 1 + l 2 + l 3 is not always equal to one in [ ? ]. The likelihood of the observation probability for the second-order model uses B where bk ( ot ) = P ( ok | s t k , s t -1 j ) ."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 141.73800000000003,
+            "t": 663.2982086484377,
+            "r": 480.5963137999995,
+            "b": 642.3868312484377,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "-Decoding: For second-order model we require a different Viterbi algorithm. For a given state s at the time t , it would be redefined as follows [ ? ]:",
+      "text": "-Decoding: For second-order model we require a different Viterbi algorithm. For a given state s at the time t , it would be redefined as follows [ ? ]:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 178.201,
+            "t": 630.6199646484376,
+            "r": 480.59139160000024,
+            "b": 583.8890126767562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            280
+          ]
+        }
+      ],
+      "orig": "d t ( k ) = max d t -1 ( j ) aijkbk ( ot ) where d t ( j ) = max P ( s 1 , s 2 , · · · , s t -1 = si , s t = s j , o 1 , o 2 , · · · , ot ) y t ( k ) = argmax y t -1 ( j ) aijk where y t ( k ) = argmax P ( s 1 , s 2 , · · · , s t -1 = si , s t = s j , o 1 , o 2 , · · · , ot ) (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 141.73800000000023,
+            "t": 576.4822086484377,
+            "r": 480.58635119999957,
+            "b": 555.586789041358,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "-Learning: The problem of learning would be similar to the first-order model except that parameters A and B are different.",
+      "text": "-Learning: The problem of learning would be similar to the first-order model except that parameters A and B are different.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.7650000000002,
+            "t": 542.2196672484376,
+            "r": 480.5871309999999,
+            "b": 485.83183124843765,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            353
+          ]
+        }
+      ],
+      "orig": "With respect to performance measures, different transition probability distributions in [ ? ] and [ ? ] obtain 97.0% and 97.09% tagging accuracy for known words, respectively for the same data (the Penn Treebank corpus). Even though probabilistic HMMs perform reasonably well, belief HMMs can learn better under certain conditions on observations [ ? ].",
+      "text": "With respect to performance measures, different transition probability distributions in [ ? ] and [ ? ] obtain 97.0% and 97.09% tagging accuracy for known words, respectively for the same data (the Penn Treebank corpus). Even though probabilistic HMMs perform reasonably well, belief HMMs can learn better under certain conditions on observations [ ? ]."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.76500000000019,
+            "t": 464.2821026484376,
+            "r": 281.5150800000003,
+            "b": 453.53437784843766,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "4 First-order Belief HMMs",
+      "text": "4 First-order Belief HMMs",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.76500000000016,
+            "t": 438.78699404843763,
+            "r": 480.5934635999998,
+            "b": 394.189789041358,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            271
+          ]
+        }
+      ],
+      "orig": "In probabilistic HMMs, A and B are probabilities estimated from the training data. However, A and B in belief HMMs are mass functions (bbas) [ ? , ? ].According to previous works on belief HMMs, a first-order HMM using belief functions can be characterized as follows 4 :",
+      "text": "In probabilistic HMMs, A and B are probabilities estimated from the training data. However, A and B in belief HMMs are mass functions (bbas) [ ? , ? ].According to previous works on belief HMMs, a first-order HMM using belief functions can be characterized as follows 4 :"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "code",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 151.103,
+            "t": 392.50508334843767,
+            "r": 472.41203319999937,
+            "b": 326.6621607484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            389
+          ]
+        }
+      ],
+      "orig": "N The number of states in a model W t = { S t 1 , S t 2 , · · · , S t N } . M The number of distinct observation symbols V . A = { m W t a [ S t - 1 i ]( S t j ) } The set of conditional bbas to all possible subsets of states. B = { m W t b [ ot ]( S t j ) } The set of bbas according to all possible observations Ot . p = { m W 1 p ( S W 1 i ) } The bba defined for the the initial state.",
+      "text": "N The number of states in a model W t = { S t 1 , S t 2 , · · · , S t N } . M The number of distinct observation symbols V . A = { m W t a [ S t - 1 i ]( S t j ) } The set of conditional bbas to all possible subsets of states. B = { m W t b [ ot ]( S t j ) } The set of bbas according to all possible observations Ot . p = { m W 1 p ( S W 1 i ) } The bba defined for the the initial state.",
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "code_language": "unknown"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.76500000000013,
+            "t": 323.34966724843764,
+            "r": 486.2426500000002,
+            "b": 243.0667890413581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            582
+          ]
+        }
+      ],
+      "orig": "Difference between the first-order probabilistic and belief HMMs is presented in Figure 1, the transition and observation probabilities in belief HMMs are described as mass functions. Therefore, we can replace aij by m W t a [ S t -1 i ]( S t j ) and bj ( ot ) by m W t b [ ot ]( S t j ) . The set W t has been used to denote states for HMMs using belief functions [ ? , ? ]. Note that s t i is the single state for probabilistic HMMs and S t i is the multi-valued state for belief HMMs. First-order belief HMMs should also be characterized by three fundamental problems as follows:",
+      "text": "Difference between the first-order probabilistic and belief HMMs is presented in Figure 1, the transition and observation probabilities in belief HMMs are described as mass functions. Therefore, we can replace aij by m W t a [ S t -1 i ]( S t j ) and bj ( ot ) by m W t b [ ot ]( S t j ) . The set W t has been used to denote states for HMMs using belief functions [ ? , ? ]. Note that s t i is the single state for probabilistic HMMs and S t i is the multi-valued state for belief HMMs. First-order belief HMMs should also be characterized by three fundamental problems as follows:"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 141.73800000000034,
+            "t": 230.08920864843765,
+            "r": 480.59563039999955,
+            "b": 194.6391607484377,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            259
+          ]
+        }
+      ],
+      "orig": "-Likelihood: The likelihood problem in belief HMMs is not solved by likelihood , but by using the combination. The first-order belief model relies on ( i ) only one observation m W t b [ ot ]( S t j ) and ( ii ) a transition conditional mass function based on",
+      "text": "-Likelihood: The likelihood problem in belief HMMs is not solved by likelihood , but by using the combination. The first-order belief model relies on ( i ) only one observation m W t b [ ot ]( S t j ) and ( ii ) a transition conditional mass function based on",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 138.501,
+            "t": 185.89148684843758,
+            "r": 281.38756,
+            "b": 175.28007124843748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "4 In the model W t , S t are focal elements",
+      "text": "4 In the model W t , S t are focal elements"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 346.938,
+            "t": 746.8351410484375,
+            "r": 447.54100799999986,
+            "b": 739.1383991581721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Second-order Belief HMMs",
+      "text": "Second-order Belief HMMs"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 476.10795839999986,
+            "t": 746.8351410484375,
+            "r": 480.59115839999987,
+            "b": 739.1383991581721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 151.70099999999996,
+            "t": 724.1692955484375,
+            "r": 480.59631379999945,
+            "b": 653.2527890413576,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            435
+          ]
+        }
+      ],
+      "orig": "one previous tag m W t a [ S t -1 i ]( S t j ) . Mass functions of sets A and B are combined using the Disjunctive Rule of Combination (DRC) for the forward propagation and the Generalized Bayesian Theorem (GBT) for the backward propagation [ ? ]. Using the forward path propagation, the mass function of a given state S t j can be computed as the combination of mass functions on the observation and the transition as described below:",
+      "text": "one previous tag m W t a [ S t -1 i ]( S t j ) . Mass functions of sets A and B are combined using the Disjunctive Rule of Combination (DRC) for the forward propagation and the Generalized Bayesian Theorem (GBT) for the backward propagation [ ? ]. Using the forward path propagation, the mass function of a given state S t j can be computed as the combination of mass functions on the observation and the transition as described below:"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 217.67399999999998,
+            "t": 638.5432955484373,
+            "r": 480.5913916,
+            "b": 624.7281607484373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "q W t a ( S t j ) = m W t -1 a ( S t -1 i ) · q W t a [ S t -1 i ]( S t j ) · q W t b ( S t j ) (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 151.70100000000002,
+            "t": 617.9940833484372,
+            "r": 480.5869833999997,
+            "b": 590.8397795484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "Note that the mass function of the given state S t j is derived from the commonality function q W t a .",
+      "text": "Note that the mass function of the given state S t j is derived from the commonality function q W t a ."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 141.73900000000003,
+            "t": 588.8062086484374,
+            "r": 480.59631379999945,
+            "b": 505.93516074843706,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            623
+          ]
+        }
+      ],
+      "orig": "-Decoding: Several solutions have been proposed to extend the Viterbi algorithm to the theory of belief functions [ ? , ? , ? ]. Such solutions maximize the plausibility of the state sequence. In fact, the credal Viterbi algorithm starts from the first observation and estimates the commonality distribution of each observation until reaching the last state. For each state S t j , the estimated commonality distribution ( q W t d ( S t j ) ) is converted back to a mass function that is conditioned on the previous state. Then, we apply the pignistic transform to make a decision about the current state ( y t ( s t j ) ):",
+      "text": "-Decoding: Several solutions have been proposed to extend the Viterbi algorithm to the theory of belief functions [ ? , ? , ? ]. Such solutions maximize the plausibility of the state sequence. In fact, the credal Viterbi algorithm starts from the first observation and estimates the commonality distribution of each observation until reaching the last state. For each state S t j , the estimated commonality distribution ( q W t d ( S t j ) ) is converted back to a mass function that is conditioned on the previous state. Then, we apply the pignistic transform to make a decision about the current state ( y t ( s t j ) ):",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 200.845,
+            "t": 493.874653848437,
+            "r": 480.5913915999999,
+            "b": 461.62633784843695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "q W t d ( S t j ) = S t -1 i ⊆ A t -1 m W t -1 d ( S t -1 i ) · q W t a [ S t -1 i ]( S t j ) · q W t b ( S t j ) y t ( s t j ) = argmax S t -1 i ∈ W t -1 ( 1 -m W t d [ S t -1 i ]( / 0 )) · Pt [ S t -1 i ]( S t j ) (8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 151.70199999999988,
+            "t": 454.65708334843686,
+            "r": 276.5991958,
+            "b": 438.82833784843683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "where A t = ∪ S t -1 j ∈ W t y t ( S t j ) [ ? ].",
+      "text": "where A t = ∪ S t -1 j ∈ W t y t ( S t j ) [ ? ]."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 141.739,
+            "t": 437.10038194843685,
+            "r": 480.5925513999999,
+            "b": 414.64683124843685,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "-Learning: Instead of the traditional EM algorithm, we can use the E 2 M algorithm for the belief HMM [ ? ].",
+      "text": "-Learning: Instead of the traditional EM algorithm, we can use the E 2 M algorithm for the belief HMM [ ? ].",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.76500000000001,
+            "t": 399.28166724843686,
+            "r": 480.5968337999992,
+            "b": 366.8038312484369,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "To build belief functions from what we learned using probabilities in the previous section, we can employ the least commitment principle by using the inverse pignistic transform [ ? , ? ].",
+      "text": "To build belief functions from what we learned using probabilities in the previous section, we can employ the least commitment principle by using the inverse pignistic transform [ ? , ? ]."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.76500000000001,
+            "t": 342.7361026484369,
+            "r": 293.48223520000016,
+            "b": 331.9883778484369,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "5 Second-order Belief HMMs",
+      "text": "5 Second-order Belief HMMs",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.76500000000001,
+            "t": 314.72199404843695,
+            "r": 480.59385379999964,
+            "b": 294.03578904135725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "Like the first-order belief HMM, N , M , B and p are similarly defined in the second-order HMM. The set A is quite different and is defined as follows:",
+      "text": "Like the first-order belief HMM, N , M , B and p are similarly defined in the second-order HMM. The set A is quite different and is defined as follows:"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 255.25500000000008,
+            "t": 279.32629554843686,
+            "r": 480.5913916,
+            "b": 265.8781607484368,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "A = { m W t a [ S t -2 i , S t -1 j ]( S t k ) } (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.76500000000004,
+            "t": 256.89399404843675,
+            "r": 480.59673379999964,
+            "b": 224.25178904135714,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "where A is the set of conditional bbas to all possible subsets of states based on the two previous states. Second-order belief HMMs should also be characterized by three fundamental problems as follows:",
+      "text": "where A is the set of conditional bbas to all possible subsets of states based on the two previous states. Second-order belief HMMs should also be characterized by three fundamental problems as follows:"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 141.73900000000003,
+            "t": 210.4300833484367,
+            "r": 480.60045514000007,
+            "b": 173.41416074843664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "-Likelihood: The second-order belief model relies on one observation m W t b [ ot ]( S t k ) in a state Sk at time t and the transition conditional mass function based on two previous states S t -2 i and S t -1 j , defined by m W t a [ S t -2 i , S t -1 j ]( S t k ) . Using the forward path",
+      "text": "-Likelihood: The second-order belief model relies on one observation m W t b [ ot ]( S t k ) in a state Sk at time t and the transition conditional mass function based on two previous states S t -2 i and S t -1 j , defined by m W t a [ S t -2 i , S t -1 j ]( S t k ) . Using the forward path",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 134.765,
+            "t": 746.8351410484375,
+            "r": 203.78834720000003,
+            "b": 739.1383991581721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "6 Park et al.",
+      "text": "6 Park et al."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 151.70099999999996,
+            "t": 723.6440833484374,
+            "r": 480.59099439999994,
+            "b": 682.0851607484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "propagation, the mass function of a given state S t k can be computed as the disjunctive combination (DRC) of mass functions on the transition m W t a [ S t -2 i , S t -1 j ]( S t k ) and the observation m W t b ( S t k ) as described below:",
+      "text": "propagation, the mass function of a given state S t k can be computed as the disjunctive combination (DRC) of mass functions on the transition m W t a [ S t -2 i , S t -1 j ]( S t k ) and the observation m W t b ( S t k ) as described below:"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 206.98199999999997,
+            "t": 672.5472955484375,
+            "r": 480.5916915999999,
+            "b": 658.7321607484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "q W t a ( S t k ) = m W t -1 a ( S t -1 j ) · q W t a [ S t -2 i , S t -1 j ]( S t k ) · q W t b ( S t k ) (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 151.7009999999999,
+            "t": 654.3422955484375,
+            "r": 480.59631379999945,
+            "b": 603.9841607484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            285
+          ]
+        }
+      ],
+      "orig": "where q W t a [ S t -2 i , S t -1 j ]( S t k ) is the commonality function derived from the conjunctive combination of mass functions of two previous transitions. The conjunctive combination is used to have the conjunction of observations on previous two states S t -2 i and S t -1 j .",
+      "text": "where q W t a [ S t -2 i , S t -1 j ]( S t k ) is the commonality function derived from the conjunctive combination of mass functions of two previous transitions. The conjunctive combination is used to have the conjunction of observations on previous two states S t -2 i and S t -1 j ."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 151.70099999999996,
+            "t": 602.0676538484374,
+            "r": 487.57045514,
+            "b": 573.9501607484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "The combined mass function m W t a [ S t -2 i , S t -1 j ]( S t k ) of two transitions m W t -1 a [ S t -2 i ]( S t -1 j ) and m W t a [ S t -1 j ]( S t k ) is defined as follows:",
+      "text": "The combined mass function m W t a [ S t -2 i , S t -1 j ]( S t k ) of two transitions m W t -1 a [ S t -2 i ]( S t -1 j ) and m W t a [ S t -1 j ]( S t k ) is defined as follows:"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 200.80699999999993,
+            "t": 563.7616538484375,
+            "r": 480.5916915999999,
+            "b": 550.1031607484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "m W t a [ S t -2 i , S t -1 j ]( S t k ) = m W t -1 a [ S t -2 i ]( S t -1 j ) ∪ © m W t a [ S t -1 j ]( S t k ) (11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 151.7009999999999,
+            "t": 545.9386672484375,
+            "r": 480.59631379999945,
+            "b": 475.6797890413577,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            453
+          ]
+        }
+      ],
+      "orig": "The conjunctive combination is required to obtain the conjunction of both transitions. Note that the mass function of the given state S t k is derived from the commonality function q W t a . We use DRC with commonality functions like in [ ? ]. Note that the observation only on one previous state is taken into account in the firstorder belief HMM, but the conjunction of observations on two previous states is considered in the second-order belief HMM.",
+      "text": "The conjunctive combination is required to obtain the conjunction of both transitions. Note that the mass function of the given state S t k is derived from the commonality function q W t a . We use DRC with commonality functions like in [ ? ]. Note that the observation only on one previous state is taken into account in the firstorder belief HMM, but the conjunction of observations on two previous states is considered in the second-order belief HMM."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 141.73899999999998,
+            "t": 473.2232086484374,
+            "r": 480.5963137999996,
+            "b": 364.5111607484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            742
+          ]
+        }
+      ],
+      "orig": "-Decoding: We accept our assumption of the first-order belief HMM for the secondorder model. Similarly to the first-order belief HMM, we propose a solution that maximizes the plausibility of the state sequence. The credal Viterbi algorithm estimates the commonality distribution of each observation from the first observation till the final state. For each state S t k , the estimated commonality distribution ( q W t d ( S t k ) ) is converted back to a mass function that is conditioned on a mass function of the two previous states. This mass function is the conjunctive combination of mass functions of the two previous states. Then, we apply the pignistic transform to make a decision about the current state ( y t ( s t j ) ) as before:",
+      "text": "-Decoding: We accept our assumption of the first-order belief HMM for the secondorder model. Similarly to the first-order belief HMM, we propose a solution that maximizes the plausibility of the state sequence. The credal Viterbi algorithm estimates the commonality distribution of each observation from the first observation till the final state. For each state S t k , the estimated commonality distribution ( q W t d ( S t k ) ) is converted back to a mass function that is conditioned on a mass function of the two previous states. This mass function is the conjunctive combination of mass functions of the two previous states. Then, we apply the pignistic transform to make a decision about the current state ( y t ( s t j ) ) as before:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 190.1829999999999,
+            "t": 355.02265384843747,
+            "r": 480.5916915999999,
+            "b": 321.59033784843746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "q W t d ( S t k ) = S t -1 j ⊆ A t -1 m W t -1 d ( S t -1 j ) · q W t a [ S t -2 i , S t -1 j ]( S t k ) · q W t b ( S t k ) y t ( s t k ) = argmax S t -1 j ∈ W t -1 ( 1 -m W t d [ S t -1 j ]( / 0 )) · Pt [ S t -2 i , S t -1 j ]( S t k ) (12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 141.73899999999992,
+            "t": 316.6193819484373,
+            "r": 480.5881441999998,
+            "b": 294.16683124843735,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "-Learning: Like the first-order belief model, we can still use the E 2 M algorithm for the belief HMM [ ? ].",
+      "text": "-Learning: Like the first-order belief model, we can still use the E 2 M algorithm for the belief HMM [ ? ].",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 134.76499999999996,
+            "t": 283.6056672484374,
+            "r": 480.5968337999996,
+            "b": 239.18878904135772,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "Since the combination of mass functions in the belief HMM is required where the previous observation is already considered in the set of conditional bbas m W t a [ S t -2 i , S t -1 j ] , we do not need to refine the observation probability for the second-order model as in the second-order probabilistic model.",
+      "text": "Since the combination of mass functions in the belief HMM is required where the previous observation is already considered in the set of conditional bbas m W t a [ S t -2 i , S t -1 j ] , we do not need to refine the observation probability for the second-order model as in the second-order probabilistic model."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 134.76500000000004,
+            "t": 219.8551026484373,
+            "r": 331.9062480000001,
+            "b": 209.1073778484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "6 Conclusion and future perspectives",
+      "text": "6 Conclusion and future perspectives",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 134.76500000000004,
+            "t": 196.4126672484374,
+            "r": 480.59673379999964,
+            "b": 175.90478904135773,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        },
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 134.765,
+            "t": 501.0246672484375,
+            "r": 480.5912035999993,
+            "b": 408.7867890413579,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            165,
+            788
+          ]
+        }
+      ],
+      "orig": "The problem of POS tagging has been considered as one of the most important tasks for natural language processing systems. We described such a problem based on HMMs and tried to apply our idea to the theory of belief functions. We extended previous works on belief HMMs to the second-order model. Using the proposed method, we will be able to easily extend the higher-order model for belief HMMs. Some technical aspects still remain to be considered. Robust implementation for belief HMMs are required where in general we can find over one million observations in the training data to deal with the problem of POS tagging. As described before, the choice of inverse pignistic transforms would be empirically verified. 5 We are planning to implement these technical aspects in near future.",
+      "text": "The problem of POS tagging has been considered as one of the most important tasks for natural language processing systems. We described such a problem based on HMMs and tried to apply our idea to the theory of belief functions. We extended previous works on belief HMMs to the second-order model. Using the proposed method, we will be able to easily extend the higher-order model for belief HMMs. Some technical aspects still remain to be considered. Robust implementation for belief HMMs are required where in general we can find over one million observations in the training data to deal with the problem of POS tagging. As described before, the choice of inverse pignistic transforms would be empirically verified. 5 We are planning to implement these technical aspects in near future."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 346.938,
+            "t": 746.8351410484375,
+            "r": 447.54100799999986,
+            "b": 739.1383991581721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Second-order Belief HMMs",
+      "text": "Second-order Belief HMMs"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 476.10795839999986,
+            "t": 746.8351410484375,
+            "r": 480.59115839999987,
+            "b": 739.1383991581721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 219.46,
+            "t": 653.9668306484375,
+            "r": 395.8975967999998,
+            "b": 645.9060370484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Fig. 1. First-order probabilistic and belief HMMs",
+      "text": "Fig. 1. First-order probabilistic and belief HMMs"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 170.824958,
+            "t": 695.2634910484375,
+            "r": 174.46172010560002,
+            "b": 687.4926318484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "s",
+      "text": "s"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 174.47542040000002,
+            "t": 696.7910488984375,
+            "r": 176.81988929300002,
+            "b": 691.3514458984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 176.81542040000002,
+            "t": 696.9651161944375,
+            "r": 181.66754627600002,
+            "b": 687.5382841954375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 181.6824956,
+            "t": 696.7910488984375,
+            "r": 184.77762970700002,
+            "b": 691.3514458984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 174.47542040000002,
+            "t": 691.2688906984375,
+            "r": 176.673020012,
+            "b": 685.8292876984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "i",
+      "text": "i"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 228.9599804,
+            "t": 696.0124080484375,
+            "r": 232.59674250560005,
+            "b": 688.2415488484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "s",
+      "text": "s"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 232.61013860000003,
+            "t": 697.0719658984375,
+            "r": 234.95460749300003,
+            "b": 691.6323628984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 232.61013860000003,
+            "t": 692.2048906984375,
+            "r": 235.177631216,
+            "b": 686.7652876984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "j",
+      "text": "j"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 224.64464600000002,
+            "t": 722.7060750484375,
+            "r": 227.9783445968,
+            "b": 714.9352158484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "b",
+      "text": "b"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 228.01418360000002,
+            "t": 719.8345576984375,
+            "r": 230.581676216,
+            "b": 714.3949546984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "j",
+      "text": "j"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 231.19664600000002,
+            "t": 722.7060750484375,
+            "r": 234.21173936960002,
+            "b": 714.9352158484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "(",
+      "text": "("
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 234.19172120000002,
+            "t": 722.7060750484375,
+            "r": 237.95281705280001,
+            "b": 714.9352158484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "o",
+      "text": "o"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 237.9360254,
+            "t": 719.8345576984375,
+            "r": 240.280494293,
+            "b": 714.3949546984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 240.7440254,
+            "t": 722.7060750484375,
+            "r": 243.75911876960004,
+            "b": 714.9352158484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 201.11729540000002,
+            "t": 701.3706570484375,
+            "r": 205.22030905760002,
+            "b": 693.5997978484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "a",
+      "text": "a"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 205.23575780000002,
+            "t": 698.4991396984375,
+            "r": 209.95605141594908,
+            "b": 693.0595366984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "ij",
+      "text": "ij"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 337.45004000000006,
+            "t": 694.8216990484375,
+            "r": 342.2135766896,
+            "b": 687.0508398484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "S",
+      "text": "S"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 342.6915776000001,
+            "t": 696.3492568984375,
+            "r": 345.0360464930001,
+            "b": 690.9096538984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 345.03157760000005,
+            "t": 696.5233241944375,
+            "r": 349.88370347600005,
+            "b": 687.0964921954375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 349.89865280000004,
+            "t": 696.3492568984375,
+            "r": 352.99378690700007,
+            "b": 690.9096538984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 342.2235776,
+            "t": 690.8267944984375,
+            "r": 344.42117721200003,
+            "b": 685.3871914984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "i",
+      "text": "i"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 405.50107760000003,
+            "t": 696.0124158484375,
+            "r": 410.2646142896,
+            "b": 688.2415566484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "S",
+      "text": "S"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 410.74261520000005,
+            "t": 697.0719736984375,
+            "r": 413.08708409300004,
+            "b": 691.6323706984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 410.2746152,
+            "t": 692.2048984984375,
+            "r": 412.842107816,
+            "b": 686.7652954984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "j",
+      "text": "j"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 398.31032000000005,
+            "t": 722.1445530484375,
+            "r": 405.1331343776001,
+            "b": 714.3736938484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "m",
+      "text": "m"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 405.1429406000001,
+            "t": 723.8591860984375,
+            "r": 409.576217045,
+            "b": 718.4195830984376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ω",
+      "text": "Ω"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 409.54232,
+            "t": 721.9449385684375,
+            "r": 411.72981686480006,
+            "b": 718.0595089684375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 405.1429406000001,
+            "t": 718.0561062184375,
+            "r": 407.873621306,
+            "b": 712.6165032184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "b",
+      "text": "b"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 412.53740300000004,
+            "t": 722.1445483684375,
+            "r": 414.68993099840003,
+            "b": 714.3736891684375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "[",
+      "text": "["
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 414.69032780000003,
+            "t": 722.1445483684375,
+            "r": 418.45142365280003,
+            "b": 714.3736891684375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "o",
+      "text": "o"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 418.43432780000006,
+            "t": 719.2730310184376,
+            "r": 420.77879669300006,
+            "b": 713.8334280184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 421.24232780000006,
+            "t": 722.1445483684375,
+            "r": 423.39485579840004,
+            "b": 714.3736891684375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "]",
+      "text": "]"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 359.8014938,
+            "t": 699.6860083684375,
+            "r": 366.6243081776,
+            "b": 691.9151491684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "m",
+      "text": "m"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 366.6344186,
+            "t": 700.7455662184375,
+            "r": 371.06769504500005,
+            "b": 695.3059632184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ω",
+      "text": "Ω"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 371.0334938,
+            "t": 698.8310144884375,
+            "r": 373.22099066480007,
+            "b": 694.9455848884375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 366.6344186,
+            "t": 695.9720239384375,
+            "r": 370.00153285700003,
+            "b": 690.5324209384376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "a",
+      "text": "a"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 374.028881,
+            "t": 699.6860036884375,
+            "r": 376.1814089984,
+            "b": 691.9151444884375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "[",
+      "text": "["
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 376.1818058,
+            "t": 699.6860036884375,
+            "r": 380.94534248959997,
+            "b": 691.9151444884375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "S",
+      "text": "S"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 381.4233434,
+            "t": 701.2135615384375,
+            "r": 383.767812293,
+            "b": 695.7739585384375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 383.7633434,
+            "t": 701.3876288344375,
+            "r": 388.615469276,
+            "b": 691.9607968354375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 388.6304186,
+            "t": 701.2135615384375,
+            "r": 391.725552707,
+            "b": 695.7739585384375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 380.95534340000006,
+            "t": 695.6910991384375,
+            "r": 383.15294301200004,
+            "b": 690.2514961384375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "i",
+      "text": "i"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 392.0935094,
+            "t": 699.6860036884375,
+            "r": 394.24603739840006,
+            "b": 691.9151444884375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "]",
+      "text": "]"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 214.484,
+            "t": 535.3068306484375,
+            "r": 400.8743007999999,
+            "b": 527.2460370484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Fig. 2. Second-order probabilistic and belief HMMs",
+      "text": "Fig. 2. Second-order probabilistic and belief HMMs"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 152.272958,
+            "t": 603.0223250484376,
+            "r": 155.9097201056,
+            "b": 595.2514658484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "s",
+      "text": "s"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 155.9234204,
+            "t": 604.5498828984375,
+            "r": 158.267889293,
+            "b": 599.1102798984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 158.2634204,
+            "t": 604.7239501944375,
+            "r": 163.115546276,
+            "b": 595.2971181954375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 163.1304956,
+            "t": 604.5498828984375,
+            "r": 166.225629707,
+            "b": 599.1102798984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 155.9234204,
+            "t": 599.1212622984375,
+            "r": 158.12102001199997,
+            "b": 593.6816592984376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "i",
+      "text": "i"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 208.3053344,
+            "t": 603.4903250484375,
+            "r": 211.94209650559998,
+            "b": 595.7194658484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "s",
+      "text": "s"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 211.9557968,
+            "t": 605.1117246984376,
+            "r": 214.300265693,
+            "b": 599.6721216984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 214.2957968,
+            "t": 605.2857919944375,
+            "r": 219.147922676,
+            "b": 595.8589599954375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 219.162872,
+            "t": 605.1117246984376,
+            "r": 222.258006107,
+            "b": 599.6721216984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 211.9557968,
+            "t": 599.5892622984376,
+            "r": 214.523289416,
+            "b": 594.1496592984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "j",
+      "text": "j"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 266.7295028,
+            "t": 603.3032420484375,
+            "r": 270.3662649056,
+            "b": 595.5323828484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "s",
+      "text": "s"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 270.3799652,
+            "t": 604.4563374984375,
+            "r": 272.724434093,
+            "b": 599.0167344984376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 270.3799652,
+            "t": 599.4018750984376,
+            "r": 273.681804221,
+            "b": 593.9622720984376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "k",
+      "text": "k"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 261.08756,
+            "t": 629.9289710484376,
+            "r": 264.42125859680004,
+            "b": 622.1581118484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "b",
+      "text": "b"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 264.4570976,
+            "t": 627.0574536984376,
+            "r": 267.758936621,
+            "b": 621.6178506984376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "k",
+      "text": "k"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 268.2010976,
+            "t": 629.9289710484376,
+            "r": 271.2161909696,
+            "b": 622.1581118484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "(",
+      "text": "("
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 271.1961728,
+            "t": 629.9289710484376,
+            "r": 274.95726865280005,
+            "b": 622.1581118484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "o",
+      "text": "o"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 274.9401728,
+            "t": 627.0574536984376,
+            "r": 277.284641693,
+            "b": 621.6178506984376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 277.7481728,
+            "t": 629.9289710484376,
+            "r": 280.7632661696,
+            "b": 622.1581118484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 183.0078128,
+            "t": 609.2227010484376,
+            "r": 187.1108264576,
+            "b": 601.4518418484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "a",
+      "text": "a"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 187.12597100000002,
+            "t": 606.3511836984376,
+            "r": 191.84626461594908,
+            "b": 600.9115806984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "ij",
+      "text": "ij"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 238.73365700000002,
+            "t": 609.2227010484376,
+            "r": 242.83667065760002,
+            "b": 601.4518418484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "a",
+      "text": "a"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 242.85211940000002,
+            "t": 606.3511836984376,
+            "r": 248.96196362760534,
+            "b": 600.9115806984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "jk",
+      "text": "jk"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 252.29696,
+            "t": 572.5197464484376,
+            "r": 256.3999736576,
+            "b": 564.7488872484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "a",
+      "text": "a"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 256.4154224,
+            "t": 569.6482290984376,
+            "r": 264.6781916505028,
+            "b": 564.2086260984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "ijk",
+      "text": "ijk"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 306.07484,
+            "t": 602.1378050484376,
+            "r": 310.8383766896,
+            "b": 594.3669458484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "S",
+      "text": "S"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 311.3163776,
+            "t": 603.6653628984376,
+            "r": 313.660846493,
+            "b": 598.2257598984376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 313.65637760000004,
+            "t": 603.8394301944376,
+            "r": 318.508503476,
+            "b": 594.4125981954376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 318.5234528,
+            "t": 603.6653628984376,
+            "r": 321.618586907,
+            "b": 598.2257598984376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 310.8483776,
+            "t": 598.2364380984376,
+            "r": 313.045977212,
+            "b": 592.7968350984376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "i",
+      "text": "i"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 374.8373156,
+            "t": 603.0482054484376,
+            "r": 379.60085228959997,
+            "b": 595.2773462484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "S",
+      "text": "S"
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 380.0788532,
+            "t": 604.6693008984375,
+            "r": 382.423322093,
+            "b": 599.2296978984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 382.4188532,
+            "t": 604.8433681944375,
+            "r": 387.270979076,
+            "b": 595.4165361954375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 387.2859284,
+            "t": 604.6693008984375,
+            "r": 390.381062507,
+            "b": 599.2296978984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 379.61085320000007,
+            "t": 599.1468384984375,
+            "r": 382.17834581600005,
+            "b": 593.7072354984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "j",
+      "text": "j"
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 443.2710212,
+            "t": 603.3032264484375,
+            "r": 448.0345578896,
+            "b": 595.5323672484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "S",
+      "text": "S"
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 448.5125588,
+            "t": 604.4563218984375,
+            "r": 450.8570276930001,
+            "b": 599.0167188984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 448.0445588,
+            "t": 599.4018594984375,
+            "r": 451.346397821,
+            "b": 593.9622564984376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "k",
+      "text": "k"
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 435.47606,
+            "t": 629.9030750484376,
+            "r": 442.29887437760004,
+            "b": 622.1322158484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "m",
+      "text": "m"
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 442.30868060000006,
+            "t": 631.6177080984376,
+            "r": 446.74195704500005,
+            "b": 626.1781050984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ω",
+      "text": "Ω"
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 446.70806,
+            "t": 629.7034605684375,
+            "r": 448.8955568648,
+            "b": 625.8180309684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 442.30868060000006,
+            "t": 625.8146282184375,
+            "r": 445.03936130600005,
+            "b": 620.3750252184376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "b",
+      "text": "b"
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 449.703143,
+            "t": 629.9030703684375,
+            "r": 451.85567099840006,
+            "b": 622.1322111684375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "[",
+      "text": "["
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 451.8560678,
+            "t": 629.9030703684375,
+            "r": 455.6171636528,
+            "b": 622.1322111684375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "o",
+      "text": "o"
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 455.60006780000003,
+            "t": 627.0312488184376,
+            "r": 457.94453669300003,
+            "b": 621.5916458184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 458.4080678,
+            "t": 629.9030703684375,
+            "r": 460.5605957984001,
+            "b": 622.1322111684375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "]",
+      "text": "]"
+    },
+    {
+      "self_ref": "#/texts/174",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 397.1881298,
+            "t": 607.9122183684375,
+            "r": 404.01094417760004,
+            "b": 600.1413591684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "m",
+      "text": "m"
+    },
+    {
+      "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 404.0210546,
+            "t": 609.0656180184376,
+            "r": 408.454331045,
+            "b": 603.6260150184376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ω",
+      "text": "Ω"
+    },
+    {
+      "self_ref": "#/texts/176",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 408.42012980000004,
+            "t": 607.1510662884375,
+            "r": 410.6076266648,
+            "b": 603.2656366884376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/177",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 404.0210546,
+            "t": 604.2917715384375,
+            "r": 407.388168857,
+            "b": 598.8521685384376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "a",
+      "text": "a"
+    },
+    {
+      "self_ref": "#/texts/178",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 411.415517,
+            "t": 607.9122136884375,
+            "r": 413.5680449984,
+            "b": 600.1413544884375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "[",
+      "text": "["
+    },
+    {
+      "self_ref": "#/texts/179",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 413.5684418,
+            "t": 607.9122136884375,
+            "r": 418.3319784896,
+            "b": 600.1413544884375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "S",
+      "text": "S"
+    },
+    {
+      "self_ref": "#/texts/180",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 418.8099794,
+            "t": 609.5336133384376,
+            "r": 421.15444829300003,
+            "b": 604.0940103384376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/181",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 421.1499794,
+            "t": 609.7076806344376,
+            "r": 426.002105276,
+            "b": 600.2808486354376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/182",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 426.0170546,
+            "t": 609.5336133384376,
+            "r": 429.11218870700003,
+            "b": 604.0940103384376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/183",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 418.3419794,
+            "t": 604.0111509384376,
+            "r": 420.909472016,
+            "b": 598.5715479384376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "j",
+      "text": "j"
+    },
+    {
+      "self_ref": "#/texts/184",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 429.4801454,
+            "t": 607.9122136884375,
+            "r": 431.6326733984,
+            "b": 600.1413544884375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "]",
+      "text": "]"
+    },
+    {
+      "self_ref": "#/texts/185",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 328.3726454,
+            "t": 607.7668778484375,
+            "r": 335.19545977760004,
+            "b": 599.9960186484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "m",
+      "text": "m"
+    },
+    {
+      "self_ref": "#/texts/186",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 335.20526600000005,
+            "t": 610.1368980984375,
+            "r": 339.638542445,
+            "b": 604.6972950984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ω",
+      "text": "Ω"
+    },
+    {
+      "self_ref": "#/texts/187",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 339.6046454,
+            "t": 608.2226505684375,
+            "r": 341.79214226479996,
+            "b": 604.3372209684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/188",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 341.7575702,
+            "t": 608.3819531820376,
+            "r": 345.96549045679996,
+            "b": 601.6407328260375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/189",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 345.96957019999996,
+            "t": 608.2226505684375,
+            "r": 348.61166232799997,
+            "b": 604.3372209684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/190",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 335.20525819999995,
+            "t": 605.1762806184375,
+            "r": 338.5723724569999,
+            "b": 599.7366776184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "a",
+      "text": "a"
+    },
+    {
+      "self_ref": "#/texts/191",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 349.4326142,
+            "t": 607.7668809684376,
+            "r": 351.5851421984,
+            "b": 599.9960217684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "[",
+      "text": "["
+    },
+    {
+      "self_ref": "#/texts/192",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 351.5855389999999,
+            "t": 607.7668809684376,
+            "r": 356.3490756895999,
+            "b": 599.9960217684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "S",
+      "text": "S"
+    },
+    {
+      "self_ref": "#/texts/193",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 356.82707659999994,
+            "t": 609.3882806184375,
+            "r": 359.17154549299994,
+            "b": 603.9486776184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/194",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 359.1670766,
+            "t": 609.5623479144375,
+            "r": 364.019202476,
+            "b": 600.1355159154375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/195",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 364.03415179999996,
+            "t": 609.3882806184375,
+            "r": 367.12928590699994,
+            "b": 603.9486776184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/196",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 356.3590766,
+            "t": 603.8658182184375,
+            "r": 358.55667621199996,
+            "b": 598.4262152184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "i",
+      "text": "i"
+    },
+    {
+      "self_ref": "#/texts/197",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 367.49724259999994,
+            "t": 607.7668809684376,
+            "r": 369.6497705984,
+            "b": 599.9960217684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "]",
+      "text": "]"
+    },
+    {
+      "self_ref": "#/texts/198",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 411.86936000000003,
+            "t": 571.2092840484376,
+            "r": 418.69217437760005,
+            "b": 563.4384248484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "m",
+      "text": "m"
+    },
+    {
+      "self_ref": "#/texts/199",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 418.70228480000003,
+            "t": 572.3623794984376,
+            "r": 423.135561245,
+            "b": 566.9227764984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "Ω",
+      "text": "Ω"
+    },
+    {
+      "self_ref": "#/texts/200",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 423.10136,
+            "t": 570.4481319684376,
+            "r": 425.28885686480004,
+            "b": 566.5627023684375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/201",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 418.70228480000003,
+            "t": 567.5888372184376,
+            "r": 422.069399057,
+            "b": 562.1492342184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "a",
+      "text": "a"
+    },
+    {
+      "self_ref": "#/texts/202",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 426.096443,
+            "t": 571.2092793684375,
+            "r": 428.24897099840007,
+            "b": 563.4384201684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "[",
+      "text": "["
+    },
+    {
+      "self_ref": "#/texts/203",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 428.2493678,
+            "t": 571.2092793684375,
+            "r": 433.0129044896,
+            "b": 563.4384201684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "S",
+      "text": "S"
+    },
+    {
+      "self_ref": "#/texts/204",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 433.49090540000003,
+            "t": 572.8303748184376,
+            "r": 435.83537429300003,
+            "b": 567.3907718184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/205",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 435.8309054,
+            "t": 573.0044421144376,
+            "r": 440.68303127600007,
+            "b": 563.5776101154376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/206",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 440.69798060000005,
+            "t": 572.8303748184376,
+            "r": 443.79311470700003,
+            "b": 567.3907718184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/207",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 433.02290540000007,
+            "t": 567.3082166184375,
+            "r": 435.22050501200005,
+            "b": 561.8686136184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "i",
+      "text": "i"
+    },
+    {
+      "self_ref": "#/texts/208",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 444.16138340000003,
+            "t": 571.2092793684375,
+            "r": 452.38771597028966,
+            "b": 563.4384201684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": ", S",
+      "text": ", S"
+    },
+    {
+      "self_ref": "#/texts/209",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 452.8663394,
+            "t": 572.8303748184376,
+            "r": 455.21080829300007,
+            "b": 567.3907718184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/210",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 455.20633940000005,
+            "t": 573.0044421144376,
+            "r": 460.05846527600005,
+            "b": 563.5776101154376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/211",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 460.07341460000004,
+            "t": 572.8303748184376,
+            "r": 463.16854870700007,
+            "b": 567.3907718184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/212",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 452.39833940000005,
+            "t": 567.3082166184375,
+            "r": 454.96583201600004,
+            "b": 561.8686136184375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "j",
+      "text": "j"
+    },
+    {
+      "self_ref": "#/texts/213",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 463.53650540000007,
+            "t": 571.2092793684375,
+            "r": 465.68903339840006,
+            "b": 563.4384201684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "]",
+      "text": "]"
+    },
+    {
+      "self_ref": "#/texts/214",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 134.765,
+            "t": 405.3836672484376,
+            "r": 480.58700939999954,
+            "b": 313.14478904135797,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            660
+          ]
+        }
+      ],
+      "orig": "The current work is described to rely on a supervised learning paradigm from labeled training data. Actually, the forward-backward algorithm in HMMs can do completely unsupervised learning. However, it is well known that EM performs poorly in unsupervised induction of linguistic structure because it tends to assign relatively equal numbers of tokens to each hidden state [ ? ]. 6 Therefore, the initial conditions can be very important. Since the theory of belief functions can take into consideration of uncertainty and imprecision, especially for the lack of data, we might obtain a better model using belief functions on an unsupervised learning paradigm.",
+      "text": "The current work is described to rely on a supervised learning paradigm from labeled training data. Actually, the forward-backward algorithm in HMMs can do completely unsupervised learning. However, it is well known that EM performs poorly in unsupervised induction of linguistic structure because it tends to assign relatively equal numbers of tokens to each hidden state [ ? ]. 6 Therefore, the initial conditions can be very important. Since the theory of belief functions can take into consideration of uncertainty and imprecision, especially for the lack of data, we might obtain a better model using belief functions on an unsupervised learning paradigm."
+    },
+    {
+      "self_ref": "#/texts/215",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 134.765,
+            "t": 291.58010264843756,
+            "r": 190.3088592000001,
+            "b": 280.83237784843766,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/216",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 138.501,
+            "t": 218.95395844843756,
+            "r": 480.59310399999987,
+            "b": 187.00041464843753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            280
+          ]
+        }
+      ],
+      "orig": "5 For example, [ ? ] used the inverse pignistic transform in [ ? ] to calculate belief functions from Bayesian probability functions. As matter of fact, the problem of POS tagging can be normalized and inverse pignistic transforms in [ ? ] did not propose the case for m ( / 0 ) .",
+      "text": "5 For example, [ ? ] used the inverse pignistic transform in [ ? ] to calculate belief functions from Bayesian probability functions. As matter of fact, the problem of POS tagging can be normalized and inverse pignistic transforms in [ ? ] did not propose the case for m ( / 0 ) ."
+    },
+    {
+      "self_ref": "#/texts/217",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 138.50099999999998,
+            "t": 185.76595844843746,
+            "r": 466.06484319999987,
+            "b": 176.11139915817205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "6 The actual distribution of POS tags would be highly skewed as in heavy-tail distributions.",
+      "text": "6 The actual distribution of POS tags would be highly skewed as in heavy-tail distributions."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 164.97821044921875,
+            "t": 724.5318374633789,
+            "r": 423.6990966796875,
+            "b": 678.6797637939453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/83"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        },
+        {
+          "$ref": "#/texts/154"
+        },
+        {
+          "$ref": "#/texts/155"
+        },
+        {
+          "$ref": "#/texts/156"
+        },
+        {
+          "$ref": "#/texts/157"
+        },
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        },
+        {
+          "$ref": "#/texts/161"
+        },
+        {
+          "$ref": "#/texts/162"
+        },
+        {
+          "$ref": "#/texts/163"
+        },
+        {
+          "$ref": "#/texts/164"
+        },
+        {
+          "$ref": "#/texts/165"
+        },
+        {
+          "$ref": "#/texts/166"
+        },
+        {
+          "$ref": "#/texts/167"
+        },
+        {
+          "$ref": "#/texts/168"
+        },
+        {
+          "$ref": "#/texts/169"
+        },
+        {
+          "$ref": "#/texts/170"
+        },
+        {
+          "$ref": "#/texts/171"
+        },
+        {
+          "$ref": "#/texts/172"
+        },
+        {
+          "$ref": "#/texts/173"
+        },
+        {
+          "$ref": "#/texts/174"
+        },
+        {
+          "$ref": "#/texts/175"
+        },
+        {
+          "$ref": "#/texts/176"
+        },
+        {
+          "$ref": "#/texts/177"
+        },
+        {
+          "$ref": "#/texts/178"
+        },
+        {
+          "$ref": "#/texts/179"
+        },
+        {
+          "$ref": "#/texts/180"
+        },
+        {
+          "$ref": "#/texts/181"
+        },
+        {
+          "$ref": "#/texts/182"
+        },
+        {
+          "$ref": "#/texts/183"
+        },
+        {
+          "$ref": "#/texts/184"
+        },
+        {
+          "$ref": "#/texts/185"
+        },
+        {
+          "$ref": "#/texts/186"
+        },
+        {
+          "$ref": "#/texts/187"
+        },
+        {
+          "$ref": "#/texts/188"
+        },
+        {
+          "$ref": "#/texts/189"
+        },
+        {
+          "$ref": "#/texts/190"
+        },
+        {
+          "$ref": "#/texts/191"
+        },
+        {
+          "$ref": "#/texts/192"
+        },
+        {
+          "$ref": "#/texts/193"
+        },
+        {
+          "$ref": "#/texts/194"
+        },
+        {
+          "$ref": "#/texts/195"
+        },
+        {
+          "$ref": "#/texts/196"
+        },
+        {
+          "$ref": "#/texts/197"
+        },
+        {
+          "$ref": "#/texts/198"
+        },
+        {
+          "$ref": "#/texts/199"
+        },
+        {
+          "$ref": "#/texts/200"
+        },
+        {
+          "$ref": "#/texts/201"
+        },
+        {
+          "$ref": "#/texts/202"
+        },
+        {
+          "$ref": "#/texts/203"
+        },
+        {
+          "$ref": "#/texts/204"
+        },
+        {
+          "$ref": "#/texts/205"
+        },
+        {
+          "$ref": "#/texts/206"
+        },
+        {
+          "$ref": "#/texts/207"
+        },
+        {
+          "$ref": "#/texts/208"
+        },
+        {
+          "$ref": "#/texts/209"
+        },
+        {
+          "$ref": "#/texts/210"
+        },
+        {
+          "$ref": "#/texts/211"
+        },
+        {
+          "$ref": "#/texts/212"
+        },
+        {
+          "$ref": "#/texts/213"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 141.13526916503906,
+            "t": 632.5125732421875,
+            "r": 465.8798828125,
+            "b": 562.1842346191406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/127"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 7
+    }
+  }
+}

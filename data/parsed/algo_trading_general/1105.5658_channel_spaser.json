@@ -1,0 +1,3543 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1105.5658_channel_spaser",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 3132364351715802701,
+    "filename": "1105.5658_channel_spaser.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/104"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.18038399999998,
+            "t": 598.1100600000001,
+            "r": 82.17038399999997,
+            "b": 589.2762000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 284.22,
+            "t": 719.532,
+            "r": 366.19679999999977,
+            "b": 706.248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Channel spaser",
+      "text": "Channel spaser",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 115.56000000000003,
+            "t": 690.87018,
+            "r": 534.7823999999998,
+            "b": 654.948,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "A.A. Lisyansky, 1 I.A. Nechepurenko, 2 A.V. Dorofeenko, 2 A.P. Vinogradov, 2 and A.A. Pukhov 2",
+      "text": "A.A. Lisyansky, 1 I.A. Nechepurenko, 2 A.V. Dorofeenko, 2 A.P. Vinogradov, 2 and A.A. Pukhov 2"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 113.22,
+            "t": 639.51018,
+            "r": 537.1679999999993,
+            "b": 603.588,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "1 Department of Physics, Queens College of the City University of New York, Flushing, NY 11367",
+      "text": "1 Department of Physics, Queens College of the City University of New York, Flushing, NY 11367"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 82.2,
+            "t": 596.172,
+            "r": 536.8692000000001,
+            "b": 582.888,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Institute for Theoretical and Applied Electromagnetics RAS, 13 Izhorskaya, Moscow 125412,",
+      "text": "Institute for Theoretical and Applied Electromagnetics RAS, 13 Izhorskaya, Moscow 125412,"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 289.97999999999996,
+            "t": 575.472,
+            "r": 324.9264000000001,
+            "b": 562.188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Russia",
+      "text": "Russia"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 107.39999999999998,
+            "t": 514.0919999999999,
+            "r": 543.0144,
+            "b": 500.80799999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "We show that net amplification of surface plasmons is achieved in channel in a metal",
+      "text": "We show that net amplification of surface plasmons is achieved in channel in a metal"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 493.39199999999994,
+            "r": 543.0504000000005,
+            "b": 480.10799999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "plate  due  to  nonradiative  excitation  by  quantum  dots.  This  makes  possible  lossless  plasmon",
+      "text": "plate  due  to  nonradiative  excitation  by  quantum  dots.  This  makes  possible  lossless  plasmon"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.0,
+            "t": 472.69199999999995,
+            "r": 542.9771999999996,
+            "b": 459.40799999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "transmission lines in the channel as well as the amplification and generation of coherent surface",
+      "text": "transmission lines in the channel as well as the amplification and generation of coherent surface"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000003,
+            "t": 451.99199999999996,
+            "r": 373.6067999999996,
+            "b": 438.70799999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "plasmons. As an example, a ring channel spaser is considered.",
+      "text": "plasmons. As an example, a ring channel spaser is considered."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 107.40000000000003,
+            "t": 421.27199999999993,
+            "r": 382.38479999999987,
+            "b": 407.98799999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "PACS numbers: 42.50.Pq, 42.50.Ar, 42.50.Dv, 71.35.Cc",
+      "text": "PACS numbers: 42.50.Pq, 42.50.Ar, 42.50.Dv, 71.35.Cc"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 107.40000000000003,
+            "t": 359.8919999999999,
+            "r": 542.9952000000004,
+            "b": 346.6079999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "Recently, a new branch of quantum optics - quantum nanoplasmonics - has arisen [1, 2].",
+      "text": "Recently, a new branch of quantum optics - quantum nanoplasmonics - has arisen [1, 2]."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000006,
+            "t": 339.1919999999999,
+            "r": 543.012,
+            "b": 325.9079999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "Advantageous  plasmon  properties  such  as  small  wavelength  and  a  high  energy  concentration",
+      "text": "Advantageous  plasmon  properties  such  as  small  wavelength  and  a  high  energy  concentration"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000006,
+            "t": 318.4919999999999,
+            "r": 543.0156000000003,
+            "b": 305.2079999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "open new perspectives for constructing nano-devices such as waveguides, cavities, and antennas.",
+      "text": "open new perspectives for constructing nano-devices such as waveguides, cavities, and antennas."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000011,
+            "t": 297.7919999999999,
+            "r": 543.1152000000001,
+            "b": 284.5079999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "In this regard, studies of plasmons propagating along 1D objects such as wires [3], wedges [4, 5],",
+      "text": "In this regard, studies of plasmons propagating along 1D objects such as wires [3], wedges [4, 5],"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000017,
+            "t": 277.09199999999987,
+            "r": 268.28400000000005,
+            "b": 263.808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "and channels [6, 7] are of great interest.",
+      "text": "and channels [6, 7] are of great interest."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 107.40000000000018,
+            "t": 246.37199999999996,
+            "r": 543.0168000000003,
+            "b": 233.08799999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Losses in metals are the main obstacle to practical applications of plasmonics. It has been",
+      "text": "Losses in metals are the main obstacle to practical applications of plasmonics. It has been"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000023,
+            "t": 225.6719999999999,
+            "r": 543.0876,
+            "b": 212.38799999999992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "suggested that  this  problem  can  be  overcome  by  compensating  loss  in  a  gain  medium  [8-11].",
+      "text": "suggested that  this  problem  can  be  overcome  by  compensating  loss  in  a  gain  medium  [8-11]."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000028,
+            "t": 204.97199999999998,
+            "r": 543.0071999999999,
+            "b": 191.68799999999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "This  relates  nanoplasmonics  to  quantum  optics  [1,  2].  In  particular,  a  generator  of  plasmons",
+      "text": "This  relates  nanoplasmonics  to  quantum  optics  [1,  2].  In  particular,  a  generator  of  plasmons"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000028,
+            "t": 184.27199999999993,
+            "r": 542.9592000000006,
+            "b": 170.98799999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "propagating  along  a  flat  surface  has  been  suggested  in  Refs.  [12-14].  In  this  system,  periodic",
+      "text": "propagating  along  a  flat  surface  has  been  suggested  in  Refs.  [12-14].  In  this  system,  periodic"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000028,
+            "t": 163.5719999999999,
+            "r": 109.65240000000027,
+            "b": 150.2879999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 114.70440000000028,
+            "t": 163.5719999999999,
+            "r": 177.70680000000044,
+            "b": 150.2879999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            8,
+            20
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 182.75880000000043,
+            "t": 163.5719999999999,
+            "r": 345.8220000000002,
+            "b": 150.2879999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            21,
+            53
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 350.8620000000002,
+            "t": 163.5719999999999,
+            "r": 398.56799999999987,
+            "b": 150.2879999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            54,
+            63
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 403.6079999999999,
+            "t": 163.5719999999999,
+            "r": 438.9119999999997,
+            "b": 150.2879999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            64,
+            71
+          ]
+        }
+      ],
+      "orig": "surface corrugations produce  Bragg  mirrors  of  the resonator cavity.",
+      "text": "surface corrugations produce  Bragg  mirrors  of  the resonator cavity."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 443.9519999999997,
+            "t": 163.5719999999999,
+            "r": 543.0683999999993,
+            "b": 150.2879999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "The  first  quantum",
+      "text": "The  first  quantum"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000028,
+            "t": 142.87199999999996,
+            "r": 543.0456,
+            "b": 129.58799999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "nanoplasmonic  device  which  was  referred  to  as  spaser  (Surface  Plasmon  Amplification  by",
+      "text": "nanoplasmonic  device  which  was  referred  to  as  spaser  (Surface  Plasmon  Amplification  by"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000034,
+            "t": 122.17199999999991,
+            "r": 543.0396000000004,
+            "b": 108.88799999999992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "Stimulated Emission of Radiation) was proposed in Ref. [1]. The spaser consists of a quantum",
+      "text": "Stimulated Emission of Radiation) was proposed in Ref. [1]. The spaser consists of a quantum"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.00000000000034,
+            "t": 101.47199999999998,
+            "r": 542.9448000000003,
+            "b": 88.18799999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 719.652,
+            "r": 543.1056000000004,
+            "b": 623.5679999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            95,
+            571
+          ]
+        }
+      ],
+      "orig": "dot (QD) located near a metal nanoparticle (NP). The plasmonic oscillations in the NP play the role  of  photons  in  a  laser  and  the  cavity  effect  is  provided  by  the  plasmon  localization  in  the vicinity  of  the  NP  [1,  15-17].  Thus,  a  pumped  QD  nonradiatively  transfers  its  excitation  to surface plasmons localized at the NP. As a result, one observes an increase of intensity of the surface  plasmon  field.  Thus,  the  spaser  does  not  radiate  an  energy  beam  but  generates  a  near field. The spaser has recently been realized [18-21].",
+      "text": "dot (QD) located near a metal nanoparticle (NP). The plasmonic oscillations in the NP play the role  of  photons  in  a  laser  and  the  cavity  effect  is  provided  by  the  plasmon  localization  in  the vicinity  of  the  NP  [1,  15-17].  Thus,  a  pumped  QD  nonradiatively  transfers  its  excitation  to surface plasmons localized at the NP. As a result, one observes an increase of intensity of the surface  plasmon  field.  Thus,  the  spaser  does  not  radiate  an  energy  beam  but  generates  a  near field. The spaser has recently been realized [18-21]."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.24,
+            "t": 84.06327999999996,
+            "r": 311.50464600000004,
+            "b": 71.90841999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.0,
+            "t": 606.1319999999998,
+            "r": 543.081599999999,
+            "b": 510.1079999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            430
+          ]
+        }
+      ],
+      "orig": "In  this  paper,  we  study  surface  plasmons  propagating  along  the  bottom  of  a  groove (channel)  in  the  metal  surface  [22-24]  (see  schematic  in  Fig.  1).  The  surface  plasmons  are coherently  excited  by  a  linear  chain  of  QDs  at  the  bottom  of  the  channel.  We  show  that  for realistic values of the system parameters, gain can exceed loss and plasmonic lasing in ring or linear channels can occur.",
+      "text": "In  this  paper,  we  study  surface  plasmons  propagating  along  the  bottom  of  a  groove (channel)  in  the  metal  surface  [22-24]  (see  schematic  in  Fig.  1).  The  surface  plasmons  are coherently  excited  by  a  linear  chain  of  QDs  at  the  bottom  of  the  channel.  We  show  that  for realistic values of the system parameters, gain can exceed loss and plasmonic lasing in ring or linear channels can occur."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 107.4,
+            "t": 331.72782,
+            "r": 506.55070799999834,
+            "b": 292.38164320000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            293
+          ]
+        }
+      ],
+      "orig": "Fig. 1. (Color online) Schematic of the system geometry. The shaded area around QDs shows the electric  field  intensity  distribution  calculated  for  the  channel  with  the  bottom  curvature  of 50 nm   at 10 z k   . The QDs at the bottom of the channel in metal are shown by circles.",
+      "text": "Fig. 1. (Color online) Schematic of the system geometry. The shaded area around QDs shows the electric  field  intensity  distribution  calculated  for  the  channel  with  the  bottom  curvature  of 50 nm   at 10 z k   . The QDs at the bottom of the channel in metal are shown by circles."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.99999999999994,
+            "t": 280.6321,
+            "r": 543.0852000000007,
+            "b": 101.74810000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            897
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 719.652,
+            "r": 543.0720000000005,
+            "b": 555.2879999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            898,
+            1658
+          ]
+        }
+      ],
+      "orig": "In our system, a nanochannel in a metal surface plays the role of a NP in the spaser. As a result,  instead  of  localized  plasmons,  the  travelling  plasmons  form  a  beam  inside  the  channel. Utilizing travelling plasmons as a lasing mode differentiates the channel spaser from the spaser proposed by Bergman and Stockman [1]. First, in the channel spaser, radiation is confined in 2D in  contrast  to  the  energy  localized  in  a  single  NP  of  the  Bergman-Stockman  spaser.  The amplification  of  radiation  propagating  along  the  channel  is  directional  and  may  be  used  in designing of a spaser radiating into passive channel sections. Channel-based optical devices are widely discussed in literature [25]. To obtain lasing in a channel spaser one has to organize a cavity  inside  the  channel  or  employ  ring  geometry  [26].  Second,  for  the  proper  choice  of  the system parameters of the spaser discussed below, the energy is concentrated at the bottom of the channel,  and  the  effectiveness  of  the  interaction  of  QDs  with  plasmonic  modes  is  thereby enhanced. Third, in contrast to localized plasmonic oscillations, 1D propagating plasmons exist over a range of frequencies, and therefore, there is no need to tune the QD transition frequency. Unlike known optical schemes, the proposed channel laser works in the frequency range where flat-surface  plasmons  do  not  exist,  namely,   0 M D      ,  where D  and M  are  the permittivities  of  the  dielectric  in  the  channel  and  of  the  metal,  respectively  [27,  28].  This provides weak electromagnetic coupling between neighboring channels.",
+      "text": "In our system, a nanochannel in a metal surface plays the role of a NP in the spaser. As a result,  instead  of  localized  plasmons,  the  travelling  plasmons  form  a  beam  inside  the  channel. Utilizing travelling plasmons as a lasing mode differentiates the channel spaser from the spaser proposed by Bergman and Stockman [1]. First, in the channel spaser, radiation is confined in 2D in  contrast  to  the  energy  localized  in  a  single  NP  of  the  Bergman-Stockman  spaser.  The amplification  of  radiation  propagating  along  the  channel  is  directional  and  may  be  used  in designing of a spaser radiating into passive channel sections. Channel-based optical devices are widely discussed in literature [25]. To obtain lasing in a channel spaser one has to organize a cavity  inside  the  channel  or  employ  ring  geometry  [26].  Second,  for  the  proper  choice  of  the system parameters of the spaser discussed below, the energy is concentrated at the bottom of the channel,  and  the  effectiveness  of  the  interaction  of  QDs  with  plasmonic  modes  is  thereby enhanced. Third, in contrast to localized plasmonic oscillations, 1D propagating plasmons exist over a range of frequencies, and therefore, there is no need to tune the QD transition frequency. Unlike known optical schemes, the proposed channel laser works in the frequency range where flat-surface  plasmons  do  not  exist,  namely,   0 M D      ,  where D  and M  are  the permittivities  of  the  dielectric  in  the  channel  and  of  the  metal,  respectively  [27,  28].  This provides weak electromagnetic coupling between neighboring channels."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.24,
+            "t": 84.06327999999996,
+            "r": 311.50464600000004,
+            "b": 71.90841999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.99990000000003,
+            "t": 537.8519999999999,
+            "r": 543.1008000000003,
+            "b": 211.92301199999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1444
+          ]
+        }
+      ],
+      "orig": "Let us consider pumped QDs located at the bottom of a channel (groove) made in a bulk metal  sample  or  in  a  thick  metal  film  (Fig.  1).  In  Refs.  [6,  29],  it  was  shown  that  plasmonic modes  can  propagate  along  the  channel  with  a  wave  number z k larger  than  that  in  vacuum, 0 / k c  . We are interested in channel plasmons that can be excited by pumped QDs. Besides channel plasmons, QDs may excite plasmons travelling along the flat metal surface. In addition, the QDs may radiate photons. The latter two processes increase losses in the system. However, the excitation of plasmons is more effective than the radiation of photons by a factor   3 0 k   , where  is a curvature radius of the bottom [30]. Furthermore, the groove geometry suppresses photon radiation, since waves decays exponentially in the groove of a subwavelength width. We therefore neglect the radiation of photons. This approach was justified in Refs. [31, 32] where the radiation of a classical dipole placed near the metallic wire, wedge, and channel was considered. Thus,  we  assume  that  the  main  contribution  to  radiation  losses  is  from  the  excitation  of  2D surface  plasmons  which  are  not  localized  in  the  channel.  These  losses  are  largely  reduced because we choose the working frequency for the channel spaser determined by the condition   0 M D      for which plasmons at a flat surface do not exist.",
+      "text": "Let us consider pumped QDs located at the bottom of a channel (groove) made in a bulk metal  sample  or  in  a  thick  metal  film  (Fig.  1).  In  Refs.  [6,  29],  it  was  shown  that  plasmonic modes  can  propagate  along  the  channel  with  a  wave  number z k larger  than  that  in  vacuum, 0 / k c  . We are interested in channel plasmons that can be excited by pumped QDs. Besides channel plasmons, QDs may excite plasmons travelling along the flat metal surface. In addition, the QDs may radiate photons. The latter two processes increase losses in the system. However, the excitation of plasmons is more effective than the radiation of photons by a factor   3 0 k   , where  is a curvature radius of the bottom [30]. Furthermore, the groove geometry suppresses photon radiation, since waves decays exponentially in the groove of a subwavelength width. We therefore neglect the radiation of photons. This approach was justified in Refs. [31, 32] where the radiation of a classical dipole placed near the metallic wire, wedge, and channel was considered. Thus,  we  assume  that  the  main  contribution  to  radiation  losses  is  from  the  excitation  of  2D surface  plasmons  which  are  not  localized  in  the  channel.  These  losses  are  largely  reduced because we choose the working frequency for the channel spaser determined by the condition   0 M D      for which plasmons at a flat surface do not exist."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.0,
+            "t": 192.19209999999998,
+            "r": 543.3576000000012,
+            "b": 116.80809999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            382
+          ]
+        }
+      ],
+      "orig": "Thus,  the  radiation  into  the  channel  plasmons  is  almost  isolated  from  the  external environment, which can be useful for applications in systems, generating and transmitting optical signals  along  subwavelength  channels.  However,  pumping  the  QDs  can  be  a  problem.  We suggest pumping by UV radiation at frequencies exceeding the bulk plasmon frequency in metal.",
+      "text": "Thus,  the  radiation  into  the  channel  plasmons  is  almost  isolated  from  the  external environment, which can be useful for applications in systems, generating and transmitting optical signals  along  subwavelength  channels.  However,  pumping  the  QDs  can  be  a  problem.  We suggest pumping by UV radiation at frequencies exceeding the bulk plasmon frequency in metal."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.24,
+            "t": 84.06327999999996,
+            "r": 311.50464600000004,
+            "b": 71.90841999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.0,
+            "t": 719.652,
+            "r": 540.0515999999999,
+            "b": 685.668,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "The metal is then transparent and the UV radiation is effectively absorbed by the QDs and reradiated at their transition frequency in the luminescence process [33-35].",
+      "text": "The metal is then transparent and the UV radiation is effectively absorbed by the QDs and reradiated at their transition frequency in the luminescence process [33-35]."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99999999999997,
+            "t": 668.232,
+            "r": 543.0264000000002,
+            "b": 613.5479999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "In view of the above, we neglect the radiative losses and only take into account ohmic losses for plasmons propagation along the bottom of the channel. The amplification of plasmons may be described by the Maxwell-Bloch equations [36-38]:",
+      "text": "In view of the above, we neglect the radiative losses and only take into account ohmic losses for plasmons propagation along the bottom of the channel. The amplification of plasmons may be described by the Maxwell-Bloch equations [36-38]:"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 172.08035536,
+            "t": 595.8089445,
+            "r": 516.9982273600001,
+            "b": 491.16007702,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "    2 2 2 2 2 2 2 2 2 2 * 0 ( , ) 4 , 2 2 , 1 1 Re , p n x y c t c t n t t n n n t t                                            E P E P P E P P E   (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99893674000003,
+            "t": 474.43507500000004,
+            "r": 543.0158962899997,
+            "b": 340.06479750000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            550
+          ]
+        }
+      ],
+      "orig": "where E is  the  electric  field  of  the  channel  plasmon, ( , ) x y  is  the  permittivity  of  the metal/dielectric  system, P is  the  polarization  of  QDs, n is  the  difference  between  the concentrations  of  QDs  in  the  excited  and  ground  states  (population  inversion), 0 n is  the equilibrium value of n created by the pumping,  is the transition frequency of the QDs, p  is the inverse line width, n  is  the  relaxation time of the population inversion, and  is  the  offdiagonal element of the dipole moment of a single QD.",
+      "text": "where E is  the  electric  field  of  the  channel  plasmon, ( , ) x y  is  the  permittivity  of  the metal/dielectric  system, P is  the  polarization  of  QDs, n is  the  difference  between  the concentrations  of  QDs  in  the  excited  and  ground  states  (population  inversion), 0 n is  the equilibrium value of n created by the pumping,  is the transition frequency of the QDs, p  is the inverse line width, n  is  the  relaxation time of the population inversion, and  is  the  offdiagonal element of the dipole moment of a single QD."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99984399999997,
+            "t": 322.64545050000004,
+            "r": 543.0907754999993,
+            "b": 216.16482399999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            409
+          ]
+        }
+      ],
+      "orig": "The  lasing  threshold  can  be  determined  in  the  linear  approximation,  when  the  field intensity is so low that population inversion is not suppressed. In other words, one can exclude the 3 rd equation in system (1), and set 0 n n  . Further, if the plasmon frequency equals the QD transition  frequency,   , ~ exp i t   E P ,  the  polarization  can  be  expressed  through  the  electric field:",
+      "text": "The  lasing  threshold  can  be  determined  in  the  linear  approximation,  when  the  field intensity is so low that population inversion is not suppressed. In other words, one can exclude the 3 rd equation in system (1), and set 0 n n  . Further, if the plasmon frequency equals the QD transition  frequency,   , ~ exp i t   E P ,  the  polarization  can  be  expressed  through  the  electric field:"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 224.4,
+            "t": 198.80587049999997,
+            "r": 516.9991755000001,
+            "b": 163.50014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "2 0 p n i     P E  . (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 71.99962050000005,
+            "t": 145.885803,
+            "r": 513.5640870000002,
+            "b": 132.585198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "The gain coefficient of plasmons can be found from the expression for the Poynting vector:",
+      "text": "The gain coefficient of plasmons can be found from the expression for the Poynting vector:"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.24,
+            "t": 84.06327999999996,
+            "r": 311.50464600000004,
+            "b": 71.90841999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 176.82,
+            "t": 723.4122915,
+            "r": 516.9960366,
+            "b": 700.4031722999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "  * * div Im '' / 4        S E P E E , (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99949984,
+            "t": 682.0026135,
+            "r": 543.0417277199995,
+            "b": 520.582434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            686
+          ]
+        }
+      ],
+      "orig": "where \"  is  the  imaginary  part  of  permittivity,  which  reflects  losses.  We  assume  that  the distances  between  QDs  located  at  the  channel's  bottom  are  small,  so  that  their  effect  on  a plasmon is the same as that of a continuous (constant) gain distribution along the groove ( z -axis), 0 0 ( ) ( ) n N x y    ,  where x and y axes  are  parallel  and  perpendicular  to  the  metal  surface. Integrating both sides of Eq. (3) over x and y at infinite limits and taking into account Eq. (2), one  obtains  an  expression  for  the  energy  flux, z S dxdy    .  Setting   ~ exp z   and   2 (0,0, ) ~ exp z z  E , one obtains the propagation constant:",
+      "text": "where \"  is  the  imaginary  part  of  permittivity,  which  reflects  losses.  We  assume  that  the distances  between  QDs  located  at  the  channel's  bottom  are  small,  so  that  their  effect  on  a plasmon is the same as that of a continuous (constant) gain distribution along the groove ( z -axis), 0 0 ( ) ( ) n N x y    ,  where x and y axes  are  parallel  and  perpendicular  to  the  metal  surface. Integrating both sides of Eq. (3) over x and y at infinite limits and taking into account Eq. (2), one  obtains  an  expression  for  the  energy  flux, z S dxdy    .  Setting   ~ exp z   and   2 (0,0, ) ~ exp z z  E , one obtains the propagation constant:"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.93708913999998,
+            "t": 500.48180291999995,
+            "r": 516.99643428,
+            "b": 461.4255219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "      2 2 2 0 '' , , (0,0, ) 4 p x y z dxdy N z z z             E E  . (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99989751999996,
+            "t": 441.56162243999995,
+            "r": 543.01543032,
+            "b": 366.16622759999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "The rhs of Eq. (4) describes competition between gain and loss in the metal. In the case of plasmons  propagating  along  a  flat  surface,  losses  in  metal  can  be  compensated  by  gain  [8]. Below,  we  show  that  in  the  case  of  the  channel  plasmons,  amplification  by  QDs  can  exceed absorption in the metal.",
+      "text": "The rhs of Eq. (4) describes competition between gain and loss in the metal. In the case of plasmons  propagating  along  a  flat  surface,  losses  in  metal  can  be  compensated  by  gain  [8]. Below,  we  show  that  in  the  case  of  the  channel  plasmons,  amplification  by  QDs  can  exceed absorption in the metal."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 107.39932835999998,
+            "t": 350.03065200000003,
+            "r": 530.9805571200005,
+            "b": 335.2809624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "Amplification of a plasmon means 0   , which gives the condition on the QD density:",
+      "text": "Amplification of a plasmon means 0   , which gives the condition on the QD density:"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 174.59957627999998,
+            "t": 315.68915864999997,
+            "r": 516.99951756,
+            "b": 267.2603878,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "    2 0 2 2 '' , , 4 0,0, Metal p x y z dxdy N z      E E  . (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.99994552000004,
+            "t": 245.84961552000004,
+            "r": 543.05009664,
+            "b": 100.38523680000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            593
+          ]
+        }
+      ],
+      "orig": "Let us evaluate 0 N without taking into account the plasmon field redistribution caused by losses and using typical values for QD and channel parameters. In silver, the characteristic value of ''  is  ~ 0.6  [39]. For the nanocrystal CdSe QDs ~ 300 p  fs  and  =  20  Debye [33, 34]. Taking the curvature radius of the  channel's  bottom  to  be 50nm   and  using  an  analytical expression for the plasmon field distribution in a channel with parabolic profile [5], we obtain the  'effective  area'   2 2 2 / 0,0, 75 Metal dxdy z nm   E E .  One  then  requires  more  than N 0 ~  30",
+      "text": "Let us evaluate 0 N without taking into account the plasmon field redistribution caused by losses and using typical values for QD and channel parameters. In silver, the characteristic value of ''  is  ~ 0.6  [39]. For the nanocrystal CdSe QDs ~ 300 p  fs  and  =  20  Debye [33, 34]. Taking the curvature radius of the  channel's  bottom  to  be 50nm   and  using  an  analytical expression for the plasmon field distribution in a channel with parabolic profile [5], we obtain the  'effective  area'   2 2 2 / 0,0, 75 Metal dxdy z nm   E E .  One  then  requires  more  than N 0 ~  30"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.24,
+            "t": 84.06327999999996,
+            "r": 311.50464600000004,
+            "b": 71.90841999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.0,
+            "t": 719.6630484,
+            "r": 543.0086064800001,
+            "b": 664.9657862399999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "excited  QDs  per  micrometer  of  the  channel  length  to  achieve  the  plasmon  amplification.  For CdSe  QDs  of  the  typical  size  of  a  couple  of  nanometers  such  a  concentration  may  be  easily achieved, even if only one row of QDs is placed at the bottom of channel.",
+      "text": "excited  QDs  per  micrometer  of  the  channel  length  to  achieve  the  plasmon  amplification.  For CdSe  QDs  of  the  typical  size  of  a  couple  of  nanometers  such  a  concentration  may  be  easily achieved, even if only one row of QDs is placed at the bottom of channel."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.99940172000001,
+            "t": 647.54300128,
+            "r": 543.1017363600002,
+            "b": 411.1357887,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1043
+          ]
+        }
+      ],
+      "orig": "To find optimum conditions for plasmonic lasing, one should analyze the modal structure of radiation. In the limit of large z k ,  the channel plasmons can be described in the quasi-static approximation [5, 29]. Then the problem is equivalent to that of the quantum oscillator, which localized solutions form a set of discrete levels [5]. Thus, the plasmons form a discrete spectrum (labeled with 0,1,2,...   ) and are localized at the channel's bottom. Going beyond the quasistatic approximation does not change these conclusions: the channel plasmons are similar to the modes of an ordinary waveguide and form a discrete spectrum. The dispersion curves   z k  of the lowest-order plasmons corresponding to the lossless case are shown in Fig. 2 (see Refs. [6, 40] for details). The curves in Fig. 2 are calculated within the full-wave approach instead of the quasi-static  approximation,  because  the  latter  fails  at  low  values  of z k (see  Refs.  [40]  and compare the dash-dotted curve with the solid curve for 0   in Fig. 2).",
+      "text": "To find optimum conditions for plasmonic lasing, one should analyze the modal structure of radiation. In the limit of large z k ,  the channel plasmons can be described in the quasi-static approximation [5, 29]. Then the problem is equivalent to that of the quantum oscillator, which localized solutions form a set of discrete levels [5]. Thus, the plasmons form a discrete spectrum (labeled with 0,1,2,...   ) and are localized at the channel's bottom. Going beyond the quasistatic approximation does not change these conclusions: the channel plasmons are similar to the modes of an ordinary waveguide and form a discrete spectrum. The dispersion curves   z k  of the lowest-order plasmons corresponding to the lossless case are shown in Fig. 2 (see Refs. [6, 40] for details). The curves in Fig. 2 are calculated within the full-wave approach instead of the quasi-static  approximation,  because  the  latter  fails  at  low  values  of z k (see  Refs.  [40]  and compare the dash-dotted curve with the solid curve for 0   in Fig. 2)."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 107.45957400000003,
+            "t": 198.22792600000002,
+            "r": 506.5996859999985,
+            "b": 105.95583780000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            661
+          ]
+        }
+      ],
+      "orig": "Fig. 2. (Color online) Dispersion curves of channel plasmons, calculated with the account of the retardation  effects.  The  curves  are  numbered  by  the  plasmon  order.  The  dash-dotted  line  is  the dispersion  curve  of  the  lowest-order  plasmon,  calculated  in  the  quasi-static  approximation.  The solid horizontal line marks the frequency, at which   0 M D      . The dashed horizontal line corresponds to the transition frequency providing excitation of minimum number of modes. The dots show the light line. The dispersion of silver is taken from Ref. [39],  Im  is discarded. The curvature radius of the channel's bottom is 50nm   .",
+      "text": "Fig. 2. (Color online) Dispersion curves of channel plasmons, calculated with the account of the retardation  effects.  The  curves  are  numbered  by  the  plasmon  order.  The  dash-dotted  line  is  the dispersion  curve  of  the  lowest-order  plasmon,  calculated  in  the  quasi-static  approximation.  The solid horizontal line marks the frequency, at which   0 M D      . The dashed horizontal line corresponds to the transition frequency providing excitation of minimum number of modes. The dots show the light line. The dispersion of silver is taken from Ref. [39],  Im  is discarded. The curvature radius of the channel's bottom is 50nm   ."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 303.24,
+            "t": 84.06327999999996,
+            "r": 311.50464600000004,
+            "b": 71.90841999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.99978200000001,
+            "t": 720.1350749999999,
+            "r": 543.0804628800001,
+            "b": 265.00574764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1790
+          ]
+        }
+      ],
+      "orig": "The channel plasmon dispersion curves tend to a horizontal asymptote 0   with 0  determined  by  the  condition   0 0 M D      .  For  any  given  frequency,  there  may  exist plasmonic modes with different wave numbers z k ,  which form a discrete spatial spectrum. As mentioned above, we consider the frequency range, determined by the condition   0 M D      . As can be seen in Fig. 2, we can choose a frequency  which satisfies both the condition   0 M D      and the condition of excitation of only a single channel plasmon mode with 0   .  The lowest-order mode is excited with two different wave numbers z k .  The lower and higher values of z k correspond to forward and backward waves, respectively. The backward wave has a negative slope of the dispersion curve, / 0 z k    . This wave while transmitting the energy from the source has a phase velocity towards the source. The backward wave is properly described in the quasi-static approximation, which is confirmed by proximity of the dash-dotted and solid lines in the higherz k region in Fig. 2. However, this approximation does not reveal the presence of the forward wave. The plasmon with larger wave number z k is more localized in the vicinity of the channel's bottom and, thus, has a larger confinement factor   2 (0,0, ) / z z  E . As a consequence, this plasmon has a larger gain coefficient in Eq. (4) and a lower threshold value of  the  QD  density 0 N .  Therefore,  the  channel  plasmon  with  smaller  wave  number  will  be suppressed due to mode competition. That is why we consider the higherz k channel plasmon in the evaluation of 0 N . For this plasmon the quasi-static approximation works well and, therefore, the approximation is employed in the calculation of fields.",
+      "text": "The channel plasmon dispersion curves tend to a horizontal asymptote 0   with 0  determined  by  the  condition   0 0 M D      .  For  any  given  frequency,  there  may  exist plasmonic modes with different wave numbers z k ,  which form a discrete spatial spectrum. As mentioned above, we consider the frequency range, determined by the condition   0 M D      . As can be seen in Fig. 2, we can choose a frequency  which satisfies both the condition   0 M D      and the condition of excitation of only a single channel plasmon mode with 0   .  The lowest-order mode is excited with two different wave numbers z k .  The lower and higher values of z k correspond to forward and backward waves, respectively. The backward wave has a negative slope of the dispersion curve, / 0 z k    . This wave while transmitting the energy from the source has a phase velocity towards the source. The backward wave is properly described in the quasi-static approximation, which is confirmed by proximity of the dash-dotted and solid lines in the higherz k region in Fig. 2. However, this approximation does not reveal the presence of the forward wave. The plasmon with larger wave number z k is more localized in the vicinity of the channel's bottom and, thus, has a larger confinement factor   2 (0,0, ) / z z  E . As a consequence, this plasmon has a larger gain coefficient in Eq. (4) and a lower threshold value of  the  QD  density 0 N .  Therefore,  the  channel  plasmon  with  smaller  wave  number  will  be suppressed due to mode competition. That is why we consider the higherz k channel plasmon in the evaluation of 0 N . For this plasmon the quasi-static approximation works well and, therefore, the approximation is employed in the calculation of fields."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.99966588000007,
+            "t": 247.58296268000004,
+            "r": 543.1308993600001,
+            "b": 103.90618919999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            688
+          ]
+        }
+      ],
+      "orig": "Since  the  plasmon  amplitude  increases  while  it  propagates,  lasing  appears  in  a  ring channel. Alternatively, one can form an effective cavity in a linear channel. This requires a larger gain level. Thus, ring or linear channels can be employed in a new kind of spaser generating 1D plasmons. The radiation of flat surface plasmons can be suppressed by using the frequency range in  which   0 M D      .  For  the  vacuum  channel  in  silver,  this  range  is  in  the  near  UV. Replacing  the  vacuum  by  a  high-permittivity  dielectric and  silver by  a metal-dielectric composite, one can shift the working frequency of the suggested spaser into the visible range.",
+      "text": "Since  the  plasmon  amplitude  increases  while  it  propagates,  lasing  appears  in  a  ring channel. Alternatively, one can form an effective cavity in a linear channel. This requires a larger gain level. Thus, ring or linear channels can be employed in a new kind of spaser generating 1D plasmons. The radiation of flat surface plasmons can be suppressed by using the frequency range in  which   0 M D      .  For  the  vacuum  channel  in  silver,  this  range  is  in  the  near  UV. Replacing  the  vacuum  by  a  high-permittivity  dielectric and  silver by  a metal-dielectric composite, one can shift the working frequency of the suggested spaser into the visible range."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 303.24,
+            "t": 84.06327999999996,
+            "r": 311.50464600000004,
+            "b": 71.90841999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.0,
+            "t": 719.6630484,
+            "r": 543.0770771600002,
+            "b": 656.9476264,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "Indeed,  as  has  been  shown  in  Ref.  [41],  using  either  a  dielectric  matrix  filled  with  silver inclusions or the silver foam  with dielectric bubbles, the zero-epsilon frequency zero  (   Re 0 eff zero    ) may be significantly shifted below the plasma frequency of silver.",
+      "text": "Indeed,  as  has  been  shown  in  Ref.  [41],  using  either  a  dielectric  matrix  filled  with  silver inclusions or the silver foam  with dielectric bubbles, the zero-epsilon frequency zero  (   Re 0 eff zero    ) may be significantly shifted below the plasma frequency of silver."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 107.4,
+            "t": 637.0483053,
+            "r": 209.7622647600002,
+            "b": 623.7440472000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Acknowledgements",
+      "text": "Acknowledgements",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.99945720000002,
+            "t": 606.4430484,
+            "r": 543.0368934399999,
+            "b": 531.0460185599999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            305
+          ]
+        }
+      ],
+      "orig": "The  authors  are  grateful  to  A.V.  Fedorov  and  A.V.  Baranov  for  discussion  of  the properties  of  quantum  dots.  The  work  is  partly  supported  by  the  Dynasty  Foundation,  by  the RFBR projects 10-02-00857-a, 10-02-90466-Ukr_a, 10-02-91750-AF_a, 11-02-92475-MNTI_a and by PSC-CUNY grant.",
+      "text": "The  authors  are  grateful  to  A.V.  Fedorov  and  A.V.  Baranov  for  discussion  of  the properties  of  quantum  dots.  The  work  is  partly  supported  by  the  Dynasty  Foundation,  by  the RFBR projects 10-02-00857-a, 10-02-90466-Ukr_a, 10-02-91750-AF_a, 11-02-92475-MNTI_a and by PSC-CUNY grant."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 303.24,
+            "t": 84.06327999999996,
+            "r": 311.50464600000004,
+            "b": 71.90841999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 107.4,
+            "t": 719.5483053,
+            "r": 166.40144019000005,
+            "b": 706.2440472000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0,
+            "t": 688.92318,
+            "r": 426.70121400000045,
+            "b": 676.76832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "[1] D. J. Bergman and M. I. Stockman, Phys. Rev. Lett. 90 , 027402 (2003).",
+      "text": "D. J. Bergman and M. I. Stockman, Phys. Rev. Lett. 90 , 027402 (2003).",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109800000001,
+            "t": 676.32363,
+            "r": 414.7681500000005,
+            "b": 664.16877,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "[2] J. Zuloaga, E. Prodan, and P. Nordlander, ACS Nano 4 , 5269 (2010).",
+      "text": "J. Zuloaga, E. Prodan, and P. Nordlander, ACS Nano 4 , 5269 (2010).",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109799999996,
+            "t": 663.66369,
+            "r": 542.7543240000002,
+            "b": 638.84889,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "[3] J. B. Pendry, J. B. Holden, D. J. Robbins, and W. J. Stewart, J. Phys.: Condens. Matter 10 , 4785 (1998).",
+      "text": "J. B. Pendry, J. B. Holden, D. J. Robbins, and W. J. Stewart, J. Phys.: Condens. Matter 10 , 4785 (1998).",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109799999996,
+            "t": 638.34381,
+            "r": 299.9228400000003,
+            "b": 626.18895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "[4] L. C. Davis, Phys. Rev. B 14 , 5523 (1976).",
+      "text": "L. C. Davis, Phys. Rev. B 14 , 5523 (1976).",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109799999996,
+            "t": 625.68387,
+            "r": 393.41204999999985,
+            "b": 613.52901,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "[5] A. Eguiluz and A. A. Maradudin, Phys. Rev. B 14 , 5526 (1976).",
+      "text": "A. Eguiluz and A. A. Maradudin, Phys. Rev. B 14 , 5526 (1976).",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00219599999997,
+            "t": 613.02393,
+            "r": 417.8227859999997,
+            "b": 600.86907,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "[6] I. V. Novikov and A. A. Maradudin, Phys. Rev. B 66 , 035403 (2002).",
+      "text": "I. V. Novikov and A. A. Maradudin, Phys. Rev. B 66 , 035403 (2002).",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00219599999991,
+            "t": 600.4243799999999,
+            "r": 405.2924100000003,
+            "b": 588.2695199999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "[7] D. K. Gramotnev and S. I. Bozhevolnyi, Nat. Photon. 4 , 83 (2010).",
+      "text": "D. K. Gramotnev and S. I. Bozhevolnyi, Nat. Photon. 4 , 83 (2010).",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00219599999991,
+            "t": 587.7644399999999,
+            "r": 308.8023660000001,
+            "b": 575.6095799999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "[8] S. A. Maier, Opt. Commun. 258 , 295 (2006).",
+      "text": "S. A. Maier, Opt. Commun. 258 , 295 (2006).",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109799999993,
+            "t": 575.1044999999999,
+            "r": 496.0706580000001,
+            "b": 562.9496399999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "[9] Z. Yu, G. Veronis, S. Fan, and M. L. Brongersma, Appl. Phys. Lett. 92 , 041117 (2008).",
+      "text": "Z. Yu, G. Veronis, S. Fan, and M. L. Brongersma, Appl. Phys. Lett. 92 , 041117 (2008).",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109799999996,
+            "t": 562.4445599999999,
+            "r": 542.8300859999993,
+            "b": 537.6297599999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "[10] M. A. Noginov, V. A. Podolskiy, G. Zhu, M. Mayy, M. Bahoura, J. A. Adegoke, B. A. Ritzo, and K. Reynolds, Opt. Express 16 , 1385 (2008).",
+      "text": "M. A. Noginov, V. A. Podolskiy, G. Zhu, M. Mayy, M. Bahoura, J. A. Adegoke, B. A. Ritzo, and K. Reynolds, Opt. Express 16 , 1385 (2008).",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109799999996,
+            "t": 537.1850699999999,
+            "r": 361.90274399999987,
+            "b": 525.0302099999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "[11] I. De Leon and P. Berini, Opt. Express 17 , 20191 (2009).",
+      "text": "I. De Leon and P. Berini, Opt. Express 17 , 20191 (2009).",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109799999998,
+            "t": 524.5251299999999,
+            "r": 542.798244000001,
+            "b": 499.71032999999983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "[12] Z.-G. Dong, H. Liu, T. Li, Z.-H. Zhu, S.-M. Wang, J.-X. Cao, S.-N. Zhu, and X. Zhang, Phys. Rev. B 80 , 235116 (2009).",
+      "text": "Z.-G. Dong, H. Liu, T. Li, Z.-H. Zhu, S.-M. Wang, J.-X. Cao, S.-N. Zhu, and X. Zhang, Phys. Rev. B 80 , 235116 (2009).",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109800000001,
+            "t": 499.20524999999986,
+            "r": 438.873642,
+            "b": 487.0503899999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "[13] T. Okamoto, F. H'Dhili, and S. Kawata, Appl. Phys. Lett. 85 , 3968 (2004).",
+      "text": "T. Okamoto, F. H'Dhili, and S. Kawata, Appl. Phys. Lett. 85 , 3968 (2004).",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109799999996,
+            "t": 486.54530999999986,
+            "r": 425.79536399999984,
+            "b": 474.3904499999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "[14] A. Banerjee, R. Li, and H. Grebel, Appl. Phys. Lett. 95 , 251106 (2009).",
+      "text": "A. Banerjee, R. Li, and H. Grebel, Appl. Phys. Lett. 95 , 251106 (2009).",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109799999996,
+            "t": 473.94575999999984,
+            "r": 542.7433440000002,
+            "b": 449.1309599999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "[15] I. E. Protsenko, A. V. Uskov, K. E. Krotova, and E. P. O'Reilly, J. Phys.: Conf. Ser. 107 , 012010 (2008).",
+      "text": "I. E. Protsenko, A. V. Uskov, K. E. Krotova, and E. P. O'Reilly, J. Phys.: Conf. Ser. 107 , 012010 (2008).",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109799999996,
+            "t": 448.6258799999998,
+            "r": 406.3069620000001,
+            "b": 436.4710199999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "[16] A. S. Rosenthal and T. Ghannam, Phys. Rev. A 79 , 043824 (2009).",
+      "text": "A. S. Rosenthal and T. Ghannam, Phys. Rev. A 79 , 043824 (2009).",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00219599999991,
+            "t": 435.9659399999998,
+            "r": 417.82717799999995,
+            "b": 423.8110799999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "[17] A. K. Sarychev and G. Tartakovsky, Phys. Rev. B 75 , 085436 (2007).",
+      "text": "A. K. Sarychev and G. Tartakovsky, Phys. Rev. B 75 , 085436 (2007).",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00219599999991,
+            "t": 423.3059999999998,
+            "r": 536.32224,
+            "b": 411.15113999999977,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "[18] N. I. Zheludev, S. L. Prosvirnin, N. Papasimakis, and V. A. Fedotov, Nat. Photon. 2 , 351 (2008).",
+      "text": "N. I. Zheludev, S. L. Prosvirnin, N. Papasimakis, and V. A. Fedotov, Nat. Photon. 2 , 351 (2008).",
+      "enumerated": true,
+      "marker": "[18]"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109800000001,
+            "t": 410.6460599999998,
+            "r": 526.4281620000004,
+            "b": 398.49119999999976,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "[19] E. Plum, V. A. Fedotov, P. Kuo, D. P. Tsai, and N. I. Zheludev, Opt. Express 17 , 8548 (2009).",
+      "text": "E. Plum, V. A. Fedotov, P. Kuo, D. P. Tsai, and N. I. Zheludev, Opt. Express 17 , 8548 (2009).",
+      "enumerated": true,
+      "marker": "[19]"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109800000007,
+            "t": 398.0465099999998,
+            "r": 542.7510300000002,
+            "b": 385.89164999999974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "[20] N. Meinzer, M. Ruther, S. Linden, C. M. Soukoulis, G. Khitrova, J. Hendrickson, J. D. Olitzky,",
+      "text": "N. Meinzer, M. Ruther, S. Linden, C. M. Soukoulis, G. Khitrova, J. Hendrickson, J. D. Olitzky,",
+      "enumerated": true,
+      "marker": "[20]"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0010980000001,
+            "t": 385.3865699999998,
+            "r": 352.79703000000035,
+            "b": 373.23170999999974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "H. M. Gibbs, and M. Wegener, Opt. Express 18 , 24140 (2010).",
+      "text": "M. Gibbs, and M. Wegener, Opt. Express 18 , 24140 (2010).",
+      "enumerated": true,
+      "marker": "H."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109800000016,
+            "t": 372.7266299999998,
+            "r": 542.7466379999998,
+            "b": 347.9118299999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "[21] M.  A.  Noginov,  G.  Zhu,  V.  P.  Drachev,  and  V.  M.  Shalaev,  in Nanophotonics  with  Surface Plasmons , edited by V. M. Shalaev and S. Kawata (Elsevier, Amsterdam, 2007), p. 141.",
+      "text": "M.  A.  Noginov,  G.  Zhu,  V.  P.  Drachev,  and  V.  M.  Shalaev,  in Nanophotonics  with  Surface Plasmons , edited by V. M. Shalaev and S. Kawata (Elsevier, Amsterdam, 2007), p. 141.",
+      "enumerated": true,
+      "marker": "[21]"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00109800000018,
+            "t": 347.40674999999976,
+            "r": 542.7466380000001,
+            "b": 322.6523399999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "[22] S. I. Bozhevolnyi, V. S. Volkov, E. Devaux, J.-Y. Laluet, and T. W. Ebbesen, Nature 440 ,  508 (2006).",
+      "text": "S. I. Bozhevolnyi, V. S. Volkov, E. Devaux, J.-Y. Laluet, and T. W. Ebbesen, Nature 440 ,  508 (2006).",
+      "enumerated": true,
+      "marker": "[22]"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0010980000003,
+            "t": 322.14725999999973,
+            "r": 411.76841400000075,
+            "b": 309.9923999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "[23] D. Gramotnev and D. Pile, Applied Physics Letters 85 , 6323 (2004).",
+      "text": "D. Gramotnev and D. Pile, Applied Physics Letters 85 , 6323 (2004).",
+      "enumerated": true,
+      "marker": "[23]"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0010980000003,
+            "t": 309.4873199999997,
+            "r": 542.7828719999992,
+            "b": 284.6725199999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "[24] E.  Moreno,  F.  J.  Garcia-Vidal,  S.  G.  Rodrigo,  L.  Martin-Moreno,  and  S.  I.  Bozhevolnyi,  Opt. Lett. 31 , 3447 (2006).",
+      "text": "E.  Moreno,  F.  J.  Garcia-Vidal,  S.  G.  Rodrigo,  L.  Martin-Moreno,  and  S.  I.  Bozhevolnyi,  Opt. Lett. 31 , 3447 (2006).",
+      "enumerated": true,
+      "marker": "[24]"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00219600000034,
+            "t": 284.1674399999997,
+            "r": 542.7257760000005,
+            "b": 259.3526399999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "[25] S.  I.  Bozhevolniy, Plasmonic  Nanoguides  and  Circuits (Pan  Stanford  Publishing,  Singapore, 2009).",
+      "text": "S.  I.  Bozhevolniy, Plasmonic  Nanoguides  and  Circuits (Pan  Stanford  Publishing,  Singapore, 2009).",
+      "enumerated": true,
+      "marker": "[25]"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00219600000037,
+            "t": 258.9079499999997,
+            "r": 542.75103,
+            "b": 234.0931499999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "[26] T.  Holmgaard,  Z.  Chen,  S.  I.  Bozhevolnyi,  L.  Markey,  A.  Dereux,  A.  V.  Krasavin,  and  A.  V. Zayats, Appl. Phys. Lett. 94 , 051111 (2009).",
+      "text": "T.  Holmgaard,  Z.  Chen,  S.  I.  Bozhevolnyi,  L.  Markey,  A.  Dereux,  A.  V.  Krasavin,  and  A.  V. Zayats, Appl. Phys. Lett. 94 , 051111 (2009).",
+      "enumerated": true,
+      "marker": "[26]"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00219600000042,
+            "t": 233.58806999999968,
+            "r": 542.7433440000001,
+            "b": 208.77326999999968,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "[27] L.  D.  Landau,  E.  M.  Lifshitz,  and  L.  P.  Pitaevskii, Electrodynamics  of  Continuous  Media (Butterworth Heinemann, Oxford, 1995).",
+      "text": "L.  D.  Landau,  E.  M.  Lifshitz,  and  L.  P.  Pitaevskii, Electrodynamics  of  Continuous  Media (Butterworth Heinemann, Oxford, 1995).",
+      "enumerated": true,
+      "marker": "[27]"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00219600000042,
+            "t": 208.26818999999966,
+            "r": 542.7477360000006,
+            "b": 183.51377999999966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "[28] H. Raether, Surface Plasmons on Smooth and Rough Surfaces and on Gratings (Springer-Verlag, Berlin, 1988).",
+      "text": "H. Raether, Surface Plasmons on Smooth and Rough Surfaces and on Gratings (Springer-Verlag, Berlin, 1988).",
+      "enumerated": true,
+      "marker": "[28]"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.00219600000042,
+            "t": 183.00869999999964,
+            "r": 386.7043680000009,
+            "b": 170.85383999999965,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "[29] J. Q. Lu and A. A. Maradudin, Phys. Rev. B 42 , 11159 (1990).",
+      "text": "J. Q. Lu and A. A. Maradudin, Phys. Rev. B 42 , 11159 (1990).",
+      "enumerated": true,
+      "marker": "[29]"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0,
+            "t": 170.34317999999996,
+            "r": 542.7038160000011,
+            "b": 145.52837999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "[30] L. Novotny and B. Hecht, Principles of Nano-Optics (Cambridge University Press, New York, 2006).",
+      "text": "L. Novotny and B. Hecht, Principles of Nano-Optics (Cambridge University Press, New York, 2006).",
+      "enumerated": true,
+      "marker": "[30]"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0,
+            "t": 145.02329999999995,
+            "r": 542.7455399999998,
+            "b": 120.20849999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "[31] D.  E.  Chang,  A.  S.  Sorensen,  P.  R.  Hemmer,  and  M.  D.  Lukin,  Phys.  Rev.  Lett. 97 ,  053002 (2006).",
+      "text": "D.  E.  Chang,  A.  S.  Sorensen,  P.  R.  Hemmer,  and  M.  D.  Lukin,  Phys.  Rev.  Lett. 97 ,  053002 (2006).",
+      "enumerated": true,
+      "marker": "[31]"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.0010979999999,
+            "t": 119.76381000000003,
+            "r": 542.7444419999997,
+            "b": 94.94901000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "[32] D.  Martín-Cano,  L.  Martín-Moreno,  F.  J.  García-Vidal,  and  E.  Moreno,  Nano  Lett. 10 ,  3129 (2010).",
+      "text": "D.  Martín-Cano,  L.  Martín-Moreno,  F.  J.  García-Vidal,  and  E.  Moreno,  Nano  Lett. 10 ,  3129 (2010).",
+      "enumerated": true,
+      "marker": "[32]"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 303.24,
+            "t": 84.06327999999996,
+            "r": 311.50464600000004,
+            "b": 71.90841999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.000474,
+            "t": 719.6438740000001,
+            "r": 433.47415199999995,
+            "b": 707.4890140000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "[33] V. I. Klimov, Nanocrystal quantum dots (CRC Press, Boca Raton, 2010).",
+      "text": "V. I. Klimov, Nanocrystal quantum dots (CRC Press, Boca Raton, 2010).",
+      "enumerated": true,
+      "marker": "[33]"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00047399999997,
+            "t": 706.9839340000001,
+            "r": 529.3866479999999,
+            "b": 694.8290740000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "[34] A. L. Rogach, Semiconductor Nanocrystal Quantum Dots (Springer, Wien - New York, 2008).",
+      "text": "A. L. Rogach, Semiconductor Nanocrystal Quantum Dots (Springer, Wien - New York, 2008).",
+      "enumerated": true,
+      "marker": "[34]"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00047399999994,
+            "t": 694.3239940000001,
+            "r": 542.7877380000002,
+            "b": 669.5695840000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "[35] S. V. Gaponenko, H. Kalt, and U. Woggon, Optical Properties: Part 2 (Springer-Verlag Berlin Heidelberg, 2004), Vol. 34.",
+      "text": "S. V. Gaponenko, H. Kalt, and U. Woggon, Optical Properties: Part 2 (Springer-Verlag Berlin Heidelberg, 2004), Vol. 34.",
+      "enumerated": true,
+      "marker": "[35]"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.000474,
+            "t": 669.064504,
+            "r": 348.46809,
+            "b": 656.9096440000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "[36] A. N. Oraevsky, Quantum Electronics 29 , 975 (1999).",
+      "text": "A. N. Oraevsky, Quantum Electronics 29 , 975 (1999).",
+      "enumerated": true,
+      "marker": "[36]"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00047399999997,
+            "t": 656.404564,
+            "r": 512.2457700000007,
+            "b": 644.2497040000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "[37] R. Pantell and H. Puthoff, Fundamentals of quantum electronics (Wiley, New York, 1969).",
+      "text": "R. Pantell and H. Puthoff, Fundamentals of quantum electronics (Wiley, New York, 1969).",
+      "enumerated": true,
+      "marker": "[37]"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99937599999998,
+            "t": 643.744624,
+            "r": 542.7844439999996,
+            "b": 618.929824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "[38] M.  O.  Scully  and  M.  S.  Zubairy, Quantum  Optics (Cambridge  University  Press,  Cambridge, 1997).",
+      "text": "M.  O.  Scully  and  M.  S.  Zubairy, Quantum  Optics (Cambridge  University  Press,  Cambridge, 1997).",
+      "enumerated": true,
+      "marker": "[38]"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 71.99937599999998,
+            "t": 618.424744,
+            "r": 507.04674,
+            "b": 606.269884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "[39] E. D. Palik, Handbook of Optical Constants of Solids (Academic Press, New York, 1985).",
+      "text": "E. D. Palik, Handbook of Optical Constants of Solids (Academic Press, New York, 1985).",
+      "enumerated": true,
+      "marker": "[39]"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.000474,
+            "t": 605.825194,
+            "r": 449.3314679999999,
+            "b": 593.670334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "[40] A. D. Boardman, G. C. Aers, and R. Teshima, Phys. Rev. B 24 , 5703 (1981).",
+      "text": "A. D. Boardman, G. C. Aers, and R. Teshima, Phys. Rev. B 24 , 5703 (1981).",
+      "enumerated": true,
+      "marker": "[40]"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.00157200000001,
+            "t": 593.165254,
+            "r": 542.746014,
+            "b": 568.350454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "[41] E.  Liznev,  A.  Dorofeenko, L. Huizhe, A. Vinogradov, and S. Zouhdi, Appl. Phys. A 100 ,  321 (2010).",
+      "text": "E.  Liznev,  A.  Dorofeenko, L. Huizhe, A. Vinogradov, and S. Zouhdi, Appl. Phys. A 100 ,  321 (2010).",
+      "enumerated": true,
+      "marker": "[41]"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 300.48,
+            "t": 84.06327999999996,
+            "r": 314.20500000000004,
+            "b": 71.90841999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 184.92247009277344,
+            "t": 484.5093688964844,
+            "r": 428.7416076660156,
+            "b": 346.50457763671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 184.69088745117188,
+            "t": 393.4242858886719,
+            "r": 428.4520568847656,
+            "b": 209.32720947265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 10
+    }
+  }
+}

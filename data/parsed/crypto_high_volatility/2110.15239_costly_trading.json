@@ -1,0 +1,4060 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2110.15239_costly_trading",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6520597926482598493,
+    "filename": "2110.15239_costly_trading.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/125"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 583.08,
+            "r": 36.206559297218156,
+            "b": 222.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:2110.15239v1  [q-fin.PM]  7 Oct 2021",
+      "text": "arXiv:2110.15239v1  [q-fin.PM]  7 Oct 2021"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 241.794,
+            "t": 619.3317644,
+            "r": 368.4545839600001,
+            "b": 604.2207113925073,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Costly Trading",
+      "text": "Costly Trading",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 259.899,
+            "t": 589.0249538,
+            "r": 354.58492011,
+            "b": 574.9274525786744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Michael Isichenko ∗",
+      "text": "Michael Isichenko ∗"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 283.207,
+            "t": 534.6543436000001,
+            "r": 327.0424399999999,
+            "b": 525.9095350743517,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 153.071,
+            "t": 517.8624558,
+            "r": 457.18464475999997,
+            "b": 365.69388987723363,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            875
+          ]
+        }
+      ],
+      "orig": "We revisit optimal execution of an active portfolio in the presence of slippage (aka linear, proportional, or absolute-value) costs. Market efficiency implies a close balance between active alphas and trading costs, so even small changes to trading optimization can make a big difference. It has been observed for some time that optimal trading involves a pattern of a no-trade zone with width ∆ increasing with the slippage cost c . In a setting of a reasonably stable (non-stochastic) forecast of future returns and a quadratic risk aversion, it is shown that ∆ ∼ c 1 / 2 , which differs from the ∆ ∼ c 1 / 3 scaling reported for stochastic settings. Analysis of optimal trading employs maximization of a utility including projected alpha-based profits, slippage costs, and risk aversion and borrows from a physical analogy of forced motion in the presence of dry friction.",
+      "text": "We revisit optimal execution of an active portfolio in the presence of slippage (aka linear, proportional, or absolute-value) costs. Market efficiency implies a close balance between active alphas and trading costs, so even small changes to trading optimization can make a big difference. It has been observed for some time that optimal trading involves a pattern of a no-trade zone with width ∆ increasing with the slippage cost c . In a setting of a reasonably stable (non-stochastic) forecast of future returns and a quadratic risk aversion, it is shown that ∆ ∼ c 1 / 2 , which differs from the ∆ ∼ c 1 / 3 scaling reported for stochastic settings. Analysis of optimal trading employs maximization of a utility including projected alpha-based profits, slippage costs, and risk aversion and borrows from a physical analogy of forced motion in the presence of dry friction."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 125.79800000000003,
+            "t": 343.2884932000002,
+            "r": 484.46160771999996,
+            "b": 312.76291976829987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "1 Introduction. Trading costs and market efficiency",
+      "text": "1 Introduction. Trading costs and market efficiency",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 125.798,
+            "t": 298.6129153000002,
+            "r": 484.4575716099996,
+            "b": 167.13617929654197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            742
+          ]
+        }
+      ],
+      "orig": "Trading in financial markets involves costs with security-dependent structure. One normally distinguishes between trading costs proportional to the absolute value of the trade size and those increasing nonlinearly with the trade size. The former type includes fees, taxes, and bid-ask spread and is here referred to as slippage . The latter, impact cost is due to a sizable trade affecting security price. Empirical measurement of the trading costs is an important part of active portfolio management and is generally complicated by the market noise and the difficulty of attribution of price changes to specific trades. It generally takes a large database of orders and executions to run a statistically meaningful trading cost analysis [1].",
+      "text": "Trading in financial markets involves costs with security-dependent structure. One normally distinguishes between trading costs proportional to the absolute value of the trade size and those increasing nonlinearly with the trade size. The former type includes fees, taxes, and bid-ask spread and is here referred to as slippage . The latter, impact cost is due to a sizable trade affecting security price. Empirical measurement of the trading costs is an important part of active portfolio management and is generally complicated by the market noise and the difficulty of attribution of price changes to specific trades. It generally takes a large database of orders and executions to run a statistically meaningful trading cost analysis [1]."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 125.79800000000002,
+            "t": 163.1209153000002,
+            "r": 484.45866251999945,
+            "b": 140.038179296542,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 125.798,
+            "t": 658.7089153000001,
+            "r": 484.45866251999956,
+            "b": 527.2321792965421,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            148,
+            822
+          ]
+        }
+      ],
+      "orig": "Given the scale of alpha-based portfolios deployed in financial markets, trading costs are not only significant in quantitative terms but also bear on qualitative concepts including market efficiency. The venerable teaching of efficient markets [2] has been under renewed pressure, at least at the aggregate equity market level [3, 4]. At a micro, or security-specific level, efficiency would mean a poor predictability of future returns such that, for a regular investor, timing the market is never worth the risk. Empirical observations, however, indicate the existence of thousands of hedge funds, many of them systematic quants ostensibly knowing what they are doing. By some estimates [5], the cost of trading in the US markets, defined as profits and wages in the financial industry, can be as high as 9% of the GDP.",
+      "text": "Given the scale of alpha-based portfolios deployed in financial markets, trading costs are not only significant in quantitative terms but also bear on qualitative concepts including market efficiency. The venerable teaching of efficient markets [2] has been under renewed pressure, at least at the aggregate equity market level [3, 4]. At a micro, or security-specific level, efficiency would mean a poor predictability of future returns such that, for a regular investor, timing the market is never worth the risk. Empirical observations, however, indicate the existence of thousands of hedge funds, many of them systematic quants ostensibly knowing what they are doing. By some estimates [5], the cost of trading in the US markets, defined as profits and wages in the financial industry, can be as high as 9% of the GDP."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 138.236,
+            "t": 132.29085439999994,
+            "r": 269.48471999999987,
+            "b": 120.84845919999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "∗ michael.isichenko@gmail.com",
+      "text": "∗ michael.isichenko@gmail.com"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 302.399,
+            "t": 100.40191530000004,
+            "r": 307.85355,
+            "b": 90.86817929654183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 125.798,
+            "t": 523.2169153000003,
+            "r": 484.45866252000025,
+            "b": 337.5431792965423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1017
+          ]
+        }
+      ],
+      "orig": "The persistent presence of actively managed portfolios means that markets are inefficient at the micro level in the sense that skilled traders, discretionary or quantitative, are able to generate alphas , or reasonably performing forecasts of future returns for specific securities. The definition of market efficiency should then be adjusted to account for the presence of alphas and competing alpha-based traders. An efficient market can be defined as one in which tradable predictability of security prices is balanced by trading costs. Such a balance is typical for mid-frequency statistical arbitrage where the forecasts and the costs are of the same order of magnitude [6]. It is then the subtle difference between the forecast performance 1 and the cost of trading, which separates success from failure. Not surprisingly, the most successful quantitative funds appear to have a good understanding of their trading costs [7] and, by extension, a fairly optimal portfolio construction accounting for these costs.",
+      "text": "The persistent presence of actively managed portfolios means that markets are inefficient at the micro level in the sense that skilled traders, discretionary or quantitative, are able to generate alphas , or reasonably performing forecasts of future returns for specific securities. The definition of market efficiency should then be adjusted to account for the presence of alphas and competing alpha-based traders. An efficient market can be defined as one in which tradable predictability of security prices is balanced by trading costs. Such a balance is typical for mid-frequency statistical arbitrage where the forecasts and the costs are of the same order of magnitude [6]. It is then the subtle difference between the forecast performance 1 and the cost of trading, which separates success from failure. Not surprisingly, the most successful quantitative funds appear to have a good understanding of their trading costs [7] and, by extension, a fairly optimal portfolio construction accounting for these costs."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 125.79800000000002,
+            "t": 333.52791530000053,
+            "r": 484.4586625199997,
+            "b": 242.6991792965423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            476
+          ]
+        }
+      ],
+      "orig": "The subject of this paper is optimal trading with slippage, which is the dominant cost for small- to medium-size active equity portfolios. The problem was considered in a number of papers starting with Constantinides [8], who showed that slippage must drastically reduce the frequency and volume of optimal trades. The resulting trading pattern involves a no-trade zone (NTZ) in terms of position for each security, so it is provably detrimental to trade while within the NTZ.",
+      "text": "The subject of this paper is optimal trading with slippage, which is the dominant cost for small- to medium-size active equity portfolios. The problem was considered in a number of papers starting with Constantinides [8], who showed that slippage must drastically reduce the frequency and volume of optimal trades. The resulting trading pattern involves a no-trade zone (NTZ) in terms of position for each security, so it is provably detrimental to trade while within the NTZ."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 125.79800000000002,
+            "t": 238.68391530000054,
+            "r": 484.45757160999955,
+            "b": 202.0511792965424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "The case of slippage is different from impact costs. The latter disappear in the limit of a vanishing trading rate and therefore do not impose a notrade zone [9, 6].",
+      "text": "The case of slippage is different from impact costs. The latter disappear in the limit of a vanishing trading rate and therefore do not impose a notrade zone [9, 6]."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 125.79800000000002,
+            "t": 198.0359153000005,
+            "r": 484.4586625199996,
+            "b": 161.40417929654234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 125.798,
+            "t": 658.7089153000001,
+            "r": 484.4564806999995,
+            "b": 554.330179296542,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            216,
+            776
+          ]
+        }
+      ],
+      "orig": "Formal optimization in the presence of slippage involves some mathematical challenges due to an absolute-value-type nonlinearity present in the problem. Analytical solutions were developed for stochastic models with security price following a random walk with a mean-reverting-type drift [10, 11, 12]. Stochastic treatment of slippage optimization uses mathematical methods such as Itˆ o algebra or Bellman's optimal control theory. The results of these analyses indicate that the width of the NTZ is proportional to the cubic root of slippage, meaning a strong effect of even a small cost on optimal execution. An interesting approach based on heuristics of tracking a cost-free portfolio, but leading to a computationally expensive Hidden Markov Model, was proposed in [13].",
+      "text": "Formal optimization in the presence of slippage involves some mathematical challenges due to an absolute-value-type nonlinearity present in the problem. Analytical solutions were developed for stochastic models with security price following a random walk with a mean-reverting-type drift [10, 11, 12]. Stochastic treatment of slippage optimization uses mathematical methods such as Itˆ o algebra or Bellman's optimal control theory. The results of these analyses indicate that the width of the NTZ is proportional to the cubic root of slippage, meaning a strong effect of even a small cost on optimal execution. An interesting approach based on heuristics of tracking a cost-free portfolio, but leading to a computationally expensive Hidden Markov Model, was proposed in [13]."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 125.798,
+            "t": 151.62370080000005,
+            "r": 484.45372512,
+            "b": 131.0610894340058,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "1 Performance seems a better term than accuracy: it is hard to call accurate forecasts whose typical correlation with realized returns is of order 1%.",
+      "text": "1 Performance seems a better term than accuracy: it is hard to call accurate forecasts whose typical correlation with realized returns is of order 1%."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 302.399,
+            "t": 100.40191530000004,
+            "r": 307.85355,
+            "b": 90.86817929654183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 125.79800000000002,
+            "t": 550.3149153000003,
+            "r": 484.4581938599993,
+            "b": 459.48617929654216,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            469
+          ]
+        }
+      ],
+      "orig": "The approach adopted in this paper is non-stochastic. The nonlinear problem of optimal continuous-time trading with slippage (but no price impact) and with quadratic risk penalties is solved in a closed form for a fairly general profile of predicted future returns. The solution depends on the convexity properties of the forecast profile. The scaling for the NTZ width is found to be a square root of slippage, which is different from the results of stochastic models.",
+      "text": "The approach adopted in this paper is non-stochastic. The nonlinear problem of optimal continuous-time trading with slippage (but no price impact) and with quadratic risk penalties is solved in a closed form for a fairly general profile of predicted future returns. The solution depends on the convexity properties of the forecast profile. The scaling for the NTZ width is found to be a square root of slippage, which is different from the results of stochastic models."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 125.79800000000002,
+            "t": 455.4709153000004,
+            "r": 484.4553897899995,
+            "b": 391.74017929654224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            354
+          ]
+        }
+      ],
+      "orig": "Given a proprietary nature of algorithmic trading, there are definitely a number of unpublished developments with similar or more general results. Eq. (10), one of the main results of this paper, was derived by the author around 2004; a publication seems warranted given that the problem has since been discussed in the literature in considerable detail.",
+      "text": "Given a proprietary nature of algorithmic trading, there are definitely a number of unpublished developments with similar or more general results. Eq. (10), one of the main results of this paper, was derived by the author around 2004; a publication seems warranted given that the problem has since been discussed in the literature in considerable detail."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 125.79800000000002,
+            "t": 369.54149320000045,
+            "r": 362.9005166399998,
+            "b": 356.94891976830013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "2 Optimal trading with slippage",
+      "text": "2 Optimal trading with slippage",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 125.798,
+            "t": 342.7989153000005,
+            "r": 484.4561963399998,
+            "b": 292.6171792965423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            296
+          ]
+        }
+      ],
+      "orig": "Consider a single security tradable in continuous time so its position P ( t ) can take on any real value. Given a forecast f ( t ), the expectation of future security return from current time zero to time t , we can plan the position path P ( t ) by maximizing a mean-variance utility functional",
+      "text": "Consider a single security tradable in continuous time so its position P ( t ) can take on any real value. Given a forecast f ( t ), the expectation of future security return from current time zero to time t , we can plan the position path P ( t ) by maximizing a mean-variance utility functional"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 212.6140000000001,
+            "t": 283.61557830000055,
+            "r": 484.45364798,
+            "b": 255.06430808328582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "U [ P ( t )] = ∫ ∞ 0 [ ˙ fP -C ( ˙ P ) -kP 2 ] dt. (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 125.79800000000004,
+            "t": 246.3819153000004,
+            "r": 484.4567139599996,
+            "b": 166.34417929654217,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            422
+          ]
+        }
+      ],
+      "orig": "Here C ( ˙ P ) is a trading cost rate, normally an even function of the trading rate ˙ P , and k is a risk aversion coefficient needed to penalize for exposure as well as for regularization and portfolio size control. It is common to apply a discounting to future pnl and risk, e.g., by introducing an exponential decay factor in the integrand of Eq. (1). Doing so would have no significant effect on the discussion below.",
+      "text": "Here C ( ˙ P ) is a trading cost rate, normally an even function of the trading rate ˙ P , and k is a risk aversion coefficient needed to penalize for exposure as well as for regularization and portfolio size control. It is common to apply a discounting to future pnl and risk, e.g., by introducing an exponential decay factor in the integrand of Eq. (1). Doing so would have no significant effect on the discussion below."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 142.73500000000004,
+            "t": 162.3289153000004,
+            "r": 390.6181156599997,
+            "b": 152.7951792965422,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "In the absence of costs, the optimal position path is",
+      "text": "In the absence of costs, the optimal position path is"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 269.54200000000003,
+            "t": 142.55291530000045,
+            "r": 484.45364797999997,
+            "b": 115.27717929654182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "P (0) ( t ) = ˙ f ( t ) 2 k . (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.399,
+            "t": 100.40191530000004,
+            "r": 307.85355,
+            "b": 90.86817929654183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 125.798,
+            "t": 658.7089153000001,
+            "r": 484.44884432999964,
+            "b": 635.6261792965419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "More generally, a variational maximization of (1) gives the following optimality condition",
+      "text": "More generally, a variational maximization of (1) gives the following optimality condition"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 241.214,
+            "t": 634.4889153000001,
+            "r": 484.4536479800001,
+            "b": 622.0761792965419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "C ′′ ( ˙ P ) ¨ P -2 kP + ˙ f ( t ) = 0 . (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 125.79800000000012,
+            "t": 614.3429153000002,
+            "r": 484.4556220399998,
+            "b": 547.855179296542,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            314
+          ]
+        }
+      ],
+      "orig": "The case of a time-local quadratic cost, C ( ˙ P ) = µ ˙ P 2 results in an easily solvable linear equation similar to forced motion of a body subject to a viscous damping. A more complicated, but still tractable situation arises when the viscosity is not local in time due to a finite lifetime of price impact [6].",
+      "text": "The case of a time-local quadratic cost, C ( ˙ P ) = µ ˙ P 2 results in an easily solvable linear equation similar to forced motion of a body subject to a viscous damping. A more complicated, but still tractable situation arises when the viscosity is not local in time due to a finite lifetime of price impact [6]."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 142.73500000000013,
+            "t": 543.8389153000003,
+            "r": 437.5283365699997,
+            "b": 534.3051792965421,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "The case of time-local absolute-value (slippage) cost function,",
+      "text": "The case of time-local absolute-value (slippage) cost function,"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 273.89700000000016,
+            "t": 522.0889153000003,
+            "r": 484.4536479800001,
+            "b": 509.7971792965421,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "C ( ˙ P ) = c | ˙ P | , (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 125.79800000000012,
+            "t": 494.8229153000003,
+            "r": 484.4550877899994,
+            "b": 431.09217929654216,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "is generally more difficult than quadratic cost and, in mechanical terms, is similar to dry friction rather than viscosity. Moving position P ( t ) from its current state P 0 requires a finite force, a pattern known as static friction, or stiction . This sticky point is better seen upon integrating the utility (1) by parts:",
+      "text": "is generally more difficult than quadratic cost and, in mechanical terms, is similar to dry friction rather than viscosity. Moving position P ( t ) from its current state P 0 requires a finite force, a pattern known as static friction, or stiction . This sticky point is better seen upon integrating the utility (1) by parts:"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 193.90600000000018,
+            "t": 432.0695783000004,
+            "r": 484.4536479800002,
+            "b": 403.51830808328566,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "U [ P ( t )] = -∫ ∞ 0 [ ˙ P ( f + c sign( ˙ P )) + kP 2 ] dt. (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 125.79800000000023,
+            "t": 397.44391530000047,
+            "r": 484.4556359499998,
+            "b": 360.81117929654226,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "This equation clearly compares the magnitude of the forecast f with the cost c and indicates a threshold behavior of optimal trading. For slippage cost (4), the optimality condition (3),",
+      "text": "This equation clearly compares the magnitude of the forecast f with the cost c and indicates a threshold behavior of optimal trading. For slippage cost (4), the optimality condition (3),"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 235.3540000000002,
+            "t": 348.7159153000005,
+            "r": 484.45364798000026,
+            "b": 336.3031792965423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "c sign( ˙ P ) ¨ P -2 kP + ˙ f ( t ) = 0 , (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 125.79800000000027,
+            "t": 321.3289153000005,
+            "r": 484.4585200700001,
+            "b": 257.5981792965424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "implies that the optimal path P ( t ) consists of a combination of plateaus and the cost-free solution (2), possibly with finite discontinuities (trades) of P ( t ). The solution depends on the forecast profile f ( t ) and the initial position P 0 . The analysis of cases can be made more intuitive using the mechanical analogy of stiction.",
+      "text": "implies that the optimal path P ( t ) consists of a combination of plateaus and the cost-free solution (2), possibly with finite discontinuities (trades) of P ( t ). The solution depends on the forecast profile f ( t ) and the initial position P 0 . The analysis of cases can be made more intuitive using the mechanical analogy of stiction."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 125.79800000000023,
+            "t": 253.58291530000054,
+            "r": 484.4573830700002,
+            "b": 162.75417929654225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            541
+          ]
+        }
+      ],
+      "orig": "Consider a special, but still fairly generic case of a concave forecast with f (0) = 0, f ( ∞ ) = f ∞ > 0, and ¨ f ( t ) < 0 (Fig. 1). When starting with P 0 = 0, the position is traded to a value P ∗ smaller than the cost-free target ˙ f (0) / (2 k ) and, upon holding at that plateau for some time τ , follows (2). Closing the position in the long-time limit is forced by risk without reward as ˙ f ( t ) → 0 for t → ∞ . The plateau level P ∗ is found by maximizing the utility (1) of such path, which now depends on a single parameter τ :",
+      "text": "Consider a special, but still fairly generic case of a concave forecast with f (0) = 0, f ( ∞ ) = f ∞ > 0, and ¨ f ( t ) < 0 (Fig. 1). When starting with P 0 = 0, the position is traded to a value P ∗ smaller than the cost-free target ˙ f (0) / (2 k ) and, upon holding at that plateau for some time τ , follows (2). Closing the position in the long-time limit is forced by risk without reward as ˙ f ( t ) → 0 for t → ∞ . The plateau level P ∗ is found by maximizing the utility (1) of such path, which now depends on a single parameter τ :"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 187.49300000000028,
+            "t": 150.3199153000005,
+            "r": 484.45364797999997,
+            "b": 121.19630808328532,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "U ( τ ) = ( f ( τ ) -2 c ) ˙ f ( τ ) 2 k -τ ˙ f 2 ( τ ) 4 k + ∫ ∞ τ ˙ f 2 ( t ) 4 k dt. (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 302.398,
+            "t": 100.40191530000004,
+            "r": 307.85255,
+            "b": 90.86817929654183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 125.798,
+            "t": 455.8019153,
+            "r": 484.45634103999976,
+            "b": 434.49388987723347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "Figure 1: Left: optimal position path for a concave forecast profile. Right: geometric solution of optimality condition (8).",
+      "text": "Figure 1: Left: optimal position path for a concave forecast profile. Right: geometric solution of optimality condition (8)."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 143.34138021875,
+            "t": 494.233872175,
+            "r": 148.05732021875002,
+            "b": 485.595397175,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 220.19694940909767,
+            "t": 484.826090925,
+            "r": 223.10362940909766,
+            "b": 476.187615925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 132.35211850000002,
+            "t": 502.63946983125,
+            "r": 136.82336350000003,
+            "b": 494.00099483125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "P",
+      "text": "P"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 136.82356625390628,
+            "t": 499.35638589375,
+            "r": 140.12472425390627,
+            "b": 493.30945339375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 132.35211850000002,
+            "t": 502.63946983125,
+            "r": 136.82336350000003,
+            "b": 494.00099483125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "P",
+      "text": "P"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 136.82356625390628,
+            "t": 499.35638589375,
+            "r": 140.12472425390627,
+            "b": 493.30945339375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 130.1276185,
+            "t": 558.5614997375001,
+            "r": 134.59886350000002,
+            "b": 549.9230247375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "P",
+      "text": "P"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 136.13124373113217,
+            "t": 559.333493925,
+            "r": 138.72649373113217,
+            "b": 553.2865614250001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "*",
+      "text": "*"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 131.61061850000002,
+            "t": 642.615437175,
+            "r": 134.2206985,
+            "b": 633.976962175,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "f",
+      "text": "f"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.71709799218752,
+            "t": 639.3323532375,
+            "r": 138.0182559921875,
+            "b": 633.2854207375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 130.1276185,
+            "t": 633.37796920625,
+            "r": 134.8435585,
+            "b": 624.73949420625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.84526742578126,
+            "t": 633.37796920625,
+            "r": 139.13855242578126,
+            "b": 624.73949420625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "k",
+      "text": "k"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 245.01428031819532,
+            "t": 646.0368108625,
+            "r": 249.48552531819533,
+            "b": 637.3983358625001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "P",
+      "text": "P"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 249.48572807210158,
+            "t": 646.0368108625,
+            "r": 252.37757807210156,
+            "b": 637.3983358625001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "(",
+      "text": "("
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 252.3785918416328,
+            "t": 646.0368108625,
+            "r": 255.2852718416328,
+            "b": 637.3983358625001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 255.28593803303906,
+            "t": 646.0368108625,
+            "r": 258.17778803303906,
+            "b": 637.3983358625001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 245.01428031819532,
+            "t": 634.9143108625,
+            "r": 249.48552531819533,
+            "b": 626.2758358625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "P",
+      "text": "P"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 249.48572807210158,
+            "t": 634.9143108625,
+            "r": 252.37757807210156,
+            "b": 626.2758358625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "(",
+      "text": "("
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 252.3785918416328,
+            "t": 634.9143108625,
+            "r": 255.2852718416328,
+            "b": 626.2758358625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 255.28593803303906,
+            "t": 634.9143108625,
+            "r": 273.08941096272656,
+            "b": 626.2758358625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": ") for",
+      "text": ") for"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 273.0884551228828,
+            "t": 634.9143108625,
+            "r": 277.16670512288283,
+            "b": 626.2758358625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "c",
+      "text": "c"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 278.60987846272656,
+            "t": 634.9143108625,
+            "r": 290.98339902913284,
+            "b": 626.2758358625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "=0",
+      "text": "=0"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 325.6953744005547,
+            "t": 493.93088501212094,
+            "r": 330.4113144005547,
+            "b": 485.29241001212097,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 402.5509435909024,
+            "t": 484.52310376212097,
+            "r": 405.4576235909024,
+            "b": 475.88462876212094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 318.1471361193047,
+            "t": 501.936767824621,
+            "r": 322.86307611930476,
+            "b": 493.29829282462094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 313.96461268180474,
+            "t": 528.3680104956911,
+            "r": 318.6805526818047,
+            "b": 519.729535495691,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 318.682261607586,
+            "t": 528.3680104956911,
+            "r": 322.760511607586,
+            "b": 519.729535495691,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "c",
+      "text": "c"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 309.5156126818047,
+            "t": 572.8630628385954,
+            "r": 312.1256926818047,
+            "b": 564.2245878385954,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "f",
+      "text": "f"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 312.12606922477346,
+            "t": 572.8630628385954,
+            "r": 315.0179192247735,
+            "b": 564.2245878385954,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "(",
+      "text": "("
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 319.4831395372735,
+            "t": 572.8630628385954,
+            "r": 322.37498953727345,
+            "b": 564.2245878385954,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 461.4772745,
+            "t": 646.3397980253791,
+            "r": 464.0873545,
+            "b": 637.7013230253791,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "f",
+      "text": "f"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 464.08773104296876,
+            "t": 646.3397980253791,
+            "r": 466.9795810429688,
+            "b": 637.7013230253791,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "(",
+      "text": "("
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 466.98059481250004,
+            "t": 646.3397980253791,
+            "r": 469.88727481250004,
+            "b": 637.7013230253791,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 469.8879410039063,
+            "t": 646.3397980253791,
+            "r": 472.77979100390627,
+            "b": 637.7013230253791,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 125.798,
+            "t": 401.32657830000005,
+            "r": 451.9335028799997,
+            "b": 389.84117929654184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "The maximum is reached at U ′ ( τ ) = 0, which condition simplifies to",
+      "text": "The maximum is reached at U ′ ( τ ) = 0, which condition simplifies to"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 260.5780000000001,
+            "t": 379.03291530000007,
+            "r": 484.4536479800001,
+            "b": 366.62017929654183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "f ( τ ) -τ ˙ f ( τ ) = 2 c. (8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 125.79800000000012,
+            "t": 352.9339153000001,
+            "r": 300.83254798000013,
+            "b": 343.40017929654186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Eq. (8) gives the plateau duration τ ,",
+      "text": "Eq. (8) gives the plateau duration τ ,"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 204.78900000000013,
+            "t": 330.90557830000006,
+            "r": 484.45364798,
+            "b": 309.8233080832853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "˙ f ( τ ) = ˆ f -1 (2 c ) , ˆ f ( t ) def = max ξ ( f ( ξ ) -tξ ) , (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 125.79800000000006,
+            "t": 297.91191530000003,
+            "r": 254.34319803,
+            "b": 288.3781792965418,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "and the initial trade target",
+      "text": "and the initial trade target"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 251.29900000000006,
+            "t": 277.5479153000001,
+            "r": 484.4531979799999,
+            "b": 250.2721792965417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "P ∗ = ˙ f ( τ ) 2 k = ˆ f -1 (2 c ) 2 k . (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 125.7979999999998,
+            "t": 241.5629153,
+            "r": 484.4572737599993,
+            "b": 147.85517929654168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            524
+          ]
+        }
+      ],
+      "orig": "In Eqs. (9) and (10), ˆ f ( t ) is the Legendre transform (aka convex conjugate) of the forecast f ( t ) and ˆ f -1 ( · ) means the function inverse. The geometric meaning of (8) and (9) is that the intercept of a tangent to the forecast curve f ( t ) at point t = τ equals 2 c , the slippage cost of a roundtrip trade (right Fig. 1). A finite solution for τ in this geometry exists only if the forecast at an infinite horizon exceeds this cost: f ∞ > 2 c , otherwise such tangent does not exist and it is best not to trade.",
+      "text": "In Eqs. (9) and (10), ˆ f ( t ) is the Legendre transform (aka convex conjugate) of the forecast f ( t ) and ˆ f -1 ( · ) means the function inverse. The geometric meaning of (8) and (9) is that the intercept of a tangent to the forecast curve f ( t ) at point t = τ equals 2 c , the slippage cost of a roundtrip trade (right Fig. 1). A finite solution for τ in this geometry exists only if the forecast at an infinite horizon exceeds this cost: f ∞ > 2 c , otherwise such tangent does not exist and it is best not to trade."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 125.79799999999982,
+            "t": 143.83891529999994,
+            "r": 484.4592847699994,
+            "b": 120.75617929654175,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "For reasons of forecast revision, as new information becomes available, the long-term path of position P ( t ) is less important than its initial trade",
+      "text": "For reasons of forecast revision, as new information becomes available, the long-term path of position P ( t ) is less important than its initial trade"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 302.39799999999985,
+            "t": 100.40191529999993,
+            "r": 307.85254999999984,
+            "b": 90.86817929654171,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 125.79799999999997,
+            "t": 658.7089153000001,
+            "r": 484.45648069999964,
+            "b": 594.978179296542,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            364
+          ]
+        }
+      ],
+      "orig": "(or absence thereof). A straightforward analysis of other initial conditions along the same lines as above shows that the initial optimal trading follows the NTZ pattern: if the initial position P 0 lies between the cost-free target ˙ f (0) / (2 k ) and P ∗ , it should not be traded. Otherwise, a trade should be made to the nearest boundary of the no-trade zone.",
+      "text": "(or absence thereof). A straightforward analysis of other initial conditions along the same lines as above shows that the initial optimal trading follows the NTZ pattern: if the initial position P 0 lies between the cost-free target ˙ f (0) / (2 k ) and P ∗ , it should not be traded. Otherwise, a trade should be made to the nearest boundary of the no-trade zone."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 125.79799999999999,
+            "t": 590.9629153000002,
+            "r": 484.45648069999953,
+            "b": 540.7811792965421,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            289
+          ]
+        }
+      ],
+      "orig": "The NTZ is not symmetric with respect to the cost-free position target. In our treatment, a risk penalty exerts a pressure on the position toward zero. The cost-free target is then the NTZ boundary with the larger absolute value; the other boundary is closer to zero and often equals zero.",
+      "text": "The NTZ is not symmetric with respect to the cost-free position target. In our treatment, a risk penalty exerts a pressure on the position toward zero. The cost-free target is then the NTZ boundary with the larger absolute value; the other boundary is closer to zero and often equals zero."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 125.79799999999999,
+            "t": 536.7659153000003,
+            "r": 484.45492112999955,
+            "b": 513.6831792965421,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "The width of the NTZ is data-dependent but its scaling law in the smallslippage limit must be universal. A rational function",
+      "text": "The width of the NTZ is data-dependent but its scaling law in the smallslippage limit must be universal. A rational function"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 265.544,
+            "t": 502.4299153000003,
+            "r": 484.45319797999997,
+            "b": 478.0331792965418,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "f ( t ) = f ∞ γt 1 + γt (11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 125.798,
+            "t": 465.9149153,
+            "r": 484.45320796999965,
+            "b": 442.8321792965418,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "represents a generic smooth forecast profile making our solution explicit. For this profile, the lower bound of the NTZ is",
+      "text": "represents a generic smooth forecast profile making our solution explicit. For this profile, the lower bound of the NTZ is"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 202.67000000000002,
+            "t": 431.14557830000007,
+            "r": 484.45319797999997,
+            "b": 406.7461792965418,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "P ∗ = γ 2 k ( f 1 / 2 ∞ -(2 c ) 1 / 2 ) 2 for f ∞ > 2 c. (12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 125.798,
+            "t": 398.6085783000001,
+            "r": 484.45668139999964,
+            "b": 373.5741792965419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "For f ∞ ≤ 2 c , P ∗ = 0. This example shows that the NTZ width scales as square root of slippage:",
+      "text": "For f ∞ ≤ 2 c , P ∗ = 0. This example shows that the NTZ width scales as square root of slippage:"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 174.549,
+            "t": 361.0465783,
+            "r": 484.45319797999986,
+            "b": 332.4119277464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "∆( c ) = ˙ f 0 2 k -P ∗ = ˙ f 0 k ( 2 c f ∞ ) 1 / 2 + O ( c ) for c ≪ f ∞ . (13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 125.79799999999987,
+            "t": 320.49591530000004,
+            "r": 484.45838574999937,
+            "b": 229.6671792965418,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            536
+          ]
+        }
+      ],
+      "orig": "It is also necessary to consider a non-concave forecast term structure f ( t ), because the forecast is generally a combination of multiple signals of different horizons. If f ( t ) has a single inflection point, a two-plateau solution can be similarly optimized. The result is also expressible via the Legendre transform but the algebra is uglier. For more complicated forecast profiles, there is not much hope for a manageable analytical solution, even with the help of computer algebra, but the pattern of no-trade zone is universal.",
+      "text": "It is also necessary to consider a non-concave forecast term structure f ( t ), because the forecast is generally a combination of multiple signals of different horizons. If f ( t ) has a single inflection point, a two-plateau solution can be similarly optimized. The result is also expressible via the Legendre transform but the algebra is uglier. For more complicated forecast profiles, there is not much hope for a manageable analytical solution, even with the help of computer algebra, but the pattern of no-trade zone is universal."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 125.79799999999987,
+            "t": 225.65191530000004,
+            "r": 484.45538978999946,
+            "b": 134.82217929654178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            456
+          ]
+        }
+      ],
+      "orig": "As discussed below, the process of forecast revision makes the forecast curve dependent on both the horizon t and the time t 0 of forecasting, which was fixed at zero in the analysis above. The exact details of the solution (10) may not hold exactly, but the the predicted NTZ pattern will hold and its bounds can be estimated. An optimal trading would generally involve the security position P ( t 0 ) forced inside an evolving NTZ, as depicted in Fig. 2.",
+      "text": "As discussed below, the process of forecast revision makes the forecast curve dependent on both the horizon t and the time t 0 of forecasting, which was fixed at zero in the analysis above. The exact details of the solution (10) may not hold exactly, but the the predicted NTZ pattern will hold and its bounds can be estimated. An optimal trading would generally involve the security position P ( t 0 ) forced inside an evolving NTZ, as depicted in Fig. 2."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.39799999999997,
+            "t": 100.40191530000004,
+            "r": 307.85254999999995,
+            "b": 90.86817929654183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 125.798,
+            "t": 336.6369153,
+            "r": 484.45842419999997,
+            "b": 315.3278898772334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "Figure 2: Schematic of trading with no-trade zone [ P low , P high ], the shaded area. Optimal security position P ( t ) is driven by the evolving NTZ boundaries.",
+      "text": "Figure 2: Schematic of trading with no-trade zone [ P low , P high ], the shaded area. Optimal security position P ( t ) is driven by the evolving NTZ boundaries."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 160.77118701705157,
+            "t": 368.34907945,
+            "r": 165.05655501705155,
+            "b": 360.49930945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 305.5486788125,
+            "t": 359.136970075,
+            "r": 322.24544281249996,
+            "b": 351.287200075,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Time",
+      "text": "Time"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 138.821627525,
+            "t": 557.5707661373633,
+            "r": 143.106995525,
+            "b": 549.7209961373634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 128.4665849,
+            "t": 528.1644587874999,
+            "r": 136.3163549,
+            "b": 501.6841187875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Position",
+      "text": "Position"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 172.7537744,
+            "t": 407.4084232,
+            "r": 187.10098463987742,
+            "b": 398.930250475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Phigh",
+      "text": "Phigh"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 172.7537744,
+            "t": 396.006463825,
+            "r": 184.8712672625674,
+            "b": 387.5282911,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Plow",
+      "text": "Plow"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 172.7537744,
+            "t": 386.12055445,
+            "r": 176.8167884,
+            "b": 378.27078444999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "P",
+      "text": "P"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 125.79800000000009,
+            "t": 281.7414932,
+            "r": 223.6204339400001,
+            "b": 269.1489197682997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "3 Discussion",
+      "text": "3 Discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 125.79800000000009,
+            "t": 254.9989152999999,
+            "r": 484.45757160999943,
+            "b": 177.7191792965417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            434
+          ]
+        }
+      ],
+      "orig": "The NTZ optimal trading pattern in the presence of slippage costs is quite intuitive due to a mechanical analogy of forced motion with dry friction. The same pattern is present in total variation denoising seeking a smoother function approximating noisy data where the sum of absolute values of the function changes is penalized [14]. Portfolio trading is essentially the same type of smoothing when chasing noisy alpha opportunities.",
+      "text": "The NTZ optimal trading pattern in the presence of slippage costs is quite intuitive due to a mechanical analogy of forced motion with dry friction. The same pattern is present in total variation denoising seeking a smoother function approximating noisy data where the sum of absolute values of the function changes is penalized [14]. Portfolio trading is essentially the same type of smoothing when chasing noisy alpha opportunities."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 125.7980000000001,
+            "t": 173.70391529999995,
+            "r": 484.4575716099996,
+            "b": 123.52217929654171,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            290
+          ]
+        },
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 125.79799999999994,
+            "t": 658.7089153000001,
+            "r": 484.4564806999997,
+            "b": 554.3301792965419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            291,
+            903
+          ]
+        }
+      ],
+      "orig": "A non-stochastic forward-looking position path optimization predicts a no-trade zone qualitatively similar to the pattern described in stochastic models, but the scaling of the NTZ width is somewhat different from the stochastic case. A common conclusion of several quantitative analyses is that the NTZ size is a nonlinear function of trading slippage which doesn't quickly go away as the cost gets smaller (even if it does). A fairly general closed-form solution (10) is available for a fixed-convexity forecast profile and is generalizable to other profiles. Amore practical setting would use a degree of stochasticity to describe the process of forecast revision. Accounting for the forecast revision would lead to a wider NTZ due to a higher expected number of roundtrips. This heuristic agrees with the wider NTZ ∆ ∼ c 1 / 3 in a fully stochastic setting vs the deterministic scaling ∆ ∼ c 1 / 2 .",
+      "text": "A non-stochastic forward-looking position path optimization predicts a no-trade zone qualitatively similar to the pattern described in stochastic models, but the scaling of the NTZ width is somewhat different from the stochastic case. A common conclusion of several quantitative analyses is that the NTZ size is a nonlinear function of trading slippage which doesn't quickly go away as the cost gets smaller (even if it does). A fairly general closed-form solution (10) is available for a fixed-convexity forecast profile and is generalizable to other profiles. Amore practical setting would use a degree of stochasticity to describe the process of forecast revision. Accounting for the forecast revision would lead to a wider NTZ due to a higher expected number of roundtrips. This heuristic agrees with the wider NTZ ∆ ∼ c 1 / 3 in a fully stochastic setting vs the deterministic scaling ∆ ∼ c 1 / 2 ."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 302.3980000000001,
+            "t": 100.40191529999993,
+            "r": 307.85255000000006,
+            "b": 90.86817929654171,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 125.79799999999996,
+            "t": 550.3149153000002,
+            "r": 484.45710294999947,
+            "b": 459.48617929654205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            455
+          ]
+        }
+      ],
+      "orig": "Slippage costs are also subject to fluctuations and could benefit from a stochastic treatment. A simpler approach is to distinguish between the mean slippage c applicable to future trades and the current (initial) slippage c 0 which can be predicted with a higher accuracy. This amounts to replacing 2 c in (10) by c 0 + c and thereby gauging the NTZ depending on current execution opportunities, e.g., by combining active orders with liquidity provision.",
+      "text": "Slippage costs are also subject to fluctuations and could benefit from a stochastic treatment. A simpler approach is to distinguish between the mean slippage c applicable to future trades and the current (initial) slippage c 0 which can be predicted with a higher accuracy. This amounts to replacing 2 c in (10) by c 0 + c and thereby gauging the NTZ depending on current execution opportunities, e.g., by combining active orders with liquidity provision."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 125.79799999999997,
+            "t": 455.4709153000003,
+            "r": 484.4586625199995,
+            "b": 337.5431792965422,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            684
+          ]
+        }
+      ],
+      "orig": "Optimal trading of a portfolio, i.e., multiple securities interacting via risk factors, also involves no-trade zones due to slippage costs, because the interaction of securities in a portfolio utility function acts like a 'risk pressure' correction to the forecast [6]. Even in continuous time, portfolio trading pattern will generate discrete events of position adjustment. Qualitatively, one can imagine a particle in an evolving multi-dimensional potential well. The particle (a vector of portfolio positions) is drawn to the bottom of the well but is also subject to a slippage stiction which is only occasionally overcome when and where the slope of the well exceeds a threshold.",
+      "text": "Optimal trading of a portfolio, i.e., multiple securities interacting via risk factors, also involves no-trade zones due to slippage costs, because the interaction of securities in a portfolio utility function acts like a 'risk pressure' correction to the forecast [6]. Even in continuous time, portfolio trading pattern will generate discrete events of position adjustment. Qualitatively, one can imagine a particle in an evolving multi-dimensional potential well. The particle (a vector of portfolio positions) is drawn to the bottom of the well but is also subject to a slippage stiction which is only occasionally overcome when and where the slope of the well exceeds a threshold."
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 125.79799999999999,
+            "t": 333.5279153000004,
+            "r": 484.44993523999955,
+            "b": 283.34717929654227,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            303
+          ]
+        }
+      ],
+      "orig": "The effect of even small slippage costs is significant for an actively managed portfolio unless a sufficiently strong and low-turnover alpha is used. It is fair to assume that most alpha-driven portfolios underestimate market friction (or its implications for portfolio construction) and trade too much.",
+      "text": "The effect of even small slippage costs is significant for an actively managed portfolio unless a sufficiently strong and low-turnover alpha is used. It is fair to assume that most alpha-driven portfolios underestimate market friction (or its implications for portfolio construction) and trade too much."
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 125.79799999999999,
+            "t": 260.89849320000053,
+            "r": 201.32070065999994,
+            "b": 248.3059197683002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 125.79799999999999,
+            "t": 234.15591530000052,
+            "r": 484.45472875999985,
+            "b": 197.52417929654223,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "[1] J.-P. Bouchaud, J. Bonart, J. Donier, M. Gould, Trades, Quotes and Prices. Financial Markets Under the Microscope , Cambridge University Press, 2018.",
+      "text": "J.-P. Bouchaud, J. Bonart, J. Donier, M. Gould, Trades, Quotes and Prices. Financial Markets Under the Microscope , Cambridge University Press, 2018.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 125.798,
+            "t": 184.54191530000048,
+            "r": 484.45403550000003,
+            "b": 161.4591792965423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "[2] P.A. Samuelson, Proof That Properly Anticipated Prices Fluctuate Randomly , Industrial Management Review, 6, pp. 41-49, 1965.",
+      "text": "P.A. Samuelson, Proof That Properly Anticipated Prices Fluctuate Randomly , Industrial Management Review, 6, pp. 41-49, 1965.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 125.798,
+            "t": 148.4779153000004,
+            "r": 484.45614321,
+            "b": 125.39417929654223,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "[3] X. Gabaix, R.S.J. Koijen, In Search of the Origins of Financial Fluctuations: The Inelastic Markets Hypothesis , Swiss Fi-",
+      "text": "X. Gabaix, R.S.J. Koijen, In Search of the Origins of Financial Fluctuations: The Inelastic Markets Hypothesis , Swiss Fi-",
+      "hyperlink": "https://ssrn.com/abstract=3686935",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 302.398,
+            "t": 100.4019153000005,
+            "r": 307.85255,
+            "b": 90.86817929654228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 142.768,
+            "t": 658.7089153000001,
+            "r": 484.4519210999996,
+            "b": 635.6261792965419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "nance Institute Research Paper No. 20-91, Available at SSRN: https://ssrn.com/abstract=3686935, 2020.",
+      "text": "nance Institute Research Paper No. 20-91, Available at SSRN: https://ssrn.com/abstract=3686935, 2020."
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 125.798,
+            "t": 622.6439153000001,
+            "r": 484.45429237999997,
+            "b": 586.012179296542,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "[4] J.-P. Bouchaud, The Inelastic Market Hypothesis: A Microstructural Interpretation (July 31, 2021). Available at SSRN: https://ssrn.com/abstract=3896981.",
+      "text": "J.-P. Bouchaud, The Inelastic Market Hypothesis: A Microstructural Interpretation (July 31, 2021). Available at SSRN: https://ssrn.com/abstract=3896981.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 125.79800000000003,
+            "t": 573.0299153000002,
+            "r": 484.4586827,
+            "b": 536.398179296542,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "[5] T. Philippon, Has the US Finance Industry Become Less Efficient? On the Theory and Measurement of Financial Intermediation , The American Economic Review, 105(4), pp. 1408-1438, 2015.",
+      "text": "T. Philippon, Has the US Finance Industry Become Less Efficient? On the Theory and Measurement of Financial Intermediation , The American Economic Review, 105(4), pp. 1408-1438, 2015.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 125.79800000000003,
+            "t": 523.4159153000003,
+            "r": 484.45704591000026,
+            "b": 500.3331792965421,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "[6] M. Isichenko, Quantitative portfolio management: The art and science of statistical arbitrage , John Wiley & Sons, 2021.",
+      "text": "M. Isichenko, Quantitative portfolio management: The art and science of statistical arbitrage , John Wiley & Sons, 2021.",
+      "hyperlink": "https://www.wiley.com/en-us/Quantitative+Portfolio+Management%3A+The+Art+and+Science+of+Statistical+Arbitrage-p-9781119821328",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 125.79800000000003,
+            "t": 487.3509153000003,
+            "r": 484.45203707000024,
+            "b": 464.2681792965421,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "[7] G. Zuckerman, The Man Who Solved the Market. How Jim Simons launched the quant revolution , Portfolio/Penguin, 2019.",
+      "text": "G. Zuckerman, The Man Who Solved the Market. How Jim Simons launched the quant revolution , Portfolio/Penguin, 2019.",
+      "hyperlink": "https://www.gregoryzuckerman.com/the-books/the-man-who-solved-the-market",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 125.79800000000006,
+            "t": 451.2869153000003,
+            "r": 484.45709922,
+            "b": 428.2031792965421,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "[8] G.M. Constantinides, Capital Market Equilibrium with Transaction Costs , Journal of Political Economy Volume 94(4), 1986.",
+      "text": "G.M. Constantinides, Capital Market Equilibrium with Transaction Costs , Journal of Political Economy Volume 94(4), 1986.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 125.79800000000003,
+            "t": 415.2219153000003,
+            "r": 484.45634317,
+            "b": 378.5891792965421,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "[9] N.B. Gˆ arleanu, L.H. Pedersen, Dynamic trading with predictable returns and transaction costs , The Journal of Finance, 68(6), pp. 2309-2340, 2013.",
+      "text": "N.B. Gˆ arleanu, L.H. Pedersen, Dynamic trading with predictable returns and transaction costs , The Journal of Finance, 68(6), pp. 2309-2340, 2013.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 125.79800000000006,
+            "t": 365.60791530000034,
+            "r": 484.45354798000005,
+            "b": 342.52517929654215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "[10] R. Martin, T. Sch¨ oneborn, Mean Reversion Pays, but Costs , arXiv:1103.4934 [q-fin.TR], 2011.",
+      "text": "R. Martin, T. Sch¨ oneborn, Mean Reversion Pays, but Costs , arXiv:1103.4934 [q-fin.TR], 2011.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 125.79800000000009,
+            "t": 329.54291530000035,
+            "r": 484.4549409200001,
+            "b": 306.46017929654215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "[11] J. de Lataillade, C. Deremble, M. Potters, J.-P. Bouchaud, Optimal Trading with Linear Costs , arXiv:1203.5957 [q-fin.PM], 2012.",
+      "text": "J. de Lataillade, C. Deremble, M. Potters, J.-P. Bouchaud, Optimal Trading with Linear Costs , arXiv:1203.5957 [q-fin.PM], 2012.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 125.79800000000009,
+            "t": 293.47791530000035,
+            "r": 484.45731920000014,
+            "b": 270.3951792965422,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "[12] V. DeMiguel, X. Mei, F.J. Nogales, Multiperiod portfolio selection with transaction and market-impact costs , Working Paper, May 2013.",
+      "text": "V. DeMiguel, X. Mei, F.J. Nogales, Multiperiod portfolio selection with transaction and market-impact costs , Working Paper, May 2013.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 125.79800000000006,
+            "t": 257.4139153000003,
+            "r": 484.45655880000027,
+            "b": 234.33017929654216,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "[13] P. Kolm, G. Ritter, Multiperiod portfolio selection and Bayesian dynamic models , Risk.net, March 2015.",
+      "text": "P. Kolm, G. Ritter, Multiperiod portfolio selection and Bayesian dynamic models , Risk.net, March 2015.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 125.79800000000003,
+            "t": 221.34891530000039,
+            "r": 484.45354798,
+            "b": 198.26617929654208,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "[14] L. Condat, A Direct Algorithm for 1-D Total Variation Denoising , IEEE Signal Processing Letters, 20(11), pp. 1054-1057, 2013.",
+      "text": "L. Condat, A Direct Algorithm for 1-D Total Variation Denoising , IEEE Signal Processing Letters, 20(11), pp. 1054-1057, 2013.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 302.398,
+            "t": 100.40191530000038,
+            "r": 307.85255,
+            "b": 90.86817929654217,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 128.33460998535156,
+            "t": 653.0967559814453,
+            "r": 480.8838806152344,
+            "b": 476.4329833984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/38"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 128.51217651367188,
+            "t": 659.9887390136719,
+            "r": 480.53472900390625,
+            "b": 351.63763427734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/93"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    }
+  }
+}

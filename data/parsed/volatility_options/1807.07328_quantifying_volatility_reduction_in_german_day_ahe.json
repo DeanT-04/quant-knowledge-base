@@ -1,0 +1,2715 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1807.07328_quantifying_volatility_reduction_in_german_day_ahe",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15566226999756216053,
+    "filename": "1807.07328_quantifying_volatility_reduction_in_german_day_ahe.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/groups/4"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 576.98,
+            "r": 36.206559297218156,
+            "b": 217.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "arXiv:1807.07328v1  [q-fin.ST]  19 Jul 2018",
+      "text": "arXiv:1807.07328v1  [q-fin.ST]  19 Jul 2018"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 137.375,
+            "t": 735.2666053,
+            "r": 482.68755259999995,
+            "b": 658.9510460991152,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "Quantifying Volatility Reduction in German Day-ahead Spot Market in the Period 2006 through 2016",
+      "text": "Quantifying Volatility Reduction in German Day-ahead Spot Market in the Period 2006 through 2016",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 103.38300000000001,
+            "t": 619.2382439,
+            "r": 282.8193886,
+            "b": 572.9037743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "Abdolrahman Khoshrou Intelligent and Autonomous Systems Group Centrum Wiskunde & Informatica The Netherlands",
+      "text": "Abdolrahman Khoshrou Intelligent and Autonomous Systems Group Centrum Wiskunde & Informatica The Netherlands"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 139.174,
+            "t": 569.1276526000001,
+            "r": 247.02910760000006,
+            "b": 560.5757743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Email: a.khoshrou@cwi.nl",
+      "text": "Email: a.khoshrou@cwi.nl"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.958999999999975,
+            "t": 535.2668160000003,
+            "r": 301.0672688000002,
+            "b": 327.9530224000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1297
+          ]
+        }
+      ],
+      "orig": "Abstract -In Europe, Germany is taking the lead in the switch from the conventional to renewable energy. This poses new challenges as wind and solar energy are fundamentally intermittent, weather-dependent and less predictable. It is therefore of considerable interest to investigate the evolution of price volatility in this post-transition era. There are a number of reasons, however, that makes the practical studies difficult. For instance, EPEX prices can be zero or negative. Consequently, the standard approach in financial time series analysis to switch to logarithmic measures is inapplicable. Furthermore, in contrast to the stock market prices which are only available for trading days, EPEX prices cover the whole year, including weekends and holidays. Accordingly, there is a lot of underlying variability in the data which has nothing to do with volatility, but simply reflects diurnal activity patterns. An important distinction of the present work is the application of matrix decomposition techniques, namely the singular value decomposition (SVD), for defining an alternative notion of volatility. This approach is systematically more robust toward outliers and also the diurnal patterns. Our observations show that the day-ahead market is becoming less volatile in recent years.",
+      "text": "Abstract -In Europe, Germany is taking the lead in the switch from the conventional to renewable energy. This poses new challenges as wind and solar energy are fundamentally intermittent, weather-dependent and less predictable. It is therefore of considerable interest to investigate the evolution of price volatility in this post-transition era. There are a number of reasons, however, that makes the practical studies difficult. For instance, EPEX prices can be zero or negative. Consequently, the standard approach in financial time series analysis to switch to logarithmic measures is inapplicable. Furthermore, in contrast to the stock market prices which are only available for trading days, EPEX prices cover the whole year, including weekends and holidays. Accordingly, there is a lot of underlying variability in the data which has nothing to do with volatility, but simply reflects diurnal activity patterns. An important distinction of the present work is the application of matrix decomposition techniques, namely the singular value decomposition (SVD), for defining an alternative notion of volatility. This approach is systematically more robust toward outliers and also the diurnal patterns. Our observations show that the day-ahead market is becoming less volatile in recent years."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.95899999999997,
+            "t": 319.9688160000001,
+            "r": 301.06726879999997,
+            "b": 291.9830224000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "Keywords -Day-ahead price, Electricity market, Energy switch, Singular value decomposition, Time-series analysis, Renewable energy sources.",
+      "text": "Keywords -Day-ahead price, Electricity market, Energy switch, Singular value decomposition, Time-series analysis, Renewable energy sources."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.64699999999996,
+            "t": 274.15065260000006,
+            "r": 216.3808397999998,
+            "b": 265.5987743929204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "I. INTRODUCTION",
+      "text": "I. INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.95899999999996,
+            "t": 257.1096526000001,
+            "r": 301.062636,
+            "b": 84.17377439292045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            975
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 337.24199999999996,
+            "t": 606.1136526000001,
+            "r": 516.6783885999995,
+            "b": 585.2327743929205,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            976,
+            1047
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 392.31399999999996,
+            "t": 619.2382439000002,
+            "r": 461.60712470000016,
+            "b": 572.9037743929206,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1048,
+            1079
+          ]
+        }
+      ],
+      "orig": "Renewable Energy Sources (RES) are assuming an increasingly pre-eminent role in the German electricity production. Significant cost reductions, on the one hand, and tremendous technology advances and reliability improvements, on the other hand, have primed a growing interest in green electricity. Germany is pursuing an ambitious goal, a switch from fossil fuel to renewables, 'Energiewende' (energy transition). By 2050, the emission of greenhouse gases is planned to reduce by 80-95% (see [1]). To achieve this, energy consumption is to be reduced by 50% and at least 80% of electricity is to come from renewables. In line with that, Germany has substantially expanded its RES-capacity, in particular wind and solar [2]. Consequently, the need for accurate predictions for the quantity of green electricity which is going to be fed into the grid at any given moment is becoming increasingly important. Moreover, energy transition could put pressure on the energy sector in Intelligent and Autonomous Systems Group Centrum Wiskunde & Informatica Eric J. Pauwels The Netherlands",
+      "text": "Renewable Energy Sources (RES) are assuming an increasingly pre-eminent role in the German electricity production. Significant cost reductions, on the one hand, and tremendous technology advances and reliability improvements, on the other hand, have primed a growing interest in green electricity. Germany is pursuing an ambitious goal, a switch from fossil fuel to renewables, 'Energiewende' (energy transition). By 2050, the emission of greenhouse gases is planned to reduce by 80-95% (see [1]). To achieve this, energy consumption is to be reduced by 50% and at least 80% of electricity is to come from renewables. In line with that, Germany has substantially expanded its RES-capacity, in particular wind and solar [2]. Consequently, the need for accurate predictions for the quantity of green electricity which is going to be fed into the grid at any given moment is becoming increasingly important. Moreover, energy transition could put pressure on the energy sector in Intelligent and Autonomous Systems Group Centrum Wiskunde & Informatica Eric J. Pauwels The Netherlands"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.959,
+            "t": 72.70253509999998,
+            "r": 301.06213310000015,
+            "b": 56.895015366371695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "This work was supported in part by the Dutch STW under project grant Smart Energy Management and Services in Buildings and Grids (SES-BE) .",
+      "text": "This work was supported in part by the Dutch STW under project grant Smart Energy Management and Services in Buildings and Grids (SES-BE) ."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 368.95799999999997,
+            "t": 569.1276526000003,
+            "r": 484.96251439999975,
+            "b": 560.5757743929206,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Email: Eric.Pauwels@cwi.nl",
+      "text": "Email: Eric.Pauwels@cwi.nl"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 318.997,
+            "t": 535.5656525999999,
+            "r": 571.100593,
+            "b": 505.0957743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "terms of flexibility in managing power demand and supply. It is therefore to be expected that this evolution will have a significant impact on German electricity prices.",
+      "text": "terms of flexibility in managing power demand and supply. It is therefore to be expected that this evolution will have a significant impact on German electricity prices."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 318.997,
+            "t": 496.5026526,
+            "r": 571.1006360000001,
+            "b": 345.48477439292026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            811
+          ]
+        }
+      ],
+      "orig": "This paper provides an overview of the price volatility of the German day-ahead EPEX market. If price volatility increases, it can cause additional risks for suppliers and consumers on the electricity market. Negatively impact the reliability of the power grid is also possible. Due to the integration of the European grids the problems will not be limited to the German grid. Increasing instability in the German grid means also a higher instability in the neighboring grids. In the present work, we have opted to focus on this market as it represents an important and growing segment where market mechanisms are clearly visible. In particular, we focus on the following question: How can the evolution of the price volatility of the day-ahead market over the past eleven years (i.e., 2006-2016) be quantified?",
+      "text": "This paper provides an overview of the price volatility of the German day-ahead EPEX market. If price volatility increases, it can cause additional risks for suppliers and consumers on the electricity market. Negatively impact the reliability of the power grid is also possible. Due to the integration of the European grids the problems will not be limited to the German grid. Increasing instability in the German grid means also a higher instability in the neighboring grids. In the present work, we have opted to focus on this market as it represents an important and growing segment where market mechanisms are clearly visible. In particular, we focus on the following question: How can the evolution of the price volatility of the day-ahead market over the past eleven years (i.e., 2006-2016) be quantified?"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 318.997,
+            "t": 336.89165259999993,
+            "r": 571.1006359999998,
+            "b": 251.6267743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            432
+          ]
+        }
+      ],
+      "orig": "The rest of this paper is organized as follows: Section II contains background studies and literature review. Section III focuses on the data description for day-ahead market; also explains the source and a brief summary of the day-ahead market mechanism. The evolution of a new type of volatility measure for time series data is discussed in Section IV. The general reduction in the volatility of price data is argued in Section V.",
+      "text": "The rest of this paper is organized as follows: Section II contains background studies and literature review. Section III focuses on the data description for day-ahead market; also explains the source and a brief summary of the day-ahead market mechanism. The evolution of a new type of volatility measure for time series data is discussed in Section IV. The general reduction in the volatility of price data is argued in Section V."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 346.296,
+            "t": 235.60365259999992,
+            "r": 543.8073068,
+            "b": 227.05177439292027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "II. BACKGROUND AND LITERATURE REVIEW",
+      "text": "II. BACKGROUND AND LITERATURE REVIEW",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 318.9969999999999,
+            "t": 218.45865259999994,
+            "r": 571.1006359999997,
+            "b": 56.481774392920215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            926
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.959,
+            "t": 733.5266526,
+            "r": 301.06259300000016,
+            "b": 637.3037743929208,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            927,
+            1468
+          ]
+        }
+      ],
+      "orig": "Recently, the impact of variable generation on the electricity market has attracted a lot of attention. We briefly highlight a number of important contributions which are related to the topics discussed in this paper. Denny et al. [3] study the functionality of the increased interconnection between Great Britain and Ireland to facilitate the integration of the wind farms into the power system. This work suggests a reduction in average price and its volatility in Ireland to be an outcome of the increased interconnection. With the growing contribution of intermittent energy sources, transmission grid extensions and increasing the cross-border interconnection capacities seem inevitable. Schaber et al. [4] examine the viability of this approach and its effects, based on projected wind and solar data until 2020; they also conclude that expanding the grid is, indeed, helpful in coping with externalities which come with the deployment of RES. The relation of substantial expansion of photovoltaic (PV) installations in Germany and Italy with daytime peak price fall in these countries is discussed in [5]. In [6] the influence of the RES on the German day-ahead market is studied; the authors also have considered priority that the German government assigns to the green electricity over fossil fuels in case of adequate supply. This paper also argues that the emergence of negative prices in the German day-ahead market is the result of the integration of RES.",
+      "text": "Recently, the impact of variable generation on the electricity market has attracted a lot of attention. We briefly highlight a number of important contributions which are related to the topics discussed in this paper. Denny et al. [3] study the functionality of the increased interconnection between Great Britain and Ireland to facilitate the integration of the wind farms into the power system. This work suggests a reduction in average price and its volatility in Ireland to be an outcome of the increased interconnection. With the growing contribution of intermittent energy sources, transmission grid extensions and increasing the cross-border interconnection capacities seem inevitable. Schaber et al. [4] examine the viability of this approach and its effects, based on projected wind and solar data until 2020; they also conclude that expanding the grid is, indeed, helpful in coping with externalities which come with the deployment of RES. The relation of substantial expansion of photovoltaic (PV) installations in Germany and Italy with daytime peak price fall in these countries is discussed in [5]. In [6] the influence of the RES on the German day-ahead market is studied; the authors also have considered priority that the German government assigns to the green electricity over fossil fuels in case of adequate supply. This paper also argues that the emergence of negative prices in the German day-ahead market is the result of the integration of RES."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.959,
+            "t": 628.6236526000005,
+            "r": 301.06263600000005,
+            "b": 598.1547743929209,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "In the present paper, our main focus is the evolution of the price volatility. Therefore, a novel approach to quantify the volatility of the German day-ahead market is proposed.",
+      "text": "In the present paper, our main focus is the evolution of the price volatility. Therefore, a novel approach to quantify the volatility of the German day-ahead market is proposed."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 151.281,
+            "t": 581.7546526000006,
+            "r": 198.74497739999998,
+            "b": 573.2027743929209,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "III. DATA",
+      "text": "III. DATA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.959,
+            "t": 564.5236526000006,
+            "r": 301.06263600000005,
+            "b": 413.50577439292107,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            828
+          ]
+        }
+      ],
+      "orig": "The European Power Exchange (EPEX SPOT SE) operates on the Central Western European (CWE) spot market, i.e. Swiss, French, German and Austrian short-term electricity markets. Striving for the creation of a single integrated electricity market, EPEX SPOT functions as an organized wholesale market place for trading large quantities of electricity between the market members. These members are mostly non-final consumers and big players in the energy sector such as utilities and aggregators, industrial producers, the Transmission System Operators (TSOs), banks, financial service providers and energy trading entities that are working within the energy sector on a daily basis. In fact, this company offers its clients the technologies, electronic trading systems and platform to operate their orders based on reference prices.",
+      "text": "The European Power Exchange (EPEX SPOT SE) operates on the Central Western European (CWE) spot market, i.e. Swiss, French, German and Austrian short-term electricity markets. Striving for the creation of a single integrated electricity market, EPEX SPOT functions as an organized wholesale market place for trading large quantities of electricity between the market members. These members are mostly non-final consumers and big players in the energy sector such as utilities and aggregators, industrial producers, the Transmission System Operators (TSOs), banks, financial service providers and energy trading entities that are working within the energy sector on a daily basis. In fact, this company offers its clients the technologies, electronic trading systems and platform to operate their orders based on reference prices."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.958999999999996,
+            "t": 404.92901680000074,
+            "r": 301.0675984,
+            "b": 253.741774392921,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            814
+          ]
+        }
+      ],
+      "orig": "a) Day-ahead Auction Spot Market: The day-ahead market is an exchange for short-term electricity contracts. The trading in this market is driven by its participants. A buyer, typically a utility, needs to assess how much energy (MWh) it will need to fulfill its customers requirements for the following day, and how much its purchase price is going to be (Euro/MWh) hour by hour. The seller, for example the owner of a wind farm, also submits the quantity he is prepared to deliver the next day and the price level on hourly basis. The deadline for the members to submit the price and the quantity for which they seek to make an agreement is 12:00 CET. These 'bids' are fed into a complex algorithm to calculate the clearing price. From 00:00 CET the next day, the sellers deliver the power at the contracted rate.",
+      "text": "a) Day-ahead Auction Spot Market: The day-ahead market is an exchange for short-term electricity contracts. The trading in this market is driven by its participants. A buyer, typically a utility, needs to assess how much energy (MWh) it will need to fulfill its customers requirements for the following day, and how much its purchase price is going to be (Euro/MWh) hour by hour. The seller, for example the owner of a wind farm, also submits the quantity he is prepared to deliver the next day and the price level on hourly basis. The deadline for the members to submit the price and the quantity for which they seek to make an agreement is 12:00 CET. These 'bids' are fed into a complex algorithm to calculate the clearing price. From 00:00 CET the next day, the sellers deliver the power at the contracted rate."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.959,
+            "t": 245.16501680000067,
+            "r": 301.0640107999998,
+            "b": 170.69077439292096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            399
+          ]
+        }
+      ],
+      "orig": "b) Day-Ahead Spot Prices (in Euro/MWh): This is the price (for each time-slot of the next day) as set by the spot market. As previously mentioned, on the day-ahead market the hourly price of the traded quantity (in Euro/MWh) is set a day earlier. Fig. 1 illustrates an overview of the hourly values of the price on the day-ahead market in Germany and Austria from 2006 until 2016 (data source: [7]).",
+      "text": "b) Day-Ahead Spot Prices (in Euro/MWh): This is the price (for each time-slot of the next day) as set by the spot market. As previously mentioned, on the day-ahead market the hourly price of the traded quantity (in Euro/MWh) is set a day earlier. Fig. 1 illustrates an overview of the hourly values of the price on the day-ahead market in Germany and Austria from 2006 until 2016 (data source: [7])."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.281,
+            "t": 154.2906526000006,
+            "r": 271.7543264,
+            "b": 145.73877439292096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "IV. VOLATILITY OF THE DAY-AHEAD PRICE",
+      "text": "IV. VOLATILITY OF THE DAY-AHEAD PRICE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.959,
+            "t": 137.22901680000064,
+            "r": 112.27132300000004,
+            "b": 128.6512182000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "A. Introduction",
+      "text": "A. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.959,
+            "t": 119.82865260000062,
+            "r": 301.0626360000001,
+            "b": 56.48177439292101,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            355
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.997,
+            "t": 538.2956525999999,
+            "r": 571.1005929999999,
+            "b": 453.0317743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            356,
+            798
+          ]
+        }
+      ],
+      "orig": "It is reasonable to question whether the intermittency of renewables would render the price more erratic. This can happen due to technical problems in the grid, e.g., congestion; or simply due to poor performance of the day-ahead energy forecasting models. For that, we are interested in the volatility of the day-ahead price. Loosely speaking, volatility refers to the random fluctuations of a time series about its expected value. There are various methods to define and quantify volatility, from applied models like Garman/Klass to coefficient of variation and formal Stochastic Volatility models such as GARCH, Heston models and the like, see, e.g., [8], [9]. However, there are at least two reasons why it is problematic to blindly transfer standard fintech methodology to the current setting:",
+      "text": "It is reasonable to question whether the intermittency of renewables would render the price more erratic. This can happen due to technical problems in the grid, e.g., congestion; or simply due to poor performance of the day-ahead energy forecasting models. For that, we are interested in the volatility of the day-ahead price. Loosely speaking, volatility refers to the random fluctuations of a time series about its expected value. There are various methods to define and quantify volatility, from applied models like Garman/Klass to coefficient of variation and formal Stochastic Volatility models such as GARCH, Heston models and the like, see, e.g., [8], [9]. However, there are at least two reasons why it is problematic to blindly transfer standard fintech methodology to the current setting:"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.997,
+            "t": 583.3775350999999,
+            "r": 571.0992330999999,
+            "b": 567.5690153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Fig. 1. German day-ahead spot prices from 2006 through 2016 (daily averages); an overall downward trend in the day-ahead price is notable.",
+      "text": "Fig. 1. German day-ahead spot prices from 2006 through 2016 (daily averages); an overall downward trend in the day-ahead price is notable."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 333.39300000000003,
+            "t": 442.1304558,
+            "r": 571.100379,
+            "b": 411.3417743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "· Since EPEX prices can be zero or negative, the standard approach to switch to logarithmic measures is not applicable.",
+      "text": "Since EPEX prices can be zero or negative, the standard approach to switch to logarithmic measures is not applicable.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 333.39300000000003,
+            "t": 402.7144558,
+            "r": 571.1003790000001,
+            "b": 339.0487743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "· More importantly, while the stock market prices are only available on trading days; EPEX prices cover the whole year, including weekends and holidays. As a consequence, there is a lot of underlying variability in the data which has nothing to do with volatility, but simply reflects the diurnal activity patterns.",
+      "text": "More importantly, while the stock market prices are only available on trading days; EPEX prices cover the whole year, including weekends and holidays. As a consequence, there is a lot of underlying variability in the data which has nothing to do with volatility, but simply reflects the diurnal activity patterns.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.99699999999996,
+            "t": 327.8296525999999,
+            "r": 571.1026652,
+            "b": 286.40077439292025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "For these reasons, we will first pre-proccess the raw data to eliminate the underlying patterns; and subsequently focus on quantifying the volatility of the resulting residuals . The nature of this pre-processing is discussed in the following subsection.",
+      "text": "For these reasons, we will first pre-proccess the raw data to eliminate the underlying patterns; and subsequently focus on quantifying the volatility of the resulting residuals . The nature of this pre-processing is discussed in the following subsection."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.99699999999996,
+            "t": 269.00301679999995,
+            "r": 449.5369477999995,
+            "b": 260.4252182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "B. Extracting underlying trends",
+      "text": "B. Extracting underlying trends",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 318.99699999999996,
+            "t": 251.33465260000003,
+            "r": 571.1060503999998,
+            "b": 56.481774392920215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1093
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.959,
+            "t": 364.2804558000001,
+            "r": 301.0625930000001,
+            "b": 310.81452673256484,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1094,
+            1381
+          ]
+        }
+      ],
+      "orig": "Singular value decomposition (SVD) is a popular matrix decomposition technique; which we use to extract the underlying daily and seasonal patterns. SVD is applied extensively in matrix computations, but can also be put to good use in the study of time series which have exogenously induced periods. This is often the case in economics time series, where the variables of interest show daily or annual periods. In the case at hand, it is clear that prices would show daily patterns that might change relatively slowly over the year. To apply SVD, we rewrite the time series as a matrix where each column records the 24 hourly values for a particular day [10]. In this way, a time series representing a typical year is recast as a matrix A of size 24 × 365 . If the results for every day were identical, then all the columns would be identical and the matrix would have a rank equal to one ( rank ( A ) = 1 ). Put differently, the matrix could be written as the product of a 24 × 1 column and a 1 × 365 row. In practice, however, the values for subsequent days will tend to be slightly different and therefore A has a rank that exceeds one. Nevertheless, SVD assures us that A can still be expanded as a sum of rank 1 matrices (i.e. a column times a row) where each next contribution in the sum is less important. In mathematical parlance, any given matrix A h × d can be written as:",
+      "text": "Singular value decomposition (SVD) is a popular matrix decomposition technique; which we use to extract the underlying daily and seasonal patterns. SVD is applied extensively in matrix computations, but can also be put to good use in the study of time series which have exogenously induced periods. This is often the case in economics time series, where the variables of interest show daily or annual periods. In the case at hand, it is clear that prices would show daily patterns that might change relatively slowly over the year. To apply SVD, we rewrite the time series as a matrix where each column records the 24 hourly values for a particular day [10]. In this way, a time series representing a typical year is recast as a matrix A of size 24 × 365 . If the results for every day were identical, then all the columns would be identical and the matrix would have a rank equal to one ( rank ( A ) = 1 ). Put differently, the matrix could be written as the product of a 24 × 1 column and a 1 × 365 row. In practice, however, the values for subsequent days will tend to be slightly different and therefore A has a rank that exceeds one. Nevertheless, SVD assures us that A can still be expanded as a sum of rank 1 matrices (i.e. a column times a row) where each next contribution in the sum is less important. In mathematical parlance, any given matrix A h × d can be written as:"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.959,
+            "t": 625.9035351,
+            "r": 158.81088830000007,
+            "b": 619.0620153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Fig. 2. Raw price data for 2016",
+      "text": "Fig. 2. Raw price data for 2016"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.959,
+            "t": 418.96453510000003,
+            "r": 301.0612331000003,
+            "b": 385.2230153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "Fig. 3. SVD-based rank-2 approximation: Left column: first two columns of U-matrix representing a weighted averaged profile for each day (top) and a first order correction (again one value for each hour over a 24 hour period). Right column: corresponding amplitudes (V columns).",
+      "text": "Fig. 3. SVD-based rank-2 approximation: Left column: first two columns of U-matrix representing a weighted averaged profile for each day (top) and a first order correction (again one value for each hour over a 24 hour period). Right column: corresponding amplitudes (V columns)."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.60100000000003,
+            "t": 306.22510539999996,
+            "r": 301.0633916,
+            "b": 275.6945267325648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "A = r ∑ k =1 σ k U k V T k or more succinctly A = USV T (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.958999999999975,
+            "t": 269.5074558000001,
+            "r": 301.0661109999999,
+            "b": 183.92377439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            513
+          ]
+        }
+      ],
+      "orig": "where U ∈ O ( h ) and V ∈ O ( d ) are matrices with orthonormal columns, with U k and V k denoting the k th column of U and V , respectively; and S is an h × d matrix for which the only strictly positive elements σ k (so-called singular values) are situated on the main diagonal [11]. The importance of this decomposition lies in the fact that truncating the expansion in the right hand side of (1) after the p th term yields the best approximation of the original matrix A by a matrix of (lower) rank p ≤ r [12].",
+      "text": "where U ∈ O ( h ) and V ∈ O ( d ) are matrices with orthonormal columns, with U k and V k denoting the k th column of U and V , respectively; and S is an h × d matrix for which the only strictly positive elements σ k (so-called singular values) are situated on the main diagonal [11]. The importance of this decomposition lies in the fact that truncating the expansion in the right hand side of (1) after the p th term yields the best approximation of the original matrix A by a matrix of (lower) rank p ≤ r [12]."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 116.12500000000003,
+            "t": 175.98145580000005,
+            "r": 301.0633916,
+            "b": 160.9545267325649,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "A p = arg min rank ( R )= p | | A -R | | (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.95899999999999,
+            "t": 153.02345579999997,
+            "r": 301.06853939999996,
+            "b": 56.48177439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            546
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 318.99699999999996,
+            "t": 368.90045580000003,
+            "r": 571.1055241999999,
+            "b": 217.56377439292032,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            547,
+            1395
+          ]
+        }
+      ],
+      "orig": "where the norm | | · | | can be either the Frobenius or spectral L 2 norm. We illustrate the process for the price data of the year 2016. The raw hourly values are shown in Fig. 2. After recasting this time series into a 24 × 366 matrix (2016 was a leap year!), we can compute the first two terms in the SVD expansion. The results are illustrated in Fig. 3. The left panels depict the first two columns of the U matrix. The top left panel resembles an appropriately weighted daily averageaveraged over the year. The price peaks in the morning and late afternoon are clearly visible. The second column of U is depicted on the bottom left panel; it provides a correction which needs to be added to the average in order to get a better approximation. The panels on the right-hand side represent the first two columns of the V matrix and specify an amplitude coefficient for every day. To obtain an approximation for the actual data on day d , one must multiply each profile on the left by the d -th amplitude coefficient on the right and of course the corresponding singular value; then add them all up. To get some idea of what a rank-2 approximation looks like, Fig. 4 shows a detail of the approximation (in red) superimposed on the actual data (blue). Fig. 5 contains a more general case of the reconstruction of price data in 2016, along with the absolute value of the corresponding residuals.",
+      "text": "where the norm | | · | | can be either the Frobenius or spectral L 2 norm. We illustrate the process for the price data of the year 2016. The raw hourly values are shown in Fig. 2. After recasting this time series into a 24 × 366 matrix (2016 was a leap year!), we can compute the first two terms in the SVD expansion. The results are illustrated in Fig. 3. The left panels depict the first two columns of the U matrix. The top left panel resembles an appropriately weighted daily averageaveraged over the year. The price peaks in the morning and late afternoon are clearly visible. The second column of U is depicted on the bottom left panel; it provides a correction which needs to be added to the average in order to get a better approximation. The panels on the right-hand side represent the first two columns of the V matrix and specify an amplitude coefficient for every day. To obtain an approximation for the actual data on day d , one must multiply each profile on the left by the d -th amplitude coefficient on the right and of course the corresponding singular value; then add them all up. To get some idea of what a rank-2 approximation looks like, Fig. 4 shows a detail of the approximation (in red) superimposed on the actual data (blue). Fig. 5 contains a more general case of the reconstruction of price data in 2016, along with the absolute value of the corresponding residuals."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 318.997,
+            "t": 625.8975350999999,
+            "r": 571.0992330999998,
+            "b": 610.0900153663716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Fig. 4. Detail of rank-2 approximation (red) superimposed on original data (blue).",
+      "text": "Fig. 4. Detail of rank-2 approximation (red) superimposed on original data (blue)."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 318.997,
+            "t": 416.4655351,
+            "r": 571.0992331,
+            "b": 391.6910153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "Fig. 5. Top: Original and rank-2 approximation of the price data for 2016. Bottom: Absolute values of the residuals after rank-2 approximation. Residuals as a means to measure volatility.",
+      "text": "Fig. 5. Top: Original and rank-2 approximation of the price data for 2016. Bottom: Absolute values of the residuals after rank-2 approximation. Residuals as a means to measure volatility."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 318.99699999999996,
+            "t": 202.67201679999994,
+            "r": 419.4598583999996,
+            "b": 194.0942181999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "C. Quantifying volatility",
+      "text": "C. Quantifying volatility",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 318.9969999999999,
+            "t": 185.58165259999998,
+            "r": 571.1006359999998,
+            "b": 56.481774392920215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            742
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.959,
+            "t": 229.2976526,
+            "r": 301.0667284000001,
+            "b": 176.90977439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            743,
+            1011
+          ]
+        }
+      ],
+      "orig": "In the current section, we focus on the residuals of the price after compensating for daily patterns using a rank-2 approximation; it is done to quantify the volatility of the data over the years. The choice to focus on rank-2 approximation is relatively arbitrary and unimportant. Fig. 6 illustrates that the singular values of the price data throughout different years follow the same pattern. Furthermore, as can be seen in the top panel of Fig. 7, the absolute value of the residuals adhere remarkably well to an exponential distribution (with mean 2 . 97 ). It is almost only the top 1% that is substantially higher in value than expected. Moreover, the lower panel of Fig. 7 highlights the fact that the higher rank approximations yield similar results. Fig. 8 confirms that this pattern is also seen throughout the period (2006-2016) - we focus on in this paper. Based on this observation, we propose the following approach to quantify the evolution in (annual) volatility in the years 2006 through 2016:",
+      "text": "In the current section, we focus on the residuals of the price after compensating for daily patterns using a rank-2 approximation; it is done to quantify the volatility of the data over the years. The choice to focus on rank-2 approximation is relatively arbitrary and unimportant. Fig. 6 illustrates that the singular values of the price data throughout different years follow the same pattern. Furthermore, as can be seen in the top panel of Fig. 7, the absolute value of the residuals adhere remarkably well to an exponential distribution (with mean 2 . 97 ). It is almost only the top 1% that is substantially higher in value than expected. Moreover, the lower panel of Fig. 7 highlights the fact that the higher rank approximations yield similar results. Fig. 8 confirms that this pattern is also seen throughout the period (2006-2016) - we focus on in this paper. Based on this observation, we propose the following approach to quantify the evolution in (annual) volatility in the years 2006 through 2016:"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.959,
+            "t": 611.7405351,
+            "r": 301.0612331000002,
+            "b": 595.9320153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "Fig. 6. An overview of the evolution of the singular value of the price data in each year.",
+      "text": "Fig. 6. An overview of the evolution of the singular value of the price data in each year."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.959,
+            "t": 279.3515351000001,
+            "r": 301.06123310000027,
+            "b": 254.5780153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "Fig. 7. Top: The residuals of the rank-2 approximation of the day-ahead market prices for year 2016: almost 99% of residuals adhere to exponential distribution. Bottom: Higher rank approximations yield similar results.",
+      "text": "Fig. 7. Top: The residuals of the rank-2 approximation of the day-ahead market prices for year 2016: almost 99% of residuals adhere to exponential distribution. Bottom: Higher rank approximations yield similar results."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.355000000000004,
+            "t": 163.66365259999998,
+            "r": 301.06283320000006,
+            "b": 100.31777439292034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            306
+          ]
+        }
+      ],
+      "orig": "1) The influence of the daily and seasonal variations is removed by fitting a rank-2 approximation, and extracting the residual of the actual data with respect to this approximation. As volatility is influenced by both positive and negative fluctuations, we focus on the absolute values of these residuals.",
+      "text": "The influence of the daily and seasonal variations is removed by fitting a rank-2 approximation, and extracting the residual of the actual data with respect to this approximation. As volatility is influenced by both positive and negative fluctuations, we focus on the absolute values of these residuals.",
+      "enumerated": true,
+      "marker": "1)"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.35500000000001,
+            "t": 97.91065259999993,
+            "r": 301.0628332000001,
+            "b": 56.48177439292033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "2) For every year, we fit the lowest 99% of the residual values with an exponential and compute the corresponding parameter (i.e. mean of the exponential). This value corresponds to the size of the residuals.",
+      "text": "For every year, we fit the lowest 99% of the residual values with an exponential and compute the corresponding parameter (i.e. mean of the exponential). This value corresponds to the size of the residuals.",
+      "enumerated": true,
+      "marker": "2)"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.997,
+            "t": 583.3775350999999,
+            "r": 571.0992331,
+            "b": 567.5690153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "Fig. 8. Exponential distribution of the residuals of the rank-2 approximations for different years.",
+      "text": "Fig. 8. Exponential distribution of the residuals of the rank-2 approximations for different years."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.997,
+            "t": 400.8285351,
+            "r": 571.0992331,
+            "b": 349.15601536637166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            389
+          ]
+        }
+      ],
+      "orig": "Fig. 9. Evolution of the price volatility on the German day-ahead market in the period 2006 through 2016 . The individual data points record the estimated exponential parameter (mean) based on all but the 1% highest values of the residuals. The regression line has a slope equal to -0.58 which is highly significant (95% confidence interval: -0.89 : -0:26). See main text for more details.",
+      "text": "Fig. 9. Evolution of the price volatility on the German day-ahead market in the period 2006 through 2016 . The individual data points record the estimated exponential parameter (mean) based on all but the 1% highest values of the residuals. The regression line has a slope equal to -0.58 which is highly significant (95% confidence interval: -0.89 : -0:26). See main text for more details."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 333.39300000000003,
+            "t": 326.53265259999995,
+            "r": 571.1008332,
+            "b": 274.1447743929202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "3) Typically, the top 1% of the observed distribution is much larger than expected (based on the bulk of the distribution). We characterize these values by computing the median value this top 1% segment separately.",
+      "text": "Typically, the top 1% of the observed distribution is much larger than expected (based on the bulk of the distribution). We characterize these values by computing the median value this top 1% segment separately.",
+      "enumerated": true,
+      "marker": "3)"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.997,
+            "t": 262.2936526,
+            "r": 571.1015000000001,
+            "b": 56.481774392920215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1162
+          ]
+        }
+      ],
+      "orig": "The results are shown in Figs. 9 and 10. The former figure shows a robust estimate for the mean of exponential distribution for each year. The estimate is based on the lowest 99% of the residual (absolute) values and is therefore robust with respect to the 1% extremely large values. The 99% vs. 1% is dictated by the exponential prob-plot in Figs. 7 and 8 which show a clear divergence at the 99% mark. To quantify this decreasing trend, we have also computed the regression line, which yields a statistically significant downward slope equal to -0.58 (with 95% confidence interval: -0.89:-0.26). The quality of this regression can be further improved by fitting a power law , but at this point we simply want to illustrate the significant downward trend. The evolution of the top 1% is shown in Fig. 10 where these data are represented by their median value. The picture we get from this indicates that whereas extreme residuals were not uncommon prior to 2010, these values fell significantly and have been roughly constant during the last five years. The message from both figures combined is that volatility has decreased significantly over the past decade.",
+      "text": "The results are shown in Figs. 9 and 10. The former figure shows a robust estimate for the mean of exponential distribution for each year. The estimate is based on the lowest 99% of the residual (absolute) values and is therefore robust with respect to the 1% extremely large values. The 99% vs. 1% is dictated by the exponential prob-plot in Figs. 7 and 8 which show a clear divergence at the 99% mark. To quantify this decreasing trend, we have also computed the regression line, which yields a statistically significant downward slope equal to -0.58 (with 95% confidence interval: -0.89:-0.26). The quality of this regression can be further improved by fitting a power law , but at this point we simply want to illustrate the significant downward trend. The evolution of the top 1% is shown in Fig. 10 where these data are represented by their median value. The picture we get from this indicates that whereas extreme residuals were not uncommon prior to 2010, these values fell significantly and have been roughly constant during the last five years. The message from both figures combined is that volatility has decreased significantly over the past decade."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.959,
+            "t": 583.3935351,
+            "r": 301.06123310000027,
+            "b": 540.6870153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            367
+          ]
+        }
+      ],
+      "orig": "Fig. 10. Evolution of top 1% residuals over the years 2006-2016. Each data point represents the median value of the top one percent residuals (in absolute value). As such, these values characterize the extreme deviations in day ahead prices. The plot clearly shows that these extreme values decreased significantly before 2010, and then stayed approximately constant.",
+      "text": "Fig. 10. Evolution of top 1% residuals over the years 2006-2016. Each data point represents the median value of the top one percent residuals (in absolute value). As such, these values characterize the extreme deviations in day ahead prices. The plot clearly shows that these extreme values decreased significantly before 2010, and then stayed approximately constant."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.95899999999999,
+            "t": 518.2360168,
+            "r": 301.06461028,
+            "b": 432.8017743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            477
+          ]
+        }
+      ],
+      "orig": "a) Volatility tends to be higher in winter: Fig. 5 suggests that volatility tends to be lower in summer (middle part of graph) than winter (extremal parts of the graph). To demonstrate that this is indeed the case, we use a measure based on the angular momentum. More precisely, if the residual for hour slot h is given by R ( h ) and the distance between the hour slot h and the central hour slot h m = n/ 2 = 4392 equals | h -h m | the observed angular momentum is defined a:",
+      "text": "a) Volatility tends to be higher in winter: Fig. 5 suggests that volatility tends to be lower in summer (middle part of graph) than winter (extremal parts of the graph). To demonstrate that this is indeed the case, we use a measure based on the angular momentum. More precisely, if the residual for hour slot h is given by R ( h ) and the distance between the hour slot h and the central hour slot h m = n/ 2 = 4392 equals | h -h m | the observed angular momentum is defined a:"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 118.64000000000003,
+            "t": 427.0031054,
+            "r": 301.0643916,
+            "b": 396.4725267325648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "L obs = n ∑ h =1 R ( h )( h -h m ) 2 (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.959,
+            "t": 390.3454558,
+            "r": 301.0687582,
+            "b": 239.00877439292026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            809
+          ]
+        }
+      ],
+      "orig": "where n is equal to the total number of hour slots. If we re-scale the values of the hour slot in such a way that h m = 0 and -1 ≤ h ≤ 1 (divided by 1000, for ease of comparison), we obtain L obs = 10 . 676 . A high value for L obs refutes the assumption that the residuals are uniformly distributed throughout the year, and favours an interpretation in which residuals (and hence volatility) is higher in the winter season. To judge the significance of this result, we use a permutation test. The rationale is straightforward: if the residuals are uniformly distributed over the hour slots, then a random permutation of the values should not result in a significantly different value for L obs . The results for 2016 are depicted in Fig. 11. It can be shown that all the other years produced similar results.",
+      "text": "where n is equal to the total number of hour slots. If we re-scale the values of the hour slot in such a way that h m = 0 and -1 ≤ h ≤ 1 (divided by 1000, for ease of comparison), we obtain L obs = 10 . 676 . A high value for L obs refutes the assumption that the residuals are uniformly distributed throughout the year, and favours an interpretation in which residuals (and hence volatility) is higher in the winter season. To judge the significance of this result, we use a permutation test. The rationale is straightforward: if the residuals are uniformly distributed over the hour slots, then a random permutation of the values should not result in a significantly different value for L obs . The results for 2016 are depicted in Fig. 11. It can be shown that all the other years produced similar results."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.315,
+            "t": 224.30965259999994,
+            "r": 215.71304879999985,
+            "b": 215.75777439292028,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "V. CONCLUSIONS",
+      "text": "V. CONCLUSIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.959,
+            "t": 207.4996526,
+            "r": 301.06263600000005,
+            "b": 56.481774392920215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            852
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 318.99699999999984,
+            "t": 517.4896526,
+            "r": 571.1005929999994,
+            "b": 487.0197743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            853,
+            1034
+          ]
+        }
+      ],
+      "orig": "The growing share of renewables (especially wind and solar) in the German energy mix appears to result in a higher degree of volatility of the electricity prices; as RES are intermittent and less predictable. Any errors in day-ahead projections for these sources can lead to higher variability in the market. In this paper, we looked at the electricity prices on the German day-ahead market in the period 2006 through 2016. The occurrence of zero or even negative prices makes it difficult to simply use the standard volatility measures which are common in fintech and stock markets. Therefore, we focused on residuals obtained after removing the underlying diurnal or seasonal patterns. This was accomplished by applying singular value decomposition (SVD) to the time series to get a low rank approximation of the raw data. Our results show that price volatility has significantly decreased during the past eleven years. The most likely cause for this is the improved accuracy of the forecasting tools for renewables in recent years.",
+      "text": "The growing share of renewables (especially wind and solar) in the German energy mix appears to result in a higher degree of volatility of the electricity prices; as RES are intermittent and less predictable. Any errors in day-ahead projections for these sources can lead to higher variability in the market. In this paper, we looked at the electricity prices on the German day-ahead market in the period 2006 through 2016. The occurrence of zero or even negative prices makes it difficult to simply use the standard volatility measures which are common in fintech and stock markets. Therefore, we focused on residuals obtained after removing the underlying diurnal or seasonal patterns. This was accomplished by applying singular value decomposition (SVD) to the time series to get a low rank approximation of the raw data. Our results show that price volatility has significantly decreased during the past eleven years. The most likely cause for this is the improved accuracy of the forecasting tools for renewables in recent years."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 318.99699999999984,
+            "t": 583.3725350999999,
+            "r": 571.1034825999998,
+            "b": 540.6650153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            383
+          ]
+        }
+      ],
+      "orig": "Fig. 11. Price data for 2016: Results of the permutation test. The histogram of the L -values for 1000 random permutations of the actual data. Obviously, the actually observed value (indicated in red) is significantly larger than values we would expect for data sets without structure (with a p-value < 10 -3 ). This confirms our observation that volatility shows a seasonal pattern.",
+      "text": "Fig. 11. Price data for 2016: Results of the permutation test. The histogram of the L -values for 1000 random permutations of the actual data. Obviously, the actually observed value (indicated in red) is significantly larger than values we would expect for data sets without structure (with a p-value < 10 -3 ). This confirms our observation that volatility shows a seasonal pattern."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 417.1539999999998,
+            "t": 471.91065259999993,
+            "r": 472.9544604999999,
+            "b": 463.3587743929203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.9819999999998,
+            "t": 455.66953509999996,
+            "r": 571.0991830999998,
+            "b": 421.92901536637163,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "[1] 'Fourth energy transition monitoring report,' https://www.bmwi.de/BMWi/Redaktion/PDF/V/ vierter-monitoring-bericht-energie-der-zukunft-englische-kurzfassung, property=pdf,bereich=bmwi2012,sprache=de,rwb=true.pdf.",
+      "text": "'Fourth energy transition monitoring report,' https://www.bmwi.de/BMWi/Redaktion/PDF/V/ vierter-monitoring-bericht-energie-der-zukunft-englische-kurzfassung, property=pdf,bereich=bmwi2012,sprache=de,rwb=true.pdf.",
+      "hyperlink": "https://www.bmwi.de/BMWi/Redaktion/PDF/V/vierter-monitoring-bericht-energie-der-zukunft-englische-kurzfassung,property=pdf,bereich=bmwi2012,sprache=de,rwb=true.pdf",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.9819999999998,
+            "t": 417.31353509999997,
+            "r": 571.0991830999998,
+            "b": 401.50501536637165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "[2] 'Information portal renewable energy,' http://www. erneuerbare-energien.de/EE/Navigation/DE/Service/.",
+      "text": "'Information portal renewable energy,' http://www. erneuerbare-energien.de/EE/Navigation/DE/Service/.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.9819999999998,
+            "t": 396.8895351,
+            "r": 571.0998444999998,
+            "b": 354.18301536637165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            287
+          ]
+        }
+      ],
+      "orig": "[3] E. Denny, A. Tuohy, P. Meibom, A. Keane, D. Flynn, A. Mullane, and M. Omalley, 'The impact of increased interconnection on electricity systems with large penetrations of wind generation: A case study of ireland and great britain,' Energy Policy , vol. 38, no. 11, pp. 69466954, 2010.",
+      "text": "E. Denny, A. Tuohy, P. Meibom, A. Keane, D. Flynn, A. Mullane, and M. Omalley, 'The impact of increased interconnection on electricity systems with large penetrations of wind generation: A case study of ireland and great britain,' Energy Policy , vol. 38, no. 11, pp. 69466954, 2010.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.98199999999986,
+            "t": 349.5675351,
+            "r": 571.0991830999998,
+            "b": 324.79301536637166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "[4] K. Schaber, F. Steinke, and T. Hamacher, 'Transmission grid extensions for the integration of variable renewable energies in europe: Who benefits where?' Energy Policy , vol. 43, pp. 123-135, 2012.",
+      "text": "K. Schaber, F. Steinke, and T. Hamacher, 'Transmission grid extensions for the integration of variable renewable energies in europe: Who benefits where?' Energy Policy , vol. 43, pp. 123-135, 2012.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.9819999999998,
+            "t": 320.1775351,
+            "r": 571.1023273999996,
+            "b": 295.4030153663717,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "[5] K. Barnham, K. Knorr, and M. Mazzer, 'Benefits of photovoltaic power in supplying national electricity demand,' Energy Policy , vol. 54, pp. 385-390, 2013.",
+      "text": "K. Barnham, K. Knorr, and M. Mazzer, 'Benefits of photovoltaic power in supplying national electricity demand,' Energy Policy , vol. 54, pp. 385-390, 2013.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.9819999999997,
+            "t": 290.7875351,
+            "r": 571.1014263999997,
+            "b": 266.01301536637175,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "[6] N. Adaduldah, A. Dorsman, G. J. Franx, and P. Pottuijt, 'The influence of renewables on the german day ahead electricity prices,' in Perspectives on Energy Risk . Springer, 2014, pp. 165-182.",
+      "text": "N. Adaduldah, A. Dorsman, G. J. Franx, and P. Pottuijt, 'The influence of renewables on the german day ahead electricity prices,' in Perspectives on Energy Risk . Springer, 2014, pp. 165-182.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.9819999999997,
+            "t": 261.3975351,
+            "r": 571.0991830999995,
+            "b": 245.59001536637174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "[7] 'Epexspot, day-ahead auction,' https://www.epexspot.com/en/ product-info/auction/germany-austria.",
+      "text": "'Epexspot, day-ahead auction,' https://www.epexspot.com/en/ product-info/auction/germany-austria.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.9819999999997,
+            "t": 240.97453510000003,
+            "r": 571.1044770999997,
+            "b": 216.20001536637164,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[8] L. C. G. Rogers and S. E. Satchell, 'Estimating variance from high, low and closing prices,' The Annals of Applied Probability , pp. 504-512, 1991.",
+      "text": "L. C. G. Rogers and S. E. Satchell, 'Estimating variance from high, low and closing prices,' The Annals of Applied Probability , pp. 504-512, 1991.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.98199999999974,
+            "t": 211.58453510000004,
+            "r": 571.1041486999997,
+            "b": 186.81001536637166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "[9] R. T. Baillie, C.-F. Chung, and M. A. Tieslau, 'Analysing inflation by the fractionally integrated arfima-garch model,' Journal of applied econometrics , pp. 23-40, 1996.",
+      "text": "R. T. Baillie, C.-F. Chung, and M. A. Tieslau, 'Analysing inflation by the fractionally integrated arfima-garch model,' Journal of applied econometrics , pp. 23-40, 1996.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 318.99699999999973,
+            "t": 182.19453509999994,
+            "r": 571.0992330999993,
+            "b": 148.45401536637166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        }
+      ],
+      "orig": "[10] A. Khoshrou, A. B. Dorsman, and E. J. Pauwels, 'Svd-based visualisation and approximation for time series data in smart energy systems,' in 2017 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe) , Sept 2017, pp. 1-6.",
+      "text": "A. Khoshrou, A. B. Dorsman, and E. J. Pauwels, 'Svd-based visualisation and approximation for time series data in smart energy systems,' in 2017 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe) , Sept 2017, pp. 1-6.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 318.99699999999973,
+            "t": 143.97402679999993,
+            "r": 571.0987031999997,
+            "b": 128.03101536637166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "[11] K. Baker, 'Singular value decomposition tutorial,' The Ohio State University , vol. 24, 2005.",
+      "text": "K. Baker, 'Singular value decomposition tutorial,' The Ohio State University , vol. 24, 2005.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 318.9969999999998,
+            "t": 123.41553509999994,
+            "r": 571.1040137999996,
+            "b": 98.64101536637168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[12] G. H. Golub and C. Reinsch, 'Singular value decomposition and least squares solutions,' Numerische mathematik , vol. 14, no. 5, pp. 403-420, 1970.",
+      "text": "G. H. Golub and C. Reinsch, 'Singular value decomposition and least squares solutions,' Numerische mathematik , vol. 14, no. 5, pp. 403-420, 1970.",
+      "enumerated": true,
+      "marker": "[12]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 334.3710021972656,
+            "t": 731.3148536682129,
+            "r": 538.0916748046875,
+            "b": 595.9832611083984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.76569747924805,
+            "t": 733.0402793884277,
+            "r": 256.32977294921875,
+            "b": 642.8474426269531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 55.98387145996094,
+            "t": 605.7345275878906,
+            "r": 284.70794677734375,
+            "b": 430.7275390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 359.27996826171875,
+            "t": 733.6473159790039,
+            "r": 534.5460205078125,
+            "b": 642.4797821044922,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 349.0632019042969,
+            "t": 595.5135803222656,
+            "r": 526.399169921875,
+            "b": 432.7509460449219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.49153137207031,
+            "t": 737.0995254516602,
+            "r": 262.0985412597656,
+            "b": 630.3415374755859,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 60.875732421875,
+            "t": 581.2038726806641,
+            "r": 272.99114990234375,
+            "b": 293.4331970214844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 330.3601379394531,
+            "t": 735.9133911132812,
+            "r": 543.0164184570312,
+            "b": 597.3084869384766,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 342.7298889160156,
+            "t": 553.0333709716797,
+            "r": 553.1221313476562,
+            "b": 414.2057800292969,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.27922058105469,
+            "t": 735.7060699462891,
+            "r": 268.71240234375,
+            "b": 595.4027709960938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 351.2862854003906,
+            "t": 735.4761428833008,
+            "r": 541.6458129882812,
+            "b": 602.3887329101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

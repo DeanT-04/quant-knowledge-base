@@ -1,0 +1,5085 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2006.09247_prior_knowledge_distillation_based_on_financial_ti",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2538900225407284303,
+    "filename": "2006.09247_prior_knowledge_distillation_based_on_financial_ti.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/texts/121"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/151"
+      },
+      {
+        "$ref": "#/texts/152"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_1_0_0",
+      "label": "unspecified"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 548.26,
+            "t": 741.6268799999999,
+            "r": 554.03488,
+            "b": 735.3842598895027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 86.064,
+            "t": 709.252,
+            "r": 500.452,
+            "b": 653.7657237569061,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Prior knowledge distillation based on financial time series",
+      "text": "Prior knowledge distillation based on financial time series",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.21,
+            "t": 643.756,
+            "r": 352.00600000000003,
+            "b": 632.992861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Jie Fang and Jianwu Lin",
+      "text": "Jie Fang and Jianwu Lin"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.024,
+            "t": 611.71312,
+            "r": 512.44048,
+            "b": 509.9118174585635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1257
+          ]
+        }
+      ],
+      "orig": "Abstract -One of the major characteristics of financial time series is that they contain a large amount of non-stationary noise, which is challenging for deep neural networks. People normally use various features to address this problem. However, the performance of these features depends on the choice of hyper-parameters. In this paper, we propose to use neural networks to represent these indicators and train a large network constructed of smaller networks as feature layers to fine-tune the prior knowledge represented by the indicators. During back propagation, prior knowledge is transferred from human logic to machine logic via gradient descent. Prior knowledge is the neural network's deep belief and teaches the network to not be affected by non-stationary noise. Moreover, co-distillation is applied to distill the structure into a much smaller size to reduce redundant features and the risk of overfitting. In addition, the decisions of the smaller networks in terms of gradient descent are more robust and cautious than those of large networks. In numerical experiments, we find that our algorithm is more accurate than traditional methods on real financial datasets. We also conduct experiments to verify and comprehend the experiment result.",
+      "text": "Abstract -One of the major characteristics of financial time series is that they contain a large amount of non-stationary noise, which is challenging for deep neural networks. People normally use various features to address this problem. However, the performance of these features depends on the choice of hyper-parameters. In this paper, we propose to use neural networks to represent these indicators and train a large network constructed of smaller networks as feature layers to fine-tune the prior knowledge represented by the indicators. During back propagation, prior knowledge is transferred from human logic to machine logic via gradient descent. Prior knowledge is the neural network's deep belief and teaches the network to not be affected by non-stationary noise. Moreover, co-distillation is applied to distill the structure into a much smaller size to reduce redundant features and the risk of overfitting. In addition, the decisions of the smaller networks in terms of gradient descent are more robust and cautious than those of large networks. In numerical experiments, we find that our algorithm is more accurate than traditional methods on real financial datasets. We also conduct experiments to verify and comprehend the experiment result."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.024,
+            "t": 494.68312,
+            "r": 409.46512,
+            "b": 487.4718174585635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "Index Terms -Prior knowledge, Knowledge distillation, Representation learning, Transfer learning",
+      "text": "Index Terms -Prior knowledge, Knowledge distillation, Representation learning, Transfer learning"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 179.54,
+            "t": 478.44196,
+            "r": 274.45375999999993,
+            "b": 469.44433074756233,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "----------",
+      "text": "----------"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 281.69,
+            "t": 477.89907999999997,
+            "r": 291.03728,
+            "b": 472.25669788654056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 298.25,
+            "t": 478.44196,
+            "r": 395.68,
+            "b": 469.44433074756233,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "----------",
+      "text": "----------"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 457.06264,
+            "r": 129.27300000000002,
+            "b": 445.35832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 INTRODUCTION",
+      "text": "1 INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 440.32072,
+            "r": 282.86,
+            "b": 326.74136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            582
+          ]
+        }
+      ],
+      "orig": "One of the major characteristics of financial time series is  that  they  contain  a  large  amount  of  non-stationary noise  [1].  In  classification  problems,  deep  neural  networks  (DNNs)  are  a  very  popular  way  to  learn  features from a data set and to weight each feature. However,  some  fake  features  may  be  abstracted  from  the data  by  mistake  due  to  the  high  level  of  noise.  Thus, when  we  model  financial  time  series  by  means  of DNNs, the noise may be treated as a feature, which is a major limitation of the models' generalization ability.",
+      "text": "One of the major characteristics of financial time series is  that  they  contain  a  large  amount  of  non-stationary noise  [1].  In  classification  problems,  deep  neural  networks  (DNNs)  are  a  very  popular  way  to  learn  features from a data set and to weight each feature. However,  some  fake  features  may  be  abstracted  from  the data  by  mistake  due  to  the  high  level  of  noise.  Thus, when  we  model  financial  time  series  by  means  of DNNs, the noise may be treated as a feature, which is a major limitation of the models' generalization ability."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 325.34072000000003,
+            "r": 282.86,
+            "b": 165.67136000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            776
+          ]
+        }
+      ],
+      "orig": "To  address  this  problem,  researchers  often  select quantitative indicators based on their financial experience, which is called prior knowledge (PK), as inputs for  a  neural  network  to  construct  features  for  the  financial  data.  PK  is  usually  obtained  from  experts  in the given area and can make a model relatively concise and  robust,  which  is  called  feature  engineering.  This type  of  methodology  is  common  in  the  clinical  and financial  industries.  [2][3]  However,  the  performance depends substantially on the hyper-parameters chosen because  the  hyper-parameters  cannot  be  adjusted  in the training process. Therefore, an ideal method could represent this knowledge and allow the parameters to be tuned via training on actual data.",
+      "text": "To  address  this  problem,  researchers  often  select quantitative indicators based on their financial experience, which is called prior knowledge (PK), as inputs for  a  neural  network  to  construct  features  for  the  financial  data.  PK  is  usually  obtained  from  experts  in the given area and can make a model relatively concise and  robust,  which  is  called  feature  engineering.  This type  of  methodology  is  common  in  the  clinical  and financial  industries.  [2][3]  However,  the  performance depends substantially on the hyper-parameters chosen because  the  hyper-parameters  cannot  be  adjusted  in the training process. Therefore, an ideal method could represent this knowledge and allow the parameters to be tuned via training on actual data."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 164.27071999999998,
+            "r": 282.82579999999996,
+            "b": 96.67535999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            341
+          ]
+        }
+      ],
+      "orig": "Different representations can help us entangle and hide various explanatory indicators of variation buried in  data.  Most  scholars  use  probabilistic  models  and auto encoders to represent indicators to avoid a loss of variance  [4].  Therefore,  we  use  a  neural  network  to represent  PK.  In  addition,  during  backpropagation  in",
+      "text": "Different representations can help us entangle and hide various explanatory indicators of variation buried in  data.  Most  scholars  use  probabilistic  models  and auto encoders to represent indicators to avoid a loss of variance  [4].  Therefore,  we  use  a  neural  network  to represent  PK.  In  addition,  during  backpropagation  in"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 105.98,
+            "t": 81.52728000000002,
+            "r": 217.85000000000002,
+            "b": 75.53472,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 292.37,
+            "t": 440.32072,
+            "r": 539.2195600000001,
+            "b": 280.78136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            17,
+            784
+          ]
+        }
+      ],
+      "orig": "---------------- the  representation  network,  knowledge  is  transferred from one domain to the same domain because the joint distributions  are  the  same  but  the  logical  meaning  is slightly different. This structure is suitable for transfer learning  because  transfer  learning  is  typically  implemented when we want to use rich data in one domain to train a classifier in another domain. Most previously reported methods in transfer learning do not simultaneously reduce the difference in both the marginal distribution  and  conditional  distribution  between  domains [5]. Feature-representation transfer learning does not suffer from the gap between the two distributions. Only the logical sense changes when we initialize the PK and after the backpropagation process.",
+      "text": "---------------- the  representation  network,  knowledge  is  transferred from one domain to the same domain because the joint distributions  are  the  same  but  the  logical  meaning  is slightly different. This structure is suitable for transfer learning  because  transfer  learning  is  typically  implemented when we want to use rich data in one domain to train a classifier in another domain. Most previously reported methods in transfer learning do not simultaneously reduce the difference in both the marginal distribution  and  conditional  distribution  between  domains [5]. Feature-representation transfer learning does not suffer from the gap between the two distributions. Only the logical sense changes when we initialize the PK and after the backpropagation process."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 70.53300000000002,
+            "r": 281.78,
+            "b": 44.93572264355362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": " Jie Fang is with the College of Information System, Tsinghua University, Shenzhen, China. E-mail: fangx18@mails.tsinghua.edu.cn.",
+      "text": " Jie Fang is with the College of Information System, Tsinghua University, Shenzhen, China. E-mail: fangx18@mails.tsinghua.edu.cn."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 43.509000000000015,
+            "r": 279.92734,
+            "b": 17.911722643553617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": " Jianwu Lin is with the College of Economic Management, Tsinghua University, Shenzhen, China. E-mail: lin.jianwu@sz.tsinghua.edu.cn.",
+      "text": " Jianwu Lin is with the College of Economic Management, Tsinghua University, Shenzhen, China. E-mail: lin.jianwu@sz.tsinghua.edu.cn."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 292.37,
+            "t": 279.38072,
+            "r": 539.23,
+            "b": 211.78135999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "However,  many  redundant  features  of  financial time series coexist in certain indicators of human's PK about financial activities, which causes the DNNs constructed by  feature-representation transfer learning based on redundant features cumbersome and computationally slow.",
+      "text": "However,  many  redundant  features  of  financial time series coexist in certain indicators of human's PK about financial activities, which causes the DNNs constructed by  feature-representation transfer learning based on redundant features cumbersome and computationally slow."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 292.37,
+            "t": 194.09263999999996,
+            "r": 390.67,
+            "b": 182.38832000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "2 METHODOLOGY",
+      "text": "2 METHODOLOGY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 292.37,
+            "t": 177.35072000000002,
+            "r": 539.2033600000002,
+            "b": 63.675359999999955,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            536
+          ]
+        }
+      ],
+      "orig": "We propose to use neural networks to represent financial  features  (prior  knowledge).  In  this  way,  we will get a lot of sub networks, these sub networks can be merged into a large network, which contains all the knowledge. After combining these networks together, we will fine tune its hyper-parameters by minimizing the classification error. This large network is called the prior  knowledge  network  (PKN),  as  shown  in  Figure 1a. The PK is the PKN's deep belief and teaches it not to be induced by the non-stationary noise.",
+      "text": "We propose to use neural networks to represent financial  features  (prior  knowledge).  In  this  way,  we will get a lot of sub networks, these sub networks can be merged into a large network, which contains all the knowledge. After combining these networks together, we will fine tune its hyper-parameters by minimizing the classification error. This large network is called the prior  knowledge  network  (PKN),  as  shown  in  Figure 1a. The PK is the PKN's deep belief and teaches it not to be induced by the non-stationary noise."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 292.37,
+            "t": 62.27472,
+            "r": 539.20636,
+            "b": 17.69136000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 30.24,
+            "t": 712.41072,
+            "r": 277.11211999999995,
+            "b": 483.72136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            216,
+            1324
+          ]
+        }
+      ],
+      "orig": "However,  the  PKN  suffers  from  another  potential problem. Because we represent each feature  as an individual  network,  the  entire  network  structure  containing all features is large. DNNs are commonly con- sidered to have excessive parameters, and these extra parameters lead to overfitting [6]. From our literature review, we find that distillation can efficiently reduce the  number of parameters. To solve this problem, we implement  the  knowledge  distillation  method  proposed by Hinton in 2015 to distill the entire structure into  a  much  smaller  one  [7].  However,  this  approach does  not  provide  satisfactory  performance.  However, the co-distillation proposed by Hinton in 2018 is effective [8].  We believe that  the gradient descent of every epoch  is  important  in  this  structure  and  represents how  the  teacher  learns  the  PK  and  teaches  students how to learn step by step. This kind of 'learn to learn' structure  is  a  type  of  meta-learning.  We  propose  to search for additional important findings in this area to improve  the  application  of  feature  engineering.  The entire learning process described above is called prior knowledge distillation (PKD), and the network generated by PKD is called the prior knowledge distillation network (PKDN), as shown in Figure 1b.",
+      "text": "However,  the  PKN  suffers  from  another  potential problem. Because we represent each feature  as an individual  network,  the  entire  network  structure  containing all features is large. DNNs are commonly con- sidered to have excessive parameters, and these extra parameters lead to overfitting [6]. From our literature review, we find that distillation can efficiently reduce the  number of parameters. To solve this problem, we implement  the  knowledge  distillation  method  proposed by Hinton in 2015 to distill the entire structure into  a  much  smaller  one  [7].  However,  this  approach does  not  provide  satisfactory  performance.  However, the co-distillation proposed by Hinton in 2018 is effective [8].  We believe that  the gradient descent of every epoch  is  important  in  this  structure  and  represents how  the  teacher  learns  the  PK  and  teaches  students how to learn step by step. This kind of 'learn to learn' structure  is  a  type  of  meta-learning.  We  propose  to search for additional important findings in this area to improve  the  application  of  feature  engineering.  The entire learning process described above is called prior knowledge distillation (PKD), and the network generated by PKD is called the prior knowledge distillation network (PKDN), as shown in Figure 1b."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 30.24,
+            "t": 741.6268799999999,
+            "r": 36.01488,
+            "b": 735.3842598895027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.24,
+            "t": 205.91935999999998,
+            "r": 258.63599999999985,
+            "b": 196.28768000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Fig. 1. Our Network structures: (a) PKN, (b) PKDN.",
+      "text": "Fig. 1. Our Network structures: (a) PKN, (b) PKDN."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 30.24,
+            "t": 183.35072000000002,
+            "r": 277.1,
+            "b": 23.69136000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            785
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 286.61,
+            "t": 712.41072,
+            "r": 533.47,
+            "b": 518.2813600000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            786,
+            1725
+          ]
+        }
+      ],
+      "orig": "First,  we  pre-train  each  neural  network  with  its learning  target-PK  represented  by  financial  indicators, under the mean squared error loss function. Second, we combine the output of each neural network as new features. These outputs are all tensors and are not real numbers, which means that their values are tuned by  backpropagation.  Third,  this  feature  layer  goes through a fully connected layer to obtain a binary output, which can represent the probability of rising and falling.  This  is  the  teacher  model,  which  we  pre-train based  on  two  distances.  The  first  is  the  distance  between  the  prediction  and  label,  which  is  our  target. The second is the distance between new PK learned by backpropagation and the initial PK. We let the teacher network struggle between these two distances, which can ensure stable gradient descent. In the next step, we train the small student networks individually. The last step  is  co-distillation.  In  each  iteration,  we  obtain  the output from the teacher network and the student network.  For  the  loss  function  of  the  teacher  model,  we use the distance from the teacher and student and the distance between the new PK learned by the network and the initial PK. The loss function for students is set in  the  same  way.  The  co-distillation  process  provides each  network  with  the  label  information  of  another network, and it can also provide gradient descent information  [8].  In  this  way,  the  knowledge  from  the teacher network can be passed to the student network; however, the simple structure of  the student network reduces the likelihood of overfitting, which is the cornerstone of our algorithm's robustness.",
+      "text": "First,  we  pre-train  each  neural  network  with  its learning  target-PK  represented  by  financial  indicators, under the mean squared error loss function. Second, we combine the output of each neural network as new features. These outputs are all tensors and are not real numbers, which means that their values are tuned by  backpropagation.  Third,  this  feature  layer  goes through a fully connected layer to obtain a binary output, which can represent the probability of rising and falling.  This  is  the  teacher  model,  which  we  pre-train based  on  two  distances.  The  first  is  the  distance  between  the  prediction  and  label,  which  is  our  target. The second is the distance between new PK learned by backpropagation and the initial PK. We let the teacher network struggle between these two distances, which can ensure stable gradient descent. In the next step, we train the small student networks individually. The last step  is  co-distillation.  In  each  iteration,  we  obtain  the output from the teacher network and the student network.  For  the  loss  function  of  the  teacher  model,  we use the distance from the teacher and student and the distance between the new PK learned by the network and the initial PK. The loss function for students is set in  the  same  way.  The  co-distillation  process  provides each  network  with  the  label  information  of  another network, and it can also provide gradient descent information  [8].  In  this  way,  the  knowledge  from  the teacher network can be passed to the student network; however, the simple structure of  the student network reduces the likelihood of overfitting, which is the cornerstone of our algorithm's robustness."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 286.61,
+            "t": 500.62264,
+            "r": 434.32,
+            "b": 488.91832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "3 NUMERICAL EXPERIMENTS",
+      "text": "3 NUMERICAL EXPERIMENTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 286.61,
+            "t": 480.71992,
+            "r": 369.90999999999997,
+            "b": 469.99096000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "3.1  Real datasets",
+      "text": "3.1  Real datasets",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 286.61,
+            "t": 466.84072000000003,
+            "r": 533.4650800000002,
+            "b": 387.72136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            379
+          ]
+        }
+      ],
+      "orig": "We use two real datasets to support our numerical experiments: the CSI500 Index and CSI300 Index, which are  the  most  frequently traded indices in  the  A-share market. We use the past 50 minutes' index return series to  perform  binary  classification  of  the  next  period  of time. We  perform  tests  for the next 1 minute,  3 minutes, 6 minutes, 9 minutes and 12 minutes.",
+      "text": "We use two real datasets to support our numerical experiments: the CSI500 Index and CSI300 Index, which are  the  most  frequently traded indices in  the  A-share market. We use the past 50 minutes' index return series to  perform  binary  classification  of  the  next  period  of time. We  perform  tests  for the next 1 minute,  3 minutes, 6 minutes, 9 minutes and 12 minutes."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 286.61,
+            "t": 386.32072,
+            "r": 533.4700399999999,
+            "b": 272.74136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            522
+          ]
+        }
+      ],
+      "orig": "For the experimental setting, we use 3000 samples as  the  training  set,  300  samples  as  the  validation  set, and 300 samples as the test set.  Because  the  financial time series is not stationary, all  our  experiments should  be  repeated  for  different  periods  of  time.  We repeat  the  experiment  10  times  for  the  last  3  years, from 2016 to 2019, and use the mean and standard deviation  to  describe  the  performance,  reported  as  the mean ± std ,  which  can  reduce  the  effect  of  randomness.",
+      "text": "For the experimental setting, we use 3000 samples as  the  training  set,  300  samples  as  the  validation  set, and 300 samples as the test set.  Because  the  financial time series is not stationary, all  our  experiments should  be  repeated  for  different  periods  of  time.  We repeat  the  experiment  10  times  for  the  last  3  years, from 2016 to 2019, and use the mean and standard deviation  to  describe  the  performance,  reported  as  the mean ± std ,  which  can  reduce  the  effect  of  randomness."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 286.61,
+            "t": 264.09992,
+            "r": 477.94,
+            "b": 253.37095999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "3.2  Representation of prior knowledge",
+      "text": "3.2  Representation of prior knowledge",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 286.61,
+            "t": 250.34072000000003,
+            "r": 533.47,
+            "b": 148.15135999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            506
+          ]
+        }
+      ],
+      "orig": "Our  numerical  experiment  uses  two  classic  technical indicators in quantitative trading to serve as PK: simple  moving  average  (SMA)  and  price  rate  of  change (ROC).  The  formulas  are  shown  in  (1)  (2).  These  two indicators use the momentum of returns of a financial index to perform prediction. [9] This PK is simple but very  helpful  for  time-series  classification,  and  it  can also make our deep learning algorithms more explainable and make the decision process more transparent.",
+      "text": "Our  numerical  experiment  uses  two  classic  technical indicators in quantitative trading to serve as PK: simple  moving  average  (SMA)  and  price  rate  of  change (ROC).  The  formulas  are  shown  in  (1)  (2).  These  two indicators use the momentum of returns of a financial index to perform prediction. [9] This PK is simple but very  helpful  for  time-series  classification,  and  it  can also make our deep learning algorithms more explainable and make the decision process more transparent."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 320.71,
+            "t": 142.928,
+            "r": 499.41999999999996,
+            "b": 120.50383445442878,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "SMA(𝑙𝑎𝑔) = ∑ 𝑥𝑖 𝑛 𝑖=𝑛+1-𝑙𝑎𝑔 𝑙𝑎𝑔 (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 321.31,
+            "t": 115.34168,
+            "r": 498.82,
+            "b": 95.05370988446725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "ROC(lag) = 𝑥𝑛 𝑥𝑛-𝑙𝑎𝑔 -1 (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 286.61,
+            "t": 87.11472000000003,
+            "r": 533.4662800000001,
+            "b": 19.491359999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            331
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.0,
+            "t": 712.41072,
+            "r": 282.85411999999997,
+            "b": 633.2713600000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            332,
+            695
+          ]
+        }
+      ],
+      "orig": "For each PK, lag is a decision variable, which we do not focus on here; we hope that the network can learn how long of a time series it needs and make this decision  itself.  Here,  we  only  need  to  give  the  hyperparameter lag a reasonable initial value. As in the traditional  quantitative  trading  method,  we  use  a  grid search to find the best hyper-parameters in the training set  based  on  the  highest  information  coefficient  (IC). Normally, we use the Spearman coefficient of the indicator  values  and  returns  of  financial  instruments  to represent  IC,  which  can  indicate  how  precisely  we predict the return of financial instruments based on the indicator values.",
+      "text": "For each PK, lag is a decision variable, which we do not focus on here; we hope that the network can learn how long of a time series it needs and make this decision  itself.  Here,  we  only  need  to  give  the  hyperparameter lag a reasonable initial value. As in the traditional  quantitative  trading  method,  we  use  a  grid search to find the best hyper-parameters in the training set  based  on  the  highest  information  coefficient  (IC). Normally, we use the Spearman coefficient of the indicator  values  and  returns  of  financial  instruments  to represent  IC,  which  can  indicate  how  precisely  we predict the return of financial instruments based on the indicator values."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 548.26,
+            "t": 741.6268799999999,
+            "r": 554.03488,
+            "b": 735.3842598895027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.0,
+            "t": 310.71332,
+            "r": 45.480000000000004,
+            "b": 301.23332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "、",
+      "text": "、"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.0,
+            "t": 172.34528,
+            "r": 278.78,
+            "b": 155.17664000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "Fig. 2. The performance of representing prior knowledge with slight constriction and heavy constriction.",
+      "text": "Fig. 2. The performance of representing prior knowledge with slight constriction and heavy constriction."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.0,
+            "t": 137.87072,
+            "r": 282.87104000000005,
+            "b": 24.17136000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            571
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 292.37,
+            "t": 712.41072,
+            "r": 536.8167000000001,
+            "b": 679.23136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            572,
+            706
+          ]
+        }
+      ],
+      "orig": "When we try to represent PK, we face a trade-off. If we use a large  dropout  rate  and  parameter  penalization  (heavy  constriction)  to  learn  the  PK,  we  cannot represent the PK properly. By contrast, if the dropout rate and parameter penalization are very small (slight constriction), the PK is learned properly but overfitting occurs  in  the  following  learning  process.  Because  the indicator value is very small, we  can be easily misled by  observing  only  the  mean  squared  error.  Thus,  the representation  performance  by  the  neural  network  is plotted  for  both  heavy  constriction  and  slight  constriction.  These  plots  intuitively  show  the  representation performance.",
+      "text": "When we try to represent PK, we face a trade-off. If we use a large  dropout  rate  and  parameter  penalization  (heavy  constriction)  to  learn  the  PK,  we  cannot represent the PK properly. By contrast, if the dropout rate and parameter penalization are very small (slight constriction), the PK is learned properly but overfitting occurs  in  the  following  learning  process.  Because  the indicator value is very small, we  can be easily misled by  observing  only  the  mean  squared  error.  Thus,  the representation  performance  by  the  neural  network  is plotted  for  both  heavy  constriction  and  slight  constriction.  These  plots  intuitively  show  the  representation performance."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 292.37,
+            "t": 677.9507199999999,
+            "r": 539.2216000000001,
+            "b": 552.7513600000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            562
+          ]
+        }
+      ],
+      "orig": "As shown in Figure 2, when the restriction is slight, the prediction and real value almost overlap. In summary,  we  successfully  represent  PK  via  a  neural  network under slight constriction. However, the PKN will be  affected  by  overfitting  due  to  its  heavy  network structure. We cannot rely on dropout and simple generalization methods to fix the overfitting problem, but no  commonly  used  alternative  techniques  are  available. Therefore, we must develop a tailored structure for this  problem:  we  use  co-distillation,  as  mentioned above.",
+      "text": "As shown in Figure 2, when the restriction is slight, the prediction and real value almost overlap. In summary,  we  successfully  represent  PK  via  a  neural  network under slight constriction. However, the PKN will be  affected  by  overfitting  due  to  its  heavy  network structure. We cannot rely on dropout and simple generalization methods to fix the overfitting problem, but no  commonly  used  alternative  techniques  are  available. Therefore, we must develop a tailored structure for this  problem:  we  use  co-distillation,  as  mentioned above."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 292.37,
+            "t": 544.10992,
+            "r": 364.96000000000004,
+            "b": 533.38096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "3.3 Test results",
+      "text": "3.3 Test results",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 292.37,
+            "t": 529.9693599999999,
+            "r": 539.11,
+            "b": 416.89768,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            554
+          ]
+        }
+      ],
+      "orig": "The first advantage our PKDN is its fast testing speed due to its small network size. Faster testing speed is beneficial for mobile devices, such as finance apps. Moreover, high-frequency  trading  also  has  strict  speed  requirements.  In  our  case,  the  smaller  model  has  only  1/3  the number  of  parameters  of  the  large  model.  We  run  our algorithms  on  Linux  Sever  with  64  GB  RAM,  10G  GPU 1080Ti and Tensorflow1.13. For PKN, it takes 325±53 microseconds  for  testing,  but  PKDN  only  takes  129±35  microseconds for testing.",
+      "text": "The first advantage our PKDN is its fast testing speed due to its small network size. Faster testing speed is beneficial for mobile devices, such as finance apps. Moreover, high-frequency  trading  also  has  strict  speed  requirements.  In  our  case,  the  smaller  model  has  only  1/3  the number  of  parameters  of  the  large  model.  We  run  our algorithms  on  Linux  Sever  with  64  GB  RAM,  10G  GPU 1080Ti and Tensorflow1.13. For PKN, it takes 325±53 microseconds  for  testing,  but  PKDN  only  takes  129±35  microseconds for testing."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 292.37,
+            "t": 415.00936,
+            "r": 539.11,
+            "b": 370.93768,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "The  second  strong  point  for  PKDN  is  its  relatively high test accuracy. We leverage the Spearman test in the training set to find suitable hyper-parameters for PK initialization. The experimental results are as follows.",
+      "text": "The  second  strong  point  for  PKDN  is  its  relatively high test accuracy. We leverage the Spearman test in the training set to find suitable hyper-parameters for PK initialization. The experimental results are as follows."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 292.37,
+            "t": 139.82528000000002,
+            "r": 519.6619599999999,
+            "b": 122.65664000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "Fig. 3. Test accuracy on real financial datasets. We performed 10 individual experiments from January 2016 to May 2019.",
+      "text": "Fig. 3. Test accuracy on real financial datasets. We performed 10 individual experiments from January 2016 to May 2019."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 292.37,
+            "t": 105.35472000000004,
+            "r": 539.23,
+            "b": 26.211360000000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            390
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.24,
+            "t": 712.41072,
+            "r": 274.68670000000003,
+            "b": 690.7513600000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            391,
+            464
+          ]
+        }
+      ],
+      "orig": "We can draw three conclusions from Figure 3. First, DNN and LSTM [10] do not  appear to provide good solutions  to  the  financial  time  series  problem.  DNN performs  poorly  due  to  non-stationary  noise,  as  does LSTM.  LSTM  is  more  powerful  for  addressing  time series data: it is good at fitting the data but not good at identifying the tendency. Thus, we still need to change the content, loss function or structure to address financial time series.",
+      "text": "We can draw three conclusions from Figure 3. First, DNN and LSTM [10] do not  appear to provide good solutions  to  the  financial  time  series  problem.  DNN performs  poorly  due  to  non-stationary  noise,  as  does LSTM.  LSTM  is  more  powerful  for  addressing  time series data: it is good at fitting the data but not good at identifying the tendency. Thus, we still need to change the content, loss function or structure to address financial time series."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.24,
+            "t": 741.6268799999999,
+            "r": 36.01488,
+            "b": 735.3842598895027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.24,
+            "t": 689.3507199999999,
+            "r": 277.1144000000001,
+            "b": 598.83136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            463
+          ]
+        }
+      ],
+      "orig": "Second,  PKN  sometimes  performs  better  than  PK but  sometimes  fails,  which  is  why  we  say  PKN  has potential to outperform traditional methods. However, its  training  loss  is  much  smaller  than  the  testing  loss. In  the  CSI300  Index  dataset,  this  spread  is  not  large; thus,  the  method  performs  well.  Moreover,  PKDN's training loss and testing loss  are  similar  in  almost  all cases, and PKDN performs well on all these datasets.",
+      "text": "Second,  PKN  sometimes  performs  better  than  PK but  sometimes  fails,  which  is  why  we  say  PKN  has potential to outperform traditional methods. However, its  training  loss  is  much  smaller  than  the  testing  loss. In  the  CSI300  Index  dataset,  this  spread  is  not  large; thus,  the  method  performs  well.  Moreover,  PKDN's training loss and testing loss  are  similar  in  almost  all cases, and PKDN performs well on all these datasets."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.24,
+            "t": 586.4252799999999,
+            "r": 272.88016000000005,
+            "b": 551.25664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            245
+          ]
+        }
+      ],
+      "orig": "Table 1. Test accuracy on real financial datasets (mean+-std). We perf ormed 10 individual experiments from January 2016 to May 2019. W e use the past 50 minutes of data to perform a binary classification fo r the next 1, 3, 6, 9 and 12 minutes.",
+      "text": "Table 1. Test accuracy on real financial datasets (mean+-std). We perf ormed 10 individual experiments from January 2016 to May 2019. W e use the past 50 minutes of data to perform a binary classification fo r the next 1, 3, 6, 9 and 12 minutes."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 33.12,
+            "t": 534.59992,
+            "r": 69.624,
+            "b": 523.87096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "CSI300",
+      "text": "CSI300"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 81.384,
+            "t": 534.59992,
+            "r": 114.26,
+            "b": 523.87096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "LSTM",
+      "text": "LSTM"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 124.1,
+            "t": 534.59992,
+            "r": 153.01999999999998,
+            "b": 523.87096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "DNN",
+      "text": "DNN"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 169.34,
+            "t": 534.59992,
+            "r": 186.5,
+            "b": 523.87096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "PK",
+      "text": "PK"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 204.65,
+            "t": 534.59992,
+            "r": 230.57,
+            "b": 523.87096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "PKN",
+      "text": "PKN"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 242.09,
+            "t": 534.59992,
+            "r": 276.65,
+            "b": 523.87096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "PKDN",
+      "text": "PKDN"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 34.8,
+            "t": 522.59992,
+            "r": 68.03232,
+            "b": 511.87096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Next 1",
+      "text": "Next 1"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 31.2,
+            "t": 511.19992,
+            "r": 71.544,
+            "b": 500.47096000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "minutes",
+      "text": "minutes"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.944,
+            "t": 521.12512,
+            "r": 102.39808,
+            "b": 513.0874112451861,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.580",
+      "text": "0.580"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.944,
+            "t": 509.72512,
+            "r": 110.07808,
+            "b": 501.6874112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.032",
+      "text": "±0.032"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.62,
+            "t": 521.12512,
+            "r": 150.74588,
+            "b": 513.0874112451861,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "0.628 ±",
+      "text": "0.628 ±"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.02,
+            "t": 509.72512,
+            "r": 145.47408000000001,
+            "b": 501.6874112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.037",
+      "text": "0.037"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 145.34,
+            "t": 509.35528000000005,
+            "r": 150.47,
+            "b": 501.18664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "*",
+      "text": "*"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 163.1,
+            "t": 521.12512,
+            "r": 182.55408000000003,
+            "b": 513.0874112451861,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.495",
+      "text": "0.495"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 163.1,
+            "t": 509.72512,
+            "r": 190.35408000000004,
+            "b": 501.6874112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.051",
+      "text": "±0.051"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 202.73,
+            "t": 521.12512,
+            "r": 222.18408000000002,
+            "b": 513.0874112451861,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.611",
+      "text": "0.611"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 202.73,
+            "t": 509.72512,
+            "r": 229.98408000000003,
+            "b": 501.6874112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.022",
+      "text": "±0.022"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 244.49,
+            "t": 521.12512,
+            "r": 263.94408,
+            "b": 513.0874112451861,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.587",
+      "text": "0.587"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 244.49,
+            "t": 509.72512,
+            "r": 271.74408,
+            "b": 501.6874112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.021",
+      "text": "±0.021"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 34.8,
+            "t": 499.67992,
+            "r": 68.03232,
+            "b": 488.95096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Next 3",
+      "text": "Next 3"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 31.2,
+            "t": 488.15992,
+            "r": 71.544,
+            "b": 477.43096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "minutes",
+      "text": "minutes"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.944,
+            "t": 498.20511999999997,
+            "r": 102.39808,
+            "b": 490.16741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.541",
+      "text": "0.541"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.944,
+            "t": 486.68512,
+            "r": 110.07808,
+            "b": 478.64741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.042",
+      "text": "±0.042"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.62,
+            "t": 498.20511999999997,
+            "r": 150.74588,
+            "b": 490.16741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "0.550 ±",
+      "text": "0.550 ±"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.02,
+            "t": 486.68512,
+            "r": 145.47408000000001,
+            "b": 478.64741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.082",
+      "text": "0.082"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 145.34,
+            "t": 486.31528000000003,
+            "r": 150.47,
+            "b": 478.14664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "*",
+      "text": "*"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 163.1,
+            "t": 498.20511999999997,
+            "r": 182.55408000000003,
+            "b": 490.16741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.494",
+      "text": "0.494"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 163.1,
+            "t": 486.68512,
+            "r": 190.35408000000004,
+            "b": 478.64741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.012",
+      "text": "±0.012"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 202.73,
+            "t": 498.20511999999997,
+            "r": 222.18408000000002,
+            "b": 490.16741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.572",
+      "text": "0.572"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 202.73,
+            "t": 486.68512,
+            "r": 229.98408000000003,
+            "b": 478.64741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.016",
+      "text": "±0.016"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 244.49,
+            "t": 498.20511999999997,
+            "r": 263.94408,
+            "b": 490.16741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.533",
+      "text": "0.533"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 244.49,
+            "t": 486.68512,
+            "r": 271.74408,
+            "b": 478.64741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.023",
+      "text": "±0.023"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 34.8,
+            "t": 476.63992,
+            "r": 68.03232,
+            "b": 465.91096000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Next 6",
+      "text": "Next 6"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 31.2,
+            "t": 465.11992,
+            "r": 71.544,
+            "b": 454.39096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "minutes",
+      "text": "minutes"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.944,
+            "t": 475.16512,
+            "r": 102.39808,
+            "b": 467.1274112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.521",
+      "text": "0.521"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.944,
+            "t": 463.64511999999996,
+            "r": 110.07808,
+            "b": 455.60741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.025",
+      "text": "±0.025"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.74,
+            "t": 475.16512,
+            "r": 143.19408000000004,
+            "b": 467.1274112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.518",
+      "text": "0.518"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.74,
+            "t": 463.64511999999996,
+            "r": 150.87408000000002,
+            "b": 455.60741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.031",
+      "text": "±0.031"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 163.1,
+            "t": 475.16512,
+            "r": 182.55408000000003,
+            "b": 467.1274112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.487",
+      "text": "0.487"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 163.1,
+            "t": 463.64511999999996,
+            "r": 190.35408000000004,
+            "b": 455.60741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.042",
+      "text": "±0.042"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 202.73,
+            "t": 475.16512,
+            "r": 222.18408000000002,
+            "b": 467.1274112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.535",
+      "text": "0.535"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 202.73,
+            "t": 463.64511999999996,
+            "r": 229.98408000000003,
+            "b": 455.60741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.041",
+      "text": "±0.041"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 244.49,
+            "t": 475.16512,
+            "r": 271.61588,
+            "b": 467.1274112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "0.585 ±",
+      "text": "0.585 ±"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 246.77,
+            "t": 463.64511999999996,
+            "r": 266.22407999999996,
+            "b": 455.60741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.012",
+      "text": "0.012"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 266.09,
+            "t": 463.27528,
+            "r": 271.21999999999997,
+            "b": 455.10663999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "*",
+      "text": "*"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 34.8,
+            "t": 453.59992,
+            "r": 68.03232,
+            "b": 442.87096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Next 9",
+      "text": "Next 9"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 31.2,
+            "t": 442.19992,
+            "r": 71.544,
+            "b": 431.47096000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "minutes",
+      "text": "minutes"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.944,
+            "t": 452.12512,
+            "r": 102.39808,
+            "b": 444.08741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.466",
+      "text": "0.466"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.944,
+            "t": 440.72512,
+            "r": 110.07808,
+            "b": 432.6874112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.067",
+      "text": "±0.067"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.74,
+            "t": 452.12512,
+            "r": 143.19408000000004,
+            "b": 444.08741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.474",
+      "text": "0.474"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.74,
+            "t": 440.72512,
+            "r": 150.87408000000002,
+            "b": 432.6874112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.064",
+      "text": "±0.064"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 163.1,
+            "t": 452.12512,
+            "r": 182.55408000000003,
+            "b": 444.08741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.519",
+      "text": "0.519"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 163.1,
+            "t": 440.72512,
+            "r": 190.35408000000004,
+            "b": 432.6874112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.025",
+      "text": "±0.025"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 202.73,
+            "t": 452.12512,
+            "r": 222.18408000000002,
+            "b": 444.08741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.521",
+      "text": "0.521"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 202.73,
+            "t": 440.72512,
+            "r": 229.98408000000003,
+            "b": 432.6874112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.055",
+      "text": "±0.055"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 244.49,
+            "t": 452.12512,
+            "r": 271.61588,
+            "b": 444.08741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "0.564 ±",
+      "text": "0.564 ±"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 246.77,
+            "t": 440.72512,
+            "r": 266.22407999999996,
+            "b": 432.6874112451862,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.026",
+      "text": "0.026"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 266.09,
+            "t": 440.35528000000005,
+            "r": 271.21999999999997,
+            "b": 432.18664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "*",
+      "text": "*"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 32.16,
+            "t": 430.67992,
+            "r": 70.67232,
+            "b": 419.95096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Next 12",
+      "text": "Next 12"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 31.2,
+            "t": 419.15992,
+            "r": 71.544,
+            "b": 408.43096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "minutes",
+      "text": "minutes"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.944,
+            "t": 429.20511999999997,
+            "r": 102.39808,
+            "b": 421.16741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.486",
+      "text": "0.486"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.944,
+            "t": 417.68512,
+            "r": 110.07808,
+            "b": 409.64741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.082",
+      "text": "±0.082"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.74,
+            "t": 429.20511999999997,
+            "r": 143.19408000000004,
+            "b": 421.16741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.493",
+      "text": "0.493"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.74,
+            "t": 417.68512,
+            "r": 150.87408000000002,
+            "b": 409.64741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.027",
+      "text": "±0.027"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 163.1,
+            "t": 429.20511999999997,
+            "r": 182.55408000000003,
+            "b": 421.16741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.515",
+      "text": "0.515"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 163.1,
+            "t": 417.68512,
+            "r": 190.35408000000004,
+            "b": 409.64741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.039",
+      "text": "±0.039"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 202.73,
+            "t": 429.20511999999997,
+            "r": 222.18408000000002,
+            "b": 421.16741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.510",
+      "text": "0.510"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 202.73,
+            "t": 417.68512,
+            "r": 229.98408000000003,
+            "b": 409.64741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "±0.025",
+      "text": "±0.025"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 244.49,
+            "t": 429.20511999999997,
+            "r": 271.61588,
+            "b": 421.16741124518614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "0.544 ±",
+      "text": "0.544 ±"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 246.77,
+            "t": 417.68512,
+            "r": 266.22407999999996,
+            "b": 409.64741124518616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "0.035",
+      "text": "0.035"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 266.09,
+            "t": 417.31528000000003,
+            "r": 271.21999999999997,
+            "b": 409.14664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "*",
+      "text": "*"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.24,
+            "t": 390.52072000000004,
+            "r": 277.1,
+            "b": 225.34136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            690
+          ]
+        }
+      ],
+      "orig": "From Table 1, we find that DNN is powerful when we  need  to  make  a  prediction  for  the  next  1  or  3 minutes,  which  is  trivial  because  the  index  will  not change substantially within 1 or 3 minutes. The overfitting  problem  does  not  appear  if  we  want  to  predict only in the short term. In addition, in the short  term, our  PK  is  not  truly  effective,  as  indicated  by  the  performance of PK. However, when we make a long-term prediction, the index changes greatly enough to cover trading  fees.  In  addition,  the  overfitting occurs  in DNNs, but our  PK  works  well:  our  PKN  and  PKDN methods show relative strength compared to the traditional method PK.",
+      "text": "From Table 1, we find that DNN is powerful when we  need  to  make  a  prediction  for  the  next  1  or  3 minutes,  which  is  trivial  because  the  index  will  not change substantially within 1 or 3 minutes. The overfitting  problem  does  not  appear  if  we  want  to  predict only in the short term. In addition, in the short  term, our  PK  is  not  truly  effective,  as  indicated  by  the  performance of PK. However, when we make a long-term prediction, the index changes greatly enough to cover trading  fees.  In  addition,  the  overfitting occurs  in DNNs, but our  PK  works  well:  our  PKN  and  PKDN methods show relative strength compared to the traditional method PK."
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.24,
+            "t": 222.50072,
+            "r": 276.78984,
+            "b": 160.63135999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "Since  we  do  not  know  the  true  PK  for  the  realworld time series, the test  results may not fully illustrate the performance of PKD. To further support our idea  and  determine  why  it  works,  we  conduct  structured experiments.",
+      "text": "Since  we  do  not  know  the  true  PK  for  the  realworld time series, the test  results may not fully illustrate the performance of PKD. To further support our idea  and  determine  why  it  works,  we  conduct  structured experiments."
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.24,
+            "t": 142.49263999999994,
+            "r": 182.42,
+            "b": 130.78832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "4 STRUCTURED EXPERIMENTS",
+      "text": "4 STRUCTURED EXPERIMENTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.24,
+            "t": 122.58992,
+            "r": 273.62,
+            "b": 111.86095999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "4.1 DNN has trouble learning financial time series",
+      "text": "4.1 DNN has trouble learning financial time series",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 30.24,
+            "t": 108.71072000000004,
+            "r": 277.08656,
+            "b": 41.11536000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            333
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 286.61,
+            "t": 712.41072,
+            "r": 533.47,
+            "b": 598.83136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            334,
+            849
+          ]
+        }
+      ],
+      "orig": "In this section, we use structured experiments to illustrate  the  advantages  and  disadvantages  of  each  algorithm mentioned above. On the basis of these experiments,  we  explain  why  PKD  outperforms  the  other algorithms.  DNNs  are  powerful  in  many  natural  science  fields,  such  as  pattern  recognition  and  speech recognition. In cases with a series composed of PK and unpredictable noise,  a DNN (equipped with dropout, generalization,  pruning  and  other  basic  techniques) will perform well if the noise is stationary. However, if the noise is non-stationary, the outstanding fitting ability  of  DNNs  will  become  a  burden.  The  training  set includes a trap that negatively affects the DNN, but the real knowledge in the test sets is in the opposite direction.  Here,  we  use  two  experiments  to  support  our idea.",
+      "text": "In this section, we use structured experiments to illustrate  the  advantages  and  disadvantages  of  each  algorithm mentioned above. On the basis of these experiments,  we  explain  why  PKD  outperforms  the  other algorithms.  DNNs  are  powerful  in  many  natural  science  fields,  such  as  pattern  recognition  and  speech recognition. In cases with a series composed of PK and unpredictable noise,  a DNN (equipped with dropout, generalization,  pruning  and  other  basic  techniques) will perform well if the noise is stationary. However, if the noise is non-stationary, the outstanding fitting ability  of  DNNs  will  become  a  burden.  The  training  set includes a trap that negatively affects the DNN, but the real knowledge in the test sets is in the opposite direction.  Here,  we  use  two  experiments  to  support  our idea."
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "code",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 519.94,
+            "t": 570.31936,
+            "r": 533.35,
+            "b": 519.37768,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "(3) (4)",
+      "text": "(3) (4)",
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "code_language": "unknown"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 286.61,
+            "t": 517.36072,
+            "r": 533.49328,
+            "b": 288.70135999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1151
+          ]
+        }
+      ],
+      "orig": "Let a Gaussian distribution with a mean of 0 and a standard  deviation  of  1  represent  stationary  noise,  as shown in formula 3. Let the 10th price in the input series  minus  the  15th  price  in  the  input  series  present non-stationary noise. Noise is  an  independent variable that represents the noise level, as shown in formula 4. The label is determined by the value of Y : if Y is larger than 0, we set the label to 1; otherwise, we set the label to 0. As shown in Figure 4(a), the DNN outperforms all the other algorithms. When the Gaussian noise is large, the  DNN  still  has  high  classification  accuracy.  This strong fitting ability, which we call 'machine logic', can handle stationary noise; however, as shown in Figure 4(b),  the  performance  drops  quickly.  Because  it  has strong  fitting  ability,  if  we  teach  the  DNN  with  nonstationary noise in the training set, the noise prevents it  from  learning  the  information  in  the  time  series completely. As a result, the DNN will fail in a testing set with an entirely different type of noise. In most cases, the noise in financial time series is non-stationary.",
+      "text": "Let a Gaussian distribution with a mean of 0 and a standard  deviation  of  1  represent  stationary  noise,  as shown in formula 3. Let the 10th price in the input series  minus  the  15th  price  in  the  input  series  present non-stationary noise. Noise is  an  independent variable that represents the noise level, as shown in formula 4. The label is determined by the value of Y : if Y is larger than 0, we set the label to 1; otherwise, we set the label to 0. As shown in Figure 4(a), the DNN outperforms all the other algorithms. When the Gaussian noise is large, the  DNN  still  has  high  classification  accuracy.  This strong fitting ability, which we call 'machine logic', can handle stationary noise; however, as shown in Figure 4(b),  the  performance  drops  quickly.  Because  it  has strong  fitting  ability,  if  we  teach  the  DNN  with  nonstationary noise in the training set, the noise prevents it  from  learning  the  information  in  the  time  series completely. As a result, the DNN will fail in a testing set with an entirely different type of noise. In most cases, the noise in financial time series is non-stationary."
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 286.61,
+            "t": 287.42072,
+            "r": 533.47,
+            "b": 173.71136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            532
+          ]
+        }
+      ],
+      "orig": "A DNN is good at fitting any formula, but it is difficult to prevent it from fitting the noise. With the help of  PK  and  a  reasonable  network  structure, we can let the  neural  network focus  on  PK  but not fit the entire formula without restriction.  As shown  in  Figure  4(b), the PK is simply our deep belief: as the noise level increases, the DNN fails completely. However, PKN and PKDN are highly stable. When the noise level is high, DNN will chase the non-stationary noise, but our algorithms focus on the deep belief.",
+      "text": "A DNN is good at fitting any formula, but it is difficult to prevent it from fitting the noise. With the help of  PK  and  a  reasonable  network  structure, we can let the  neural  network focus  on  PK  but not fit the entire formula without restriction.  As shown  in  Figure  4(b), the PK is simply our deep belief: as the noise level increases, the DNN fails completely. However, PKN and PKDN are highly stable. When the noise level is high, DNN will chase the non-stationary noise, but our algorithms focus on the deep belief."
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 286.61,
+            "t": 165.06992000000002,
+            "r": 460.65999999999997,
+            "b": 154.34096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "4.2 Prior knowledge can be updated",
+      "text": "4.2 Prior knowledge can be updated",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 286.61,
+            "t": 151.31071999999995,
+            "r": 533.47,
+            "b": 83.71536000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            296
+          ]
+        }
+      ],
+      "orig": "The PK hyper-parameters can be optimized by training the PKN. Although we use the Spearman correlation to find a good initial hyper-parameter setting in training sets, the values can still be tuned by the powerful fully connected neural network. We conduct an experiment to illustrate this point.",
+      "text": "The PK hyper-parameters can be optimized by training the PKN. Although we use the Spearman correlation to find a good initial hyper-parameter setting in training sets, the values can still be tuned by the powerful fully connected neural network. We conduct an experiment to illustrate this point."
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 517.54,
+            "t": 57.48335999999995,
+            "r": 533.35,
+            "b": 47.85167999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "(5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 548.26,
+            "t": 741.6268799999999,
+            "r": 554.03488,
+            "b": 735.3842598895027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.0,
+            "t": 712.41072,
+            "r": 282.86,
+            "b": 621.7513600000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            423
+          ]
+        }
+      ],
+      "orig": "As shown in formula 5, we use 15 and 30 to initialize the SMA and 15 to initialize the ROC and add some noise  to  this  parameter  set.  The  results  are  shown  in Figure 4(c): regardless of the hyper-parameter settings, PKDN always learns better than PK because it can fine-tune the distance, which is not possible in traditional methods. Sometimes, PKN performs worse than PK, likely because of the large network size.",
+      "text": "As shown in formula 5, we use 15 and 30 to initialize the SMA and 15 to initialize the ROC and add some noise  to  this  parameter  set.  The  results  are  shown  in Figure 4(c): regardless of the hyper-parameter settings, PKDN always learns better than PK because it can fine-tune the distance, which is not possible in traditional methods. Sometimes, PKN performs worse than PK, likely because of the large network size."
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.0,
+            "t": 601.70992,
+            "r": 253.47055999999998,
+            "b": 579.94096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "4.3 Student networks can outperform teacher networks in some cases",
+      "text": "4.3 Student networks can outperform teacher networks in some cases",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.0,
+            "t": 576.91072,
+            "r": 282.86,
+            "b": 428.76135999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            699
+          ]
+        }
+      ],
+      "orig": "Two networks are commonly used in knowledge distillation  [8]:  teacher  networks  and  student  networks. Normally, people use the teacher model to learn complicated  tasks  and  let  it  teach  much  smaller  student networks. In natural science fields, this technique is a popular way to accelerate a model. However, very few cases  exist  where  the  student  networks  outperform teacher network, which occurs in our case. The teacher network learns only PK and has a relatively large network size. The student network learns only the labels initially. The student networks have different knowledge, and we use co-distillation to let them learn from each other. The loss function is as follows:",
+      "text": "Two networks are commonly used in knowledge distillation  [8]:  teacher  networks  and  student  networks. Normally, people use the teacher model to learn complicated  tasks  and  let  it  teach  much  smaller  student networks. In natural science fields, this technique is a popular way to accelerate a model. However, very few cases  exist  where  the  student  networks  outperform teacher network, which occurs in our case. The teacher network learns only PK and has a relatively large network size. The student network learns only the labels initially. The student networks have different knowledge, and we use co-distillation to let them learn from each other. The loss function is as follows:"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 269.33,
+            "t": 386.80936,
+            "r": 282.74,
+            "b": 377.17768,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "(6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.0,
+            "t": 364.22072000000003,
+            "r": 282.86,
+            "b": 193.03135999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            842
+          ]
+        }
+      ],
+      "orig": "Because the student networks are small, we choose the  student  network  as  the  final  model.  Furthermore, the  student  network  has  all  the  PK  contained  in  the teacher network and is less likely to over fit the data, which is why the student network is so powerful. Finally, as mentioned in section 2, dropout and generalization will lower the representation performance based on  PK.  Thus,  the  overfitting  problem  is  almost unavoidable  in  PKN,  and  distilling  the  teacher  network into a smaller network is the tailored setting for this  algorithm.  To  support  this  idea,  let  us  consider Figure  4.  In  all  cases,  the  test  accuracy  of  PKDN  is higher than that of PKN. As the noise level increases, the test accuracy of PKDN decreases more slowly than that of PKN, which illustrates the robustness of PKDN.",
+      "text": "Because the student networks are small, we choose the  student  network  as  the  final  model.  Furthermore, the  student  network  has  all  the  PK  contained  in  the teacher network and is less likely to over fit the data, which is why the student network is so powerful. Finally, as mentioned in section 2, dropout and generalization will lower the representation performance based on  PK.  Thus,  the  overfitting  problem  is  almost unavoidable  in  PKN,  and  distilling  the  teacher  network into a smaller network is the tailored setting for this  algorithm.  To  support  this  idea,  let  us  consider Figure  4.  In  all  cases,  the  test  accuracy  of  PKDN  is higher than that of PKN. As the noise level increases, the test accuracy of PKDN decreases more slowly than that of PKN, which illustrates the robustness of PKDN."
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.0,
+            "t": 191.63072,
+            "r": 282.86,
+            "b": 124.03135999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            296
+          ]
+        }
+      ],
+      "orig": "After  analyzing  these  advantages,  we  consider  a generalized  situation  that  is  common  in  the  financial time series problem. In the real dataset experiment, we find that the Chinese stock index follows this structure. In  this  situation,  our  algorithm  can  show  its  strongpoints.",
+      "text": "After  analyzing  these  advantages,  we  consider  a generalized  situation  that  is  common  in  the  financial time series problem. In the real dataset experiment, we find that the Chinese stock index follows this structure. In  this  situation,  our  algorithm  can  show  its  strongpoints."
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 269.33,
+            "t": 80.40336000000002,
+            "r": 282.74,
+            "b": 70.77168000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "(7)",
+      "text": "(7)"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.0,
+            "t": 69.23472000000004,
+            "r": 280.46,
+            "b": 24.53135999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 292.37,
+            "t": 712.41072,
+            "r": 536.8526799999999,
+            "b": 644.79136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            215,
+            537
+          ]
+        }
+      ],
+      "orig": "DNN performs well initially but fails immediately when the non-stationary noise level increases. PK fluct uates greatly due to its fixed hyper-parameter settings. Sometimes, the PK adds up the noise to become a new distribution that is similar. In this case, PK performs w ell. However, this situation is just a coincidence. A mor e reasonable method is our PKDN, which learns prior knowledge and distills all the knowledge into a smalle r network to overcome the overfitting problem in cases of both stationary and non-stationary noise.",
+      "text": "DNN performs well initially but fails immediately when the non-stationary noise level increases. PK fluct uates greatly due to its fixed hyper-parameter settings. Sometimes, the PK adds up the noise to become a new distribution that is similar. In this case, PK performs w ell. However, this situation is just a coincidence. A mor e reasonable method is our PKDN, which learns prior knowledge and distills all the knowledge into a smalle r network to overcome the overfitting problem in cases of both stationary and non-stationary noise."
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 292.37,
+            "t": 389.32312,
+            "r": 521.7628000000002,
+            "b": 364.0918174585635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "Fig. 4. Structured experiments to illustrate why DNN fails in nonstationary time series and why PKD and PKN are more powerful than PK.",
+      "text": "Fig. 4. Structured experiments to illustrate why DNN fails in nonstationary time series and why PKD and PKN are more powerful than PK."
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 292.37,
+            "t": 345.63656,
+            "r": 395.812,
+            "b": 335.3039474033149,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "4  CONCLUSIONS",
+      "text": "4  CONCLUSIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 292.37,
+            "t": 328.82072,
+            "r": 539.2104400000001,
+            "b": 226.78135999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            481
+          ]
+        }
+      ],
+      "orig": "In  real  quantitative  trading,  the  DNN  and  LSTM are  not  as  useful  as  our  proposed  method.  DNN  can over fit non-stationary noise, which makes it powerful in predicting short-term rises or falls but causes failure in the case of transaction fees. Moreover, research has shown that LSTM simply mimics the previous state in stock time series  and  cannot  provide  information about the tendency, which makes it almost useless in current quantitative trading algorithms.",
+      "text": "In  real  quantitative  trading,  the  DNN  and  LSTM are  not  as  useful  as  our  proposed  method.  DNN  can over fit non-stationary noise, which makes it powerful in predicting short-term rises or falls but causes failure in the case of transaction fees. Moreover, research has shown that LSTM simply mimics the previous state in stock time series  and  cannot  provide  information about the tendency, which makes it almost useless in current quantitative trading algorithms."
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 292.37,
+            "t": 225.38072,
+            "r": 539.2300200000001,
+            "b": 65.71536000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            763
+          ]
+        }
+      ],
+      "orig": "Finance is a subject that has a high correlation with people's sentiment and intelligence. Moreover, finance is  so  unstable  that  powerful  methods  for  pattern recognition  and  natural  language  processing  perform poorly in this area. Our research is focused on this specific  problem,  and  we  develop  a  new  algorithm  that has  both  a  neural  network and the advantages of the traditional method. We think the prior knowledge can serve  as  the  algorithm's  deep  belief.  It  will  guide  its gradient descent process and let it not be  affected  by the non-stationary noise.  We believe that this method can  provide  a  good  basis  for  deep  learning  applications  in  quantitative  trading,  from  the  perspective  of feature engineering.",
+      "text": "Finance is a subject that has a high correlation with people's sentiment and intelligence. Moreover, finance is  so  unstable  that  powerful  methods  for  pattern recognition  and  natural  language  processing  perform poorly in this area. Our research is focused on this specific  problem,  and  we  develop  a  new  algorithm  that has  both  a  neural  network and the advantages of the traditional method. We think the prior knowledge can serve  as  the  algorithm's  deep  belief.  It  will  guide  its gradient descent process and let it not be  affected  by the non-stationary noise.  We believe that this method can  provide  a  good  basis  for  deep  learning  applications  in  quantitative  trading,  from  the  perspective  of feature engineering."
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 30.24,
+            "t": 741.6268799999999,
+            "r": 36.01488,
+            "b": 735.3842598895027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 30.24,
+            "t": 712.1971199999999,
+            "r": 96.33312,
+            "b": 702.2950329281767,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 30.24,
+            "t": 694.963,
+            "r": 276.642,
+            "b": 663.5009469122427,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "[1] Kim T Y, Oh K J, Kim C, et al. Artificial neural networks for non-stationary time series[J]. Neurocomputing, 2004, 61: 439447.",
+      "text": "Kim T Y, Oh K J, Kim C, et al. Artificial neural networks for non-stationary time series[J]. Neurocomputing, 2004, 61: 439447.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 30.24,
+            "t": 660.523,
+            "r": 276.818,
+            "b": 628.9409469122428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "[2] Angstenberger  L.  Dynamic  fuzzy  pattern  recognition  with applications to finance and engineering[M]. Springer Science & Business Media, 2013.",
+      "text": "Angstenberger  L.  Dynamic  fuzzy  pattern  recognition  with applications to finance and engineering[M]. Springer Science & Business Media, 2013.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 30.24,
+            "t": 625.963,
+            "r": 276.81000000000006,
+            "b": 582.9809469122428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            240
+          ]
+        }
+      ],
+      "orig": "[3] Srivastava,  N.,  Hinton,  G.,  Krizhevsky,  A.,  Sutskever,  I.,  & Salakhutdinov,  R.  (2014).  Dropout:  a  simple  way  to  prevent neural  networks  from  overfitting.  The  Journal  of  Machine Learning Research, 15(1), 1929-1958.",
+      "text": "Srivastava,  N.,  Hinton,  G.,  Krizhevsky,  A.,  Sutskever,  I.,  & Salakhutdinov,  R.  (2014).  Dropout:  a  simple  way  to  prevent neural  networks  from  overfitting.  The  Journal  of  Machine Learning Research, 15(1), 1929-1958.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 30.24,
+            "t": 580.003,
+            "r": 276.7680000000001,
+            "b": 548.4209469122427,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "[4] Bengio Y, Courville A, Vincent P. Representation learning: A review and new perspectives[J]. IEEE transactions on pattern analysis and machine intelligence, 2013, 35(8): 1798-1828.",
+      "text": "Bengio Y, Courville A, Vincent P. Representation learning: A review and new perspectives[J]. IEEE transactions on pattern analysis and machine intelligence, 2013, 35(8): 1798-1828.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 30.24,
+            "t": 545.563,
+            "r": 276.7410000000002,
+            "b": 513.9509469122428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "[5] Long M, Wang J, Ding G, et al. Transfer feature learning with joint distribution adaptation[C]//Proceedings of the IEEE international conference on computer vision. 2013: 2200-2207.",
+      "text": "Long M, Wang J, Ding G, et al. Transfer feature learning with joint distribution adaptation[C]//Proceedings of the IEEE international conference on computer vision. 2013: 2200-2207.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 30.24,
+            "t": 510.973,
+            "r": 276.84200000000016,
+            "b": 479.39094691224267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "[6] Garla V N, Brandt C. Ontology-guided feature engineering for clinical text classification[J]. Journal of biomedical informatics, 2012, 45(5): 992-998.",
+      "text": "Garla V N, Brandt C. Ontology-guided feature engineering for clinical text classification[J]. Journal of biomedical informatics, 2012, 45(5): 992-998.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 30.24,
+            "t": 476.533,
+            "r": 276.795,
+            "b": 444.95094691224267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "[7] Hinton,  G.,  Vinyals,  O.,  &  Dean,  J.  (2015).  Distilling  the knowledge in a neural network. arXiv preprint arXiv:1503.02531.",
+      "text": "Hinton,  G.,  Vinyals,  O.,  &  Dean,  J.  (2015).  Distilling  the knowledge in a neural network. arXiv preprint arXiv:1503.02531.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 30.24,
+            "t": 441.973,
+            "r": 276.809,
+            "b": 398.9909469122427,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "[8] Anil, R., Pereyra, G., Passos, A., Ormandi, R., Dahl, G. E., & Hinton,  G.  E.  (2018).  Large  scale  distributed  neural  network training through online distillation. arXiv preprint arXiv:1804.03235.",
+      "text": "Anil, R., Pereyra, G., Passos, A., Ormandi, R., Dahl, G. E., & Hinton,  G.  E.  (2018).  Large  scale  distributed  neural  network training through online distillation. arXiv preprint arXiv:1804.03235.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 30.24,
+            "t": 396.01300000000003,
+            "r": 275.20700000000005,
+            "b": 375.95094691224267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "[9] Fuller R J. Behavioral finance and the sources of alpha[J]. Journal of Pension Plan Investing, 1998, 2(3): 291-293.",
+      "text": "Fuller R J. Behavioral finance and the sources of alpha[J]. Journal of Pension Plan Investing, 1998, 2(3): 291-293.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 30.24,
+            "t": 372.95300000000003,
+            "r": 276.85099999999994,
+            "b": 341.3709469122427,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "[10] Karim F, Majumdar S, Darabi H, et al. Multivariate lstm-fcns for  time  series  classification[J].  Neural  Networks,  2019,  116: 237-245.",
+      "text": "Karim F, Majumdar S, Darabi H, et al. Multivariate lstm-fcns for  time  series  classification[J].  Neural  Networks,  2019,  116: 237-245.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 30.24,
+            "t": 315.002,
+            "r": 277.112,
+            "b": 270.92964640883974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "Jie Fang is pursuing Master's Degree at Tsinghua Shenzhen International  Graduate  School.  His  research  interests  are financial  feature  engineering,  reinforcement  learning  and meta learning.",
+      "text": "Jie Fang is pursuing Master's Degree at Tsinghua Shenzhen International  Graduate  School.  His  research  interests  are financial  feature  engineering,  reinforcement  learning  and meta learning."
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 30.24,
+            "t": 243.84199999999998,
+            "r": 277.112,
+            "b": 136.7396464088398,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            542
+          ]
+        }
+      ],
+      "orig": "Jianwu Lin received a dual Bachelor's degree in Engineering and Economics and a Master's of Engineering at Tsinghua University and a Ph.D. and dual master's degree at the University of Pennsylvania. Dr. Lin is a finance professor at Tsinghua  Shenzhen  International  Graduate  School.  His  research interests include Financial Technology, Financial Engineering,  Meta  Learning,  Machine  Learning,  Behavioral  Finance, Quantitative Investment and Robo-advising, Financial Risk  Management,  Internet  Finance  and  Supply  Chain  Finance.",
+      "text": "Jianwu Lin received a dual Bachelor's degree in Engineering and Economics and a Master's of Engineering at Tsinghua University and a Ph.D. and dual master's degree at the University of Pennsylvania. Dr. Lin is a finance professor at Tsinghua  Shenzhen  International  Graduate  School.  His  research interests include Financial Technology, Financial Engineering,  Meta  Learning,  Machine  Learning,  Behavioral  Finance, Quantitative Investment and Robo-advising, Financial Risk  Management,  Internet  Finance  and  Supply  Chain  Finance."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 73.5446548461914,
+            "t": 474.5596008300781,
+            "r": 237.1238250732422,
+            "b": 236.4930419921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 65.654052734375,
+            "t": 619.2742919921875,
+            "r": 247.020263671875,
+            "b": 181.90234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 327.4563293457031,
+            "t": 362.4938049316406,
+            "r": 492.155029296875,
+            "b": 150.55194091796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/135"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 300.752685546875,
+            "t": 629.2140808105469,
+            "r": 535.5358276367188,
+            "b": 397.1539001464844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/135"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/groups/1"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 23.419532775878906,
+            "t": 538.7364196777344,
+            "r": 280.66217041015625,
+            "b": 407.7506103515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/1"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 567.0,
+        "height": 774.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 567.0,
+        "height": 774.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 567.0,
+        "height": 774.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 567.0,
+        "height": 774.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 567.0,
+        "height": 774.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 567.0,
+        "height": 774.0
+      },
+      "page_no": 6
+    }
+  }
+}

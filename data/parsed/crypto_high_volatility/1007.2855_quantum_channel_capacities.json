@@ -1,0 +1,3844 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1007.2855_quantum_channel_capacities",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12146810628678896849,
+    "filename": "1007.2855_quantum_channel_capacities.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/groups/1"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "content_layer": "body",
+      "name": "rich_cell_group_1_0_0",
+      "label": "unspecified"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 579.3000000000001,
+            "r": 36.206559297218156,
+            "b": 256.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "arXiv:1007.2855v1  [cs.IT]  16 Jul 2010",
+      "text": "arXiv:1007.2855v1  [cs.IT]  16 Jul 2010",
+      "hyperlink": "http://arxiv.org/abs/1007.2855v1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 163.44,
+            "t": 729.5886848,
+            "r": 448.26152190310415,
+            "b": 708.7309742289898,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Quantum Channel Capacities",
+      "text": "Quantum Channel Capacities",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 273.6,
+            "t": 689.5745918,
+            "r": 338.2393588396835,
+            "b": 680.0148368658857,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Graeme Smith",
+      "text": "Graeme Smith"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 238.31990000000002,
+            "t": 676.43496768,
+            "r": 373.7572736692872,
+            "b": 630.7844782041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "IBM TJ Watson Research Center 1101 Kitchawan Road Yorktown NY 10598 gsbsmith@gmail.com",
+      "text": "IBM TJ Watson Research Center 1101 Kitchawan Road Yorktown NY 10598 gsbsmith@gmail.com"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.960179999999895,
+            "t": 588.6610728800002,
+            "r": 300.12795663315813,
+            "b": 491.03415687414366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            592
+          ]
+        }
+      ],
+      "orig": "Abstract -A quantum communication channel can be put to many uses: it can transmit classical information, private classical information, or quantum information. It can be used alone, with shared entanglement, or together with other channels. For each of these settings there is a capacity that quantifies a channel's potential for communication. In this short review, I summarize what is known about the various capacities of a quantum channel, including a discussion of the relevant additivity questions. I also give some indication of potentially interesting directions for future research.",
+      "text": "Abstract -A quantum communication channel can be put to many uses: it can transmit classical information, private classical information, or quantum information. It can be used alone, with shared entanglement, or together with other channels. For each of these settings there is a capacity that quantifies a channel's potential for communication. In this short review, I summarize what is known about the various capacities of a quantum channel, including a discussion of the relevant additivity questions. I also give some indication of potentially interesting directions for future research."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.99929,
+            "t": 589.1946876800001,
+            "r": 563.1168907764944,
+            "b": 520.7441982041584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            349
+          ]
+        }
+      ],
+      "orig": "must consider the quantum capacity of our channel, and if we have access to arbitrary quantum correlations between sender and receiver the relevant capacity is the entanglement assisted capacity . In general, these capacities are all different, which gives a variety of inequivalent ways to quantify the value of a quantum channel for communication.",
+      "text": "must consider the quantum capacity of our channel, and if we have access to arbitrary quantum correlations between sender and receiver the relevant capacity is the entanglement assisted capacity . In general, these capacities are all different, which gives a variety of inequivalent ways to quantify the value of a quantum channel for communication."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 135.5999799999999,
+            "t": 476.6352876800002,
+            "r": 213.23328376326296,
+            "b": 467.9445982041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "I. INTRODUCTION",
+      "text": "I. INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.9601099999999,
+            "t": 458.6352876800002,
+            "r": 300.3307592955751,
+            "b": 366.3042982041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            458
+          ]
+        }
+      ],
+      "orig": "The capacity of a noisy communication channel for noiseless information transmission is a central quantity in the study of information theory [1]. This capacity establishes the ultimate boundary between communication rates which are achievable in principle and those which are not. Furthermore, knowing a noisy channel's capacity can guide the design of explicit coding strategies as well as giving us a benchmark for testing practical communication schemes.",
+      "text": "The capacity of a noisy communication channel for noiseless information transmission is a central quantity in the study of information theory [1]. This capacity establishes the ultimate boundary between communication rates which are achievable in principle and those which are not. Furthermore, knowing a noisy channel's capacity can guide the design of explicit coding strategies as well as giving us a benchmark for testing practical communication schemes."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.959589999999906,
+            "t": 362.51488768000013,
+            "r": 300.25016560662243,
+            "b": 270.18429820415815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            444
+          ]
+        }
+      ],
+      "orig": "The usual starting point for information theory is to model the communication channel stochastically. We think of a channel as a noisy mapping of some input x to an output y according to some transition probabilities, p ( y | x ) . Then, we can find a simple formula for a channel's capacity as a function of these parameters: it's the maximum mutual information that can be generated between input and output given a single use of the channel.",
+      "text": "The usual starting point for information theory is to model the communication channel stochastically. We think of a channel as a noisy mapping of some input x to an output y according to some transition probabilities, p ( y | x ) . Then, we can find a simple formula for a channel's capacity as a function of these parameters: it's the maximum mutual information that can be generated between input and output given a single use of the channel."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.959589999999906,
+            "t": 266.39488768,
+            "r": 300.46292986105607,
+            "b": 66.42399820415824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1036
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.99929,
+            "t": 517.3145876800002,
+            "r": 563.3699136600278,
+            "b": 448.86409820415827,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1037,
+            1391
+          ]
+        }
+      ],
+      "orig": "However, this model is not rich enough to include quantum effects. Therefore, it's necessary to develop a more general information theory that takes quantum mechanics into account. Quantum information theory addresses the question of noisy data transmission above, but also explores applications of quantum effects to other communication and cryptographic tasks. As a result a quantum channel has a variety of capacities, each of which characterize its capability for achieving a different kind of communication task. For example, the most direct analogue of the capacity mentioned above is the classical capacity of a quantum channel, which tells us the best rate at which the channel can transmit classical information from sender to receiver. The private classical capacity of a quantum channel quantifies its capability for quantum cryptography [2], and has close connections to the capacity of a wire-tap channel as considered by Wyner [3] and Csiszar-Korner [4]. If we are interested in coherently transmitting a quantum state, we The communication capacities of a quantum channel are not nearly as well understood as their classical counterparts, and many basic questions about quantum capacities remain open. The purpose of this paper is to give an introduction to a quantum channel's capacities, summarize what we know about them, and point towards some important unsolved problems.",
+      "text": "However, this model is not rich enough to include quantum effects. Therefore, it's necessary to develop a more general information theory that takes quantum mechanics into account. Quantum information theory addresses the question of noisy data transmission above, but also explores applications of quantum effects to other communication and cryptographic tasks. As a result a quantum channel has a variety of capacities, each of which characterize its capability for achieving a different kind of communication task. For example, the most direct analogue of the capacity mentioned above is the classical capacity of a quantum channel, which tells us the best rate at which the channel can transmit classical information from sender to receiver. The private classical capacity of a quantum channel quantifies its capability for quantum cryptography [2], and has close connections to the capacity of a wire-tap channel as considered by Wyner [3] and Csiszar-Korner [4]. If we are interested in coherently transmitting a quantum state, we The communication capacities of a quantum channel are not nearly as well understood as their classical counterparts, and many basic questions about quantum capacities remain open. The purpose of this paper is to give an introduction to a quantum channel's capacities, summarize what we know about them, and point towards some important unsolved problems."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 354.47938999999997,
+            "t": 437.8746876800002,
+            "r": 520.4294508203378,
+            "b": 429.1839982041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "II. QUANTUM STATES AND CHANNELS",
+      "text": "II. QUANTUM STATES AND CHANNELS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.99961,
+            "t": 422.03488768000017,
+            "r": 563.2379527323578,
+            "b": 293.8241982041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            660
+          ]
+        }
+      ],
+      "orig": "The states of least uncertainty in quantum mechanics are pure states . A pure state of a d -level quantum system is described by a unit vector in a d -dimensional complex vector space: | ψ 〉 ∈ C d with 〈 ψ | ψ 〉 = 1 . In the simplest form of measurement on a quantum system (a 'von Neumann measurement'), the experimenter chooses an orthogonal basis, {| i 〉} d i =1 , for C d . The measurement 'projects' the state | ψ 〉 into outcome i with probability |〈 i | ψ 〉| 2 . Thus, if a system is prepared in a basis state | i 〉 and measured, the outcome is always i . However, in general quantum mechanics will only tell us the probabilities of measurement outcomes.",
+      "text": "The states of least uncertainty in quantum mechanics are pure states . A pure state of a d -level quantum system is described by a unit vector in a d -dimensional complex vector space: | ψ 〉 ∈ C d with 〈 ψ | ψ 〉 = 1 . In the simplest form of measurement on a quantum system (a 'von Neumann measurement'), the experimenter chooses an orthogonal basis, {| i 〉} d i =1 , for C d . The measurement 'projects' the state | ψ 〉 into outcome i with probability |〈 i | ψ 〉| 2 . Thus, if a system is prepared in a basis state | i 〉 and measured, the outcome is always i . However, in general quantum mechanics will only tell us the probabilities of measurement outcomes."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.9999099999999,
+            "t": 290.39498768000016,
+            "r": 563.3418869379354,
+            "b": 149.34751610000012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            754
+          ]
+        }
+      ],
+      "orig": "Pure states are the states of least uncertainty in quantum mechanics, but one could imagine situations that are more uncertain. In such cases, rather than a d -dimensional complex vector, the state of our system is described by a d × d hermitian matrix, ρ = ρ † . Any such density matrix has a spectral decomposition, ρ = ∑ i λ i | φ i 〉 〈 φ i | , which can be interpreted as telling us that the system is in pure state | φ i 〉 with probability λ i . In order to ensure this probabilistic interpretation makes sense, ρ must be trace one: Tr ρ = 1 . Suppose we have a density matrix of a system comprising two subsystems, A and B . Given such a ρ AB , we can find the density matrix of the A system alone using the partial trace, so that ρ A = Tr B ρ AB .",
+      "text": "Pure states are the states of least uncertainty in quantum mechanics, but one could imagine situations that are more uncertain. In such cases, rather than a d -dimensional complex vector, the state of our system is described by a d × d hermitian matrix, ρ = ρ † . Any such density matrix has a spectral decomposition, ρ = ∑ i λ i | φ i 〉 〈 φ i | , which can be interpreted as telling us that the system is in pure state | φ i 〉 with probability λ i . In order to ensure this probabilistic interpretation makes sense, ρ must be trace one: Tr ρ = 1 . Suppose we have a density matrix of a system comprising two subsystems, A and B . Given such a ρ AB , we can find the density matrix of the A system alone using the partial trace, so that ρ A = Tr B ρ AB ."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.9990199999999,
+            "t": 146.87502768000013,
+            "r": 563.3570891199998,
+            "b": 66.42413820415823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            433
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95990000000003,
+            "t": 732.59526768,
+            "r": 300.31113392000003,
+            "b": 673.7474261000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            434,
+            748
+          ]
+        }
+      ],
+      "orig": "The noisy evolution of a quantum system can be described as a unitary interaction between the system and some environmental degrees of freedom. More formally, any noisy evolution has the form N ( ρ A ) = Tr E Uρ A ⊗ | 0 〉 〈 0 | E U † , where | 0 〉 is some fixed pure state on E and U is a unitary matrix on from AE to BE . We use B to denote the output of the channel to allow for the possibility that the input and output spaces are different. Mathematically, such a map is called a completely positive trace preserving map, but I'll just call it a quantum channel. There is an alternate representation of a quantum channel in terms of Kraus operators , which lets us write the channel's action as N ( ρ ) = ∑ k A k ρA † k with ∑ k A † k A k = I .",
+      "text": "The noisy evolution of a quantum system can be described as a unitary interaction between the system and some environmental degrees of freedom. More formally, any noisy evolution has the form N ( ρ A ) = Tr E Uρ A ⊗ | 0 〉 〈 0 | E U † , where | 0 〉 is some fixed pure state on E and U is a unitary matrix on from AE to BE . We use B to denote the output of the channel to allow for the possibility that the input and output spaces are different. Mathematically, such a map is called a completely positive trace preserving map, but I'll just call it a quantum channel. There is an alternate representation of a quantum channel in terms of Kraus operators , which lets us write the channel's action as N ( ρ ) = ∑ k A k ρA † k with ∑ k A † k A k = I ."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95950999999993,
+            "t": 672.8351276800001,
+            "r": 300.2748051182005,
+            "b": 652.2647382041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "More details on the basics of quantum states and channels can be found in [5].",
+      "text": "More details on the basics of quantum states and channels can be found in [5]."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 63.35950999999993,
+            "t": 642.3554276800002,
+            "r": 285.5889264616578,
+            "b": 633.6647382041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "III. CODING THEOREMS FOR QUANTUM CHANNELS",
+      "text": "III. CODING THEOREMS FOR QUANTUM CHANNELS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95937999999992,
+            "t": 627.2351276800001,
+            "r": 300.3011327045152,
+            "b": 522.9045382041584,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            530
+          ]
+        }
+      ],
+      "orig": "I'll now discuss four fundamental coding theorems of quantum communications: coding for classical information transmission, private classical transmission, quantum transmission, and entanglement assisted classical transmission. I won't go into the proofs of these coding theorems but, roughly speaking, they all amount to randomly coding according to some distribution at the input of the channel. Notions like typical sequences and conditionally typical sequences, suitably generalized to the quantum domain, are key ingredients.",
+      "text": "I'll now discuss four fundamental coding theorems of quantum communications: coding for classical information transmission, private classical transmission, quantum transmission, and entanglement assisted classical transmission. I won't go into the proofs of these coding theorems but, roughly speaking, they all amount to randomly coding according to some distribution at the input of the channel. Notions like typical sequences and conditionally typical sequences, suitably generalized to the quantum domain, are key ingredients."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95937999999995,
+            "t": 512.9055639200002,
+            "r": 156.06084304853704,
+            "b": 504.33302581165464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "A. Classical Transmission",
+      "text": "A. Classical Transmission",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95937999999995,
+            "t": 497.9952276800002,
+            "r": 300.31054556367013,
+            "b": 417.14950000000016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            365
+          ]
+        }
+      ],
+      "orig": "Suppose a sender is interested in using a noisy quantum channel to send classical information to a receiver. The maximum rate at which this is possible, measured in bits per channel use and with the probability of a transmission error vanishing in the limit of many channel uses, is defined as the classical capacity of a quantum channel, which we'll call C ( N ) .",
+      "text": "Suppose a sender is interested in using a noisy quantum channel to send classical information to a receiver. The maximum rate at which this is possible, measured in bits per channel use and with the probability of a transmission error vanishing in the limit of many channel uses, is defined as the classical capacity of a quantum channel, which we'll call C ( N ) ."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95948999999997,
+            "t": 414.23542768000016,
+            "r": 299.98301985088165,
+            "b": 393.26980000000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "Holevo [6] and Schumacher and Westmoreland [7] found a lower bound for C ( N ) :",
+      "text": "Holevo [6] and Schumacher and Westmoreland [7] found a lower bound for C ( N ) :"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 142.07944999999998,
+            "t": 379.6014060000001,
+            "r": 300.0762913274072,
+            "b": 369.3897000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "C ( N ) ≥ χ ( N ) , (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95898000000014,
+            "t": 360.8815060000001,
+            "r": 300.17925128000013,
+            "b": 303.30488220415816,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            300
+          ]
+        }
+      ],
+      "orig": "where the Holevo Information [8] is defined as χ ( N ) = max p x ,ρ x I ( X ; B ) σ , where σ = ∑ x p x | x 〉 〈 x | X ⊗N ( ρ x ) . The mutual information is defined as I ( X ; B ) = H ( X )+ H ( B ) -H ( XB ) , with the von Neuman entropy, H ( ρ ) = -Tr ρ log ρ , replacing the usual Shannon entropy.",
+      "text": "where the Holevo Information [8] is defined as χ ( N ) = max p x ,ρ x I ( X ; B ) σ , where σ = ∑ x p x | x 〉 〈 x | X ⊗N ( ρ x ) . The mutual information is defined as I ( X ; B ) = H ( X )+ H ( B ) -H ( XB ) , with the von Neuman entropy, H ( ρ ) = -Tr ρ log ρ , replacing the usual Shannon entropy."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95901000000018,
+            "t": 301.12135000000006,
+            "r": 300.18032478186467,
+            "b": 255.5446482041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "In addition to showing that C ( N ) ≥ χ ( N ) , it's also possible to give a characterization of the classical capacity as C ( N ) = lim n →∞ 1 n χ ( N ⊗ n ) [6], [7]. Of course this limit is not something that can actually be computed.",
+      "text": "In addition to showing that C ( N ) ≥ χ ( N ) , it's also possible to give a characterization of the classical capacity as C ( N ) = lim n →∞ 1 n χ ( N ⊗ n ) [6], [7]. Of course this limit is not something that can actually be computed."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95991000000001,
+            "t": 245.54527392,
+            "r": 188.94144001737038,
+            "b": 236.9727358116545,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "B. Private Classical Transmission",
+      "text": "B. Private Classical Transmission",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.95990999999995,
+            "t": 230.51503767999998,
+            "r": 300.48952391999995,
+            "b": 126.18444820415812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            539
+          ]
+        }
+      ],
+      "orig": "Now suppose we have access to a noisy quantum channel, and we would again like to transmit classical information from sender to receiver. This time, however, we're interested in making sure that only the receiver learns what message we sent. Specifically, we have to make sure that no information about the transmitted message gets leaked to the environment of the channel. This situation is qualitatively similar to the wire-tap channel considered by Wyner [3] and Csiszar-Korner [4] and, in fact, the solution looks similar in many ways.",
+      "text": "Now suppose we have access to a noisy quantum channel, and we would again like to transmit classical information from sender to receiver. This time, however, we're interested in making sure that only the receiver learns what message we sent. Specifically, we have to make sure that no information about the transmitted message gets leaked to the environment of the channel. This situation is qualitatively similar to the wire-tap channel considered by Wyner [3] and Csiszar-Korner [4] and, in fact, the solution looks similar in many ways."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 48.959559999999925,
+            "t": 122.87513768000008,
+            "r": 300.1971284155751,
+            "b": 66.42424820415818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            290
+          ]
+        }
+      ],
+      "orig": "The resulting private classical capacity , roughly the best rate that we can achieve with both high fidelity for the receiver and no information leaked to the environment, is usually called P ( N ) . Devetak [9] and Cai-Winter-Yeung [10] showed that the private classical capacity satisfies",
+      "text": "The resulting private classical capacity , roughly the best rate that we can achieve with both high fidelity for the receiver and no information leaked to the environment, is usually called P ( N ) . Devetak [9] and Cai-Winter-Yeung [10] showed that the private classical capacity satisfies"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 328.6795599999999,
+            "t": 715.0301375,
+            "r": 563.1171713274072,
+            "b": 698.2272661000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "P ( N ) ≥ P (1) ( N ) := max p x ,ρ x I ( X ; B ) σ -I ( X ; E ) σ , (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9994599999999,
+            "t": 689.0292944000001,
+            "r": 563.0490960999881,
+            "b": 642.5441822041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "where σ = ∑ x p x | x 〉 〈 x | X ⊗ U ( ρ x ⊗| 0 〉 〈 0 | E ) U † and U is the unitary extension of the channel N . The expression on the right is very similar to the capacity formula found in a classical broadcast setting [4].",
+      "text": "where σ = ∑ x p x | x 〉 〈 x | X ⊗ U ( ρ x ⊗| 0 〉 〈 0 | E ) U † and U is the unitary extension of the channel N . The expression on the right is very similar to the capacity formula found in a classical broadcast setting [4]."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9994599999999,
+            "t": 638.8750716800002,
+            "r": 563.0497861768931,
+            "b": 603.5475961,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "Just as for the classical capacity of a quantum channel, it can also be shown that the private classical capacity satisfies P ( N ) = lim n →∞ 1 n P (1) ( N ⊗ n ) .",
+      "text": "Just as for the classical capacity of a quantum channel, it can also be shown that the private classical capacity satisfies P ( N ) = lim n →∞ 1 n P (1) ( N ⊗ n ) ."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99984000000006,
+            "t": 593.06596392,
+            "r": 419.5810459876996,
+            "b": 584.4934258116544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "C. Quantum Transmission",
+      "text": "C. Quantum Transmission",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99984000000006,
+            "t": 576.71542768,
+            "r": 563.370611406636,
+            "b": 472.3848382041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            541
+          ]
+        }
+      ],
+      "orig": "If our sender has a quantum system whose state she would like to transmit coherently to a receiver, we enter the realm of the quantum capacity. We'd like to understand the best rate, this time in two-level quantum systems (or qubits ) per channel use, at which we can coherently transmit quantum information. This requires that an arbitrary quantum state, when encoded and transmitted using a noisy channel, can be recovered by the receiver. As a result the quantum capacity characterizes the fundamental limits of quantum error correction .",
+      "text": "If our sender has a quantum system whose state she would like to transmit coherently to a receiver, we enter the realm of the quantum capacity. We'd like to understand the best rate, this time in two-level quantum systems (or qubits ) per channel use, at which we can coherently transmit quantum information. This requires that an arbitrary quantum state, when encoded and transmitted using a noisy channel, can be recovered by the receiver. As a result the quantum capacity characterizes the fundamental limits of quantum error correction ."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9997800000001,
+            "t": 468.83572768,
+            "r": 563.1302186771792,
+            "b": 436.1450382041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "A lower bound for the quantum capacity, usually called Q ( N ) , was found by Lloyd [11], Shor [12], and Devetak [9]. They found that the coherent information is an achievable rate:",
+      "text": "A lower bound for the quantum capacity, usually called Q ( N ) , was found by Lloyd [11], Shor [12], and Devetak [9]. They found that the coherent information is an achievable rate:"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 345.11968,
+            "t": 427.2708275,
+            "r": 563.1165113274071,
+            "b": 410.4679561,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Q ( N ) ≥ Q (1) ( N ) := max ρ ( H ( B ) -H ( E )) , (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9998199999999,
+            "t": 401.03532767999997,
+            "r": 563.289457954094,
+            "b": 344.46494020415804,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            285
+          ]
+        }
+      ],
+      "orig": "where the entropies are evaluated on the reduced states of σ BE = Uρ ⊗| 0 〉 〈 0 | E U † . The coherent information can also be expressed as a maximization of -H ( A | B ) = H ( B ) -H ( AB ) , evaluated on a state of the form I ⊗N ( | φ 〉 〈 φ | AA ′ ) , but I won't use this fact here.",
+      "text": "where the entropies are evaluated on the reduced states of σ BE = Uρ ⊗| 0 〉 〈 0 | E U † . The coherent information can also be expressed as a maximization of -H ( A | B ) = H ( B ) -H ( AB ) , evaluated on a state of the form I ⊗N ( | φ 〉 〈 φ | AA ′ ) , but I won't use this fact here."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.9987399999999,
+            "t": 340.91542967999993,
+            "r": 563.0224193079962,
+            "b": 305.4675961,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "Finally, just like with the classical and private capacities, we can get a characterization of the quantum capacity as Q ( N ) = lim n → 1 n Q (1) ( N ⊗ n ) .",
+      "text": "Finally, just like with the classical and private capacities, we can get a characterization of the quantum capacity as Q ( N ) = lim n → 1 n Q (1) ( N ⊗ n ) ."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99996999999996,
+            "t": 294.98557392,
+            "r": 545.2633497246507,
+            "b": 286.4130358116544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "D. Classical Transmission with Entanglement Assistance",
+      "text": "D. Classical Transmission with Entanglement Assistance",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99996999999996,
+            "t": 278.7553376799999,
+            "r": 563.2512206780225,
+            "b": 138.54464820415808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            696
+          ]
+        }
+      ],
+      "orig": "At this point let's go back to trying to understand the transmission of classical information with a quantum channel. However, besides letting our sender and receiver use a noisy quantum channel, we'll also give them access to arbitrary shared quantum states (and specifically, they'll use entangled states). On their own, such quantum states are useless for communication due to the locality of quantum mechanics. However, the shared quantum states may in principle be useful when used together with a noisy channel. In fact, not only will the shared quantum correlations be useful for assisting many quantum channels, it turns out that they will lead to a dramatic simplification of the theory.",
+      "text": "At this point let's go back to trying to understand the transmission of classical information with a quantum channel. However, besides letting our sender and receiver use a noisy quantum channel, we'll also give them access to arbitrary shared quantum states (and specifically, they'll use entangled states). On their own, such quantum states are useless for communication due to the locality of quantum mechanics. However, the shared quantum states may in principle be useful when used together with a noisy channel. In fact, not only will the shared quantum correlations be useful for assisting many quantum channels, it turns out that they will lead to a dramatic simplification of the theory."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.99992999999995,
+            "t": 134.87513767999997,
+            "r": 563.1435461984015,
+            "b": 66.42424820415818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            318
+          ]
+        }
+      ],
+      "orig": "Define the entanglement assisted classical capacity to be the maximum rate at which classical communication is possible with low error probability when sender and receiver use a noisy channel together with arbitrary shared quantum states. Bennett, Shor, Smolin, and Thapliyal [13] showed that this capacity is given by",
+      "text": "Define the entanglement assisted classical capacity to be the maximum rate at which classical communication is possible with low error probability when sender and receiver use a noisy channel together with arbitrary shared quantum states. Bennett, Shor, Smolin, and Thapliyal [13] showed that this capacity is given by"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 121.68,
+            "t": 720.521046,
+            "r": 300.07718132740723,
+            "b": 704.46512548,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "C E ( N ) = max φ AA ′ I ( A ; B ) σ , (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.9592100000001,
+            "t": 695.27535768,
+            "r": 300.1808922991626,
+            "b": 625.9876880999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            363
+          ]
+        }
+      ],
+      "orig": "where the quantum mutual information is evaluated on the state σ = I ⊗N ( φ AA ′ ) . Note that the only difference between Eq. (4) and the Holevo information of Eq. (1) is that the Holevo information is the maximum mutual information we can generate using a state of the form φ XA = ∑ x p x | x 〉 〈 x | ⊗ ρ x , whereas in Eq. (4) the state φ AA ′ is unrestricted.",
+      "text": "where the quantum mutual information is evaluated on the state σ = I ⊗N ( φ AA ′ ) . Note that the only difference between Eq. (4) and the Holevo information of Eq. (1) is that the Holevo information is the maximum mutual information we can generate using a state of the form φ XA = ∑ x p x | x 〉 〈 x | ⊗ ρ x , whereas in Eq. (4) the state φ AA ′ is unrestricted."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.95944000000003,
+            "t": 623.27540168,
+            "r": 300.2227080222256,
+            "b": 506.94481220415815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            560
+          ]
+        }
+      ],
+      "orig": "The truly remarkable thing about Eq. (4) is that we have an equality-the formula is single-letter. There is no need to take a limit over many channels uses, so this formula gives a complete characterization of the channel's capability for classical transmission given free access to entanglement. The appearance of a single letter formula here, and the absence of single-letter formulas for the three other capacities we've discussed is closely related to the question of additivity of information theoretic quantities, which I'll consider in the next section.",
+      "text": "The truly remarkable thing about Eq. (4) is that we have an equality-the formula is single-letter. There is no need to take a limit over many channels uses, so this formula gives a complete characterization of the channel's capability for classical transmission given free access to entanglement. The appearance of a single letter formula here, and the absence of single-letter formulas for the three other capacities we've discussed is closely related to the question of additivity of information theoretic quantities, which I'll consider in the next section."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 112.91924000000003,
+            "t": 494.5152016800001,
+            "r": 236.0295787815091,
+            "b": 485.82451220415817,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "IV. ADDITIVITY QUESTIONS",
+      "text": "IV. ADDITIVITY QUESTIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.958720000000056,
+            "t": 478.59191400000003,
+            "r": 300.22233815439677,
+            "b": 409.2647122041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            354
+          ]
+        }
+      ],
+      "orig": "A real function, f , on the set of channels is called additive if f ( N ⊗ M ) = f ( N ) + f ( M ) . Many important questions in quantum information theory boil down to asking whether a certain function is additive. Very often, we have some function that it's fairly easy to see satisfies f ( N⊗M ) ≥ f ( N )+ f ( M ) , but we would like to show equality.",
+      "text": "A real function, f , on the set of channels is called additive if f ( N ⊗ M ) = f ( N ) + f ( M ) . Many important questions in quantum information theory boil down to asking whether a certain function is additive. Very often, we have some function that it's fairly easy to see satisfies f ( N⊗M ) ≥ f ( N )+ f ( M ) , but we would like to show equality."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.95787000000014,
+            "t": 405.71520168,
+            "r": 300.36810392000007,
+            "b": 276.54783610000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            666
+          ]
+        }
+      ],
+      "orig": "For example, the single-letter formula for the entanglement assisted classical capacity is shown in three steps. Let g ( N ) = max φ AA ′ I ( A ; B ) σ with σ AB = I ⊗N ( φ AA ′ ) . The first step is to show that C E ( N ) ≥ g ( N ) by a random coding argument. The next step is to show that C E ( N ) ≤ lim n →∞ 1 n g ( N ⊗ n ) , basically by using the continuity properties of von Neuman entropy together with the requirement for asymptotically nearperfect transmission. Finally, one shows (in this case, using strong subadditivity of entropy) that g is additive, from which we get C E ( N ) ≤ lim n →∞ 1 n g ( N ⊗ n ) = g ( N ) , which gives C E ( N ) = g ( N ) .",
+      "text": "For example, the single-letter formula for the entanglement assisted classical capacity is shown in three steps. Let g ( N ) = max φ AA ′ I ( A ; B ) σ with σ AB = I ⊗N ( φ AA ′ ) . The first step is to show that C E ( N ) ≥ g ( N ) by a random coding argument. The next step is to show that C E ( N ) ≤ lim n →∞ 1 n g ( N ⊗ n ) , basically by using the continuity properties of von Neuman entropy together with the requirement for asymptotically nearperfect transmission. Finally, one shows (in this case, using strong subadditivity of entropy) that g is additive, from which we get C E ( N ) ≤ lim n →∞ 1 n g ( N ⊗ n ) = g ( N ) , which gives C E ( N ) = g ( N ) ."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.960209999999904,
+            "t": 273.83554768,
+            "r": 300.30205677425784,
+            "b": 97.14475820415817,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            928
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.00003,
+            "t": 732.59518768,
+            "r": 563.3834369418645,
+            "b": 676.1442982041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            929,
+            1192
+          ]
+        }
+      ],
+      "orig": "Conversely, often where we would have liked to show additivity it turns out not to be true. One of the earliest examples of this was the finding of [14] that the coherent information is not additive on several copies of a very noisy qubit depolarizing channel 1 . Specifically, they showed that for a range of depolarizing parameter p , Q (1) ( N ⊗ 5 p ) > 5 Q (1) ( N p ) , thus dashing hopes of proving Q ( N ) = Q (1) ( N ) . More recently, it was shown in [15] that the private information, P (1) , is not additive on several copies of a channel closely related to the Bennett-Brassard-84 quantum cryptography protocol [2]. Finally, Hastings recently showed that there are channels such that χ ( N ⊗ N ) > 2 χ ( N ) . In each of these casesthe nonadditivity of Q (1) , P (1) , and χ -there was a natural guess for a simple formula giving the associated capacity, but the nonadditivity implied that the capacity did not equal the formula. This leaves us without an effectively computable characterization of the capacities, but in each case we also find that the natural guess for capacity was overly pessimisticby using more complicated coding strategies we can transmit more information.",
+      "text": "Conversely, often where we would have liked to show additivity it turns out not to be true. One of the earliest examples of this was the finding of [14] that the coherent information is not additive on several copies of a very noisy qubit depolarizing channel 1 . Specifically, they showed that for a range of depolarizing parameter p , Q (1) ( N ⊗ 5 p ) > 5 Q (1) ( N p ) , thus dashing hopes of proving Q ( N ) = Q (1) ( N ) . More recently, it was shown in [15] that the private information, P (1) , is not additive on several copies of a channel closely related to the Bennett-Brassard-84 quantum cryptography protocol [2]. Finally, Hastings recently showed that there are channels such that χ ( N ⊗ N ) > 2 χ ( N ) . In each of these casesthe nonadditivity of Q (1) , P (1) , and χ -there was a natural guess for a simple formula giving the associated capacity, but the nonadditivity implied that the capacity did not equal the formula. This leaves us without an effectively computable characterization of the capacities, but in each case we also find that the natural guess for capacity was overly pessimisticby using more complicated coding strategies we can transmit more information."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 48.96098999999987,
+            "t": 84.35713796000005,
+            "r": 300.01502996036146,
+            "b": 65.39999999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "1 The qubit depolarizing channel is the most natural quantum analogue of a binary symmetric channel. It acts as N p ( ρ ) = (1 -p ) ρ + p I 2 .",
+      "text": "1 The qubit depolarizing channel is the most natural quantum analogue of a binary symmetric channel. It acts as N p ( ρ ) = (1 -p ) ρ + p I 2 ."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.99989000000016,
+            "t": 675.1904075000001,
+            "r": 563.4090405022796,
+            "b": 580.1091600000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            489
+          ]
+        }
+      ],
+      "orig": "Although χ , P (1) , and Q (1) are not additive in general, it is possible to show additivity for some special classes of channels. For example, C ( N ) = χ ( N ) for all entanglement breaking channels 2 [16], depolarizing channels [17], and unital qubit channels. The quantum capacity is equal to Q (1) ( N ) for both degradable channels [18] and PPT channels [19], [20] although for the latter it is always zero. Finally, the private capacity is P (1) ( N ) for degradable channels [21].",
+      "text": "Although χ , P (1) , and Q (1) are not additive in general, it is possible to show additivity for some special classes of channels. For example, C ( N ) = χ ( N ) for all entanglement breaking channels 2 [16], depolarizing channels [17], and unital qubit channels. The quantum capacity is equal to Q (1) ( N ) for both degradable channels [18] and PPT channels [19], [20] although for the latter it is always zero. Finally, the private capacity is P (1) ( N ) for degradable channels [21]."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.99960999999996,
+            "t": 577.3149876800002,
+            "r": 563.370872020089,
+            "b": 449.1046382041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            658
+          ]
+        }
+      ],
+      "orig": "The additivity questions considered so far concern the need for regularization (as taking lim n →∞ 1 n f ( N ⊗ n ) is called) in our characterization of capacities. Some entropic function f ( N ) is shown to be an achievable rate, and its regularization equal to the capacity, so if we can show f is additive we get a tractable capacity formula. Note that this concerns the additivity of f on two copies of the same channel. However, once we regularize f (consider, say, the formula Q ( N ) = lim n →∞ 1 n Q (1) ( N ⊗ n ) ), the resulting capacity always satisfies Q ( N ⊗ n ) = nQ ( N ) . Capacities are always additive on parallel uses of the same channel.",
+      "text": "The additivity questions considered so far concern the need for regularization (as taking lim n →∞ 1 n f ( N ⊗ n ) is called) in our characterization of capacities. Some entropic function f ( N ) is shown to be an achievable rate, and its regularization equal to the capacity, so if we can show f is additive we get a tractable capacity formula. Note that this concerns the additivity of f on two copies of the same channel. However, once we regularize f (consider, say, the formula Q ( N ) = lim n →∞ 1 n Q (1) ( N ⊗ n ) ), the resulting capacity always satisfies Q ( N ⊗ n ) = nQ ( N ) . Capacities are always additive on parallel uses of the same channel."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.00018999999986,
+            "t": 445.91522768,
+            "r": 563.2917667050295,
+            "b": 245.94513820415796,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            997
+          ]
+        }
+      ],
+      "orig": "The need for regularization is a mathematical question about the existence of a simple formula for capacity, but there is a distinct, more operational, question about the additivity of capacities themselves. Since capacities are additive on products of the same channel, this is a question about how different noisy channels interact and enhance each others' capabilities 3 . This sort of additivity thus tells us whether the communication potential of a channel depends on the context in which it is used or is independent of what other channels are available with it. The quantum capacity is very strongly nonadditive: there are pairs of channels N and M with Q ( N ) = Q ( M ) = 0 but Q ( N ⊗ M ) > 0 [22]. The private capacity displays nonadditivity that is almost as strong, with P ( N ) = 0 and P ( M ) ≤ 2 but P ( N ⊗ M ) ≥ 1 / 8 log d for sufficiently large dimensional channels [23], [24], [25]. It is unknown whether the classical capacity of a quantum channel is additive in this sense.",
+      "text": "The need for regularization is a mathematical question about the existence of a simple formula for capacity, but there is a distinct, more operational, question about the additivity of capacities themselves. Since capacities are additive on products of the same channel, this is a question about how different noisy channels interact and enhance each others' capabilities 3 . This sort of additivity thus tells us whether the communication potential of a channel depends on the context in which it is used or is independent of what other channels are available with it. The quantum capacity is very strongly nonadditive: there are pairs of channels N and M with Q ( N ) = Q ( M ) = 0 but Q ( N ⊗ M ) > 0 [22]. The private capacity displays nonadditivity that is almost as strong, with P ( N ) = 0 and P ( M ) ≤ 2 but P ( N ⊗ M ) ≥ 1 / 8 log d for sufficiently large dimensional channels [23], [24], [25]. It is unknown whether the classical capacity of a quantum channel is additive in this sense."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 408.8413499999998,
+            "t": 236.27562767999984,
+            "r": 466.1953492390516,
+            "b": 227.584938204158,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "V. OUTLOOK",
+      "text": "V. OUTLOOK",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.00128999999987,
+            "t": 221.27562767999984,
+            "r": 563.2390423070242,
+            "b": 140.82473820415794,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            399
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.96009999999997,
+            "t": 558.71529768,
+            "r": 300.24970321557515,
+            "b": 538.0246082041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            400,
+            502
+          ]
+        }
+      ],
+      "orig": "There has been an enormous amount of progress on understanding the various communication capacities of a quantum channel in the past decade or so. From 1997-2003, the basic tools necessary to understand random coding in quantum communication were developed and, more recently, much more streamlined approaches have been found [27]. In the past couple of years several fundamental questions about the additivity of capacities have been resolved, with the general trend that most things are not additive.",
+      "text": "There has been an enormous amount of progress on understanding the various communication capacities of a quantum channel in the past decade or so. From 1997-2003, the basic tools necessary to understand random coding in quantum communication were developed and, more recently, much more streamlined approaches have been found [27]. In the past couple of years several fundamental questions about the additivity of capacities have been resolved, with the general trend that most things are not additive."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.00136999999984,
+            "t": 129.95741795999993,
+            "r": 562.935263879566,
+            "b": 103.56415298398224,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "2 Entanglement breaking channels are so noisy that they don't allow sender and receiver to establish any entanglement. Alternatively, an entanglement breaking channel has a set of rank one Kraus operators.",
+      "text": "2 Entanglement breaking channels are so noisy that they don't allow sender and receiver to establish any entanglement. Alternatively, an entanglement breaking channel has a set of rank one Kraus operators."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 312.00144999999975,
+            "t": 102.23748795999984,
+            "r": 562.9790638250648,
+            "b": 66.84383298398234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "3 Note that it is possible to have a nonadditive f that, when regularized, gives an additive capacity. Similarly, one could have a simple formula for a nonadditive capacity. So, one type of (non)additivity does not generally imply the other.",
+      "text": "3 Note that it is possible to have a nonadditive f that, when regularized, gives an additive capacity. Similarly, one could have a simple formula for a nonadditive capacity. So, one type of (non)additivity does not generally imply the other."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.96009999999998,
+            "t": 657.71621282,
+            "r": 300.05897425153285,
+            "b": 588.0038929839825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            576
+          ]
+        }
+      ],
+      "orig": "Fig. 1. Status of additivity questions for quantum capacities. The different rows correspond to using the channel for different kinds of information transmission. The right column indicates whether regularization is necessary in our characterization of the associated capacity. The left column indicates whether the capacity itself is additive. Note that the right column concerns the additivity of entropic quantities when evaluated on multiple copies of the same channel, while the left concerns the behavior of a capacity when evaluated on two copies of different channels.",
+      "text": "Fig. 1. Status of additivity questions for quantum capacities. The different rows correspond to using the channel for different kinds of information transmission. The right column indicates whether regularization is necessary in our characterization of the associated capacity. The left column indicates whether the capacity itself is additive. Note that the right column concerns the additivity of entropic quantities when evaluated on multiple copies of the same channel, while the left concerns the behavior of a capacity when evaluated on two copies of different channels."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.9602,
+            "t": 732.53763384,
+            "r": 78.93086182754121,
+            "b": 728.192289102079,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Information",
+      "text": "Information"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 82.2,
+            "t": 736.961046,
+            "r": 87.18132,
+            "b": 726.74934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\\",
+      "text": "\\"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.71992,
+            "t": 732.53763384,
+            "r": 111.45042173540988,
+            "b": 728.192289102079,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Additivity",
+      "text": "Additivity"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 144.0,
+            "t": 735.83526768,
+            "r": 179.46130154326997,
+            "b": 727.1445782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Capacity",
+      "text": "Capacity"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 212.4,
+            "t": 735.83526768,
+            "r": 261.79760174761816,
+            "b": 727.1445782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Single-letter",
+      "text": "Single-letter"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 65.0398,
+            "t": 723.47526768,
+            "r": 100.92940729241151,
+            "b": 714.7845782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Classical",
+      "text": "Classical"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.48,
+            "t": 723.47526768,
+            "r": 163.90341216,
+            "b": 714.7845782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "?",
+      "text": "?"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 220.92,
+            "t": 723.47526768,
+            "r": 253.15787894038587,
+            "b": 714.7845782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "No [26]",
+      "text": "No [26]"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 69.1199,
+            "t": 711.11526768,
+            "r": 96.94330803060775,
+            "b": 702.4245782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Private",
+      "text": "Private"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.0,
+            "t": 711.11526768,
+            "r": 200.357713049586,
+            "b": 702.4245782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "No [23], [24], [25]",
+      "text": "No [23], [24], [25]"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 220.92,
+            "t": 711.11526768,
+            "r": 253.15734185446348,
+            "b": 702.4245782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "No [15]",
+      "text": "No [15]"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.4398,
+            "t": 698.75526768,
+            "r": 101.71073650400292,
+            "b": 690.0645782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Quantum",
+      "text": "Quantum"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 145.56,
+            "t": 698.75526768,
+            "r": 177.79770692544363,
+            "b": 690.0645782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "No [22]",
+      "text": "No [22]"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 220.92,
+            "t": 698.75526768,
+            "r": 253.15734185446348,
+            "b": 690.0645782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "No [14]",
+      "text": "No [14]"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 55.3199,
+            "t": 686.39526768,
+            "r": 111.00951516414989,
+            "b": 677.7045782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Entanglement",
+      "text": "Entanglement"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 144.36,
+            "t": 686.39526768,
+            "r": 178.99771332734645,
+            "b": 677.7045782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Yes [13]",
+      "text": "Yes [13]"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 219.72,
+            "t": 686.39526768,
+            "r": 254.23742291759046,
+            "b": 677.7045782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Yes [13]",
+      "text": "Yes [13]"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 66.1199,
+            "t": 674.51526768,
+            "r": 99.78122405691101,
+            "b": 665.8245782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Assisted",
+      "text": "Assisted"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.960099999999926,
+            "t": 533.3953976800001,
+            "r": 300.33076,
+            "b": 381.3046082041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            759
+          ]
+        }
+      ],
+      "orig": "At first glance this nonadditivity seems like bad news. The need for regularization means that we don't have simple capacity formulas available, and the nonadditivity of capacities implies that the capacity of a channel might not even be the relevant measure of its communication capability. However, in both cases there is a positive side-regularization means that the capacities we're interested in are generally higher than expected, and we can use communication strategies like entangled signal states and structured error correction codes to enhance our communication abilities. Nonadditivity of capacities means that even apparently useless resources may interact synergistically to allow communication and error correction where it appeared impossible.",
+      "text": "At first glance this nonadditivity seems like bad news. The need for regularization means that we don't have simple capacity formulas available, and the nonadditivity of capacities implies that the capacity of a channel might not even be the relevant measure of its communication capability. However, in both cases there is a positive side-regularization means that the capacities we're interested in are generally higher than expected, and we can use communication strategies like entangled signal states and structured error correction codes to enhance our communication abilities. Nonadditivity of capacities means that even apparently useless resources may interact synergistically to allow communication and error correction where it appeared impossible."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.96007999999992,
+            "t": 376.67539768,
+            "r": 300.30163534959837,
+            "b": 259.949574,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            588
+          ]
+        }
+      ],
+      "orig": "There are at least two interesting directions to pursue that are related to the classical capacity. First, there are very few computable upper bounds for the classical capacity. The log of the input and output dimensions of a channel are obviously bounds, as is the entanglement assisted capacity. Shor also presented a bound of χ ( N ) + max ρ AB E F ( I ⊗ N ( ρ AB )) , where E F is the entanglement of formation [16]. None of these are particularly good in the low noise regime. Second, although χ is not additive, we still don't know whether its regularization, C ( N ) , is additive.",
+      "text": "There are at least two interesting directions to pursue that are related to the classical capacity. First, there are very few computable upper bounds for the classical capacity. The log of the input and output dimensions of a channel are obviously bounds, as is the entanglement assisted capacity. Shor also presented a bound of χ ( N ) + max ρ AB E F ( I ⊗ N ( ρ AB )) , where E F is the entanglement of formation [16]. None of these are particularly good in the low noise regime. Second, although χ is not additive, we still don't know whether its regularization, C ( N ) , is additive."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.95995999999994,
+            "t": 255.83550167999988,
+            "r": 300.2235138609649,
+            "b": 139.1092739999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            564
+          ]
+        }
+      ],
+      "orig": "The bosonic gaussian channels are an important, potentially experimentally relevant, class that it would be nice to understand better (for a review, see [28]). Capacities of the attenuation channel are known [29], but even for single mode gaussian channels we only understand a few special cases (see [30] for recent work on the classical capacity). Since gaussian channels are a fairly simple class, understanding their capacities may be easier than the general case. As usual, the question hinges on understanding additivity properties of χ , P (1) , and Q (1) .",
+      "text": "The bosonic gaussian channels are an important, potentially experimentally relevant, class that it would be nice to understand better (for a review, see [28]). Capacities of the attenuation channel are known [29], but even for single mode gaussian channels we only understand a few special cases (see [30] for recent work on the classical capacity). Since gaussian channels are a fairly simple class, understanding their capacities may be easier than the general case. As usual, the question hinges on understanding additivity properties of χ , P (1) , and Q (1) ."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.95998999999995,
+            "t": 134.8753016799999,
+            "r": 300.42130999999995,
+            "b": 66.4244122041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            353
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.99999,
+            "t": 733.471814,
+            "r": 563.2512078311989,
+            "b": 604.3848122041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            354,
+            1024
+          ]
+        }
+      ],
+      "orig": "In general, we need more examples of both additivity and nonadditivity if we are to understand coding for quantum channels. For classical transmission, we understand the additivity of χ for entanglement breaking channels by a general argument. There are also ad hoc techniques for understanding very specific channels [17], [31], [29], [32]. In terms of nonadditivity of χ , there remains essentially a single class of nonconstructive examples [26] (though, this class has been better understood recently [33], [34], [35]). There are a few examples of nonadditivity for Q (1) , P (1) , Q , and P [14], [15], [22], [24], [25], but it is still not entirely clear when nonadditivity should be expected (though see [36] for some ideas). For the quantum and private capacity, essentially the only additivity results we have concern degradable channels, with PPT channels also understood for the quantum capacity. It would be fantastic to find the quantum capacity of some channels that are not related to the degradable channels.",
+      "text": "In general, we need more examples of both additivity and nonadditivity if we are to understand coding for quantum channels. For classical transmission, we understand the additivity of χ for entanglement breaking channels by a general argument. There are also ad hoc techniques for understanding very specific channels [17], [31], [29], [32]. In terms of nonadditivity of χ , there remains essentially a single class of nonconstructive examples [26] (though, this class has been better understood recently [33], [34], [35]). There are a few examples of nonadditivity for Q (1) , P (1) , Q , and P [14], [15], [22], [24], [25], but it is still not entirely clear when nonadditivity should be expected (though see [36] for some ideas). For the quantum and private capacity, essentially the only additivity results we have concern degradable channels, with PPT channels also understood for the quantum capacity. It would be fantastic to find the quantum capacity of some channels that are not related to the degradable channels."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.00006999999994,
+            "t": 600.1153016800001,
+            "r": 563.341463927615,
+            "b": 436.0245122041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            800
+          ]
+        }
+      ],
+      "orig": "There is a qualitative similarity between quantum channels and classical broadcast channels [37]-in point-to-point quantum problems, we always implicitly have a second receiver in the form of the environment. So, when we look at the private classical transmission with a quantum channel, the achievable rates we find are closely related to the classical results on broadcasting privacy [4]. Furthermore, most of the channels whose quantum capacity we can compute are degradable, a notion that comes directly from the classical idea of a degraded broadcast channel [38], [37]. Can this correspondence be developed into an explicit mapping between (perhaps a subset of) quantum channels and classical broadcast channels, with the capacities of the former derived from the capacity region of the latter?",
+      "text": "There is a qualitative similarity between quantum channels and classical broadcast channels [37]-in point-to-point quantum problems, we always implicitly have a second receiver in the form of the environment. So, when we look at the private classical transmission with a quantum channel, the achievable rates we find are closely related to the classical results on broadcasting privacy [4]. Furthermore, most of the channels whose quantum capacity we can compute are degradable, a notion that comes directly from the classical idea of a degraded broadcast channel [38], [37]. Can this correspondence be developed into an explicit mapping between (perhaps a subset of) quantum channels and classical broadcast channels, with the capacities of the former derived from the capacity region of the latter?"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.00006999999994,
+            "t": 431.75540168000015,
+            "r": 563.2903336888402,
+            "b": 399.06471220415824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "I'm grateful to Charlie Bennett for comments an an earlier draft and acknowledge support from DARPA QUEST contract HR0011-09-C-0047.",
+      "text": "I'm grateful to Charlie Bennett for comments an an earlier draft and acknowledge support from DARPA QUEST contract HR0011-09-C-0047."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 409.56026999999995,
+            "t": 380.3952016800001,
+            "r": 465.35180767540277,
+            "b": 371.7045122041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.96034999999995,
+            "t": 358.07614682000013,
+            "r": 562.825523259091,
+            "b": 342.12359698398257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "[1] T. M. Cover and J. A. Thomas, Elements of Information Theory . Wiley & Sons, 1991.",
+      "text": "T. M. Cover and J. A. Thomas, Elements of Information Theory . Wiley & Sons, 1991.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.96065,
+            "t": 339.59606682000015,
+            "r": 562.9465923479281,
+            "b": 314.6435169839826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "[2] C. H. Bennett and G. Brassard, 'Quantum cryptography: Public key distribution and coin tossing,' Proceedings of the IEEE International Conference on Computers, Systems and Signal Processing , p. 175, 1984.",
+      "text": "C. H. Bennett and G. Brassard, 'Quantum cryptography: Public key distribution and coin tossing,' Proceedings of the IEEE International Conference on Computers, Systems and Signal Processing , p. 175, 1984.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.96065,
+            "t": 312.11637682000014,
+            "r": 562.7531775,
+            "b": 296.1638269839826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "[3] A. D. Wyner, 'The Wire-tap Channel,' Bell Systems Technical Journal , vol. 54, no. 8, pp. 1355-1387, January 1975.",
+      "text": "A. D. Wyner, 'The Wire-tap Channel,' Bell Systems Technical Journal , vol. 54, no. 8, pp. 1355-1387, January 1975.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.96094999999997,
+            "t": 293.5163768200001,
+            "r": 563.055055070443,
+            "b": 277.6837469839825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "[4] I. Csiszar and J. Korner, 'Broadcast channels with confidential messages,' IEEE Trans. Inf. Theory , vol. 24, pp. 339-348, 1978.",
+      "text": "I. Csiszar and J. Korner, 'Broadcast channels with confidential messages,' IEEE Trans. Inf. Theory , vol. 24, pp. 339-348, 1978.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.96094999999985,
+            "t": 275.0362968200001,
+            "r": 562.915221277122,
+            "b": 259.08374698398256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "[5] M. A. Nielsen and I. L. Chuang, Quantum Computation and Quantum Information , 1st ed. Cambridge University Press, October 2000.",
+      "text": "M. A. Nielsen and I. L. Chuang, Quantum Computation and Quantum Information , 1st ed. Cambridge University Press, October 2000.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.96024999999986,
+            "t": 256.55621682000015,
+            "r": 562.8560336448724,
+            "b": 240.60366698398252,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "[6] A. S. Holevo, 'The capacity of the quantum channel with general signal states,' IEEE. Trans. Inf. Theory , vol. 44, no. 1, pp. 269-273, 1998.",
+      "text": "A. S. Holevo, 'The capacity of the quantum channel with general signal states,' IEEE. Trans. Inf. Theory , vol. 44, no. 1, pp. 269-273, 1998.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.9601499999999,
+            "t": 238.0761368200001,
+            "r": 562.8730221714245,
+            "b": 213.12358698398248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[7] B. Schumacher and M. D. Westmoreland, 'Sending classical information via noisy quantum channels,' Phys. Rev. A , vol. 56, no. 1, pp. 131-138, 1997.",
+      "text": "B. Schumacher and M. D. Westmoreland, 'Sending classical information via noisy quantum channels,' Phys. Rev. A , vol. 56, no. 1, pp. 131-138, 1997.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.9607499999999,
+            "t": 210.59605682000006,
+            "r": 563.1134837434261,
+            "b": 176.76381698398257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "[8] A. S. Holevo, 'Statistical problems in quantum physics,' in Proceedings of the second Japan-USSR Symposium on Probability Theory , ser. Lecture Notes in Mathematics, G. Maruyama and J. V. Prokhorov, Eds., vol. 330. Berlin: Springer-Verlag, 1973, pp. 104-119.",
+      "text": "A. S. Holevo, 'Statistical problems in quantum physics,' in Proceedings of the second Japan-USSR Symposium on Probability Theory , ser. Lecture Notes in Mathematics, G. Maruyama and J. V. Prokhorov, Eds., vol. 330. Berlin: Springer-Verlag, 1973, pp. 104-119.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.9610499999999,
+            "t": 174.11636682000017,
+            "r": 562.9798281232976,
+            "b": 149.28373698398252,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "[9] I. Devetak, 'The private classical capacity and quantum capacity of a quantum channel,' IEEE Trans. Inf. Theory , vol. 51, pp. 44-55, 2005, arXiv:quant-ph/0304127.",
+      "text": "I. Devetak, 'The private classical capacity and quantum capacity of a quantum channel,' IEEE Trans. Inf. Theory , vol. 51, pp. 44-55, 2005, arXiv:quant-ph/0304127.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.0015499999998,
+            "t": 146.63628682000012,
+            "r": 562.9933740183492,
+            "b": 121.80365698398259,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "[10] N. Cai, A. Winter, and R. Yeung, 'Quantum privacy and quantum wiretap channels,' Problems of Information Transmission , vol. 40, no. 4, pp. 318-336, 2004.",
+      "text": "N. Cai, A. Winter, and R. Yeung, 'Quantum privacy and quantum wiretap channels,' Problems of Information Transmission , vol. 40, no. 4, pp. 318-336, 2004.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.00144999999975,
+            "t": 119.15620682000008,
+            "r": 562.9939552076495,
+            "b": 103.32357698398255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "[11] S. Lloyd, 'Capacity of the noisy quantum channel,' Phys. Rev. A , vol. 55, pp. 1613-1622, 1997.",
+      "text": "S. Lloyd, 'Capacity of the noisy quantum channel,' Phys. Rev. A , vol. 55, pp. 1613-1622, 1997.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.0018499999997,
+            "t": 100.67612682000015,
+            "r": 562.8149886361921,
+            "b": 66.84349698398262,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "[12] P. W. Shor, 'The quantum channel capacity and coherent information.' lecture notes, MSRI Workshop on Quantum Computation, 2002. Available online at http://www.msri.org/publications/ln/msri/2002/ quantumcrypto/shor/1/.",
+      "text": "P. W. Shor, 'The quantum channel capacity and coherent information.' lecture notes, MSRI Workshop on Quantum Computation, 2002. Available online at http://www.msri.org/publications/ln/msri/2002/ quantumcrypto/shor/1/.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.9602,
+            "t": 731.27621282,
+            "r": 299.8326594150169,
+            "b": 697.4435829839824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "[13] C. H. Bennett, P. W. Shor, J. A. Smolin, and A. V. Thapliyal, 'Entanglement-assisted capacity of a quantum channel and the reverse shannon theorem,' IEEE Trans. Inf. Theory , vol. 48, pp. 2637-2655, 2002.",
+      "text": "C. H. Bennett, P. W. Shor, J. A. Smolin, and A. V. Thapliyal, 'Entanglement-assisted capacity of a quantum channel and the reverse shannon theorem,' IEEE Trans. Inf. Theory , vol. 48, pp. 2637-2655, 2002.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.960099999999926,
+            "t": 694.9160528199999,
+            "r": 299.90500752078066,
+            "b": 670.0838129839824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "[14] D. DiVincenzo, P. W. Shor, and J. A. Smolin, 'Quantum channel capacity of very noisy channels,' Phys. Rev. A , vol. 57, no. 2, pp. 830839, 1998, arXiv:quant-ph/9706061.",
+      "text": "D. DiVincenzo, P. W. Shor, and J. A. Smolin, 'Quantum channel capacity of very noisy channels,' Phys. Rev. A , vol. 57, no. 2, pp. 830839, 1998, arXiv:quant-ph/9706061.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96029999999996,
+            "t": 667.5562828199999,
+            "r": 299.9389145454416,
+            "b": 642.7236529839823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "[15] G. Smith, J. M. Renes, and J. A. Smolin, 'Structured Codes Improve the Bennett-Brassard-84 Quantum Key Rate,' Physical Review Letters , vol. 100, no. 17, p. 170502, May 2008, arXiv:quant-ph/0607018.",
+      "text": "G. Smith, J. M. Renes, and J. A. Smolin, 'Structured Codes Improve the Bennett-Brassard-84 Quantum Key Rate,' Physical Review Letters , vol. 100, no. 17, p. 170502, May 2008, arXiv:quant-ph/0607018.",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96029999999996,
+            "t": 640.1961228199998,
+            "r": 299.95281287527854,
+            "b": 615.2435729839823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "[16] P. W. Shor, 'Additivity of the classical capacity of entanglementbreaking quantum channels,' Journal of Mathematical Physics , vol. 43, pp. 4334-4340, Sep. 2002, arXiv:quant-ph/0201149.",
+      "text": "P. W. Shor, 'Additivity of the classical capacity of entanglementbreaking quantum channels,' Journal of Mathematical Physics , vol. 43, pp. 4334-4340, Sep. 2002, arXiv:quant-ph/0201149.",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.960599999999914,
+            "t": 612.7160428199998,
+            "r": 300.07045730592216,
+            "b": 596.8838029839823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "[17] C. King, 'The capacity of the quantum depolarizing channel,' IEEE Trans. Info. Theo. , vol. 49, no. 1, pp. 221-229, 2003.",
+      "text": "C. King, 'The capacity of the quantum depolarizing channel,' IEEE Trans. Info. Theo. , vol. 49, no. 1, pp. 221-229, 2003.",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96079999999989,
+            "t": 594.3562728199997,
+            "r": 299.9527384525721,
+            "b": 560.5236429839822,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "[18] I. Devetak and P. W. Shor, 'The capacity of a quantum channel for simultaneous transmission of classical and quantum information,' Comm. Math. Phys. , vol. 256, no. 2, pp. 287-303, 2005, arXiv:quant-ph/0311131.",
+      "text": "I. Devetak and P. W. Shor, 'The capacity of a quantum channel for simultaneous transmission of classical and quantum information,' Comm. Math. Phys. , vol. 256, no. 2, pp. 287-303, 2005, arXiv:quant-ph/0311131.",
+      "enumerated": true,
+      "marker": "[18]"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.9609999999999,
+            "t": 557.9961128199997,
+            "r": 299.95344814999135,
+            "b": 533.0435629839822,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "[19] M. Horodecki, P. Horodecki, and R. Horodecki, 'Separability of mixed states: necessary and sufficient conditions,' Phys. Lett. A , vol. 223, no. 1-2, pp. 1-8, 1996.",
+      "text": "M. Horodecki, P. Horodecki, and R. Horodecki, 'Separability of mixed states: necessary and sufficient conditions,' Phys. Lett. A , vol. 223, no. 1-2, pp. 1-8, 1996.",
+      "enumerated": true,
+      "marker": "[19]"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96139999999991,
+            "t": 530.5160328199996,
+            "r": 299.9541274999999,
+            "b": 514.6837929839821,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "[20] A. Peres, 'Separability criterion for density matrices,' Phys. Rev. Lett. , vol. 77, pp. 1413-1415, 1996.",
+      "text": "A. Peres, 'Separability criterion for density matrices,' Phys. Rev. Lett. , vol. 77, pp. 1413-1415, 1996.",
+      "enumerated": true,
+      "marker": "[20]"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96079999999992,
+            "t": 512.1562628199997,
+            "r": 299.9523522822614,
+            "b": 487.20371298398214,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "[21] G. Smith, 'Private classical capacity with a symmetric side channel and its application to quantum cryptography,' Phys. Rev. A , vol. 78, no. 2, p. 022306, 2008, arXiv:0705.3838.",
+      "text": "G. Smith, 'Private classical capacity with a symmetric side channel and its application to quantum cryptography,' Phys. Rev. A , vol. 78, no. 2, p. 022306, 2008, arXiv:0705.3838.",
+      "enumerated": true,
+      "marker": "[21]"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.961199999999906,
+            "t": 484.7961028199997,
+            "r": 300.0147316374016,
+            "b": 459.84355298398214,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "[22] G. Smith and J. Yard, 'Quantum Communication with ZeroCapacity Channels,' Science , vol. 321, pp. 1812-1816, Sep. 2008, arXiv:0807.4935.",
+      "text": "G. Smith and J. Yard, 'Quantum Communication with ZeroCapacity Channels,' Science , vol. 321, pp. 1812-1816, Sep. 2008, arXiv:0807.4935.",
+      "enumerated": true,
+      "marker": "[22]"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96119999999989,
+            "t": 457.3160228199997,
+            "r": 299.8951576274024,
+            "b": 432.48378298398217,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "[23] G. Smith and J. A. Smolin, 'Can Nonprivate Channels Transmit Quantum Information?' Physical Review Letters , vol. 102, no. 1, p. 010501, Jan. 2009, arXiv:0810.0276.",
+      "text": "G. Smith and J. A. Smolin, 'Can Nonprivate Channels Transmit Quantum Information?' Physical Review Letters , vol. 102, no. 1, p. 010501, Jan. 2009, arXiv:0810.0276.",
+      "enumerated": true,
+      "marker": "[23]"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96129999999991,
+            "t": 429.95625281999975,
+            "r": 299.9537305869543,
+            "b": 405.12362298398216,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "[24] K. Li, A. Winter, X. Zou, and G. Guo, 'Private Capacity of Quantum Channels is Not Additive,' Physical Review Letters , vol. 103, no. 12, p. 120501, Sep. 2009, arXiv:0903.4308.",
+      "text": "K. Li, A. Winter, X. Zou, and G. Guo, 'Private Capacity of Quantum Channels is Not Additive,' Physical Review Letters , vol. 103, no. 12, p. 120501, Sep. 2009, arXiv:0903.4308.",
+      "enumerated": true,
+      "marker": "[24]"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96129999999994,
+            "t": 402.59609281999974,
+            "r": 299.95323038474265,
+            "b": 377.6435429839822,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "[25] G. Smith and J. A. Smolin, 'Extensive Nonadditivity of Privacy,' Physical Review Letters , vol. 103, no. 12, p. 120503, Sep. 2009, arXiv:0904.4050.",
+      "text": "G. Smith and J. A. Smolin, 'Extensive Nonadditivity of Privacy,' Physical Review Letters , vol. 103, no. 12, p. 120503, Sep. 2009, arXiv:0904.4050.",
+      "enumerated": true,
+      "marker": "[25]"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.961499999999916,
+            "t": 375.11601281999975,
+            "r": 299.95343595457655,
+            "b": 350.2837729839822,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "[26] M. B. Hastings, 'Superadditivity of communication capacity using entangled inputs,' Nature Physics , vol. 5, pp. 255-257, Apr. 2009, arXiv:0809.3972.",
+      "text": "M. B. Hastings, 'Superadditivity of communication capacity using entangled inputs,' Nature Physics , vol. 5, pp. 255-257, Apr. 2009, arXiv:0809.3972.",
+      "enumerated": true,
+      "marker": "[26]"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96119999999988,
+            "t": 347.7562428199998,
+            "r": 299.95185555083486,
+            "b": 322.9236129839822,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "[27] P. Hayden, M. Horodecki, J. Yard, and A. Winter, 'A decoupling approach to the quantum capacity,' Open Syst. Inf. Dyn. , vol. 15, pp. 7-19, 2008, arXiv:quant-ph/0702005.",
+      "text": "P. Hayden, M. Horodecki, J. Yard, and A. Winter, 'A decoupling approach to the quantum capacity,' Open Syst. Inf. Dyn. , vol. 15, pp. 7-19, 2008, arXiv:quant-ph/0702005.",
+      "enumerated": true,
+      "marker": "[27]"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96079999999992,
+            "t": 320.3960828199998,
+            "r": 299.95229714228617,
+            "b": 304.4435329839822,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "[28] J. Eisert and M. M. Wolf, 'Gaussian quantum channels,' 2005, arXiv:quant-ph/0505151.",
+      "text": "J. Eisert and M. M. Wolf, 'Gaussian quantum channels,' 2005, arXiv:quant-ph/0505151.",
+      "enumerated": true,
+      "marker": "[28]"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.95999999999992,
+            "t": 301.91639281999977,
+            "r": 300.0726096668167,
+            "b": 268.0837629839822,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "[29] V. Giovannetti, S. Guha, S. Lloyd, L. Maccone, J. H. Shapiro, and H. P. Yuen, 'Classical Capacity of the Lossy Bosonic Channel: The Exact Solution,' Physical Review Letters , vol. 92, no. 2, p. 027902, 2004, arXiv:quant-ph/0308012.",
+      "text": "V. Giovannetti, S. Guha, S. Lloyd, L. Maccone, J. H. Shapiro, and H. P. Yuen, 'Classical Capacity of the Lossy Bosonic Channel: The Exact Solution,' Physical Review Letters , vol. 92, no. 2, p. 027902, 2004, arXiv:quant-ph/0308012.",
+      "enumerated": true,
+      "marker": "[29]"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96029999999996,
+            "t": 265.55623281999976,
+            "r": 299.74063676195976,
+            "b": 240.72360298398223,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "[30] V. Giovannetti, A. S. Holevo, S. Lloyd, and L. Maccone, 'Generalized minimal output entropy conjecture for Gaussian channels: definitions and some exact results,' 2010, arXiv:1004.4787.",
+      "text": "V. Giovannetti, A. S. Holevo, S. Lloyd, and L. Maccone, 'Generalized minimal output entropy conjecture for Gaussian channels: definitions and some exact results,' 2010, arXiv:1004.4787.",
+      "enumerated": true,
+      "marker": "[30]"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96049999999994,
+            "t": 238.1960728199998,
+            "r": 300.01441054837903,
+            "b": 213.2435229839822,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "[31] M. M. Wolf and J. Eisert, 'Classical information capacity of a class of quantum channels,' New Journal of Physics , vol. 7, p. 93, Apr. 2005, arXiv:quant-ph/0412133.",
+      "text": "M. M. Wolf and J. Eisert, 'Classical information capacity of a class of quantum channels,' New Journal of Physics , vol. 7, p. 93, Apr. 2005, arXiv:quant-ph/0412133.",
+      "enumerated": true,
+      "marker": "[31]"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96029999999996,
+            "t": 210.71599281999977,
+            "r": 300.0143617160359,
+            "b": 185.88375298398228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "[32] C. H. Bennett, D. P. DiVincenzo, and J. A. Smolin, 'Capacities of quantum erasure channels,' Phys. Rev. Lett. , vol. 78, no. 16, pp. 32173220, Apr 1997.",
+      "text": "C. H. Bennett, D. P. DiVincenzo, and J. A. Smolin, 'Capacities of quantum erasure channels,' Phys. Rev. Lett. , vol. 78, no. 16, pp. 32173220, Apr 1997.",
+      "enumerated": true,
+      "marker": "[32]"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.960699999999974,
+            "t": 183.35622281999986,
+            "r": 299.953350703323,
+            "b": 158.5235929839822,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "[33] F. G. S. L. Brandao and M. Horodecki, 'On Hastings' counterexamples to the minimum output entropy additivity conjecture,' Jul. 2009, arXiv:0907.3210.",
+      "text": "F. G. S. L. Brandao and M. Horodecki, 'On Hastings' counterexamples to the minimum output entropy additivity conjecture,' Jul. 2009, arXiv:0907.3210.",
+      "enumerated": true,
+      "marker": "[33]"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96089999999995,
+            "t": 155.9960628199998,
+            "r": 299.95295260716216,
+            "b": 131.04351298398228,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "[34] M. Fukuda, C. King, and D. K. Moser, 'Comments on Hastings' Additivity Counterexamples,' Communications in Mathematical Physics , vol. 296, pp. 111-143, May 2010, arXiv:0905.3697.",
+      "text": "M. Fukuda, C. King, and D. K. Moser, 'Comments on Hastings' Additivity Counterexamples,' Communications in Mathematical Physics , vol. 296, pp. 111-143, May 2010, arXiv:0905.3697.",
+      "enumerated": true,
+      "marker": "[34]"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96079999999998,
+            "t": 128.63629281999988,
+            "r": 299.9529421893192,
+            "b": 103.68374298398226,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "[35] G. Aubrun, S. Szarek, and E. Werner, 'Hastings' additivity counterexample via Dvoretzky's theorem,' ArXiv e-prints , Mar. 2010, arXiv:1003.4925.",
+      "text": "G. Aubrun, S. Szarek, and E. Werner, 'Hastings' additivity counterexample via Dvoretzky's theorem,' ArXiv e-prints , Mar. 2010, arXiv:1003.4925.",
+      "enumerated": true,
+      "marker": "[35]"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96079999999995,
+            "t": 101.15621281999984,
+            "r": 299.774820755274,
+            "b": 85.32358298398219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "[36] F. G. S. L. Brand˜ ao and J. Oppenheim, 'Public Quantum Communication and Superactivation,' 2010, arXiv:1005.1975.",
+      "text": "F. G. S. L. Brand˜ ao and J. Oppenheim, 'Public Quantum Communication and Superactivation,' 2010, arXiv:1005.1975.",
+      "enumerated": true,
+      "marker": "[36]"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96099999999993,
+            "t": 82.79605281999977,
+            "r": 299.9540274999999,
+            "b": 66.84350298398226,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "[37] T. Cover, 'Comments on broadcast channel,' IEEE Trans. Info. Theo. , vol. 44, no. 6, pp. 2524-2529, 1998.",
+      "text": "T. Cover, 'Comments on broadcast channel,' IEEE Trans. Info. Theo. , vol. 44, no. 6, pp. 2524-2529, 1998.",
+      "enumerated": true,
+      "marker": "[37]"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 312.0014999999999,
+            "t": 731.2760528199998,
+            "r": 562.8742521581754,
+            "b": 715.4434229839823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "[38] --, 'Broadcast channels,' IEEE Trans. Inf. Theory , vol. 18, pp. 2-14, 1972.",
+      "text": "--, 'Broadcast channels,' IEEE Trans. Inf. Theory , vol. 18, pp. 2-14, 1972.",
+      "enumerated": true,
+      "marker": "[38]"
+    }
+  ],
+  "pictures": [],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/groups/0"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.973167419433594,
+            "t": 739.4495048522949,
+            "r": 268.201904296875,
+            "b": 663.7223663330078,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/0"
+            }
+          }
+        ],
+        "num_rows": 1,
+        "num_cols": 1,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

@@ -1,0 +1,5782 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "0910.4636_on_approximation_of_smoothing_probabilities_for_hi",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5872655565569750600,
+    "filename": "0910.4636_on_approximation_of_smoothing_probabilities_for_hi.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/texts/121"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/texts/141"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/texts/143"
+      },
+      {
+        "$ref": "#/texts/144"
+      },
+      {
+        "$ref": "#/texts/145"
+      },
+      {
+        "$ref": "#/texts/146"
+      },
+      {
+        "$ref": "#/texts/147"
+      },
+      {
+        "$ref": "#/texts/148"
+      },
+      {
+        "$ref": "#/texts/149"
+      },
+      {
+        "$ref": "#/texts/150"
+      },
+      {
+        "$ref": "#/texts/151"
+      },
+      {
+        "$ref": "#/texts/152"
+      },
+      {
+        "$ref": "#/texts/153"
+      },
+      {
+        "$ref": "#/texts/154"
+      },
+      {
+        "$ref": "#/texts/155"
+      },
+      {
+        "$ref": "#/texts/156"
+      },
+      {
+        "$ref": "#/texts/157"
+      },
+      {
+        "$ref": "#/texts/158"
+      },
+      {
+        "$ref": "#/texts/159"
+      },
+      {
+        "$ref": "#/texts/160"
+      },
+      {
+        "$ref": "#/texts/161"
+      },
+      {
+        "$ref": "#/texts/162"
+      },
+      {
+        "$ref": "#/texts/163"
+      },
+      {
+        "$ref": "#/texts/164"
+      },
+      {
+        "$ref": "#/texts/165"
+      },
+      {
+        "$ref": "#/texts/166"
+      },
+      {
+        "$ref": "#/texts/167"
+      },
+      {
+        "$ref": "#/texts/168"
+      },
+      {
+        "$ref": "#/texts/169"
+      },
+      {
+        "$ref": "#/texts/170"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/186"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/171"
+        },
+        {
+          "$ref": "#/texts/172"
+        },
+        {
+          "$ref": "#/texts/173"
+        },
+        {
+          "$ref": "#/texts/174"
+        },
+        {
+          "$ref": "#/texts/175"
+        },
+        {
+          "$ref": "#/texts/176"
+        },
+        {
+          "$ref": "#/texts/177"
+        },
+        {
+          "$ref": "#/texts/178"
+        },
+        {
+          "$ref": "#/texts/179"
+        },
+        {
+          "$ref": "#/texts/180"
+        },
+        {
+          "$ref": "#/texts/181"
+        },
+        {
+          "$ref": "#/texts/182"
+        },
+        {
+          "$ref": "#/texts/183"
+        },
+        {
+          "$ref": "#/texts/184"
+        },
+        {
+          "$ref": "#/texts/185"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 605.86,
+            "r": 36.206559297218156,
+            "b": 247.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "arXiv:0910.4636v3  [stat.ML]  10 May 2011",
+      "text": "arXiv:0910.4636v3  [stat.ML]  10 May 2011",
+      "hyperlink": "http://arxiv.org/abs/0910.4636v3"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.4,
+            "t": 730.3171844000001,
+            "r": 505.86103788517437,
+            "b": 717.8025929505125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "On approximation of smoothing probabilities for hidden Markov models",
+      "text": "On approximation of smoothing probabilities for hidden Markov models",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 271.43999999999994,
+            "t": 699.1565887000002,
+            "r": 323.52692499999995,
+            "b": 688.8444782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Jüri Lember 1",
+      "text": "Jüri Lember 1"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 210.95999999999998,
+            "t": 680.6646818300001,
+            "r": 384.26446712106826,
+            "b": 673.8066530642607,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Tartu University, J. Liivi 2 - 507, Tartu 50408, Estonia",
+      "text": "Tartu University, J. Liivi 2 - 507, Tartu 50408, Estonia"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.5602,
+            "t": 615.59474464,
+            "r": 101.7177618500931,
+            "b": 606.7202641480527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.56019999999995,
+            "t": 597.69506768,
+            "r": 530.9576706968493,
+            "b": 553.1242782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            430
+          ]
+        }
+      ],
+      "orig": "We consider the smoothing probabilities of hidden Markov model (HMM). We show that under fairly general conditions for HMM, the exponential forgetting still holds, and the smoothing probabilities can be well approximated with the ones of double sided HMM. This makes it possible to use ergodic theorems. As an applications we consider the pointwise maximum a posteriori segmentation, and show that the corresponding risks converge",
+      "text": "We consider the smoothing probabilities of hidden Markov model (HMM). We show that under fairly general conditions for HMM, the exponential forgetting still holds, and the smoothing probabilities can be well approximated with the ones of double sided HMM. This makes it possible to use ergodic theorems. As an applications we consider the pointwise maximum a posteriori segmentation, and show that the corresponding risks converge"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.56019999999995,
+            "t": 542.97516768,
+            "r": 314.9411394035395,
+            "b": 534.2844782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Key words: Hidden Markov models, smoothing, segmentation",
+      "text": "Key words: Hidden Markov models, smoothing, segmentation"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.5602,
+            "t": 494.03474464,
+            "r": 131.1794112292001,
+            "b": 485.1602641480527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.56002999999993,
+            "t": 474.97307805,
+            "r": 531.0358495578092,
+            "b": 344.9243782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1265
+          ]
+        }
+      ],
+      "orig": "Let Y = { Yk } ∞ -∞ be a double-sided stationary MC with states S = { 1 , . . . , K } and irreducible aperiodic transition matrix ( P ( i , j ) ) . Let X = { Xk } ∞ -∞ be the (double-sided) process such that: 1) given { Yk } the random variables { Xk } are conditionally independent; 2) the distribution of Xn depends on { Yk } only through Yn . The process X is sometimes called the hidden Markov process (HMP) and the pair ( Y , X ) is referred to as hidden Markov model (HMM). The name is motivated by the assumption that the process Y (sometimes called as regime ) is non-observable. The distributions Pi : = P ( X 1 ∈ ·| Y 1 = i ) are called emission distributions . We shall assume that the emission distributions are defined on a measurable space ( X , B ), where X is usually R d and B is the Borel σ -algebra. Without loss of generality, we shall assume that the measures Pi have densities f i with respect to some reference measure µ . Since our study is mainly motivated by statistical learning, we would like to be consistent with the notation used there ( X for the observations and Y for the latent variables) and therefore our notation differs from the one used in the HMM literature, where usually X stands for the regime and Y for the observations.",
+      "text": "Let Y = { Yk } ∞ -∞ be a double-sided stationary MC with states S = { 1 , . . . , K } and irreducible aperiodic transition matrix ( P ( i , j ) ) . Let X = { Xk } ∞ -∞ be the (double-sided) process such that: 1) given { Yk } the random variables { Xk } are conditionally independent; 2) the distribution of Xn depends on { Yk } only through Yn . The process X is sometimes called the hidden Markov process (HMP) and the pair ( Y , X ) is referred to as hidden Markov model (HMM). The name is motivated by the assumption that the process Y (sometimes called as regime ) is non-observable. The distributions Pi : = P ( X 1 ∈ ·| Y 1 = i ) are called emission distributions . We shall assume that the emission distributions are defined on a measurable space ( X , B ), where X is usually R d and B is the Borel σ -algebra. Without loss of generality, we shall assume that the measures Pi have densities f i with respect to some reference measure µ . Since our study is mainly motivated by statistical learning, we would like to be consistent with the notation used there ( X for the observations and Y for the latent variables) and therefore our notation differs from the one used in the HMM literature, where usually X stands for the regime and Y for the observations."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.56119999999981,
+            "t": 341.61506768,
+            "r": 533.7287528524763,
+            "b": 297.0446782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            362
+          ]
+        }
+      ],
+      "orig": "HMM's are widely used in various fields of applications, including speech recognition (Rabiner, 1989; Jelinek, 2001), bioinformatics (Koski, 2001; Durbin et al., 1998), language processing, image analysis (Li et al., 2000) and many others. For general overview about HMM's, we refer to textbook (Cappé et al., 2005) and overview paper (Ephraim and Merhav, 2002).",
+      "text": "HMM's are widely used in various fields of applications, including speech recognition (Rabiner, 1989; Jelinek, 2001), bioinformatics (Koski, 2001; Durbin et al., 1998), language processing, image analysis (Li et al., 2000) and many others. For general overview about HMM's, we refer to textbook (Cappé et al., 2005) and overview paper (Ephraim and Merhav, 2002)."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.56115999999975,
+            "t": 294.16410952,
+            "r": 530.9845834649586,
+            "b": 261.28447820415795,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            298
+          ]
+        }
+      ],
+      "orig": "The central objects of the present papers are the smoothing probabilities P ( Yt = s | Xz , . . . , Xn ) , where t , z , n ∈ Z and s ∈ S . They are important tools for making the inferences about the regime at time t . By Levy's martingale convergence theorem, it immediately follows that as n →∞ ,",
+      "text": "The central objects of the present papers are the smoothing probabilities P ( Yt = s | Xz , . . . , Xn ) , where t , z , n ∈ Z and s ∈ S . They are important tools for making the inferences about the regime at time t . By Levy's martingale convergence theorem, it immediately follows that as n →∞ ,"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 169.9212599999998,
+            "t": 250.69287804999988,
+            "r": 530.8383433274071,
+            "b": 237.813145653221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "P ( Yt = s | Xz , . . . , Xn ) → P ( Yt = s | Xz , . . . ) = : P ( Yt = s | X ∞ z ) , a . s .. (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.56144399999982,
+            "t": 228.49287804999994,
+            "r": 531.0793180538526,
+            "b": 205.964578204158,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "Let P ( Yt ∈ ·| X ∞ z ) denote the K -dimensional vector of probabilities from the right side of (1). By martingale convergence theorem, again, as z →-∞",
+      "text": "Let P ( Yt ∈ ·| X ∞ z ) denote the K -dimensional vector of probabilities from the right side of (1). By martingale convergence theorem, again, as z →-∞"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 154.56126399999982,
+            "t": 195.37295804999997,
+            "r": 440.97178799999983,
+            "b": 182.61314565322107,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "P ( Yt = s | X ∞ z ) → P ( Yt = s | · · · , X -1 , X 0 , X 1 , . . . ) = : P ( Yt = s | X ∞ -∞ ) , a.s. .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.56085999999993,
+            "t": 173.29287805,
+            "r": 531.1042721599999,
+            "b": 150.76457820415817,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.56011000000001,
+            "t": 727.7241095200001,
+            "r": 530.9836142964728,
+            "b": 670.1531743222548,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            240,
+            808
+          ]
+        }
+      ],
+      "orig": "The double-sided smoothing process { P ( Yt ∈ ·| X ∞ -∞ ) } ∞ -∞ is stationary and ergodic, hence for this process the ergodic theorems hold. To be able to us these ergodic theorems for establishing the limit theorems in terms of smoothing probabilities P ( Yt = s | Xz , . . . , Xn ) , it is necessary to approximate it with double-sided smoothing process. This approach is, among others, used in (Bickel et al., 1998). In other words, we are interested in bounding the difference ‖ P ( Yt ∈ ·| X n z ) -P ( Yt ∈ ·| X ∞ -∞ ) ‖ , where ‖ · ‖ stands for total variation distance. Our first main result, Corollary 2.1 states that under so-called cluster assumption A , there exists a bounded random variable C and a constant ρ o ∈ (0 , 1) such that for every z 2 , z 1 , t , n such that z 2 ≤ z 1 ≤ 1 ≤ t ≤ n ,",
+      "text": "The double-sided smoothing process { P ( Yt ∈ ·| X ∞ -∞ ) } ∞ -∞ is stationary and ergodic, hence for this process the ergodic theorems hold. To be able to us these ergodic theorems for establishing the limit theorems in terms of smoothing probabilities P ( Yt = s | Xz , . . . , Xn ) , it is necessary to approximate it with double-sided smoothing process. This approach is, among others, used in (Bickel et al., 1998). In other words, we are interested in bounding the difference ‖ P ( Yt ∈ ·| X n z ) -P ( Yt ∈ ·| X ∞ -∞ ) ‖ , where ‖ · ‖ stands for total variation distance. Our first main result, Corollary 2.1 states that under so-called cluster assumption A , there exists a bounded random variable C and a constant ρ o ∈ (0 , 1) such that for every z 2 , z 1 , t , n such that z 2 ≤ z 1 ≤ 1 ≤ t ≤ n ,"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.8398,
+            "t": 126.21621282000001,
+            "r": 222.0141597937105,
+            "b": 119.13875514000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Email address: jyril@ut.ee (Jüri Lember)",
+      "text": "Email address: jyril@ut.ee (Jüri Lember)"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.35999999999999,
+            "t": 117.93699795999999,
+            "r": 214.94491352363912,
+            "b": 109.42342298398239,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "1 Estonian science foundation grant no 7553",
+      "text": "1 Estonian science foundation grant no 7553"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.55998999999998,
+            "t": 104.42414183000005,
+            "r": 236.62008551252163,
+            "b": 97.56611306426066,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Preprint submitted to Statistics and Probability letters",
+      "text": "Preprint submitted to Statistics and Probability letters"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 486.11999,
+            "t": 104.42414183000005,
+            "r": 530.6650880552154,
+            "b": 97.56611306426066,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "June 29, 2021",
+      "text": "June 29, 2021"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 203.160434,
+            "t": 660.01287805,
+            "r": 392.1305136535049,
+            "b": 634.3482284800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "‖ P ( Yt ∈ ·| X n z 1 ) -P ( Yt ∈ ·| X n z 2 ) ‖ ≤ C 1 ρ 1 t -1 , a . s ..",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.56067800000011,
+            "t": 635.7349876800001,
+            "r": 533.5009019074749,
+            "b": 603.1202841480529,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "Similar results can be found in the literature for the special case, where transition matrix has all positive entries or the emission densities f i are all positive (Gland and Mevel, 2000; Gerencser and Molnar-Saska, 2002; Cappé et al., 2005). Both conditions are restrictive, and the assumption A relaxes them.",
+      "text": "Similar results can be found in the literature for the special case, where transition matrix has all positive entries or the emission densities f i are all positive (Gland and Mevel, 2000; Gerencser and Molnar-Saska, 2002; Cappé et al., 2005). Both conditions are restrictive, and the assumption A relaxes them."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.56059800000011,
+            "t": 599.8552876800002,
+            "r": 530.8377172217473,
+            "b": 579.2401841480529,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "We go one more step further, considering the approximation of smoothing probabilities with two-sided limits. Our second main result, Theorem 2.1 states that under A , for every z ≤ 1 ≤ t ≤ k ≤ n",
+      "text": "We go one more step further, considering the approximation of smoothing probabilities with two-sided limits. Our second main result, Theorem 2.1 states that under A , for every z ≤ 1 ≤ t ≤ k ≤ n"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 187.8009380000001,
+            "t": 568.3326880499998,
+            "r": 407.49109853639874,
+            "b": 555.213105653221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "‖ P ( Yt ∈ ·| X n z ) -P ( Yt ∈ ·| X ∞ -∞ ) ‖ ≤ C 1 ρ t -1 o + C ′ k ρ k -t o a . s .,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.56142800000038,
+            "t": 546.0127280499997,
+            "r": 531.1051130434837,
+            "b": 511.4843982041579,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            334
+          ]
+        }
+      ],
+      "orig": "where ρ o ∈ (0 , 1) is a fixed constant, C 1 is a finite random variable as in the previous bound and { C ′ k } is a finite ergodic process. Of course, without the ergodic property, the existence of { C ′ k } would be trivial, however, as shown in the proof of Theorem 3.1, the ergodic property makes the bound useful in applications.",
+      "text": "where ρ o ∈ (0 , 1) is a fixed constant, C 1 is a finite random variable as in the previous bound and { C ′ k } is a finite ergodic process. Of course, without the ergodic property, the existence of { C ′ k } would be trivial, however, as shown in the proof of Theorem 3.1, the ergodic property makes the bound useful in applications."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.56162000000046,
+            "t": 508.43446463999976,
+            "r": 530.9171714648149,
+            "b": 463.72419820415786,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            346
+          ]
+        }
+      ],
+      "orig": "The condition A was introduced in (Lember and Koloydenko, 2010, 2008), where under the conditions slightly stronger than A the existence of infinite Viterbi alignment was shown. The technique used in these papers differs heavily rom the one in the present paper, yet the same assumption appears. This implies that A is indeed essential for HMM's.",
+      "text": "The condition A was introduced in (Lember and Koloydenko, 2010, 2008), where under the conditions slightly stronger than A the existence of infinite Viterbi alignment was shown. The technique used in these papers differs heavily rom the one in the present paper, yet the same assumption appears. This implies that A is indeed essential for HMM's."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.56089000000043,
+            "t": 460.41488767999977,
+            "r": 531.0922544562048,
+            "b": 356.0842982041578,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1051
+          ]
+        }
+      ],
+      "orig": "Our motivation in studying the limit theorems of smoothing processes comes from the segmentation theory. Generally speaking, the segmentation problem consists of estimating the unobserved realization of underlying Markov chain Y 1 , . . . , Yn given the n observations from from HMP X 1 , . . . , Xn : x n : = x 1 , . . . , xn . Formally, we are looking for a mapping g : X n → S n called classifier that maps every sequence of observations into a state sequence, see (Koloydenko and Lember, 2010; Kuljus and Lember, 2010) for details. For finding the best g , it is natural to associate to every state sequence s n ∈ S n a measure of goodness R ( s n | x n ), referred to as the risk of s n . The solution of the segmentation problem is then the state sequence with minimal risk. In the framework of pattern recognition theory, the risk is specified via loss-function L : S n × S n → [0 , ∞ ], where L ( a n , b n ) measures the loss when the actual state sequence is a n and the prognosis is b n . For any state sequence s n ∈ S n , the risk is then",
+      "text": "Our motivation in studying the limit theorems of smoothing processes comes from the segmentation theory. Generally speaking, the segmentation problem consists of estimating the unobserved realization of underlying Markov chain Y 1 , . . . , Yn given the n observations from from HMP X 1 , . . . , Xn : x n : = x 1 , . . . , xn . Formally, we are looking for a mapping g : X n → S n called classifier that maps every sequence of observations into a state sequence, see (Koloydenko and Lember, 2010; Kuljus and Lember, 2010) for details. For finding the best g , it is natural to associate to every state sequence s n ∈ S n a measure of goodness R ( s n | x n ), referred to as the risk of s n . The solution of the segmentation problem is then the state sequence with minimal risk. In the framework of pattern recognition theory, the risk is specified via loss-function L : S n × S n → [0 , ∞ ], where L ( a n , b n ) measures the loss when the actual state sequence is a n and the prognosis is b n . For any state sequence s n ∈ S n , the risk is then"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 160.4409300000004,
+            "t": 345.65752783999966,
+            "r": 530.8389913274076,
+            "b": 321.50808847999974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "R ( s n | x n ) : = E [ L ( Y n , s n ) | X n = x n ] = ∑ a n ∈ S n L ( a n , s n ) P ( Y n = a n | X n = x n ) . (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.56143000000037,
+            "t": 311.37495767999974,
+            "r": 337.5968200124722,
+            "b": 302.6842682041579,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "In this paper, we consider the case when the loss function is given as",
+      "text": "In this paper, we consider the case when the loss function is given as"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 247.32163000000037,
+            "t": 292.17362404999994,
+            "r": 530.8378513274072,
+            "b": 261.98832848000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "L ( a n , b n ) = 1 n n ∑ i = 1 l ( ai , bi ) , (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.56000999999989,
+            "t": 252.16406951999988,
+            "r": 531.03547696,
+            "b": 123.64449820415803,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1314
+          ]
+        }
+      ],
+      "orig": "where l ( ai , bi ) ≥ 0 is the loss of classifying the i -th symbol ai as bi . Typically, for every state s , l ( s , s ) = 0. Most frequently, l ( s , s ′ ) = I { s nequal s ′ } and then the risk R ( s n | x n ) just counts the expected number of misclassified symbols. Given a classifier g , the quantity R ( g , x n ) : = R ( g ( x n ) | x n ) measures the goodness of it when applied to the observations x n . When g is optimal in the sense of risk, then R ( g , x ) = min s n R ( s n | x n ) = : R ( x n ). We are interested in the random variables R ( g , X n ). When g is maximum likelihood classifier - so called Viterbi alignment - and HMM satisfies A , then (under an additional mild assumption), it can be shown that there exists a constant Rv such that R ( g , X n ) → Rv a.s. (Caliebe, 2006; Lember and Koloydenko, 2010). In this paper, we show that under A , the similar results holds for optimal alignment: there exists a constant R such that R ( X n ) → R , a.s.. Those numbers (clearly Rv ≥ R ) depend only on the model and they measure the asymptotic goodness of the segmentation. If l ( s , s ′ ) = I { s nequal s ′ } , then Rv and R are the asymptotic symbol-by symbol misclassification rates when Viterbi alignment or the best alignment (in given sense) are used in segmentation, respectively.",
+      "text": "where l ( ai , bi ) ≥ 0 is the loss of classifying the i -th symbol ai as bi . Typically, for every state s , l ( s , s ) = 0. Most frequently, l ( s , s ′ ) = I { s nequal s ′ } and then the risk R ( s n | x n ) just counts the expected number of misclassified symbols. Given a classifier g , the quantity R ( g , x n ) : = R ( g ( x n ) | x n ) measures the goodness of it when applied to the observations x n . When g is optimal in the sense of risk, then R ( g , x ) = min s n R ( s n | x n ) = : R ( x n ). We are interested in the random variables R ( g , X n ). When g is maximum likelihood classifier - so called Viterbi alignment - and HMM satisfies A , then (under an additional mild assumption), it can be shown that there exists a constant Rv such that R ( g , X n ) → Rv a.s. (Caliebe, 2006; Lember and Koloydenko, 2010). In this paper, we show that under A , the similar results holds for optimal alignment: there exists a constant R such that R ( X n ) → R , a.s.. Those numbers (clearly Rv ≥ R ) depend only on the model and they measure the asymptotic goodness of the segmentation. If l ( s , s ′ ) = I { s nequal s ′ } , then Rv and R are the asymptotic symbol-by symbol misclassification rates when Viterbi alignment or the best alignment (in given sense) are used in segmentation, respectively."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 295.2015299999996,
+            "t": 105.81488767999997,
+            "r": 300.1828499999996,
+            "b": 97.12419820415812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.5602,
+            "t": 727.5547446400001,
+            "r": 271.3558104650451,
+            "b": 718.6802641480527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "2. Approximation of the smoothing probabilities",
+      "text": "2. Approximation of the smoothing probabilities",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.5602,
+            "t": 707.4057039200001,
+            "r": 141.75557447088562,
+            "b": 698.8331658116546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "2.1. Preliminiaries",
+      "text": "2.1. Preliminiaries",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.55954999999989,
+            "t": 695.1341240500001,
+            "r": 531.0342825513034,
+            "b": 658.1532443222549,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            406
+          ]
+        }
+      ],
+      "orig": "Throughout the paper, let x v u where u , v ∈ Z , u ≤ v be a realization of Xu , . . . , Xv . We refer to x v u as the observations . When u = 1, then it is omitted from the notation, i.e. x n : = x n 1 . Let p ( x v u ) stand for the likelihood of the observations x v u . For every u ≤ t ≤ v and s ∈ S , we also define the forward and backward variables α ( x t u , s ) and β ( x v t + 1 | s ) as follows",
+      "text": "Throughout the paper, let x v u where u , v ∈ Z , u ≤ v be a realization of Xu , . . . , Xv . We refer to x v u as the observations . When u = 1, then it is omitted from the notation, i.e. x n : = x n 1 . Let p ( x v u ) stand for the likelihood of the observations x v u . For every u ≤ t ≤ v and s ∈ S , we also define the forward and backward variables α ( x t u , s ) and β ( x v t + 1 | s ) as follows"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 143.39915999999988,
+            "t": 650.3381078400002,
+            "r": 451.88981999999993,
+            "b": 625.033324322255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "α ( x t , s ) : = p ( x t u | Yt = s ) P ( Yt = s ) , β ( x v t + 1 | s ) : = { 1 , if t = v ; p ( x v t + 1 | Yt = s ) , if t < v . .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.55858999999992,
+            "t": 617.6141740500002,
+            "r": 530.9399457396622,
+            "b": 595.3648282041585,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "Here p ( x t u | Yt = s ) and p ( x v t + 1 | Yt = s ) are conditional densities (see also Ephraim and Merhav, 2002). The backward variables can be calculated recursively (backward recursion):",
+      "text": "Here p ( x t u | Yt = s ) and p ( x v t + 1 | Yt = s ) are conditional densities (see also Ephraim and Merhav, 2002). The backward variables can be calculated recursively (backward recursion):"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 221.75878999999995,
+            "t": 586.4982578400004,
+            "r": 373.64941999999974,
+            "b": 562.3488184800004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "β ( x n u + 1 | s ) = ∑ i ∈ S P ( s , i ) f i ( xu + 1) β ( x n u + 2 | i ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.55819199999968,
+            "t": 555.3340740500005,
+            "r": 531.0582072626883,
+            "b": 509.20462820415884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            477
+          ]
+        }
+      ],
+      "orig": "For every t ∈ Z , we shall denote by π t [ x v u ] the K -dimensional vector of conditional probabilities P ( Yt ∈ ·| X v u = x v u ). Our first goal is to bound the difference π t [ x n z 1 ] -π t [ x n z 2 ], where z 2 ≤ z 1 ≤ 1 ≤ t ≤ n . For that, we shall follow the approach in (Cappé et al., 2005). It bases on the observation that give n the observations x n z , the underlying chain Yz , . . . , Yn is a conditionally inhomogeneous MC, i.e for every z ≤ k < n and j ∈ S",
+      "text": "For every t ∈ Z , we shall denote by π t [ x v u ] the K -dimensional vector of conditional probabilities P ( Yt ∈ ·| X v u = x v u ). Our first goal is to bound the difference π t [ x n z 1 ] -π t [ x n z 2 ], where z 2 ≤ z 1 ≤ 1 ≤ t ≤ n . For that, we shall follow the approach in (Cappé et al., 2005). It bases on the observation that give n the observations x n z , the underlying chain Yz , . . . , Yn is a conditionally inhomogeneous MC, i.e for every z ≤ k < n and j ∈ S"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 152.99891199999973,
+            "t": 499.7738740500007,
+            "r": 442.52977399999986,
+            "b": 487.1730956532215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "P ( Yk + 1 = j | Y k z = y k z , X n z = x n z ) = P ( Yk + 1 = j | Yk = yk , X n z = x n z ) = : Fk ( yk , j ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.55911399999985,
+            "t": 477.6443595200004,
+            "r": 533.470109172815,
+            "b": 442.03319432225516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            272
+          ]
+        }
+      ],
+      "orig": "where for every i ∈ S , F ( i , j ) is called the forward smoothing probability (Cappé et al., 2005, Prop. 3.3.2), also (Ephraim and Merhav, 2002, (5.2.1)). It is known (Cappé et al ., 2005, (5.21)), (Ephraim and Merhav, 2002, (3.30)) that if β ( x n k + 1 | i ) > 0, then",
+      "text": "where for every i ∈ S , F ( i , j ) is called the forward smoothing probability (Cappé et al., 2005, Prop. 3.3.2), also (Ephraim and Merhav, 2002, (5.2.1)). It is known (Cappé et al ., 2005, (5.21)), (Ephraim and Merhav, 2002, (3.30)) that if β ( x n k + 1 | i ) > 0, then"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 230.63900399999983,
+            "t": 443.85391405000047,
+            "r": 530.8375113274072,
+            "b": 415.99343432225476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "Fk ( i , j ) = P ( i , j ) f j ( xk + 1) β ( x n k + 2 | j ) β ( x n k + 1 | i ) . (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.55969000000016,
+            "t": 412.7739540500001,
+            "r": 530.9706360509525,
+            "b": 378.5246082041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "When β ( x n k + 1 | i ) = 0, we define Fk ( i , j ) = 0 ∀ j ∈ S . Note that the matrix Fk depends on the observations x n k + 1 , only. This dependence is sometimes denoted by Fk [ x n k + 1 ]. With the matrices Fk , for every t such that z ≤ t ≤ n , it holds (e.g. Cappé et al., 2005, (4.30))",
+      "text": "When β ( x n k + 1 | i ) = 0, we define Fk ( i , j ) = 0 ∀ j ∈ S . Note that the matrix Fk depends on the observations x n k + 1 , only. This dependence is sometimes denoted by Fk [ x n k + 1 ]. With the matrices Fk , for every t such that z ≤ t ≤ n , it holds (e.g. Cappé et al., 2005, (4.30))"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 239.27969000000016,
+            "t": 376.69313804999996,
+            "r": 530.8370713274073,
+            "b": 342.86872848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "π ′ t [ x n z ] = π ′ z [ x n z ] ( t -1 ∏ i = z Fi [ x n i + 1 ] ) , (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.5595100000001,
+            "t": 342.37320804999996,
+            "r": 309.2746903589886,
+            "b": 331.0333043222547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "where ′ stands for transposition. For n ≥ t ≥ 1 ≥ z 1 ≥ z 2, thus",
+      "text": "where ′ stands for transposition. For n ≥ t ≥ 1 ≥ z 1 ≥ z 2, thus"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 193.5596000000001,
+            "t": 321.61308805,
+            "r": 530.8372413274074,
+            "b": 287.9085984799999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "( π t [ x n z 1 ] -π t [ x n z 2 ] ) ′ = ( π 1[ x n z 1 ] -π 1[ x n z 2 ] ) ′ t -1 ∏ i = 1 Fi [ x n i + 1 ] . (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.55968000000013,
+            "t": 284.41306805,
+            "r": 530.9576512325731,
+            "b": 238.00462820415805,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            393
+          ]
+        }
+      ],
+      "orig": "Let π 1 and π 2 be two probability measures on S . If A is a transition matrix on S , then A ′ π i , ( i = 1 , 2) is a vector that corresponds to a probability measure. We are interested in total variation distance between the measures A ′ π 1 and A ′ π 2. The approach in this paper uses the fact that the difference between measures can be bounded as follows (Cappé et al., 2005, Cor. 4.3.9)",
+      "text": "Let π 1 and π 2 be two probability measures on S . If A is a transition matrix on S , then A ′ π i , ( i = 1 , 2) is a vector that corresponds to a probability measure. We are interested in total variation distance between the measures A ′ π 1 and A ′ π 2. The approach in this paper uses the fact that the difference between measures can be bounded as follows (Cappé et al., 2005, Cor. 4.3.9)"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 202.8000200000003,
+            "t": 228.73290805,
+            "r": 530.8379213274075,
+            "b": 216.9133143222548,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "‖ A ′ π 1 -A ′ π 2 ‖ = ‖ A ′ ( π 1 -π 2) ‖ ≤ ‖ π 1 -π 2 ‖ δ ( A ) , (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.56036000000023,
+            "t": 206.13551768000002,
+            "r": 300.8752350319614,
+            "b": 197.44482820415806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "where δ ( A ) is Dobrushin coefficient of A defined as follows",
+      "text": "where δ ( A ) is Dobrushin coefficient of A defined as follows"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 235.2001500000002,
+            "t": 188.13552768,
+            "r": 360.09136999999987,
+            "b": 164.97298565322103,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "δ ( A ) : = 1 2 sup i , j ∈ S ‖ A ( i , · ) -A ( j , · ) ‖ .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.55970999999988,
+            "t": 154.84424951999995,
+            "r": 502.287371139664,
+            "b": 145.84471820415808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "Here, A ( i , · ) is the i -th row of the matrix. Hence, applying (7) to (6), we get (Cappé et al., 2005, Prop. 4.3.20)",
+      "text": "Here, A ( i , · ) is the i -th row of the matrix. Hence, applying (7) to (6), we get (Cappé et al., 2005, Prop. 4.3.20)"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 150.60002999999983,
+            "t": 135.61284005000005,
+            "r": 530.8374513274072,
+            "b": 95.66851248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "∥ ∥ ∥ π t [ x n z 1 ] -π t [ x n z 2 ] ∥ ∥ ∥ ≤ ∥ ∥ ∥ π 1[ x n z 1 ] -π 1[ x n z 2 ] ∥ ∥ ∥ δ ( t -1 ∏ i = 1 Fi [ x n i + 1 ] ) ≤ 2 δ ( t -1 ∏ i = 1 Fi [ x n i + 1 ] ) . (8) 3",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.55989999999986,
+            "t": 727.7241095200001,
+            "r": 531.0625132180928,
+            "b": 682.0332543222546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            432
+          ]
+        }
+      ],
+      "orig": "Another useful fact is that for two transition matrices A , B , it holds (see, e.g. Cappé et al., 2005, Prop 4.3.10) δ ( AB ) ≤ δ ( A ) δ ( B ) , hence, the right hand side of (8) can be further bounded above with 2 ∏ t -1 i = 1 δ ( Fi [ x n i + 1 ] ) . The Dobrushin coefficient of A can be estimated above using so-called Doeblin condition : If there exists ǫ > 0 and a probability measure λ = ( λ 1 , . . . , λ K ) on S such that",
+      "text": "Another useful fact is that for two transition matrices A , B , it holds (see, e.g. Cappé et al., 2005, Prop 4.3.10) δ ( AB ) ≤ δ ( A ) δ ( B ) , hence, the right hand side of (8) can be further bounded above with 2 ∏ t -1 i = 1 δ ( Fi [ x n i + 1 ] ) . The Dobrushin coefficient of A can be estimated above using so-called Doeblin condition : If there exists ǫ > 0 and a probability measure λ = ( λ 1 , . . . , λ K ) on S such that"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 248.03949999999986,
+            "t": 679.9642995199999,
+            "r": 530.837261327407,
+            "b": 670.173105653221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "A ( i , j ) ≥ ǫλ j , ∀ i , j ∈ S , (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.55889999999971,
+            "t": 661.9642995199999,
+            "r": 530.8623166648141,
+            "b": 640.293005653221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        }
+      ],
+      "orig": "then δ ( A ) ≤ 1 -ǫ (Cappé et al., 2005, Lemma 4.3.13). This condition holds, fo r example, if all entries of A are positive. If Fi satisfies Doeblin conditions, then the right hand side converges to zero exponentially with t .",
+      "text": "then δ ( A ) ≤ 1 -ǫ (Cappé et al., 2005, Lemma 4.3.13). This condition holds, fo r example, if all entries of A are positive. If Fi satisfies Doeblin conditions, then the right hand side converges to zero exponentially with t ."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.55876999999975,
+            "t": 625.68569392,
+            "r": 162.41984589312005,
+            "b": 617.1131558116545,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "2.2. Cluster-assumption",
+      "text": "2.2. Cluster-assumption",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.55876999999975,
+            "t": 611.20409952,
+            "r": 530.8499499999998,
+            "b": 589.4132956532211,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            246
+          ]
+        }
+      ],
+      "orig": "Recall that f i are the densities of P ( X 1 ∈ ·| Y 1 = i ) with respect to some reference measure µ on ( X , B ). For each i ∈ S , let Gi : = { x ∈ X : f i ( x ) > 0 } . We call a subset C ⊂ S a cluster if the following conditions are satisfied:",
+      "text": "Recall that f i are the densities of P ( X 1 ∈ ·| Y 1 = i ) with respect to some reference measure µ on ( X , B ). For each i ∈ S , let Gi : = { x ∈ X : f i ( x ) > 0 } . We call a subset C ⊂ S a cluster if the following conditions are satisfied:"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 205.79943999999978,
+            "t": 577.24429952,
+            "r": 389.4896999999998,
+            "b": 562.6531056532211,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "min j ∈ C Pj ( ∩ i ∈ CGi ) > 0 , and max j nelement C Pj ( ∩ i ∈ CGi ) = 0 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.55776999999989,
+            "t": 550.84429952,
+            "r": 530.957485879739,
+            "b": 470.08456820415813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            787
+          ]
+        }
+      ],
+      "orig": "Hence, a cluster is a maximal subset of states such that GC = ∩ i ∈ CGi , the intersection of the supports of the corresponding emission distributions, is 'detectable'. Distinct clusters need not be disjoint and a cluster can consist of a single state. In this latter case such a state is not hidden, since it is exposed by any observation it emits. When K = 2, then S is the only cluster possible, since otherwise the underlying Markov chain would cease to be hidden. Let C be a cluster. The existence of C implies the existence of a set X o ⊂ ∩ i ∈ CGi and ǫ > 0, K < ∞ such that µ ( X o ) > 0, and ∀ x ∈ X o , the following statements hold: (i) ǫ < min i ∈ C f i ( x ); (ii) max i ∈ C f i ( x ) < K ; (iii) max j nelement C f j ( x ) = 0. For proof, see (Lember and Koloydenko, 2010).",
+      "text": "Hence, a cluster is a maximal subset of states such that GC = ∩ i ∈ CGi , the intersection of the supports of the corresponding emission distributions, is 'detectable'. Distinct clusters need not be disjoint and a cluster can consist of a single state. In this latter case such a state is not hidden, since it is exposed by any observation it emits. When K = 2, then S is the only cluster possible, since otherwise the underlying Markov chain would cease to be hidden. Let C be a cluster. The existence of C implies the existence of a set X o ⊂ ∩ i ∈ CGi and ǫ > 0, K < ∞ such that µ ( X o ) > 0, and ∀ x ∈ X o , the following statements hold: (i) ǫ < min i ∈ C f i ( x ); (ii) max i ∈ C f i ( x ) < K ; (iii) max j nelement C f j ( x ) = 0. For proof, see (Lember and Koloydenko, 2010)."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.55776999999983,
+            "t": 455.20399952,
+            "r": 530.8480336025632,
+            "b": 434.2044682041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "Assumption A: There exists a cluster C ⊂ S such that the sub-stochastic matrix R = ( P ( i , j )) i , j ∈ C is primitive (i.e. there is a positive integer r such that the r th power R is strictly positive ).",
+      "text": "Assumption A: There exists a cluster C ⊂ S such that the sub-stochastic matrix R = ( P ( i , j )) i , j ∈ C is primitive (i.e. there is a positive integer r such that the r th power R is strictly positive )."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.55746999999985,
+            "t": 419.15453464,
+            "r": 533.497709904262,
+            "b": 362.5645682041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            518
+          ]
+        }
+      ],
+      "orig": "Clearly assumption A is satisfied, if the matrix P has all positive elements. Since any irreducible aperiodic matrix is primitive, the assumption A is also satisfied, if the the densities f i satisfy the following condition: For every x ∈ X , min i ∈ S f i ( x ) > 0, i.e. for all i ∈ S , Gi = X . Thus A is more general than the strong mixing condition (Cappé et al., 2005, Assumption 4.3.21) and (Cappé et al., 2005, Assumptio n 4.3.29). For more general discussion about A , see (Lember and Koloydenko, 2008, 2010).",
+      "text": "Clearly assumption A is satisfied, if the matrix P has all positive elements. Since any irreducible aperiodic matrix is primitive, the assumption A is also satisfied, if the the densities f i satisfy the following condition: For every x ∈ X , min i ∈ S f i ( x ) > 0, i.e. for all i ∈ S , Gi = X . Thus A is more general than the strong mixing condition (Cappé et al., 2005, Assumption 4.3.21) and (Cappé et al., 2005, Assumptio n 4.3.29). For more general discussion about A , see (Lember and Koloydenko, 2008, 2010)."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.55764999999985,
+            "t": 359.56409952,
+            "r": 476.6081263093996,
+            "b": 349.7729056532211,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "In the following, we assume A . Let C be the corresponding cluster, and let X o be the corresponding set.",
+      "text": "In the following, we assume A . Let C be the corresponding cluster, and let X o be the corresponding set."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.55754999999982,
+            "t": 341.10322955000015,
+            "r": 350.81856078986533,
+            "b": 327.9131343222548,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "Proposition 2.1. Let x n k + 1 be such that p ( x n k + 1 ) > 0 and x k + r k + 1 ∈ X r o . Then",
+      "text": "Proposition 2.1. Let x n k + 1 be such that p ( x n k + 1 ) > 0 and x k + r k + 1 ∈ X r o . Then"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 193.5573999999998,
+            "t": 317.5327080500001,
+            "r": 530.9573127340432,
+            "b": 283.70829848000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "δ ( k + r -1 ∏ i = k Fi [ x n k + 1 ] ) ≤ 1 -min i , j R r ( i , j ) max i , j R r ( i , j ) ( ǫ K ) r = : ρ < 1 . (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.55974000000003,
+            "t": 277.21303805,
+            "r": 401.93949,
+            "b": 251.42846848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "Proof. Let A : = ∏ r -1 l = 0 Fk + l . Using backward recursion, it follows that for every r ≥ 1",
+      "text": "Proof. Let A : = ∏ r -1 l = 0 Fk + l . Using backward recursion, it follows that for every r ≥ 1"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.56021999999984,
+            "t": 218.34327954999992,
+            "r": 315.30141999999984,
+            "b": 205.15318432225467,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "Since x k + r k + 1 ∈ X r o , then by (iii), (ii) and (i), thus for every i , j ∈ S",
+      "text": "Since x k + r k + 1 ∈ X r o , then by (iii), (ii) and (i), thus for every i , j ∈ S"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 141.35917,
+            "t": 255.6942240499999,
+            "r": 452.9567091200002,
+            "b": 216.02845848000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "A ( i , j ) = ∑ i 1 · · · ∑ i r -1 P ( i , i 1) f i 1 ( xk + 1) . . . f i r -1 ( xk + r -1) P ( i r -1 , j ) f j ( xk + r ) β ( x n k + r + 1 | j ) ∑ j ∑ i 1 · · · ∑ i r -1 P ( i , i 1) f i 1 ( xk + 1) . . . f i r -1 ( xk + r -1) P ( i r -1 , j ) β ( x n k + r + 1 | j )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 139.32009999999985,
+            "t": 196.89422404999993,
+            "r": 456.21056999999996,
+            "b": 97.12437820415812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            685
+          ]
+        }
+      ],
+      "orig": "A ( i , j ) = ∑ i 1 ∈ C · · · ∑ i r -1 ∈ C P ( i , i 1) f i 1 ( xk + 1) · · · P ( i r -1 , j ) f j ( xk + r ) β ( x n k + r + 1 | j ) ∑ j ∈ C ∑ i 1 ∈ C · · · ∑ i r -1 ∈ C P ( i , i 1) f i 1 ( xk + 1) · · · P ( i r -1 , j ) f j ( xk + r ) β ( x n k + r + 1 | j ) ≥ ( ǫ K ) r ( ∑ i 1 ∈ C · · · ∑ i r -1 ∈ C P ( i , i 1) · · · P ( i r -1 , j ) ) β ( x n k + r + 1 | j ) ∑ j ∈ C ( ∑ i 1 ∈ C · · · ∑ i r -1 ∈ C P ( i , i 1) · · · P ( i r -1 , j ) ) β ( x n k + r + 1 | j ) = ( ǫ K ) r R r ( i , j ) β ( x n k + r + 1 | j ) ∑ j R r ( i , j ) β ( x n k + r + 1 | j ) ≥ min i , j R r ( i , j ) max i , j R r ( i , j ) ( ǫ K ) r β ( x n k + r + 1 | j ) ∑ j β ( x n k + r + 1 | j ) = ǫ o λ j , 4",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.5602,
+            "t": 727.41526768,
+            "r": 89.0236122385539,
+            "b": 718.7245782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.56015000000002,
+            "t": 687.45535768,
+            "r": 86.74355938215098,
+            "b": 678.7646682041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Since",
+      "text": "Since"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 201.72019999999998,
+            "t": 721.0541040500001,
+            "r": 393.57081,
+            "b": 681.38846848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "ǫ o = min i , j R r ( i , j ) max i , j R r ( i , j ) ( ǫ K ) r , λ j : = β ( x n l + r + 1 | j ) ∑ j β ( x n l + r + 1 | j ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 221.16015000000002,
+            "t": 679.7378978400001,
+            "r": 374.85035,
+            "b": 655.5884584800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "p ( x n k + 1 ) = ∑ j α ( x k + r k + 1 , j ) β ( x n k + r + 1 | j ) > 0 ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.55968999999999,
+            "t": 649.65383405,
+            "r": 509.3706077684445,
+            "b": 636.5530343222548,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "there must be a j ∈ S such that β ( x n l + r + 1 | j ) > 0. So ( λ j ) j ∈ S is a probability measure and Doeblin condition holds.",
+      "text": "there must be a j ∈ S such that β ( x n l + r + 1 | j ) > 0. So ( λ j ) j ∈ S is a probability measure and Doeblin condition holds."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.55966999999987,
+            "t": 629.61392405,
+            "r": 530.8209446518628,
+            "b": 606.6732643222548,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "Lemma 2.1. Let x n z be the sequence of observations with positive likelihood, i.e. p ( x n z ) > 0 . Then, for every t such that z 2 ≤ z 1 ≤ 1 ≤ t ≤ n,",
+      "text": "Lemma 2.1. Let x n z be the sequence of observations with positive likelihood, i.e. p ( x n z ) > 0 . Then, for every t such that z 2 ≤ z 1 ≤ 1 ≤ t ≤ n,"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.55939000000001,
+            "t": 586.60390552,
+            "r": 195.06080778725408,
+            "b": 577.6043742041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "where ρ ∈ (0 , 1) is as in (10) and",
+      "text": "where ρ ∈ (0 , 1) is as in (10) and"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 242.8795599999999,
+            "t": 607.43269796,
+            "r": 530.9569627340431,
+            "b": 574.7082864800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "∥ ∥ ∥ π t [ x n z 1 ] -π t [ x n z 2 ] ∥ ∥ ∥ ≤ 2 ρ κ ( x t 1 ) , (11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 204.71915,
+            "t": 565.81300805,
+            "r": 392.01038599999987,
+            "b": 531.50852848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "j ( t ) : = ⌊ t -2 r ⌋ , κ ( x t 1 ) : = j ( t ) -1 ∑ u = 0 I X r o ( x ( u + 1) r + 1 ur + 2 ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.5597259999999,
+            "t": 524.9241395200002,
+            "r": 354.0614147491501,
+            "b": 515.9246082041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "Proof. Recall that for two transition matrices A , B , δ ( AB ) ≤ δ ( A ) δ ( B ), so",
+      "text": "Proof. Recall that for two transition matrices A , B , δ ( AB ) ≤ δ ( A ) δ ( B ), so"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 161.0391659999998,
+            "t": 504.25295805,
+            "r": 434.2500379999997,
+            "b": 469.9488584799998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "δ ( t -1 ∏ i = 1 Fi ) = δ ( j -1 ∏ u = 0 ( ( u + 1) r ∏ i = ur + 1 Fi ) t -1 ∏ i = jr + 1 Fi ) ≤ j -1 ∏ u = 0 δ ( ( u + 1) r ∏ i = ur + 1 Fi ) = j -1 ∏ u = 0 δ ( Au ) ,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.5593779999997,
+            "t": 463.02344954999967,
+            "r": 344.12971499816774,
+            "b": 437.4285484799997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "where Au : = ∏ ur + r i = ur + 1 Fk [ x n ur + 2 ] . From Proposition 2.1, with k = ur + 1,",
+      "text": "where Au : = ∏ ur + r i = ur + 1 Fk [ x n ur + 2 ] . From Proposition 2.1, with k = ur + 1,"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.55887799999977,
+            "t": 402.69538767999984,
+            "r": 134.9141625567209,
+            "b": 394.00469820415793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "From (8), it holds",
+      "text": "From (8), it holds"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 230.87906799999976,
+            "t": 439.8632395499998,
+            "r": 358.20845191999973,
+            "b": 414.7487984799998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "δ ( Au ) ≤ { ρ, if x ( ur + 1) + r ( ur + 1) + 1 ∈ X r o ; 1 , else.",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 181.31879799999976,
+            "t": 392.5329980499999,
+            "r": 415.2406400499998,
+            "b": 362.4574101499999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "π t [ x n z 1 ] -π t [ x n z 2 ] ≤ 2 δ t -1 = Fi [ x n i + 1 ] ≤ 2 j -1 = δ ( Au ) ≤ 2 ρ κ ( x t 1 )",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 176.99887799999976,
+            "t": 385.7381278399999,
+            "r": 418.2890879999998,
+            "b": 351.9886884799999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "∥ ∥ ∥ ∥ ∥ ∥ ( ∏ i 1 ) ∏ u 0 .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.56008199999997,
+            "t": 335.68410952,
+            "r": 530.9407840158847,
+            "b": 290.113164322255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            471
+          ]
+        }
+      ],
+      "orig": "Let s 1 ∈ C . By irreducibility and cluster assumption, there is a path s 1 , . . . , sr + 1 such that si ∈ C and P ( Y 1 = s 1 , . . . , Yr + 1 = sr + 1) > 0. By (i), for any s 2 , . . . , sr + 1 ∈ C , it holds P ( X r + 1 2 ∈ X r o | Y 2 = s 2 , . . . , Yr + 1 = sr + 1) > 0 implying that P ( X r + 1 2 ∈ X r o ) > 0. By stationarity of X , for every k ≥ 0, it holds P ( X r 1 ∈ X r o ) = P ( X k + r k + 1 ∈ X r o ) = : pr > 0 . The process { Xn } n ≥ 1 is ergodic, so",
+      "text": "Let s 1 ∈ C . By irreducibility and cluster assumption, there is a path s 1 , . . . , sr + 1 such that si ∈ C and P ( Y 1 = s 1 , . . . , Yr + 1 = sr + 1) > 0. By (i), for any s 2 , . . . , sr + 1 ∈ C , it holds P ( X r + 1 2 ∈ X r o | Y 2 = s 2 , . . . , Yr + 1 = sr + 1) > 0 implying that P ( X r + 1 2 ∈ X r o ) > 0. By stationarity of X , for every k ≥ 0, it holds P ( X r 1 ∈ X r o ) = P ( X k + r k + 1 ∈ X r o ) = : pr > 0 . The process { Xn } n ≥ 1 is ergodic, so"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 213.59997999999996,
+            "t": 290.49412405,
+            "r": 530.9569327340432,
+            "b": 265.6045782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "lim t →∞ κ ( X t 1 ) t = lim t →∞ 1 r κ ( X t 1 ) j ( t ) = pr r > 0 , a . s .. (12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.56036000000006,
+            "t": 256.72403952,
+            "r": 530.9579605266362,
+            "b": 235.03320432225473,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "Corollary 2.1. Assume A . Then, there exists a non-negative finite random variable C 1 as well as constant ρ 1 ∈ (0 , 1) such that for every z , t , n such that z 2 ≤ z 1 ≤ 1 ≤ t ≤ n,",
+      "text": "Corollary 2.1. Assume A . Then, there exists a non-negative finite random variable C 1 as well as constant ρ 1 ∈ (0 , 1) such that for every z , t , n such that z 2 ≤ z 1 ≤ 1 ≤ t ≤ n,"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 203.1603800000001,
+            "t": 224.89290804999996,
+            "r": 530.9573667340434,
+            "b": 199.22825848000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "‖ P ( Yt ∈ ·| X n z 1 ) -P ( Yt ∈ ·| X n z 2 ) ‖ ≤ C 1 ρ 1 t -1 , a . s .. (13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.56079400000021,
+            "t": 200.61501767999994,
+            "r": 506.22227029547696,
+            "b": 191.9243282041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "Proof. The right hand side of (11) does not depend on n (as soon as it is bigger than t ), hence from Lemma 2.1",
+      "text": "Proof. The right hand side of (11) does not depend on n (as soon as it is bigger than t ), hence from Lemma 2.1"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 197.28123400000024,
+            "t": 182.03275196000004,
+            "r": 398.01145765350503,
+            "b": 162.57293565322107,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "sup n ≥ t ‖ P ( Yt ∈ ·| X n z 1 ) -P ( Yt ∈ ·| X n z 2 ) ‖ ≤ 2 ρ κ ( X t 1 ) , a . s ..",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.56179200000025,
+            "t": 151.84425952000004,
+            "r": 210.51669761147488,
+            "b": 142.84472820415817,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Thus, if t →∞ then by (12), it holds",
+      "text": "Thus, if t →∞ then by (12), it holds"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 163.92153200000027,
+            "t": 131.73544768,
+            "r": 530.9575527340431,
+            "b": 104.06853848000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "lim sup t 1 t log ( sup n ≥ t ‖ P ( Yt ∈ ·| X n z 1 ) -P ( Yt ∈ ·| X n z 2 ) ‖ ) ≤ pr r log ρ, a . s .. (14)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 295.19998,
+            "t": 105.81510767999998,
+            "r": 300.18129999999996,
+            "b": 97.12441820415813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.5602,
+            "t": 730.17392405,
+            "r": 219.8490431170152,
+            "b": 715.8931456532212,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Let ̺ be such that pr r log ρ < ̺ < 0 . Let",
+      "text": "Let ̺ be such that pr r log ρ < ̺ < 0 . Let"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 206.279977,
+            "t": 707.13420405,
+            "r": 530.9573427340432,
+            "b": 674.42853848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "T ( ω ) : = max { t ≥ 1 : log 2 + κ ( X t 1 ) log ρ t > ̺ } . (15)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.55977000000007,
+            "t": 673.48433952,
+            "r": 358.64864520923913,
+            "b": 664.4848082041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "From (14), it follows that for almost every ω , T ( ω ) < ∞ and for t > T ( ω ),",
+      "text": "From (14), it follows that for almost every ω , T ( ω ) < ∞ and for t > T ( ω ),"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 196.31896999999995,
+            "t": 653.09787784,
+            "r": 398.8103413599999,
+            "b": 626.54835848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "log ( sup n ≥ t ‖ P ( Yt ∈ ·| X n z 1 ) ( ω ) -P ( Yt ∈ ·| X n z 2 ) ( ω ) ‖ ) ≤ t ̺",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.5589839999999,
+            "t": 622.9643595200001,
+            "r": 202.88952399999994,
+            "b": 613.9648282041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "and, hence, for t > T ( ω ) and n ≥ t ,",
+      "text": "and, hence, for t > T ( ω ) and n ≥ t ,"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 211.67896399999995,
+            "t": 601.0041595200001,
+            "r": 215.66401999999994,
+            "b": 592.4462517600001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "‖",
+      "text": "‖"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 215.87896399999994,
+            "t": 600.6056539200001,
+            "r": 221.96613703999995,
+            "b": 592.0331158116546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "P",
+      "text": "P"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 225.35904399999995,
+            "t": 600.6056539200001,
+            "r": 232.81769429999997,
+            "b": 591.2133556532212,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Yt",
+      "text": "Yt"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 236.27896399999997,
+            "t": 601.0041595200001,
+            "r": 248.83134813350478,
+            "b": 592.4462517600001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "∈ ·|",
+      "text": "∈ ·|"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 249.11876399999997,
+            "t": 602.8539740500001,
+            "r": 259.20568899999995,
+            "b": 592.0331158116546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "X n",
+      "text": "X n"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 255.23868599999997,
+            "t": 596.2539740500001,
+            "r": 257.95151365,
+            "b": 590.2531956532213,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "z",
+      "text": "z"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 257.99884599999996,
+            "t": 593.9176038400002,
+            "r": 260.48950599999995,
+            "b": 589.5722591020792,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 266.99884599999996,
+            "t": 601.0041495200002,
+            "r": 273.33508503999997,
+            "b": 592.4462417600001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 275.75900599999994,
+            "t": 600.6056439200001,
+            "r": 281.8461790399999,
+            "b": 592.0331058116547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "P",
+      "text": "P"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 285.3590059999999,
+            "t": 600.6056439200001,
+            "r": 292.8176562999999,
+            "b": 591.2133456532213,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Yt",
+      "text": "Yt"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 296.1590059999999,
+            "t": 601.0041495200002,
+            "r": 308.8317089367847,
+            "b": 592.4462417600001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "∈ ·|",
+      "text": "∈ ·|"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.55876799999993,
+            "t": 580.6931080500002,
+            "r": 308.0092179999999,
+            "b": 569.3532043222549,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "where ρ 1 : = e ̺ . The inequality (13) holds with C 1 : = 2 ρ -T + 1 .",
+      "text": "where ρ 1 : = e ̺ . The inequality (13) holds with C 1 : = 2 ρ -T + 1 ."
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 221.99888399999995,
+            "t": 601.4981878400001,
+            "r": 225.41606951999995,
+            "b": 577.3487484800002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "(",
+      "text": "("
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 261.35900599999997,
+            "t": 601.4981778400002,
+            "r": 264.77619151999994,
+            "b": 577.3487384800002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 281.8789259999999,
+            "t": 601.4981778400002,
+            "r": 285.2961115199999,
+            "b": 577.3487384800002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "(",
+      "text": "("
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 321.2387379999999,
+            "t": 601.4981678400002,
+            "r": 324.6559235199999,
+            "b": 577.3487284800002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.5602,
+            "t": 558.93526768,
+            "r": 530.795558147624,
+            "b": 538.2445782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "The inequality (14) is similar to Theorem 2.2 in (Gland and Mevel, 2000). The forgetting equation in form (13) is used in (Gerencser and Molnar-Saska, 2002).",
+      "text": "The inequality (14) is similar to Theorem 2.2 in (Gland and Mevel, 2000). The forgetting equation in form (13) is used in (Gerencser and Molnar-Saska, 2002)."
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.56020000000001,
+            "t": 528.85257805,
+            "r": 521.1011699999999,
+            "b": 516.7421209,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "Corollary 2.2. There exist a constant ρ 1 ∈ (0 , 1) and an ergodic process { Cz } ∞ -∞ so that for any z 2 ≤ z 1 ≤ z ≤ t ≤ n",
+      "text": "Corollary 2.2. There exist a constant ρ 1 ∈ (0 , 1) and an ergodic process { Cz } ∞ -∞ so that for any z 2 ≤ z 1 ≤ z ≤ t ≤ n"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 203.87984999999992,
+            "t": 507.49273805,
+            "r": 530.9569867340432,
+            "b": 481.70816848000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "‖ P ( Yt ∈ ·| X n z 1 ) -P ( Yt ∈ ·| X n z 2 ) ‖ ≤ Cz ρ 1 t -z , a . s .. (16)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.56041400000004,
+            "t": 483.5237695200001,
+            "r": 530.8638561126529,
+            "b": 461.73296565322113,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "Proof. The existence of Cz follows exactly as in case z = 1. The ergodicity of { Cz } follows from the fact that the random variables { Cz } are stationary coding of the ergodic process X .",
+      "text": "Proof. The existence of Cz follows exactly as in case z = 1. The ergodicity of { Cz } follows from the fact that the random variables { Cz } are stationary coding of the ergodic process X ."
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.55960599999997,
+            "t": 453.13287805000004,
+            "r": 530.7950654838,
+            "b": 430.6045782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "Theorem 2.1. Assume A . Then there exist a constant ρ o ∈ (0 , 1) and an finite ergodic process { C ′ z } ∞ z = -∞ so that for every z ≤ 1 ≤ t ≤ k ≤ n",
+      "text": "Theorem 2.1. Assume A . Then there exist a constant ρ o ∈ (0 , 1) and an finite ergodic process { C ′ z } ∞ z = -∞ so that for every z ≤ 1 ≤ t ≤ k ≤ n"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 187.79944599999996,
+            "t": 429.73285805000006,
+            "r": 530.9565087340434,
+            "b": 416.49335565322116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "‖ P ( Yt ∈ ·| X n z ) -P ( Yt ∈ ·| X ∞ -∞ ) ‖ ≤ C 1 ρ t -1 o + C ′ k ρ k -t o a . s ., (17)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.55993600000022,
+            "t": 409.3255039200001,
+            "r": 290.0103333644105,
+            "b": 399.9132643222548,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "where C 1 is a finite random variable as in Corollary 2.2.",
+      "text": "where C 1 is a finite random variable as in Corollary 2.2."
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.55934500000023,
+            "t": 391.9328780500002,
+            "r": 530.8627407055166,
+            "b": 355.05312565322123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            369
+          ]
+        }
+      ],
+      "orig": "Proof. We reverse the time by defining Y ′ k = Y -k , X ′ k = X -k . Thus, P ( Y ′ -t ∈ ·| X ′-z -n ) = P ( Yt ∈ ·| X n z ) . It is easy to see that when HMM ( Y , X ) satisfies A , then so does the reversed HMM ( Y ′ , X ′ ). From Corollary 2.2, it follows that there exists ρ 2 ∈ (0 , 1) and ergodic process { C ′′ -z } so that for any -n 2 ≤ -n 1 ≤ -k ≤ -t ≤ -1 ≤ -z",
+      "text": "Proof. We reverse the time by defining Y ′ k = Y -k , X ′ k = X -k . Thus, P ( Y ′ -t ∈ ·| X ′-z -n ) = P ( Yt ∈ ·| X n z ) . It is easy to see that when HMM ( Y , X ) satisfies A , then so does the reversed HMM ( Y ′ , X ′ ). From Corollary 2.2, it follows that there exists ρ 2 ∈ (0 , 1) and ergodic process { C ′′ -z } so that for any -n 2 ≤ -n 1 ≤ -k ≤ -t ≤ -1 ≤ -z"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 80.87962100000027,
+            "t": 345.67195476000035,
+            "r": 514.3545909600006,
+            "b": 330.67341432225504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "‖ P ( Yt ∈ ·| X n 2 z ) -P ( Yt ∈ ·| X n 1 z ) ‖ = ‖ P ( Y ′ -t ∈ ·| X ′-z -n 2 ) -P ( Y ′ -t ∈ ·| X ′-z -n 1 ) ‖ ≤ C ′′ -k ρ -t -( -k ) 2 = C ′′ -k ρ k -t 2 = C ′ k ρ k -t 2 , a . s",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.55855600000052,
+            "t": 322.15207476000023,
+            "r": 530.9818536208799,
+            "b": 297.793364322255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "where C ′ z : = C ′′ -z . The right side does not depend on n 1, n 2 and z . Hence, letting z →-∞ and using Levy martingale convergence theorem, for every 1 ≤ t ≤ k ≤ n 1 ≤ n 2",
+      "text": "where C ′ z : = C ′′ -z . The right side does not depend on n 1, n 2 and z . Hence, letting z →-∞ and using Levy martingale convergence theorem, for every 1 ≤ t ≤ k ≤ n 1 ≤ n 2"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 200.8781160000006,
+            "t": 287.8539540500002,
+            "r": 394.28834253639906,
+            "b": 274.3933843222551,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "‖ P ( Yt ∈ ·| X n 2 -∞ ) -P ( Yt ∈ ·| X n 1 -∞ ) ‖ ≤ C ′ k ρ k -t 2 , a . s ..",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.55867200000068,
+            "t": 263.6841695200003,
+            "r": 464.2198820000006,
+            "b": 253.87342432225512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "Letting now n 1 →∞ and using Levy martingale convergence theorem again, for every 1 ≤ t ≤ k ≤ n",
+      "text": "Letting now n 1 →∞ and using Levy martingale convergence theorem again, for every 1 ≤ t ≤ k ≤ n"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 200.8785620000006,
+            "t": 243.8528280500003,
+            "r": 530.9556947340438,
+            "b": 230.59338432225513,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "‖ P ( Yt ∈ ·| X n -∞ ) -P ( Yt ∈ ·| X ∞ -∞ ) ‖ ≤ C ′ k ρ k -t 2 , a . s .. (18)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.55912200000068,
+            "t": 219.88416952000034,
+            "r": 454.64882200000056,
+            "b": 210.07342432225505,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Applying the same theorem to (13), with z 2 →-∞ and z = z 1, we get that for every z ≤ 1 ≤ t ≤ n ,",
+      "text": "Applying the same theorem to (13), with z 2 →-∞ and z = z 1, we get that for every z ≤ 1 ≤ t ≤ n ,"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 205.91916200000057,
+            "t": 200.05273805000036,
+            "r": 530.9565487340438,
+            "b": 186.79329432225506,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "‖ P ( Yt ∈ ·| X n -∞ ) -P ( Yt ∈ ·| X n z ) ‖ ≤ C 1 ρ t -1 1 a . s .. (19)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.55997600000069,
+            "t": 176.0841695200004,
+            "r": 440.25020618739785,
+            "b": 166.2734243222551,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "Hence, with, ρ o = max { ρ 1 , ρ 2 } , from the inequalities (18) and (19), the inequality (17) follows.",
+      "text": "Hence, with, ρ o = max { ρ 1 , ρ 2 } , from the inequalities (18) and (19), the inequality (17) follows."
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 309.1192059999999,
+            "t": 602.8539640500002,
+            "r": 319.2057409999999,
+            "b": 592.0331058116547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "X n",
+      "text": "X n"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 315.2387379999999,
+            "t": 596.2539640500001,
+            "r": 317.9515656499999,
+            "b": 590.2531856532213,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "z",
+      "text": "z"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 317.9988979999999,
+            "t": 593.9175938400002,
+            "r": 320.4895579999999,
+            "b": 589.5722491020792,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 324.7188179999999,
+            "t": 601.0041395200002,
+            "r": 337.77497727167986,
+            "b": 592.4462317600002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "‖ ≤",
+      "text": "‖ ≤"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 340.5586179999999,
+            "t": 600.6056339200002,
+            "r": 344.9820301599999,
+            "b": 592.0330958116547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "e",
+      "text": "e"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 344.9988479999999,
+            "t": 602.8539540500002,
+            "r": 346.93757829999987,
+            "b": 596.8531756532213,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 347.0386879999999,
+            "t": 602.8818494500002,
+            "r": 350.5186391499999,
+            "b": 596.8564430500002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "̺",
+      "text": "̺"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 353.7589979999999,
+            "t": 600.9045131200002,
+            "r": 360.0952370399999,
+            "b": 592.4960449600002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "=",
+      "text": "="
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 362.8789179999999,
+            "t": 600.6952976800002,
+            "r": 366.1964771199999,
+            "b": 592.0046082041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "(",
+      "text": "("
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 366.2390779999999,
+            "t": 600.6454844800002,
+            "r": 371.3000991199999,
+            "b": 592.0377635200002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "ρ",
+      "text": "ρ"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 371.2789179999999,
+            "t": 600.6952976800002,
+            "r": 378.5562471199999,
+            "b": 591.1933943222549,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "1)",
+      "text": "1)"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 378.5988479999999,
+            "t": 602.8539540500002,
+            "r": 380.5375782999999,
+            "b": 596.8531756532213,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 381.11876799999993,
+            "t": 600.6454844800002,
+            "r": 383.6094279999999,
+            "b": 592.0377635200002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ",",
+      "text": ","
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 295.2,
+            "t": 105.81516768000006,
+            "r": 300.18131999999997,
+            "b": 97.1244782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.5602,
+            "t": 727.5547446400001,
+            "r": 165.39603786586326,
+            "b": 718.6802641480527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "3. Convergence of risks",
+      "text": "3. Convergence of risks",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.5602,
+            "t": 708.7643095200001,
+            "r": 404.8508400000001,
+            "b": 699.7647782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "Recall that l : S × S → [0 , ∞ ) is the pointwise loss. Let, for any 1 ≤ t ≤ n , and s ∈ S ,",
+      "text": "Recall that l : S × S → [0 , ∞ ) is the pointwise loss. Let, for any 1 ≤ t ≤ n , and s ∈ S ,"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 176.76018000000013,
+            "t": 692.4579078400001,
+            "r": 418.53092200000026,
+            "b": 668.3084684800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "Rt ( s | x n ) = E [ l ( Yt , st ) | X n = x n ] = ∑ a ∈ S l ( a , s ) P ( Yt = a | X n = x n ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.55977200000018,
+            "t": 662.85392405,
+            "r": 530.7431898411709,
+            "b": 640.7244782041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "Thus, Rt ( s | x n ) is the conditional risk of classifying Yt = s given the observations x n . The risk of the whole state sequence s n as defined in (2) with L as in (3) is easily seen to be",
+      "text": "Thus, Rt ( s | x n ) is the conditional risk of classifying Yt = s given the observations x n . The risk of the whole state sequence s n as defined in (2) with L as in (3) is easily seen to be"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 245.99965200000014,
+            "t": 633.33412405,
+            "r": 349.41092999999995,
+            "b": 603.1484384800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "R ( s n | x n ) = 1 n n ∑ i = 1 Rt ( st | x n ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 186.96028999999996,
+            "t": 580.13807784,
+            "r": 408.450966,
+            "b": 555.9886384800001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "Rt ( s | X ∞ -∞ ) : = E [ l ( Yt , s ) | X ∞ -∞ ] = ∑ a ∈ S l ( a , s ) P ( Yt = a | X ∞ -∞ ) .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.56026999999995,
+            "t": 596.4444795200001,
+            "r": 182.73102999999995,
+            "b": 587.4449482041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Let for every t ∈ Z and s ∈ S ,",
+      "text": "Let for every t ∈ Z and s ∈ S ,"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.56030600000003,
+            "t": 549.4041795200001,
+            "r": 122.19610096612058,
+            "b": 540.4046482041582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "For t ≥ 1, thus",
+      "text": "For t ≥ 1, thus"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 180.72008600000004,
+            "t": 539.53292805,
+            "r": 530.9582767340432,
+            "b": 526.2734843222545,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "| Rt ( s | X ∞ -∞ ) -Rt ( s | X n 1 ) | ≤ l ( s ) ‖ P ( Yt ∈ ·| X n 1 ) -P ( Yt ∈ ·| X ∞ -∞ ) ‖ , (20)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.5607040000001,
+            "t": 522.6941960499996,
+            "r": 337.5313292092393,
+            "b": 511.65318565322065,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "where l ( s ) = max a l ( a , s ). Finally, recall that R ( x n ) : = min s n R ( s n | x n ).",
+      "text": "where l ( s ) = max a l ( a , s ). Finally, recall that R ( x n ) : = min s n R ( s n | x n )."
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.56065400000011,
+            "t": 505.4141160499996,
+            "r": 462.45133400000014,
+            "b": 494.2332463222544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "Theorem 3.1. Suppose A holds. Then there exists a constant R such that R ( X n ) → R a.s. and in L 1 .",
+      "text": "Theorem 3.1. Suppose A holds. Then there exists a constant R such that R ( X n ) → R a.s. and in L 1 ."
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.56067400000018,
+            "t": 486.45543967999964,
+            "r": 274.29125400000015,
+            "b": 477.76475020415774,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Proof. The process X is ergodic, so for a constant R ,",
+      "text": "Proof. The process X is ergodic, so for a constant R ,"
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 212.04,
+            "t": 470.37372404999996,
+            "r": 530.9576647340432,
+            "b": 440.30834848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "1 n n ∑ t = 1 min s Rt ( s | X ∞ -∞ ) → R , a.s. and in L 1 . (21)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.56009200000005,
+            "t": 435.0128580500001,
+            "r": 530.7956257418647,
+            "b": 411.69328565322115,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "Let M < ∞ be such that P ( C ′ n ≤ M ) = : q > 0. Let, for every n , k ( n ) = max { k ≤ n : C ′ k ≤ M } . Since the process C ′ is ergodic, in the process n →∞ , k ( n ) →∞ , a.s. From (20), it follows, that with A : = max a , s l ( a , s ),",
+      "text": "Let M < ∞ be such that P ( C ′ n ≤ M ) = : q > 0. Let, for every n , k ( n ) = max { k ≤ n : C ′ k ≤ M } . Since the process C ′ is ergodic, in the process n →∞ , k ( n ) →∞ , a.s. From (20), it follows, that with A : = max a , s l ( a , s ),"
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 166.44060400000006,
+            "t": 404.7726480500002,
+            "r": 428.85167200000006,
+            "b": 388.41322565322116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "| min s Rt ( s | X ∞ -∞ ) -min s Rt ( s | X n 1 ) | ≤ A ‖ P ( Yt ∈ ·| X n 1 ) -P ( Yt ∈ ·| X ∞ -∞ ) ‖ .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.56101200000006,
+            "t": 380.8553476800002,
+            "r": 90.10442263373157,
+            "b": 372.1646582041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Hence",
+      "text": "Hence"
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.56101200000006,
+            "t": 365.3165887,
+            "r": 539.73105,
+            "b": 325.9646182041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "| R ( X n ) -1 n n ∑ t = 1 min s ∈ S Rt ( s | X ∞ -∞ ) | ≤ A n n ∑ t = 1 ‖ P ( Yt ∈ ·| X n 1 ) -P ( Yt ∈ ·| X ∞ -∞ ) ‖ ≤ A n k ( n ) ∑ t = 1 ‖ P ( Yt ∈ ·| X n 1 ) -P ( Yt ∈ ·| X ∞ -∞ ) ‖ + A n 2( n -k ( n )) . (22)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.56018999999992,
+            "t": 322.96414952,
+            "r": 228.7975891199999,
+            "b": 313.9646182041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "By inequality (17), for every 1 ≤ t ≤ k ( n )",
+      "text": "By inequality (17), for every 1 ≤ t ≤ k ( n )"
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.7602599999999,
+            "t": 305.0767286999999,
+            "r": 484.52978800000005,
+            "b": 274.4684384799998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "k ( n ) ∑ t = 1 ‖ P ( Yt ∈ ·| X n 1 ) -P ( Yt ∈ ·| X ∞ -∞ ) ‖ ≤ C 1 k ( n ) ∑ t = 1 ρ t -1 o + M k ( n ) ∑ t = 1 ρ k ( n ) -t o ≤ ( C 1 + M ) ∞ ∑ n = 0 ρ n o < ∞ , a.s. .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.5595560000001,
+            "t": 269.1729480499997,
+            "r": 530.9151044129624,
+            "b": 245.83304432225452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "Let τ 1 : = min { i ≥ 0 : C ′ i ≤ M } , τ j : = min { i > τ j -1 : C ′ i ≤ M } . Since { C ′ k } is ergodic, the random variables Tj = τ j + 1 -τ j , j = 1 , 2 , . . . are identically distributed. By Kac' return time theorem, ETj = q -1 . Finally, denote",
+      "text": "Let τ 1 : = min { i ≥ 0 : C ′ i ≤ M } , τ j : = min { i > τ j -1 : C ′ i ≤ M } . Since { C ′ k } is ergodic, the random variables Tj = τ j + 1 -τ j , j = 1 , 2 , . . . are identically distributed. By Kac' return time theorem, ETj = q -1 . Finally, denote"
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 253.31903600000004,
+            "t": 236.9238795199998,
+            "r": 343.40934599999997,
+            "b": 227.13307565322089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "j ( n ) = max { j : τ j ≤ n } .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.55918600000012,
+            "t": 218.20397951999973,
+            "r": 530.7435658657959,
+            "b": 196.53307565322086,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "Thus k ( n ) = τ j ( n ) and n -k ( n ) ≤ Tj ( n ) . Since Tj is a.s. finite, clearly j ( n ) , k ( n ) → ∞ as n grows. From the finite expectation of ETj , it follows that",
+      "text": "Thus k ( n ) = τ j ( n ) and n -k ( n ) ≤ Tj ( n ) . Since Tj is a.s. finite, clearly j ( n ) , k ( n ) → ∞ as n grows. From the finite expectation of ETj , it follows that"
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 267.9590660000001,
+            "t": 195.48557391999975,
+            "r": 328.5306705363984,
+            "b": 172.63306581165443,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Tj j → 0 , a . s .,",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 242.04000000000005,
+            "t": 157.68567392,
+            "r": 530.9570253498488,
+            "b": 134.80457820415813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "n -k ( n ) n ≤ Tj ( n ) j ( n ) → 0 , a.s. (23)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.55959000000007,
+            "t": 131.25395404999995,
+            "r": 530.8628826609157,
+            "b": 108.19339432225479,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "Hence, the right hand side of (22) goes to 0, a.s. and from (21), it now follows that R ( X n ) → R a.s. Risks are nonnegative, so the convergence in L 1 follows from Sheffe's lemma.",
+      "text": "Hence, the right hand side of (22) goes to 0, a.s. and from (21), it now follows that R ( X n ) → R a.s. Risks are nonnegative, so the convergence in L 1 follows from Sheffe's lemma."
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 64.56000000000006,
+            "t": 167.49529768000002,
+            "r": 117.96961377225507,
+            "b": 158.80460820415806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        },
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.5602,
+            "t": 727.41526768,
+            "r": 530.8391842306792,
+            "b": 670.9647782041583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            14,
+            515
+          ]
+        }
+      ],
+      "orig": "implying that Given l , the constant R -asymptotic risk - depends on the model, only. It measures the average loss of classifying one symbol using the optimal classifier. For example, if l is symmetric, then the optimal classifier (in the sense of misclassification error) makes in average about Rn classification errors. Clearly this is the lower bound: no other classifier does better. The constant R might be hard to determine theoretically, but Theorem 3.1 guarantees that it can be approximated by simulations.",
+      "text": "implying that Given l , the constant R -asymptotic risk - depends on the model, only. It measures the average loss of classifying one symbol using the optimal classifier. For example, if l is symmetric, then the optimal classifier (in the sense of misclassification error) makes in average about Rn classification errors. Clearly this is the lower bound: no other classifier does better. The constant R might be hard to determine theoretically, but Theorem 3.1 guarantees that it can be approximated by simulations."
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 295.2,
+            "t": 105.81516768000006,
+            "r": 300.18131999999997,
+            "b": 97.1244782041581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.56044000000003,
+            "t": 649.9148446400002,
+            "r": 111.03606272826993,
+            "b": 641.0403641480528,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.56044000000003,
+            "t": 629.9762128200001,
+            "r": 530.712350693546,
+            "b": 613.5435829839826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "Bickel, P. J., Ritov, Y., Rydén, T., 1998. Asymptotic normal ity of the maximum-likelihood estimator for general hidden Markov models. Ann. Statist. 26 (4).",
+      "text": "Bickel, P. J., Ritov, Y., Rydén, T., 1998. Asymptotic normal ity of the maximum-likelihood estimator for general hidden Markov models. Ann. Statist. 26 (4).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.56067000000006,
+            "t": 611.0164428200001,
+            "r": 487.0323016719122,
+            "b": 604.0638929839826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "Caliebe, A., 2006. Properties of the maximum a posteriori path estimator in hidden Markov models. IEEE Trans. Inform. Theory 52.",
+      "text": "Caliebe, A., 2006. Properties of the maximum a posteriori path estimator in hidden Markov models. IEEE Trans. Inform. Theory 52.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.56067000000013,
+            "t": 601.53636282,
+            "r": 475.87299209288614,
+            "b": 594.5838129839825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "Cappé, O., Moulines, E., Rydén, T., 2005. Inference in hidde n Markov models. Springer Series in Statistics. Springer, New York.",
+      "text": "Cappé, O., Moulines, E., Rydén, T., 2005. Inference in hidde n Markov models. Springer Series in Statistics. Springer, New York.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/174",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.56067000000013,
+            "t": 592.05628282,
+            "r": 530.5795028889335,
+            "b": 575.7435729839825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "Durbin, R., Eddy, S., A., K., Mitchison, G., 1998. Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids. Cambridge University Press.",
+      "text": "Durbin, R., Eddy, S., A., K., Mitchison, G., 1998. Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids. Cambridge University Press.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.55990000000013,
+            "t": 573.21643282,
+            "r": 530.3521243876291,
+            "b": 556.7838029839825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "Ephraim, Y., Merhav, N., 2002. Hidden Markov processes. IEEE Trans. Inform. Theory 48 (6), special issue on Shannon theory: perspective, trends, and applications.",
+      "text": "Ephraim, Y., Merhav, N., 2002. Hidden Markov processes. IEEE Trans. Inform. Theory 48 (6), special issue on Shannon theory: perspective, trends, and applications.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/176",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.55913000000014,
+            "t": 554.2562728199999,
+            "r": 530.7835841596545,
+            "b": 537.8236429839824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        }
+      ],
+      "orig": "Gerencser, L., Molnar-Saska, G., 2002. A new method for the analysis of Hidden Markov models. In: Proceedings of the 15th Triennial World Congress of the International Federation of Authomatic Control (Barcelona). pp. T-Fr-M03.",
+      "text": "Gerencser, L., Molnar-Saska, G., 2002. A new method for the analysis of Hidden Markov models. In: Proceedings of the 15th Triennial World Congress of the International Federation of Authomatic Control (Barcelona). pp. T-Fr-M03.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/177",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.55813000000018,
+            "t": 535.2961128199998,
+            "r": 530.7824087401078,
+            "b": 518.8638729839823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "Gland, F. L., Mevel, L., 2000. Exponential forgetting and geometric ergodicity in Hidden Markov models. Math. Control Signals Systems 13, 63 69.",
+      "text": "Gland, F. L., Mevel, L., 2000. Exponential forgetting and geometric ergodicity in Hidden Markov models. Math. Control Signals Systems 13, 63 69.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/178",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.55836000000015,
+            "t": 516.3363428199999,
+            "r": 384.4312229637834,
+            "b": 509.38379298398235,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "Jelinek, F., 2001. Statistical methods for speech recognition. The MIT Press, Cambridge, MA, USA.",
+      "text": "Jelinek, F., 2001. Statistical methods for speech recognition. The MIT Press, Cambridge, MA, USA.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/179",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.55836000000014,
+            "t": 506.9761828199999,
+            "r": 350.71044807896425,
+            "b": 500.02363298398234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "Koloydenko, A., Lember, J., 2010. Segmentation with hidden Markov models. Submitted.",
+      "text": "Koloydenko, A., Lember, J., 2010. Segmentation with hidden Markov models. Submitted.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/180",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.5583600000001,
+            "t": 497.4961028199999,
+            "r": 518.1098985180613,
+            "b": 490.54355298398235,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "Koski, T., 2001. Hidden Markov models for bioinformatics. Vol. 2 of Computational Biology Series. Kluwer Academic Publishers, Dordrecht.",
+      "text": "Koski, T., 2001. Hidden Markov models for bioinformatics. Vol. 2 of Computational Biology Series. Kluwer Academic Publishers, Dordrecht.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/181",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.5583600000001,
+            "t": 488.0164128199999,
+            "r": 530.5909263143222,
+            "b": 471.58378298398236,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "Kuljus, K., Lember, J., 2010. Asymptotic risks of Viterbi alignment. SLU Centre of Biostatistics, Research report 2010:02, http: // biostochastics.slu.se / publikationer / index.cfm?Call = publikationer, submitted.",
+      "text": "Kuljus, K., Lember, J., 2010. Asymptotic risks of Viterbi alignment. SLU Centre of Biostatistics, Research report 2010:02, http: // biostochastics.slu.se / publikationer / index.cfm?Call = publikationer, submitted.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/182",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.55764000000019,
+            "t": 469.05625281999994,
+            "r": 447.1903606227489,
+            "b": 462.1037029839824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "Lember, J., Koloydenko, A., 2008. The Adjusted Viterbi training for hidden Markov models. Bernoulli 14 (1), 180-206.",
+      "text": "Lember, J., Koloydenko, A., 2008. The Adjusted Viterbi training for hidden Markov models. Bernoulli 14 (1), 180-206.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/183",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.55764000000022,
+            "t": 459.57617281999995,
+            "r": 530.71124570022,
+            "b": 443.1435429839824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "Lember, J., Koloydenko, A., 2010. A constructive proof of the existence of Viterbi processes. IEEE Transactions on information theory 56 (4), 2017 - 2033.",
+      "text": "Lember, J., Koloydenko, A., 2010. A constructive proof of the existence of Viterbi processes. IEEE Transactions on information theory 56 (4), 2017 - 2033.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/184",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.5578700000002,
+            "t": 440.73632281999994,
+            "r": 530.5426092986605,
+            "b": 424.3036929839824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "Li, J., Gray, R. M., Olshen, R. A., 2000. Multiresolution image classification by hierarchical modeling with two-dimensional hidden Markov models. IEEE Trans. Inform. Theory 46 (5), 1826-1841, information-theoretic imaging.",
+      "text": "Li, J., Gray, R. M., Olshen, R. A., 2000. Multiresolution image classification by hierarchical modeling with two-dimensional hidden Markov models. IEEE Trans. Inform. Theory 46 (5), 1826-1841, information-theoretic imaging.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/185",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 64.55787000000012,
+            "t": 421.77616281999997,
+            "r": 487.27032289087254,
+            "b": 414.8236129839824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "Rabiner, L., 1989. A tutorial on hidden Markov models and selected applications in speech recognition. Proc. IEEE 77 (2), 257-286.",
+      "text": "Rabiner, L., 1989. A tutorial on hidden Markov models and selected applications in speech recognition. Proc. IEEE 77 (2), 257-286.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/186",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 295.1978700000002,
+            "t": 105.81521767999993,
+            "r": 300.1791900000002,
+            "b": 97.12452820415808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 8
+    }
+  }
+}

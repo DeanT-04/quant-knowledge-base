@@ -1,0 +1,5354 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2009.14589_hidden_markov_models_for_pipeline_damage_detection",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6419579971299968670,
+    "filename": "2009.14589_hidden_markov_models_for_pipeline_damage_detection.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/121"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/groups/12"
+      },
+      {
+        "$ref": "#/texts/148"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/55"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/74"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/75"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/81"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/120"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.759999999999998,
+            "t": 602.98,
+            "r": 36.206559297218156,
+            "b": 243.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "arXiv:2009.14589v1  [eess.SP]  30 Sep 2020",
+      "text": "arXiv:2009.14589v1  [eess.SP]  30 Sep 2020",
+      "hyperlink": "http://arxiv.org/abs/2009.14589v1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 120.48,
+            "t": 619.9925558,
+            "r": 489.8299772580113,
+            "b": 576.9387154085471,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Hidden Markov Models for Pipeline Damage Detection Using Piezoelectric Transducers",
+      "text": "Hidden Markov Models for Pipeline Damage Detection Using Piezoelectric Transducers",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 144.48000000000002,
+            "t": 558.15204,
+            "r": 461.1725138063788,
+            "b": 506.0393038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "Mingchi Zhang Xuemin Chen ∗ Wei Li College of Science, Engineeering and Technolgy Texas Southern University",
+      "text": "Mingchi Zhang Xuemin Chen ∗ Wei Li College of Science, Engineeering and Technolgy Texas Southern University"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 226.31993999999997,
+            "t": 502.5197500000001,
+            "r": 383.96972030757104,
+            "b": 488.15920380000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Houston, TX 77004, USA",
+      "text": "Houston, TX 77004, USA"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 281.16013999999996,
+            "t": 424.0144518000001,
+            "r": 329.116572509115,
+            "b": 416.33444540000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 140.16013999999996,
+            "t": 404.30162500000006,
+            "r": 470.32374362721214,
+            "b": 176.67172500000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1109
+          ]
+        }
+      ],
+      "orig": "Oil and gas pipeline leakages lead to not only enormous economic loss but also environmental disasters. How to detect the pipeline damages including leakages and cracks has attracted much research attention. One of the promising leakage detection method is to use lead zirconate titanate (PZT) transducers to detect the negative pressure wave when leakage occurs. PZT transducers can generate and detect guided stress waves for crack detection also. However, the negative pressure waves or guided stress waves may not be easily detected with environmental interference, e.g., the oil and gas pipelines in offshore environment. In this paper, a Gaussian mixture model based hidden Markov model (GMM-HMM) method is proposed to detect the pipeline leakage and crack depth in changing environment and timevarying operational conditions. Leakages in different sections or crack depths are considered as different states in hidden Markov models (HMM). Laboratory experiments show that the GMM-HMM method can recognize the crack depth and leakage of pipeline such as whether there is a leakage, where the leakage is.",
+      "text": "Oil and gas pipeline leakages lead to not only enormous economic loss but also environmental disasters. How to detect the pipeline damages including leakages and cracks has attracted much research attention. One of the promising leakage detection method is to use lead zirconate titanate (PZT) transducers to detect the negative pressure wave when leakage occurs. PZT transducers can generate and detect guided stress waves for crack detection also. However, the negative pressure waves or guided stress waves may not be easily detected with environmental interference, e.g., the oil and gas pipelines in offshore environment. In this paper, a Gaussian mixture model based hidden Markov model (GMM-HMM) method is proposed to detect the pipeline leakage and crack depth in changing environment and timevarying operational conditions. Leakages in different sections or crack depths are considered as different states in hidden Markov models (HMM). Laboratory experiments show that the GMM-HMM method can recognize the crack depth and leakage of pipeline such as whether there is a leakage, where the leakage is."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.2,
+            "t": 167.67198000000008,
+            "r": 295.20801448496127,
+            "b": 157.70934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "∗ Contact author, xuemin.chen@tsu.edu",
+      "text": "∗ Contact author, xuemin.chen@tsu.edu"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 302.16016,
+            "t": 98.84649999999999,
+            "r": 308.0062528,
+            "b": 86.87934480000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.88,
+            "t": 666.29078,
+            "r": 246.79918912705338,
+            "b": 650.7797046000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.88,
+            "t": 636.9267,
+            "r": 499.422900548608,
+            "b": 162.71954480000022,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2465
+          ]
+        }
+      ],
+      "orig": "Thousands of miles of pipelines crisscrossed on the Gulf of Mexico seafloor are the veins for offshore oil and gas industry of the U.S. or even the whole world, while the leaks and ruptures of those pipelines lead to not only enormous economic loss but also environmental disasters [1]. In the last few decades, many pipeline structural health monitoring techniques have been used to monitor damages [1, 2]. One of the promising methods for pipeline leakage detection is based on the negative pressure wave (NPW) [3-7]. NPW is generated at the leak point when the fluid or gas escapes in the form of a high velocity jet [8]. Then the NPW propagates along pipeline in both directions, i.e., the upstream and downstream of leakage point. The NPW can be detected by Lead zirconate titanate (PZT) transducers. PZT transducers are made of piezoelectric materials which can convert mechanical energy to electrical energy and vice versa. This piezoelectric effect leads to PZT transducers work as passive sensors or active actuators. PZT transducers can be effectively used as passive sensors to catch the acoustic signals propagating along the pipeline. On the other hand, the pipeline health condition needs to be evaluated periodically to provide early warning. To address this demand, PZT transducers have been used in active sensing mode to detect crack [9]. PZT transducers have found lots of applications for structural health monitoring. Wang et al. [10] invented a wearable PZT transducers which can be easily and noninvasively worn onto the flanged valve for bolted joint in realtime. Gong et al. [11] developed an algorithm to process signals collected by PZT sensor for automatic extraction of the stress wave reflection period. In these applications, the structural health condition is evaluated according to extracted features. However, in the actual situation, the changing environment and time-varying operational conditions make the reliability of damage evaluation facing the challenge. Especially for the offshore pipelines, the submarine environment is more complicated. With the development of machine learning, many attention has been paid to the probabilistic and statistical model-based methods, which are effective tools for characterizing uncertainties of signals such as Gaussian mixture model (GMM) [12], hidden Markov model (HMM) [13]. These researches have shown the potential to improve the damage evaluation reliability under uncertainties.",
+      "text": "Thousands of miles of pipelines crisscrossed on the Gulf of Mexico seafloor are the veins for offshore oil and gas industry of the U.S. or even the whole world, while the leaks and ruptures of those pipelines lead to not only enormous economic loss but also environmental disasters [1]. In the last few decades, many pipeline structural health monitoring techniques have been used to monitor damages [1, 2]. One of the promising methods for pipeline leakage detection is based on the negative pressure wave (NPW) [3-7]. NPW is generated at the leak point when the fluid or gas escapes in the form of a high velocity jet [8]. Then the NPW propagates along pipeline in both directions, i.e., the upstream and downstream of leakage point. The NPW can be detected by Lead zirconate titanate (PZT) transducers. PZT transducers are made of piezoelectric materials which can convert mechanical energy to electrical energy and vice versa. This piezoelectric effect leads to PZT transducers work as passive sensors or active actuators. PZT transducers can be effectively used as passive sensors to catch the acoustic signals propagating along the pipeline. On the other hand, the pipeline health condition needs to be evaluated periodically to provide early warning. To address this demand, PZT transducers have been used in active sensing mode to detect crack [9]. PZT transducers have found lots of applications for structural health monitoring. Wang et al. [10] invented a wearable PZT transducers which can be easily and noninvasively worn onto the flanged valve for bolted joint in realtime. Gong et al. [11] developed an algorithm to process signals collected by PZT sensor for automatic extraction of the stress wave reflection period. In these applications, the structural health condition is evaluated according to extracted features. However, in the actual situation, the changing environment and time-varying operational conditions make the reliability of damage evaluation facing the challenge. Especially for the offshore pipelines, the submarine environment is more complicated. With the development of machine learning, many attention has been paid to the probabilistic and statistical model-based methods, which are effective tools for characterizing uncertainties of signals such as Gaussian mixture model (GMM) [12], hidden Markov model (HMM) [13]. These researches have shown the potential to improve the damage evaluation reliability under uncertainties."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 110.87990000000002,
+            "t": 160.1668000000002,
+            "r": 499.37733097420806,
+            "b": 119.39964480000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 499.4229752803839,
+            "b": 535.6795448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            228,
+            885
+          ]
+        }
+      ],
+      "orig": "Among the existing probabilistic and statistical models [12, 13], HMM has a strong capability in pattern classification, especially for signals with nonstationary natures and poor repeatability and reproducibility [14]. HMM and its variants have been extensively used for speech recognition [15], hand gesture recognition [16], handwritten word recognition [17], and newly applied to spam SMS detection [18]. In the field of structural health monitoring, several researchers have also applied the HMM to damage evaluation. Rammohan and Taha [19] using a standard HMM to model the simulated data of a pre-stressed concrete bridge. Tschpe and Wolff [20] studied the HMM for damage degree classification on plate-like structures. These studies indicate that the HMM is robust to uncertainties. So far, however, there is very little published research on using HMM detect pipeline leakage.",
+      "text": "Among the existing probabilistic and statistical models [12, 13], HMM has a strong capability in pattern classification, especially for signals with nonstationary natures and poor repeatability and reproducibility [14]. HMM and its variants have been extensively used for speech recognition [15], hand gesture recognition [16], handwritten word recognition [17], and newly applied to spam SMS detection [18]. In the field of structural health monitoring, several researchers have also applied the HMM to damage evaluation. Rammohan and Taha [19] using a standard HMM to model the simulated data of a pre-stressed concrete bridge. Tschpe and Wolff [20] studied the HMM for damage degree classification on plate-like structures. These studies indicate that the HMM is robust to uncertainties. So far, however, there is very little published research on using HMM detect pipeline leakage."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 302.1599,
+            "t": 98.84690000000012,
+            "r": 308.0059928,
+            "b": 86.87974480000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.88,
+            "t": 511.7310800000001,
+            "r": 455.9589200212896,
+            "b": 496.2200046000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "2 GMM-HMM based leakage detection",
+      "text": "2 GMM-HMM based leakage detection",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.88,
+            "t": 482.3666000000001,
+            "r": 499.4048639641089,
+            "b": 441.4795448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "In this section, method for damage indexes extraction from the acoustic signals detected by PZT sensors is discussed. Then the design and training of GMM-HMM are presented.",
+      "text": "In this section, method for damage indexes extraction from the acoustic signals detected by PZT sensors is discussed. Then the design and training of GMM-HMM are presented."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.88,
+            "t": 420.80274000000014,
+            "r": 338.7258699255376,
+            "b": 407.8768138000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "2.1 Damage indexes extraction",
+      "text": "2.1 Damage indexes extraction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.88,
+            "t": 397.52680000000015,
+            "r": 499.37757215534094,
+            "b": 342.23934480000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            296
+          ]
+        }
+      ],
+      "orig": "To establish the relationship between characteristics change of the sampled waveform and damage parameters, two damage indexes are adopted to indicate the signal variations and serve as observations of the HMM model. The first damage index ( DI 1 ) is a time-domain damage index, defined in [21]:",
+      "text": "To establish the relationship between characteristics change of the sampled waveform and damage parameters, two damage indexes are adopted to indicate the signal variations and serve as observations of the HMM model. The first damage index ( DI 1 ) is a time-domain damage index, defined in [21]:"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 184.67987999999997,
+            "t": 335.15850800000015,
+            "r": 499.42349663692795,
+            "b": 279.012608,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "DI 1 = 1 -√ ∫ ( s 1 ( t ) -¯ s 1 )( s 2 ( t ) -¯ s 2 ) dt ∫ ( s 1 ( t ) -¯ s 1 ) 2 dt ∫ ( s 2 ( t ) -¯ s 2 ) 2 dt , (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.88052399999987,
+            "t": 292.64648,
+            "r": 499.36212132543994,
+            "b": 208.43952479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            442
+          ]
+        }
+      ],
+      "orig": "where s 1 ( t ) is the baseline waveform and s 2 ( t ) is the comparison waveform at time t . The ¯ s 1 and ¯ s 2 is average value of s 1 ( t ) and s 2 ( t ). The baseline waveform represent the incident waveforms, and the comparison waveforms denote the captured waves detected by sensors. Unity minus the absolute value of the Pearson correlation coefficient is used as the time-domain damage index which can identify the signal difference.",
+      "text": "where s 1 ( t ) is the baseline waveform and s 2 ( t ) is the comparison waveform at time t . The ¯ s 1 and ¯ s 2 is average value of s 1 ( t ) and s 2 ( t ). The baseline waveform represent the incident waveforms, and the comparison waveforms denote the captured waves detected by sensors. Unity minus the absolute value of the Pearson correlation coefficient is used as the time-domain damage index which can identify the signal difference."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.88037399999979,
+            "t": 206.00667999999996,
+            "r": 499.3606070854401,
+            "b": 179.51922479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "The second one is a frequency-domain damage index ( DI 2 ), the amplitude of peak frequency, as defined in [22]:",
+      "text": "The second one is a frequency-domain damage index ( DI 2 ), the amplitude of peak frequency, as defined in [22]:"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 247.08037399999978,
+            "t": 171.44657999999993,
+            "r": 499.4243766369279,
+            "b": 151.00317799999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "DI 2 = max f 1 ≤ f ≤ f 2 ( | X ( f ) | ) , (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.88040399999983,
+            "t": 146.25130744,
+            "r": 499.1299712217857,
+            "b": 108.492798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "where X ( f ) = ∫ t 2 t 1 X ( t ) e -j 2 πft dt . f 1 and f 2 are the start and stop frequency corresponding to the selected frequency spectrum window.",
+      "text": "where X ( f ) = ∫ t 2 t 1 X ( t ) e -j 2 πft dt . f 1 and f 2 are the start and stop frequency corresponding to the selected frequency spectrum window."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.16045399999973,
+            "t": 98.84656999999993,
+            "r": 308.00654679999974,
+            "b": 86.87941479999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.88,
+            "t": 664.28234,
+            "r": 413.40166826215835,
+            "b": 651.3564138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "2.2 HMM and the BaumWelch algorithm",
+      "text": "2.2 HMM and the BaumWelch algorithm",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.88,
+            "t": 641.0064,
+            "r": 499.3316736,
+            "b": 600.2392448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "To reduce the calculation complexity and keep the model works efficiently, only first-order HMM is adopted in this study. A typical HMM model can be defined by a three-tuple:",
+      "text": "To reduce the calculation complexity and keep the model works efficiently, only first-order HMM is adopted in this study. A typical HMM model can be defined by a three-tuple:"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 265.44,
+            "t": 588.2064,
+            "r": 499.4229526369281,
+            "b": 567.763008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "λ = { π , A , B } , (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87957999999998,
+            "t": 564.3267000000001,
+            "r": 499.42210331683884,
+            "b": 523.4396448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "where π is the initial probability distribution, A is the state transition probability matrix and B is the observation probability distribution matrix or the emission matrix. Common notations are used in this paper as follows.",
+      "text": "where π is the initial probability distribution, A is the state transition probability matrix and B is the observation probability distribution matrix or the emission matrix. Common notations are used in this paper as follows."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87962999999993,
+            "t": 521.0068000000001,
+            "r": 499.3600317662721,
+            "b": 480.1193448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "a) S : A set of N hidden states is denoted as S = { s 1 , s 2 , s 3 , , s N } . The state of model at time t is denoted by q t ∈ S , which denotes the current state.",
+      "text": "S : A set of N hidden states is denoted as S = { s 1 , s 2 , s 3 , , s N } . The state of model at time t is denoted by q t ∈ S , which denotes the current state.",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87990999999982,
+            "t": 477.68650000000014,
+            "r": 499.43976919999983,
+            "b": 442.7232080000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "b) V : A set of M observation states is denoted as V = { v 1 , v 2 , v 3 , , v M } . The observed state at time t is denoted by o t ∈ V .",
+      "text": "V : A set of M observation states is denoted as V = { v 1 , v 2 , v 3 , , v M } . The observed state at time t is denoted by o t ∈ V .",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.8789499999998,
+            "t": 369.9268000000002,
+            "r": 499.41324826688,
+            "b": 335.0834080000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "d) A : N × N state transition probability matrix, N is the number of hidden states. A = [ a ij ] , 1 ≤ i, j ≤ N .",
+      "text": "A : N × N state transition probability matrix, N is the number of hidden states. A = [ a ij ] , 1 ≤ i, j ≤ N .",
+      "enumerated": true,
+      "marker": "d)"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87961999999979,
+            "t": 448.76660000000015,
+            "r": 499.4225226369279,
+            "b": 368.89290800000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            276
+          ]
+        }
+      ],
+      "orig": "c) π : an N × 1 initial probability distribution over the state. π i is the probability that the Markov chain will start in the state s i . Some states s j may have π j = 0, meaning that they cannot be the initial state. Also, ∑ N i =1 π i = 1. π = { π 1 , π 2 , , π N } . (4)",
+      "text": "π : an N × 1 initial probability distribution over the state. π i is the probability that the Markov chain will start in the state s i . Some states s j may have π j = 0, meaning that they cannot be the initial state. Also, ∑ N i =1 π i = 1. π = { π 1 , π 2 , , π N } . (4)",
+      "enumerated": true,
+      "marker": "c)"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 238.79892999999984,
+            "t": 331.64670000000024,
+            "r": 499.4221726369279,
+            "b": 311.2033080000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "a ij = P ( q t +1 = s j | q t = s i ) , (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.8791999999998,
+            "t": 307.64670000000024,
+            "r": 498.95683970999977,
+            "b": 256.69288800000027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "where a ij is the probability of transmission from structural damage state s i at time t to structural damage state s j at time t +1 and ∑ N j =1 a ij = 1. e) B : observation probability distribution matrix,",
+      "text": "where a ij is the probability of transmission from structural damage state s i at time t to structural damage state s j at time t +1 and ∑ N j =1 a ij = 1. e) B : observation probability distribution matrix,"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 242.75980999999967,
+            "t": 253.76660000000027,
+            "r": 499.42274263692775,
+            "b": 233.32320800000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "b jk = P ( o t = v k | q t = s j ) , (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.8797299999996,
+            "t": 229.8865000000003,
+            "r": 499.3601889178877,
+            "b": 203.3994448000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "where 1 ≤ j ≤ N, 1 ≤ k ≤ m , b jk is the possibility of observation o t at time t .",
+      "text": "where 1 ≤ j ≤ N, 1 ≤ k ≤ m , b jk is the possibility of observation o t at time t ."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.87962999999962,
+            "t": 200.9666000000002,
+            "r": 499.69108597416954,
+            "b": 116.75964480000027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            425
+          ]
+        }
+      ],
+      "orig": "There are three basic problems in HMM: evaluation, decoding, and learning. Given a training set of observations, HMM is trained to find the optimized parameters λ = { π , A , B } , by Baum-Welch expectation-maximization algorithm (EM algorithm), which is a learning problem of HMM. After the HMM trained, this model can be applied to evaluate the damage states of a new defective pipeline in various conditional environments.",
+      "text": "There are three basic problems in HMM: evaluation, decoding, and learning. Given a training set of observations, HMM is trained to find the optimized parameters λ = { π , A , B } , by Baum-Welch expectation-maximization algorithm (EM algorithm), which is a learning problem of HMM. After the HMM trained, this model can be applied to evaluate the damage states of a new defective pipeline in various conditional environments."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 302.15970999999956,
+            "t": 98.84670000000028,
+            "r": 308.00580279999957,
+            "b": 86.87954480000019,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.88009999999997,
+            "t": 663.2064,
+            "r": 499.41491772748805,
+            "b": 622.3193448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "The BaumWelch algorithm is employed in HMM to perform the training as shown in Fig. 1, which is an iterative process to adjust the parameters of A , B , and π .",
+      "text": "The BaumWelch algorithm is employed in HMM to perform the training as shown in Fig. 1, which is an iterative process to adjust the parameters of A , B , and π ."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 177.72,
+            "t": 395.2464,
+            "r": 432.46330195077144,
+            "b": 383.27924479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Figure 1: Baum-Welch algorithm (EM algorithm)",
+      "text": "Figure 1: Baum-Welch algorithm (EM algorithm)"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.8802,
+            "t": 348.92234,
+            "r": 320.31593303421346,
+            "b": 335.99641379999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "2.3 Gaussian mixture model",
+      "text": "2.3 Gaussian mixture model",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.8802,
+            "t": 325.6464,
+            "r": 499.2579687685639,
+            "b": 270.35934480000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "In this paper, the Gaussian mixture model[22, 23], based on unsupervised learning, is chosen to model the distribution of the observed damage indexes to obtain B in the hidden Markov model, whose elements are given by equation",
+      "text": "In this paper, the Gaussian mixture model[22, 23], based on unsupervised learning, is chosen to model the distribution of the observed damage indexes to obtain B in the hidden Markov model, whose elements are given by equation"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.88088399999998,
+            "t": 229.7663,
+            "r": 499.36164575779895,
+            "b": 203.39914480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "where c jk , µ jk and Σ jz are the mixture weight, mean vector, the covariance matrix of the K-component Gaussian mixture model.",
+      "text": "where c jk , µ jk and Σ jz are the mixture weight, mean vector, the covariance matrix of the K-component Gaussian mixture model."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 179.52,
+            "t": 271.41085744,
+            "r": 499.42399663692805,
+            "b": 226.81250799999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "b jk = P ( o t = v k | q t = S j ) = M ∑ k =1 c jk N ( O t , µ jk , Σ jz ) , (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 128.400784,
+            "t": 200.96630000000005,
+            "r": 312.48063562350103,
+            "b": 188.99914480000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Based on the Gaussian distribution:",
+      "text": "Based on the Gaussian distribution:"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 197.760984,
+            "t": 181.70004315000006,
+            "r": 499.42319263692815,
+            "b": 151.07924479999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "N ( O t , µ jk , Σ jz ) = 1 √ 2 πσ 2 exp( -( x -µ ) 2 2 σ 2 ) . (8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 110.88032000000004,
+            "t": 143.12637999999993,
+            "r": 499.3768602890759,
+            "b": 116.75922479999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "The EM algorithm is implied in the GMM model, which contains initialization, E step, and M step.",
+      "text": "The EM algorithm is implied in the GMM model, which contains initialization, E step, and M step."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 302.16032000000007,
+            "t": 98.84627999999998,
+            "r": 308.0064128000001,
+            "b": 86.8791248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 128.4,
+            "t": 663.2064,
+            "r": 207.97117067888658,
+            "b": 651.2392448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "a) Initialization",
+      "text": "Initialization",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.88000000000005,
+            "t": 648.8064,
+            "r": 499.376010329242,
+            "b": 621.8941975600001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "Setting the number of mixture component K , for each component initialize it with c jk , µ jk and Σ jz .",
+      "text": "Setting the number of mixture component K , for each component initialize it with c jk , µ jk and Σ jz ."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 128.39996000000008,
+            "t": 619.8865000000001,
+            "r": 176.0518212122625,
+            "b": 607.9193448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "b) E step",
+      "text": "E step",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 128.39996000000008,
+            "t": 605.4865000000001,
+            "r": 483.3602892000002,
+            "b": 593.0941975600001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "Calculate the posterior probability based on current c jk , µ jk and Σ jz .",
+      "text": "Calculate the posterior probability based on current c jk , µ jk and Σ jz ."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 219.48043000000018,
+            "t": 580.1665400000002,
+            "r": 499.4233126369281,
+            "b": 526.6926080000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "γ ( z tk ) = c jk N ( O t , µ jk , Σ jz ) ∑ M k =1 c jk N ( O t , µ jk , Σ jz ) . (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 197.76020999999997,
+            "t": 491.73075743999993,
+            "r": 499.4220311089921,
+            "b": 447.13240799999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "Σ jz = 1 N k N ∑ t =1 γ ( z tk )( O t -µ jk )( O t -µ jk ) T . (11)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 247.56034,
+            "t": 535.65115744,
+            "r": 499.42321110899206,
+            "b": 491.172728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "µ jk = 1 N k N ∑ t =1 γ ( z tk ) O t . (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 128.39875999999998,
+            "t": 417.56631,
+            "r": 371.6385262616321,
+            "b": 405.17400755999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Calculate new c jk , µ jk , Σ jz based on the γ ( z tk ).",
+      "text": "Calculate new c jk , µ jk , Σ jz based on the γ ( z tk )."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87903,
+            "t": 448.89091743999995,
+            "r": 236.638636261632,
+            "b": 411.01248799999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "where N k = ∑ N t =1 γ ( z tk ). c) M step",
+      "text": "where N k = ∑ N t =1 γ ( z tk ). c) M step"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 128.39865000000003,
+            "t": 403.04641,
+            "r": 419.7591823566085,
+            "b": 391.07925479999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "d) Iteration these steps until the GMM model converges.",
+      "text": "Iteration these steps until the GMM model converges.",
+      "enumerated": true,
+      "marker": "d)"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87875000000003,
+            "t": 369.56215,
+            "r": 298.4044273214023,
+            "b": 356.6362237999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "2.4 GMM-HMM method",
+      "text": "2.4 GMM-HMM method",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87875000000003,
+            "t": 346.28621,
+            "r": 463.43862877222404,
+            "b": 334.31905479999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "There are five major steps included in the damage detection process.",
+      "text": "There are five major steps included in the damage detection process."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87875000000003,
+            "t": 331.88621,
+            "r": 499.2534572,
+            "b": 305.39915479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "1) States of the HMM are designed based on the placement of pipelines and sensors.",
+      "text": "States of the HMM are designed based on the placement of pipelines and sensors.",
+      "enumerated": true,
+      "marker": "1)"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87965000000003,
+            "t": 302.96631,
+            "r": 499.4143051598081,
+            "b": 247.67925480000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            269
+          ]
+        }
+      ],
+      "orig": "2) Stress waves are obtained from the sensors based on different states of the HMM. Damage indexes are extracted from the stress wave and describe the various degree of damages. The GMM model calculates the parameter of each Gaussian model which formed matrix B in HMM.",
+      "text": "Stress waves are obtained from the sensors based on different states of the HMM. Damage indexes are extracted from the stress wave and describe the various degree of damages. The GMM model calculates the parameter of each Gaussian model which formed matrix B in HMM.",
+      "enumerated": true,
+      "marker": "2)"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87935000000004,
+            "t": 245.12651000000005,
+            "r": 499.40536008384004,
+            "b": 218.75935479999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "3) A typical HMM model defined by a three-tuple: λ = { π , A , B } . To initialize the HMM, π and A is estimate by the prior probability.",
+      "text": "A typical HMM model defined by a three-tuple: λ = { π , A , B } . To initialize the HMM, π and A is estimate by the prior probability.",
+      "enumerated": true,
+      "marker": "3)"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87965000000005,
+            "t": 216.20660999999996,
+            "r": 499.25633013184074,
+            "b": 189.8394548,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "4) After the parameter initialization of the HMM, the training implemented by an iterative process through the Baum-Welch algorithm.",
+      "text": "After the parameter initialization of the HMM, the training implemented by an iterative process through the Baum-Welch algorithm.",
+      "enumerated": true,
+      "marker": "4)"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 110.87965000000005,
+            "t": 187.40661,
+            "r": 499.36099707097657,
+            "b": 160.9191548,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "5) Given the trained HMM and the new observations to find out the optimal state is the typical decoding problem in HMM.",
+      "text": "Given the trained HMM and the new observations to find out the optimal state is the typical decoding problem in HMM.",
+      "enumerated": true,
+      "marker": "5)"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.15965000000006,
+            "t": 98.84650999999997,
+            "r": 308.00574280000006,
+            "b": 86.87935479999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 182.04,
+            "t": 538.0464000000001,
+            "r": 428.0952661819907,
+            "b": 526.0792448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Figure 2: Settlement of the pipeline and sensors",
+      "text": "Figure 2: Settlement of the pipeline and sensors"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88019999999999,
+            "t": 506.93078,
+            "r": 322.6262020028377,
+            "b": 491.41970460000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "3 Experimental Results",
+      "text": "3 Experimental Results",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88019999999999,
+            "t": 475.1621400000001,
+            "r": 273.5661104388539,
+            "b": 462.23621380000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "3.1 Leakage detection",
+      "text": "3.1 Leakage detection",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88019999999999,
+            "t": 451.28844000000004,
+            "r": 256.8323375762688,
+            "b": 440.51680480000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "3.1.1 Experiment setup",
+      "text": "3.1.1 Experiment setup",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88019999999999,
+            "t": 429.8065000000001,
+            "r": 499.3725264,
+            "b": 388.91904480000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "The purpose of the experiment is to detect pipeline leakage utilizing PZT sensors. The negative pressure wave is generated by leakage in the pipeline and propagates along the pipeline from the leakage point to both ends.",
+      "text": "The purpose of the experiment is to detect pipeline leakage utilizing PZT sensors. The negative pressure wave is generated by leakage in the pipeline and propagates along the pipeline from the leakage point to both ends."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.87973999999997,
+            "t": 386.4862000000001,
+            "r": 499.40639286832675,
+            "b": 244.43944480000016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            747
+          ]
+        }
+      ],
+      "orig": "The experimental pipeline built at the University of Houston, as shown in Fig. 2, consists of a series of PVC plain-end pipe sections connected together to form a pipeline with a total length of 55.78 m . Six PZT sensors ( P 1 to P 6 , size is 15 mm × 10 mm ) are directly mounted on the pipeline to detect NPW signal arrival. A NI PXI-5105 digitizer is used as a data acquisition system. The digitizer is triggered by the voltage signal of PZT No. 1 with the trigger level at -. 02 V and all the signals from six PZT sensors are recorded simultaneously at a sampling rate of 100 KS/s . Although it is not targeted to solve the problem of submarine pipeline leakage detection, the experimental data is used to validate the proposed GMM-HMM method.",
+      "text": "The experimental pipeline built at the University of Houston, as shown in Fig. 2, consists of a series of PVC plain-end pipe sections connected together to form a pipeline with a total length of 55.78 m . Six PZT sensors ( P 1 to P 6 , size is 15 mm × 10 mm ) are directly mounted on the pipeline to detect NPW signal arrival. A NI PXI-5105 digitizer is used as a data acquisition system. The digitizer is triggered by the voltage signal of PZT No. 1 with the trigger level at -. 02 V and all the signals from six PZT sensors are recorded simultaneously at a sampling rate of 100 KS/s . Although it is not targeted to solve the problem of submarine pipeline leakage detection, the experimental data is used to validate the proposed GMM-HMM method."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 110.88006999999993,
+            "t": 242.00660000000016,
+            "r": 499.42296567129597,
+            "b": 172.1992448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            310
+          ]
+        }
+      ],
+      "orig": "Two states, leaking or not leaking, are chosen as the states in a left to right HMM model, where the transitions only go from one state to itself or to a unique follower. Leakage signal collected by P 1 and baseline simulation signal of three different sections of leakage serves as original data of the model.",
+      "text": "Two states, leaking or not leaking, are chosen as the states in a left to right HMM model, where the transitions only go from one state to itself or to a unique follower. Leakage signal collected by P 1 and baseline simulation signal of three different sections of leakage serves as original data of the model."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 302.1600699999999,
+            "t": 98.8465000000001,
+            "r": 308.0061627999999,
+            "b": 86.87934480000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 110.88,
+            "t": 662.60864,
+            "r": 315.75250033766395,
+            "b": 651.8370048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "3.1.2 Results of leakage detection",
+      "text": "3.1.2 Results of leakage detection",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 110.88,
+            "t": 641.0064,
+            "r": 499.37449907686414,
+            "b": 556.7994448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            389
+          ]
+        }
+      ],
+      "orig": "Signals of the different sections are shown in Fig. 3(a). The blue dashed line represents leakage state signal and red solid line represents no leakage state signal. The experiment of collecting signals for each leakage state was repeated by 20 times. Randomly selected repeated experiment data from the same sensor are separated into two groups equally, named training data and test data.",
+      "text": "Signals of the different sections are shown in Fig. 3(a). The blue dashed line represents leakage state signal and red solid line represents no leakage state signal. The experiment of collecting signals for each leakage state was repeated by 20 times. Randomly selected repeated experiment data from the same sensor are separated into two groups equally, named training data and test data."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 159.84,
+            "t": 438.75197999999995,
+            "r": 271.19906834593615,
+            "b": 428.78934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "(a) Different states signal",
+      "text": "(a) Different states signal",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 157.8,
+            "t": 298.95198,
+            "r": 273.3677501469379,
+            "b": 288.98934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "(c) Negative log-likelihood",
+      "text": "(c) Negative log-likelihood",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 324.54750446460747,
+            "t": 509.23981211547124,
+            "r": 328.6180045,
+            "b": 505.8549998686202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "澸澽",
+      "text": "澸澽"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 326.46733635049844,
+            "t": 510.48153902096016,
+            "r": 329.181003,
+            "b": 509.24399991241347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "澥",
+      "text": "澥"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 325.09650446460745,
+            "t": 474.0538121154712,
+            "r": 329.16700449999996,
+            "b": 470.6689998686202,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "澸澽",
+      "text": "澸澽"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 327.0163363504985,
+            "t": 475.2955390209601,
+            "r": 329.730003,
+            "b": 474.05799991241344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "澦",
+      "text": "澦"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 351.0,
+            "t": 438.75197999999995,
+            "r": 438.5651072887325,
+            "b": 428.78934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "(b) Damage indexes",
+      "text": "(b) Damage indexes"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 337.56,
+            "t": 298.95198,
+            "r": 452.06484164449097,
+            "b": 288.98934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "(d) Pipeline status output",
+      "text": "(d) Pipeline status output",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 174.24,
+            "t": 273.6862000000001,
+            "r": 435.97201596761647,
+            "b": 261.7190448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Figure 3: Experimental results of leakage detection",
+      "text": "Figure 3: Experimental results of leakage detection"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 110.88120000000009,
+            "t": 244.2862,
+            "r": 499.37864226508816,
+            "b": 116.75934480000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            647
+          ]
+        },
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 499.41444058265614,
+            "b": 636.8392448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            648,
+            787
+          ]
+        }
+      ],
+      "orig": "For training data, a total of 70 groups, 100000 per group samples are collected. Two damage indexes in different damage leakage states are obtained by using Eq. 1 and Eq. 2 with 45 data points for each state as shown in Fig. 3(b). The parameter of GMM can be calculated by EM algorithm.The negative log-likelihood predicted by GMM shown in Fig. 3(c) The testing is performed after the training process of the HMM model whose parameters have been optimized. The testing is used to validate the prediction capability of the HMM model and the result is showed in Fig. 3(d). The accuracy of the testing performance between predicted state sequence and actual state sequence are approaching 92.51%.The accuracy is the ratio of correctly predicted states to the total number of state sequence.",
+      "text": "For training data, a total of 70 groups, 100000 per group samples are collected. Two damage indexes in different damage leakage states are obtained by using Eq. 1 and Eq. 2 with 45 data points for each state as shown in Fig. 3(b). The parameter of GMM can be calculated by EM algorithm.The negative log-likelihood predicted by GMM shown in Fig. 3(c) The testing is performed after the training process of the HMM model whose parameters have been optimized. The testing is used to validate the prediction capability of the HMM model and the result is showed in Fig. 3(d). The accuracy of the testing performance between predicted state sequence and actual state sequence are approaching 92.51%.The accuracy is the ratio of correctly predicted states to the total number of state sequence."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 302.1612000000001,
+            "t": 98.8463999999999,
+            "r": 308.00729280000013,
+            "b": 86.87924479999992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 110.88,
+            "t": 615.20264,
+            "r": 334.76570272840206,
+            "b": 602.2767138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "3.2 Leakage location detection",
+      "text": "3.2 Leakage location detection",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 110.88,
+            "t": 591.32894,
+            "r": 256.8321375762688,
+            "b": 580.5573048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "3.2.1 Experiment setup",
+      "text": "3.2.1 Experiment setup",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 110.88,
+            "t": 569.7266999999999,
+            "r": 499.4062028288,
+            "b": 456.7193448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            609
+          ]
+        }
+      ],
+      "orig": "In this experiment, all the data are based on the previous experimental setup. By changing the leakage state to different leakage locations. The purpose and output of the HMM model will be changed to leakage location detection. As shown in Fig. 4(a), there are three leakage locations corresponding to three different states in ergodic HMM. State 1 denotes leakage occurred at section 1 of pipeline, state 2 and 3 denotes leakage occurred at section 2 and 3 of pipeline. Therefore, there are three states in this ergodic HMM, which allowing for transitions from any emitting state to any other emitting state.",
+      "text": "In this experiment, all the data are based on the previous experimental setup. By changing the leakage state to different leakage locations. The purpose and output of the HMM model will be changed to leakage location detection. As shown in Fig. 4(a), there are three leakage locations corresponding to three different states in ergodic HMM. State 1 denotes leakage occurred at section 1 of pipeline, state 2 and 3 denotes leakage occurred at section 2 and 3 of pipeline. Therefore, there are three states in this ergodic HMM, which allowing for transitions from any emitting state to any other emitting state."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 214.2,
+            "t": 333.99197999999996,
+            "r": 396.08374026833565,
+            "b": 324.02934,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "(a) Schematic diagram of pipeline statues",
+      "text": "(a) Schematic diagram of pipeline statues",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 249.6,
+            "t": 204.15197999999998,
+            "r": 372.32467123103476,
+            "b": 194.18934000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "(b) Signal of different states",
+      "text": "(b) Signal of different states",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 151.91989999999998,
+            "t": 178.88620000000003,
+            "r": 458.1717013527301,
+            "b": 166.91904480000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Figure 4: Experimental results of leakage location detection",
+      "text": "Figure 4: Experimental results of leakage location detection"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 110.88015999999996,
+            "t": 148.16629999999998,
+            "r": 499.40555932134436,
+            "b": 121.79914480000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        },
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 499.52617577472006,
+            "b": 636.8392448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            153,
+            256
+          ]
+        }
+      ],
+      "orig": "Leakage signals are collected by P 1 . As shown in Fig. 4(b), a total of 100 groups, 200000 per group samples are collected. To reduce the computational volume, data for this experience are cropped from the original data by 90000 data points to each state.",
+      "text": "Leakage signals are collected by P 1 . As shown in Fig. 4(b), a total of 100 groups, 200000 per group samples are collected. To reduce the computational volume, data for this experience are cropped from the original data by 90000 data points to each state."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 302.16016,
+            "t": 98.84640000000002,
+            "r": 308.0062528,
+            "b": 86.87924480000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.88,
+            "t": 617.00864,
+            "r": 366.7526727412479,
+            "b": 606.2370048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "3.2.2 Results of leakage location detection",
+      "text": "3.2.2 Results of leakage location detection",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.88,
+            "t": 595.4064,
+            "r": 499.48028026649615,
+            "b": 511.1994448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            423
+          ]
+        }
+      ],
+      "orig": "The 100 groups of measurements from three different leakage locations are separated into a training group and a test group. According to the observation density estimation method, the parameters of the Gaussian mixture model for each leakage state can be calculated by GMM based on EM algorithm. The maximum-likelihood number of Gaussian component was 3 estimated by GMM. The parameters of the HMM model are initialized as:",
+      "text": "The 100 groups of measurements from three different leakage locations are separated into a training group and a test group. According to the observation density estimation method, the parameters of the Gaussian mixture model for each leakage state can be calculated by GMM based on EM algorithm. The maximum-likelihood number of Gaussian component was 3 estimated by GMM. The parameters of the HMM model are initialized as:"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 206.64,
+            "t": 499.07840799999997,
+            "r": 403.5600792000003,
+            "b": 441.6128079999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "π 0 = [1 , 0 , 0] , A =   1 / 3 1 / 3 1 / 3 1 / 3 1 / 3 1 / 3 1 / 3 1 / 3 1 / 3   .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.88022000000029,
+            "t": 443.7267799999999,
+            "r": 499.48050550804527,
+            "b": 402.8393247999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "The parameters of the three states HMM model are reassessed by the Baum-Welch algorithm. After training the updated parameters obtained are as follows:",
+      "text": "The parameters of the three states HMM model are reassessed by the Baum-Welch algorithm. After training the updated parameters obtained are as follows:"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 195.4802200000003,
+            "t": 392.99838799999986,
+            "r": 414.8403392000006,
+            "b": 335.6526879999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "π = [0 , 0 , 1] , A =   0 . 232 0 . 357 0 . 411 0 0 . 525 0 . 475 0 . 539 0 . 102 0 . 359   .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.88048000000055,
+            "t": 337.64675999999986,
+            "r": 499.40668319047745,
+            "b": 253.55970479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            416
+          ]
+        }
+      ],
+      "orig": "Then, the testing is performed after the parameter optimization of HMM model. The model calculates the posterior probability when new testing data are fed. By maximizing the posterior probability, the predicted state will be obtained. The leakage location evaluation result is shown in Fig. 5. The accuracy of the testing performance between predicted state sequence and actual state sequence are approaching 94.81%.",
+      "text": "Then, the testing is performed after the parameter optimization of HMM model. The model calculates the posterior probability when new testing data are fed. By maximizing the posterior probability, the predicted state will be obtained. The leakage location evaluation result is shown in Fig. 5. The accuracy of the testing performance between predicted state sequence and actual state sequence are approaching 94.81%."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.88048000000055,
+            "t": 231.92269999999985,
+            "r": 311.72656528666266,
+            "b": 218.99677379999991,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "3.3 Crack depth inspection",
+      "text": "3.3 Crack depth inspection",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.88048000000055,
+            "t": 208.04899999999998,
+            "r": 256.83261757626934,
+            "b": 197.2773648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "3.3.1 Experiment setup",
+      "text": "3.3.1 Experiment setup",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 110.88048000000055,
+            "t": 186.44675999999993,
+            "r": 499.4565021754886,
+            "b": 116.7597047999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            378
+          ]
+        },
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 110.88009999999997,
+            "t": 418.0465,
+            "r": 499.45265398963204,
+            "b": 333.9594448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            379,
+            792
+          ]
+        }
+      ],
+      "orig": "The purpose of the experiment is to detect the depth of cracks utilizing PZT sensors. The experimental pipeline built at the University of Houston, consists of a section of galvanized steel pipe with a total length of 3 meters. A PZT array with sixteen PZT transducers are directly mounted on the pipeline to detect defection signal.Shown in Fig. 6. The guided wave is generated from sensors at the left side of pipe at the frequency of 50 kHz, propagates along the pipeline through the defect point, and received by the sensors at other side. This PZT array can detect the pipeline defect location based on time-reversal method and matching pursuit de-noising [24]. In addition, this PZT array has been used for underwater communication by using stress wave propagation along pipelines [25].",
+      "text": "The purpose of the experiment is to detect the depth of cracks utilizing PZT sensors. The experimental pipeline built at the University of Houston, consists of a section of galvanized steel pipe with a total length of 3 meters. A PZT array with sixteen PZT transducers are directly mounted on the pipeline to detect defection signal.Shown in Fig. 6. The guided wave is generated from sensors at the left side of pipe at the frequency of 50 kHz, propagates along the pipeline through the defect point, and received by the sensors at other side. This PZT array can detect the pipeline defect location based on time-reversal method and matching pursuit de-noising [24]. In addition, this PZT array has been used for underwater communication by using stress wave propagation along pipelines [25]."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 299.2804800000006,
+            "t": 98.8467599999999,
+            "r": 311.0066012720646,
+            "b": 86.87960479999992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 187.2,
+            "t": 452.3664,
+            "r": 423.04016426383384,
+            "b": 440.39924479999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Figure 5: Actual state vs. HMM predict state",
+      "text": "Figure 5: Actual state vs. HMM predict state"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 110.87999999999994,
+            "t": 331.40630000000004,
+            "r": 499.48042562022414,
+            "b": 276.11924479999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            260
+          ]
+        }
+      ],
+      "orig": "Three states, defect depth 1, defect depth 2, and defect depth 3, are chosen as the states in the left to right HMM model, which means the depth of the defect was increased unidirectionally. Received defect signal is collected from the right-hand side sensors.",
+      "text": "Three states, defect depth 1, defect depth 2, and defect depth 3, are chosen as the states in the left to right HMM model, which means the depth of the defect was increased unidirectionally. Received defect signal is collected from the right-hand side sensors."
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 110.87999999999994,
+            "t": 256.28864,
+            "r": 312.75233970562556,
+            "b": 245.5170048,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "3.3.2 Results of depth inspection",
+      "text": "3.3.2 Results of depth inspection",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 110.87999999999994,
+            "t": 234.80669999999998,
+            "r": 499.41480824345604,
+            "b": 164.99934480000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "The 154 group measurements from three defect depth inspection are separated into a training group and a test group. The parameters of the Gaussian mixture model are also calculated based on the observation density estimation method, where the number of Gaussian is set to 3. The parameters of the left to right HMM model are initialized as:",
+      "text": "The 154 group measurements from three defect depth inspection are separated into a training group and a test group. The parameters of the Gaussian mixture model are also calculated based on the observation density estimation method, where the number of Gaussian is set to 3. The parameters of the left to right HMM model are initialized as:"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 299.28,
+            "t": 98.84659999999997,
+            "r": 311.006121272064,
+            "b": 86.87944479999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "11",
+      "text": "11"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 172.8,
+            "t": 464.8464,
+            "r": 437.1431316409093,
+            "b": 452.8792448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Figure 6: Setup of the defect inspection experiment",
+      "text": "Figure 6: Setup of the defect inspection experiment"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 210.48010000000002,
+            "t": 415.43830799999995,
+            "r": 399.71999920000013,
+            "b": 357.9727079999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "π 0 = [1 , 0 , 0] , A =   0 . 9 0 . 1 0 0 0 . 9 0 . 1 0 0 1   .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88014000000015,
+            "t": 364.2862899999999,
+            "r": 499.3689488289282,
+            "b": 323.3992347999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "The parameters of the three states HMM model are also reassessed by the Baum-Welch algorithm. After training the updated parameters obtained are as follows:",
+      "text": "The parameters of the three states HMM model are also reassessed by the Baum-Welch algorithm. After training the updated parameters obtained are as follows:"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 195.48014000000015,
+            "t": 303.2382979999999,
+            "r": 414.8400192000003,
+            "b": 245.77269799999976,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "π = [1 , 0 , 0] , A =   0 . 974 0 . 026 0 0 0 . 976 0 . 024 0 0 1   .",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88016000000033,
+            "t": 252.0862699999998,
+            "r": 499.3765552000003,
+            "b": 196.79921479999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "By maximizing the posterior probability, the predicted state will be obtained. The crack depth inspection result is shown in Fig. 7. The accuracy of testing performance between predicted state sequence and actual state sequence are approaching 93.23%.",
+      "text": "By maximizing the posterior probability, the predicted state will be obtained. The crack depth inspection result is shown in Fig. 7. The accuracy of testing performance between predicted state sequence and actual state sequence are approaching 93.23%."
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88016000000033,
+            "t": 172.49054999999976,
+            "r": 240.54616838011836,
+            "b": 156.97947459999978,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "4 Conclusions",
+      "text": "4 Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 110.88016000000033,
+            "t": 143.1264699999998,
+            "r": 499.25876864563236,
+            "b": 116.75931479999974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        },
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 110.88,
+            "t": 429.92640000000006,
+            "r": 499.3771456514049,
+            "b": 331.3190448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            153,
+            646
+          ]
+        }
+      ],
+      "orig": "Pipeline leakage detection and crack depth identification are difficult especially in changing environment and time-varying operational conditions. This study applied a GMM-HMM based on a probabilistic damage evaluation method on pipeline leakage detection. The GMM-HMM method calculates the maximum log-likelihood recursively, which reveals the emission probability from hidden states to observable states. Thus, HMM can have a better description of the leakage by using observations from GMM which contains implicit damage indexes. The experiment performed on the pipeline showed great potential to deal with various leakage detection problems.",
+      "text": "Pipeline leakage detection and crack depth identification are difficult especially in changing environment and time-varying operational conditions. This study applied a GMM-HMM based on a probabilistic damage evaluation method on pipeline leakage detection. The GMM-HMM method calculates the maximum log-likelihood recursively, which reveals the emission probability from hidden states to observable states. Thus, HMM can have a better description of the leakage by using observations from GMM which contains implicit damage indexes. The experiment performed on the pipeline showed great potential to deal with various leakage detection problems."
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 299.28016000000036,
+            "t": 98.84636999999975,
+            "r": 311.00628127206437,
+            "b": 86.87921479999977,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 245.28,
+            "t": 464.12640000000005,
+            "r": 365.0229792749055,
+            "b": 452.1592448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Figure 7: HMM output",
+      "text": "Figure 7: HMM output"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 110.88,
+            "t": 312.08620000000013,
+            "r": 499.42282409292847,
+            "b": 285.5991448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "Funding This research was funded by National Science Foundation grant number 1801811.",
+      "text": "Funding This research was funded by National Science Foundation grant number 1801811."
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 110.88,
+            "t": 266.48620000000005,
+            "r": 499.49756349941816,
+            "b": 225.5991448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "Acknowledgments Thanks to Smart Materials and Structures Laboratory at the University of Houston for providing the pipeline leakage experimental data.",
+      "text": "Acknowledgments Thanks to Smart Materials and Structures Laboratory at the University of Houston for providing the pipeline leakage experimental data."
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 110.88,
+            "t": 200.6908800000001,
+            "r": 201.66623445181202,
+            "b": 185.17980460000012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 116.76008,
+            "t": 171.32640000000004,
+            "r": 499.42471835407366,
+            "b": 130.43934480000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "[1] M. Ho, S. El-Borgi, D. Patil, and G. Song, 'Inspection and monitoring systems subsea pipelines: A review paper,' Structural Health Monitoring , vol. 19, no. 2, pp. 606-645, 2020.",
+      "text": "M. Ho, S. El-Borgi, D. Patil, and G. Song, 'Inspection and monitoring systems subsea pipelines: A review paper,' Structural Health Monitoring , vol. 19, no. 2, pp. 606-645, 2020.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 299.28008,
+            "t": 98.84630000000004,
+            "r": 311.006201272064,
+            "b": 86.87914480000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "13",
+      "text": "13"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 116.76,
+            "t": 663.2064,
+            "r": 499.3306580357636,
+            "b": 622.3193448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "[2] M. A. Adegboye, W.-K. Fung, and A. Karnik, 'Recent advances in pipeline monitoring and oil leakage detection technologies: principles and approaches,' Sensors , vol. 19, no. 11, p. 2548, 2019.",
+      "text": "M. A. Adegboye, W.-K. Fung, and A. Karnik, 'Recent advances in pipeline monitoring and oil leakage detection technologies: principles and approaches,' Sensors , vol. 19, no. 11, p. 2548, 2019.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 116.76000000000002,
+            "t": 609.9267000000001,
+            "r": 499.4391159073283,
+            "b": 554.6396448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            230
+          ]
+        }
+      ],
+      "orig": "[3] G. Zhang, S. C. M. Ho, L. Huo, and J. Zhu, 'Negative pressure waves based high resolution leakage localization method using piezoceramic transducers and multiple temporal convolutions,' Sensors , vol. 19, no. 9, p. 1990, 2019.",
+      "text": "G. Zhang, S. C. M. Ho, L. Huo, and J. Zhu, 'Negative pressure waves based high resolution leakage localization method using piezoceramic transducers and multiple temporal convolutions,' Sensors , vol. 19, no. 9, p. 1990, 2019.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 116.76000000000002,
+            "t": 542.1267000000001,
+            "r": 499.43940693529623,
+            "b": 501.35954480000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "[4] J. Zhu, L. Ren, S.-C. Ho, Z. Jia, and G. Song, 'Gas pipeline leakage detection based on PZT sensors,' Smart Materials and Structures , vol. 26, no. 2, p. 025022, 2017.",
+      "text": "J. Zhu, L. Ren, S.-C. Ho, Z. Jia, and G. Song, 'Gas pipeline leakage detection based on PZT sensors,' Smart Materials and Structures , vol. 26, no. 2, p. 025022, 2017.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 116.76010000000011,
+            "t": 488.8466000000002,
+            "r": 499.4152159002115,
+            "b": 433.5595448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            250
+          ]
+        }
+      ],
+      "orig": "[5] Q. Hou, L. Ren, W. Jiao, P. Zou, and G. Song, 'An improved negative pressure wave method for natural gas pipeline leak location using FBG based strain sensor and wavelet transform,' Mathematical Problems in Engineering , vol. 2013, pp. 1-8, 2013.",
+      "text": "Q. Hou, L. Ren, W. Jiao, P. Zou, and G. Song, 'An improved negative pressure wave method for natural gas pipeline leak location using FBG based strain sensor and wavelet transform,' Mathematical Problems in Engineering , vol. 2013, pp. 1-8, 2013.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 116.76010000000005,
+            "t": 421.1665000000002,
+            "r": 499.31881122887694,
+            "b": 380.2794448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "[6] W. Liang, L. Zhang, Q. Xu, and C. Yan, 'Gas pipeline leakage detection based on acoustic technology,' Engineering Failure Analysis , vol. 31, pp. 1-7, 2013.",
+      "text": "W. Liang, L. Zhang, Q. Xu, and C. Yan, 'Gas pipeline leakage detection based on acoustic technology,' Engineering Failure Analysis , vol. 31, pp. 1-7, 2013.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 116.75919999999999,
+            "t": 367.76650000000024,
+            "r": 499.4457141053695,
+            "b": 312.47944480000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "[7] Y. Li and L. Sun, 'Leakage detection and location for long range oil pipeline using negative pressure wave technique,' in 2009 4th IEEE Conference on Industrial Electronics and Applications . IEEE, may 2009.",
+      "text": "Y. Li and L. Sun, 'Leakage detection and location for long range oil pipeline using negative pressure wave technique,' in 2009 4th IEEE Conference on Industrial Electronics and Applications . IEEE, may 2009.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 116.75929999999997,
+            "t": 300.08640000000025,
+            "r": 499.3588456246278,
+            "b": 259.1992448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "[8] Wikipedia contributors, 'Leak detection - Wikipedia, the free encyclopedia,' 2020, [Online; accessed 13-August-2020]. [Online]. Available: https://en.wikipedia.org/wiki/Leak detection",
+      "text": "Wikipedia contributors, 'Leak detection - Wikipedia, the free encyclopedia,' 2020, [Online; accessed 13-August-2020]. [Online]. Available: https://en.wikipedia.org/wiki/Leak detection",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 116.76000000000005,
+            "t": 246.8066,
+            "r": 499.55965920000006,
+            "b": 191.51914480000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            244
+          ]
+        }
+      ],
+      "orig": "[9] N. Li, X. Chen, and G. Song, 'Fatigue crack width detection based on the active sensing method: A feasibility study,' in 2019 IEEE 16th International Conference on Networking, Sensing and Control (ICNSC) , IEEE. IEEE, may 2019, pp. 186-189.",
+      "text": "N. Li, X. Chen, and G. Song, 'Fatigue crack width detection based on the active sensing method: A feasibility study,' in 2019 IEEE 16th International Conference on Networking, Sensing and Control (ICNSC) , IEEE. IEEE, may 2019, pp. 186-189.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 110.87980000000005,
+            "t": 179.00659999999993,
+            "r": 499.67893749534755,
+            "b": 123.71914479999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "[10] C. Wang, N. Wang, S.-C. Ho, X. Chen, M. Pan, and G. Song, 'Design of a novel wearable sensor device for real-time bolted joints health monitoring,' IEEE Internet of Things Journal , vol. 5, no. 6, pp. 5307-5316, 2018.",
+      "text": "C. Wang, N. Wang, S.-C. Ho, X. Chen, M. Pan, and G. Song, 'Design of a novel wearable sensor device for real-time bolted joints health monitoring,' IEEE Internet of Things Journal , vol. 5, no. 6, pp. 5307-5316, 2018.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 299.2799000000001,
+            "t": 98.84649999999999,
+            "r": 311.0060212720641,
+            "b": 86.87934480000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "14",
+      "text": "14"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 499.41852191677447,
+            "b": 622.3193448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "[11] P. Gong, M. Luo, L. Zhou, L. Jiang, and X. Chen, 'An image processing method for extraction of the stress wave reflection period,' Applied Sciences , vol. 10, no. 10, p. 3486, may 2020.",
+      "text": "P. Gong, M. Luo, L. Zhou, L. Jiang, and X. Chen, 'An image processing method for extraction of the stress wave reflection period,' Applied Sciences , vol. 10, no. 10, p. 3486, may 2020.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.88,
+            "t": 609.9267000000001,
+            "r": 499.4177163743236,
+            "b": 554.6396448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "[12] D. Chakraborty, N. Kovvali, A. Papandreou-Suppappola, and A. Chattopadhyay, 'An adaptive learning damage estimation method for structural health monitoring,' Journal of Intelligent Material Systems and Structures , vol. 26, no. 2, pp. 125-143, 2015.",
+      "text": "D. Chakraborty, N. Kovvali, A. Papandreou-Suppappola, and A. Chattopadhyay, 'An adaptive learning damage estimation method for structural health monitoring,' Journal of Intelligent Material Systems and Structures , vol. 26, no. 2, pp. 125-143, 2015.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.88,
+            "t": 542.1267000000001,
+            "r": 499.4392471449603,
+            "b": 486.83964480000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "[13] J.-H. Yang and H.-F. Lam, 'An efficient adaptive sequential Monte Carlo method for Bayesian model updating and damage detection,' Structural Control and Health Monitoring , vol. 25, no. 12, p. e2260, 2018.",
+      "text": "J.-H. Yang and H.-F. Lam, 'An efficient adaptive sequential Monte Carlo method for Bayesian model updating and damage detection,' Structural Control and Health Monitoring , vol. 25, no. 12, p. e2260, 2018.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.88000000000002,
+            "t": 474.44660000000016,
+            "r": 499.43911278289954,
+            "b": 433.55954480000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            212
+          ]
+        }
+      ],
+      "orig": "[14] Z. Li, J. Han, J. Sun, Y. He, and F. Chu, 'Fault recognition method based on independent component analysis and hidden markov model,' Journal of Vibration and Control , vol. 13, no. 2, pp. 125-137, feb 2007.",
+      "text": "Z. Li, J. Han, J. Sun, Y. He, and F. Chu, 'Fault recognition method based on independent component analysis and hidden markov model,' Journal of Vibration and Control , vol. 13, no. 2, pp. 125-137, feb 2007.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.88000000000005,
+            "t": 421.16650000000016,
+            "r": 499.43923564492826,
+            "b": 380.27944480000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "[15] L. R. Rabiner, 'A tutorial on hidden Markov models and selected applications in speech recognition,' Proceedings of the IEEE , vol. 77, no. 2, pp. 257-286, 1989.",
+      "text": "L. R. Rabiner, 'A tutorial on hidden Markov models and selected applications in speech recognition,' Proceedings of the IEEE , vol. 77, no. 2, pp. 257-286, 1989.",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.88100000000009,
+            "t": 367.7665000000002,
+            "r": 499.4192385881859,
+            "b": 326.9993448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "[16] A. D. Wilson and A. F. Bobick, 'Parametric hidden markov models for gesture recognition,' IEEE Transactions on Pattern Analysis and Machine Intelligence , vol. 21, no. 9, pp. 884-900, 1999.",
+      "text": "A. D. Wilson and A. F. Bobick, 'Parametric hidden markov models for gesture recognition,' IEEE Transactions on Pattern Analysis and Machine Intelligence , vol. 21, no. 9, pp. 884-900, 1999.",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.88100000000009,
+            "t": 314.48640000000023,
+            "r": 499.41690635504636,
+            "b": 273.7192448000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "[17] M. A. Mohamed and P. Gader, 'Generalized hidden Markov models. II. Application to handwritten word recognition,' IEEE Transactions on Fuzzy Systems , vol. 8, no. 1, pp. 82-94, 2000.",
+      "text": "M. A. Mohamed and P. Gader, 'Generalized hidden Markov models. II. Application to handwritten word recognition,' IEEE Transactions on Fuzzy Systems , vol. 8, no. 1, pp. 82-94, 2000.",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.88100000000007,
+            "t": 261.2067000000002,
+            "r": 499.3444880000001,
+            "b": 234.83954480000023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "[18] T. Xia and X. Chen, 'A discrete hidden markov model for SMS spam detection,' Applied Sciences , vol. 10, no. 14, p. 5011, jul 2020.",
+      "text": "T. Xia and X. Chen, 'A discrete hidden markov model for SMS spam detection,' Applied Sciences , vol. 10, no. 14, p. 5011, jul 2020.",
+      "enumerated": true,
+      "marker": "[18]"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.88100000000011,
+            "t": 222.3266000000002,
+            "r": 499.4254040274177,
+            "b": 167.03954480000027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            229
+          ]
+        }
+      ],
+      "orig": "[19] R. Rammohan and M. R. Taha, 'Exploratory investigations for intelligent damage prognosis using hidden Markov models,' in 2005 IEEE International Conference on Systems, Man and Cybernetics , vol. 2. IEEE, 2005, pp. 1524-1529.",
+      "text": "R. Rammohan and M. R. Taha, 'Exploratory investigations for intelligent damage prognosis using hidden Markov models,' in 2005 IEEE International Conference on Systems, Man and Cybernetics , vol. 2. IEEE, 2005, pp. 1524-1529.",
+      "enumerated": true,
+      "marker": "[19]"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 110.88100000000014,
+            "t": 154.6465000000003,
+            "r": 499.4401946772997,
+            "b": 128.1594448000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "[20] C. Tschope and M. Wolff, 'Statistical classifiers for structural health monitoring,' IEEE Sensors Journal , vol. 9, no. 11, pp. 1567-1576, 2009.",
+      "text": "C. Tschope and M. Wolff, 'Statistical classifiers for structural health monitoring,' IEEE Sensors Journal , vol. 9, no. 11, pp. 1567-1576, 2009.",
+      "enumerated": true,
+      "marker": "[20]"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 299.28090000000014,
+            "t": 98.84650000000022,
+            "r": 311.00702127206415,
+            "b": 86.87934480000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.88,
+            "t": 663.2064,
+            "r": 499.41779233653773,
+            "b": 607.9193448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "[21] S. Torkamani, S. Roy, M. E. Barkey, E. Sazonov, S. Burkett, and S. Kotru, 'A novel damage index for damage identification using guided waves with application in laminated composites,' Smart Materials and Structures , vol. 23, no. 9, p. 095015, 2014.",
+      "text": "S. Torkamani, S. Roy, M. E. Barkey, E. Sazonov, S. Burkett, and S. Kotru, 'A novel damage index for damage identification using guided waves with application in laminated composites,' Smart Materials and Structures , vol. 23, no. 9, p. 095015, 2014.",
+      "enumerated": true,
+      "marker": "[21]"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.88,
+            "t": 595.5267000000001,
+            "r": 499.33156981760004,
+            "b": 554.6396448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "[22] H. Mei, S. Yuan, L. Qiu, and J. Zhang, 'Damage evaluation by a guided wave-hidden Markov model based method,' Smart Materials and Structures , vol. 25, no. 2, p. 025021, 2016.",
+      "text": "H. Mei, S. Yuan, L. Qiu, and J. Zhang, 'Damage evaluation by a guided wave-hidden Markov model based method,' Smart Materials and Structures , vol. 25, no. 2, p. 025021, 2016.",
+      "enumerated": true,
+      "marker": "[22]"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.88,
+            "t": 542.1267000000001,
+            "r": 499.319805580493,
+            "b": 515.7595448000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "[23] C. M. Bishop, Pattern recognition and machine learning . springer, 2006.",
+      "text": "C. M. Bishop, Pattern recognition and machine learning . springer, 2006.",
+      "enumerated": true,
+      "marker": "[23]"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.88,
+            "t": 503.36650000000014,
+            "r": 499.43980027929615,
+            "b": 447.9595448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "[24] Y. Xu, M. Luo, Q. Liu, G. Du, and G. Song, 'PZT transducer array enabled pipeline defect locating based on time-reversal method and matching pursuit de-noising,' Smart Materials and Structures , vol. 28, no. 7, p. 075019, jun 2019.",
+      "text": "Y. Xu, M. Luo, Q. Liu, G. Du, and G. Song, 'PZT transducer array enabled pipeline defect locating based on time-reversal method and matching pursuit de-noising,' Smart Materials and Structures , vol. 28, no. 7, p. 075019, jun 2019.",
+      "enumerated": true,
+      "marker": "[24]"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 110.88000000000005,
+            "t": 435.56650000000013,
+            "r": 499.4453430694656,
+            "b": 394.6794448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "[25] S. He, N. Wang, M. Ho, J. Zhu, and G. Song, 'Design of a new stress wave communication method for underwater communication,' IEEE Transactions on Industrial Electronics , 2020.",
+      "text": "S. He, N. Wang, M. Ho, J. Zhu, and G. Song, 'Design of a new stress wave communication method for underwater communication,' IEEE Transactions on Industrial Electronics , 2020.",
+      "enumerated": true,
+      "marker": "[25]"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 299.28000000000003,
+            "t": 98.84660000000008,
+            "r": 311.00612127206404,
+            "b": 86.8794448000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "16",
+      "text": "16"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 161.96347045898438,
+            "t": 611.5585327148438,
+            "r": 447.6988220214844,
+            "b": 412.6726379394531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 153.48304748535156,
+            "t": 662.4523620605469,
+            "r": 452.6170654296875,
+            "b": 561.5883636474609,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 139.35311889648438,
+            "t": 540.4136962890625,
+            "r": 282.8230285644531,
+            "b": 451.8754577636719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 148.77670288085938,
+            "t": 415.1660461425781,
+            "r": 272.6713562011719,
+            "b": 288.5653076171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 324.0824890136719,
+            "t": 532.9158935546875,
+            "r": 460.47900390625,
+            "b": 449.2398376464844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 330.7041015625,
+            "t": 401.59881591796875,
+            "r": 454.8741149902344,
+            "b": 307.15997314453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 216.9727783203125,
+            "t": 428.21343994140625,
+            "r": 389.7751159667969,
+            "b": 347.5373840332031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 236.3046112060547,
+            "t": 314.0586242675781,
+            "r": 384.40869140625,
+            "b": 214.55584716796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/103"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 170.5188751220703,
+            "t": 662.6651153564453,
+            "r": 431.2842712402344,
+            "b": 474.099609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/103"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/108"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 140.36642456054688,
+            "t": 655.6215515136719,
+            "r": 453.7901916503906,
+            "b": 498.01605224609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/108"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/116"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 176.0292510986328,
+            "t": 660.1688232421875,
+            "r": 419.7816162109375,
+            "b": 482.8101806640625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/116"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 12
+    },
+    "13": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 13
+    },
+    "14": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 14
+    },
+    "15": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 15
+    },
+    "16": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 16
+    }
+  }
+}

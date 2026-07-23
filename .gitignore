@@ -156,3 +156,11 @@ output.yaml
 
 # Unused code snippets
 *_dead_ends/
+
+# Database & Large Data Assets
+second_brain.db
+*.db
+*.sqlite
+*.sqlite3
+data/pdfs/
+data/parsed/

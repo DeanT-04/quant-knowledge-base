@@ -17,6 +17,20 @@
 
 ---
 
+## 🧠 Quantitative Finance Second Brain Engine
+
+`quant-knowledge-base` includes a production-grade **Quantitative Finance Second Brain Engine** connected to a corpus of **1,640+ research papers**, an SQLite FTS5 full-text search index, a Graphify topological knowledge graph, and an Agent Wiki system.
+
+### ⚡ Second Brain Key Capabilities
+
+- 🔍 **Instant Hybrid Retrieval**: Dual SQLite FTS5 text search + Graphify 1-hop knowledge graph topological retrieval (< 280 ms latency).
+- 🧠 **Agentic Skill (`quant-second-brain`)**: Integrated slash command and agent skill with enforced ANSI UTF-8 rounded-box terminal formatting.
+- 🧮 **LaTeX & Mathematical Formula Extraction**: Retrieves exact mathematical formulations, proofs, and definitions across research papers.
+- 📊 **Subsystem Agent Wiki**: Auto-generated community knowledge articles mapping paper networks and concept domains (`graphify-out/wiki/`).
+- ⏱️ **Token-Optimized CLI (`scripts/quant_brain_cli.py`)**: Minified JSON output (< 500 tokens) supporting broad research synthesis and direct paper inspections (`--paper-id`).
+
+---
+
 ## ⚡ Key Highlights
 
 `pdf2yaml` converts academic research papers, quantitative finance reports, and technical PDFs into a **clean, strongly-typed, layout-aware YAML document structure** specifically optimized for AI agents, RAG vector indexers, and LLM context windows.
@@ -97,8 +111,11 @@ pdf2yaml data/pdfs/ -o data/parsed/
 # 5. Preview mode (fast test on first 3 pages of each PDF)
 pdf2yaml --preview
 
-# 6. OCR mode for scanned documents
-pdf2yaml scanned_document.pdf --ocr tesseract --lang deu
+# 7. Query Quantitative Second Brain (FTS5 + Knowledge Graph)
+python scripts/quant_brain_cli.py --query "Black-Scholes PDE math" --compact
+
+# 8. Direct Paper Inspection by ID
+python scripts/quant_brain_cli.py --paper-id "arXiv:2407.09557" --top-sections 3 --compact
 ```
 
 ### CLI Command Options

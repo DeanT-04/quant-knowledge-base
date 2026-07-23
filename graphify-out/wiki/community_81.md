@@ -1,0 +1,26 @@
+# Volatility Atr Indicators Group (17 nodes)
+
+**Community ID**: 81 | **Total Nodes**: 17
+
+## Key Nodes
+
+- `Author:Abstract—In_this_paper` (concept): Author: Abstract—In this paper
+- `Author:Francisco_Pernice` (concept): Author: Francisco Pernice
+- `Author:I.` (concept): Author: I.
+- `Author:Perfect_channel-output_feedback_(POF)_has_been_shown` (concept): Author: Perfect channel-output feedback (POF) has been shown
+- `Author:the_capacity_region_of_the_two-user` (concept): Author: the capacity region of the two-user
+- `Author:the_problem_of_pilot_beam_pattern` (concept): Author: the problem of pilot beam pattern
+- `Formula:Math_1288` (concept): Formula: pi = 1...
+- `Formula:Math_1289` (concept): Formula: ∆2 = 2...
+- `Formula:Math_1290` (concept): Formula: 22 = 3
+allows simultaneous improvement o...
+- `Formula:Math_1291` (concept): Formula: ∆1 = 2...
+- `Formula:Math_1292` (concept): Formula: ∆2 = 3...
+- `Formula:Math_1293` (concept): Formula: R2 = 11...
+- `Formula:Math_1294` (concept): Formula: 22 = 8 allows simultaneous
+improvement o...
+- `Formula:Math_1295` (concept): Formula: 11 = 8
+exclusively improves R2. (b) Incr...
+- `arXiv:1309.7430` (paper): Paper: Pilot Beam Pattern Design for Channel Estimation
+- `arXiv:1502.04649` (paper): Paper: Noisy Channel-Output Feedback Capacity of the
+- `arXiv:2202.03633` (paper): Paper: On the Symmetries of the Deletion Channel

@@ -17,6 +17,21 @@
 
 ---
 
+## 📍 Table of Contents
+
+- ⚡ [Key Highlights](#-key-highlights)
+- 🔄 [Pipeline Architecture & Workflow](#-pipeline-architecture--workflow)
+- 🛠️ [Installation](#%EF%B8%8F-installation)
+- 💻 [CLI Usage](#-cli-usage)
+- 🐍 [Python API Usage](#-python-api-usage)
+- 📄 [Output YAML Schema Example](#-output-yaml-schema-example)
+- 📚 [Project Documentation](#-project-documentation)
+- 🧠 [Quantitative Finance Second Brain Engine](#-quantitative-finance-second-brain-engine)
+- 🧪 [Testing & Verification](#-testing--verification)
+- 📜 [License](#-license)
+
+---
+
 ## ⚡ Key Highlights
 
 `pdf2yaml` converts academic research papers, quantitative finance reports, and technical PDFs into a **clean, strongly-typed, layout-aware YAML document structure** specifically optimized for AI agents, RAG vector indexers, and LLM context windows.

@@ -17,20 +17,6 @@
 
 ---
 
-## 🧠 Quantitative Finance Second Brain Engine
-
-`quant-knowledge-base` includes a production-grade **Quantitative Finance Second Brain Engine** connected to a corpus of **1,640+ research papers**, an SQLite FTS5 full-text search index, a Graphify topological knowledge graph, and an Agent Wiki system.
-
-### ⚡ Second Brain Key Capabilities
-
-- 🔍 **Instant Hybrid Retrieval**: Dual SQLite FTS5 text search + Graphify 1-hop knowledge graph topological retrieval (< 280 ms latency).
-- 🧠 **Agentic Skill (`quant-second-brain`)**: Integrated slash command and agent skill with enforced ANSI UTF-8 rounded-box terminal formatting.
-- 🧮 **LaTeX & Mathematical Formula Extraction**: Retrieves exact mathematical formulations, proofs, and definitions across research papers.
-- 📊 **Subsystem Agent Wiki**: Auto-generated community knowledge articles mapping paper networks and concept domains (`graphify-out/wiki/`).
-- ⏱️ **Token-Optimized CLI (`scripts/quant_brain_cli.py`)**: Minified JSON output (< 500 tokens) supporting broad research synthesis and direct paper inspections (`--paper-id`).
-
----
-
 ## ⚡ Key Highlights
 
 `pdf2yaml` converts academic research papers, quantitative finance reports, and technical PDFs into a **clean, strongly-typed, layout-aware YAML document structure** specifically optimized for AI agents, RAG vector indexers, and LLM context windows.
@@ -203,6 +189,16 @@ pages:
 Detailed project architecture and security reports are available in the [doc/](doc/) folder:
 - 📖 [API Specification](doc/API.md)
 - 🔒 [Security Best Practices Report](doc/security_best_practices_report.md)
+
+---
+
+## 🧠 Quantitative Finance Second Brain Engine
+
+This repository also includes an enterprise-grade **Quantitative Finance Second Brain Engine** connected to a corpus of **1,640+ research papers**, SQLite FTS5 full-text index, Graphify 1-hop topological knowledge graph, and Agent Wiki system.
+
+For full architectural details, pipeline diagrams, empirical knowledge base statistics, and CLI search commands, see the dedicated guide:
+
+👉 **[Quantitative Finance Second Brain Engine Documentation (QUANT_SECOND_BRAIN.md)](QUANT_SECOND_BRAIN.md)**
 
 ---
 
